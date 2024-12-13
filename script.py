@@ -46,8 +46,8 @@ def translate_to_chinese(text):
 # 更新README.md文件，添加英文和中文内容
 def update_readme(english_content, chinese_content):
     with open("README.md", "w", encoding="utf-8") as file:
-        file.write(f"# History of Today \n\n{english_content}\n\n*Data from muffinlabs \n\n")
-        file.write(f"# 历史上的今天 \n\n{chinese_content}\n\n*由自动化脚本生成*")
+        file.write(f"# History of Today \n\n{english_content}\n\n*Data from muffinlabs* \n\n")
+        file.write(f"# 历史上的今天 \n\n{chinese_content}\n\n*由googletrans翻译*")
 
 if __name__ == "__main__":
     # 获取并保存英文内容
