@@ -1,69 +1,69 @@
 # History of Today 
 
-- 2014: The United States and Cuba re-establish diplomatic relations after severing them in 1961.
-- 2010: Mohamed Bouazizi sets himself on fire. This act became the catalyst for the Tunisian Revolution and the wider Arab Spring.
-- 2009: MV Danny F II sinks off the coast of Lebanon, resulting in the deaths of 44 people and over 28,000 animals.
-- 2005: Jigme Singye Wangchuck abdicates the throne as King of Bhutan.
-- 2005: Anti-World Trade Organization protesters riot in Wan Chai, Hong Kong.
-- 2003: Sex work rights activists establish December 17 (or "D17") as International Day to End Violence Against Sex Workers to memorialize victims of a serial killer who targeted prostitutes, and highlight State violence against sex workers by police and others.
-- 2003: SpaceShipOne, piloted by Brian Binnie, makes its first powered and first supersonic flight.
-- 2003: The Soham murder trial ends at the Old Bailey in London, with Ian Huntley found guilty of two counts of murder.  His girlfriend, Maxine Carr, is found guilty of perverting the course of justice.
-- 2002: Second Congo War: The Congolese parties of the Inter Congolese Dialogue sign a peace accord which makes provision for transitional governance and legislative and presidential elections within two years.
-- 1997: Aerosvit Flight 241: A Yakovlev Yak-42 crashes into the Pierian Mountains near Thessaloniki Airport in Thessaloniki, Greece, killing all 70 people on board.
-- 1997: Peruvian internal conflict: 14 members of the Túpac Amaru Revolutionary Movement provoke a hostage crisis by taking over the Japanese embassy in Lima.
-- 1989: The Simpsons premieres on television with the episode "Simpsons Roasting on an Open Fire".
-- 1989: Fernando Collor de Mello defeats Luiz Inácio Lula da Silva in the second round of the Brazilian presidential election, becoming the first democratically elected President in almost 30 years.
-- 1989: Romanian Revolution: Protests continue in Timișoara, Romania, with rioters breaking into the Romanian Communist Party's District Committee building and attempting to set it on fire.
-- 1983: Provisional IRA members detonate a car bomb at Harrods Department Store in London. Three police officers and three civilians are killed.
-- 1981: American Brigadier General James L. Dozier is abducted by the Red Brigades in Verona, Italy.
-- 1973: Thirty passengers are killed in an attack by Palestinian terrorists on Rome's Leonardo da Vinci-Fiumicino Airport.
-- 1970: Polish protests: In Gdynia, soldiers fire at workers emerging from trains, killing dozens.
-- 1969: Project Blue Book: The United States Air Force closes its study of UFOs.
-- 1967: Harold Holt, Prime Minister of Australia, disappears while swimming near Portsea, Victoria, and is presumed drowned.
-- 1961: Niterói circus fire: Fire breaks out during a performance by the Gran Circus Norte-Americano in the city of Niterói, Rio de Janeiro, Brazil, killing more than 500.
-- 1960: Munich C-131 crash: Twenty passengers and crew on board as well as 32 people on the ground are killed.
-- 1960: Troops loyal to Emperor Haile Selassie in Ethiopia crush the coup that began December 13, returning power to their leader upon his return from Brazil. Haile Selassie absolves his son of any guilt.
-- 1957: The United States successfully launches the first Atlas intercontinental ballistic missile at Cape Canaveral, Florida.
-- 1951: The American Civil Rights Congress delivers "We Charge Genocide" to the United Nations.
-- 1950: The F-86 Sabre's first mission over Korea.
-- 1948: The Finnish Security Police is established to remove communist leadership from its predecessor, the State Police.
-- 1947: First flight of the Boeing B-47 Stratojet strategic bomber.
-- 1945: Kurdistan flag day, the flag of Kurdistan was raised for the first time in Mahabad in eastern Kurdistan (Iran).
-- 1944: World War II: Battle of the Bulge: Malmedy massacre: American 285th Field Artillery Observation Battalion POWs are shot by Waffen-SS Kampfgruppe Joachim Peiper.
+- 2016: A vehicular attack in Berlin, Germany, kills and injures multiple people at a Christmas market.
+- 2016: Russian ambassador to Turkey Andrei Karlov is assassinated while at an art exhibition in Ankara. The assassin, Mevlüt Mert Altıntaş, is shot and killed by a Turkish guard.
+- 2013: Spacecraft Gaia is launched by the European Space Agency.
+- 2012: Park Geun-hye is elected the first female president of South Korea.
+- 2005: Chalk's Ocean Airways Flight 101 crashes into the Government Cut channel immediately after takeoff from Miami Seaplane Base, killing 20.
+- 2001: Argentine economic crisis: December riots: Riots erupt in Buenos Aires, Argentina.
+- 2001: A record high barometric pressure of 1,085.6 hectopascals (32.06 inHg) is recorded at Tosontsengel, Khövsgöl, Mongolia.
+- 2000: The Leninist Guerrilla Units wing of the Communist Labour Party of Turkey/Leninist attack a Nationalist Movement Party office in Istanbul, Turkey, killing one person and injuring three.
+- 1999: Space Shuttle Discovery is launched on STS-103, the third Hubble Space Telescope servicing mission.
+- 1998: President Bill Clinton is impeached by the United States House of Representatives, becoming the second president of the United States to be impeached.
+- 1997: SilkAir Flight 185 crashes into the Musi River, near Palembang in Indonesia, killing 104.
+- 1995: The United States Government restores federal recognition to the Nottawaseppi Huron Band of Potawatomi Native American tribe.
+- 1986: Mikhail Gorbachev, leader of the Soviet Union, releases Andrei Sakharov and his wife from exile in Gorky.
+- 1985: Aeroflot Flight 101/435 is hijacked to China by its first officer.
+- 1984: The Sino-British Joint Declaration, stating that China would resume the exercise of sovereignty over Hong Kong and the United Kingdom would restore Hong Kong to China with effect from July 1, 1997, is signed in Beijing by Deng Xiaoping and Margaret Thatcher.
+- 1983: The original FIFA World Cup trophy, the Jules Rimet Trophy, is stolen from the headquarters of the Brazilian Football Confederation in Rio de Janeiro, Brazil.
+- 1981: Sixteen lives are lost when the Penlee lifeboat goes to the aid of the stricken coaster Union Star in heavy seas.
+- 1977: The Ms  5.8 Bob-Tangol earthquake strikes Kerman Province in Iran, destroying villages and killing 665 people.
+- 1974: Nelson Rockefeller is sworn in as Vice President of the United States under President Gerald Ford under the provisions of the Twenty-fifth Amendment to the United States Constitution.
+- 1972: Apollo program: The last crewed lunar flight, Apollo 17, carrying Eugene Cernan, Ronald Evans, and Harrison Schmitt, returns to Earth.
+- 1967: Harold Holt, the Prime Minister of Australia, is officially presumed dead.
+- 1961: India annexes Daman and Diu, part of Portuguese India.
+- 1956: Irish-born physician John Bodkin Adams is arrested in connection with the suspicious deaths of more than 160 patients. Eventually he is convicted only of minor charges.
+- 1946: Start of the First Indochina War.
+- 1945: John Amery, British Fascist, is executed at the age of 33 by the British Government for treason.
+- 1941: World War II: Limpet mines placed by Italian divers heavily damage HMS Valiant and HMS Queen Elizabeth in Alexandria harbour.
+- 1941: World War II: Adolf Hitler appoints himself as head of the Oberkommando des Heeres.
+- 1940: Risto Ryti, the Prime Minister of Finland,  is elected President of the Republic of Finland in a presidential election, which is exceptionally held by the 1937 electoral college.
+- 1932: BBC World Service begins broadcasting as the BBC Empire Service.
+- 1929: The Indian National Congress promulgates the Purna Swaraj (the Declaration of the Independence of India).
 
 *Data from muffinlabs* 
 
 # 历史上的今天 
 
-- -  2014年：美国和古巴在1961年切断后重建了外交关系。
-- -  2010年：Mohamed Bouazizi着火了。该行为成为突尼斯革命和更广泛的阿拉伯之春的催化剂。
-- -  2009年：MV Danny F II在黎巴嫩海岸下沉，导致44人死亡和28,000多只动物死亡。
-- -  2005年：Jigme Singye Wangchuck退位为不丹国王。
-- -  2005年：在香港万柴的反世界贸易组织抗议者暴动。
-- -  2003年：性工作权利活动家将12月17日（或“ D17”）建立为国际日，以结束针对性工作者的暴力行为，以纪念针对妓女的连环杀手的受害者，并强调警察和其他人对性工作者对性工作者的暴力行为。
-- -  2003年：由Brian Binnie驾驶的太空飞船进行了首次动力和第一次超音速飞行。
-- -  2003年：SOHAM谋杀案审判在伦敦的老贝利结束，伊恩·亨特利（Ian Huntley）被判犯有两项谋杀罪。他的女友Maxine Carr被判犯有正义进程的罪名。
-- -  2002年：刚果第二战争：刚果国际对话的刚果政党签署了一项和平协议，该协议在两年内为过渡治理以及立法和总统选举提供了规定。
-- -  1997年：Aerosvit航班241：Yakovlev Yak-42撞上希腊塞萨洛尼基塞萨洛尼基机场附近的皮里安山脉，杀死了所有70人。
-- -  1997年：秘鲁内部冲突：图帕克·阿马鲁（TúpacAmaru）革命运动的14名成员通过接管日本大使馆在利马（Lima）造成了人质危机。
-- -  1989年：辛普森一家在电视上首映，剧集是“辛普森一家在开火上烤”。
-- -  1989年：Fernando Collor de Mello在巴西总统大选的第二轮比赛中击败了路易斯·纳西奥·卢拉·达·席尔瓦（LuizInácioLulada Silva），成为近30年来首位民主选举的总统。
-- -  1989年：罗马尼亚革命：抗议活动在罗马尼亚的蒂米奥拉（Timișoara）继续进行，暴徒闯入了罗马尼亚共产党的地区委员会大楼，并试图着火。
-- -  1983年：临时IRA成员在伦敦的Harrods百货商店引爆了汽车炸弹。三名警察和三名平民被杀。
-- -  1981年：美国准将詹姆斯·L·多齐耶（James L. Dozier）被意大利维罗纳市的红旅绑架。
-- -  1973年：巴勒斯坦恐怖分子在罗马的莱昂纳多·达·芬奇 - 菲米奇诺机场的一次袭击中被杀害。
-- -  1970年：波兰抗议活动：在吉迪尼亚，士兵向火车出现的工人开火，杀死了数十人。
-- -  1969年：蓝皮书项目：美国空军关闭了对不明飞行物的研究。
-- -  1967年：澳大利亚总理哈罗德·霍尔特（Harold Holt）在维多利亚州波特西（Portsea）附近游泳时消失，并被认为被淹死。
-- -  1961年：Niterói马戏团大火：格兰马戏团Norte-Americano在巴西里约热内卢市的Niterói市的演出中爆发了大火，杀死了500多人。
-- -  1960年：慕尼黑C-131撞车事故：船上有20名乘客和船员以及32人被杀。
-- -  1960年：忠于埃塞俄比亚皇帝海尔·塞拉西（Haile Selassie）的部队摧毁了12月13日开始的政变，从巴西返回时将权力归还给他们的领导人。海尔·塞拉西（Haile Selassie）免除了他的儿子。
-- -  1957年：美国在佛罗里达州卡纳维拉尔（Cape Canaveral）成功推出了第一批地图集洲际弹道导弹。
-- -  1951年：美国民权大会向联合国提供“我们为种族灭绝罪。
-- -  1950年：F-86军刀对韩国的第一个任务。
-- -  1948年：成立了芬兰安全警察，以从其前任警察中撤出共产党领导人。
-- -  1947年：波音B-47 Stratojet战略轰炸机的第一架飞行。
-- -  1945年：库尔德旗日，库尔德斯坦的旗帜是在库尔德斯坦东部（伊朗）首次抬高的。
-- -  1944年：第二次世界大战：爆炸之战：马尔德迪大屠杀：美国第285场炮兵观察营的战俘是由Waffen-SS Kampfgruppe Joachim Peiper拍摄的。
+- -  2016年：在德国柏林发生的车辆袭击，在圣诞节市场杀死并伤害了多人。
+- -  2016年：俄罗斯驻土耳其安德烈·卡洛夫（Andrei Karlov）大使在安卡拉的一次艺术展览中被暗杀。刺客MevlütMertAltıntaş被土耳其警卫枪杀。
+- -  2013年：航天器Gaia由欧洲航天局推出。
+- -  2012年：Park Geun-Hye当选为韩国的第一任女总统。
+- -  2005年：从迈阿密水上飞机基地起飞后，粉笔的海洋航空公司101航班坠毁在政府切割通道，杀死了20。
+- -  2001年：阿根廷经济危机：12月骚乱：阿根廷布宜诺斯艾利斯的骚乱爆发。
+- -2001：在蒙古的托桑格尔（Tosontsengel）记录了创纪录的1,085.6公升的高气压（32.06 INHG）。
+- -  2000年：土耳其/列宁主义攻击共产主义工党的列宁主义游击队部队在土耳其伊斯坦布尔的民族主义运动党办公室袭击了一个人，杀死了一个人并炸伤三人。
+- -  1999年：航天飞机发现是在第三个哈勃太空望远镜服务任务的STS-103上启动的。
+- -  1998年：总统比尔·克林顿（Bill Clinton）被美国众议院弹each，成为美国的第二任总统。
+- -  1997年：丝绸航空185号航班撞向印度尼西亚Palembang附近的Musi河，杀死104。
+- -  1995年：美国政府恢复了对美国原住民部落的诺塔瓦塞皮休伦乐队的联邦认可。
+- -  1986年：苏联领导人米哈伊尔·戈尔巴乔夫（Mikhail Gorbachev）释放了安德烈·萨哈罗夫（Andrei Sakharov）和他的妻子从戈尔基（Gorky）流放。
+- -  1985年：Aeroflot航班101/435被其第一任官员劫持到中国。
+- -  1984年：中英国联合宣言，指出中国将恢复对香港和英国的主权行使，从1997年7月1日起生效，邓吉·米奥帕特（Deng Xiaoping）和玛格丽特·泰切尔（Margaret thatcher）在北京签署了香港的主权。。
+- -  1983年：原始的国际足联世界杯奖杯，朱尔斯·里黑色奖杯（Jules Rimet Trophy），被巴西在巴西里约热内卢的巴西足球联合会总部被盗。
+- -  1981年：当宾夕法尼亚州救生艇朝着大海中陷入困境的过山车联盟之星的帮助时，16人的生命丧生。
+- -  1977年：MS 5.8 Bob-Tangol地震袭击了伊朗的克尔曼省，摧毁了村庄并杀死了665人。
+- -  1974年：纳尔逊·洛克菲勒（Nelson Rockefeller）在杰拉尔德·福特（Gerald Ford）总统的《美国宪法》第25修正案的规定下宣誓就任美国副总统。
+- -  1972年：阿波罗计划：最后一次船员的月球飞行，阿波罗17号，载有尤金·塞南（Eugene Cernan），罗纳德·埃文斯（Ronald Evans）和哈里森·施密特（Harrison Schmitt），返回地球。
+- -  1967年：澳大利亚总理哈罗德·霍尔特（Harold Holt）正式被认为死亡。
+- -  1961年：印度吞并葡萄牙印度的一部分Daman和Diu。
+- -  1956年：出生于爱尔兰的医师约翰·博德金·亚当斯（John Bodkin Adams）因160多名患者的可疑死亡而被捕。最终，他只因小指控而被定罪。
+- -  1946年：第一次印度支那战争开始。
+- -  1945年：英国法西斯主义者约翰·阿默里（John Amery）在33岁时被英国政府叛国罪执行。
+- -  1941年：第二次世界大战：意大利潜水员在亚历山大港（Alexandria Harbour）造成的lig矿和伊丽莎白女王伊丽莎白（HMS Queen Elizabeth）所占据的lig矿。
+- -  1941年：第二次世界大战：阿道夫·希特勒（Adolf Hitler）任命自己为Oberkommando des Heeres的负责人。
+- -  1940年：芬兰总理瑞斯托·雷蒂（Risto Ryti）在总统选举中当选为芬兰共和国总统，该选举由1937年选举学院特殊举行。
+- -  1932年：英国广播公司（BBC World Service）开始作为BBC帝国服务（BBC Empire Service）广播。
+- -  1929年：印度国民大会颁布了Purna Swaraj（印度独立的宣言）。
 
 *由googletrans翻译*
