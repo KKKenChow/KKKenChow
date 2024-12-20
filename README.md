@@ -1,69 +1,69 @@
 # History of Today 
 
-- 2016: A vehicular attack in Berlin, Germany, kills and injures multiple people at a Christmas market.
-- 2016: Russian ambassador to Turkey Andrei Karlov is assassinated while at an art exhibition in Ankara. The assassin, Mevlüt Mert Altıntaş, is shot and killed by a Turkish guard.
-- 2013: Spacecraft Gaia is launched by the European Space Agency.
-- 2012: Park Geun-hye is elected the first female president of South Korea.
-- 2005: Chalk's Ocean Airways Flight 101 crashes into the Government Cut channel immediately after takeoff from Miami Seaplane Base, killing 20.
-- 2001: Argentine economic crisis: December riots: Riots erupt in Buenos Aires, Argentina.
-- 2001: A record high barometric pressure of 1,085.6 hectopascals (32.06 inHg) is recorded at Tosontsengel, Khövsgöl, Mongolia.
-- 2000: The Leninist Guerrilla Units wing of the Communist Labour Party of Turkey/Leninist attack a Nationalist Movement Party office in Istanbul, Turkey, killing one person and injuring three.
-- 1999: Space Shuttle Discovery is launched on STS-103, the third Hubble Space Telescope servicing mission.
-- 1998: President Bill Clinton is impeached by the United States House of Representatives, becoming the second president of the United States to be impeached.
-- 1997: SilkAir Flight 185 crashes into the Musi River, near Palembang in Indonesia, killing 104.
-- 1995: The United States Government restores federal recognition to the Nottawaseppi Huron Band of Potawatomi Native American tribe.
-- 1986: Mikhail Gorbachev, leader of the Soviet Union, releases Andrei Sakharov and his wife from exile in Gorky.
-- 1985: Aeroflot Flight 101/435 is hijacked to China by its first officer.
-- 1984: The Sino-British Joint Declaration, stating that China would resume the exercise of sovereignty over Hong Kong and the United Kingdom would restore Hong Kong to China with effect from July 1, 1997, is signed in Beijing by Deng Xiaoping and Margaret Thatcher.
-- 1983: The original FIFA World Cup trophy, the Jules Rimet Trophy, is stolen from the headquarters of the Brazilian Football Confederation in Rio de Janeiro, Brazil.
-- 1981: Sixteen lives are lost when the Penlee lifeboat goes to the aid of the stricken coaster Union Star in heavy seas.
-- 1977: The Ms  5.8 Bob-Tangol earthquake strikes Kerman Province in Iran, destroying villages and killing 665 people.
-- 1974: Nelson Rockefeller is sworn in as Vice President of the United States under President Gerald Ford under the provisions of the Twenty-fifth Amendment to the United States Constitution.
-- 1972: Apollo program: The last crewed lunar flight, Apollo 17, carrying Eugene Cernan, Ronald Evans, and Harrison Schmitt, returns to Earth.
-- 1967: Harold Holt, the Prime Minister of Australia, is officially presumed dead.
-- 1961: India annexes Daman and Diu, part of Portuguese India.
-- 1956: Irish-born physician John Bodkin Adams is arrested in connection with the suspicious deaths of more than 160 patients. Eventually he is convicted only of minor charges.
-- 1946: Start of the First Indochina War.
-- 1945: John Amery, British Fascist, is executed at the age of 33 by the British Government for treason.
-- 1941: World War II: Limpet mines placed by Italian divers heavily damage HMS Valiant and HMS Queen Elizabeth in Alexandria harbour.
-- 1941: World War II: Adolf Hitler appoints himself as head of the Oberkommando des Heeres.
-- 1940: Risto Ryti, the Prime Minister of Finland,  is elected President of the Republic of Finland in a presidential election, which is exceptionally held by the 1937 electoral college.
-- 1932: BBC World Service begins broadcasting as the BBC Empire Service.
-- 1929: The Indian National Congress promulgates the Purna Swaraj (the Declaration of the Independence of India).
+- 2019: The United States Space Force becomes the first new branch of the United States Armed Forces since 1947.
+- 2007: The Portrait of Suzanne Bloch (1904), by the Spanish artist Pablo Picasso, and O Lavrador de Café by Brazilian modernist painter Cândido Portinari, are stolen from the São Paulo Museum of Art in Brazil. Both will be recovered a few weeks later.
+- 2007: Elizabeth II becomes the oldest monarch in the history of the United Kingdom, surpassing Queen Victoria, who lived for 81 years and 243 days.
+- 2004: A gang of thieves steal £26.5 million worth of currency from the Donegall Square West headquarters of Northern Bank in Belfast, Northern Ireland, United Kingdom, one of the largest bank robberies in British history.
+- 1999: Macau is handed over to China by Portugal.
+- 1995: American Airlines Flight 965, a Boeing 757, crashes into a mountain 50 km north of Cali, Colombia, killing 159 of the 163 people on board.
+- 1995: NATO begins peacekeeping in Bosnia.
+- 1991: A Missouri court sentences the Palestinian militant Zein Isa and his wife Maria to death for the honor killing of their daughter Palestina.
+- 1989: The United States invasion of Panama deposes Manuel Noriega.
+- 1988: War on drugs: The United Nations agrees upon and promulgates the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, one of three major drug control treaties currently in force.
+- 1987: In the worst peacetime sea disaster, the passenger ferry Doña Paz sinks after colliding with the oil tanker MT Vector in the Tablas Strait of the Philippines, killing an estimated 4,000 people (1,749 official).
+- 1985: Pope John Paul II announces the institution of World Youth Day.
+- 1984: Disappearance of Jonelle Matthews from Greeley, Colorado.  Her remains were discovered on July 23, 2019, located about 24 km (15 mi) southeast of Jonelle's home. The cause of death "was a gunshot wound to the head."
+- 1984: The Summit Tunnel fire, one of the largest transportation tunnel fires in history, burns after a freight train carrying over one million liters of gasoline derails near the town of Todmorden, England, in the Pennines.
+- 1977: With the approval of the State Council, China’s two largest newspapers, the People’s Daily and the Guangming Daily, publish in full for the first time the Second Chinese Character Simplification Scheme.
+- 1973: Assassination of Luis Carrero Blanco: A car bomb planted by ETA in Madrid kills three people, including the Prime Minister of Spain, Admiral Luis Carrero Blanco.
+- 1970: Koza riot: After a series of hit-and-runs and other vehicular incidents involving American service personnel, roughly 5,000 Okinawans take to the streets, clashing with American law enforcement in protest against the U.S. occupation of Okinawa.
+- 1968: The Zodiac Killer murders his first two officially confirmed victims, David Arthur Faraday and Betty Lou Jensen, on Lake Herman Road in Benicia, California, United States.
+- 1967: A Pennsylvania Railroad Budd Metroliner exceeds 249 kilometres per hour (155 mph) on their New York Division, also present-day Amtrak's Northeast Corridor.
+- 1960: Vietnam War: The National Liberation Front of South Vietnam, popularly known as the Viet Cong, is formally established in Tân Lập village, present day Tây Ninh province.
+- 1957: The initial production version of the Boeing 707 makes its first flight.
+- 1955: Cardiff is proclaimed the capital city of Wales, United Kingdom.
+- 1952: A United States Air Force C-124 crashes and burns in Moses Lake, Washington, killing 87 of the 115 people on board.
+- 1951: The EBR-1 in Arco, Idaho becomes the first nuclear power plant to generate electricity. The electricity powered four light bulbs.
+- 1948: Indonesian National Revolution: The Dutch military captures Yogyakarta, the temporary capital of the newly formed Republic of Indonesia.
+- 1946: An earthquake in Nankaidō, Japan causes a tsunami which kills at least one thousand people and destroys 36,000 homes.
+- 1946: It's a Wonderful Life premieres at the Globe Theatre in New York to mixed reviews. 
+- 1942: World War II: Japanese air forces bomb Calcutta, India.
+- 1941: World War II: First battle of the American Volunteer Group, better known as the "Flying Tigers", in Kunming, China.
+- 1940: Captain America Comics #1, containing the first appearance of the superhero Captain America, is published.
 
 *Data from muffinlabs* 
 
 # 历史上的今天 
 
-- -  2016年：在德国柏林发生的车辆袭击，在圣诞节市场杀死并伤害了多人。
-- -  2016年：俄罗斯驻土耳其安德烈·卡洛夫（Andrei Karlov）大使在安卡拉的一次艺术展览中被暗杀。刺客MevlütMertAltıntaş被土耳其警卫枪杀。
-- -  2013年：航天器Gaia由欧洲航天局推出。
-- -  2012年：Park Geun-Hye当选为韩国的第一任女总统。
-- -  2005年：从迈阿密水上飞机基地起飞后，粉笔的海洋航空公司101航班坠毁在政府切割通道，杀死了20。
-- -  2001年：阿根廷经济危机：12月骚乱：阿根廷布宜诺斯艾利斯的骚乱爆发。
-- -2001：在蒙古的托桑格尔（Tosontsengel）记录了创纪录的1,085.6公升的高气压（32.06 INHG）。
-- -  2000年：土耳其/列宁主义攻击共产主义工党的列宁主义游击队部队在土耳其伊斯坦布尔的民族主义运动党办公室袭击了一个人，杀死了一个人并炸伤三人。
-- -  1999年：航天飞机发现是在第三个哈勃太空望远镜服务任务的STS-103上启动的。
-- -  1998年：总统比尔·克林顿（Bill Clinton）被美国众议院弹each，成为美国的第二任总统。
-- -  1997年：丝绸航空185号航班撞向印度尼西亚Palembang附近的Musi河，杀死104。
-- -  1995年：美国政府恢复了对美国原住民部落的诺塔瓦塞皮休伦乐队的联邦认可。
-- -  1986年：苏联领导人米哈伊尔·戈尔巴乔夫（Mikhail Gorbachev）释放了安德烈·萨哈罗夫（Andrei Sakharov）和他的妻子从戈尔基（Gorky）流放。
-- -  1985年：Aeroflot航班101/435被其第一任官员劫持到中国。
-- -  1984年：中英国联合宣言，指出中国将恢复对香港和英国的主权行使，从1997年7月1日起生效，邓吉·米奥帕特（Deng Xiaoping）和玛格丽特·泰切尔（Margaret thatcher）在北京签署了香港的主权。。
-- -  1983年：原始的国际足联世界杯奖杯，朱尔斯·里黑色奖杯（Jules Rimet Trophy），被巴西在巴西里约热内卢的巴西足球联合会总部被盗。
-- -  1981年：当宾夕法尼亚州救生艇朝着大海中陷入困境的过山车联盟之星的帮助时，16人的生命丧生。
-- -  1977年：MS 5.8 Bob-Tangol地震袭击了伊朗的克尔曼省，摧毁了村庄并杀死了665人。
-- -  1974年：纳尔逊·洛克菲勒（Nelson Rockefeller）在杰拉尔德·福特（Gerald Ford）总统的《美国宪法》第25修正案的规定下宣誓就任美国副总统。
-- -  1972年：阿波罗计划：最后一次船员的月球飞行，阿波罗17号，载有尤金·塞南（Eugene Cernan），罗纳德·埃文斯（Ronald Evans）和哈里森·施密特（Harrison Schmitt），返回地球。
-- -  1967年：澳大利亚总理哈罗德·霍尔特（Harold Holt）正式被认为死亡。
-- -  1961年：印度吞并葡萄牙印度的一部分Daman和Diu。
-- -  1956年：出生于爱尔兰的医师约翰·博德金·亚当斯（John Bodkin Adams）因160多名患者的可疑死亡而被捕。最终，他只因小指控而被定罪。
-- -  1946年：第一次印度支那战争开始。
-- -  1945年：英国法西斯主义者约翰·阿默里（John Amery）在33岁时被英国政府叛国罪执行。
-- -  1941年：第二次世界大战：意大利潜水员在亚历山大港（Alexandria Harbour）造成的lig矿和伊丽莎白女王伊丽莎白（HMS Queen Elizabeth）所占据的lig矿。
-- -  1941年：第二次世界大战：阿道夫·希特勒（Adolf Hitler）任命自己为Oberkommando des Heeres的负责人。
-- -  1940年：芬兰总理瑞斯托·雷蒂（Risto Ryti）在总统选举中当选为芬兰共和国总统，该选举由1937年选举学院特殊举行。
-- -  1932年：英国广播公司（BBC World Service）开始作为BBC帝国服务（BBC Empire Service）广播。
-- -  1929年：印度国民大会颁布了Purna Swaraj（印度独立的宣言）。
+- -  2019年：自1947年以来，美国太空部队成为美国武装部队的第一个新分支。
+- -  2007年：西班牙艺术家Pablo Picasso的Suzanne Bloch（1904年）的肖像和巴西现代主义画家CândidoPortinari撰写的OavradordeCafé，来自巴西的圣保罗艺术博物馆。几周后，两者都将被恢复。
+- -  2007年：伊丽莎白二世（Elizabeth II）成为英国历史上最古老的君主，超过了维多利亚女王，他生活了81年零243天。
+- -  2004年：一群小偷从北爱尔兰北部银行的多尼戈尔广场西部总部窃取了价值2650万英镑的货币，英国北爱尔兰北爱尔兰是英国历史上最大的银行抢劫之一。
+- -  1999年：澳门通过葡萄牙移交给中国。
+- -  1995年：美国航空965航班，波音757，坠毁在哥伦比亚卡利以北50公里以北的一座山上，杀死了船上163人中的159人。
+- -  1995年：北约开始在波斯尼亚维持和平。
+- -  1991年：密苏里州的一个法院判处巴勒斯坦激进的Zein Isa和他的妻子玛丽亚（Maria）死于荣誉杀害女儿巴勒斯坦的荣誉。
+- -  1989年：美国对巴拿马的入侵将曼努埃尔·诺里加（Manuel Noriega）存放。
+- -  1988年：毒品战争：联合国同意并颁布了《麻醉药物和精神药物非法交通的联合国公约》，这是目前有效的三项主要药物控制条约之一。
+- -  1987年：在最糟糕的和平时期的海上灾难中，乘客渡轮DoñaPaz与菲律宾桌海峡的油轮MT矢量发生碰撞后，造成了估计4,000人（1,749名官员）。
+- -  1985年：教皇约翰·保罗二世宣布了世界青年纪念日。
+- -  1984年：来自科罗拉多州格里利的乔纳尔·马修斯（Jonelle Matthews）的消失。她的遗体是在2019年7月23日发现的，位于乔纳尔家东南约24公里（15英里）。死亡原因“是头部的枪伤”。
+- -  1984年：历史上最大的交通隧道大火之一的山顶隧道大火，在货运火车在英格兰的托德莫登镇附近载有超过100万升汽油的货运火车。
+- -  1977年：在国务院的批准下，中国的两份最大的报纸，《人民日报》和《每日人民》，首次完整出版了第二次中文角色简化计划。
+- -  1973年：被暗杀路易斯·卡罗尔·布兰科（Luis Carrero Blanco）：马德里ETA种植的一辆汽车炸弹杀死了三人，包括西班牙总理路易斯·卡罗尔·布兰科（Luis Carrero Blanco）海军上将。
+- -  1970年：Koza Riot：在一系列涉及美国服务人员的撞车事件和其他车辆事件之后，大约有5,000名冲绳人上街，与美国执法人员发生冲突，以抗议美国对冲绳的占领。
+- -  1968年：十二生肖杀手谋杀了他的前两名正式确认的受害者，大卫·亚瑟·法拉迪（David Arthur Faraday）和贝蒂·卢·詹森（Betty Lou Jensen），在美国加利福尼亚州贝尼西亚的赫尔曼路（Lake Herman Road）上。
+- -  1967年：宾夕法尼亚州铁路Budd Metroliner在其纽约分区（也是现在的Amtrak的东北走廊）上的每小时249公里（155 mph）。
+- -  1960年：越南战争：越南南部的民族解放阵线，俗称越共，正式在当今的Tânninh省TânLậP村正式建立。
+- -  1957年：波音707的初始生产版本是第一次飞行。
+- -  1955年：加的夫被宣布为英国威尔士首府。
+- -  1952年：美国空军C-124在华盛顿的摩西湖撞车和烧伤，杀死了船上115人中的87人。
+- -  1951年：爱达荷州ARCO的EBR-1成为第一个发电的核电站。电力为四个灯泡供电。
+- -  1948年：印度尼西亚民族革命：荷兰军事俘虏了新成立的印度尼西亚共和国的临时首都Yogyakarta。
+- -  1946年：日本南卡多的地震导致海啸造成至少一千人杀死36,000户房屋。
+- -  1946年：这是纽约环球剧院（Globe Theatre）首映的美好生活，以混合评论。
+- -  1942年：第二次世界大战：日本空军炸弹加尔各答，印度。
+- -  1941年：第二次世界大战：美国志愿者团体的第一场战斗，在中国昆明，被称为“飞龙”。
+- -  1940年：美国队长漫画＃1，其中包含《超级英雄队长》的首次出现。
 
 *由googletrans翻译*
