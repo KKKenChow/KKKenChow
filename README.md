@@ -1,69 +1,69 @@
 # History of Today 
 
-- 2018: The 2018-2019 United States federal government shutdown, the longest shutdown of the U.S. federal government in history, begins.
-- 2018: A tsunami caused by an eruption of Anak Krakatau in Indonesia kills at least 430 people and injures almost a thousand more.
-- 2017: President Donald Trump signs the Tax Cuts and Jobs Act of 2017.
-- 2017: United Nations Security Council Resolution 2397 against North Korea is unanimously approved.
-- 2016: A study finds the VSV-EBOV vaccine against the Ebola virus between 70 and 100% effective, thus making it the first proven vaccine against the disease.
-- 2012: Bashir Ahmad Bilour of Awami National Party and eight others are killed in a Pakistan Taliban bomber suicide attack in Dhaki Nalbandi area near Qissa Khwani Bazaar.
-- 2010: The repeal of the Don't ask, don't tell policy, the 17-year-old policy banning homosexuals serving openly in the United States military, is signed into law by President Barack Obama.
-- 2008: An ash dike ruptured at a solid waste containment area for a Tennessee Valley Authority coal-fired power plant in Roane County, Tennessee, releasing 4.2 million m3 (1.1 billion US gal) of coal fly ash slurry in the largest industrial spill in U.S. history.
-- 2001: Richard Reid attempts to destroy a passenger airliner by igniting explosives hidden in his shoes aboard American Airlines Flight 63.
-- 2001: Burhanuddin Rabbani, political leader of the Northern Alliance, hands over power in Islamic State of Afghanistan to the interim government headed by President Hamid Karzai.
-- 1999: Just after taking off from London Stansted Airport, Korean Air Cargo Flight 8509 crashes into Hatfield Forest near Great Hallingbury, killing all four people on board.
-- 1997: Somali Civil War: Hussein Farrah Aidid relinquishes the disputed title of President of Somalia by signing the Cairo Declaration, in Cairo, Egypt. It is the first major step towards reconciliation in Somalia since 1991.
-- 1997: Acteal massacre: Attendees at a prayer meeting of Roman Catholic activists for indigenous causes in the small village of Acteal in the Mexican state of Chiapas are massacred by paramilitary forces.
-- 1996: Airborne Express Flight 827 crashes in Narrows, Virginia, killing all six people on board.
-- 1992: During approach to Tripoli International Airport, a Boeing 727 operating as Libyan Arab Airlines Flight 1103 collides in mid-air with a Libyan Air Force Mikoyan-Gurevich MiG-23, killing 157 people.
-- 1990: Final independence of Marshall Islands and Federated States of Micronesia after termination of trusteeship.
-- 1990: Lech Wałęsa is elected President of Poland.
-- 1989: German reunification: Berlin's Brandenburg Gate re-opens after nearly 30 years, effectively ending the division of East and West Germany.
-- 1989: Romanian Revolution: Communist President of Romania Nicolae Ceaușescu is overthrown by Ion Iliescu after days of bloody confrontations. The deposed dictator and his wife Elena flee Bucharest in a helicopter as protesters erupt in cheers.
-- 1987: In Zimbabwe, the political parties ZANU and ZAPU reach an agreement that ends the violence in the Matabeleland region known as the Gukurahundi.
-- 1984: "Subway vigilante" Bernhard Goetz shoots four would-be muggers on a 2 express train in Manhattan section of New York, United States.
-- 1978: The pivotal Third Plenum of the 11th National Congress of the Chinese Communist Party is held in Beijing, with Deng Xiaoping reversing Mao-era policies to pursue a program for Chinese economic reform.
-- 1975: U.S. President Gerald Ford creates the Strategic Petroleum Reserve in response to the 1970s energy crisis.
-- 1974: The house of former British Prime Minister Edward Heath is attacked by members of the Provisional IRA.
-- 1974: Grande Comore, Anjouan and Mohéli vote to become the independent nation of Comoros. Mayotte remains under French administration.
-- 1973: A Royal Air Maroc Sud Aviation Caravelle crashes near Tangier-Boukhalef Airport in Tangier, Morocco, killing 106.
-- 1971: The international aid organization Doctors Without Borders is founded by Bernard Kouchner and a group of journalists in Paris, France.
-- 1968: Cultural Revolution: People's Daily posted the instructions of Mao Zedong that "The intellectual youth must go to the country, and will be educated from living in rural poverty."
-- 1965: In the United Kingdom, a 70 miles per hour (110 km/h) speed limit is applied to all rural roads including motorways for the first time.
-- 1964: The first test flight of the SR-71 (Blackbird) takes place at Air Force Plant 42 in Palmdale, California, United States.
+- 2015: A bomb explodes at Istanbul's Sabiha Gökçen Airport, killing one airport cleaner. The Kurdistan Freedom Hawks claim responsibility for the attack four days later.
+- 2008: A coup d'état occurs in Guinea hours after the death of President Lansana Conté.
+- 2007: An agreement is made for the Kingdom of Nepal to be abolished and the country to become a federal republic with the Prime Minister becoming head of state.
+- 2005: An Antonov An-140, Azerbaijan Airlines Flight 217 from Baku, Azerbaijan, to Aktau, Kazakhstan, heading across the Caspian Sea, crashes, killing 23 people.
+- 2003: An explosion at the PetroChina Chuandongbei natural gas field in Kai County, Chongqing, China, kills at least 234.
+- 2002: A U.S. MQ-1 Predator is shot down by an Iraqi MiG-25 in the first combat engagement between a drone and conventional aircraft.
+- 1990: History of Slovenia: In a referendum, 88.5% of Slovenia's overall electorate vote for independence from Yugoslavia.
+- 1986: Voyager, piloted by Dick Rutan and Jeana Yeager, lands at Edwards Air Force Base in California becoming the first aircraft to fly non-stop around the world without aerial or ground refueling.
+- 1984: After experiencing an engine fire, Aeroflot Flight 3519 attempts to make an emergency landing at Krasnoyarsk International Airport but crashes, killing 110 of the 111 people on board.
+- 1979: Soviet-Afghan War: Soviet Union forces occupy Kabul, the Afghan capital.
+- 1978: Alitalia Flight 4128 crashes into the Tyrrhenian Sea while on approach to Falcone Borsellino Airport in Palermo, Italy, killing 108.
+- 1972: The 16 survivors of the Andes flight disaster are rescued after 73 days, surviving by cannibalism.
+- 1972: A 6.5 magnitude earthquake strikes the Nicaraguan capital of Managua killing more than 10,000.
+- 1972: The Immaculate Reception is caught by Franco Harris to win the Pittsburgh Steelers their first ever playoff victory, after defeating the Oakland Raiders.
+- 1970: The Democratic Republic of the Congo officially becomes a one-party state.
+- 1970: The North Tower of the World Trade Center in Manhattan, New York, New York is topped out at 417 metres (1,368 ft), making it the tallest building in the world.
+- 1968: The 82 sailors from the USS Pueblo are released after eleven months of internment in North Korea.
+- 1960: Hilkka Saarinen née Pylkkänen is murdered in the so-called "oven homicide" case in Krootila, Kokemäki, Finland.
+- 1955: The first film adaptation of Väinö Linna's novel The Unknown Soldier, directed by Edvin Laine, premieres.
+- 1954: First successful kidney transplant is performed by J. Hartwell Harrison and Joseph Murray.
+- 1950: General Walton Walker dies in a jeep accident and is replaced by General Matthew Ridgway in the Eighth United States Army.
+- 1948: Seven Japanese military and political leaders convicted of war crimes by the International Military Tribunal for the Far East are executed by Allied occupation authorities at Sugamo Prison in Tokyo, Japan.
+- 1947: The transistor is first demonstrated at Bell Laboratories.
+- 1941: World War II: After 15 days of fighting, the Imperial Japanese Army occupies Wake Island.
+- 1936: Spanish Civil War: The Spanish Republic legalizes the Regional Defence Council of Aragon.
+- 1936: Colombia becomes a signatory to the Buenos Aires copyright treaty.
+- 1919: Sex Disqualification (Removal) Act 1919 becomes law in the United Kingdom.
+- 1916: World War I: Battle of Magdhaba: Allied forces defeat Turkish forces in the Sinai Peninsula.
+- 1914: World War I: During the Battle of Sarikamish, Ottoman forces mistook one another for Russian troops. The following friendly fire incident leaves 2,000 Ottomans dead and many more wounded.
+- 1914: World War I: Australian and New Zealand troops arrive in Cairo, Egypt.
 
 *Data from muffinlabs* 
 
 # 历史上的今天 
 
-- -  2018年：2018  -  2019年美国联邦政府关闭是历史上美国联邦政府最长的关闭。
-- -  2018年：印度尼西亚阿纳克·克拉卡陶（Anak Krakatau）爆发引起的海啸至少造成430人丧生，造成近一千人受伤。
-- -  2017年：唐纳德·特朗普总统签署了2017年《减税和就业法》。
-- -  2017年：联合国安理会针对朝鲜的第2397号决议获得了一致批准。
-- -  2016年：一项研究发现，针对埃博拉病毒的VSV-EBOV疫苗在70％至100％之间有效，因此使其成为首次针对该疾病的疫苗。
-- -  2012年：阿瓦米民族党的巴希尔·艾哈迈德·比卢（Bashir Ahmad Bilour）和另外八人在巴基斯坦塔利班炸弹袭击者的自杀自杀袭击中被杀，该袭击在齐萨·赫瓦尼集市附近的达基·纳尔班蒂地区。
-- -  2010年：废除《不询问》，《不要告诉政策》，这项17岁的禁止在美国军方公开服役的同性恋者的政策由巴拉克·奥巴马总统签署为法律。
-- -  2008年：田纳西州河谷管理局的固体废物遏制区破裂，田纳西州罗恩县的燃煤电厂发行了420万平方米（11亿美国加仑）的煤炭灰泥浆中的420万平方米（11亿加仑）美国历史。
-- -  2001年：理查德·里德（Richard Reid）试图通过在美国航空公司（American Airlines）63号航班上点燃炸药来摧毁一架客机。
-- -  2001年：北方联盟的政治领导人Burhanuddin Rabbani，将阿富汗伊斯兰国的权力移交给了由总统哈米德·卡尔扎伊（Hamid Karzai）领导的临时政府。
-- -  1999年：刚从伦敦斯坦斯特德机场起飞后，韩国空运8509航班撞向大哈林伯里（Great Hallingbury）附近的哈特菲尔德森林（Hatfield Forest），杀死了船上的所有四人。
-- -  1997年：索马里内战：侯赛因·法拉·艾迪德（Hussein Farrah Aidid）在埃及开罗签署了开罗宣言，放弃了索马里总统的争议头衔。这是自1991年以来索马里和解的第一步。
-- -  1997年：ACTEAL大屠杀：参加罗马天主教活动家的祈祷会议的与会者在墨西哥奇亚帕斯州的Acteal小村庄中为土著事业而遭受了屠杀。
-- -  1996年：机载Express 827撞车在弗吉尼亚州的北部撞车，杀死了船上的所有六人。
-- -  1992年：在到达的黎波里国际机场的途中，波音727，在利比亚阿拉伯航空公司1103航班在空中撞车与利比亚空军Mikoyan-Gurevich Mig-23相撞，造成157人丧生。
-- -  1990年：马歇尔群岛和密克罗尼西亚联邦州的最终独立性终止后。
-- -  1990年：LechWałęsa当选为波兰总统。
-- -  1989年：德国统一：柏林的勃兰登堡门在将近30年后重新开放，有效地结束了东德和西德的划分。
-- -  1989年：罗马尼亚革命：罗马尼亚尼古拉·科夫斯库（Romania Nicolae Ceaușescu）的共产党总统在经过几天的血腥对抗之后被离子iliescu推翻。被罢免的独裁者和他的妻子埃琳娜（Elena）乘直升机逃离布加勒斯特（Bucharest），抗议者欢呼雀跃。
-- -  1987年：在津巴布韦，政党Zanu和Zapu达成了一项协议，结束了Matabeleland地区的暴力，称为Gukurahundi。
-- -  1984年：“ Subway Vigilante” Bernhard Goetz在美国纽约的曼哈顿部分的2份快车火车上射击了四名可能的抢劫犯。
-- -  1978年：中国共产党第11个国民大会的关键第三届全体会议在北京举行，邓小平扭转了毛时代的政策，以寻求中国经济改革计划。
-- -  1975年：美国总统杰拉尔德·福特（Gerald Ford）为响应1970年代的能源危机而创建了战略石油储备。
-- -  1974年：前英国首相爱德华·希思（Edward Heath）的众议院遭到临时IRA成员的袭击。
-- -  1974年：格兰德·科尔（Grande Comore），安朱恩（Anjouan）和莫赫利（Mohéli）投票成为科莫罗斯（Comoros）的独立国家。Mayotte仍在法国政府领导下。
-- -  1973年：摩洛哥丹吉尔（Tangier）的丹吉尔·布克哈莱夫机场（Tangier-Boukhalef Airport）附近的皇家航空玛克斯·苏德·航空公司（Royal Air Maroc Sud Aviation Caravelle）坠毁，杀死106。
-- -  1971年：国际援助组织没有边界的医生是由伯纳德·库奇纳（Bernard Kouchner）和法国巴黎的一群记者创立的。
-- -  1968年：文化大革命：《人日》发布了毛泽东的指示：“知识年轻人必须去国家，并将接受生活在农村贫困中的教育。”
-- -  1965年：在英国，首次将每小时70英里（110 km/h）的速度限制应用于包括高速公路在内的所有农村道路。
-- -  1964年：SR-71（黑鸟）的首次测试飞行在美国加利福尼亚州帕尔马代尔的空军工厂42举行。
+- -  2015年：炸弹在伊斯坦布尔的SabihaGökçen机场爆炸，杀死了一个机场清洁工。库尔德自由鹰在四天后声称对袭击的责任。
+- -  2008年：兰萨纳·孔奈总统去世后几个小时发生的政变发生。
+- -  2007年：达成了一项协议，使尼泊尔王国被废除，该国成为联邦共和国，总理成为国家元首。
+- -  2005年：阿塞拜疆航空公司Antonov An-140航班217航班从阿塞拜疆巴库到哈萨克斯坦的阿克托，驶过卡西亚海，撞车，造成23人丧生。
+- -  2003年：中国重庆凯县的Petrochina Chuandongbei天然气场发生爆炸，至少杀死234人。
+- -  2002年：美国MQ-1捕食者在无人机和传统飞机之间的第一次战斗互动中被伊拉克MIG-25击落。
+- -  1990年：斯洛文尼亚的历史：在全民公决中，斯洛文尼亚总体选民投票的88.5％，以从南斯拉夫独立。
+- -  1986年：由迪克·鲁坦（Dick Rutan）和珍娜·耶格（Jeana Yeager）驾驶的旅行者降落在加利福尼亚州的爱德华兹空军基地，成为第一架在世界上不停地飞行而无需空中或地面加油的飞机。
+- -  1984年：经历了发动机大火后，Aeroflot 3519试图在Krasnoyarsk International Airport进行紧急降落，但撞车造成了船上111人中的110人。
+- -  1979年：苏联 - 阿富汗战争：苏联军队占领了阿富汗首都喀布尔。
+- -  1978年：Alitalia 4128航班在前往意大利巴勒莫的Falcone Borsellino机场的同时坠毁进入Tyrrhenian海，杀死了108。
+- -  1972年：73天后，安第斯山脉飞行灾难的16个幸存者被救出，可在自相残杀中幸存。
+- -  1972年：一场6.5级地震袭击了尼加拉瓜的马那瓜之都杀死了10,000多人。
+- -  1972年：佛朗哥·哈里斯（Franco Harris）在击败奥克兰突袭者队（Oakland Raiders）之后，被佛朗哥·哈里斯（Franco Harris）抓获了匹兹堡钢人队的首场季后赛胜利。
+- -  1970年：刚果民主共和国正式成为一党国家。
+- -  1970年：纽约曼哈顿的世界贸易中心北大楼的顶峰为417米（1,368英尺），使其成为世界上最高的建筑。
+- -  1968年：在朝鲜实习11个月后，来自普韦布洛号的82名水手被释放。
+- -  1960年：Hilkka SaarinennéePylkkänen在芬兰Kokemäki的Krootila案中被谋杀。
+- -  1955年：韦恩·林娜（VäinöLinna）的小说《不知名士兵》的第一部电影改编，由埃德文·莱恩（Edvin Laine）执导，首映。
+- -  1954年：首次成功的肾脏移植是由J. Hartwell Harrison和Joseph Murray进行的。
+- -  1950年：沃尔顿·沃克将军在一次吉普车事故中去世，被美国陆军第八次的马修·里奇威（Matthew Ridgway）取代。
+- -  1948年：七名日本军事和政治领导人被国际军事法庭判处远东的战争罪行，由日本东京苏加莫监狱的盟军占领当局处决。
+- -  1947年：晶体管首先在贝尔实验室展示。
+- -  1941年：第二次世界大战：战斗15天后，日本帝国军占据了维克岛。
+- -  1936年：西班牙内战：西班牙共和国合法化了阿拉贡地区国防委员会。
+- -  1936年：哥伦比亚成为布宜诺斯艾利斯版权条约的签署国。
+- -  1919年：1919年的性别丧失资格（撤职）法律成为英国的法律。
+- -  1916年：第一次世界大战：玛格达巴战役：盟军在西奈半岛击败土耳其军队。
+- -  1914年：第一次世界大战：在萨里卡米什（Sarikamish）战役中，奥斯曼帝国部队互相误以为俄罗斯军队。以下友好的火灾事件使2,000个奥斯曼帝国丧生，受伤了。
+- -  1914年：第一次世界大战：澳大利亚和新西兰部队抵达埃及的开罗。
 
 *由googletrans翻译*
