@@ -1,69 +1,69 @@
 # History of Today 
 
-- 2015: A bomb explodes at Istanbul's Sabiha Gökçen Airport, killing one airport cleaner. The Kurdistan Freedom Hawks claim responsibility for the attack four days later.
-- 2008: A coup d'état occurs in Guinea hours after the death of President Lansana Conté.
-- 2007: An agreement is made for the Kingdom of Nepal to be abolished and the country to become a federal republic with the Prime Minister becoming head of state.
-- 2005: An Antonov An-140, Azerbaijan Airlines Flight 217 from Baku, Azerbaijan, to Aktau, Kazakhstan, heading across the Caspian Sea, crashes, killing 23 people.
-- 2003: An explosion at the PetroChina Chuandongbei natural gas field in Kai County, Chongqing, China, kills at least 234.
-- 2002: A U.S. MQ-1 Predator is shot down by an Iraqi MiG-25 in the first combat engagement between a drone and conventional aircraft.
-- 1990: History of Slovenia: In a referendum, 88.5% of Slovenia's overall electorate vote for independence from Yugoslavia.
-- 1986: Voyager, piloted by Dick Rutan and Jeana Yeager, lands at Edwards Air Force Base in California becoming the first aircraft to fly non-stop around the world without aerial or ground refueling.
-- 1984: After experiencing an engine fire, Aeroflot Flight 3519 attempts to make an emergency landing at Krasnoyarsk International Airport but crashes, killing 110 of the 111 people on board.
-- 1979: Soviet-Afghan War: Soviet Union forces occupy Kabul, the Afghan capital.
-- 1978: Alitalia Flight 4128 crashes into the Tyrrhenian Sea while on approach to Falcone Borsellino Airport in Palermo, Italy, killing 108.
-- 1972: The 16 survivors of the Andes flight disaster are rescued after 73 days, surviving by cannibalism.
-- 1972: A 6.5 magnitude earthquake strikes the Nicaraguan capital of Managua killing more than 10,000.
-- 1972: The Immaculate Reception is caught by Franco Harris to win the Pittsburgh Steelers their first ever playoff victory, after defeating the Oakland Raiders.
-- 1970: The Democratic Republic of the Congo officially becomes a one-party state.
-- 1970: The North Tower of the World Trade Center in Manhattan, New York, New York is topped out at 417 metres (1,368 ft), making it the tallest building in the world.
-- 1968: The 82 sailors from the USS Pueblo are released after eleven months of internment in North Korea.
-- 1960: Hilkka Saarinen née Pylkkänen is murdered in the so-called "oven homicide" case in Krootila, Kokemäki, Finland.
-- 1955: The first film adaptation of Väinö Linna's novel The Unknown Soldier, directed by Edvin Laine, premieres.
-- 1954: First successful kidney transplant is performed by J. Hartwell Harrison and Joseph Murray.
-- 1950: General Walton Walker dies in a jeep accident and is replaced by General Matthew Ridgway in the Eighth United States Army.
-- 1948: Seven Japanese military and political leaders convicted of war crimes by the International Military Tribunal for the Far East are executed by Allied occupation authorities at Sugamo Prison in Tokyo, Japan.
-- 1947: The transistor is first demonstrated at Bell Laboratories.
-- 1941: World War II: After 15 days of fighting, the Imperial Japanese Army occupies Wake Island.
-- 1936: Spanish Civil War: The Spanish Republic legalizes the Regional Defence Council of Aragon.
-- 1936: Colombia becomes a signatory to the Buenos Aires copyright treaty.
-- 1919: Sex Disqualification (Removal) Act 1919 becomes law in the United Kingdom.
-- 1916: World War I: Battle of Magdhaba: Allied forces defeat Turkish forces in the Sinai Peninsula.
-- 1914: World War I: During the Battle of Sarikamish, Ottoman forces mistook one another for Russian troops. The following friendly fire incident leaves 2,000 Ottomans dead and many more wounded.
-- 1914: World War I: Australian and New Zealand troops arrive in Cairo, Egypt.
+- 2021: Burmese military forces commit the Mo So massacre, killing at least 44 civilians.
+- 2018: A helicopter crash kills Martha Érika Alonso, first female Governor of Puebla, Mexico, and her husband Rafael Moreno Valle Rosas, former governor.
+- 2008: The Lord's Resistance Army, a Ugandan rebel group, begins a series of attacks against civilians in the Democratic Republic of the Congo, massacring more than 400.
+- 2005: Chad-Sudan relations: Chad declares a state of belligerence against Sudan following a December 18 attack on Adré, which left about 100 people dead.
+- 2003: The Spanish police thwart an attempt by ETA to detonate 50 kg of explosives at 3:55 p.m. inside Madrid's busy Chamartín Station.
+- 1999: Indian Airlines Flight 814 is hijacked in Indian airspace between Kathmandu, Nepal, and Delhi, India. The aircraft landed at Kandahar in Afghanistan. The incident ended on December 31 with the release of 190 survivors (one passenger is killed).
+- 1997: The Sid El-Antri massacre in Algeria kills between 50 and 100 people.
+- 1996: A Learjet 35 crashes into Smarts Mountain near Dorchester, New Hampshire, killing both pilots on board.
+- 1994: Air France Flight 8969 is hijacked on the ground at Houari Boumediene Airport, Algiers, Algeria. Over the course of three days three passengers are killed, as are all four terrorists.
+- 1983: Aeroflot Flight 601 crashes during takeoff from Leshukonskoye Airport, killing 44 of the 49 people on board.
+- 1974: Cyclone Tracy devastates Darwin, Australia.
+- 1973: District of Columbia Home Rule Act is passed, allowing residents of Washington, D.C. to elect their own local government.
+- 1971: LANSA Flight 508 is struck by lightning and crashes in the Puerto Inca District in the Department of Huánuco in Peru, killing 91.
+- 1969: Nigerian troops capture Umuahia, the Biafran capital.
+- 1968: Apollo program: The crew of Apollo 8 enters into orbit around the Moon, becoming the first humans to do so. They performed ten lunar orbits, took the Earthrise photograph, broadcast live TV pictures, and read the first ten verses of Genesis.
+- 1966: A Canadair CL-44 chartered by the United States military crashes into a small village in South Vietnam, killing 111.
+- 1964: Flying Tiger Line Flight 282 crashes after takeoff from San Francisco International Airport, killing three.
+- 1964: Vietnam War: Viet Cong operatives bomb the Brinks Hotel in Saigon, South Vietnam to demonstrate they can strike an American installation in the heavily guarded capital.
+- 1953: Tangiwai disaster: In New Zealand's North Island, at Tangiwai, a railway bridge is damaged by a lahar and collapses beneath a passenger train, killing 151 people.
+- 1952: First flight of Britain's Handley Page Victor strategic bomber.
+- 1951: Libya becomes independent. Idris I is proclaimed King of Libya.
+- 1945: Five of nine children become missing after their home in Fayetteville, West Virginia, is burned down.
+- 1944: World War II: The Belgian Troopship Leopoldville was torpedoed and sank with the loss of 763 soldiers and 56 crew.
+- 1943: World War II: U.S. General Dwight D. Eisenhower is named Supreme Allied Commander for Operation Overlord.
+- 1942: World War II: French monarchist, Fernand Bonnier de La Chapelle, assassinates Vichy French Admiral François Darlan in Algiers, Algeria.
+- 1941: World War II: Benghazi is conquered by the British Eighth Army.
+- 1941: World War II: Kuching is conquered by Japanese forces.
+- 1939: World War II: Pope Pius XII makes a Christmas Eve appeal for peace.
+- 1929: A four alarm fire breaks out in the West Wing of the White House in Washington, D.C.
+- 1929: Assassination attempt on Argentine President Hipólito Yrigoyen.
 
 *Data from muffinlabs* 
 
 # 历史上的今天 
 
-- -  2015年：炸弹在伊斯坦布尔的SabihaGökçen机场爆炸，杀死了一个机场清洁工。库尔德自由鹰在四天后声称对袭击的责任。
-- -  2008年：兰萨纳·孔奈总统去世后几个小时发生的政变发生。
-- -  2007年：达成了一项协议，使尼泊尔王国被废除，该国成为联邦共和国，总理成为国家元首。
-- -  2005年：阿塞拜疆航空公司Antonov An-140航班217航班从阿塞拜疆巴库到哈萨克斯坦的阿克托，驶过卡西亚海，撞车，造成23人丧生。
-- -  2003年：中国重庆凯县的Petrochina Chuandongbei天然气场发生爆炸，至少杀死234人。
-- -  2002年：美国MQ-1捕食者在无人机和传统飞机之间的第一次战斗互动中被伊拉克MIG-25击落。
-- -  1990年：斯洛文尼亚的历史：在全民公决中，斯洛文尼亚总体选民投票的88.5％，以从南斯拉夫独立。
-- -  1986年：由迪克·鲁坦（Dick Rutan）和珍娜·耶格（Jeana Yeager）驾驶的旅行者降落在加利福尼亚州的爱德华兹空军基地，成为第一架在世界上不停地飞行而无需空中或地面加油的飞机。
-- -  1984年：经历了发动机大火后，Aeroflot 3519试图在Krasnoyarsk International Airport进行紧急降落，但撞车造成了船上111人中的110人。
-- -  1979年：苏联 - 阿富汗战争：苏联军队占领了阿富汗首都喀布尔。
-- -  1978年：Alitalia 4128航班在前往意大利巴勒莫的Falcone Borsellino机场的同时坠毁进入Tyrrhenian海，杀死了108。
-- -  1972年：73天后，安第斯山脉飞行灾难的16个幸存者被救出，可在自相残杀中幸存。
-- -  1972年：一场6.5级地震袭击了尼加拉瓜的马那瓜之都杀死了10,000多人。
-- -  1972年：佛朗哥·哈里斯（Franco Harris）在击败奥克兰突袭者队（Oakland Raiders）之后，被佛朗哥·哈里斯（Franco Harris）抓获了匹兹堡钢人队的首场季后赛胜利。
-- -  1970年：刚果民主共和国正式成为一党国家。
-- -  1970年：纽约曼哈顿的世界贸易中心北大楼的顶峰为417米（1,368英尺），使其成为世界上最高的建筑。
-- -  1968年：在朝鲜实习11个月后，来自普韦布洛号的82名水手被释放。
-- -  1960年：Hilkka SaarinennéePylkkänen在芬兰Kokemäki的Krootila案中被谋杀。
-- -  1955年：韦恩·林娜（VäinöLinna）的小说《不知名士兵》的第一部电影改编，由埃德文·莱恩（Edvin Laine）执导，首映。
-- -  1954年：首次成功的肾脏移植是由J. Hartwell Harrison和Joseph Murray进行的。
-- -  1950年：沃尔顿·沃克将军在一次吉普车事故中去世，被美国陆军第八次的马修·里奇威（Matthew Ridgway）取代。
-- -  1948年：七名日本军事和政治领导人被国际军事法庭判处远东的战争罪行，由日本东京苏加莫监狱的盟军占领当局处决。
-- -  1947年：晶体管首先在贝尔实验室展示。
-- -  1941年：第二次世界大战：战斗15天后，日本帝国军占据了维克岛。
-- -  1936年：西班牙内战：西班牙共和国合法化了阿拉贡地区国防委员会。
-- -  1936年：哥伦比亚成为布宜诺斯艾利斯版权条约的签署国。
-- -  1919年：1919年的性别丧失资格（撤职）法律成为英国的法律。
-- -  1916年：第一次世界大战：玛格达巴战役：盟军在西奈半岛击败土耳其军队。
-- -  1914年：第一次世界大战：在萨里卡米什（Sarikamish）战役中，奥斯曼帝国部队互相误以为俄罗斯军队。以下友好的火灾事件使2,000个奥斯曼帝国丧生，受伤了。
-- -  1914年：第一次世界大战：澳大利亚和新西兰部队抵达埃及的开罗。
+- -  2021年：缅甸军事力量如此大屠杀，至少杀死了44名平民。
+- -  2018年：一架直升机撞车事故杀死了墨西哥普埃布拉第一任女州长玛莎·ÉrikaAlonso，以及她的丈夫拉斐尔·莫雷诺·莫雷诺·瓦莱·罗萨斯（Rafael Moreno Valle Rosas），前州长。
+- -  2008年：乌干达叛军团体的耶和华抵抗军开始对刚果民主共和国的平民进行一系列袭击，屠杀了400多个。
+- -  2005年：乍得·苏丹（Chad-Sudan）的关系：乍得在12月18日对阿德雷（Adré）袭击后宣布对苏丹的交战状态，该袭击使约100人死亡。
+- -  2003年：西班牙警察挫败了ETA的尝试，试图在下午3:55引爆50公斤炸药。在马德里繁忙的Chamartín站内。
+- -  1999年：印度航空814航班在加德满都，尼泊尔和印度德里之间的印度领空被劫持。飞机降落在阿富汗的坎大哈。该事件于12月31日结束，随着190名幸存者的释放（一名乘客被杀）。
+- -1997：阿尔及利亚的Sid El-Antri大屠杀杀死了50至100人。
+- -  1996年：Learjet 35撞向新罕布什尔州多切斯特附近的Smarts Mountain，杀死了两名飞行员。
+- -  1994年：法国航班8969航班在阿尔及利亚阿尔及利亚的Houari Boumediene机场的地面上被劫持。在三天的过程中，三名乘客和四名恐怖分子都被杀。
+- -  1983年：从Leshukonskoye机场起飞期间，Aeroflot 601航班坠毁，造成49人中的44人丧生。
+- -  1974年：Cyclone Tracy破坏了澳大利亚达尔文。
+- -  1973年：通过哥伦比亚特区主权法案，允许华盛顿特区的居民选举自己的地方政府。
+- -  1971年：Lansa 508航班被闪电袭击，并在秘鲁Huánuco部的波多黎各地区坠毁，杀死了91人。
+- -  1969年：尼日利亚军队占领了比亚夫兰首都乌木比亚。
+- -  1968年：阿波罗计划：阿波罗8号的船员进入月球周围的轨道，成为第一个这样做的人。他们进行了十个月球轨道，拍摄了Earthrise照片，播放了直播电视图片，并阅读了Genesis的前十节经文。
+- -  1966年：由美国军事撞车租赁的Canadair CL-44送入越南南部的一个小村庄，杀死111。
+- -  1964年：从旧金山国际机场起飞后，飞行的老虎线282航班坠毁，造成三人丧生。
+- -  1964年：越南战争：越共特工炸毁了南越南西贡的边缘酒店，以证明他们可以在严重的守卫资本中启动美国装置。
+- -  1953年：Tangiwai灾难：在新西兰的北岛，在Tangiwai，铁路桥被拉哈尔损坏，并在一辆客车下倒塌，炸死151人。
+- -  1952年：英国的Handley Page Victor Strategic Bomber的首次飞行。
+- -  1951年：利比亚变得独立。伊德里斯一世被宣布为利比亚国王。
+- -  1945年：在西弗吉尼亚州费耶特维尔的家中，九个孩子中有五个失踪，被烧毁了。
+- -  1944年：第二次世界大战：比利时军队利奥波尔维尔（Leopoldville）被鱼雷击倒，损失了763名士兵和56名船员。
+- -  1943年：第二次世界大战：美国将军德怀特·D·艾森豪威尔（D. Eisenhower）被任命为“霸主行动”的最高盟军指挥官。
+- -  1942年：第二次世界大战：法国君主主义者，费尔南德·邦纳尔·德拉·查尔尔（Fernand Bonnier de la Chapelle），暗杀阿尔及利亚阿尔及利亚的Vichy法国法国海军上将FrançoisDarlan。
+- -  1941年：第二次世界大战：班加西被英国第八军征服。
+- -  1941年：第二次世界大战：古晋被日军征服。
+- -  1939年：第二次世界大战：教皇庇护十二世使圣诞节前夕呼吁和平。
+- -  1929年：华盛顿特区的白宫西翼爆发了四起警报大火。
+- -  1929年：对阿根廷总统希波利托·伊里戈恩的暗杀企图。
 
 *由googletrans翻译*
