@@ -1,69 +1,69 @@
 # History of Today 
 
-- 2013: More than 100 people are killed when anti-government forces attack key buildings in Kinshasa, Democratic Republic of the Congo.
-- 2009: A suicide bomber kills nine people at Forward Operating Base Chapman, a key facility of the Central Intelligence Agency in Afghanistan.
-- 2009: A segment of the Lanzhou-Zhengzhou-Changsha pipeline ruptures in Shaanxi, China, and approximately 150,000 L (40,000 US gal) of diesel oil flows down the Wei River before finally reaching the Yellow River.
-- 2006: Former President of Iraq Saddam Hussein is executed.
-- 2006: The Indonesian passenger ferry MV Senopati Nusantara sinks in a storm, resulting in at least 400 deaths.
-- 2006: Madrid-Barajas Airport is bombed.
-- 2005: Tropical Storm Zeta forms in the open Atlantic Ocean, tying the record for the latest tropical cyclone ever to form in the North Atlantic basin.
-- 2004: A fire in the República Cromagnon nightclub in Buenos Aires, Argentina, kills 194.
-- 2000: Rizal Day bombings: A series of bombs explode in various places in Metro Manila, Philippines within a period of a few hours, killing 22 and injuring about a hundred.
-- 1997: In the worst incident in Algeria's insurgency, the Wilaya of Relizane massacres, 400 people from four villages are killed.
-- 1996: Proposed budget cuts by Benjamin Netanyahu spark protests from 250,000 workers who shut down services across Israel.
-- 1993: Israel establishes diplomatic relations with Vatican City and also upgrades to full diplomatic relations with Ireland.
-- 1987: Stella Sigcau, Prime minister of the South African Bantustan of Transkei, is ousted from power in a bloodless military coup led by General Bantu Holomisa.
-- 1972: Vietnam War: Operation Linebacker II ends.
-- 1967: Aeroflot Flight L-51 crashes near Liepāja International Airport in Liepāja, Latvia, killing 43.
-- 1958: The Guatemalan Air Force sinks several Mexican fishing boats alleged to have breached maritime borders, killing three and sparking international tension.
-- 1954: The Finnish National Bureau of Investigation is established to consolidate criminal investigation and intelligence into a single agency.
-- 1952: An RAF Avro Lancaster bomber crashes in Luqa, Malta after an engine failure, killing three crew members and a civilian on the ground.
-- 1947: Cold War: King Michael I of Romania is forced to abdicate by the Soviet Union-backed Communist government of Romania.
-- 1944: King George II of Greece declares a regency, leaving the throne vacant.
-- 1943: Subhas Chandra Bose raises the flag of Indian independence at Port Blair.
-- 1936: The Flint sit-down strike hits General Motors.
-- 1935: The Italian Air Force bombs a Swedish Red Cross hospital during the Second Italo-Abyssinian War.
-- 1927: The Ginza Line, the first subway line in Asia, opens in Tokyo, Japan.
-- 1922: The Union of Soviet Socialist Republics (USSR) is formed.
-- 1916: The last coronation in Hungary is performed for King Charles IV and Queen Zita.
-- 1916: Russian mystic and advisor to the Tsar Grigori Yefimovich Rasputin is murdered by a loyalist group led by Prince Felix Yusupov. His frozen, partially-trussed body was discovered in a Petrograd river three days later.
-- 1906: The All-India Muslim League is founded in Dacca, East Bengal, British India (later Dhaka, Bangladesh).
-- 1905: Former Idaho Governor Frank Steunenberg is assassinated at the front gate of his home in Caldwell.
-- 1903: A fire at the Iroquois Theater in Chicago, Illinois kills at least 605.
+- 2020: The World Health Organization issues its first emergency use validation for a COVID-19 vaccine.
+- 2019: The World Health Organization is informed of cases of pneumonia with an unknown cause, detected in Wuhan. This later turned out to be COVID-19, the cause of the COVID-19 pandemic.
+- 2018: Thirty-nine people are killed after a ten-story building collapses in the industrial city of Magnitogorsk, Russia.
+- 2015: A fire breaks out at the Downtown Address Hotel in Downtown Dubai, United Arab Emirates, located near the Burj Khalifa, two hours before the fireworks display is due to commence. Sixteen injuries were reported; one had a heart attack, another suffered a major injury, and fourteen others with minor injuries.
+- 2014: A New Year's Eve celebration stampede in Shanghai kills at least 36 people and injures 49 others.
+- 2011: NASA succeeds in putting the first of two Gravity Recovery and Interior Laboratory satellites in orbit around the Moon.
+- 2010: Tornadoes touch down in midwestern and southern United States, including Washington County, Arkansas; Greater St. Louis, Sunset Hills, Missouri, Illinois, and Oklahoma, with a few tornadoes in the early hours. A total of 36 tornadoes touched down, resulting in the deaths of nine people and $113 million in damages.
+- 2009: Both a blue moon and a lunar eclipse occur.
+- 2004: The official opening of Taipei 101, the tallest skyscraper at that time in the world, standing at a height of 509 metres (1,670 ft).
+- 2000: The last day of the 20th Century and 2nd Millennium.
+- 1999: Indian Airlines Flight 814 hijacking ends after seven days with the release of 190 survivors at Kandahar Airport, Afghanistan.
+- 1999: The U.S. government hands control of the Panama Canal (as well all the adjacent land to the canal known as the Panama Canal Zone) to Panama. This act complied with the signing of the 1977 Torrijos-Carter Treaties.
+- 1999: The first President of Russia, Boris Yeltsin, resigns from office, leaving Prime Minister Vladimir Putin as the acting President and successor.
+- 1998: The European Exchange Rate Mechanism freezes the values of the legacy currencies in the Eurozone, and establishes the value of the euro currency.
+- 1995: The final comic of Calvin and Hobbes is published.
+- 1994: The First Chechen War: The Russian Ground Forces begin a New Year's storming of Grozny.
+- 1994: This date is skipped altogether in Kiribati as the Phoenix Islands and Line Islands change time zones from UTC−11:00 to UTC+13:00 and UTC−10:00 to UTC+14:00, respectively.
+- 1992: Czechoslovakia is peacefully dissolved in what is dubbed by media as the Velvet Divorce, resulting in the creation of the Czech Republic and the Slovak Republic.
+- 1991: All official Soviet Union institutions have ceased operations by this date, five days after the Soviet Union is officially dissolved.
+- 1983: In Nigeria, a coup d'état led by Major General Muhammadu Buhari ends the Second Nigerian Republic.
+- 1983: Benjamin Ward is appointed New York City Police Department's first ever African American police commissioner.
+- 1983: The AT&T Bell System is broken up by the United States Government.
+- 1981: A coup d'état in Ghana removes President Hilla Limann's PNP government and replaces it with the Provisional National Defence Council led by Flight lieutenant Jerry Rawlings.
+- 1968: MacRobertson Miller Airlines Flight 1750 crashes near Port Hedland, Western Australia, killing all 26 people on board.
+- 1968: The first flight of the Tupolev Tu-144, the first civilian supersonic transport in the world.
+- 1965: Jean-Bédel Bokassa, leader of the Central African Republic army, and his military officers begin a coup d'état against the government of President David Dacko.
+- 1963: The Central African Federation officially collapses, subsequently becoming Zambia, Malawi and Rhodesia.
+- 1961: RTÉ, Ireland's state broadcaster, launches its first national television service.
+- 1956: The Romanian Television network begins its first broadcast in Bucharest.
+- 1955: General Motors becomes the first U.S. corporation to make over US$1 billion in a year.
 
 *Data from muffinlabs* 
 
 # 历史上的今天 
 
-- -  2013年：当反政府部队攻击刚果民主共和国金沙萨的主要建筑时，有100多人被杀。
-- -  2009年：一名自杀炸弹袭击者在阿富汗中央情报机构的关键设施中杀死了九人。
-- -  2009年：中国shaanxi的Lanzhou-Zhengzhou-changsha管道破裂，在终于到达黄河之前，大约有15万L（40,000 US GAL）的柴油油流到Wei河。
-- -  2006年：伊拉克萨达姆·侯赛因前总统被处决。
-- -  2006年：印尼乘客渡轮MV Senopati Nusantara在暴风雨中沉没，导致至少400人死亡。
-- -  2006年：马德里 - 巴拉哈斯机场被炸毁。
-- -  2005年：热带风暴Zeta在开放的大西洋中形成，将最新的热带气旋的记录绑在了北大西洋盆地。
-- -  2004年：阿根廷布宜诺斯艾利斯的RepúblicaCromagnon夜总会大火杀死了194。
-- -  2000年：黎刹日爆炸：一系列炸弹在菲律宾马尼拉大都会的各个地方爆炸了几个小时，造成22人丧生，大约一百人受伤。
-- -  1997年：在阿尔及利亚叛乱中最严重的事件中，伊丽扎内大屠杀的威拉亚（Wilaya），来自四个村庄的400人被杀。
-- -  1996年：本杰明·内塔尼亚胡（Benjamin Netanyahu）提议削减预算，从25万名工人开始关闭以色列服务的工人。
-- -  1993年：以色列与梵蒂冈城建立了外交关系，并升级到与爱尔兰的完全外交关系。
-- -  1987年：Transkei的南非班塔斯坦总理斯特拉·西格考（Stella Sigcau）在由班图·霍洛米萨（Bantu Holomisa）将军领导的无血病军事政变中被驱逐出权力。
-- -  1972年：越南战争：行动后卫II结束。
-- -  1967年：拉特维亚莱帕贾（Liepāja）的Liepāja国际机场附近的Aeroflot航班L-51坠毁，丧生43。
-- -  1958年：危地马拉空军下沉了几艘墨西哥渔船，据称违反了海上边界，杀死了三场并引发国际紧张局势。
-- -  1954年：建立了芬兰国家调查局，以将刑事调查和情报巩固到一个机构中。
-- -  1952年：发动机故障后在马耳他的卢卡（Luqa）坠毁的Raf Avro Lancaster炸弹袭击者，杀死了三名机组人员和一名平民。
-- -  1947年：冷战：罗马尼亚国王迈克尔一世被罗马尼亚的共产党政府迫使罗马尼亚国王退位。
-- -  1944年：希腊国王乔治二世宣布一项摄政，使王位空缺。
-- -  1943年：Subhas Chandra Bose在布莱尔港举起了印度独立的旗帜。
-- -  1936年：火石坐下罢工击中了通用汽车。
-- -  1935年：意大利空军在第二次意大利阿比西尼战争期间炸弹一家瑞典红十字会医院。
-- -  1927年：亚洲第一条地铁线Ginza Line在日本东京开放。
-- -  1922年：形成了苏联社会主义共和国联盟（苏联）。
-- -  1916年：匈牙利的最后加冕典礼是为查尔斯四世国王和齐塔皇后进行的。
-- -  1916年：沙皇格里格里·耶菲莫维奇·拉斯普汀（Tsar Grigori Yefimovich Rasputin）的俄罗斯神秘主义者和顾问被菲利克斯·尤苏波夫亲王领导的忠实团体谋杀。三天后，他在彼得格勒河中发现了他的冷冻，部分捕获的尸体。
-- -  1906年：全印度穆斯林联盟成立于英属印度东孟加拉国达卡（后来的孟加拉国达卡）。
-- -  1905年：前爱达荷州州长弗兰克·史蒂芬伯格（Frank Steunenberg）在他位于考德威尔（Caldwell）的家的前门被暗杀。
-- -  1903年：在伊利诺伊州芝加哥的易洛魁剧院发生大火，至少杀死了605人。
+- -  2020年：世界卫生组织对Covid-19疫苗的首次紧急使用验证。
+- -  2019年：武汉发现世界卫生组织的肺炎病例。后来事实证明这是Covid-19，这是Covid-19的大流行的原因。
+- -  2018年：在俄罗斯Magnitogorsk的一座十层建筑物倒塌后，有39人被杀。
+- -  2015年：在阿拉伯联合酋长国迪拜市中心的市区地址酒店爆发了大火，位于布吉·哈利法附近，在烟花汇演开始前两个小时开始。据报道有16人受伤；一个人心脏病发作，另一人受到重大伤害，另外14人受到轻伤。
+- -  2014年：上海的除夕庆典踩踏事件至少杀死了36人，伤害了49人。
+- -  2011年：NASA成功地将两个重力恢复和室内实验室卫星中的第一个放在月球周围的轨道上。
+- -  2010年：龙卷风在美国和南部的美国南部，包括阿肯色州华盛顿县；大圣路易斯，日落山，密苏里州，伊利诺伊州和俄克拉荷马州，在凌晨进行了几次龙卷风。共有36个龙卷风降落，导致9人死亡和1.13亿美元的赔偿。
+- -2009：蓝色月亮和月食发生。
+- -  2004年：台北101的正式开业，当时是世界上最高的摩天大楼，站在509米（1,670英尺）的高度。
+- -  2000年：20世纪和第二千年的最后一天。
+- -  1999年：印度航空公司814航班在七天后劫持，在阿富汗坎大哈机场释放了190个幸存者。
+- -  1999年：美国政府将巴拿马运河的控制权（以及所有邻近的土地被称为巴拿马运河地区）到巴拿马。该法案符合1977年托里乔斯 - 校正条约的签署。
+- -  1999年：俄罗斯的第一任总统鲍里斯·叶利钦（Boris Yeltsin）辞职，使总理弗拉基米尔·普京（Vladimir Putin）成为代理总统兼继任者。
+- -  1998年：欧洲汇率机制冻结了欧元区传统货币的价值，并确定了欧元货币的价值。
+- -  1995年：加尔文和霍布斯的最后漫画出版了。
+- -  1994年：第一次车臣战争：俄罗斯地面部队开始了新年对格罗兹尼的袭击。
+- -  1994年：由于凤凰岛和线岛分别将时区从UTC −11：00更改为UTC+13：00和UTC -10：00分别为UTC+14：00，因此在基里巴蒂（Kiribati）完全跳过了这个日期。
+- -  1992年：捷克斯洛伐克和平溶解在媒体称为天鹅绒离婚的媒体上，导致捷克共和国和斯洛伐克共和国的创建。
+- -  1991年：所有苏联官方机构在此日期，苏联正式解散五天后就停止了行动。
+- -  1983年：在尼日利亚，由穆罕默德·布哈里（Muhammadu Buhari）少将领导的政变结束了第二个尼日利亚共和国。
+- -  1983年：本杰明·沃德（Benjamin Ward）被任命为纽约市警察局有史以来第一位非裔美国警察局长。
+- -  1983年：AT＆T Bell系统被美国政府分解。
+- -  1981年：加纳的一场政变罢免了希拉·利曼（Hilla Limann）总统的PNP政府，并取代了由杰里·罗林斯（Jerry Rawlings）中尉领导的临时国防委员会。
+- -  1968年：麦克罗伯森·米勒（MacRobertson Miller）航空公司1750航班在西澳大利亚州港口海德兰港附近撞车，杀死了船上的所有26人。
+- -  1968年：Tupolev Tu-144的第一次飞行，这是世界上第一个平民超音速运输。
+- -  1965年：中非共和国军队领导人Jean-BédelBokassa和他的军官开始了对戴维·达科总统政府的政变。
+- -  1963年：中非联邦正式崩溃，随后成为赞比亚，马拉维和罗得西亚。
+- -  1961年：爱尔兰国家广播公司RTé推出了首个国家电视台。
+- -  1956年：罗马尼亚电视网络开始在布加勒斯特的第一个广播。
+- -  1955年：通用汽车成为第一家一年赚取超过10亿美元的美国公司。
 
 *由googletrans翻译*
