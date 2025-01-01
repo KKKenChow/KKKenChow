@@ -1,69 +1,75 @@
 # History of Today 
 
-- 2020: The World Health Organization issues its first emergency use validation for a COVID-19 vaccine.
-- 2019: The World Health Organization is informed of cases of pneumonia with an unknown cause, detected in Wuhan. This later turned out to be COVID-19, the cause of the COVID-19 pandemic.
-- 2018: Thirty-nine people are killed after a ten-story building collapses in the industrial city of Magnitogorsk, Russia.
-- 2015: A fire breaks out at the Downtown Address Hotel in Downtown Dubai, United Arab Emirates, located near the Burj Khalifa, two hours before the fireworks display is due to commence. Sixteen injuries were reported; one had a heart attack, another suffered a major injury, and fourteen others with minor injuries.
-- 2014: A New Year's Eve celebration stampede in Shanghai kills at least 36 people and injures 49 others.
-- 2011: NASA succeeds in putting the first of two Gravity Recovery and Interior Laboratory satellites in orbit around the Moon.
-- 2010: Tornadoes touch down in midwestern and southern United States, including Washington County, Arkansas; Greater St. Louis, Sunset Hills, Missouri, Illinois, and Oklahoma, with a few tornadoes in the early hours. A total of 36 tornadoes touched down, resulting in the deaths of nine people and $113 million in damages.
-- 2009: Both a blue moon and a lunar eclipse occur.
-- 2004: The official opening of Taipei 101, the tallest skyscraper at that time in the world, standing at a height of 509 metres (1,670 ft).
-- 2000: The last day of the 20th Century and 2nd Millennium.
-- 1999: Indian Airlines Flight 814 hijacking ends after seven days with the release of 190 survivors at Kandahar Airport, Afghanistan.
-- 1999: The U.S. government hands control of the Panama Canal (as well all the adjacent land to the canal known as the Panama Canal Zone) to Panama. This act complied with the signing of the 1977 Torrijos-Carter Treaties.
-- 1999: The first President of Russia, Boris Yeltsin, resigns from office, leaving Prime Minister Vladimir Putin as the acting President and successor.
-- 1998: The European Exchange Rate Mechanism freezes the values of the legacy currencies in the Eurozone, and establishes the value of the euro currency.
-- 1995: The final comic of Calvin and Hobbes is published.
-- 1994: The First Chechen War: The Russian Ground Forces begin a New Year's storming of Grozny.
-- 1994: This date is skipped altogether in Kiribati as the Phoenix Islands and Line Islands change time zones from UTC−11:00 to UTC+13:00 and UTC−10:00 to UTC+14:00, respectively.
-- 1992: Czechoslovakia is peacefully dissolved in what is dubbed by media as the Velvet Divorce, resulting in the creation of the Czech Republic and the Slovak Republic.
-- 1991: All official Soviet Union institutions have ceased operations by this date, five days after the Soviet Union is officially dissolved.
-- 1983: In Nigeria, a coup d'état led by Major General Muhammadu Buhari ends the Second Nigerian Republic.
-- 1983: Benjamin Ward is appointed New York City Police Department's first ever African American police commissioner.
-- 1983: The AT&T Bell System is broken up by the United States Government.
-- 1981: A coup d'état in Ghana removes President Hilla Limann's PNP government and replaces it with the Provisional National Defence Council led by Flight lieutenant Jerry Rawlings.
-- 1968: MacRobertson Miller Airlines Flight 1750 crashes near Port Hedland, Western Australia, killing all 26 people on board.
-- 1968: The first flight of the Tupolev Tu-144, the first civilian supersonic transport in the world.
-- 1965: Jean-Bédel Bokassa, leader of the Central African Republic army, and his military officers begin a coup d'état against the government of President David Dacko.
-- 1963: The Central African Federation officially collapses, subsequently becoming Zambia, Malawi and Rhodesia.
-- 1961: RTÉ, Ireland's state broadcaster, launches its first national television service.
-- 1956: The Romanian Television network begins its first broadcast in Bucharest.
-- 1955: General Motors becomes the first U.S. corporation to make over US$1 billion in a year.
+- Artsakh ceases to exist.: None
+- Disney's copyright protection on Steamboat Willie and the original Mickey Mouse expires as they enter the public domain.: None
+- A 7.5 Mww  earthquake strikes the western coast of Japan, killing more than 300 people and injuring over 1,000 others.: None
+- 2024
+A 7.5 Mww  earthquake strikes the western coast of Japan, killing more than 300 people and injuring over 1,000 others.[112]
+Disney's copyright protection on Steamboat Willie and the original Mickey Mouse expires as they enter the public domain.[113]
+Artsakh ceases to exist.[114]: None
+- 2023: Croatia officially adopts the Euro, becoming the 20th Eurozone country, and becomes the 27th member of the Schengen Area.
+- 2017: An attack on a nightclub in Istanbul, Turkey, during New Year's celebrations, kills 39 people and injures 79 others.
+- 2015: The Eurasian Economic Union comes into effect, creating a political and economic union between Russia, Belarus, Armenia, Kazakhstan and Kyrgyzstan.
+- 2013: At least 60 people are killed and 200 injured in a stampede after celebrations at Félix Houphouët-Boigny Stadium in Abidjan, Ivory Coast.
+- 2011: Estonia officially adopts the Euro currency and becomes the 17th Eurozone country.
+- 2011: A bomb explodes as Coptic Christians in Alexandria, Egypt, leave a new year service, killing 23 people.
+- 2010: A suicide car bomber detonates at a volleyball tournament in Lakki Marwat, Pakistan, killing 105 and injuring 100 more.
+- 2009: Sixty-six people die in a nightclub fire in Bangkok, Thailand.
+- 2007: Adam Air Flight 574 breaks apart in mid-air and crashes near the Makassar Strait, Indonesia, killing all 102 people on board.
+- 2007: Bulgaria and Romania join the EU.
+- 2004: In a vote of confidence, General Pervez Musharraf wins 658 out of 1,170 votes in the Electoral College of Pakistan, and according to Article 41(8) of the Constitution of Pakistan, is "deemed to be elected" to the office of President until October 2007.
+- 2001: Greece adopts the Euro, becoming the 12th Eurozone country.
+- 1999: The Euro currency is introduced in 11 member nations of the European Union (with the exception of the United Kingdom, Denmark, Greece and Sweden).
+- 1998: Argentinian physicist Juan Maldacena published a landmark paper initiating the study of AdS/CFT correspondence, which links string theory and quantum gravity.
+- 1998: Following a currency reform, Russia begins to circulate new rubles to stem inflation and promote confidence.
+- 1995: Austria, Finland and Sweden join the EU.
+- 1995: The Draupner wave in the North Sea in Norway is detected, confirming the existence of freak waves.
+- 1995: The World Trade Organization comes into being.
+- 1994: The North American Free Trade Agreement (NAFTA) comes into effect.
+- 1994: The Zapatista Army of National Liberation initiates twelve days of armed conflict in the Mexican state of Chiapas.
+- 1993: Dissolution of Czechoslovakia: Czechoslovakia is divided into the Czech Republic and Slovak Republic.
+- 1990: David Dinkins is sworn in as New York City's first black mayor.
+- 1989: The Montreal Protocol comes into force, stopping the use of chemicals contributing to ozone depletion.
+- 1988: The Evangelical Lutheran Church in America comes into existence, creating the largest Lutheran denomination in the United States.
+- 1987: The Isleta Pueblo tribe elect Verna Williamson to be their first female governor.
+- 1985: The first British mobile phone call is made by Michael Harrison to his father Sir Ernest Harrison, chairman of Vodafone.
 
 *Data from muffinlabs* 
 
 # 历史上的今天 
 
-- -  2020年：世界卫生组织对Covid-19疫苗的首次紧急使用验证。
-- -  2019年：武汉发现世界卫生组织的肺炎病例。后来事实证明这是Covid-19，这是Covid-19的大流行的原因。
-- -  2018年：在俄罗斯Magnitogorsk的一座十层建筑物倒塌后，有39人被杀。
-- -  2015年：在阿拉伯联合酋长国迪拜市中心的市区地址酒店爆发了大火，位于布吉·哈利法附近，在烟花汇演开始前两个小时开始。据报道有16人受伤；一个人心脏病发作，另一人受到重大伤害，另外14人受到轻伤。
-- -  2014年：上海的除夕庆典踩踏事件至少杀死了36人，伤害了49人。
-- -  2011年：NASA成功地将两个重力恢复和室内实验室卫星中的第一个放在月球周围的轨道上。
-- -  2010年：龙卷风在美国和南部的美国南部，包括阿肯色州华盛顿县；大圣路易斯，日落山，密苏里州，伊利诺伊州和俄克拉荷马州，在凌晨进行了几次龙卷风。共有36个龙卷风降落，导致9人死亡和1.13亿美元的赔偿。
-- -2009：蓝色月亮和月食发生。
-- -  2004年：台北101的正式开业，当时是世界上最高的摩天大楼，站在509米（1,670英尺）的高度。
-- -  2000年：20世纪和第二千年的最后一天。
-- -  1999年：印度航空公司814航班在七天后劫持，在阿富汗坎大哈机场释放了190个幸存者。
-- -  1999年：美国政府将巴拿马运河的控制权（以及所有邻近的土地被称为巴拿马运河地区）到巴拿马。该法案符合1977年托里乔斯 - 校正条约的签署。
-- -  1999年：俄罗斯的第一任总统鲍里斯·叶利钦（Boris Yeltsin）辞职，使总理弗拉基米尔·普京（Vladimir Putin）成为代理总统兼继任者。
-- -  1998年：欧洲汇率机制冻结了欧元区传统货币的价值，并确定了欧元货币的价值。
-- -  1995年：加尔文和霍布斯的最后漫画出版了。
-- -  1994年：第一次车臣战争：俄罗斯地面部队开始了新年对格罗兹尼的袭击。
-- -  1994年：由于凤凰岛和线岛分别将时区从UTC −11：00更改为UTC+13：00和UTC -10：00分别为UTC+14：00，因此在基里巴蒂（Kiribati）完全跳过了这个日期。
-- -  1992年：捷克斯洛伐克和平溶解在媒体称为天鹅绒离婚的媒体上，导致捷克共和国和斯洛伐克共和国的创建。
-- -  1991年：所有苏联官方机构在此日期，苏联正式解散五天后就停止了行动。
-- -  1983年：在尼日利亚，由穆罕默德·布哈里（Muhammadu Buhari）少将领导的政变结束了第二个尼日利亚共和国。
-- -  1983年：本杰明·沃德（Benjamin Ward）被任命为纽约市警察局有史以来第一位非裔美国警察局长。
-- -  1983年：AT＆T Bell系统被美国政府分解。
-- -  1981年：加纳的一场政变罢免了希拉·利曼（Hilla Limann）总统的PNP政府，并取代了由杰里·罗林斯（Jerry Rawlings）中尉领导的临时国防委员会。
-- -  1968年：麦克罗伯森·米勒（MacRobertson Miller）航空公司1750航班在西澳大利亚州港口海德兰港附近撞车，杀死了船上的所有26人。
-- -  1968年：Tupolev Tu-144的第一次飞行，这是世界上第一个平民超音速运输。
-- -  1965年：中非共和国军队领导人Jean-BédelBokassa和他的军官开始了对戴维·达科总统政府的政变。
-- -  1963年：中非联邦正式崩溃，随后成为赞比亚，马拉维和罗得西亚。
-- -  1961年：爱尔兰国家广播公司RTé推出了首个国家电视台。
-- -  1956年：罗马尼亚电视网络开始在布加勒斯特的第一个广播。
-- -  1955年：通用汽车成为第一家一年赚取超过10亿美元的美国公司。
+- -  Artsakh不再存在。
+- - 迪士尼对汽船威利（Willie）和原始米老鼠进入公共领域时的版权保护。：无
+- -  7.5 MWW地震袭击了日本西部海岸，炸死300多人，另外1,000多人受伤。
+- -2024
+- 7.5 MWW地震袭击了日本西部海岸，炸死300多人，另外1,000多人受伤。[112]
+- 迪士尼在汽船威利（Willie）和原始米老鼠进入公共领域时的版权保护到期。[113]
+- Artsakh不再存在。[114]：无
+- -  2023年：克罗地亚正式采用欧元，成为第20个欧元区国家，并成为申根地区的第27位成员。
+- -  2017年：在新年庆祝活动中，在土耳其伊斯坦布尔的一家夜总会袭击，造成39人丧生，并受伤79人。
+- -  2015年：欧亚经济联盟生效，在俄罗斯，白俄罗斯，亚美尼亚，哈萨克斯坦和吉尔吉斯斯坦之间建立了政治和经济联盟。
+- -  2013年：在象牙海岸的Abidjan举行的FélixHouphouët-Boigny体育场庆祝活动后，至少有60人在踩踏事件中被杀，200人受伤。
+- -  2011年：爱沙尼亚正式采用欧元货币，成为第17欧元区。
+- -  2011年：一枚炸弹爆炸，埃及亚历山大的科普特基督徒爆炸，留下了新的一年服务，造成23人丧生。
+- -  2010年：一辆自杀式轰炸机在巴基斯坦Lakki Marwat的排球锦标赛上引爆，造成105人杀死100人。
+- -  2009年：六十六个人死于泰国曼谷的夜总会大火。
+- -  2007年：亚当航空574号航班在空中闯入，并在印度尼西亚的玛卡萨尔海峡附近坠毁，杀死了所有102人。
+- -  2007年：保加利亚和罗马尼亚加入欧盟。
+- -  2004年：在信任投票中，巴基斯坦选举学院的1,170票中，佩尔维斯·穆沙拉夫将军在巴基斯坦宪法第41（8）条中赢得了658票，“被视为被视为当选”总统直到2007年10月。
+- -  2001年：希腊采用欧元，成为第12个欧元区国家。
+- -  1999年：欧元货币是在欧盟的11个成员国中引入的（英国，丹麦，希腊和瑞典）。
+- -1998：阿根廷物理学家胡安·马尔达克纳（Juan Maldacena）发表了一篇具有里程碑意义的论文，启动了ADS/CFT对应的研究，该论文将弦乐理论和量子引力联系起来。
+- -  1998年：经过货币改革，俄罗斯开始散发新卢布，以阻止通货膨胀并促进信心。
+- -  1995年：奥地利，芬兰和瑞典加入了欧盟。
+- -  1995年：检测到挪威北海的Draupner浪潮，证实了怪胎波的存在。
+- -  1995年：世界贸易组织即将成为现实。
+- -  1994年：北美自由贸易协定（NAFTA）生效。
+- -  1994年：Zapatista民族解放军队在墨西哥州的Chiapas启动了十二天的武装冲突。
+- -  1993年：捷克斯洛伐克的解散：捷克斯洛伐克分为捷克共和国和斯洛伐克共和国。
+- -  1990年：戴维·丁金斯（David Dinkins）宣誓就职纽约市的第一位黑人市长。
+- -  1989年：蒙特利尔方案生效，停止使用造成臭氧耗竭的化学物质。
+- -  1988年：美国的福音派路德教会成立，在美国创造了最大的路德教会教派。
+- -  1987年：伊斯莱塔·普韦布洛（Isleta Pueblo Tribe）选举维尔娜·威廉姆森（Verna Williamson）是他们的第一位女州长。
+- -  1985年：迈克尔·哈里森（Michael Harrison）对沃达丰（Vodafone）董事长欧内斯特·哈里森（Ernest Harrison）爵士迈克尔·哈里森（Michael Harrison）拨打了第一个英国手机电话。
 
 *由googletrans翻译*
