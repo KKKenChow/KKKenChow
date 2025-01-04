@@ -1,69 +1,69 @@
 # History of Today 
 
-- 2024: At least 91 people are killed in bombings in Kerman, Iran, during a ceremony commemorating the assassination of Iranian General Qasem Soleimani 4 years ago.
-- 2023: Singapore's Jurong Bird Park permanently closes.
-- 2020: Iranian General Qasem Soleimani is killed by an American airstrike near Baghdad International Airport, igniting global concerns of a potential armed conflict.
-- 2019: Chang'e 4 makes the first soft landing on the far side of the Moon, deploying the Yutu-2 lunar rover.
-- 2018: For the first time in history, all five major storm surge gates in the Netherlands are closed simultaneously in the wake of a storm.
-- 2016: In response to the execution of Nimr al-Nimr, Iran ends its diplomatic relations with Saudi Arabia.
-- 2015: Boko Haram militants destroy the entire town of Baga in north-east Nigeria, starting the Baga massacre and killing as many as 2,000 people.
-- 2009: The first block of the blockchain of the decentralized payment system Bitcoin, called the Genesis block, is established by the creator of the system, Satoshi Nakamoto.
-- 2004: Flash Airlines Flight 604 crashes into the Red Sea, resulting in 148 deaths, making it one of the deadliest aviation accidents in Egyptian history.
-- 2002: Israeli-Palestinian conflict: Israeli forces seize the Palestinian freighter Karine A in the Red Sea, finding 50 tons of weapons.
-- 1999: The Mars Polar Lander is launched by NASA.
-- 1994: Baikal Airlines Flight 130 crashes near Mamoney, Irkutsk, Russia, resulting in 125 deaths.
-- 1993: In Moscow, Russia, George H. W. Bush and Boris Yeltsin sign the second Strategic Arms Reduction Treaty (START).
-- 1992: CommutAir Flight 4821 crashes on approach to Adirondack Regional Airport, in Saranac Lake, New York, killing two people.
-- 1990: United States invasion of Panama: Manuel Noriega, former leader of Panama, surrenders to American forces.
-- 1987: Varig Flight 797 crashes near Akouré in the Ivory Coast, resulting in 50 deaths.
-- 1977: Apple Computer is incorporated.
-- 1976: The International Covenant on Economic, Social and Cultural Rights, adopted by the United Nations General Assembly, comes into force.
-- 1962: Pope John XXIII excommunicates Fidel Castro.
-- 1961: Aero Flight 311 crashes into the forest in Kvevlax, Finland, killing 25 people.
-- 1961: A protest by agricultural workers in Baixa de Cassanje, Portuguese Angola, turns into a revolt, opening the Angolan War of Independence, the first of the Portuguese Colonial Wars.
-- 1961: The SL-1 nuclear reactor, near Idaho Falls, Idaho, is destroyed by a steam explosion in the only reactor incident in the United States to cause immediate fatalities.
-- 1961: Cold War: After a series of economic retaliations against one another, the United States severs diplomatic relations with Cuba.
-- 1959: Alaska is admitted as the 49th U.S. state.
-- 1958: The West Indies Federation is formed.
-- 1957: The Hamilton Watch Company introduces the first electric watch.
-- 1956: A fire damages the top part of the Eiffel Tower.
-- 1953: Frances P. Bolton and her son, Oliver from Ohio, become the first mother and son to serve simultaneously in the U.S. Congress.
-- 1949: The Bangko Sentral ng Pilipinas, the central bank of the Philippines, is established.
-- 1947: Proceedings of the U.S. Congress are televised for the first time.
+- 2018: Hennenman-Kroonstad train crash: A passenger train operated by Shosholoza Meyl collides with a truck on a level crossing at Geneva Station between Hennenman and Kroonstad, Free State, South Africa. Twenty people are killed and 260 injured.
+- 2013: A gunman kills eight people in a house-to-house rampage in Kawit, Cavite, Philippines.
+- 2010: The Burj Khalifa, the current tallest building in the world, officially opens in Dubai.
+- 2008: A Let L-410 Turbolet crashes in the Los Roques Archipelago in Venezuela, killing 14 people.
+- 2007: The 110th United States Congress convenes, electing Nancy Pelosi as the first female Speaker of the House in U.S. history.
+- 2006: Ehud Olmert becomes acting Prime Minister of Israel after the incumbent, Ariel Sharon, suffers a second, apparently more serious stroke.
+- 2004: Mikheil Saakashvili is elected President of Georgia following the November 2003 Rose Revolution.
+- 2004: Spirit, a NASA Mars rover, lands successfully on Mars at 04:35 UTC.
+- 2000: A Norwegian passenger train departing from Trondheim, collides with a local train coming from Hamar in Åsta, Åmot; 19 people are killed and 68 injured in the accident.
+- 1999: Former professional wrestler Jesse Ventura is sworn in as governor of Minnesota, United States.
+- 1998: A massive ice storm hits eastern Canada and the northeastern United States, continuing through January 10 and causing widespread destruction.
+- 1990: In Pakistan's deadliest train accident an overloaded passenger train collides with an empty freight train, resulting in 307 deaths and 700 injuries.
+- 1989: Second Gulf of Sidra incident: A pair of Libyan MiG-23 "Floggers" are shot down by a pair of US Navy F-14 Tomcats during an air-to-air confrontation.
+- 1987: The Maryland train collision: An Amtrak train en route to Boston from Washington, D.C., collides with Conrail engines in Chase, Maryland, United States, killing 16 people.
+- 1976: The Troubles: The Ulster Volunteer Force shoots dead six Irish Catholic civilians in County Armagh, Northern Ireland. The next day, gunmen would shoot dead ten Protestant civilians nearby in retaliation.
+- 1975: This date overflowed the 12-bit field that had been used in TOPS-10. There were numerous problems and crashes related to this bug while an alternative format was developed.
+- 1972: Rose Heilbron becomes the first female judge to sit at the Old Bailey in London, UK.
+- 1959: Luna 1 becomes the first spacecraft to reach the vicinity of the Moon.
+- 1958: Sputnik 1, the first artificial Earth satellite, launched by the Soviet Union in 1957, falls to Earth from orbit.
+- 1956: The Greek National Radical Union is formed by Konstantinos Karamanlis.
+- 1951: Korean War: Chinese and North Korean forces capture Seoul for the second time.
+- 1948: Burma gains its independence from the United Kingdom, becoming an independent republic.
+- 1946: The first day of a three-day “disastrous” tornado outbreak across the south-central United States leaves 41 people dead and at least 412 others injured.
+- 1944: World War II: Operation Carpetbagger, involving the dropping of arms and supplies to resistance fighters in Europe, begins.
+- 1918: The Finnish Declaration of Independence is recognized by Russia, Sweden, Germany and France.
+- 1912: The Scout Association is incorporated throughout the British Empire by royal charter.
+- 1909: Explorer Aeneas Mackintosh of the Imperial Trans-Antarctic Expedition escaped death by fleeing across ice floes.
+- 1903: Topsy, an elephant, is electrocuted by the owners of Luna Park, Coney Island. The Edison film company records the film Electrocuting an Elephant of Topsy's death.
+- 1896: Utah is admitted as the 45th U.S. state.
+- 1885: Sino-French War: French troops under General Oscar de Négrier defeat a numerically superior Qing force at Núi Bop in northern Vietnam.
 
 *Data from muffinlabs* 
 
 # 历史上的今天 
 
-- -  2024年：4年前，在纪念伊朗将军Qasem Soleimani暗杀的仪式上，至少有91人在伊朗的爆炸案中被杀。
-- -  2023年：新加坡的宫鸟公园永久关闭。
-- -  2020年：伊朗将军Qasem Soleimani被巴格达国际机场附近的美国空袭杀害，引起了全球对潜在武装冲突的关注。
-- -  2019年：Chang'e 4在月球远端进行了第一个软着陆，部署了Yutu-2 Lunar Rover。
-- -  2018年：历史上第一次，荷兰的所有五个主要风暴大门都在风暴之后同时关闭。
-- -  2016年：为了回应Nimr al-Nimr的执行，伊朗结束了与沙特阿拉伯的外交关系。
-- -  2015年：Boko Haram武装分子摧毁了尼日利亚东北部的整个Baga镇，开始了巴加大屠杀，并杀死了多达2,000人。
-- -  2009年：分散支付系统比特币的第一个区块，称为Genesis Block，由系统的创建者Satoshi Nakamoto建立。
-- -  2004年：604航班飞往红海，造成148人死亡，使其成为埃及历史上最致命的航空事故之一。
-- -  2002年：以色列 - 巴勒斯坦冲突：以色列部队在红海中占领了巴勒斯坦货轮卡林A，发现了50吨武器。
-- -  1999年：火星极地着陆器由美国国家航空航天局（NASA）推出。
-- -  1994年：贝加尔航空公司在俄罗斯Irkutsk Mamoney附近撞车130撞车，导致125人死亡。
-- -  1993年：在莫斯科，俄罗斯，乔治·H·W·布什（George H. W.
-- -  1992年：通勤4821航班在纽约萨拉纳克湖（Saranac Lake）的阿迪朗达克地区机场撞车时坠毁，杀死了两人。
-- -  1990年：美国入侵巴拿马：巴拿马前领导人曼努埃尔·诺里加（Manuel Noriega）向美军投降。
-- -  1987年：瓦里格（Varig）797航班在象牙海岸的阿库雷附近坠毁，导致50人死亡。
-- -  1977年：苹果计算机已合并。
-- -  1976年：联合国大会通过的国际经济，社会和文化权利国际盟约即将生效。
-- -  1962年：教皇约翰XXIII驱逐了菲德尔·卡斯特罗（Fidel Castro）。
-- -  1961年：Aero 311航班坠毁进入芬兰Kvevlax的森林，炸死25人。
-- -  1961年：葡萄牙安哥拉贝桑杰（Baixa de Cassanje）的农业工人的抗议活动变成了起义，开启了安哥拉独立战争，这是葡萄牙第一次殖民战争。
-- -  1961年：爱达荷州爱达荷州瀑布附近的SL-1核反应堆在美国唯一发生的反应堆造成直接死亡的反应堆中被蒸汽爆炸摧毁。
-- -  1961年：冷战：在对彼此进行了一系列经济报复之后，美国与古巴发生了外交关系。
-- -  1959年：阿拉斯加被接纳为美国第49州。
-- -  1958年：西印度群岛联合会成立。
-- -  1957年：汉密尔顿手表公司介绍了第一台电动手表。
-- -  1956年：大火损坏了埃菲尔铁塔的顶部。
-- -  1953年：弗朗西斯·波尔顿（Frances P. Bolton）和她的儿子奥利弗（Oliver）来自俄亥俄州，成为第一个在美国国会同时服役的母子。
-- -  1949年：建立了菲律宾中央银行的曼谷Sentral Ng Pilipinas。
-- -  1947年：美国国会议会首次电视转播。
+- -  2018年：Hennenman-Kroonstad火车撞车事故：由Shosholoza Meyl运营的客车与卡车在Hennenman和Hennenman和Kroonstad的南非自由州之间的Geneva车站的一处交叉点上撞车。二十人被杀，260人受伤。
+- -  2013年：一名枪手在菲律宾卡维特（Cavite）的卡维特（Kawit）的一间户外横冲直撞中杀死了八人。
+- -  2010年：世界上最高的建筑物Burj Khalifa正式在迪拜开业。
+- -  2008年：委内瑞拉洛斯·罗克群岛（Los Roques Archipelago）的L-410 Turbolet撞车事故，炸死14人。
+- -  2007年：第110届美国国会召集，选举南希·佩洛西（Nancy Pelosi）为美国历史上的第一位女性发言人。
+- -  2006年：埃胡德·奥尔默特（Ehud Olmert）在现任的阿里尔·沙龙（Ariel Sharon）遭受了第二次，显然更为严重的情况下成为以色列代理总理。
+- -  2004年：2004年11月，Mikheil Saakashvili当选为佐治亚州的总统。
+- -  2004年：Spirit，NASA MARS ROVER，在UTC 04:35成功地登陆了火星。
+- -  2000年：一辆从特隆海姆出发的挪威旅客火车与来自Åmot的哈马尔的当地火车相撞；事故中有19人丧生，68人受伤。
+- -  1999年：前职业摔跤手杰西·文图拉（Jesse Ventura）宣誓就任美国明尼苏达州州长。
+- -  1998年：一场大规模的冰风暴袭击了加拿大东部和美国东北部，一直持续到1月10日，并造成广泛破坏。
+- -  1990年：在巴基斯坦最致命的火车事故中，一辆超负荷的客运火车与空的货运火车相撞，导致307人死亡和700人受伤。
+- -  1989年：Sidra事件的第二湾：一对Libyan Mig-23“ Floggers”在一次空对空对抗中被美国海军F-14 Tomcats击落。
+- -  1987年：马里兰州的火车碰撞：从华盛顿特区前往波士顿的Amtrak火车与美国马里兰州大通的Conrail发动机相撞，炸死16人。
+- -  1976年：麻烦：阿尔斯特志愿者部队在北爱尔兰阿尔阿玛县射击了六名爱尔兰天主教平民。第二天，枪手将在报复附近射击十名新教平民。
+- -  1975年：这个日期溢出了在TOPS-10中使用的12位字段。在开发替代格式时，有许多问题和崩溃与此错误有关。
+- -  1972年：罗斯·海尔布伦（Rose Heilbron）成为第一位坐在英国伦敦的老贝利（Bailey）的女法官。
+- -  1959年：露娜1成为第一个到达月球附近的航天器。
+- -  1958年：苏联于1957年发射的第一颗人造地球卫星，这是第一个人造地球卫星，它来自轨道。
+- -  1956年：希腊国家激进联盟由Konstantinos Karamanlis组成。
+- -  1951年：朝鲜战争：中国和朝鲜部队第二次占领首尔。
+- -  1948年：缅甸从英国获得独立，成为一个独立的共和国。
+- -  1946年：在美国中南部进行了为期三天的“灾难性”龙卷风爆发的第一天，造成41人死亡，至少412人受伤。
+- -  1944年：第二次世界大战：地毯行动，涉及欧洲抵抗战士的武器和补给品的武器和补给品。
+- -  1918年：芬兰独立宣言得到俄罗斯，瑞典，德国和法国的认可。
+- -  1912年：童子军协会由皇家宪章纳入整个大英帝国。
+- -  1909年：帝国跨境探险的探险家埃涅阿斯·麦金托什（Aeneas Mackintosh）通过逃离冰架，逃脱了死亡。
+- -  1903年：一头大象Topsy，由Coney Island的Luna Park的所有者进行电死。爱迪生电影公司记录了这部电影，用托西去世的大象进行电动。
+- -  1896年：犹他州被接纳为美国第45个州。
+- -  1885年：中期战争：奥斯卡·德内格里尔（OscardeNégrier）将军领导下的法国军队在越南北部的努伊·博普（NúiBop）击败了一支数字上优越的清队。
 
 *由googletrans翻译*
