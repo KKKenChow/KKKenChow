@@ -1,69 +1,69 @@
 # History of Today 
 
-- 2022: Kazakh President Kassym-Jomart Tokayev dismisses Prime Minister Asqar Mamin and declares state of emergency over the 2022 Kazakh unrest.
-- 2014: A launch of the communication satellite GSAT-14 aboard the GSLV MK.II D5 marks the first successful flight of an Indian cryogenic engine.
-- 2005: The dwarf planet Eris is discovered by Palomar Observatory-based astronomers, later motivating the International Astronomical Union (IAU) to define the term planet for the first time.
-- 1993: The oil tanker MV Braer runs aground on the coast of the Shetland Islands, spilling 84,700 tons of crude oil.
-- 1991: Somali Civil War: The United States Embassy to Somalia in Mogadishu is evacuated by helicopter airlift days after the outbreak of violence in Mogadishu.
-- 1991: Georgian forces enter Tskhinvali, the capital of South Ossetia, Georgia, opening the 1991-92 South Ossetia War.
-- 1976: The Troubles: Gunmen shoot dead ten Protestant civilians after stopping their minibus at Kingsmill in County Armagh, Northern Ireland, UK, allegedly as retaliation for a string of attacks on Catholic civilians in the area by Loyalists, particularly the killing of six Catholics the night before.
-- 1976: The Khmer Rouge announce that the new Constitution of Democratic Kampuchea is ratified.
-- 1975: The Tasman Bridge in Tasmania, Australia, is struck by the bulk ore carrier Lake Illawarra, killing twelve people.
-- 1972: US President Richard Nixon announces the Space Shuttle program.
-- 1970: The 7.1 Mw  Tonghai earthquake shakes Tonghai County, Yunnan province, China, with a maximum Mercalli intensity of X (Extreme). Between 10,000 and 15,000 people are known to have been killed and about another 26,000 are injured.
-- 1969: Ariana Afghan Airlines Flight 701 crashes in Fernhill, West Sussex, UK, while on approach to Gatwick Airport, killing 50 people.
-- 1969: The Venera 5 space probe is launched at 06:28:08 UTC from Baikonur.
-- 1968: Alexander Dubček comes to power in Czechoslovakia, effectively beginning the "Prague Spring".
-- 1967: Cultural Revolution: The Shanghai People's Commune is established following the seizure of power from local city officials by revolutionaries.
-- 1957: In a speech given to the United States Congress, United States President Dwight D. Eisenhower announces the establishment of what will later be called the Eisenhower Doctrine.
-- 1953: The play Waiting for Godot by Samuel Beckett receives its première in Paris.
-- 1949: In his State of the Union address, United States President Harry S. Truman unveils his Fair Deal program.
-- 1945: The Soviet Union recognizes the new pro-Soviet Provisional Government of the Republic of Poland.
-- 1944: The Daily Mail becomes the first major London newspaper to be published on both sides of the Atlantic Ocean.
-- 1941: Amy Johnson, a 37-year-old pilot and the first woman to fly solo from London to Australia, disappears after bailing out of her plane over the River Thames, and is presumed dead.
-- 1933: Construction of the Golden Gate Bridge begins in San Francisco Bay.
-- 1925: Nellie Tayloe Ross of Wyoming becomes the first female governor in the United States.
-- 1919: The German Workers' Party, which would become the Nazi Party, is founded in Munich.
-- 1914: The Ford Motor Company announces an eight-hour workday and minimum daily wage of $5 in salary plus bonuses.
-- 1913: First Balkan War: The Battle of Lemnos begins; Greek admiral Pavlos Kountouriotis forces the Turkish fleet to retreat to its base within the Dardanelles, from which it did not venture for the rest of the war.
-- 1912: The sixth All-Russian Conference of the Russian Social Democratic Labour Party (Prague Party Conference) opens. In the course of the conference, Vladimir Lenin and his supporters break from the rest of the party to form the Bolshevik movement.
-- 1911: Kappa Alpha Psi, the world's third-oldest and largest black fraternity, is founded at Indiana University.
-- 1900: Irish nationalist leader John Edward Redmond calls for revolt against British rule.
-- 1895: Dreyfus affair: French army officer Alfred Dreyfus is stripped of his rank and sentenced to life imprisonment on Devil's Island.
+- 2021: Supporters of U.S. President Donald Trump attack the United States Capitol to disrupt certification of the 2020 presidential election, resulting in five deaths and evacuation of the U.S. Congress.
+- 2019: Muhammad V of Kelantan resigns as the Yang di-Pertuan Agong of Malaysia, becoming the first monarch to do so.
+- 2019: Forty people are killed in a gold mine collapse in Badakhshan province, in northern Afghanistan.
+- 2017: Five people are killed and six others injured in a mass shooting at Fort Lauderdale-Hollywood International Airport in Broward County, Florida.
+- 2012: Twenty-six people are killed and 63 wounded when a suicide bomber blows himself up at a police station in Damascus.
+- 2005: A train collision in Graniteville, South Carolina, United States, releases about 60 tons of chlorine gas.
+- 2005: Edgar Ray Killen is indicted for the 1964 murders of Chaney, Goodman, and Schwerner during the American Civil Rights Movement.
+- 2000: The last natural Pyrenean ibex, Celia, is killed by a falling tree, thus making the species extinct.
+- 1995: A chemical fire in an apartment complex in Manila, Philippines, leads to the discovery of plans for Project Bojinka, a mass-terrorist attack.
+- 1994: U.S. figure skater Nancy Kerrigan is attacked and injured by an assailant hired by her rival Tonya Harding's ex-husband during the U.S. Figure Skating Championships.
+- 1993: Four people are killed when Lufthansa CityLine Flight 5634 crashes on approach to Charles de Gaulle Airport in Roissy-en-France, France.
+- 1993: Indian Border Security Force units kill 55 Kashmiri civilians in Sopore, Jammu and Kashmir, in revenge after militants ambushed a BSF patrol.
+- 1992: President of Georgia Zviad Gamsakhurdia flees the country as a result of the military coup.
+- 1989: Satwant Singh and Kehar Singh are sentenced to death for conspiracy in the assassination of Prime Minister Indira Gandhi; the two men are executed the same day.
+- 1974: In response to the 1973 oil crisis, daylight saving time commences nearly four months early in the United States.
+- 1969: Allegheny Airlines Flight 737 crashes in Lafayette Township, McKean County, Pennsylvania, United States, killing 11.
+- 1967: Vietnam War: United States Marine Corps and ARVN troops launch "Operation Deckhouse Five" in the Mekong River delta.
+- 1960: The Associations Law comes into force in Iraq, allowing registration of political parties.
+- 1960: National Airlines Flight 2511 is destroyed in mid-air by a bomb, while en route from New York City to Miami.
+- 1951: Korean War: Beginning of the Ganghwa massacre, in the course of which an estimated 200-1,300 South Korean communist sympathizers are slaughtered.
+- 1950: The United Kingdom recognizes the People's Republic of China. The Republic of China severs diplomatic relations with the UK in response.
+- 1947: Pan American Airlines becomes the first commercial airline to offer a round-the-world ticket.
+- 1946: The first general election ever in Vietnam is held.
+- 1941: United States President Franklin D. Roosevelt delivers his Four Freedoms speech in the State of the Union address.
+- 1930: Clessie Cummins arrives at the National Automobile Show in New York City, having driven a car powered by one of his diesel engines from Indianapolis.
+- 1929: Mother Teresa arrives by sea in Calcutta, India, to begin her work among India's poorest and sick people.
+- 1929: King Alexander of the Serbs, Croats and Slovenes suspends his country's constitution (the January 6th Dictatorship).
+- 1912: German geophysicist Alfred Wegener first presents his theory of continental drift.
+- 1912: New Mexico is admitted to the Union as the 47th U.S. state.
+- 1907: Maria Montessori opens her first school and daycare center for working class children in Rome, Italy.
 
 *Data from muffinlabs* 
 
 # 历史上的今天 
 
-- -  2022年：哈萨克州总统卡西姆·乔马特·托卡耶夫（Kassym-Jomart Tokayev）驳回了总理阿斯卡·马明（Asqar Mamin），并宣布在202222哈萨克动乱中宣布紧急状态。
-- -  2014年：GSLV MK.II D5上的通信卫星GSAT-14发射是印度低温发动机的首次成功飞行。
-- -  2005年：矮星埃里斯（Eris）是由帕洛马尔天文台的天文学家发现的，后来促使国际天文学联盟（IAU）首次定义行星一词。
-- -  1993年：油轮MV Braer在设得兰群岛的海岸上搁浅，溢出了84,700吨原油。
-- -  1991年：索马里内战：美国摩加迪沙索马里大使馆在摩加迪沙暴力爆发后的直升机空运日被撤离。
-- -  1991年：格鲁吉亚部队进入佐治亚州南奥塞梯的首都茨基尼瓦利，开幕了1991  -  92年南奥塞梯战争。
-- -  1976年：麻烦：枪手在英国北爱尔兰北爱尔兰阿尔阿尔县的金斯米尔停止了十名新教平民，据称是对忠诚主义者对天主教平民的一系列袭击，尤其是六名天主教徒杀害该地区的天主教平民的报复前一天晚上。
-- -  1976年：红色高棉宣布，批准了民主党坎普切亚的新宪法。
-- -  1975年：澳大利亚塔斯马尼亚州的塔斯曼大桥被散装的矿石载体伊拉瓦拉（Lake Illawarra）击中，杀死了十二人。
-- -  1972年：美国总统理查德·尼克松（Richard Nixon）宣布了航天飞机计划。
-- -  1970年：7.1 MW Tonghai地震摇动中国云南省Tonghai County，其最大Mercalli强度为X（Extreme）。众所周知，有10,000至15,000人被杀，大约26,000人受伤。
-- -  1969年：阿里亚娜·阿富汗航空公司701航班在英国西萨塞克斯郡的费尔希尔撞车，驶向盖特威克机场，造成50人丧生。
-- -  1969年：Venera 5太空探针于Baikonur发射06:28:08 UTC。
-- -  1968年：亚历山大·杜布切克（AlexanderDubček）在捷克斯洛伐克（Czechoslovakia）上台，有效地开始了“布拉格春天”。
-- -  1967年：文化大革命：上海人民公社是在革命者从当地城市官员中夺取权力后建立的。
-- -  1957年：在美国国会发表的讲话中，美国总统德怀特·D·艾森豪威尔宣布建立后来被称为艾森豪威尔学说的内容。
-- -  1953年：塞缪尔·贝克特（Samuel Beckett）在巴黎获得首映式的戏剧。
-- -  1949年：美国总统哈里·杜鲁门（Harry S.
-- -  1945年：苏联认可波兰共和国新的亲苏临时政府。
-- -  1944年：《每日邮报》成为大西洋两边发表的第一本主要报纸。
-- -  1941年：艾米·约翰逊（Amy Johnson）是一名37岁的飞行员，也是第一位从伦敦独奏飞往澳大利亚的妇女，在从泰晤士河上驾驶飞机后消失了，并被认为死了。
-- -  1933年：金门大桥的建设始于旧金山湾。
-- -  1925年：怀俄明州的内莉·泰洛·罗斯（Nellie Tayloe Ross）成为美国的第一位女州长。
-- -  1919年：将成为纳粹党的德国工人党成立于慕尼黑。
-- -  1914年：福特汽车公司宣布八个小时的工作日和最低工资为5美元的薪水加奖金。
-- -  1913年：第一次巴尔干战争：伦诺斯战役开始；希腊海军上将Pavlos Kountouriotis迫使土耳其舰队撤退到达达内尔（Dardanelles）的基地，其在战争的其余部分中没有冒险。
-- -  1912年：俄罗斯社会民主党工党（布拉格党会议）举行的第六届全俄召开会议。在会议的过程中，弗拉基米尔·列宁（Vladimir Lenin）和他的支持者从党的其他成员中脱颖而出，形成了布尔什维克运动。
-- -  1911年：世界上第三大，最大的黑兄弟会Kappa Alpha PSI成立于印第安纳大学。
-- -  1900年：爱尔兰民族主义领导人约翰·爱德华·雷德蒙德（John Edward Redmond）呼吁反抗英国统治。
-- -  1895年：德雷福斯（Dreyfus）事件：法国陆军军官阿尔弗雷德·德雷福斯（Alfred Dreyfus）被剥夺了他的职级，并在魔鬼岛上被判处无期徒刑。
+- -  2021年：美国总统唐纳德·特朗普的支持者袭击了美国国会大厦，以破坏2020年总统大选的认证，导致五人死亡和撤离美国国会。
+- -  2019年：吉兰丹州的穆罕默德五世（Muhammad V）辞去了马来西亚的Yang di-pertuan Agong，成为第一个这样做的君主。
+- -  2019年：在阿富汗北部的巴达克山省的一个金矿倒塌中，有40人被杀。
+- -  2017年：在佛罗里达州布劳沃德县的劳德代尔 - 高莱坞国际机场的大规模枪击事件中，有五人被杀，另外六人受伤。
+- -  2012年：自杀炸弹袭击者在大马士革的一个警察局炸死自己时，有26人被杀，63人受伤。
+- -  2005年：美国南卡罗来纳州格兰尼特维尔的火车碰撞释放约60吨氯气。
+- -  2005年：埃德加·雷·基伦（Edgar Ray Killen）在美国民权运动期间因1964年谋杀Chaney，Goodman和Schwerner被起诉。
+- -  2000年：最后一个天然的菌群IBEX，Celia被一棵倒下的树杀死，从而使该物种灭绝。
+- -  1995年：菲律宾马尼拉的一家公寓大楼的化学火灾导致发现了大众袭击计划Bojinka计划的计划。
+- -  1994年：美国花样滑冰运动员南希·克里根（Nancy Kerrigan）在美国花样滑冰锦标赛期间被竞争对手托尼亚·哈丁（Tonya Harding）的前夫雇用的袭击者袭击和伤害。
+- -  1993年：当汉莎城市5634航班在法国Roissy-en-France的Charles De Gaulle机场撞车时，有四人被杀。
+- -  1993年：印度边境安全部队在武装分子伏击BSF巡逻队后，在索波尔，查mu和克什米尔杀死55名克什米尔平民。
+- -  1992年：佐治亚州Zviad Gamsakhurdia总统由于军事政变而逃离了该国。
+- -  1989年：萨特旺特·辛格（Satwant Singh）和凯哈尔·辛格（Kehar Singh）因暗杀英迪拉·甘地（Indira Gandhi）而被判处死刑；这两个男人在同一天被处决。
+- -  1974年：为了应对1973年的石油危机，夏令时节的时间开始了近四个月。
+- -  1969年：Allegheny航空公司737航班在美国宾夕法尼亚州麦基恩县拉斐特镇发生撞车事故，杀死11人。
+- -  1967年：越南战争：美国海军陆战队和ARVN部队在湄公河三角洲发射“甲板五号行动”。
+- -  1960年：协会法在伊拉克生效，允许对政党进行注册。
+- -  1960年：国家航空公司2511航班在空中被炸弹摧毁，而从纽约市到迈阿密的途中。
+- -  1951年：朝鲜战争：Ganghwa大屠杀的开始，估计遭到200-1,300韩国共产党同情者的同情者。
+- -  1950年：英国认可中华人民共和国。中华民国与英国断开外交关系。
+- -  1947年：PAN American Airlines成为第一个提供圆世界门票的商业航空公司。
+- -  1946年：举行了有史以来第一次大选。
+- -  1941年：美国总统富兰克林·罗斯福（Franklin D.
+- -  1930年：克莱西·康明斯（Clessie Cummins）到达纽约市的全国汽车秀，他驾驶了一辆由他的柴油发动机提供动力的汽车。
+- -  1929年：特蕾莎修女（Teresa Mother）乘海上到达印度加尔各答，开始在印度最贫穷和病人中的工作。
+- -  1929年：塞族人，克罗地亚人和斯洛文斯国王亚历山大国王暂停了他的国家的宪法（1月6日的独裁统治）。
+- -  1912年：德国地球物理学家阿尔弗雷德·韦格纳（Alfred Wegener）首先提出了他的大陆漂移理论。
+- -  1912年：新墨西哥州被接纳为美国第47个州。
+- -  1907年：玛丽亚·蒙特索里（Maria Montessori）在意大利罗马开设了她的第一所学校和日托中心。
 
 *由googletrans翻译*
