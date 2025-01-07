@@ -1,69 +1,69 @@
 # History of Today 
 
-- 2021: Supporters of U.S. President Donald Trump attack the United States Capitol to disrupt certification of the 2020 presidential election, resulting in five deaths and evacuation of the U.S. Congress.
-- 2019: Muhammad V of Kelantan resigns as the Yang di-Pertuan Agong of Malaysia, becoming the first monarch to do so.
-- 2019: Forty people are killed in a gold mine collapse in Badakhshan province, in northern Afghanistan.
-- 2017: Five people are killed and six others injured in a mass shooting at Fort Lauderdale-Hollywood International Airport in Broward County, Florida.
-- 2012: Twenty-six people are killed and 63 wounded when a suicide bomber blows himself up at a police station in Damascus.
-- 2005: A train collision in Graniteville, South Carolina, United States, releases about 60 tons of chlorine gas.
-- 2005: Edgar Ray Killen is indicted for the 1964 murders of Chaney, Goodman, and Schwerner during the American Civil Rights Movement.
-- 2000: The last natural Pyrenean ibex, Celia, is killed by a falling tree, thus making the species extinct.
-- 1995: A chemical fire in an apartment complex in Manila, Philippines, leads to the discovery of plans for Project Bojinka, a mass-terrorist attack.
-- 1994: U.S. figure skater Nancy Kerrigan is attacked and injured by an assailant hired by her rival Tonya Harding's ex-husband during the U.S. Figure Skating Championships.
-- 1993: Four people are killed when Lufthansa CityLine Flight 5634 crashes on approach to Charles de Gaulle Airport in Roissy-en-France, France.
-- 1993: Indian Border Security Force units kill 55 Kashmiri civilians in Sopore, Jammu and Kashmir, in revenge after militants ambushed a BSF patrol.
-- 1992: President of Georgia Zviad Gamsakhurdia flees the country as a result of the military coup.
-- 1989: Satwant Singh and Kehar Singh are sentenced to death for conspiracy in the assassination of Prime Minister Indira Gandhi; the two men are executed the same day.
-- 1974: In response to the 1973 oil crisis, daylight saving time commences nearly four months early in the United States.
-- 1969: Allegheny Airlines Flight 737 crashes in Lafayette Township, McKean County, Pennsylvania, United States, killing 11.
-- 1967: Vietnam War: United States Marine Corps and ARVN troops launch "Operation Deckhouse Five" in the Mekong River delta.
-- 1960: The Associations Law comes into force in Iraq, allowing registration of political parties.
-- 1960: National Airlines Flight 2511 is destroyed in mid-air by a bomb, while en route from New York City to Miami.
-- 1951: Korean War: Beginning of the Ganghwa massacre, in the course of which an estimated 200-1,300 South Korean communist sympathizers are slaughtered.
-- 1950: The United Kingdom recognizes the People's Republic of China. The Republic of China severs diplomatic relations with the UK in response.
-- 1947: Pan American Airlines becomes the first commercial airline to offer a round-the-world ticket.
-- 1946: The first general election ever in Vietnam is held.
-- 1941: United States President Franklin D. Roosevelt delivers his Four Freedoms speech in the State of the Union address.
-- 1930: Clessie Cummins arrives at the National Automobile Show in New York City, having driven a car powered by one of his diesel engines from Indianapolis.
-- 1929: Mother Teresa arrives by sea in Calcutta, India, to begin her work among India's poorest and sick people.
-- 1929: King Alexander of the Serbs, Croats and Slovenes suspends his country's constitution (the January 6th Dictatorship).
-- 1912: German geophysicist Alfred Wegener first presents his theory of continental drift.
-- 1912: New Mexico is admitted to the Union as the 47th U.S. state.
-- 1907: Maria Montessori opens her first school and daycare center for working class children in Rome, Italy.
+- 2023: The longest U.S. House of Representatives speaker election since the December 1859 - February 1860 U.S. speaker election concludes and Kevin McCarthy is elected 55th Speaker of the United States House of Representatives.
+- 2021: The United States Congress certifies the results of 2020 United States presidential election, confirming the election of Joe Biden, on the morning of the 7th after the Capitol was attacked the day before during earlier attempts to certify the election by supporters of the incumbent president Donald Trump, who lost re-election to Biden and attempted to overturn the results of the election.
+- 2020: The 6.4Mw  2019-20 Puerto Rico earthquakes kill four and injure nine in southern Puerto Rico.
+- 2015: A car bomb explodes outside a police college in the Yemeni capital Sana'a with at least 38 people reported dead and more than 63 injured.
+- 2015: Two gunmen commit mass murder at the offices of Charlie Hebdo in Paris, shooting twelve people execution style, and wounding eleven others.
+- 2012: A hot air balloon crashes near Carterton, New Zealand, killing all 11 people on board.
+- 1999: The Senate trial in the impeachment of U.S. President Bill Clinton begins.
+- 1994: A British Aerospace Jetstream 41 operating as United Express Flight 6291 crashes in Gahanna, Ohio, killing five of the eight people on board.
+- 1993: Bosnian War: The Bosnian Army executes a surprise attack at the village of Kravica in Srebrenica.
+- 1993: The Fourth Republic of Ghana is inaugurated with Jerry Rawlings as president.
+- 1991: Roger Lafontant, former leader of the Tonton Macoute in Haiti under François Duvalier, attempts a coup d'état, which ends in his arrest.
+- 1989: Sutton United, a team in the fifth tier of English league football, defeated top-tier Coventry City in one of the biggest upsets in FA Cup history.
+- 1985: Japan Aerospace Exploration Agency launches Sakigake, Japan's first interplanetary spacecraft and the first deep space probe to be launched by any country other than the United States or the Soviet Union.
+- 1984: Brunei becomes the sixth member of the Association of Southeast Asian Nations (ASEAN).
+- 1980: U.S. President Jimmy Carter authorizes legislation giving $1.5 billion in loans to bail out the Chrysler Corporation.
+- 1979: Third Indochina War: Cambodian-Vietnamese War: Phnom Penh falls to the advancing Vietnamese troops, driving out Pol Pot and the Khmer Rouge.
+- 1973: In his second shooting spree of the week, Mark Essex fatally shoots seven people and wounds five others at Howard Johnson's Hotel in New Orleans, before being shot to death by police officers.
+- 1972: Iberia Flight 602 crashes near Ibiza Airport, killing all 104 people on board.
+- 1968: Surveyor program: Surveyor 7, the last spacecraft in the Surveyor series, lifts off from Cape Canaveral Launch Complex 36A.
+- 1959: The United States recognizes the new Cuban government of Fidel Castro.
+- 1955: Contralto Marian Anderson becomes the first person of color to perform at the Metropolitan Opera in Giuseppe Verdi's Un ballo in maschera.
+- 1954: Georgetown-IBM experiment: The first public demonstration of a machine translation system is held in New York at the head office of IBM.
+- 1950: In the Sverdlovsk air disaster, all 19 of those on board are killed, including almost the entire national ice hockey team (VVS Moscow) of the Soviet Air Force - 11 players, as well as a team doctor and a masseur.
+- 1948: Kentucky Air National Guard pilot Thomas Mantell crashes while in pursuit of a supposed UFO.
+- 1940: Winter War: Battle of Raate Road: The Finnish 9th Division finally defeat the numerically superior Soviet forces on the Raate-Suomussalmi road.
+- 1935: Benito Mussolini and French Foreign minister Pierre Laval sign the Franco-Italian Agreement.
+- 1931: Guy Menzies flies the first solo non-stop trans-Tasman flight (from Australia to New Zealand) in 11 hours and 45 minutes, crash-landing on New Zealand's west coast.
+- 1928: A disastrous flood of the River Thames kills 14 people and causes extensive damage to much of riverside London.
+- 1927: The first transatlantic commercial telephone service is established from New York City to London.
+- 1922: Dáil Éireann ratifies the Anglo-Irish Treaty by a 64-57 vote.[citation needed]
 
 *Data from muffinlabs* 
 
 # 历史上的今天 
 
-- -  2021年：美国总统唐纳德·特朗普的支持者袭击了美国国会大厦，以破坏2020年总统大选的认证，导致五人死亡和撤离美国国会。
-- -  2019年：吉兰丹州的穆罕默德五世（Muhammad V）辞去了马来西亚的Yang di-pertuan Agong，成为第一个这样做的君主。
-- -  2019年：在阿富汗北部的巴达克山省的一个金矿倒塌中，有40人被杀。
-- -  2017年：在佛罗里达州布劳沃德县的劳德代尔 - 高莱坞国际机场的大规模枪击事件中，有五人被杀，另外六人受伤。
-- -  2012年：自杀炸弹袭击者在大马士革的一个警察局炸死自己时，有26人被杀，63人受伤。
-- -  2005年：美国南卡罗来纳州格兰尼特维尔的火车碰撞释放约60吨氯气。
-- -  2005年：埃德加·雷·基伦（Edgar Ray Killen）在美国民权运动期间因1964年谋杀Chaney，Goodman和Schwerner被起诉。
-- -  2000年：最后一个天然的菌群IBEX，Celia被一棵倒下的树杀死，从而使该物种灭绝。
-- -  1995年：菲律宾马尼拉的一家公寓大楼的化学火灾导致发现了大众袭击计划Bojinka计划的计划。
-- -  1994年：美国花样滑冰运动员南希·克里根（Nancy Kerrigan）在美国花样滑冰锦标赛期间被竞争对手托尼亚·哈丁（Tonya Harding）的前夫雇用的袭击者袭击和伤害。
-- -  1993年：当汉莎城市5634航班在法国Roissy-en-France的Charles De Gaulle机场撞车时，有四人被杀。
-- -  1993年：印度边境安全部队在武装分子伏击BSF巡逻队后，在索波尔，查mu和克什米尔杀死55名克什米尔平民。
-- -  1992年：佐治亚州Zviad Gamsakhurdia总统由于军事政变而逃离了该国。
-- -  1989年：萨特旺特·辛格（Satwant Singh）和凯哈尔·辛格（Kehar Singh）因暗杀英迪拉·甘地（Indira Gandhi）而被判处死刑；这两个男人在同一天被处决。
-- -  1974年：为了应对1973年的石油危机，夏令时节的时间开始了近四个月。
-- -  1969年：Allegheny航空公司737航班在美国宾夕法尼亚州麦基恩县拉斐特镇发生撞车事故，杀死11人。
-- -  1967年：越南战争：美国海军陆战队和ARVN部队在湄公河三角洲发射“甲板五号行动”。
-- -  1960年：协会法在伊拉克生效，允许对政党进行注册。
-- -  1960年：国家航空公司2511航班在空中被炸弹摧毁，而从纽约市到迈阿密的途中。
-- -  1951年：朝鲜战争：Ganghwa大屠杀的开始，估计遭到200-1,300韩国共产党同情者的同情者。
-- -  1950年：英国认可中华人民共和国。中华民国与英国断开外交关系。
-- -  1947年：PAN American Airlines成为第一个提供圆世界门票的商业航空公司。
-- -  1946年：举行了有史以来第一次大选。
-- -  1941年：美国总统富兰克林·罗斯福（Franklin D.
-- -  1930年：克莱西·康明斯（Clessie Cummins）到达纽约市的全国汽车秀，他驾驶了一辆由他的柴油发动机提供动力的汽车。
-- -  1929年：特蕾莎修女（Teresa Mother）乘海上到达印度加尔各答，开始在印度最贫穷和病人中的工作。
-- -  1929年：塞族人，克罗地亚人和斯洛文斯国王亚历山大国王暂停了他的国家的宪法（1月6日的独裁统治）。
-- -  1912年：德国地球物理学家阿尔弗雷德·韦格纳（Alfred Wegener）首先提出了他的大陆漂移理论。
-- -  1912年：新墨西哥州被接纳为美国第47个州。
-- -  1907年：玛丽亚·蒙特索里（Maria Montessori）在意大利罗马开设了她的第一所学校和日托中心。
+- -  2023年：自1859年12月至1860年2月以来，美国最长的众议院议长选举结束，凯文·麦卡锡（Kevin McCarthy）当选为美国众议院第55位议长。
+- -  2021年：美国国会证明了2020年美国总统大选的结果，证实了乔·拜登（Joe Biden）的选举，在国会大厦早上在早些时候试图证明现任支持者选举的前一天，大国会大厦遭到袭击后，乔·拜登（Joe Biden）的选举。唐纳德·特朗普（Donald Trump）总统失去了拜登（Biden）的连任，并试图推翻选举结果。
+- -2020：6.4MW 2019-20波多黎各地震在波多黎各南部杀死了四人，九人受伤。
+- -  2015年：一枚汽车炸弹在也门首都萨那（Sana'a）的警察学院外爆炸，至少有38人死亡，有63多人受伤。
+- -  2015年：两名枪手在巴黎的查理·赫布（Charlie Hebdo）的办公室犯下大规模谋杀案，枪杀了十二人的处决风格，并炸伤了其他十一名。
+- -  2012年：新西兰卡特顿附近的热气球撞车撞车，杀死了船上的所有11人。
+- -  1999年：美国总统比尔·克林顿（Bill Clinton）弹each的参议院审判开始。
+- -  1994年：英国航空航天射击41在俄亥俄州加纳娜（Gahanna）的联合快车（United Express 6291）撞车时运行，杀死了船上八人中的五人。
+- -  1993年：波斯尼亚战争：波斯尼亚军队在斯雷布雷尼察（Srebrenica）的克拉维卡（Kravica）村进行了意外攻击。
+- -  1993年：加纳第四共和国与杰里·罗林斯（Jerry Rawlings）担任总统。
+- -  1991年：弗朗索瓦·杜瓦利尔（FrançoisDuvalier）领导下海地的坦顿·库特（Tonton Macoute）的前领导人罗杰·拉法坦特（Roger Lafontant）企图进行政变，以他的逮捕结束。
+- -  1989年：萨顿联（Sutton United）是英国联赛第五级足球比赛中的一支球队，在足总杯历史上最大的兴趣之一中击败了考文垂顶级城市。
+- -  1985年：日本航空勘探局（Japan Aerospace Exploration Agency）推出了日本首个星际航天器的Sakigake，也是美国或苏联以外的任何国家发起的第一个深空调查。
+- -  1984年：文莱成为东南亚国家协会（东盟）的第六名成员。
+- -  1980年：美国总统吉米·卡特（Jimmy Carter）授权立法提供15亿美元的贷款，以释放克莱斯勒公司。
+- -  1979年：第三次印度支那战争：柬埔寨 - 越南战争：金边落入前进的越南军队，驱逐了Pol Pot和Khmer Rouge。
+- -  1973年：马克·埃塞克斯（Mark Essex）在本周的第二次枪击事件中，在新奥尔良的霍华德·约翰逊（Howard Johnson）的酒店中致命地枪杀了7人，并在新奥尔良的霍华德·约翰逊酒店（Howard Johnson's Hotel）受伤，然后被警察枪杀。
+- -  1972年：伊比利亚602号航班在伊维萨机场附近撞车，杀死了所有104人船上。
+- -  1968年：测量师计划：测量师7是测量师系列中的最后一个航天器，从Cape Canaveral发射综合体36A升空。
+- -  1959年：美国认可新古巴·卡斯特罗政府。
+- -  1955年：Chortto Marian Anderson成为第一个在Maschera朱塞佩·维尔第（Giuseppe Verdi）的联合国Ballo的大都会歌剧院演出的有色人种。
+- -  1954年：乔治敦-IBM实验：机器翻译系统的第一次公开演示在纽约在IBM总部举行。
+- -  1950年：在Sverdlovsk空中灾难中，船上的所有其中19名被杀，其中包括苏联空军的几乎整个国家冰球队（VVS莫斯科） -  11名球员以及一名团队医生和一名男子赛车。
+- -  1948年：肯塔基州国民警卫队的飞行员托马斯·曼特尔（Thomas Mantell）在追求一个假定的不明飞行物时坠毁。
+- -  1940年：冬季战争：Raate Road战役：芬兰第9师最终击败了Raate-Suomussalmi Road上的数字上苏联部队。
+- -  1935年：贝尼托·墨索里尼（Benito Mussolini）和法国外交部长皮埃尔·拉瓦尔（Pierre Laval）签署了佛朗哥 - 意大利协议。
+- -  1931年：盖伊·孟席斯（Guy Menzies）在11小时45分钟内飞行了第一次独奏不间断的跨塔斯曼飞行（从澳大利亚到新西兰），在新西兰的西海岸坠毁。
+- -  1928年：泰晤士河的灾难性洪水造成14人丧生，并对伦敦河滨大部分地区造成广泛损害。
+- -  1927年：从纽约市到伦敦建立了第一家跨大西洋商业电话服务。
+- -  1922年：达伊尔·Éireann以64-57的投票批准了盎格鲁 - 爱尔兰条约。[需要引用]
 
 *由googletrans翻译*
