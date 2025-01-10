@@ -1,69 +1,69 @@
 # History of Today 
 
-- 2021: Sriwijaya Air Flight 182 crashes north of Jakarta, Indonesia, killing all 62 people on board.
-- 2015: A mass poisoning at a funeral in Mozambique involving beer that was contaminated with Burkholderia gladioli leaves 75 dead and over 230 people ill.
-- 2015: The perpetrators of the Charlie Hebdo shooting in Paris two days earlier are both killed after a hostage situation; a second hostage situation, related to the Charlie Hebdo shooting, occurs at a Jewish market in Vincennes.
-- 2014: An explosion at a Mitsubishi Materials chemical plant in Yokkaichi, Japan, kills at least five people and injures 17 others.
-- 2011: Iran Air Flight 277 crashes near Urmia in the northwest of the country, in icy conditions, killing 78 people.
-- 2007: Apple CEO Steve Jobs introduces the original iPhone at a Macworld keynote in San Francisco.
-- 2005: The Sudan People's Liberation Movement and the Government of Sudan sign the Comprehensive Peace Agreement to end the Second Sudanese Civil War.
-- 2005: Mahmoud Abbas wins the election to succeed Yasser Arafat as President of the Palestinian National Authority, replacing interim president Rawhi Fattouh.
-- 2004: An inflatable boat carrying illegal Albanian emigrants stalls near the Karaburun Peninsula en route to Brindisi, Italy; exposure to the elements kills 28. This is the second deadliest marine disaster in Albanian history.
-- 2003: TANS Perú Flight 222 crashes on approach to Chachapoyas Airport in Chachapoyas, Peru, killing 46 people.
-- 1997: Comair Flight 3272 crashes in Raisinville Township in Monroe County, Michigan, killing 29 people.
-- 1996: First Chechen War: Chechen separatists launch a raid against the helicopter airfield and later a civilian hospital in the city of Kizlyar in the neighboring Dagestan, which turns into a massive hostage crisis involving thousands of civilians.
-- 1992: The first discoveries of extrasolar planets are announced by astronomers Aleksander Wolszczan and Dale Frail. They discovered two planets orbiting the pulsar PSR 1257+12.
-- 1992: The Assembly of the Serb People in Bosnia and Herzegovina proclaims the creation of Republika Srpska, a new state within Yugoslavia.
-- 1991: Representatives from the United States and Iraq meet at the Geneva Peace Conference to try to find a peaceful resolution to the Iraqi invasion of Kuwait.
-- 1964: Martyrs' Day: Several Panamanian youths try to raise the Panamanian flag in the U.S.-controlled Panama Canal Zone, leading to fighting between U.S. military and Panamanian civilians.
-- 1962: Apollo program: NASA announces plans to build the C-5 rocket launch vehicle, then known as the "Advanced Saturn", to carry human beings to the Moon.
-- 1961: British authorities announce they have uncovered the Soviet Portland spy ring in London.
-- 1960: President of Egypt Gamal Abdel Nasser opens construction on the Aswan Dam by detonating ten tons of dynamite to demolish twenty tons of granite on the east bank of the Nile.
-- 1959: The Vega de Tera dam fails, triggering a disastrous flood that nearly destroys the town of Ribadelago and kills 144 residents.
-- 1957: British Prime Minister Sir Anthony Eden resigns from office following his failure to retake the Suez Canal from Egyptian sovereignty.
-- 1945: World War II: The Sixth United States Army begins the invasion of Lingayen Gulf.
-- 1941: World War II: First flight of the Avro Lancaster.
-- 1927: A fire at the Laurier Palace movie theatre in Montreal, Quebec, Canada, kills 78 children.
-- 1923: Lithuanian residents of the Memel Territory rebel against the League of Nations' decision to leave the area as a mandated region under French control.
-- 1923: Juan de la Cierva makes the first autogyro flight.
-- 1921: Greco-Turkish War: The First Battle of İnönü, the first battle of the war, begins near Eskişehir in Anatolia.
-- 1920: Ukrainian War of Independence: The All-Ukrainian Central Executive Committee outlaws the Makhnovshchina by decree, igniting the Bolshevik-Makhnovist conflict.
-- 1918: Battle of Bear Valley: The last battle of the American Indian Wars.
-- 1917: World War I: The Battle of Rafa is fought near the Egyptian border with Palestine.
+- 2019: A 13-year-old American girl, Jayme Closs, is found alive in Gordon, Wisconsin, having been kidnapped 88 days earlier from her parents' home whilst they were murdered.
+- 2015: A traffic accident between an oil tanker truck and passenger coach en route to Shikarpur from Karachi on the Pakistan National Highway Link Road near Gulshan-e-Hadeed, Karachi, killing at least 62 people.
+- 2013: More than 100 people are killed and 270 injured in several bomb blasts in the Quetta area of Pakistan.
+- 2012: A bombing at Jamrud in Pakistan, kills at least 30 people and injures 78 others.
+- 2007: A general strike begins in Guinea in an attempt to get President Lansana Conté to resign.
+- 2000: Crossair Flight 498, a Saab 340 aircraft, crashes in Niederhasli, Switzerland, after taking off from Zurich Airport, killing 13 people.
+- 1990: Time Warner is formed by the merger of Time Inc. and Warner Communications.
+- 1985: Sandinista Daniel Ortega becomes president of Nicaragua and vows to continue the transformation to socialism and alliance with the Soviet Union and Cuba; American policy continues to support the Contras in their revolt against the Nicaraguan government.
+- 1984: Holy See-United States relations: The United States and Holy See (Vatican City) re-establish full diplomatic relations after almost 117 years, overturning the United States Congress's 1867 ban on public funding for such a diplomatic envoy.
+- 1981: Salvadoran Civil War: The FMLN launches its first major offensive, gaining control of most of Morazán and Chalatenango departments
+- 1980: The New England Journal of Medicine publishes the letter Addiction Rare in Patients Treated with Narcotics, which is later misused to downplay the general risk of addiction to opioids.
+- 1972: Sheikh Mujibur Rahman returns to the newly independent Bangladesh as president after spending over nine months in prison in Pakistan.
+- 1966: Tashkent Declaration, a peace agreement between India and Pakistan signed that resolved the Indo-Pakistani War of 1965.
+- 1954: BOAC Flight 781, a de Havilland DH.106 Comet 1, explodes and falls into the Tyrrhenian Sea, killing 35 people.
+- 1946: The United States Army Signal Corps successfully conducts Project Diana, bouncing radio waves off the Moon and receiving the reflected signals.
+- 1946: The first General Assembly of the United Nations assembles in the Methodist Central Hall, Westminster. Fifty-one nations are represented.
+- 1941: World War II: The Greek army captures Kleisoura.
+- 1927: Fritz Lang's futuristic film Metropolis is released in Germany.
+- 1920: League of Nations Covenant automatically enters into force after the Treaty of Versailles is ratified by Germany.
+- 1920: The Treaty of Versailles takes effect, officially ending World War I for all combatant nations except the United States.
+- 1917: Imperial Trans-Antarctic Expedition: Seven survivors of the Ross Sea party were rescued after being stranded for several months.
+- 1916: World War I: Imperial Russia begins the Erzurum Offensive, leading to the defeat of the Ottoman Empire's Third Army.
+- 1901: New York: Automobile Club of America installs signs on major highways.
+- 1901: The first great Texas oil gusher is discovered at Spindletop in Beaumont, Texas.
+- 1876: The Plan of Tuxtepec is announced.
+- 1870: John D. Rockefeller incorporates Standard Oil.
+- 1863: The Metropolitan Railway, the world's oldest underground railway, opens between Paddington and Farringdon, marking the beginning of the London Underground.
+- 1861: American Civil War: Florida becomes the third state to secede from the Union.
+- 1812: The first steamboat on the Ohio River or the Mississippi River arrives in New Orleans, 82 days after departing from Pittsburgh.
+- 1791: The Siege of Dunlap's Station begins near Cincinnati during the Northwest Indian War.
 
 *Data from muffinlabs* 
 
 # 历史上的今天 
 
-- -  2021年：斯里维亚亚航空公司182号航班在印度尼西亚雅加达以北撞车，杀死了所有62人。
-- -  2015年：在莫桑比克的一次葬礼上发生了大规模中毒，其中涉及啤酒，该啤酒被Burkholderia Gladioli污染了75人死亡，有230多人生病。
-- -  2015年：两天前在巴黎枪击事件的肇事者在人质局势后都被杀。与查理·希伯多（Charlie Hebdo）枪击有关的第二个人质情况发生在文森纳的犹太市场。
-- -  2014年：日本Yokkaichi的三菱材料化学厂的爆炸爆炸炸死至少5人，并炸伤17人。
-- -  2011年：伊朗空中航班277次在该国西北部的乌尔米亚附近撞车，在冰冷的条件下，造成78人丧生。
-- -  2007年：苹果首席执行官史蒂夫·乔布斯（Steve Jobs）在旧金山的MacWorld主题演讲中介绍了原始iPhone。
-- -  2005年：苏丹人民解放运动和苏丹政府签署了综合和平协议，以结束第二次苏丹内战。
-- -  2005年：Mahmoud Abbas赢得了接替Yasser Arafat为巴勒斯坦国家管理局总统的选举，取代了临时总统Rawhi Fattouh。
-- -  2004年：一艘充气船，载有非法的阿尔巴尼亚移民摊位，在卡拉布伦半岛附近前往意大利布林迪西的途中；接触元素杀死28个。这是阿尔巴尼亚历史上第二个最致命的海洋灾难。
-- -  2003年：坦斯·佩鲁（TansPerú）航班222航班撞车前往秘鲁查查普亚斯（Chachapoyas）的Chachapoyas机场，炸死46人。
-- -  1997年：Comair 3272撞车在密歇根州门罗县的Raisinville镇坠毁，造成29人丧生。
-- -  1996年：第一车臣战争：车臣分离主义者对直升机机场进行突袭，后来又在邻近达格斯坦的基兹利尔市的一家平民医院突袭，这变成了涉及数千名平民的巨大人质危机。
-- -  1992年：天文学家亚历山大·沃尔斯坎（Aleksander Wolszczan）和戴尔（Dale）脆弱的人宣布了第一批发现外星行星的发现。他们发现了两个行星，这些行星绕着Pulsar PSR 1257+12。
-- -  1992年：波斯尼亚和黑塞哥维那的塞族人民大会宣布创建了南斯拉夫境内的新州Srpska共和国。
-- -  1991年：来自美国和伊拉克的代表在日内瓦和平会议上开会，试图为伊拉克对科威特的入侵找到和平解决方案。
-- -  1964年：烈士日：几名巴拿马青年试图在美国控制的巴拿马运河区举起巴拿马旗帜，导致美国军方和巴拿马平民之间的战斗。
-- -  1962年：阿波罗计划：美国宇航局宣布计划制造当时被称为“高级土星”的C-5火箭发射车，以将人类带到月球。
-- -  1961年：英国当局宣布，他们在伦敦发现了苏联波特兰间谍戒指。
-- -  1960年：埃及Gamal Abdel Nasser总统通过引爆十吨炸药，在尼罗河东岸拆除20吨花岗岩，在阿斯旺大坝上开设了建筑。
-- -  1959年：Vega de Tera大坝失败了，引发了灾难性的洪水，几乎破坏了Ribadelago镇并杀死了144名居民。
-- -  1957年：英国首相安东尼·伊甸园爵士（Anthony Eden）爵士未能从埃及主权夺回苏伊士运河后辞职。
-- -  1945年：第二次世界大战：第六届美国陆军开始入侵林加尼海湾。
-- -  1941年：第二次世界大战：阿夫罗·兰开斯特（Avro Lancaster）的第一次飞行。
-- -  1927年：加拿大魁北克蒙特利尔的劳里尔宫电影院大火杀死了78名儿童。
-- -  1923年：Memel领土的立陶宛居民反叛国际联盟决定在法国控制下离开该地区作为强制性地区。
-- -  1923年：胡安·德拉·西尔瓦（Juan de la Cierva）进行了第一次自动飞行。
-- -  1921年：希腊 - 土耳其战争：战争的第一次战役是第一次战争，是在安纳托利亚的埃斯基希尔附近开始的。
-- -  1920年：乌克兰独立战争：全乌克兰中央执行委员会根据法令将Makhnovshchina取缔，并点燃了布尔什维克 - 麦加诺夫主义的冲突。
-- -  1918年：熊谷战役：美洲印第安人战争的最后一场战斗。
-- -  1917年：第一次世界大战：拉法战役在与巴勒斯坦的埃及边界附近进行。
+- -  2019年：一个13岁的美国女孩Jayme Closs在威斯康星州戈登（Gordon）被发现，在88天前被父母被谋杀时被绑架。
+- -  2015年：一辆油轮卡车和乘客教练之间的交通事故在从卡拉奇（Karachi）到卡拉奇（Gulshan-e-Hade）附近的卡拉奇（Karachi）的卡拉奇（Karachi）途中，卡拉奇（Karachi），至少杀死了62人。
+- -  2013年：巴基斯坦奎达地区的几次炸弹爆炸中有100多人被杀，270人受伤。
+- -  2012年：巴基斯坦贾姆鲁德（Jamrud）的轰炸，杀死至少30人，并炸伤78人。
+- -  2007年：一场大罢工始于几内亚，试图让兰萨纳·孔纳总统辞职。
+- -  2000年：CrossAir 498，Saab 340飞机，在瑞士Niederhasli坠毁，从苏黎世机场起飞，炸死13人。
+- -  1990年：时代华纳是由时代公司和华纳通讯的合并组成的。
+- -  1985年：桑迪尼斯塔·丹尼尔·奥尔特加（Sandinista Daniel Ortega）成为尼加拉瓜的总统，并誓言继续转变为社会主义和与苏联和古巴的联盟；美国政策继续支持对抗尼加拉瓜政府的反对。
+- -  1984年：圣洁的国家关系：近117年后，美国和罗马教廷（梵蒂冈城）重建了完整的外交关系，推翻了美国国会1867年的1867年禁止公共资助这样的外交特使。
+- -  1981年：萨尔瓦多内战：FMLN发动了首次重大攻势，获得了大多数莫拉桑和查拉特南戈部门的控制权
+- -  1980年：《新英格兰医学杂志》在接受麻醉品治疗的患者中发表了很少见的信件成瘾，后来被滥用以淡化对阿片类药物的普遍风险。
+- -  1972年：谢赫·穆吉布尔·拉赫曼（Sheikh Mujibur Ra​​hman）在巴基斯坦被判处九个月的监禁后，返回新独立的孟加拉国总统。
+- -  1966年：塔什肯特宣言，印度与巴基斯坦之间的和平协议签署了1965年印度 - 巴基斯坦战争。
+- -  1954年：BOAC 781航班，De Havilland DH.106 Comet 1，爆炸并坠入Tyrrhenian海，炸死35人。
+- -  1946年：美国陆军信号军队成功地进行了戴安娜（Diana）项目，从月球上弹起无线电波，并收到反射的信号。
+- -  1946年：联合国第一次在威斯敏斯特卫理公会中央大厅组装。代表了五十一个国家。
+- -  1941年：第二次世界大战：希腊军队占领了克莱索拉。
+- -  1927年：弗里茨·朗（Fritz Lang）的未来电影大都会（Metropolis）在德国发行。
+- -  1920年：在凡尔赛条约被德国批准后，国际盟约将自动生效。
+- -  1920年：《凡尔赛条约》生效，除了美国以外的所有战斗国家，第一次世界大战正式结束了第一次世界大战。
+- -  1917年：帝国跨境探险：罗斯海党的七个幸存者被困在几个月后被救出。
+- -  1916年：第一次世界大战：帝国俄罗斯开始了埃尔祖鲁姆的进攻，导致奥斯曼帝国的第三军击败。
+- -  1901年：纽约：美国汽车俱乐部在主要高速公路上安装标志。
+- -  1901年：在德克萨斯州博蒙特的Spindletop中发现了第一个大德克萨斯州石油涌入。
+- -  1876年：宣布了Tuxtepec的计划。
+- -  1870年：约翰·D·洛克菲勒（John D. Rockefeller）融合了标准油。
+- -  1863年：世界上最古老的地下铁路大都会铁路，在帕丁顿和法灵顿之间开放，标志着伦敦地下的开始。
+- -  1861年：美国内战：佛罗里达州成为第三个脱离联盟的州。
+- -  1812年：从匹兹堡出发82天后，俄亥俄河或密西西比河上的第一艘汽船到达新奥尔良。
+- -  1791年：在印度西北战争期间，邓拉普车站的围困在辛辛那提附近开始。
 
 *由googletrans翻译*
