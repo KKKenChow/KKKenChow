@@ -1,69 +1,69 @@
 # History of Today 
 
-- 2024: Queen Margrethe II abdicates as Queen of Denmark and is succeeded by her son, Frederik X.
-- 2019: A Saha Airlines Boeing 707 crashes at Fath Air Base near Karaj in Alborz Province, Iran, killing 15 people.
-- 2016: Multiple explosions reported near the Sarinah Building, Jakarta, followed by shootout between perpetrators and the Police, killing seven people. The Islamic State of Iraq and the Levant claimed responsibility.
-- 2011: President Zine El Abidine Ben Ali of Tunisia seeks refuge in Saudi Arabia after a series of demonstrations against his regime, considered to be the birth of the Arab Spring.
-- 2010: Yemen declares an open war against the terrorist group al-Qaeda.
-- 2004: The national flag of the Republic of Georgia, the so-called "five cross flag", is restored to official use after a hiatus of some 500 years.
-- 1993: Sinking of the MS Jan Heweliusz: In Poland's worst peacetime maritime disaster, ferry MS Jan Heweliusz sinks off the coast of Rügen, drowning 55 passengers and crew; nine crew-members are saved.
-- 1973: Elvis Presley's concert Aloha from Hawaii is broadcast live via satellite, and sets the record as the most watched broadcast by an individual entertainer in television history.
-- 1972: Queen Margrethe II of Denmark ascends the throne, the first Queen of Denmark since 1412 and the first Danish monarch not named Frederik or Christian since 1513.
-- 1969: USS Enterprise fire: An accidental explosion aboard the USS Enterprise near Hawaii kills 28 people.
-- 1967: Counterculture of the 1960s: The Human Be-In takes place in San Francisco, California's Golden Gate Park, launching the Summer of Love.
-- 1960: The Reserve Bank of Australia, the country's central bank and banknote issuing authority authorized by the 1959 Reserve Bank Act, is established.
-- 1957: Kripalu Maharaj is named fifth Jagadguru (world teacher) after giving seven days of speeches before 500 Hindu scholars.
-- 1954: The Hudson Motor Car Company merges with Nash-Kelvinator Corporation forming the American Motors Corporation.
-- 1953: Josip Broz Tito is elected the first President of Yugoslavia.
-- 1952: NBC's long-running morning news program Today debuts, with host Dave Garroway.
-- 1951: National Airlines Flight 83 crashes during landing at Philadelphia International Airport, killing seven passengers and crew.
-- 1943: World War II: Franklin D. Roosevelt and Winston Churchill begin the Casablanca Conference to discuss strategy and study the next phase of the war.
-- 1943: World War II: Japan begins Operation Ke, the successful operation to evacuate its forces from Guadalcanal during the Guadalcanal Campaign.
-- 1939: Norway claims Queen Maud Land in Antarctica.
-- 1911: Roald Amundsen's South Pole expedition makes landfall on the eastern edge of the Ross Ice Shelf.
-- 1907: An earthquake in Kingston, Jamaica kills more than 1,000 people.
-- 1900: Giacomo Puccini's Tosca opens in Rome.
-- 1899: RMS Oceanic, the largest ship afloat since SS Great Eastern, is launched.
-- 1858: Napoleon III of France escapes an assassination attempt made by Felice Orsini and his accomplices in Paris.
-- 1814: Treaty of Kiel: Frederick VI of Denmark cedes the Kingdom of Norway to Charles XIII of Sweden in return for Pomerania.
-- 1797: The Battle of Rivoli is fought with a decisive French victory by Napoleon Bonaparte, marking the beginning of the end of the War of the First Coalition and the start of French hegemony over Italy for two decades.
-- 1784: American Revolutionary War: Ratification Day, United States - Congress ratifies the Treaty of Paris with Great Britain.
-- 1761: The Third Battle of Panipat is fought in India between the Afghans under Ahmad Shah Durrani and the Marathas.
-- 1301: Andrew III of Hungary dies, ending the Árpád dynasty in Hungary.
+- 2023: Yeti Airlines Flight 691 crashes near Pokhara International Airport, killing all 72 people on board.
+- 2022: The Hunga Tonga-Hunga Haʻapai volcano erupts, cutting off communications with Tonga and causing a tsunami across the Pacific.
+- 2021: A 6.2-magnitude earthquake strikes Indonesia's Sulawesi island killing at least 105 and injuring 3,369 people.
+- 2020: The Japanese Ministry of Health, Labour and Welfare confirms the first case of COVID-19 in Japan.
+- 2019: Theresa May's UK government suffers the biggest government defeat in modern times, when 432 MPs voting against the proposed European Union withdrawal agreement, giving her opponents a majority of 230.
+- 2019: Somali militants attack the DusitD2 hotel in Nairobi, Kenya killing at least 21 people and injuring 19.
+- 2018: British multinational construction and facilities management services company Carillion went into liquidation - officially, "the largest ever trading liquidation in the UK"
+- 2016: The Kenyan Army suffers its worst defeat ever in a battle with Al-Shabaab Islamic insurgents in El-Adde, Somalia. An estimated 150 Kenyan soldiers are killed in the battle.
+- 2015: The Swiss National Bank abandons the cap on the Swiss franc's value relative to the euro, causing turmoil in international financial markets.
+- 2013: A train carrying Egyptian Army recruits derails near Giza, Greater Cairo, killing 19 and injuring 120 others.
+- 2009: US Airways Flight 1549 ditches safely in the Hudson River after the plane collides with birds less than two minutes after take-off. This becomes known as "The Miracle on the Hudson" as all 155 people on board were rescued.
+- 2005: ESA's SMART-1 lunar orbiter discovers elements such as calcium, aluminum, silicon, iron, and other surface elements on the Moon.
+- 2001: Wikipedia, a free wiki content encyclopedia, is launched.
+- 1991: Elizabeth II, in her capacity as Queen of Australia, signs letters patent allowing Australia to become the first Commonwealth realm to institute its own Victoria Cross in its honours system.
+- 1991: The United Nations deadline for the withdrawal of Iraqi forces from occupied Kuwait expires, preparing the way for the start of Operation Desert Storm.
+- 1981: Pope John Paul II receives a delegation from the Polish trade union Solidarity at the Vatican led by Lech Wałęsa.
+- 1977: Linjeflyg Flight 618 crashes in Kälvesta near Stockholm Bromma Airport in Stockholm, Sweden, killing 22 people.
+- 1976: Gerald Ford's would-be assassin, Sara Jane Moore, is sentenced to life in prison.
+- 1975: The Alvor Agreement is signed, ending the Angolan War of Independence and giving Angola independence from Portugal.
+- 1973: Vietnam War: Citing progress in peace negotiations, President Richard Nixon announces the suspension of offensive action in North Vietnam.
+- 1970: Muammar Gaddafi is proclaimed premier of Libya.
+- 1970: Nigerian Civil War: Biafran rebels surrender following an unsuccessful 32-month fight for independence from Nigeria.
+- 1969: The Soviet Union launches Soyuz 5.
+- 1967: The first Super Bowl is played in Los Angeles. The Green Bay Packers defeat the Kansas City Chiefs 35-10.
+- 1966: The First Nigerian Republic, led by Abubakar Tafawa Balewa is overthrown in a military coup d'état.
+- 1962: Netherlands New Guinea Conflict: Indonesian Navy fast patrol boat RI Macan Tutul commanded by Commodore Yos Sudarso sunk in Arafura Sea by the Dutch Navy.
+- 1962: The Derveni papyrus, Europe's oldest surviving manuscript dating to 340 BC, is found in northern Greece.
+- 1949: Chinese Civil War: The Communist forces take over Tianjin from the Nationalist government.
+- 1947: The Black Dahlia murder: The dismembered corpse of Elizabeth Short was found in Los Angeles.
+- 1943: The Pentagon is dedicated in Arlington County, Virginia.
 
 *Data from muffinlabs* 
 
 # 历史上的今天 
 
-- -  2024年：玛格丽特二世女王（Queen Margrethe II）退位为丹麦女王，她的儿子弗雷德里克（Frederik X）继承了丹麦女王。
-- -  2019年：一家SAHA航空公司波音707坠毁在伊朗Alborz省Karaj附近的Fath Air Base撞车，炸死15人。
-- -  2016年：在雅加达的萨里纳大楼附近报道了多次爆炸，随后在肇事者和警察之间进行枪战，杀死了7人。伊拉克伊斯兰国和黎凡特国家声称责任。
-- -  2011年：突尼斯的总统Zine El Abidine Ben Ali在一系列反对他的政权的示威游行之后，在沙特阿拉伯寻求庇护，这被认为是阿拉伯之春的诞生。
-- -  2010年：也门宣布针对恐怖组织基地组织的公开战争。
-- -  2004年：佐治亚州共和国的国旗，即所谓的“五十字旗”，在休假约500年后，被恢复为官方使用。
-- -  1993年：扬·赫里留斯女士（MS Jan Heweliusz）的沉没：在波兰最糟糕的和平时期海事灾难中，渡轮扬·休伊斯兹（Jan Heweliusz）女士下沉了鲁根（Rügen）海岸，淹死了55名乘客和船员；保存了九名机组人员。
-- -  1973年：来自夏威夷的猫王音乐会Aloha是通过卫星现场直播的，并将唱片定为电视历史上的单个艺人播放最多的播放。
-- -  1972年：丹麦女王玛格雷斯二世（Queen Margrethe II）登上了王位，这是丹麦自1412年以来的第一个女王，也是第一个丹麦君主，自1513年以来就未被命名为弗雷德里克（Frederik）或克里斯蒂安（Christian）。
-- -  1969年：USS Enterprise Fire：在夏威夷附近的USS Enterprise上的意外爆炸炸死28人。
-- -  1967年：1960年代的反文化：人类的生命在加利福尼亚的金门公园旧金山举行，启动了《爱的夏日》。
-- -  1960年：建立了澳大利亚储备银行，该国的中央银行和钞票发行当局，由1959年的《储备银行法》授权。
-- -  1957年：Kripalu Maharaj在500名印度教学者之前发表了7天的演讲后被评为第五名Jagadguru（世界老师）。
-- -  1954年：哈德逊汽车公司与纳什 - 凯尔文师公司合并，成立了美国汽车公司。
-- -  1953年：Josip Broz Tito当选为南斯拉夫的第一任总统。
-- -  1952年：NBC与主持人戴夫·加罗威（Dave Garroway）一起首次亮相NBC的长期晨间新闻节目。
-- -  1951年：在费城国际机场着陆期间，国家航空公司83次撞车事故，杀死了七名乘客和船员。
-- -  1943年：第二次世界大战：富兰克林·罗斯福和温斯顿·丘吉尔开始了卡萨布兰卡会议，讨论战略并研究战争的下一阶段。
-- -  1943年：第二次世界大战：日本开始了KE行动，这是在瓜达尔卡纳尔省运动期间从瓜达尔卡纳尔撤离部队的成功行动。
-- -  1939年：挪威声称在南极洲莫德（Queen Maud）土地。
-- -  1911年：罗尔德·阿蒙森（Roald Amundsen）的南极探险队在罗斯冰架的东部边缘登陆。
-- -  1907年：牙买加在金斯敦的地震造成1000多人杀害。
-- -  1900年：贾科莫·普奇尼（Giacomo Puccini）的托斯卡（Tosca）在罗马开业。
-- -  1899年：RMS Oceanic是自SS Great Eastern以来最大的船舶。
-- -  1858年：法国拿破仑三世逃脱了菲利斯·奥西尼（Felice Orsini）及其在巴黎的同伙进行的暗杀企图。
-- -  1814年：基尔条约：丹麦·塞德斯的弗雷德里克六世（Frederick VI）挪威王国到瑞典的查尔斯十三世，以换取波美那能。
-- -  1797年：里沃里战役以拿破仑·波拿巴（Napoleon Bonaparte）决定性的法国胜利进行了战斗，这标志着第一次联盟战争结束的开始，以及法国霸权开始在意大利二十年来。
-- -  1784年：美国革命战争：美国批准日 - 国会批准了巴黎与英国的条约。
-- -  1761年：帕尼帕特（Panipat）的第三场战役是在艾哈迈德·沙·杜拉尼（Ahmad Shah Durrani）和马拉松（Marathas）领导下的阿富汗人之间进行的。
-- -1301：匈牙利的安德鲁三世去世，结束了匈牙利的Árpád王朝。
+- -  2023年：雪人航空公司691航班在博卡拉国际机场附近撞车，杀死了所有72人。
+- -2022：匈牙利汤加·汉加·哈阿帕火山爆发，切断了与汤加的通信，并在整个太平洋造成海啸。
+- -2021：一场6.2级地震袭击印度尼西亚的苏拉威西岛，杀死了至少105人，炸伤3,369人。
+- -  2020年：日本卫生部，劳动和福利部证实了日本Covid-19的第一个案例。
+- -  2019年：特蕾莎·梅（Theresa May）的英国政府在现代遭受了最大的政府击败，当时有432名议员对拟议的欧盟撤回协议投票，使对手的多数为230。
+- -  2019年：索马里武装分子袭击了肯尼亚内罗毕的杜西特22酒店，杀死了至少21人，并受伤19。
+- -  2018年：英国跨国建筑和设施管理服务公司Carillion被清算 - 正式，“英国有史以来最大的交易清算”
+- -  2016年：肯尼亚军队在与索马里El-Adde的青年党伊斯兰叛乱分子的战斗中遭受了有史以来最严重的失败。在战斗中估计有150名肯尼亚士兵被杀。
+- -  2015年：瑞士国家银行放弃了瑞士法郎相对于欧元的价值的上限，在国际金融市场中导致动荡。
+- -  2013年：一名载有埃及军队的火车在大开罗吉萨附近脱轨，杀死了19人，炸伤120人。
+- -  2009年：飞机在起飞后不到两分钟与鸟类相撞后，美国航空公司1549航班在哈德逊河安全地沟渠。这被称为“哈德逊上的奇迹”，因为船上的所有155人都被救出。
+- -  2005年：ESA的Smart-1月轨道发现了月球上钙，铝，硅，铁和其他表面元素等元素。
+- -  2001年：启动了免费的Wiki内容百科全书Wikipedia。
+- -  1991年：伊丽莎白二世（Elizabeth II）以澳大利亚女王的身份签署了专利，允许澳大利亚成为第一个在其荣誉体系中建立自己的维多利亚十字架的英联邦领域。
+- -  1991年：联合国撤出伊拉克部队从占领科威特的截止日期到期，为开始沙漠风暴行动做准备。
+- -  1981年：教皇约翰·保罗二世（John Paul II）获得了波兰工会联盟团结的代表团，该团队由莱奇·瓦沃萨（LechWałęsa）领导。
+- -  1977年：Linjeflyg航班618撞车在瑞典斯德哥尔摩斯德哥尔摩机场附近的Kälvesta撞车事故，造成22人丧生。
+- -  1976年：杰拉尔德·福特（Gerald Ford）的刺客萨拉·简·摩尔（Sara Jane Moore）被判处无期徒刑。
+- -  1975年：签署了《 Alvor协议》，结束了安哥拉独立战争，并使安哥拉独立脱离了葡萄牙。
+- -  1973年：越南战争：援引和平谈判的进展，总统理查德·尼克松（Richard Nixon）宣布暂停在越南北部的进攻行动。
+- -  1970年：Muammar Gaddafi被宣布为利比亚总理。
+- -  1970年：尼日利亚内战：比亚夫兰（Biafran）叛军在一次失败的32个月斗争中为远离尼日利亚独立而投降。
+- -  1969年：苏联推出了共和共和球5。
+- -  1967年：第一个超级碗在洛杉矶踢球。绿湾包装工队以35-10击败堪萨斯城酋长。
+- -  1966年：由Abubakar Tafawa Balewa领导的第一个尼日利亚共和国在军事政变中被推翻。
+- -  1962年：荷兰新几内亚冲突：印度尼西亚海军快速巡逻船Ri Macan Tutul由准将Yos Sudarso命令荷兰海军在阿拉夫拉海沉没。
+- -  1962年：在希腊北部发现了欧洲最古老的手稿Derveni Papyrus。
+- -  1949年：中国内战：共产主义部队接管了民族主义政府的天津。
+- -  1947年：黑达利亚（Black Dahlia）谋杀案：在洛杉矶发现了伊丽莎白·肖特（Elizabeth Short）肢解的尸体。
+- -  1943年：五角大楼是在弗吉尼亚州阿灵顿县的。
 
 *由googletrans翻译*
