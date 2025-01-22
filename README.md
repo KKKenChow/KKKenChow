@@ -1,69 +1,69 @@
 # History of Today 
 
-- 2023: Huu Can Tran, 72, opens fire in a dance studio in Monterey Park, California, killing eleven people and injuring nine others before later committing suicide. It is the worst mass shooting in Los Angeles County since the 2008 Covina massacre.
-- 2017: Over 400 cities across America and 160+ countries worldwide participate in a large-scale women's march, on Donald Trump's first full day as President of the United States.
-- 2014: Rojava conflict: The Jazira Canton declares its autonomy from the Syrian Arab Republic.
-- 2011: Anti-government demonstrations take place in Tirana, Albania. Four people died from gunshots, allegedly fired from armed police protecting the Prime Minister's office.
-- 2009: Israel withdraws from the Gaza Strip, officially ending a three-week war it had with Hamas. However, intermittent fire by both sides continues in the weeks to follow.
-- 2005: In Belmopan, Belize, the unrest over the government's new taxes erupts into riots.
-- 2004: NASA's MER-A (the Mars Rover Spirit) ceases communication with mission control. The problem lies in the management of its flash memory and is fixed remotely from Earth on February 6.
-- 2003: A 7.6 magnitude earthquake strikes the Mexican state of Colima, killing 29 and leaving approximately 10,000 people homeless.
-- 2000: Ecuador: After the Ecuadorian Congress is seized by indigenous organizations, Col. Lucio Gutiérrez, Carlos Solorzano and Antonio Vargas depose President Jamil Mahuad. Gutierrez is later replaced by Gen. Carlos Mendoza, who resigns and allows Vice-President Gustavo Noboa to succeed Mahuad.
-- 1999: War on Drugs: In one of the largest drug busts in American history, the United States Coast Guard intercepts a ship with over 4,300 kilograms (9,500 lb) of cocaine on board.
-- 1997: The U.S. House of Representatives votes 395-28 to reprimand Newt Gingrich for ethics violations, making him the first Speaker of the House to be so disciplined.
-- 1985: Galaxy Airlines Flight 203 crashes near Reno-Tahoe International Airport in Reno, Nevada, killing 70 people.
-- 1981: Production of the DeLorean sports car begins in Dunmurry, Northern Ireland, United Kingdom.
-- 1980: Iran Air Flight 291 crashes in the Alborz Mountains while on approach to Mehrabad International Airport in Tehran, Iran, killing 128 people.
-- 1976: Commercial service of Concorde begins with the London-Bahrain and Paris-Rio routes.
-- 1971: The current Emley Moor transmitting station, the tallest free-standing structure in the United Kingdom, begins transmitting UHF broadcasts.
-- 1968: A B-52 bomber crashes near Thule Air Base, contaminating the area after its nuclear payload ruptures. One of the four bombs remains unaccounted for after the cleanup operation is complete.
-- 1968: Vietnam War, Battle of Khe Sanh: One of the most publicized and controversial battles of the war begins.
-- 1963: The Chicago North Shore and Milwaukee Railroad ends operation.
-- 1960: A coal mine collapses at Holly Country, South Africa, killing 435 miners.
-- 1960: Avianca Flight 671 crashes at Montego Bay, Jamaica airport, killing 37 people.
-- 1960: Little Joe 1B, a Mercury spacecraft, lifts off from Wallops Island, Virginia with Miss Sam, a female rhesus monkey on board.
-- 1954: The first nuclear-powered submarine, the USS Nautilus, is launched in Groton, Connecticut by Mamie Eisenhower, the First Lady of the United States.
-- 1951: The catastrophic eruption of Mount Lamington in Papua New Guinea claims 2,942 lives.
-- 1950: American lawyer and government official Alger Hiss is convicted of perjury.
-- 1948: The Flag of Quebec is adopted and flown for the first time over the National Assembly of Quebec. The day is marked annually as Québec Flag Day.
-- 1943: As part of Operation Animals, British SOE saboteurs destroy the railway bridge over the Asopos River, and guerrillas of the Greek People's Liberation Army ambush and destroy a German convoy at the Battle of Sarantaporos.
-- 1942: The Jewish resistance organization, Fareynikte Partizaner Organizatsye, based in the Vilna Ghetto was established.
-- 1941: Sparked by the murder of a German officer in Bucharest, Romania the day before, members of the Iron Guard engaged in a rebellion and pogrom killing 125 Jews.
-- 1932: Finland and the Soviet Union sign a non-aggression treaty.
+- 2024: Ram Mandir inaugurated by Indian Prime Minister Narendra Modi at Ayodhya, Uttar Pradesh after 500 years of dispute.
+- 2009: U.S. President Barack Obama signs an executive order to close the Guantanamo Bay detention camp; congressional opposition will prevent it being implemented.
+- 2007: At least 88 people are killed when two car bombs explode in the Bab Al-Sharqi market in central Baghdad, Iraq.
+- 2006: Evo Morales is inaugurated as President of Bolivia, becoming the country's first indigenous president.
+- 1999: Australian missionary Graham Staines and his two sons are burned alive by radical Hindus while sleeping in their car in Eastern India.
+- 1998: Space Shuttle program: space shuttle Endeavour launches on STS-89 to dock with the Russian space station Mir.
+- 1995: Israeli-Palestinian conflict: Beit Lid suicide bombing: In central Israel, near Netanya, two Gazans blow themselves up at a military transit point, killing 19 Israeli soldiers.
+- 1992: Space Shuttle program: The space shuttle Discovery launches on STS-42 carrying Dr. Roberta Bondar, who becomes the first Canadian woman and the first neurologist in space.
+- 1992: Rebel forces occupy Zaire's national radio station in Kinshasa and broadcast a demand for the government's resignation.
+- 1987: Philippine security forces open fire on a crowd of 10,000-15,000 demonstrators at Malacañang Palace, Manila, killing 13.
+- 1984: The Apple Macintosh, the first consumer computer to popularize the computer mouse and the graphical user interface, is introduced during a Super Bowl XVIII television commercial.
+- 1973: In a bout for the world heavyweight boxing championship in Kingston, Jamaica, challenger George Foreman knocks down champion Joe Frazier six times in the first two rounds before the fight is stopped by referee Arthur Mercante.
+- 1973: A chartered Boeing 707 explodes in flames upon landing at Kano Airport, Nigeria, killing 176.
+- 1973: The crew of Apollo 17 addresses a joint session of Congress after the completion of the final Apollo Moon landing mission.
+- 1973: The Supreme Court of the United States delivers its decisions in Roe v. Wade and Doe v. Bolton, legalizing elective abortion in all fifty states.
+- 1971: The Singapore Declaration, one of the two most important documents to the uncodified constitution of the Commonwealth of Nations, is issued.
+- 1970: The Boeing 747, the world's first "jumbo jet", enters commercial service for launch customer Pan American Airways with its maiden voyage from New York's John F. Kennedy International Airport to London Heathrow Airport.
+- 1968: Operation Igloo White, a US electronic surveillance system to stop communist infiltration into South Vietnam begins installation.
+- 1968: Apollo Program: Apollo 5 lifts off carrying the first Lunar module into space.
+- 1967: Between dozens and hundreds of anti-Somocista demonstrators are killed by the Nicaraguan National Guard in Managua.
+- 1963: The Élysée Treaty of cooperation between France and West Germany is signed by Charles de Gaulle and Konrad Adenauer.
+- 1957: The New York City "Mad Bomber", George P. Metesky, is arrested in Waterbury, Connecticut and charged with planting more than 30 bombs.
+- 1957: Israel withdraws from the Sinai Peninsula.
+- 1947: KTLA, the first commercial television station west of the Mississippi River, begins operation in Hollywood.
+- 1946: Creation of the Central Intelligence Group, forerunner of the Central Intelligence Agency.
+- 1946: In Iran, Qazi Muhammad declares the independent people's Republic of Mahabad at Chahar Cheragh Square in the Kurdish city of Mahabad; he becomes the new president and Haji Baba Sheikh becomes the prime minister.
+- 1944: World War II: The Allies commence Operation Shingle, an assault on Anzio and Nettuno, Italy.
+- 1943: World War II: Australian and American forces defeat Japanese army and navy units in the bitterly fought Battle of Buna-Gona.
+- 1941: World War II: British and Commonwealth troops capture Tobruk from Italian forces during Operation Compass.
+- 1927: Teddy Wakelam gives the first live radio commentary of a football match, between Arsenal F.C. and Sheffield United at Highbury.
 
 *Data from muffinlabs* 
 
 # 历史上的今天 
 
-- -2023：72岁的胡门·泰恩（Huu Can Tran）在加利福尼亚州蒙特雷公园的一个舞蹈室开火，杀死了11人，并炸伤了9人，然后自杀。这是自2008年科维纳大屠杀以来洛杉矶县最糟糕的大规模枪击事件。
-- -  2017年：全球和全球160多个国家的400多个城市参加了大规模的妇女游行，唐纳德·特朗普（Donald Trump）担任美国总统的第一天。
-- -  2014年：Rojava冲突：Jazira Canton从叙利亚阿拉伯共和国宣布其自治权。
-- -  2011年：反政府示威活动在阿尔巴尼亚的提拉娜举行。据称，有四人死于枪声，据称是由保护总理办公室的武装警察发射的。
-- -  2009年：以色列退出加沙地带，正式结束了与哈马斯的三周战争。但是，双方的间歇性大火在随后的几周内仍在继续。
-- -  2005年：在伯利兹的伯利兹，政府新税的动荡爆发为暴动。
-- -  2004年：NASA的Mer-A（火星漫游者精神）停止了与任务控制的沟通。问题在于其闪存的管理，并于2月6日与地球远程固定。
-- -  2003年：一场7.6级地震袭击了墨西哥州的科利马州，杀死了29人，使大约10,000人无家可归。
-- -  2000年：厄瓜多尔：厄瓜多尔国会被土著组织占领后，卢西奥·古蒂尔雷斯上校，卡洛斯·索罗尔扎诺和安东尼奥·瓦尔加斯撤销了总统贾米尔·玛哈德（Jamil Mahuad）。后来，古铁雷斯被卡洛斯·门多萨（Carlos Mendoza）将军取代，他辞职，允许副总统古斯塔沃·诺贝亚（Gustavo Noboa）接替玛哈德（Mahuad）。
-- -  1999年：毒品战争：在美国历史上最大的毒品胸围之一中，美国海岸警卫队拦截了一艘船上可卡因超过4300公斤（9,500磅）的船。
-- -  1997年：美国众议院投票395-28，以谴责纽特·金里奇（Newt Gingrich）违反道德规范的行为，这使他成为了纪律处分的第一位发言人。
-- -  1985年：内华达州里诺市的里诺·塔霍国际机场附近的Galaxy Airlines航班203航班坠毁，炸死70人。
-- -  1981年：Delorean跑车的生产始于英国北爱尔兰的Dunmurry。
-- -  1980年：伊朗航空航班291号飞机在阿尔伯兹山脉（Alborz Mountains）撞车，驶向伊朗德黑兰的梅赫拉巴德国际机场，炸死128人。
-- -  1976年：协和的商业服务始于伦敦 - 巴林和巴黎 - 里约路线。
-- -  1971年：目前的Emley Moor Transmitting Station是英国最高的独立结构，开始传输UHF广播。
-- -  1968年：B-52轰炸机在图勒空军基地附近坠毁，在核有效载荷破裂后污染了该地区。清理操作完成后，四枚炸弹中的一枚仍未得到解释。
-- -  1968年：越南战争，KHE Sanh战役：战争中最有争议，最有争议的战斗之一开始。
-- -  1963年：芝加哥北岸和密尔沃基铁路终点的运营。
-- -  1960年：一个煤矿在南非的霍莉国家倒塌，杀死了435名矿工。
-- -  1960年：Avianca 671航班在牙买加机场蒙特哥湾撞车，炸死37人。
-- -  1960年：小乔1B，水星航天器，与船上的女恒河猴小姐一起从弗吉尼亚州的沃洛普岛（Wallops Island）抬起。
-- -  1954年：美国第一夫人玛米·艾森豪威尔（Mamie Eisenhower）在康涅狄格州的格罗顿（Groton）发射了第一座核动力潜艇，即nautilus号。
-- -  1951年：巴布亚新几内亚的拉明顿山的灾难性爆发夺走了2,942人的生命。
-- -  1950年：美国律师和政府官员阿尔格·希斯（Alger Hiss）被判犯有伪证罪。
-- -  1948年：魁北克的旗帜首次在魁北克国民议会上采用和飞行。每年标记为魁北克旗日。
-- -  1943年：作为动物行动的一部分，英国的Soe saboteurs摧毁了阿斯波斯河上的铁路桥梁，希腊人民解放军的游击队在萨兰帕波罗（Sarantaporos）战役中摧毁了德国车队。
-- -  1942年：建立了犹太抵抗组织，位于维尔纳贫民窟的Fareynikte Partizaner组织。
-- -  1941年：前一天在罗马尼亚布加勒斯特谋杀一名德国军官，铁卫队的成员从事叛乱，大屠杀杀死了125名犹太人。
-- -  1932年：芬兰和苏联签署了一项非侵略条约。
+- -  2024年：在有500年的纠纷之后，印度总理纳伦德拉·莫迪（Narendra Modi）在北方邦阿约提亚（Ayodhya）发出的拉姆·曼迪尔（Ram Mandir）揭幕。
+- -  2009年：美国总统巴拉克·奥巴马（Barack Obama）签署了一项行政命令，以关闭关塔那摩湾拘留营；国会反对将阻止其实施。
+- -  2007年：当两辆汽车炸弹在伊拉克中部巴格达市的Bab al-Sharqi市场爆炸时，至少有88人被杀。
+- -  2006年：埃沃·莫拉莱斯（Evo Morales）担任玻利维亚总统，成为该国的第一位土著总统。
+- -  1999年：澳大利亚传教士格雷厄姆·斯坦斯（Graham Staines）和他的两个儿子在印度东部的汽车中睡觉时被激进的印度教徒烧毁。
+- -  1998年：航天飞机计划：航天飞机努力在STS-89上发射，与俄罗斯太空站Mir对接。
+- -  1995年：以色列 - 巴勒斯坦冲突：贝特盖自杀炸弹爆炸：在内塔尼亚附近的以色列中部，两个加兹人在军事过境点炸毁了自己，杀死了19名以色列士兵。
+- -  1992年：航天飞机计划：航天飞机发现在STS-42上推出，罗伯塔·邦达尔（Roberta Bondar）博士成为第一位加拿大妇女，也是太空中的第一位神经科医生。
+- -  1992年：叛军占领了扎伊尔在金沙萨的国家广播电台，并广播了对政府辞职的需求。
+- -  1987年：菲律宾安全部队在马尼拉的马拉卡南宫对10,000-15,000名示威者的人群开火，杀死了13人。
+- -  1984年：在超级碗XVIII电视广告中引入了第一个普及计算机鼠标和图形用户界面的消费计算机Apple Macintosh。
+- -  1973年：在牙买加金斯敦举行的世界重量级拳击锦标赛的比赛中，挑战者乔治·福尔曼（George Foreman）在前两轮比赛中六次击败冠军乔·弗雷泽（Joe Frazier），然后裁判亚瑟·梅尔瑟特（Arthur Mercante）停止了战斗。
+- -  1973年：一辆特许波音707在降落在尼日利亚卡诺机场时在火焰中爆炸，杀死了176。
+- -  1973年：阿波罗17号的船员在完成阿波罗月球登陆任务完成后讲话了国会联席会议。
+- -  1973年：美国最高法院在Roev。Wadeand Doev。Bolton案中作出决定，在所有五十个州的选举堕胎合法化。
+- -  1971年：《新加坡宣言》是国际联邦无修正的两个最重要的文件之一。
+- -  1970年：波音747是世界上第一个“巨型喷气式飞机”，从纽约的约翰·肯尼迪国际机场到伦敦希思罗机场的梅登航行，进入了发射客户泛美航空的商业服务。
+- -  1968年：美国电子监视系统伊格鲁·怀特（Igloo White）行动，以阻止共产主义渗透到南越南南部。
+- -  1968年：阿波罗计划：阿波罗5号抬起，将第一个月球模块带入太空。
+- -  1967年：数十个和数百名反官员示威者在马那瓜的尼加拉瓜国民警卫队中杀死。
+- -  1963年：法国与西德之间的合作条约由查尔斯·戴高勒（Charles de Gaulle）和科拉德·阿德纳（Konrad Adenauer）签署。
+- -  1957年：纽约市的“疯狂轰炸机”，乔治·梅特斯基（George P. Metesky）在康涅狄格州沃特伯里（Waterbury）被捕，并被指控种植30多枚炸弹。
+- -  1957年：以色列退出西奈半岛。
+- -  1947年：密西西比河以西的第一个商业电视台Ktla开始在好莱坞运营。
+- -  1946年：中央情报机构的先驱中央情报集团的创建。
+- -  1946年：在伊朗，卡齐·穆罕默德（Qazi Muhammad）宣布库尔德市Mahabad的Chahar Cheragh广场的Mahabad独立人民共和国；他成为新总统，哈吉·巴巴·谢赫（Haji Baba Sheikh）成为总理。
+- -  1944年：第二次世界大战：盟友开始行动木瓦，对意大利安齐奥和尼特托诺的攻击。
+- -  1943年：第二次世界大战：澳大利亚和美军在激烈的布纳 - 高纳战役中击败日本军队和海军部队。
+- -  1941年：第二次世界大战：英国和英联邦部队在指南针行动期间从意大利部队夺取托布鲁克。
+- -  1927年：泰迪·韦克拉姆（Teddy Wakelam）在阿森纳F.C.之间发表了第一场足球比赛的现场电台评论。和谢菲尔德联队在海布里。
 
 *由googletrans翻译*
