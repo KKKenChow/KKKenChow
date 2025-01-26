@@ -1,69 +1,69 @@
 # History of Today 
 
-- 2019: A mining company's dam collapses in Brumadinho, Brazil, a south-eastern city, killing 270 people.
-- 2015: A clash in Mamasapano, Maguindanao in the Philippines kills 44 members of Special Action Force (SAF), at least 18 from the Moro Islamic Liberation Front and five from the Bangsamoro Islamic Freedom Fighters.
-- 2013: At least 50 people are killed and 120 people are injured in a prison riot in Barquisimeto, Venezuela.
-- 2011: The first wave of the Egyptian revolution begins throughout the country, marked by street demonstrations, rallies, acts of civil disobedience, riots, labour strikes, and violent clashes.
-- 2010: Ethiopian Airlines Flight 409 crashes into the Mediterranean Sea off the coast of Na'ameh, Lebanon, killing 90.
-- 2006: Mexican professional wrestler Juana Barraza is arrested in connection with the serial killing of at least ten elderly women.
-- 2005: A stampede at the Mandhradevi temple in Maharashtra, India kills at least 258.
-- 2003: Invasion of Iraq: A group of people leave London, England, for Baghdad, Iraq, to serve as human shields, intending to prevent the U.S.-led coalition troops from bombing certain locations.
-- 1999: A 6.0 magnitude earthquake hits western Colombia killing at least 1,000.
-- 1998: A suicide attack by the Liberation Tigers of Tamil Eelam on Sri Lanka's Temple of the Tooth kills eight and injures 25 others.
-- 1998: During a historic visit to Cuba, Pope John Paul II demands political reforms and the release of political prisoners while condemning US attempts to isolate the country.
-- 1996: Billy Bailey becomes the last person to be hanged in the United States.
-- 1995: The Norwegian rocket incident: Russia almost launches a nuclear attack after it mistakes Black Brant XII, a Norwegian research rocket, for a US Trident missile.
-- 1994: The spacecraft Clementine by BMDO and NASA is launched.
-- 1993: Five people are shot outside the CIA Headquarters in Langley, Virginia. Two are killed and three wounded.
-- 1990: Avianca Flight 052 crashes in Cove Neck, New York, killing 73.
-- 1986: The National Resistance Movement topples the government of Tito Okello in Uganda.
-- 1980: Mother Teresa is honored with India's highest civilian award, the Bharat Ratna.
-- 1979: Pope John Paul II starts his first official papal visits outside Italy to The Bahamas, Dominican Republic, and Mexico.
-- 1971: Idi Amin leads a coup deposing Milton Obote and becomes Uganda's president.
-- 1971: Charles Manson and four "Family" members (three of them female) are found guilty of the 1969 Tate-LaBianca murders.
-- 1969: Brazilian Army captain Carlos Lamarca deserts in order to fight against the military dictatorship, taking with him ten machine guns and 63 rifles.
-- 1967: South Vietnamese junta leader and Prime Minister Nguyen Cao Ky fires rival, Deputy Prime Minister and Defence Minister Nguyen Huu Co, while the latter is overseas on a diplomatic visit.
-- 1964: Blue Ribbon Sports, which would later become Nike, is founded by University of Oregon track and field athletes.
-- 1961: In Washington, D.C., US President John F. Kennedy delivers the first live presidential television news conference.
-- 1960: The National Association of Broadcasters in the United States reacts to the "payola" scandal by threatening fines for any disc jockeys who accept money for playing particular records.
-- 1949: The first Emmy Awards are presented in the United States; the venue is the Hollywood Athletic Club.
-- 1947: Thomas Goldsmith Jr. files a patent for a "Cathode Ray Tube Amusement Device", the first ever electronic game.
-- 1946: United Nations Security Council Resolution 1 relating to Military Staff Committee is adopted.
-- 1946: The United Mine Workers rejoins the American Federation of Labor.
+- 2021: Protesters and farmers storm the Red Fort near Delhi, clashing with police. One protester is killed and more than 80 police officers are injured.
+- 2020: A Sikorsky S-76B flying from John Wayne Airport to Camarillo Airport crashes in Calabasas, 30 miles west of Los Angeles, killing all nine people on board, including five-time NBA champion Kobe Bryant and his daughter Gianna Bryant.
+- 2015: Syrian civil war: The People's Protection Units (YPG) recaptures the city of Kobanî from the Islamic State of Iraq and the Levant (ISIL), marking a turning point in the Siege of Kobanî.
+- 2015: An aircraft crashes at Los Llanos Air Base in Albacete, Spain, killing 11 people and injuring 21 others.
+- 2009: Nadya Suleman gives birth to the world's first surviving octuplets.
+- 2009: Rioting breaks out in Antananarivo, Madagascar, sparking a political crisis that will result in the replacement of President Marc Ravalomanana with Andry Rajoelina.
+- 2001: Diane Whipple, a lacrosse coach, is killed in a dog attack in San Francisco. The resulting court case clarified the meaning of implied malice murder.
+- 2001: The 7.7 Mw Gujarat earthquake shakes Western India, leaving 13,805-20,023 dead and about 166,800 injured.
+- 1998: Lewinsky scandal: On American television, U.S. President Bill Clinton denies having had "sexual relations" with former White House intern Monica Lewinsky.
+- 1991: Mohamed Siad Barre is removed from power in Somalia, ending centralized government, and is succeeded by Ali Mahdi.
+- 1986: The Ugandan government of Tito Okello is overthrown by the National Resistance Army, led by Yoweri Museveni.
+- 1974: Turkish Airlines Flight 301 crashes during takeoff from Izmir Cumaovası Airport (now İzmir Adnan Menderes Airport), killing 66 of the 73 people on board the Fokker F28 Fellowship.
+- 1972: JAT Flight 367 is destroyed by a terrorist bomb, killing 27 of the 28 people on board the DC-9. Flight attendant Vesna Vulović survives with critical injuries.
+- 1966: The three Beaumont children disappear from a beach in Glenelg, South Australia, resulting in one of the country's largest-ever police investigations.
+- 1962: Ranger 3 is launched to study the Moon. The space probe later misses the Moon by 22,000 miles (35,400 km).
+- 1959: The 41-acre (17 ha) Chain Island is listed for sale by the California State Lands Commission, with a minimum bid of $5,226.
+- 1956: Soviet Union cedes Porkkala back to Finland.
+- 1952: Black Saturday in Egypt: rioters burn Cairo's central business district, targeting British and upper-class Egyptian businesses.
+- 1950: The Constitution of India comes into force, forming a republic. Rajendra Prasad is sworn in as the first President of India. Observed as Republic Day in India.
+- 1949: The Hale Telescope at Palomar Observatory sees first light under the direction of Edwin Hubble, becoming the largest aperture optical telescope (until BTA-6 is built in 1976).
+- 1945: World War II: Audie Murphy displays valor and bravery in action for which he will later be awarded the Medal of Honor.
+- 1942: World War II: The first United States forces arrive in Europe, landing in Northern Ireland.
+- 1939: Spanish Civil War: Catalonia Offensive: Troops loyal to nationalist General Francisco Franco and aided by Italy take Barcelona.
+- 1934: German-Polish declaration of non-aggression is signed.
+- 1934: The Apollo Theater reopens in Harlem, New York City.
+- 1930: The Indian National Congress declares 26 January as Independence Day or as the day for Poorna Swaraj ("Complete Independence") which occurred 17 years later.
+- 1926: The first demonstration of the television by John Logie Baird.
+- 1918: Finnish Civil War: A group of Red Guards hangs a red lantern atop the tower of Helsinki Workers' Hall to symbolically mark the start of the war.
+- 1915: The Rocky Mountain National Park is established by an act of the U.S. Congress.
+- 1905: The world's largest diamond ever, the Cullinan, which weighs 3,106.75 carats (0.621350 kg), is found at the Premier Mine near Pretoria in South Africa.
 
 *Data from muffinlabs* 
 
 # 历史上的今天 
 
-- -  2019年：一家矿业公司的大坝在巴西的布鲁马迪尼（Brumadinho）倒塌，是一个东南城市，炸死270人。
-- -  2015年：菲律宾Maguindanao在Mamasapano发生冲突，杀死了44名特别行动部队（SAF）的成员，至少有18名来自Moro伊斯兰解放阵线，而Bangsamoro伊斯兰自由式战斗机则杀死了5名。
-- -  2013年：在委内瑞拉的Barquisimeto的一场监狱暴动中，至少有50人被杀，120人受伤。
-- -  2011年：埃及革命的第一波浪潮始于全国，以街道示威，集会，公民抗命，暴动，劳动罢工和暴力冲突为特征。
-- -  2010年：埃塞俄比亚航空公司409航班撞上黎巴嫩纳阿梅（Na'ameh）海岸的地中海，造成90人丧生。
-- -  2006年：墨西哥职业摔跤手Juana Barraza因连续杀害至少十名老年妇女而被捕。
-- -  2005年：印度马哈拉施特拉邦的曼德拉德维神庙的踩踏事件至少杀死258。
-- -  2003年：入侵伊拉克：一群人离开英国伦敦，前往伊拉克的巴格达，担任人类盾牌，打算防止美国领导的联合部队轰炸某些地点。
-- -  1999年：一场6.0级地震袭击了西部哥伦比亚至少杀死1,000人。
-- -  1998年：泰米尔·埃拉姆（Tamil Eelam）对斯里兰卡牙齿庙宇的解放猛虎的自杀式袭击杀死了八人，炸伤25人。
-- -  1998年：在对古巴的历史性访问中，教皇约翰·保罗二世要求政治改革和释放政治犯，同时谴责我们试图隔离该国。
-- -  1996年：比利·贝利（Billy Bailey）成为美国最后一个被绞死的人。
-- -  1995年：挪威火箭事件：俄罗斯在误认为挪威研究火箭的Black Brant XII之后几乎发动了核攻击，并将其视为美国三叉戟导弹。
-- -1994：BMDO和NASA的航天器乳蛋白原被推出。
-- -  1993年：五人在弗吉尼亚州兰利的中央情报局总部外被枪击。两人被杀，三人受伤。
-- -  1990年：Avianca航班052在纽约Cove Neck坠毁，杀死73。
-- -  1986年：全国抵抗运动在乌干达的铁托·奥基洛（Tito Okello）政府上演。
-- -  1980年：特蕾莎修女（Teresa）荣获印度最高的平民奖，巴拉特·拉特纳（Bharat Ratna）。
-- -  1979年：教皇约翰·保罗二世（John Paul II）在意大利以外的巴哈马，多米尼加共和国和墨西哥开始了他的第一次正式教皇访问。
-- -  1971年：伊迪·阿明（Idi Amin）领导了一场政变，席卷了米尔顿·奥伯特（Milton Obote），并成为乌干达的总统。
-- -  1971年：查尔斯·曼森（Charles Manson）和四名“家庭”成员（其中三名女性）被判犯有1969年的泰特·拉比安卡（Tate-Labianca）谋杀案。
-- -  1969年：巴西陆军上尉卡洛斯·拉马卡（Carlos Lamarca）沙漠，以与军事独裁统治作斗争，带着十枪和63支步枪。
-- -  1967年：南越政治家领导人兼总理Nguyen Cao ky解雇了竞争对手，副总理兼国防部长Nguyen Huu Co，而后者则在外交访问中进行。
-- -  1964年：蓝带运动，后来成为耐克，由俄勒冈大学田径运动员创立。
-- -  1961年：在华盛顿特区，美国总统约翰·肯尼迪（John F. Kennedy）举行了第一次直播总统电视新闻发布会。
-- -  1960年：美国全国广播公司协会通过威胁要接受任何播放特定记录的唱片骑师的罚款，对“ Payola”丑闻做出了反应。
-- -  1949年：美国第一次艾美奖颁奖典礼；场地是好莱坞体育俱乐部。
-- -  1947年：小托马斯·戈德史密斯（Thomas Goldsmith Jr.
-- -  1946年：采用了与军事人员委员会有关的联合国安理会第1号决议。
-- -  1946年：联合矿工工人重新加入了美国劳工联合会。
+- -  2021年：抗议者和农民冲向德里附近的红色堡垒，与警察发生冲突。一名抗议者被杀，80多名警察受伤。
+- -  2020年：一架西科斯基S-76B从约翰·韦恩机场（John Wayne Airport）飞往洛杉矶以西30英里的卡拉巴萨斯（Calabasas）的卡马里洛机场撞车事故，杀死了船上的所有9人，包括五届NBA冠军科比·布莱恩特（Kobe Bryant）和他的女儿吉安娜·布莱恩（Gianna Bryant）。
+- -  2015年：叙利亚内战：人民保护单位（YPG）从伊拉克伊斯兰国和黎凡特（ISIL）夺回了科巴尼市，标志着科巴尼围困的转折点。
+- -  2015年：一架飞机在西班牙阿尔巴塞特的洛斯拉诺斯空军基地撞车，炸死11人，炸伤21人。
+- -  2009年：纳迪亚·苏勒曼（Nadya Suleman）诞生了世界上第一个幸存的八度。
+- -  2009年：骚乱在马达加斯加的antananarivo爆发，引发了一场政治危机，这将导致总统马克·拉瓦洛曼纳（Marc Ravalomanana）用安德里·拉乔利纳（Andry Rajoelina）接替总统。
+- -  2001年：长曲棍球教练黛安·惠普尔（Diane Whipple）在旧金山的一次狗袭击中被杀。由此产生的法院案阐明了暗示恶意谋杀的含义。
+- -  2001年：7.7 MW古吉拉特邦地震摇晃印度西部，造成13,805-20,023死亡，约166,800人受伤。
+- -  1998年：莱温斯基丑闻：在美国电视上，美国总统比尔·克林顿（Bill Clinton）否认与前白宫实习生莫妮卡·莱温斯基（Monica Lewinsky）有“性关系”。
+- -  1991年：穆罕默德·西亚德·巴雷（Mohamed Siad Barre）从索马里的权力中撤离，结束了集中政府，并由阿里·马赫迪（Ali Mahdi）继承。
+- -  1986年：铁托·奥基洛（Tito Okello）的乌干达政府由尤尔里·穆塞韦尼（Yoweri Museveni）领导的国家抵抗军推翻。
+- -  1974年：土耳其航空公司301航班从伊兹米尔·库莫瓦斯机场（IzmirCumaovasıAirport）起飞期间（现为伊兹米尔·阿德南·蒙德斯机场）坠毁，造成Fokker F28奖学金中73人中有66人丧生。
+- -  1972年：JAT Flight 367被恐怖炸弹摧毁，杀死了DC-9船上28人中的27人。空姐维斯纳·维洛维奇（VesnaVulović）受到重伤。
+- -  1966年：三个博蒙特儿童从南澳大利亚州格伦内尔的海滩消失，导致该国有史以来最大的警察调查之一。
+- -  1962年：Ranger 3发射以研究月球。太空探测后来错过了22,000英里（35,400公里）的月球。
+- -  1959年：加利福尼亚州土地委员会列出了41英亩（17公顷）的连锁岛，最低出价为5,226美元。
+- -  1956年：苏联Cedes Porkkala回到芬兰。
+- -  1952年：埃及的黑色星期六：暴动者燃烧开罗的中央商务区，针对英国和上层埃及企业。
+- -  1950年：印度宪法生效，形成共和国。拉金德拉·普拉萨德（Rajendra Prasad）宣誓就任印度第一任总统。在印度观察到共和国日。
+- -  1949年：Palomar天文台的Hale望远镜在Edwin Hubble的指导下看到了第一光，成为最大的光圈光学望远镜（直到1976年建造BTA-6）。
+- -  1945年：第二次世界大战：奥迪·墨菲（Audie Murphy）在行动中表现出英勇和英勇，后来他将获得荣誉勋章。
+- -  1942年：第二次世界大战：第一部美国军队抵达欧洲，降落在北爱尔兰。
+- -  1939年：西班牙内战：加泰罗尼亚的进攻：忠于民族主义者弗朗西斯科·佛朗哥（Francisco Franco）的部队，并在意大利的帮助下乘巴塞罗那。
+- -  1934年：签署了德国 - 派利的非侵略性声明。
+- -  1934年：阿波罗剧院在纽约市哈林市重新开放。
+- -  1930年：印度国民大会宣布1月26日为独立日，或者是17年后发生的Poorna Swaraj（“完整独立”）的日子。
+- -  1926年：约翰·洛吉·贝尔德（John Logie Baird）的电视节目第一次演示。
+- -  1918年：芬兰内战：一群红色警卫在赫尔辛基塔顶上悬挂着红色灯笼，以象征性地标志着战争的开始。
+- -  1915年：落基山国家公园是由美国国会法案建立的。
+- -  1905年：世界上最大的钻石库里南（Cullinan）在南非的比勒陀利亚附近的主要矿山上发现了3,106.75克拉（0.621350公斤）。
 
 *由googletrans翻译*
