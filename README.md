@@ -1,69 +1,69 @@
 # History of Today 
 
-- 2021: Protesters and farmers storm the Red Fort near Delhi, clashing with police. One protester is killed and more than 80 police officers are injured.
-- 2020: A Sikorsky S-76B flying from John Wayne Airport to Camarillo Airport crashes in Calabasas, 30 miles west of Los Angeles, killing all nine people on board, including five-time NBA champion Kobe Bryant and his daughter Gianna Bryant.
-- 2015: Syrian civil war: The People's Protection Units (YPG) recaptures the city of Kobanî from the Islamic State of Iraq and the Levant (ISIL), marking a turning point in the Siege of Kobanî.
-- 2015: An aircraft crashes at Los Llanos Air Base in Albacete, Spain, killing 11 people and injuring 21 others.
-- 2009: Nadya Suleman gives birth to the world's first surviving octuplets.
-- 2009: Rioting breaks out in Antananarivo, Madagascar, sparking a political crisis that will result in the replacement of President Marc Ravalomanana with Andry Rajoelina.
-- 2001: Diane Whipple, a lacrosse coach, is killed in a dog attack in San Francisco. The resulting court case clarified the meaning of implied malice murder.
-- 2001: The 7.7 Mw Gujarat earthquake shakes Western India, leaving 13,805-20,023 dead and about 166,800 injured.
-- 1998: Lewinsky scandal: On American television, U.S. President Bill Clinton denies having had "sexual relations" with former White House intern Monica Lewinsky.
-- 1991: Mohamed Siad Barre is removed from power in Somalia, ending centralized government, and is succeeded by Ali Mahdi.
-- 1986: The Ugandan government of Tito Okello is overthrown by the National Resistance Army, led by Yoweri Museveni.
-- 1974: Turkish Airlines Flight 301 crashes during takeoff from Izmir Cumaovası Airport (now İzmir Adnan Menderes Airport), killing 66 of the 73 people on board the Fokker F28 Fellowship.
-- 1972: JAT Flight 367 is destroyed by a terrorist bomb, killing 27 of the 28 people on board the DC-9. Flight attendant Vesna Vulović survives with critical injuries.
-- 1966: The three Beaumont children disappear from a beach in Glenelg, South Australia, resulting in one of the country's largest-ever police investigations.
-- 1962: Ranger 3 is launched to study the Moon. The space probe later misses the Moon by 22,000 miles (35,400 km).
-- 1959: The 41-acre (17 ha) Chain Island is listed for sale by the California State Lands Commission, with a minimum bid of $5,226.
-- 1956: Soviet Union cedes Porkkala back to Finland.
-- 1952: Black Saturday in Egypt: rioters burn Cairo's central business district, targeting British and upper-class Egyptian businesses.
-- 1950: The Constitution of India comes into force, forming a republic. Rajendra Prasad is sworn in as the first President of India. Observed as Republic Day in India.
-- 1949: The Hale Telescope at Palomar Observatory sees first light under the direction of Edwin Hubble, becoming the largest aperture optical telescope (until BTA-6 is built in 1976).
-- 1945: World War II: Audie Murphy displays valor and bravery in action for which he will later be awarded the Medal of Honor.
-- 1942: World War II: The first United States forces arrive in Europe, landing in Northern Ireland.
-- 1939: Spanish Civil War: Catalonia Offensive: Troops loyal to nationalist General Francisco Franco and aided by Italy take Barcelona.
-- 1934: German-Polish declaration of non-aggression is signed.
-- 1934: The Apollo Theater reopens in Harlem, New York City.
-- 1930: The Indian National Congress declares 26 January as Independence Day or as the day for Poorna Swaraj ("Complete Independence") which occurred 17 years later.
-- 1926: The first demonstration of the television by John Logie Baird.
-- 1918: Finnish Civil War: A group of Red Guards hangs a red lantern atop the tower of Helsinki Workers' Hall to symbolically mark the start of the war.
-- 1915: The Rocky Mountain National Park is established by an act of the U.S. Congress.
-- 1905: The world's largest diamond ever, the Cullinan, which weighs 3,106.75 carats (0.621350 kg), is found at the Premier Mine near Pretoria in South Africa.
+- 2023: A shooting at a synagogue in Neve Yaakov, East Jerusalem, kills seven people and injures three others.
+- 2023: Protests and public outrage spark across the U.S. after the release of multiple videos by the Memphis Police Department showing officers punching, kicking, and pepper spraying Tyre Nichols as a result of running away from a traffic stop, which resulted him dying in the hospital three days later after the incident.
+- 2017: A naming ceremony for the chemical element tennessine takes place in the United States.
+- 2014: Rojava conflict: The Kobanî Canton declares its autonomy from the Syrian Arab Republic.
+- 2013: Two hundred and forty-two people die in a nightclub fire in the Brazilian city of Santa Maria, Rio Grande do Sul.
+- 2011: Within Ursa Minor, H1504+65, a white dwarf with the hottest known surface temperature in the universe at 200,000 K, was documented.
+- 2011: Arab Spring: The Yemeni Revolution begins as over 16,000 protestors demonstrate in Sana'a.
+- 2010: Apple announces the iPad.
+- 2010: The 2009 Honduran constitutional crisis ends when Porfirio Lobo Sosa becomes the new President of Honduras.
+- 2003: The first selections for the National Recording Registry are announced by the Library of Congress.
+- 2002: An explosion at a military storage facility in Lagos, Nigeria, kills at least 1,100 people and displaces over 20,000 others.
+- 1996: Germany first observes the International Holocaust Remembrance Day.
+- 1996: In a military coup, Colonel Ibrahim Baré Maïnassara deposes the first democratically elected president of Niger, Mahamane Ousmane.
+- 1983: The pilot shaft of the Seikan Tunnel, the world's longest sub-aqueous tunnel (53.85 km) between the Japanese islands of Honshū and Hokkaidō, breaks through.
+- 1980: Through cooperation between the U.S. and Canadian governments, six American diplomats secretly escape hostilities in Iran in the culmination of the Canadian Caper.
+- 1973: The Paris Peace Accords officially ends the Vietnam War. Colonel William Nolde is killed in action becoming the conflict's last recorded American combat casualty.
+- 1967: Cold War: The Soviet Union, the United States, and the United Kingdom sign the Outer Space Treaty in Washington, D.C., banning deployment of nuclear weapons in space, and limiting the usage of the Moon and other celestial bodies to peaceful purposes.
+- 1967: Apollo program: Astronauts Gus Grissom, Ed White and Roger Chaffee are killed in a fire during a test of their Apollo 1 spacecraft at the Kennedy Space Center, Florida.
+- 1965: South Vietnamese Prime Minister Trần Văn Hương is removed by the military junta of Nguyễn Khánh.
+- 1961: The Soviet submarine S-80 sinks when its snorkel malfunctions, flooding the boat.
+- 1951: Nuclear testing at the Nevada Test Site begins with Operation Ranger.
+- 1945: World War II: The Soviet 322nd Rifle Division liberates the remaining inmates of Auschwitz-Birkenau.
+- 1944: World War II: The 900-day Siege of Leningrad is lifted.
+- 1943: World War II: The Eighth Air Force sorties ninety-one B-17s and B-24s to attack the U-boat construction yards at Wilhelmshaven, Germany. This was the first American bombing attack on Germany.
+- 1939: First flight of the Lockheed P-38 Lightning.
+- 1928: Bundaberg tragedy: a diphtheria vaccine is contaminated with Staph. aureus bacterium, resulting in the deaths of twelve children in the Australian town of Bundaberg.
+- 1927: Ibn Saud takes the title of King of Nejd.
+- 1924: Six days after his death Lenin's body is carried into a specially erected mausoleum.
+- 1918: Beginning of the Finnish Civil War.
+- 1916: World War I: The British government passes the Military Service Act that introduces conscription in the United Kingdom.
 
 *Data from muffinlabs* 
 
 # 历史上的今天 
 
-- -  2021年：抗议者和农民冲向德里附近的红色堡垒，与警察发生冲突。一名抗议者被杀，80多名警察受伤。
-- -  2020年：一架西科斯基S-76B从约翰·韦恩机场（John Wayne Airport）飞往洛杉矶以西30英里的卡拉巴萨斯（Calabasas）的卡马里洛机场撞车事故，杀死了船上的所有9人，包括五届NBA冠军科比·布莱恩特（Kobe Bryant）和他的女儿吉安娜·布莱恩（Gianna Bryant）。
-- -  2015年：叙利亚内战：人民保护单位（YPG）从伊拉克伊斯兰国和黎凡特（ISIL）夺回了科巴尼市，标志着科巴尼围困的转折点。
-- -  2015年：一架飞机在西班牙阿尔巴塞特的洛斯拉诺斯空军基地撞车，炸死11人，炸伤21人。
-- -  2009年：纳迪亚·苏勒曼（Nadya Suleman）诞生了世界上第一个幸存的八度。
-- -  2009年：骚乱在马达加斯加的antananarivo爆发，引发了一场政治危机，这将导致总统马克·拉瓦洛曼纳（Marc Ravalomanana）用安德里·拉乔利纳（Andry Rajoelina）接替总统。
-- -  2001年：长曲棍球教练黛安·惠普尔（Diane Whipple）在旧金山的一次狗袭击中被杀。由此产生的法院案阐明了暗示恶意谋杀的含义。
-- -  2001年：7.7 MW古吉拉特邦地震摇晃印度西部，造成13,805-20,023死亡，约166,800人受伤。
-- -  1998年：莱温斯基丑闻：在美国电视上，美国总统比尔·克林顿（Bill Clinton）否认与前白宫实习生莫妮卡·莱温斯基（Monica Lewinsky）有“性关系”。
-- -  1991年：穆罕默德·西亚德·巴雷（Mohamed Siad Barre）从索马里的权力中撤离，结束了集中政府，并由阿里·马赫迪（Ali Mahdi）继承。
-- -  1986年：铁托·奥基洛（Tito Okello）的乌干达政府由尤尔里·穆塞韦尼（Yoweri Museveni）领导的国家抵抗军推翻。
-- -  1974年：土耳其航空公司301航班从伊兹米尔·库莫瓦斯机场（IzmirCumaovasıAirport）起飞期间（现为伊兹米尔·阿德南·蒙德斯机场）坠毁，造成Fokker F28奖学金中73人中有66人丧生。
-- -  1972年：JAT Flight 367被恐怖炸弹摧毁，杀死了DC-9船上28人中的27人。空姐维斯纳·维洛维奇（VesnaVulović）受到重伤。
-- -  1966年：三个博蒙特儿童从南澳大利亚州格伦内尔的海滩消失，导致该国有史以来最大的警察调查之一。
-- -  1962年：Ranger 3发射以研究月球。太空探测后来错过了22,000英里（35,400公里）的月球。
-- -  1959年：加利福尼亚州土地委员会列出了41英亩（17公顷）的连锁岛，最低出价为5,226美元。
-- -  1956年：苏联Cedes Porkkala回到芬兰。
-- -  1952年：埃及的黑色星期六：暴动者燃烧开罗的中央商务区，针对英国和上层埃及企业。
-- -  1950年：印度宪法生效，形成共和国。拉金德拉·普拉萨德（Rajendra Prasad）宣誓就任印度第一任总统。在印度观察到共和国日。
-- -  1949年：Palomar天文台的Hale望远镜在Edwin Hubble的指导下看到了第一光，成为最大的光圈光学望远镜（直到1976年建造BTA-6）。
-- -  1945年：第二次世界大战：奥迪·墨菲（Audie Murphy）在行动中表现出英勇和英勇，后来他将获得荣誉勋章。
-- -  1942年：第二次世界大战：第一部美国军队抵达欧洲，降落在北爱尔兰。
-- -  1939年：西班牙内战：加泰罗尼亚的进攻：忠于民族主义者弗朗西斯科·佛朗哥（Francisco Franco）的部队，并在意大利的帮助下乘巴塞罗那。
-- -  1934年：签署了德国 - 派利的非侵略性声明。
-- -  1934年：阿波罗剧院在纽约市哈林市重新开放。
-- -  1930年：印度国民大会宣布1月26日为独立日，或者是17年后发生的Poorna Swaraj（“完整独立”）的日子。
-- -  1926年：约翰·洛吉·贝尔德（John Logie Baird）的电视节目第一次演示。
-- -  1918年：芬兰内战：一群红色警卫在赫尔辛基塔顶上悬挂着红色灯笼，以象征性地标志着战争的开始。
-- -  1915年：落基山国家公园是由美国国会法案建立的。
-- -  1905年：世界上最大的钻石库里南（Cullinan）在南非的比勒陀利亚附近的主要矿山上发现了3,106.75克拉（0.621350公斤）。
+- -  2023年：东耶路撒冷尼夫·亚科夫（Neve Yaakov）的犹太教堂发生枪击事件，杀死了7人，并炸伤了另外三人。
+- -  2023年：孟菲斯警察局发行了多个视频后，美国各地的抗议和公众愤怒火花，显示警察在逃离交通站点时拳打，踢和胡椒喷洒轮胎尼科尔斯，这导致他死于事件发生后三天后医院。
+- -  2017年：化学元素田纳西岛的命名仪式在美国举行。
+- -  2014年：Rojava冲突：Kobanî广州从阿拉伯共和国宣布其自主权。
+- -  2013年：在巴西城市圣玛丽亚（Rio Grande Do Sul）的一场夜总会大火中，有242人死于夜总会大火。
+- -  2011年：在Ursa Minor，H1504+65中，有记录在200,000 K时在宇宙中具有最热的表面温度的白色矮人。
+- -  2011年：阿拉伯之春：也门革命开始时，超过16,000名抗议者在萨那（Sana'a）展示。
+- -  2010年：苹果宣布iPad。
+- -  2010年：当Porfirio Lobo Sosa成为洪都拉斯的新总统时，2009年洪都拉斯的宪法危机结束了。
+- -  2003年：国会图书馆宣布了国家记录注册中心的第一批选择。
+- -  2002年：尼日利亚拉各斯的一家军事存储设施的爆炸爆炸炸死至少1,100人，并取代了20,000多人。
+- -  1996年：德国首先观察国际大屠杀纪念日。
+- -  1996年：在一次军事政变中，易卜拉欣·巴雷·马纳萨拉上校存放了第一位民主选举的尼日尔玛哈曼·奥斯曼（Mahamane Ousmane）。
+- -  1983年：Seikan Tunnel的飞行员轴，世界上最长的次级水隧道（53.85公里）之间的日本群岛和霍卡多岛之间的飞行员突破了。
+- -  1980年：通过美国和加拿大政府之间的合作，六名美国外交官秘密逃脱了加拿大雀跃的高潮。
+- -  1973年：《巴黎和平协定》正式结束越南战争。威廉·诺尔德（William Nolde）上校在行动中被杀成为冲突的最后记录的美国战斗人员伤亡。
+- -  1967年：冷战：苏联，美国和英国在华盛顿特区签署了《外太空条约》，禁止在太空中部署核武器，并将月球和其他天体的使用限制为和平目的。
+- -  1967年：阿波罗计划：宇航员古斯·格里索姆（Gus Grissom），埃德·怀特（Ed White）和罗杰·查菲（Roger Chaffee）在佛罗里达州肯尼迪航天中心的Apollo 1航天器测试期间在大火中丧生。
+- -  1965年：南越南总理特雷恩·瓦恩·赫恩（TrầnVănH）被NguyễnKhánh的军政府撤离。
+- -  1961年：苏联潜艇S-80在浮潜故障时沉没，淹没了这艘船。
+- -  1951年：内华达州测试地点进行的核试验始于行动游侠。
+- -  1945年：第二次世界大战：苏联第322步枪师解放了奥斯威辛集中营的其余囚犯。
+- -  1944年：第二次世界大战：列宁格勒的900天围困被解除。
+- -  1943年：第二次世界大战：第八次空军对九十一名B-17和B-24分类，以攻击德国Wilhelmshaven的U型艇建筑场。这是美国对德国的第一次轰炸袭击。
+- -  1939年：洛克希德P-38闪电的第一架飞行。
+- -  1928年：邦达伯格悲剧：白喉疫苗被葡萄球菌污染。金黄色细菌，导致澳大利亚邦德伯格（Bundaberg）的十二个儿童死亡。
+- -  1927年：伊本·沙特（Ibn Saud）夺取了尼加（Nejd）国王的头衔。
+- -  1924年：死后列宁的尸体被带入了特殊的陵墓。
+- -  1918年：芬兰内战的开始。
+- -  1916年：第一次世界大战：英国政府通过了在英国引入征兵的《兵役法》。
 
 *由googletrans翻译*
