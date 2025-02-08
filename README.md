@@ -1,69 +1,69 @@
 # History of Today 
 
-- 2020: COVID-19 pandemic: The Presidency of Donald Trump.
-- 2017: A gunman opens fire at the Islamic Cultural Centre of Quebec City, killing six and wounding 19 others in a spree shooting.
-- 2014: Rojava conflict: The Afrin Canton declares its autonomy from the Syrian Arab Republic.
-- 2013: SCAT Airlines Flight 760 crashes near the Kazakh city of Almaty, killing 21 people.
-- 2009: Governor of Illinois Rod Blagojevich is removed from office following his conviction of several corruption charges, including solicitation of personal benefit in exchange for an appointment to the United States Senate as a replacement for then-U.S. president-elect Barack Obama.
-- 2008: An Egyptian court rules that people who do not adhere to one of the three government-recognised religions, while not allowed to list any belief outside of those three, are still eligible to receive government identity documents.
-- 2005: The first direct commercial flights from mainland China (from Guangzhou) to Taiwan since 1949 arrived in Taipei. Shortly afterwards, a China Airlines flight lands in Beijing.
-- 2002: In his State of the Union address, President George W. Bush describes "regimes that sponsor terror" as an Axis of evil, in which he includes Iraq, Iran and North Korea.
-- 2001: Thousands of student protesters in Indonesia storm parliament and demand that President Abdurrahman Wahid resign due to alleged involvement in corruption scandals.
-- 1996: President Jacques Chirac announces a "definitive end" to French nuclear weapons testing.
-- 1991: Gulf War: The Battle of Khafji, the first major ground engagement of the war, as well as its deadliest, begins between Iraq and Saudi Arabia.
-- 1989: Cold War: Hungary establishes diplomatic relations with South Korea, making it the first Eastern Bloc nation to do so.
-- 1983: Singapore cable car crash: Panamanian-registered oil rig, Eniwetok, strikes the cables of the Singapore Cable Car system linking the mainland and Sentosa Island, causing two cabins to fall into the water and killing seven people and leaving thirteen others trapped for hours.
-- 1973: EgyptAir Flight 741 crashes into the Kyrenia Mountains in Cyprus, killing 37 people.
-- 1959: The first Melodifestivalen is held at Cirkus in Stockholm, Sweden.
-- 1944: World War II: In Bologna, Italy, the Anatomical theatre of the Archiginnasio is completely destroyed in an air-raid.
-- 1944: World War II: Approximately 38 people are killed and about a dozen injured when the Polish village of Koniuchy (present-day Kaniūkai, Lithuania) is attacked by Soviet partisan units.
-- 1943: World War II: The first day of the Battle of Rennell Island, USS Chicago (CA-29) is torpedoed and heavily damaged by Japanese bombers.
-- 1940: Three trains on the Nishinari Line; present Sakurajima Line, in Osaka, Japan, collide and explode while approaching Ajikawaguchi Station. One hundred and eighty-one people are killed.
-- 1936: The first inductees into the Baseball Hall of Fame are announced.
-- 1918: Ukrainian-Soviet War: An armed uprising organized by the Bolsheviks in anticipation of the encroaching Red Army begins at the Kiev Arsenal, which will be put down six days later.
-- 1918: Ukrainian-Soviet War: The Bolshevik Red Army, on its way to besiege Kyiv, is met by a small group of military students at the Battle of Kruty.
-- 1911: Mexican Revolution: Mexicali is captured by the Mexican Liberal Party, igniting the Magonista rebellion of 1911.
-- 1907: Charles Curtis of Kansas becomes the first Native American U.S. Senator.
-- 1891: Liliʻuokalani is proclaimed the last monarch and only queen regnant of the Kingdom of Hawaii.
-- 1886: Karl Benz patents the first successful gasoline-driven automobile.
-- 1863: The Bear River Massacre: A detachment of California Volunteers led by Colonel Patrick Edward Connor engage the Shoshone at Bear River, Washington Territory, killing hundreds of men, women and children.
-- 1861: Kansas is admitted as the 34th U.S. state.
-- 1856: Queen Victoria issues a Warrant under the Royal sign-manual that establishes the Victoria Cross to recognise acts of valour by British military personnel during the Crimean War.
-- 1850: Henry Clay introduces the Compromise of 1850 to the U.S. Congress.
+- 2014: A hotel fire in Medina, Saudi Arabia, kills 15 Egyptian pilgrims with 130 others injured.
+- 2013: A blizzard kills at least 18 and leaves hundreds of thousands of people without electricity in the northeastern United States and parts of Canada.
+- 2010: Over 2 miles (3.2 km) of road are buried after a storm in the Hindu Kush mountains of Afghanistan triggers a series of avalanches, killing at least 172 people and trapping over 2,000 others.
+- 1993: An Iran Air Tours Tupolev Tu-154 and an Iranian Air Force Sukhoi Su-24 collide mid-air near Qods, Iran, killing all 133 people onboard both aircraft.
+- 1989: Independent Air Flight 1851 strikes Pico Alto mountain while on approach to Santa Maria Airport in the Azores, killing all 144 passengers on board.
+- 1986: Twenty-three people are killed when a VIA Rail passenger train collides with a Canadian National freight train near the town of Hinton, Alberta, making it one of the worst rail accidents in Canada.
+- 1983: Irish race horse Shergar is stolen and allegedly killed by gunmen in a ransom attempt by the PIRA.
+- 1983: A dust storm hits Melbourne, resulting in the worst drought on record and severe weather conditions in the city.
+- 1974: The crew of Skylab 4, the last mission to visit the American space station Skylab, returns to Earth after 84 days in space.
+- 1971: South Vietnamese ground troops launch an incursion into Laos to try to cut off the Ho Chi Minh trail and stop communist infiltration into the country.
+- 1971: The NASDAQ stock market index opens for the first time.
+- 1968: American civil rights movement: An attack on Black students from South Carolina State University who are protesting racial segregation leaves three dead and 28 injured in Orangeburg, South Carolina.
+- 1965: Eastern Air Lines Flight 663 crashes into the Atlantic Ocean and explodes, killing all 84 people onboard.
+- 1963: The regime of Prime Minister of Iraq Abd al-Karim Qasim is overthrown by the Ba'ath Party.
+- 1962: Nine protestors are killed at Charonne station, Paris, by French police under the command of ex-Vichy official and Parisian Prefect of Police Maurice Papon.
+- 1960: The Hollywood Walk of Fame is founded.
+- 1960: Queen Elizabeth II issues an Order-in-Council, proclaiming the House of Windsor and declaring that her descendants will take the name Mountbatten-Windsor.
+- 1950: The Stasi, the secret police of East Germany, is established.
+- 1946: The People's Republic of Korea is dissolved in the North and replaced by the communist-controlled Provisional People's Committee of North Korea.
+- 1945: World War II: Mikhail Devyataev escapes with nine other Soviet POWs from a Nazi concentration camp in Peenemünde, Usedom.
+- 1945: World War II: British and Canadian forces commence Operation Veritable to occupy land between the Maas and Rhine rivers.
+- 1942: World War II: Japan invades Singapore.
+- 1937: Spanish Civil War: Republican forces establish the Interprovincial Council of Santander, Palencia and Burgos in Cantabria.
+- 1924: The first state execution in the United States by gas chamber takes place in Nevada.
+- 1915: D. W. Griffith's controversial landmark film The Birth of a Nation premieres in Los Angeles.
+- 1910: The Boy Scouts of America is incorporated by William D. Boyce.
+- 1904: The Dutch Colonial Army's Marechaussee regiment led by General G.C.E. van Daalen launch a military campaign in the Dutch East Indies' Northern Sumatra region, leading to the deaths of thousands of civilians.
+- 1904: Japanese forces launch a surprise attack against Russian-controlled Port Arthur, marking the start of the Russo-Japanese war.
+- 1887: The Dawes Act is enacted, authorizing the U.S. President to divide Native American tribal land into individual allotments.
+- 1885: The first Japanese immigrants arrive in Hawaii.
 
 *Data from muffinlabs* 
 
 # 历史上的今天 
 
-- -  2020年：Covid-19-19大流行：唐纳德·特朗普的总统职位。
-- -  2017年：一名枪手在魁北克市的伊斯兰文化中心开火，在一次狂欢枪击中杀死了6人，炸伤了19人。
-- -  2014年：Rojava冲突：Afrin Canton从叙利亚阿拉伯共和国宣布其自治权。
-- -  2013年：SCAT航空公司在哈萨克市Almaty附近撞车760号航班，炸死21人。
-- -  2009年：伊利诺伊州罗德·布拉戈耶维奇（Illinois Rod Blagojevich）州长因定罪了几项腐败指控，包括征集个人利益以换取任命美国参议院的 - 替代当时的美国。当选总统巴拉克·奥巴马（Barack Obama）。
-- -  2008年：一项埃及法院的规定，那些不遵守三种政府认可的宗教之一的人，虽然不允许在这三个宗教之外列出任何信仰，但仍有资格获得政府的身份文件。
-- -  2005年：自1949年以来从中国大陆（从广州到台湾）的首次直接商业航班抵达台北。此后不久，中国航空公司的航班降落在北京。
-- -  2002年：在他的国际电联讲话中，乔治·W·布什（George W. Bush）总统将“赞助恐怖主义的政权”描述为邪恶轴心，其中包括伊拉克，伊朗和北朝鲜。
-- -  2001年：印度尼西亚的成千上万的学生抗议者风暴议会，要求总统阿卜杜拉曼·瓦希德（Abdurrahman Wahid）辞职，原因是涉嫌参与腐败丑闻。
-- -  1996年：总统雅克·奇拉克（Jacques Chirac）宣布了法国核武器测试的“确定性结局”。
-- -  1991年：海湾战争：卡夫吉战役是战争的第一个主要地面参与，也是最致命的，始于伊拉克和沙特阿拉伯之间。
-- -  1989年：冷战：匈牙利与韩国建立了外交关系，使其成为第一个这样做的东部集团。
-- -  1983年：新加坡缆车撞车事故：巴拿马注册的石油钻机，埃尼维托克（Eniwetok小时。
-- -  1973年：埃及航空741航班撞向塞浦路斯的凯伦山，炸死37人。
-- -  1959年：第一个旋律赛车在瑞典斯德哥尔摩的Cirkus举行。
-- -  1944年：第二次世界大战：在意大利博洛尼亚，Archiginnasio的解剖剧院在空袭中被完全摧毁。
-- -  1944年：第二次世界大战：当波兰村庄Koniuchy（当今的Kaniūkai，立陶宛）遭到苏联游行队伍的袭击时，大约有38人被杀，大约有十二人受伤。
-- -  1943年：第二次世界大战：芝加哥号雷内尔岛战役的第一天（CA-29）被日本轰炸机炸毁并严重破坏。
-- -  1940年：Nishinari线上的三列火车；现在，在日本大阪的Sakurajima Line，在接近Ajikawaguchi车站时碰撞并爆炸。一百八十一人被杀。
-- -  1936年：宣布了棒球名人堂的第一批入选者。
-- -  1918年：乌克兰 - 苏联战争：布尔什维克（Bolsheviks）组织的武装起义期望被侵略的红军始于基辅阿森纳（Kiev Arsenal），这将在六天后放下。
-- -  1918年：乌克兰 - 苏维埃战争：布尔什维克红军在围攻基辅的途中，在克鲁蒂战役中遇到了一小群军人。
-- -  1911年：墨西哥革命：墨西哥人被墨西哥自由党俘虏，点燃了1911年的玛格尼斯塔叛乱。
-- -  1907年：堪萨斯州的查尔斯·柯蒂斯（Charles Curtis）成为美国第一位美国参议员。
-- -  1891年：莉莉·乌卡拉尼（Lili'uokalani）被宣布为夏威夷王国的最后一个君主和唯一的女王。
-- -  1886年：卡尔·本茨（Karl Benz）获得了第一款成功的汽油驱动汽车的专利。
-- -  1863年：熊河大屠杀：由帕特里克·爱德华·康纳（Patrick Edward Connor）上校领导的加利福尼亚志愿者的支队在华盛顿领土的贝尔河（Bear River）与肖肖尼（Shoshone）交战，杀死了数百名男子，妇女和儿童。
-- -  1861年：堪萨斯州被接纳为美国第34州。
-- -  1856年：维多利亚女王在皇家签名手册下发出了一份逮捕令，该手册确立了维多利亚十字架，以表彰克里米亚战争期间英国军事人员的英勇行为。
-- -  1850年：亨利·克莱（Henry Clay）向美国国会介绍了1850年的妥协。
+- -  2014年：沙特阿拉伯麦地那的一场酒店大火杀死15名埃及朝圣者，另有130人受伤。
+- -  2013年：暴风雪杀死了至少18人，在美国东北部和加拿大地区，数十万人没有电。
+- -  2010年：在阿富汗印度库什山脉的一场暴风雨中，埋葬了2英里（3.2公里）的道路，触发了一系列雪崩，杀死了至少172人，并捕获了2,000多人。
+- -  1993年：伊朗航空游览Tupolev Tu-154和伊朗空军Sukhoi Su-24在伊朗Qods附近的空中碰撞，杀死了两架飞机上的所有133人。
+- -  1989年：独立航空航班1851年在前往亚速尔群岛的圣玛丽亚机场时罢工皮科阿尔托山（Pico Alto Mountain），杀死了船上的所有144名乘客。
+- -  1986年：当一辆通过铁路乘客火车与艾伯塔省欣顿镇附近的加拿大国家货运火车相撞时，有23人被杀，这使其成为加拿大最糟糕的铁路事故之一。
+- -  1983年：爱尔兰赛马·谢尔加（Shergar）被盗窃，据称在皮拉（Pira）的赎金中被枪手杀害。
+- -  1983年：一场沙尘暴袭击了墨尔本，导致纪录和恶劣天气状况最严重的干旱。
+- -  1974年：Skylab 4的船员是访问美国空间站Skylab的最后一次任务，在太空中84天后返回地球。
+- -  1971年：南越地面部队向老挝入侵，试图切断胡志明小径，并阻止共产主义渗透到该国。
+- -  1971年：纳斯达克股市指数首次开放。
+- -  1968年：美国民权运动：对南卡罗来纳州立大学的黑人学生的袭击，他们正在抗议种族隔离，在南卡罗来纳州的奥兰治堡造成三人死亡和28人受伤。
+- -  1965年：东部航空公司663号航班撞向大西洋并爆炸，杀死了所有84人在船上。
+- -  1963年：伊拉克ABD AL-KARIM QASIM的总理政权被BA'ATH党推翻。
+- -  1962年：由法国警察在前视野官员和警察莫里斯·帕顿（Maurice Papon）的前官员和巴黎州州长的指挥下，在巴黎的夏隆车站杀害了9名抗议者。
+- -  1960年：好莱坞的名人之旅是建立的。
+- -  1960年：伊丽莎白二世女王发行了订单，宣布温莎之家，并宣布她的后代将以蒙巴顿·温莎（Mountbatten-Windsor）的名字命名。
+- -  1950年：建立了东德的秘密警察Stasi。
+- -  1946年：大韩民国解散在北部，并由朝鲜由共产主义控制的临时人民委员会取代。
+- -  1945年：第二次世界大战：Mikhail Devyataev与其他苏联的九个战俘逃脱了二手纳粹集中营的苏联战俘，
+- -  1945年：第二次世界大战：英国和加拿大部队的行动实际上是在马斯和莱茵河之间占领土地的行动。
+- -  1942年：第二次世界大战：日本入侵新加坡。
+- -  1937年：西班牙内战：共和党部队在Cantabria建立了桑坦德，帕伦西亚和布尔戈斯省省议会。
+- -  1924年：燃气室在美国的第一个州执行，在内华达州进行。
+- -  1915年：D。W。Griffith的有争议的地标电影《一个国家的诞生》在洛杉矶首映。
+- -  1910年：美国童子军由威廉·D·博伊斯（William D. Boyce）合并。
+- -  1904年：由G.C.E.将军领导的荷兰殖民军的马里切斯赛军团范·达伦（Van Daalen）在荷兰东印度苏门答腊北部地区发起了一场军事运动，导致数千名平民死亡。
+- -  1904年：日军部队对俄罗斯控制的亚瑟港发动了惊喜攻击，标志着鲁斯索 - 日本战争的开始。
+- -  1887年：制定了《道斯法案》，授权美国总统将美国原住民部落土地分为个人分配。
+- -  1885年：第一批日本移民到达夏威夷。
 
 *由googletrans翻译*
