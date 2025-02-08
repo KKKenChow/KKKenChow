@@ -31,7 +31,8 @@
 - 1887: The Dawes Act is enacted, authorizing the U.S. President to divide Native American tribal land into individual allotments.
 - 1885: The first Japanese immigrants arrive in Hawaii.
 
-*Data from muffinlabs* 
+*Data from muffinlabs*
+*Updated at: 2025-02-08 02:48:19 UTC*
 
 # 历史上的今天 
 
@@ -66,4 +67,5 @@
 - -  1887年：制定了《道斯法案》，授权美国总统将美国原住民部落土地分为个人分配。
 - -  1885年：第一批日本移民到达夏威夷。
 
-*由googletrans翻译*
+*数据来源于muffinlabs，由googletrans自动翻译*
+*更新于: 2025-02-08 02:48:19 UTC*
