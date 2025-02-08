@@ -52,8 +52,8 @@ def update_readme(english_content, chinese_content):
     with open("README.md", "w", encoding="utf-8") as file:
         # file.write(f"# History of Today \n\n{english_content}\n\n*Data from muffinlabs* \n\n")
         # file.write(f"# 历史上的今天 \n\n{chinese_content}\n\n*数据来源于muffinlabs，由googletrans自动翻译*")
-        file.write(f"# History of Today \n\n{english_content}\n\n*Data from muffinlabs*\n*Updated at: {utc_now}*\n\n")
-        file.write(f"# 历史上的今天 \n\n{chinese_content}\n\n*数据来源于muffinlabs，由googletrans自动翻译*\n*更新于: {utc_now}*")
+        file.write(f"# History of Today \n\n{english_content}\n\n*Data from muffinlabs*\n_(Updated at: {utc_now})_\n\n")
+        file.write(f"# 历史上的今天 \n\n{chinese_content}\n\n* 数据来源于muffinlabs并由googletrans自动翻译*\n_（更新于: {utc_now}）_")
 
 if __name__ == "__main__":
     # 获取并保存英文内容
