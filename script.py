@@ -1,6 +1,7 @@
 import requests
 from googletrans import Translator
 import re
+from datetime import datetime, timezone
 
 # 获取历史上的今天数据
 def fetch_today_in_history():
@@ -45,9 +46,14 @@ def translate_to_chinese(text):
 
 # 更新README.md文件，添加英文和中文内容
 def update_readme(english_content, chinese_content):
+    # 获取当前UTC时间并格式化
+    utc_now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S %Z")
+    
     with open("README.md", "w", encoding="utf-8") as file:
-        file.write(f"# History of Today \n\n{english_content}\n\n*Data from muffinlabs* \n\n")
-        file.write(f"# 历史上的今天 \n\n{chinese_content}\n\n*由googletrans翻译*")
+        # file.write(f"# History of Today \n\n{english_content}\n\n*Data from muffinlabs* \n\n")
+        # file.write(f"# 历史上的今天 \n\n{chinese_content}\n\n*数据来源于muffinlabs，由googletrans自动翻译*")
+        file.write(f"# History of Today \n\n{english_content}\n\n*Data from muffinlabs*\n*Updated at: {utc_now}*\n\n")
+        file.write(f"# 历史上的今天 \n\n{chinese_content}\n\n*数据来源于muffinlabs，由googletrans自动翻译*\n*更新于: {utc_now}*")
 
 if __name__ == "__main__":
     # 获取并保存英文内容
