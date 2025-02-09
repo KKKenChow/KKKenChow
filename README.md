@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2014: A hotel fire in Medina, Saudi Arabia, kills 15 Egyptian pilgrims with 130 others injured.
-- 2013: A blizzard kills at least 18 and leaves hundreds of thousands of people without electricity in the northeastern United States and parts of Canada.
-- 2010: Over 2 miles (3.2 km) of road are buried after a storm in the Hindu Kush mountains of Afghanistan triggers a series of avalanches, killing at least 172 people and trapping over 2,000 others.
-- 1993: An Iran Air Tours Tupolev Tu-154 and an Iranian Air Force Sukhoi Su-24 collide mid-air near Qods, Iran, killing all 133 people onboard both aircraft.
-- 1989: Independent Air Flight 1851 strikes Pico Alto mountain while on approach to Santa Maria Airport in the Azores, killing all 144 passengers on board.
-- 1986: Twenty-three people are killed when a VIA Rail passenger train collides with a Canadian National freight train near the town of Hinton, Alberta, making it one of the worst rail accidents in Canada.
-- 1983: Irish race horse Shergar is stolen and allegedly killed by gunmen in a ransom attempt by the PIRA.
-- 1983: A dust storm hits Melbourne, resulting in the worst drought on record and severe weather conditions in the city.
-- 1974: The crew of Skylab 4, the last mission to visit the American space station Skylab, returns to Earth after 84 days in space.
-- 1971: South Vietnamese ground troops launch an incursion into Laos to try to cut off the Ho Chi Minh trail and stop communist infiltration into the country.
-- 1971: The NASDAQ stock market index opens for the first time.
-- 1968: American civil rights movement: An attack on Black students from South Carolina State University who are protesting racial segregation leaves three dead and 28 injured in Orangeburg, South Carolina.
-- 1965: Eastern Air Lines Flight 663 crashes into the Atlantic Ocean and explodes, killing all 84 people onboard.
-- 1963: The regime of Prime Minister of Iraq Abd al-Karim Qasim is overthrown by the Ba'ath Party.
-- 1962: Nine protestors are killed at Charonne station, Paris, by French police under the command of ex-Vichy official and Parisian Prefect of Police Maurice Papon.
-- 1960: The Hollywood Walk of Fame is founded.
-- 1960: Queen Elizabeth II issues an Order-in-Council, proclaiming the House of Windsor and declaring that her descendants will take the name Mountbatten-Windsor.
-- 1950: The Stasi, the secret police of East Germany, is established.
-- 1946: The People's Republic of Korea is dissolved in the North and replaced by the communist-controlled Provisional People's Committee of North Korea.
-- 1945: World War II: Mikhail Devyataev escapes with nine other Soviet POWs from a Nazi concentration camp in Peenemünde, Usedom.
-- 1945: World War II: British and Canadian forces commence Operation Veritable to occupy land between the Maas and Rhine rivers.
-- 1942: World War II: Japan invades Singapore.
-- 1937: Spanish Civil War: Republican forces establish the Interprovincial Council of Santander, Palencia and Burgos in Cantabria.
-- 1924: The first state execution in the United States by gas chamber takes place in Nevada.
-- 1915: D. W. Griffith's controversial landmark film The Birth of a Nation premieres in Los Angeles.
-- 1910: The Boy Scouts of America is incorporated by William D. Boyce.
-- 1904: The Dutch Colonial Army's Marechaussee regiment led by General G.C.E. van Daalen launch a military campaign in the Dutch East Indies' Northern Sumatra region, leading to the deaths of thousands of civilians.
-- 1904: Japanese forces launch a surprise attack against Russian-controlled Port Arthur, marking the start of the Russo-Japanese war.
-- 1887: The Dawes Act is enacted, authorizing the U.S. President to divide Native American tribal land into individual allotments.
-- 1885: The first Japanese immigrants arrive in Hawaii.
+- 2021: Second impeachment trial of Donald Trump begins.
+- 2020: Salvadoran President Nayib Bukele has the army soldiers enter the Legislative Assembly to assist in pushing for the approval for a better government security plan, causing a brief political crisis.
+- 2018: Winter Olympics: Opening ceremony is performed in Pyeongchang County in South Korea.
+- 2016: Two passenger trains collide in the German town of Bad Aibling in the state of Bavaria. Twelve people die and 85 others are injured.
+- 2001: The Ehime Maru and USS Greeneville collision takes place, killing nine of the thirty-five people on board the Japanese fishery high-school training ship Ehime Maru, leaving the USS Greeneville (SSN-772) with US $2 million in repairs, at Pearl Harbor.
+- 1996: Copernicium is discovered by Sigurd Hofmann, Victor Ninov et al.
+- 1996: The Provisional Irish Republican Army declares the end to its 18-month ceasefire and explodes a large bomb in London's Canary Wharf, killing two people.
+- 1991: Dissolution of the Soviet Union: Voters in Lithuania vote for independence from the Soviet Union.
+- 1986: Halley's Comet last appeared in the inner Solar System.
+- 1982: Japan Air Lines Flight 350 crashes near Haneda Airport in an attempted pilot mass murder-suicide, killing 24 of the 174 people on board.
+- 1978: The Budd Company unveils its first SPV-2000 self-propelled railcar in Philadelphia, Pennsylvania.
+- 1976: Aeroflot Flight 3739, a Tupolev Tu-104, crashes during takeoff from Irkutsk Airport, killing 24.
+- 1975: The Soyuz 17 Soviet spacecraft returns to Earth.
+- 1971: Apollo program: Apollo 14 returns to Earth after the third human Moon landing.
+- 1971: Satchel Paige becomes the first Negro league player to be voted into the USA's Baseball Hall of Fame.
+- 1971: The 6.5-6.7 Mw  Sylmar earthquake hits the Greater Los Angeles Area with a maximum Mercalli intensity of XI (Extreme), killing 64 and injuring 2,000.
+- 1965: Vietnam War: The United States Marine Corps sends a MIM-23 Hawk missile battalion to South Vietnam, the first American troops in-country without an official advisory or training mission.
+- 1964: The Beatles make their first appearance on The Ed Sullivan Show, performing before a record-setting audience of 73 million viewers across the United States.
+- 1961: The Beatles at The Cavern Club: Lunchtime - The Beatles perform under this name at The Cavern Club for the first time following their return to Liverpool from Hamburg.
+- 1959: The R-7 Semyorka, the first intercontinental ballistic missile, becomes operational at Plesetsk, USSR.
+- 1951: Korean War: The two-day Geochang massacre begins as a battalion of the 11th Division of the South Korean Army kills 719 unarmed citizens in Geochang, in the South Gyeongsang district of South Korea.
+- 1950: Second Red Scare: US Senator Joseph McCarthy accuses the United States Department of State of being filled with Communists.
+- 1945: World War II: A force of Allied aircraft unsuccessfully attack a German destroyer in Førdefjorden, Norway.
+- 1945: World War II: Battle of the Atlantic: HMS Venturer sinks U-864 off the coast of Fedje, Norway, in a rare instance of submarine-to-submarine combat.
+- 1943: World War II: Pacific War: Allied authorities declare Guadalcanal secure after Imperial Japan evacuates its remaining forces from the island, ending the Battle of Guadalcanal.
+- 1942: Year-round Daylight saving time (aka War Time) is reinstated in the United States as a wartime measure to help conserve energy resources.
+- 1941: World War II: Bombing of Genoa: The Cathedral of San Lorenzo in Genoa, Italy, is struck by a bomb which fails to detonate.
+- 1934: The Balkan Entente is formed between Greece, Romania, Yugoslavia, and Turkey.
+- 1932: Prohibition law is abolished in Finland after a national referendum, where 70% voted for a repeal of the law.
+- 1929: Members of the Việt Nam Quốc Dân Đảng assassinate the labor recruiter Bazin, prompting a crackdown by French colonial authorities.
 
 Data from muffinlabs
-*(Updated at: 2025-02-08 02:56:10 UTC)*
+*(Updated at: 2025-02-09 01:38:09 UTC)*
 
 # 历史上的今天 
 
-- -  2014年：沙特阿拉伯麦地那的一场酒店大火杀死15名埃及朝圣者，另有130人受伤。
-- -  2013年：暴风雪杀死了至少18人，在美国东北部和加拿大地区，数十万人没有电。
-- -  2010年：在阿富汗印度库什山脉的一场暴风雨中，埋葬了2英里（3.2公里）的道路，触发了一系列雪崩，杀死了至少172人，并捕获了2,000多人。
-- -  1993年：伊朗航空游览Tupolev Tu-154和伊朗空军Sukhoi Su-24在伊朗Qods附近的空中碰撞，杀死了两架飞机上的所有133人。
-- -  1989年：独立航空航班1851年在前往亚速尔群岛的圣玛丽亚机场时罢工皮科阿尔托山（Pico Alto Mountain），杀死了船上的所有144名乘客。
-- -  1986年：当一辆通过铁路乘客火车与艾伯塔省欣顿镇附近的加拿大国家货运火车相撞时，有23人被杀，这使其成为加拿大最糟糕的铁路事故之一。
-- -  1983年：爱尔兰赛马·谢尔加（Shergar）被盗窃，据称在皮拉（Pira）的赎金中被枪手杀害。
-- -  1983年：一场沙尘暴袭击了墨尔本，导致纪录和恶劣天气状况最严重的干旱。
-- -  1974年：Skylab 4的船员是访问美国空间站Skylab的最后一次任务，在太空中84天后返回地球。
-- -  1971年：南越地面部队向老挝入侵，试图切断胡志明小径，并阻止共产主义渗透到该国。
-- -  1971年：纳斯达克股市指数首次开放。
-- -  1968年：美国民权运动：对南卡罗来纳州立大学的黑人学生的袭击，他们正在抗议种族隔离，在南卡罗来纳州的奥兰治堡造成三人死亡和28人受伤。
-- -  1965年：东部航空公司663号航班撞向大西洋并爆炸，杀死了所有84人在船上。
-- -  1963年：伊拉克ABD AL-KARIM QASIM的总理政权被BA'ATH党推翻。
-- -  1962年：由法国警察在前视野官员和警察莫里斯·帕顿（Maurice Papon）的前官员和巴黎州州长的指挥下，在巴黎的夏隆车站杀害了9名抗议者。
-- -  1960年：好莱坞的名人之旅是建立的。
-- -  1960年：伊丽莎白二世女王发行了订单，宣布温莎之家，并宣布她的后代将以蒙巴顿·温莎（Mountbatten-Windsor）的名字命名。
-- -  1950年：建立了东德的秘密警察Stasi。
-- -  1946年：大韩民国解散在北部，并由朝鲜由共产主义控制的临时人民委员会取代。
-- -  1945年：第二次世界大战：Mikhail Devyataev与其他苏联的九个战俘逃脱了二手纳粹集中营的苏联战俘，
-- -  1945年：第二次世界大战：英国和加拿大部队的行动实际上是在马斯和莱茵河之间占领土地的行动。
-- -  1942年：第二次世界大战：日本入侵新加坡。
-- -  1937年：西班牙内战：共和党部队在Cantabria建立了桑坦德，帕伦西亚和布尔戈斯省省议会。
-- -  1924年：燃气室在美国的第一个州执行，在内华达州进行。
-- -  1915年：D。W。Griffith的有争议的地标电影《一个国家的诞生》在洛杉矶首映。
-- -  1910年：美国童子军由威廉·D·博伊斯（William D. Boyce）合并。
-- -  1904年：由G.C.E.将军领导的荷兰殖民军的马里切斯赛军团范·达伦（Van Daalen）在荷兰东印度苏门答腊北部地区发起了一场军事运动，导致数千名平民死亡。
-- -  1904年：日军部队对俄罗斯控制的亚瑟港发动了惊喜攻击，标志着鲁斯索 - 日本战争的开始。
-- -  1887年：制定了《道斯法案》，授权美国总统将美国原住民部落土地分为个人分配。
-- -  1885年：第一批日本移民到达夏威夷。
+- -2021：唐纳德·特朗普的第二次弹each审判开始。
+- -  2020年：萨尔瓦多总统纳伊布·布克尔（Nayib Bukele）让陆军士兵参加立法会议，以协助推动批准更好的政府安全计划，造成短暂的政治危机。
+- -  2018年：冬季奥运会：开幕式在韩国的平昌县举行。
+- -  2016年：两辆旅客列车在巴伐利亚州的德国小镇Bad Aibling发生碰撞。十二人死亡，还有85人受伤。
+- -  2001年：埃希姆·马鲁（Ehime Maru）和格林维尔（Greeneville）号碰撞发生，杀死了日本渔业高中训练船Ehime Maru船上的35人中的九人，使Greeneville USS Greeneville（SSN-772）进行了200万美元的维修，并进行了维修。在珍珠港。
+- -  1996年：哥白顿由西格德·霍夫曼（Sigurd Hofmann），维克多·尼诺夫（Victor Ninov）等人发现。
+- -  1996年：临时爱尔兰共和党军队宣布结束了18个月的停火，并在伦敦的金丝雀码头爆炸了一枚大炸弹，炸死了两个人。
+- -  1991年：苏联解散：立陶宛的选民投票支持苏联的独立。
+- -  1986年：哈雷的彗星最后出现在内部太阳系中。
+- -  1982年：日本航空公司在哈尼达机场附近的350次撞车事故中，企图进行大规模谋杀案，杀死了船上174人中的24人中的24人。
+- -  1978年：Budd公司在宾夕法尼亚州的费城推出了其第一款SPV-2000 SPV-2000自动铁路车。
+- -  1976年：Tupolev TU-104的Aeroflot 3739航班在从Irkutsk机场起飞期间坠毁，造成24人丧生。
+- -  1975年：Soouz 17苏联航天器返回地球。
+- -  1971年：阿波罗计划：阿波罗14人在第三次人类月球着陆后返回地球。
+- -  1971年：萨奇·佩奇（Satchel Paige）成为第一位被评为美国棒球名人堂的黑人联盟球员。
+- -  1971年：6.5-6.7兆瓦Sylmar地震袭击了大洛杉矶地区，最大的梅尔卡利强度为XI（极端），杀死了64次，造成2,000人受伤。
+- -  1965年：越南战争：美国海军陆战队向越南南越南派出一个MIM-23鹰队，这是第一批没有正式咨询或培训任务的美国部队。
+- -  1964年：甲壳虫乐队首次在Ed Sullivan Show上露面，在美国的7300万观众中演出。
+- -  1961年：洞穴俱乐部的甲壳虫乐队：午餐时间 - 甲壳虫乐队从汉堡返回利物浦后，第一次在洞穴俱乐部以这个名字表演。
+- -  1959年：R-7 Semyorka是第一枚洲际弹道导弹，在苏联Plesetsk开始运行。
+- -  1951年：朝鲜战争：为期两天的岩石大屠杀是在韩国南部韩国南贡桑区的Geochang的719名无武装公民杀死的719名无武装公民的营开始。
+- -  1950年：第二次红色恐慌：美国参议员约瑟夫·麦卡锡（Joseph McCarthy）指责美国国务院充满了共产党。
+- -  1945年：第二次世界大战：盟军飞机的力量未能成功袭击挪威Førdefjorden的德国驱逐舰。
+- -  1945年：第二次世界大战：大西洋战役：HMS Venturer在挪威联邦军沿海的U-864下沉了U-864，在罕见的潜艇到苏贝林战斗中。
+- -  1943年：第二次世界大战：太平洋战争：盟军当局宣布瓜达尔卡纳尔人在帝国帝国撤离其剩余的部队从岛上撤离，结束了瓜达尔卡纳尔战役。
+- -  1942年：全年的夏令时（又称战争时间）在美国恢复了战时措施，以帮助节省能源。
+- -  1941年：第二次世界大战：热那亚爆炸：意大利热那亚圣洛伦佐大教堂被一枚未爆炸的炸弹击中。
+- -  1934年：巴尔干协定是在希腊，罗马尼亚，南斯拉夫和土耳其之间形成的。
+- -  1932年：全国全民公决后在芬兰废除了禁止法，其中70％的人投票决定废除法律。
+- -  1929年：VIệTNamQuốcdângng的成员暗杀了劳动招聘人员巴赞，促使法国殖民当局镇压。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-02-08 02:56:10 UTC）*
+*（更新于: 2025-02-09 01:38:09 UTC）*
