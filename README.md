@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: Perseverance, a Mars rover designed to explore Jezero crater on Mars, as part of NASA's Mars 2020 mission, lands successfully.
-- 2018: 66 people die when Iran Aseman Airlines Flight 3704 crashes in the Dena sub-range in the Zagros Mountains of Iran.
-- 2014: At least 76 people are killed and hundreds are injured in clashes between riot police and demonstrators in Kyiv, Ukraine.
-- 2013: Armed robbers steal a haul of diamonds worth $50 million during a raid at Brussels Airport in Belgium.
-- 2010: WikiLeaks publishes the first of hundreds of thousands of classified documents disclosed by the soldier now known as Chelsea Manning.
-- 2004: Up to 295 people, including nearly 200 rescue workers, die near Nishapur, Iran, when a runaway freight train carrying sulfur, petrol and fertilizer catches fire and explodes.
-- 2003: 192 people die when an arsonist sets fire to a subway train in Daegu, South Korea.
-- 2001: Sampit conflict: Inter-ethnic violence between Dayaks and Madurese breaks out in Sampit, Central Kalimantan, Indonesia, ultimately resulting in more than 500 deaths and 100,000 Madurese displaced from their homes.
-- 2001: FBI agent Robert Hanssen is arrested for spying for the Soviet Union. He is ultimately convicted and sentenced to life imprisonment.
-- 1991: The IRA explodes bombs in the early morning at Paddington station and Victoria station in London.
-- 1983: Thirteen people die and one is seriously injured in the Wah Mee massacre in Seattle. It is said to be the largest robbery-motivated mass-murder in U.S. history.
-- 1979: Richard Petty wins a then-record sixth Daytona 500 after leaders Donnie Allison and Cale Yarborough crash on the final lap of the first NASCAR race televised live flag-to-flag.
-- 1977: The Space Shuttle Enterprise test vehicle is carried on its maiden "flight" on top of a Boeing 747.
-- 1977: A thousand armed soldiers raid Kalakuta Republic, the commune of Nigerian singer Fela Kuti, leading to the death of Funmilayo Anikulapo Kuti.
-- 1977: The Xinjiang 61st Regiment Farm fire started during Chinese New Year when a firecracker ignited memorial wreaths of the late Mao Zedong, killing 694 personnel. It remains the deadliest fireworks accident in the world.
-- 1972: The California Supreme Court in the case of People v. Anderson, (6 Cal.3d 628) invalidates the state's death penalty and commutes the sentences of all death row inmates to life imprisonment.
-- 1970: The Chicago Seven are found not guilty of conspiring to incite riots at the 1968 Democratic National Convention.
-- 1965: The Gambia becomes independent from the United Kingdom.
-- 1957: Walter James Bolton becomes the last person legally executed in New Zealand.
-- 1957: Kenyan rebel leader Dedan Kimathi is executed by the British colonial government.
-- 1955: Operation Teapot: Teapot test shot "Wasp" is successfully detonated at the Nevada Test Site with a yield of 1.2 kilotons.  Wasp is the first of fourteen shots in the Teapot series.
-- 1954: The first Church of Scientology is established in Los Angeles.
-- 1947: First Indochina War: The French gain complete control of Hanoi after forcing the Viet Minh to withdraw to mountains.
-- 1946: Sailors of the Royal Indian Navy mutiny in Bombay harbour, from where the action spreads throughout the Provinces of British India, involving 78 ships, twenty shore establishments and 20,000 sailors
-- 1943: World War II: Joseph Goebbels delivers his Sportpalast speech.
-- 1943: World War II: The Nazis arrest the members of the White Rose movement.
-- 1942: World War II: The Imperial Japanese Army begins the systematic extermination of perceived hostile elements among the Chinese in Singapore.
-- 1938: Second Sino-Japanese War: During the Nanking Massacre, the Nanking Safety Zone International Committee is renamed "Nanking International Rescue Committee", and the safety zone in place for refugees falls apart.
-- 1932: The Empire of Japan creates the independent state of Manzhouguo (the obsolete Chinese name for Manchuria) free from the Republic of China and installed former Chinese Emperor Aisin Gioro Puyi as Chief Executive of the State.
-- 1930: Elm Farm Ollie becomes the first cow to fly in a fixed-wing aircraft and also the first cow to be milked in an aircraft.
+- 2021: Mya Thwe Thwe Khine, a 19-year-old protester, becomes the first known casualty of anti-coup protests that formed in response to the 2021 Myanmar coup d'état.
+- 2012: Forty-four people are killed in a prison brawl in Apodaca, Nuevo León, Mexico.
+- 2011: The debut exhibition of the Belitung shipwreck, containing the largest collection of Tang dynasty artifacts found in one location, begins in Singapore.
+- 2006: A methane explosion in a coal mine near Nueva Rosita, Mexico, kills 65 miners.
+- 2003: An Ilyushin Il-76 military aircraft crashes near Kerman, Iran, killing 275.
+- 2002: NASA's Mars Odyssey space probe begins to map the surface of Mars using its thermal emission imaging system.
+- 1989: Flying Tiger Line flight 66 crashes into a hill near Sultan Abdul Aziz Shah Airport in Malaysia, killing four.
+- 1988: A Fairchild Swearingen Metroliner operating as AVAir Flight 3378 crashes in Cary, North Carolina, killing 12.
+- 1986: Akkaraipattu massacre: the Sri Lankan Army massacres 80 Tamil farm workers in eastern Sri Lanka.
+- 1985: A Boeing 727 operating as Iberia Flight 610 crashes Mount Oiz in Spain, killing 148; it is the deadliest accident to occur in Iberia's history and the deadliest in Basque County to occur.
+- 1985: William J. Schroeder becomes the first recipient of an artificial heart to leave the hospital.
+- 1978: Egyptian forces raid Larnaca International Airport in an attempt to intervene in a hijacking, without authorisation from the Republic of Cyprus authorities. The Cypriot National Guard and Police forces kill 15 Egyptian commandos and destroy the Egyptian C-130 transport plane in open combat.
+- 1976: Executive Order 9066, which led to the relocation of Japanese Americans to internment camps, is rescinded by President Gerald Ford's Proclamation 4417.
+- 1965: Colonel Phạm Ngọc Thảo of the Army of the Republic of Vietnam, and a communist spy of the North Vietnamese Viet Minh, along with Generals Lâm Văn Phát and Trần Thiện Khiêm, all Catholics, attempt a coup against the military junta of the Buddhist Nguyễn Khánh.
+- 1963: The publication of Betty Friedan's The Feminine Mystique reawakens the feminist movement in the United States as women's organizations and consciousness raising groups spread.
+- 1960: China successfully launches the T-7, its first sounding rocket.
+- 1959: The United Kingdom grants Cyprus independence, which is formally proclaimed on August 16, 1960.
+- 1954: Transfer of Crimea: The Soviet Politburo of the Soviet Union orders the transfer of the Crimean Oblast from the Russian SFSR to the Ukrainian SSR.
+- 1953: Book censorship in the United States: The Georgia Literature Commission is established.
+- 1949: Ezra Pound is awarded the first Bollingen Prize in poetry by the Bollingen Foundation and Yale University.
+- 1948: The Conference of Youth and Students of Southeast Asia Fighting for Freedom and Independence convenes in Calcutta.
+- 1945: World War II: Battle of Iwo Jima: About 30,000 United States Marines land on the island of Iwo Jima.
+- 1943: World War II: Battle of Kasserine Pass in Tunisia begins.
+- 1942: World War II: United States President Franklin D. Roosevelt signs executive order 9066, allowing the United States military to relocate Japanese Americans to internment camps.
+- 1942: World War II: Nearly 250 Japanese warplanes attack the northern Australian city of Darwin, killing 243 people.
+- 1937: Yekatit 12: During a public ceremony at the Viceregal Palace (the former Imperial residence) in Addis Ababa, Ethiopia, two Ethiopian nationalists of Eritrean origin attempt to kill viceroy Rodolfo Graziani with a number of grenades.
+- 1915: World War I: The first naval attack on the Dardanelles begins when a strong Anglo-French task force bombards Ottoman artillery along the coast of Gallipoli.
+- 1913: Pedro Lascuráin becomes President of Mexico for 45 minutes; this is the shortest term to date of any person as president of any country.
+- 1884: More than sixty tornadoes strike the Southern United States, one of the largest tornado outbreaks in U.S. history.
+- 1878: Thomas Edison patents the phonograph.
 
 Data from muffinlabs
-*(Updated at: 2025-02-18 01:27:26 UTC)*
+*(Updated at: 2025-02-19 01:35:40 UTC)*
 
 # 历史上的今天 
 
-- -2021：毅力，旨在探索火星上的Jezero火山口，作为NASA 2020年火星2020年任务的一部分，成功着陆。
-- -  2018年：当伊朗·阿斯曼（Iran Aseman）航空公司3704航班在伊朗扎格罗斯山脉（Zagros Mountains）的丹娜（Dena）港口坠毁时，有66人死亡。
-- -  2014年：在乌克兰基辅的防暴警察与示威者之间的冲突中，至少有76人被杀，数百人受伤。
-- -  2013年：武装强盗在比利时布鲁塞尔机场的一次突袭中偷走了价值5000万美元的钻石。
-- -  2010年：WikiLeaks发布了数十万名士兵披露的分类文件中的第一篇，现在称为切尔西·曼宁（Chelsea Manning）。
-- -  2004年：最多295人，包括近200名救援人员，死于伊朗的尼沙普尔，当时载有硫，汽油和肥料的失控的货运火车引起了火和爆炸。
-- -  2003年：当纵火犯向韩国大古的一辆地铁火车起火时，有192人死亡。
-- -  2001年：桑皮特冲突：戴克斯和马杜雷斯之间的种族间暴力在印度尼西亚卡利门坦中部的桑皮特爆发，最终导致500多人死亡和100,000名玛德雷斯从家中流离失所。
-- -  2001年：联邦调查局特工罗伯特·汉森（Robert Hanssen）因间谍苏联而被捕。他最终被定罪并判处无期徒刑。
-- -  1991年：IRA在清晨在伦敦的帕丁顿车站和维多利亚车站爆炸了炸弹。
-- -  1983年：13人死亡，其中1人在西雅图的瓦伊·梅（Wah Mee）大屠杀中受了重伤。据说这是美国历史上最大的抢劫动机谋杀者。
-- -  1979年：理查德·佩蒂（Richard Petty）在领导人唐尼·艾莉森（Donnie Allison）和卡尔·雅伯勒（Cale Yarborough）在第一圈NASCAR赛车电视转播的现场旗帜到flag的最后一圈中赢得了当时的第六纪第六代托纳500。
-- -  1977年：航天飞机企业测试车辆在波音747的顶部携带。
-- -  1977年：一千名武装士兵突袭了尼日利亚歌手Fela Kuti公社的Kalakuta共和国，导致Funmilayo Anikulapo Kuti死亡。
-- -  1977年：新江第61团农场大火在农历新年开始，鞭炮点燃了已故毛泽东的纪念花圈，杀死了694名人员。它仍然是世界上最致命的烟花事故。
-- -  1972年：《人民诉安德森案》（6 Cal.3d 628）的加利福尼亚最高法院使该州的死刑无效，并使所有死亡囚犯囚犯判处无期徒刑。
-- -  1970年：发现芝加哥七人无罪串谋煽动1968年民主党民族大会。
-- -  1965年：冈比亚独立于英国。
-- -  1957年：沃尔特·詹姆斯·博尔顿（Walter James Bolton）成为新西兰合法执行的最后一个人。
-- -  1957年：肯尼亚叛军领导人Dedan Kimathi由英国殖民政府执行。
-- -  1955年：茶壶操作：茶壶测试射击“黄蜂”在内华达州测试地点成功引爆，产量为1.2千吨。黄蜂是茶壶系列中十四张照片中的第一张。
-- -  1954年：第一个科学教堂是在洛杉矶建立的。
-- -  1947年：第一届印度支那战争：法国在迫使越南派撤离山上后，完全控制了河内。
-- -  1946年：孟买港的皇家印度海军兵变的水手，该行动从英属印度的整个省蔓延，涉及78艘船，20个海岸机构和20,000名水手
-- -  1943年：第二次世界大战：约瑟夫·戈伯尔（Joseph Goebbels）发表了他的Sportpalast演讲。
-- -  1943年：第二次世界大战：纳粹逮捕了白玫瑰运动的成员。
-- -  1942年：第二次世界大战：帝国帝国军队开始系统地灭绝新加坡中国人之间感知到的敌对元素。
-- -  1938年：第二次中日战争：在南京大屠杀期间，南京安全区国际委员会被更名为“南京国际救援委员会”，而难民的安全区则分开。
-- -  1932年：日本帝国从中华民国创建了独立的曼兹胡古（Manzhouguo（Manzhouguo）（过时的中文名称），并安装了前中国皇帝Aisin Gioro Puyi作为该州首席执行官。
-- -  1930年：Elm Farm Ollie成为第一批乘坐固定翼飞机飞行的母牛，也是第一批在飞机上挤奶的母牛。
+- -2021：19岁的抗议者Mya Thwe Khine成为第一个因响应2021年缅甸政变而形成的反抗议抗议活动的伤亡。
+- -  2012年：在墨西哥NuevoLeón的Apodaca的一场监狱斗殴中，有44人被杀。
+- -  2011年：Belitung沉船的首次亮相展览，其中包含在一个地点发现的最大的Tang Dynasty文物集合，始于新加坡。
+- -  2006年：墨西哥Nueva Rosita附近的煤矿中发生的甲烷爆炸，杀死了65名矿工。
+- -  2003年：伊朗附近的一架ILYUSHIN IL-76军用飞机坠毁，杀死275。
+- -  2002年：NASA的火星奥德赛太空探针开始使用其热发射成像系统绘制火星的表面。
+- -  1989年：飞行的老虎线66号飞行撞到马来西亚苏丹·阿卜杜勒·阿齐兹·沙阿机场附近的一座山上，造成四人丧生。
+- -  1988年：一辆狂热的宣誓就职，当时在北卡罗来纳州卡里（Cary）的Avair 3378撞车时运行，造成12人丧生。
+- -  1986年：阿克卡拉帕图大屠杀：斯里兰卡军大屠杀在斯里兰卡东部80泰米尔农场工人。
+- -  1985年：一辆波音727在西班牙的伊比利亚610号航班撞车时运行，杀死了148；这是伊比利亚历史上最致命的事故，也是巴斯克县最致命的事故。
+- -  1985年：威廉·J·施罗德（William J.
+- -  1978年：埃及部队突袭拉纳卡国际机场，试图干预劫机，未经塞浦路斯当局的授权。塞浦路斯国民警卫队和警察杀死了15埃及突击队，并在公开战斗中摧毁了埃及C-130运输飞机。
+- -  1976年：总统杰拉尔德·福特（Gerald Ford）的宣布4417撤销了导致日裔美国人搬迁到拘留营的行政命令9066。
+- -  1965年：越南共和国军队的Phạmngọc上校，以及北越越南明尼的共产党间谍，以及将军lâmVănphát和Trầnthiệnkhiêm，所有天主教佛教nguyễnKhánh。
+- -  1963年：贝蒂·弗里丹（Betty Friedan）的《女性神秘》（The Emerinine Mystique）的出版重现了美国的女权运动，因为妇女组织和意识培养群体蔓延。
+- -  1960年：中国成功推出了T-7，这是它的第一枚响起的火箭。
+- -  1959年：英国授予塞浦路斯独立，该独立于1960年8月16日正式宣布。
+- -  1954年：克里米亚的转移：苏联政治局命令克里米亚大体从俄罗斯SFSR转移到乌克兰SSR。
+- -  1953年：美国的书籍审查制度：建立了佐治亚州文学委员会。
+- -  1949年：埃兹拉·庞德（Ezra Pound）被波林根基金会（Bollingen Foundation）和耶鲁大学（Bollingen Foundation and Yale University）授予首个波林根诗歌奖。
+- -  1948年：东南亚青年和学生为争取自由与独立的学生会议在加尔各答召集。
+- -  1945年：第二次世界大战：硫磺战役：硫磺岛岛上约30,000名美国海军陆战队。
+- -  1943年：第二次世界大战：突尼斯的卡塞林战役开始。
+- -  1942年：第二次世界大战：美国总统富兰克林·罗斯福（Franklin D.
+- -  1942年：第二次世界大战：近250场日本战机袭击了北澳大利亚州达尔文，炸死243人。
+- -  1937年：Yekatit 12：在埃塞俄比亚亚的斯亚贝巴的Viceregal Palace（前帝国住所）举行的公开仪式上，埃里特里亚起源的两名民族主义者试图杀死Viceroy Rodolfo Graziani，并用许多手榴弹杀死了Viceroy Rodolfo Graziani。
+- -  1915年：第一次世界大战：第一次对达达内尔（Dardanelles）的海军袭击始于加里波利（Gallipoli）海岸的强大的盎格鲁 - 法国特遣部队轰炸奥斯曼大炮。
+- -  1913年：佩德罗·拉斯库因（PedroLascuráin）成为墨西哥总统45分钟；这是迄今为止任何人担任任何国家总统的最短期限。
+- -  1884年：六十多个龙卷风袭击了美国南部，这是美国历史上最大的龙卷风爆发之一。
+- -  1878年：托马斯·爱迪生（Thomas Edison）为留声机提供专利。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-02-18 01:27:26 UTC）*
+*（更新于: 2025-02-19 01:35:40 UTC）*
