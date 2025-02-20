@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: Mya Thwe Thwe Khine, a 19-year-old protester, becomes the first known casualty of anti-coup protests that formed in response to the 2021 Myanmar coup d'état.
-- 2012: Forty-four people are killed in a prison brawl in Apodaca, Nuevo León, Mexico.
-- 2011: The debut exhibition of the Belitung shipwreck, containing the largest collection of Tang dynasty artifacts found in one location, begins in Singapore.
-- 2006: A methane explosion in a coal mine near Nueva Rosita, Mexico, kills 65 miners.
-- 2003: An Ilyushin Il-76 military aircraft crashes near Kerman, Iran, killing 275.
-- 2002: NASA's Mars Odyssey space probe begins to map the surface of Mars using its thermal emission imaging system.
-- 1989: Flying Tiger Line flight 66 crashes into a hill near Sultan Abdul Aziz Shah Airport in Malaysia, killing four.
-- 1988: A Fairchild Swearingen Metroliner operating as AVAir Flight 3378 crashes in Cary, North Carolina, killing 12.
-- 1986: Akkaraipattu massacre: the Sri Lankan Army massacres 80 Tamil farm workers in eastern Sri Lanka.
-- 1985: A Boeing 727 operating as Iberia Flight 610 crashes Mount Oiz in Spain, killing 148; it is the deadliest accident to occur in Iberia's history and the deadliest in Basque County to occur.
-- 1985: William J. Schroeder becomes the first recipient of an artificial heart to leave the hospital.
-- 1978: Egyptian forces raid Larnaca International Airport in an attempt to intervene in a hijacking, without authorisation from the Republic of Cyprus authorities. The Cypriot National Guard and Police forces kill 15 Egyptian commandos and destroy the Egyptian C-130 transport plane in open combat.
-- 1976: Executive Order 9066, which led to the relocation of Japanese Americans to internment camps, is rescinded by President Gerald Ford's Proclamation 4417.
-- 1965: Colonel Phạm Ngọc Thảo of the Army of the Republic of Vietnam, and a communist spy of the North Vietnamese Viet Minh, along with Generals Lâm Văn Phát and Trần Thiện Khiêm, all Catholics, attempt a coup against the military junta of the Buddhist Nguyễn Khánh.
-- 1963: The publication of Betty Friedan's The Feminine Mystique reawakens the feminist movement in the United States as women's organizations and consciousness raising groups spread.
-- 1960: China successfully launches the T-7, its first sounding rocket.
-- 1959: The United Kingdom grants Cyprus independence, which is formally proclaimed on August 16, 1960.
-- 1954: Transfer of Crimea: The Soviet Politburo of the Soviet Union orders the transfer of the Crimean Oblast from the Russian SFSR to the Ukrainian SSR.
-- 1953: Book censorship in the United States: The Georgia Literature Commission is established.
-- 1949: Ezra Pound is awarded the first Bollingen Prize in poetry by the Bollingen Foundation and Yale University.
-- 1948: The Conference of Youth and Students of Southeast Asia Fighting for Freedom and Independence convenes in Calcutta.
-- 1945: World War II: Battle of Iwo Jima: About 30,000 United States Marines land on the island of Iwo Jima.
-- 1943: World War II: Battle of Kasserine Pass in Tunisia begins.
-- 1942: World War II: United States President Franklin D. Roosevelt signs executive order 9066, allowing the United States military to relocate Japanese Americans to internment camps.
-- 1942: World War II: Nearly 250 Japanese warplanes attack the northern Australian city of Darwin, killing 243 people.
-- 1937: Yekatit 12: During a public ceremony at the Viceregal Palace (the former Imperial residence) in Addis Ababa, Ethiopia, two Ethiopian nationalists of Eritrean origin attempt to kill viceroy Rodolfo Graziani with a number of grenades.
-- 1915: World War I: The first naval attack on the Dardanelles begins when a strong Anglo-French task force bombards Ottoman artillery along the coast of Gallipoli.
-- 1913: Pedro Lascuráin becomes President of Mexico for 45 minutes; this is the shortest term to date of any person as president of any country.
-- 1884: More than sixty tornadoes strike the Southern United States, one of the largest tornado outbreaks in U.S. history.
-- 1878: Thomas Edison patents the phonograph.
+- 2016: Six people are killed and two injured in multiple shooting incidents in Kalamazoo County, Michigan.
+- 2015: Two trains collide in the Swiss town of Rafz resulting in as many as 49 people injured and Swiss Federal Railways cancelling some services.
+- 2014: Dozens of Euromaidan anti-government protesters died in Ukraine's capital Kyiv, many reportedly killed by snipers.
+- 2010: In Madeira Island, Portugal, heavy rain causes floods and mudslides, resulting in at least 43 deaths, in the worst disaster in the history of the archipelago.
+- 2009: Two Tamil Tigers aircraft packed with C4 explosives en route to the national airforce headquarters are shot down by the Sri Lankan military before reaching their target, in a kamikaze style attack.
+- 2005: Spain becomes the first country to vote in a referendum on ratification of the proposed Constitution of the European Union, passing it by a substantial margin, but on a low turnout.
+- 2003: During a Great White concert in West Warwick, Rhode Island, a pyrotechnics display sets the Station nightclub ablaze, killing 100 and injuring over 200 others.
+- 1998: American figure skater Tara Lipinski, at the age of 15, becomes the youngest Olympic figure skating gold-medalist at the 1998 Winter Olympics in Nagano, Japan.
+- 1991: In the Albanian capital Tirana, a gigantic statue of Albania's long-time leader, Enver Hoxha, is brought down by mobs of angry protesters.
+- 1988: The Nagorno-Karabakh Autonomous Oblast votes to secede from Azerbaijan and join Armenia, triggering the First Nagorno-Karabakh War.
+- 1986: The Soviet Union launches its Mir spacecraft. Remaining in orbit for 15 years, it is occupied for ten of those years.
+- 1979: An earthquake cracks open the Sinila volcanic crater on the Dieng Plateau, releasing poisonous H2S gas and killing 149 villagers in the Indonesian province of Central Java.
+- 1971: The United States Emergency Broadcast System is accidentally activated in an erroneous national alert.
+- 1968: The China Academy of Space Technology, China's main arm for the research, development, and creation of space satellites, is established in Beijing.
+- 1965: Ranger 8 crashes into the Moon after a successful mission of photographing possible landing sites for  the Apollo program astronauts.
+- 1962: Mercury program: While aboard Friendship 7, John Glenn becomes the first American to orbit the Earth, making three orbits in four hours, 55 minutes.
+- 1959: The Avro Arrow program to design and manufacture supersonic jet fighters in Canada is cancelled by the Diefenbaker government amid much political debate.
+- 1956: The United States Merchant Marine Academy becomes a permanent Service Academy.
+- 1952: Emmett Ashford becomes the first African-American umpire in organized baseball by being authorized to be a substitute umpire in the Southwestern International League.
+- 1944: World War II: The United States takes Eniwetok Atoll.
+- 1944: World War II: The "Big Week" began with American bomber raids on German aircraft manufacturing centers.
+- 1943: The Saturday Evening Post publishes the first of Norman Rockwell's Four Freedoms in support of United States President Franklin Roosevelt's 1941 State of the Union address theme of Four Freedoms.
+- 1943: World War II: American movie studio executives agree to allow the Office of War Information to censor movies.
+- 1942: World War II: Lieutenant Edward O'Hare becomes America's first World War II flying ace.
+- 1939: Madison Square Garden Nazi rally: The largest ever pro-Nazi rally in United States history is convened in Madison Square Garden, New York City, with 20,000 members and sympathizers of the German American Bund present.
+- 1935: Caroline Mikkelsen becomes the first woman to set foot in Antarctica.
+- 1933: Adolf Hitler secretly meets with German industrialists to arrange for financing of the Nazi Party's upcoming election campaign.
+- 1933: The U.S. Congress approves the Blaine Act to repeal federal Prohibition in the United States, sending the Twenty-first Amendment to the United States Constitution to state ratifying conventions for approval.
+- 1931: An anarchist uprising in Encarnación, Paraguay briefly transforms the city into a revolutionary commune.
+- 1931: The U.S. Congress approves the construction of the San Francisco-Oakland Bay Bridge by the state of California.
 
 Data from muffinlabs
-*(Updated at: 2025-02-19 01:35:40 UTC)*
+*(Updated at: 2025-02-20 01:36:12 UTC)*
 
 # 历史上的今天 
 
-- -2021：19岁的抗议者Mya Thwe Khine成为第一个因响应2021年缅甸政变而形成的反抗议抗议活动的伤亡。
-- -  2012年：在墨西哥NuevoLeón的Apodaca的一场监狱斗殴中，有44人被杀。
-- -  2011年：Belitung沉船的首次亮相展览，其中包含在一个地点发现的最大的Tang Dynasty文物集合，始于新加坡。
-- -  2006年：墨西哥Nueva Rosita附近的煤矿中发生的甲烷爆炸，杀死了65名矿工。
-- -  2003年：伊朗附近的一架ILYUSHIN IL-76军用飞机坠毁，杀死275。
-- -  2002年：NASA的火星奥德赛太空探针开始使用其热发射成像系统绘制火星的表面。
-- -  1989年：飞行的老虎线66号飞行撞到马来西亚苏丹·阿卜杜勒·阿齐兹·沙阿机场附近的一座山上，造成四人丧生。
-- -  1988年：一辆狂热的宣誓就职，当时在北卡罗来纳州卡里（Cary）的Avair 3378撞车时运行，造成12人丧生。
-- -  1986年：阿克卡拉帕图大屠杀：斯里兰卡军大屠杀在斯里兰卡东部80泰米尔农场工人。
-- -  1985年：一辆波音727在西班牙的伊比利亚610号航班撞车时运行，杀死了148；这是伊比利亚历史上最致命的事故，也是巴斯克县最致命的事故。
-- -  1985年：威廉·J·施罗德（William J.
-- -  1978年：埃及部队突袭拉纳卡国际机场，试图干预劫机，未经塞浦路斯当局的授权。塞浦路斯国民警卫队和警察杀死了15埃及突击队，并在公开战斗中摧毁了埃及C-130运输飞机。
-- -  1976年：总统杰拉尔德·福特（Gerald Ford）的宣布4417撤销了导致日裔美国人搬迁到拘留营的行政命令9066。
-- -  1965年：越南共和国军队的Phạmngọc上校，以及北越越南明尼的共产党间谍，以及将军lâmVănphát和Trầnthiệnkhiêm，所有天主教佛教nguyễnKhánh。
-- -  1963年：贝蒂·弗里丹（Betty Friedan）的《女性神秘》（The Emerinine Mystique）的出版重现了美国的女权运动，因为妇女组织和意识培养群体蔓延。
-- -  1960年：中国成功推出了T-7，这是它的第一枚响起的火箭。
-- -  1959年：英国授予塞浦路斯独立，该独立于1960年8月16日正式宣布。
-- -  1954年：克里米亚的转移：苏联政治局命令克里米亚大体从俄罗斯SFSR转移到乌克兰SSR。
-- -  1953年：美国的书籍审查制度：建立了佐治亚州文学委员会。
-- -  1949年：埃兹拉·庞德（Ezra Pound）被波林根基金会（Bollingen Foundation）和耶鲁大学（Bollingen Foundation and Yale University）授予首个波林根诗歌奖。
-- -  1948年：东南亚青年和学生为争取自由与独立的学生会议在加尔各答召集。
-- -  1945年：第二次世界大战：硫磺战役：硫磺岛岛上约30,000名美国海军陆战队。
-- -  1943年：第二次世界大战：突尼斯的卡塞林战役开始。
-- -  1942年：第二次世界大战：美国总统富兰克林·罗斯福（Franklin D.
-- -  1942年：第二次世界大战：近250场日本战机袭击了北澳大利亚州达尔文，炸死243人。
-- -  1937年：Yekatit 12：在埃塞俄比亚亚的斯亚贝巴的Viceregal Palace（前帝国住所）举行的公开仪式上，埃里特里亚起源的两名民族主义者试图杀死Viceroy Rodolfo Graziani，并用许多手榴弹杀死了Viceroy Rodolfo Graziani。
-- -  1915年：第一次世界大战：第一次对达达内尔（Dardanelles）的海军袭击始于加里波利（Gallipoli）海岸的强大的盎格鲁 - 法国特遣部队轰炸奥斯曼大炮。
-- -  1913年：佩德罗·拉斯库因（PedroLascuráin）成为墨西哥总统45分钟；这是迄今为止任何人担任任何国家总统的最短期限。
-- -  1884年：六十多个龙卷风袭击了美国南部，这是美国历史上最大的龙卷风爆发之一。
-- -  1878年：托马斯·爱迪生（Thomas Edison）为留声机提供专利。
+- -  2016年：密歇根州卡拉马祖县的多次枪击事件中有6人被杀，两人受伤。
+- -  2015年：两列火车在瑞士镇Rafz碰撞，导致多达49人受伤，瑞士联邦铁路取消了一些服务。
+- -  2014年：数十名欧洲裔反政府抗议者死于乌克兰首都基夫（Kyiv），据报道，许多人被狙击手杀害。
+- -  2010年：在马德拉岛，葡萄牙，大雨会导致洪水和泥石流，导致至少43人死亡，这是群岛历史上最严重的灾难。
+- -  2009年：两架泰米尔老虎飞机在到达国家空军总部的途中，途中被斯里兰卡军队击落，然后以卡米卡兹风格的攻击到达目标。
+- -  2005年：西班牙成为第一个在批准欧盟拟议宪法的全民投票中投票的国家，以大幅度的利润，但投票率很低。
+- -  2003年：在罗德岛州西沃里克举行的一场大白色音乐会上，烟火的展示设置了车站夜总会，杀死了100人，另外200多人受伤。
+- -  1998年：15岁的美国花样滑冰运动员塔拉·利宾斯基（Tara Lipinski）在日本长野的1998年冬季奥运会上成为最年轻的奥运花样滑冰运动员。
+- -  1991年：在阿尔巴尼亚首都提拉娜（Tirana），阿尔巴尼亚长期领导人恩弗·霍克斯（Enver Hoxha）的巨大雕像被愤怒的抗议者暴民降落。
+- -  1988年：Na​​gorno-Karabakh自治权票偏离阿塞拜疆并加入亚美尼亚，引发了第一次Nagorno-Karabakh战争。
+- -  1986年：苏联推出了Mir航天器。在轨道上呆了15年，它被占领了十年。
+- -  1979年：地震裂缝打开了Dieng高原上的Sinila火山火山口，释放了有毒的H2S气体，并在印尼中部爪哇省杀死了149名村民。
+- -  1971年：美国紧急广播系统在错误的国家警报中意外激活。
+- -  1968年：北京建立了中国太空技术学院的研究，开发和创建太空卫星的主要部门。
+- -  1965年：Ranger 8成功地为阿波罗计划宇航员拍摄了可能的着陆地点后，撞向月球。
+- -  1962年：水星计划：当友谊7时，约翰·格伦（John Glenn）成为第一个绕地球绕的美国人，在四个小时，55分钟内制造了三个轨道。
+- -  1959年：加拿大设计和制造超音速喷气式战斗机的Avro Arrow计划在许多政治辩论中被迪芬贝克政府取消。
+- -  1956年：美国商人海洋学院成为永久服务学院。
+- -  1952年：埃米特·阿什福德（Emmett Ashford）被授权成为西南国际联盟的替代裁判，成为有组织棒球中的第一个非裔美国人裁判。
+- -  1944年：第二次世界大战：美国采用Eniwetok环礁。
+- -  1944年：第二次世界大战：“大周”始于美国对德国飞机制造中心的袭击。
+- -  1943年：《星期六晚邮报》发布了诺曼·罗克韦尔（Norman Rockwell）的四个自由中的第一个自由，以支持美国总统富兰克林·罗斯福（Franklin Roosevelt）1941年的《联合国际》（Sate）的四个自由主题。
+- -  1943年：第二次世界大战：美国电影制片厂高管同意允许战争信息办公室审查电影。
+- -  1942年：第二次世界大战：爱德华·奥黑尔（Edward O'Hare）中尉成为美国第一次世界大战的王牌。
+- -  1939年：麦迪逊广场花园纳粹集会：美国历史上有史以来最大的亲纳粹集会在纽约市麦迪逊广场花园召集，有20,000名成员和同情者的同情者在场。
+- -  1935年：卡罗琳·米克尔森（Caroline Mikkelsen）成为第一个踏入南极洲的女人。
+- -  1933年：阿道夫·希特勒（Adolf Hitler）秘密与德国工业家见面，安排纳粹党即将举行的竞选活动的融资。
+- -  1933年：美国国会批准了《布莱恩法》在美国废除联邦禁令，将《二十一项修正案》派往美国宪法，以批准批准批准。
+- -  1931年：巴拉圭在Encarnación发生的无政府主义者起义将这座城市短暂地转变为革命性的公社。
+- -  1931年：美国国会批准在加利福尼亚州建造旧金山 - 奥克兰湾大桥。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-02-19 01:35:40 UTC）*
+*（更新于: 2025-02-20 01:36:12 UTC）*
