@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2016: Six people are killed and two injured in multiple shooting incidents in Kalamazoo County, Michigan.
-- 2015: Two trains collide in the Swiss town of Rafz resulting in as many as 49 people injured and Swiss Federal Railways cancelling some services.
-- 2014: Dozens of Euromaidan anti-government protesters died in Ukraine's capital Kyiv, many reportedly killed by snipers.
-- 2010: In Madeira Island, Portugal, heavy rain causes floods and mudslides, resulting in at least 43 deaths, in the worst disaster in the history of the archipelago.
-- 2009: Two Tamil Tigers aircraft packed with C4 explosives en route to the national airforce headquarters are shot down by the Sri Lankan military before reaching their target, in a kamikaze style attack.
-- 2005: Spain becomes the first country to vote in a referendum on ratification of the proposed Constitution of the European Union, passing it by a substantial margin, but on a low turnout.
-- 2003: During a Great White concert in West Warwick, Rhode Island, a pyrotechnics display sets the Station nightclub ablaze, killing 100 and injuring over 200 others.
-- 1998: American figure skater Tara Lipinski, at the age of 15, becomes the youngest Olympic figure skating gold-medalist at the 1998 Winter Olympics in Nagano, Japan.
-- 1991: In the Albanian capital Tirana, a gigantic statue of Albania's long-time leader, Enver Hoxha, is brought down by mobs of angry protesters.
-- 1988: The Nagorno-Karabakh Autonomous Oblast votes to secede from Azerbaijan and join Armenia, triggering the First Nagorno-Karabakh War.
-- 1986: The Soviet Union launches its Mir spacecraft. Remaining in orbit for 15 years, it is occupied for ten of those years.
-- 1979: An earthquake cracks open the Sinila volcanic crater on the Dieng Plateau, releasing poisonous H2S gas and killing 149 villagers in the Indonesian province of Central Java.
-- 1971: The United States Emergency Broadcast System is accidentally activated in an erroneous national alert.
-- 1968: The China Academy of Space Technology, China's main arm for the research, development, and creation of space satellites, is established in Beijing.
-- 1965: Ranger 8 crashes into the Moon after a successful mission of photographing possible landing sites for  the Apollo program astronauts.
-- 1962: Mercury program: While aboard Friendship 7, John Glenn becomes the first American to orbit the Earth, making three orbits in four hours, 55 minutes.
-- 1959: The Avro Arrow program to design and manufacture supersonic jet fighters in Canada is cancelled by the Diefenbaker government amid much political debate.
-- 1956: The United States Merchant Marine Academy becomes a permanent Service Academy.
-- 1952: Emmett Ashford becomes the first African-American umpire in organized baseball by being authorized to be a substitute umpire in the Southwestern International League.
-- 1944: World War II: The United States takes Eniwetok Atoll.
-- 1944: World War II: The "Big Week" began with American bomber raids on German aircraft manufacturing centers.
-- 1943: The Saturday Evening Post publishes the first of Norman Rockwell's Four Freedoms in support of United States President Franklin Roosevelt's 1941 State of the Union address theme of Four Freedoms.
-- 1943: World War II: American movie studio executives agree to allow the Office of War Information to censor movies.
-- 1942: World War II: Lieutenant Edward O'Hare becomes America's first World War II flying ace.
-- 1939: Madison Square Garden Nazi rally: The largest ever pro-Nazi rally in United States history is convened in Madison Square Garden, New York City, with 20,000 members and sympathizers of the German American Bund present.
-- 1935: Caroline Mikkelsen becomes the first woman to set foot in Antarctica.
-- 1933: Adolf Hitler secretly meets with German industrialists to arrange for financing of the Nazi Party's upcoming election campaign.
-- 1933: The U.S. Congress approves the Blaine Act to repeal federal Prohibition in the United States, sending the Twenty-first Amendment to the United States Constitution to state ratifying conventions for approval.
-- 1931: An anarchist uprising in Encarnación, Paraguay briefly transforms the city into a revolutionary commune.
-- 1931: The U.S. Congress approves the construction of the San Francisco-Oakland Bay Bridge by the state of California.
+- 2022: In the  Russo-Ukrainian crisis Russian President Vladimir Putin declares the Luhansk People's Republic and Donetsk People's Republic as independent from Ukraine, and moves troops into the region. The action is condemned by the United Nations.
+- 2013: At least 17 people are killed and 119 injured following several bombings in the Indian city of Hyderabad.
+- 1995: Steve Fossett lands in Leader, Saskatchewan, Canada becoming the first person to make a solo flight across the Pacific Ocean in a balloon.
+- 1994: Aldrich Ames is arrested by the Federal Bureau of Investigation for selling national secrets to the Soviet Union in Arlington County, Virginia.
+- 1975: Watergate scandal: Former United States Attorney General John N. Mitchell and former White House aides H. R. Haldeman and John Ehrlichman are sentenced to prison.
+- 1974: The last Israeli soldiers leave the west bank of the Suez Canal pursuant to a truce with Egypt.
+- 1973: Over the Sinai Desert, Israeli fighter aircraft shoot down Libyan Arab Airlines Flight 114 jet killing 108 people.
+- 1972: The Soviet uncrewed spaceship Luna 20 lands on the Moon.
+- 1972: United States President Richard Nixon visits China to normalize Sino-American relations.
+- 1971: The Convention on Psychotropic Substances is signed at Vienna.
+- 1958: The CND symbol, aka peace symbol, commissioned by the Direct Action Committee in protest against the Atomic Weapons Research Establishment, is designed and completed by Gerald Holtom.
+- 1952: The Bengali Language Movement protests occur at the University of Dhaka in East Pakistan (now Bangladesh).
+- 1952: The British government, under Winston Churchill, abolishes identity cards in the UK to "set the people free".
+- 1948: NASCAR is incorporated.
+- 1947: In New York City, Edwin Land demonstrates the first "instant camera", the Polaroid Land Camera, to a meeting of the Optical Society of America.
+- 1945: World War II:  the Brazilian Expeditionary Force defeat the German forces in the Battle of Monte Castello on the Italian front.
+- 1945: World War II: During the Battle of Iwo Jima, Japanese kamikaze planes sink the escort carrier USS Bismarck Sea and damage the USS Saratoga.
+- 1937: The League of Nations bans foreign national "volunteers" in the Spanish Civil War.
+- 1929: In the first battle of the Warlord Rebellion in northeastern Shandong against the Nationalist government of China, a 24,000-strong rebel force led by Zhang Zongchang was defeated at Zhifu by 7,000 NRA troops.
+- 1925: The New Yorker publishes its first issue.
+- 1921: Rezā Shāh takes control of Tehran during a successful coup.
+- 1921: Constituent Assembly of the Democratic Republic of Georgia adopts the country's first constitution.
+- 1919: German socialist Kurt Eisner is assassinated. His death results in the establishment of the Bavarian Soviet Republic and parliament and government fleeing Munich, Germany.
+- 1918: The last Carolina parakeet dies in captivity at the Cincinnati Zoo.
+- 1916: World War I: In France, the Battle of Verdun begins.
+- 1913: Ioannina is incorporated into the Greek state after the Balkan Wars.
+- 1896: An Englishman raised in Australia, Bob Fitzsimmons, fought an Irishman, Peter Maher, in an American promoted event which technically took place in Mexico, winning the 1896 World Heavyweight Championship in boxing.
+- 1885: The newly completed Washington Monument is dedicated.
+- 1878: The first telephone directory is issued in New Haven, Connecticut.
+- 1874: The Oakland Daily Tribune publishes its first edition.
 
 Data from muffinlabs
-*(Updated at: 2025-02-20 01:36:12 UTC)*
+*(Updated at: 2025-02-21 01:36:34 UTC)*
 
 # 历史上的今天 
 
-- -  2016年：密歇根州卡拉马祖县的多次枪击事件中有6人被杀，两人受伤。
-- -  2015年：两列火车在瑞士镇Rafz碰撞，导致多达49人受伤，瑞士联邦铁路取消了一些服务。
-- -  2014年：数十名欧洲裔反政府抗议者死于乌克兰首都基夫（Kyiv），据报道，许多人被狙击手杀害。
-- -  2010年：在马德拉岛，葡萄牙，大雨会导致洪水和泥石流，导致至少43人死亡，这是群岛历史上最严重的灾难。
-- -  2009年：两架泰米尔老虎飞机在到达国家空军总部的途中，途中被斯里兰卡军队击落，然后以卡米卡兹风格的攻击到达目标。
-- -  2005年：西班牙成为第一个在批准欧盟拟议宪法的全民投票中投票的国家，以大幅度的利润，但投票率很低。
-- -  2003年：在罗德岛州西沃里克举行的一场大白色音乐会上，烟火的展示设置了车站夜总会，杀死了100人，另外200多人受伤。
-- -  1998年：15岁的美国花样滑冰运动员塔拉·利宾斯基（Tara Lipinski）在日本长野的1998年冬季奥运会上成为最年轻的奥运花样滑冰运动员。
-- -  1991年：在阿尔巴尼亚首都提拉娜（Tirana），阿尔巴尼亚长期领导人恩弗·霍克斯（Enver Hoxha）的巨大雕像被愤怒的抗议者暴民降落。
-- -  1988年：Na​​gorno-Karabakh自治权票偏离阿塞拜疆并加入亚美尼亚，引发了第一次Nagorno-Karabakh战争。
-- -  1986年：苏联推出了Mir航天器。在轨道上呆了15年，它被占领了十年。
-- -  1979年：地震裂缝打开了Dieng高原上的Sinila火山火山口，释放了有毒的H2S气体，并在印尼中部爪哇省杀死了149名村民。
-- -  1971年：美国紧急广播系统在错误的国家警报中意外激活。
-- -  1968年：北京建立了中国太空技术学院的研究，开发和创建太空卫星的主要部门。
-- -  1965年：Ranger 8成功地为阿波罗计划宇航员拍摄了可能的着陆地点后，撞向月球。
-- -  1962年：水星计划：当友谊7时，约翰·格伦（John Glenn）成为第一个绕地球绕的美国人，在四个小时，55分钟内制造了三个轨道。
-- -  1959年：加拿大设计和制造超音速喷气式战斗机的Avro Arrow计划在许多政治辩论中被迪芬贝克政府取消。
-- -  1956年：美国商人海洋学院成为永久服务学院。
-- -  1952年：埃米特·阿什福德（Emmett Ashford）被授权成为西南国际联盟的替代裁判，成为有组织棒球中的第一个非裔美国人裁判。
-- -  1944年：第二次世界大战：美国采用Eniwetok环礁。
-- -  1944年：第二次世界大战：“大周”始于美国对德国飞机制造中心的袭击。
-- -  1943年：《星期六晚邮报》发布了诺曼·罗克韦尔（Norman Rockwell）的四个自由中的第一个自由，以支持美国总统富兰克林·罗斯福（Franklin Roosevelt）1941年的《联合国际》（Sate）的四个自由主题。
-- -  1943年：第二次世界大战：美国电影制片厂高管同意允许战争信息办公室审查电影。
-- -  1942年：第二次世界大战：爱德华·奥黑尔（Edward O'Hare）中尉成为美国第一次世界大战的王牌。
-- -  1939年：麦迪逊广场花园纳粹集会：美国历史上有史以来最大的亲纳粹集会在纽约市麦迪逊广场花园召集，有20,000名成员和同情者的同情者在场。
-- -  1935年：卡罗琳·米克尔森（Caroline Mikkelsen）成为第一个踏入南极洲的女人。
-- -  1933年：阿道夫·希特勒（Adolf Hitler）秘密与德国工业家见面，安排纳粹党即将举行的竞选活动的融资。
-- -  1933年：美国国会批准了《布莱恩法》在美国废除联邦禁令，将《二十一项修正案》派往美国宪法，以批准批准批准。
-- -  1931年：巴拉圭在Encarnación发生的无政府主义者起义将这座城市短暂地转变为革命性的公社。
-- -  1931年：美国国会批准在加利福尼亚州建造旧金山 - 奥克兰湾大桥。
+- -  2022年：在鲁斯索里亚危机中，俄罗斯总统弗拉基米尔·普京（Vladimir Putin）宣布卢汉斯人（Luhansk）人民共和国和顿涅茨克人民共和国独立于乌克兰，并将部队转移到该地区。该行动受到联合国的谴责。
+- -  2013年：印度市海得拉巴（Hyderabad）发生了几次爆炸事件后，至少有17人被杀，119人受伤。
+- -  1995年：史蒂夫·福塞特（Steve Fossett）在加拿大萨斯喀彻温省（Saskatchewan）登陆领导者，成为第一个在气球上穿越太平洋的人。
+- -  1994年：阿尔德里奇·埃姆斯（Aldrich Ames）因向弗吉尼亚州阿灵顿县的苏联出售国家秘密而被联邦调查局逮捕。
+- -  1975年：水门丑闻：前美国检察长约翰·米切尔（John N.
+- -  1974年：最后一位以色列士兵根据与埃及的休战一起离开苏伊士运河的西岸。
+- -  1973年：在西奈沙漠上，以色列战斗机飞机向利比亚阿拉伯航空公司射击114架喷气式飞机，杀死108人。
+- -  1972年：苏联未被拖放的太空飞船露娜20土地上。
+- -  1972年：美国总统理查德·尼克松（Richard Nixon）访问了中国，以使中美洲关系正常化。
+- -  1971年：《精神物质公约》在维也纳签署。
+- -  1958年：由直接行动委员会委托抗议原子武器研究机构的CND符号，又名和平符号，由杰拉尔德·霍尔托姆（Gerald Holtom）设计和完成。
+- -  1952年：孟加拉语运动抗议活动发生在东巴基斯坦（现为孟加拉国）的达卡大学。
+- -  1952年：在温斯顿·丘吉尔（Winston Churchill）的领导下，英国政府废除了英国的身份证，以“使人们自由”。
+- -  1948年：NASCAR已成立。
+- -  1947年：在纽约，埃德温·兰德（Edwin Land）展示了第一台“即时相机”，宝丽来陆地摄像头，向美国光学学会的会议展示了。
+- -  1945年：第二次世界大战：巴西远征军在意大利战线的蒙特·卡斯特洛战役中击败了德军。
+- -  1945年：第二次世界大战：在硫磺岛战役中，日本的卡米卡兹飞机沉没了伴游载体bismarck sea，并损害了萨拉托加号。
+- -  1937年：国际联盟禁止西班牙内战中的外国民族“志愿者”。
+- -  1929年：在山东东北部与中国民族主义政府的第一次战争叛乱战役中，由张宗昌领导的24,000名叛军被7,000名NRA部队在齐夫击败。
+- -  1925年：《纽约客》发表了第一期。
+- -  1921年：雷扎·沙（Rezāhāh）在成功的政变中控制德黑兰。
+- -  1921年：佐治亚州民主共和国的宪法大会采用了该国的第一宪法。
+- -  1919年：德国社会主义者库尔特·艾斯纳（Kurt Eisner）被暗杀。他的死亡导致建立了巴伐利亚苏联共和国和议会，政府逃离了德国慕尼黑。
+- -  1918年：最后一个卡罗来纳州长尾小鹦鹉在辛辛那提动物园被囚禁。
+- -  1916年：第一次世界大战：在法国，韦尔登战役开始。
+- -  1913年：巴尔干战争后，艾奥尼娜（Ioannina）被纳入希腊国家。
+- -  1896年：一名英国人在澳大利亚长大的英国人鲍勃·菲茨西蒙斯（Bob Fitzsimmons）与爱尔兰人彼得·马赫（Peter Maher）在美国晋升的一场赛事中与彼得·马赫（Peter Maher）作战，该活动在技术上在墨西哥举行，赢得了1896年的1896年世界重量级冠军。
+- -  1885年：新近完成的华盛顿纪念碑是专门的。
+- -  1878年：第一个电话目录是在康涅狄格州纽黑文发行的。
+- -  1874年：奥克兰每日论坛报（Oakland Daily Tribune）出版了第一版。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-02-20 01:36:12 UTC）*
+*（更新于: 2025-02-21 01:36:34 UTC）*
