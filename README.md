@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: A total of 279 female students aged between 10 and 17 are kidnapped by bandits in the Zamfara kidnapping in Zamfara State, Nigeria.
-- 2019: Indian Air Force fighter-jets targeted Jaish-e-Mohammed terrorist training camps in Balakot.
-- 2013: A hot air balloon crashes near Luxor, Egypt, killing 19 people.
-- 2012: Seventeen-year-old African-American student Trayvon Martin is shot to death by neighborhood watch coordinator George Zimmerman in an altercation in Sanford, Florida.
-- 2012: A train derails in Burlington, Ontario, Canada killing at least three people and injuring 45.
-- 2008: The New York Philharmonic performs in Pyongyang, North Korea; this is the first event of its kind to take place in North Korea.
-- 1995: The UK's oldest investment banking institute, Barings Bank, collapses after a rogue securities broker Nick Leeson loses $1.4 billion by speculating on the Singapore International Monetary Exchange using futures contracts.
-- 1993: World Trade Center bombing: In New York City, a truck bomb parked below the North Tower of the World Trade Center explodes, killing six and injuring over a thousand people.
-- 1992: First Nagorno-Karabakh War: Khojaly Massacre: Armenian armed forces open fire on Azeri civilians at a military post outside the town of Khojaly leaving hundreds dead.
-- 1987: Iran-Contra affair: The Tower Commission rebukes President Ronald Reagan for not controlling his national security staff.
-- 1980: Egypt and Israel establish full diplomatic relations.
-- 1979: The Superliner railcar enters revenue service with Amtrak.
-- 1971: U.N. Secretary-General U Thant signs United Nations proclamation of the vernal equinox as Earth Day.
-- 1966: Apollo program: Launch of AS-201, the first flight of the Saturn IB rocket.
-- 1960: A New York-bound Alitalia airliner crashes into a cemetery in Shannon, Ireland, shortly after takeoff, killing 34 of the 52 persons on board.
-- 1952: Vincent Massey is sworn in as the first Canadian-born Governor General of Canada.
-- 1945: World War II: US troops reclaim the Philippine island of Corregidor from the Japanese.
-- 1936: In the February 26 Incident, young nationalist Japanese military officers assassinate multiple cabinet statesmen and start a rebellion in downtown Tokyo, which is ended 3 days later.
-- 1935: Robert Watson-Watt carries out a demonstration near Daventry which leads directly to the development of radar in the United Kingdom.
-- 1935: Adolf Hitler orders the Luftwaffe to be re-formed, violating the provisions of the Treaty of Versailles.
-- 1929: President Calvin Coolidge signs legislation establishing the 96,000 acres (390 km2) Grand Teton National Park in Wyoming.
-- 1919: President Woodrow Wilson signs an act of Congress establishing the Grand Canyon National Park.
-- 1914: HMHS Britannic, sister to the RMS Titanic, is launched at Harland and Wolff shipyard in Belfast.
-- 1909: Kinemacolor, the first successful color motion picture process, is first shown to the general public at the Palace Theatre in London.
-- 1876: Japan and Korea sign the Treaty of Kangwha, which grants Japanese citizens extraterritoriality rights in Korea, opens three Korean ports to Japanese trade, and ends Korea's status as a tributary state of Qing dynasty China.
-- 1870: The Beach Pneumatic Transit in New York City, intending as a demonstration for a subway line opens.
-- 1815: Napoleon Bonaparte escapes from exile on the island of Elba.
-- 1794: The first Christiansborg Palace in Copenhagen burns down.
-- 1775: The British East India Company factory on Balambangan Island is destroyed by Moro pirates.
-- 1616: Galileo Galilei is formally banned by the Roman Catholic Church from teaching or defending the view that the earth orbits the sun.
+- 2019: Pakistan Air Force JF-17 Thunder downs Indian pilot Abhinandan Varthaman's Mig-21 in an aerial dogfight and captures him after conducting airstrikes in Jammu and Kashmir.
+- 2015: Russian politician Boris Nemtsov is assassinated in Moscow while out walking with his girlfriend.
+- 2013: A shooting takes place at a factory in Menznau, Switzerland, in which five people (including the perpetrator) are killed and five others injured.
+- 2010: An earthquake measuring 8.8 on the moment magnitude scale strikes central parts of Chile leaving over 500 victims, and thousands injured. The quake triggers a tsunami which strikes Hawaii shortly after.
+- 2008: Jemaah Islamiyah terrorist Mas Selamat Kastari escapes from a detention center in Singapore, hiding in Johor, Malaysia until he was recaptured over a year later.
+- 2007: Chinese stock bubble of 2007: The Shanghai Stock Exchange falls 9%, the largest daily fall in ten years, following speculation about a crackdown on illegal share offerings and trading, and fears about accelerating inflation.
+- 2004: Shoko Asahara, the leader of the Japanese doomsday cult Aum Shinrikyo, is sentenced to death for masterminding the 1995 Tokyo subway sarin attack.
+- 2004: A bombing of a SuperFerry by Abu Sayyaf in the Philippines' worst terrorist attack kills more than 100 passengers.
+- 2002: Godhra train burning: A Muslim mob torches a train returning from Ayodhya, killing 59 Hindu pilgrims.
+- 2002: Ryanair Flight 296 catches fire at London Stansted Airport causing minor injuries.
+- 2001: Loganair Flight 670A crashes while attempting to make a water landing in the Firth of Forth in Scotland.
+- 1991: Gulf War: U.S. President George H. W. Bush announces that "Kuwait is liberated".
+- 1988: Sumgait pogrom: The Armenian community in Sumgait, Azerbaijan is targeted in a violent pogrom.
+- 1976: The former Spanish territory of Western Sahara, under the auspices of the Polisario Front declares independence as the Sahrawi Arab Democratic Republic.
+- 1973: The American Indian Movement occupies Wounded Knee in protest of the federal government.
+- 1971: Doctors in the first Dutch abortion clinic (the Mildredhuis in Arnhem) start performing artificially-induced abortions.
+- 1964: The Government of Italy asks for help to keep the Leaning Tower of Pisa from toppling over.
+- 1963: The Dominican Republic receives its first democratically elected president, Juan Bosch, since the end of the dictatorship led by Rafael Trujillo.
+- 1962: Vietnam War: Two dissident Republic of Vietnam Air Force pilots bomb the Independence Palace in Saigon in a failed attempt to assassinate South Vietnam President Ngô Đình Diệm.
+- 1961: The first congress of the Spanish Trade Union Organisation is inaugurated.
+- 1951: The Twenty-second Amendment to the United States Constitution, limiting Presidents to two terms, is ratified.
+- 1943: The Holocaust: In Berlin, the Gestapo arrest 1,800 Jewish men with German wives, leading to the Rosenstrasse protest.
+- 1943: The Smith Mine #3 in Bearcreek, Montana, explodes, killing 74 men.
+- 1942: World War II: During the Battle of the Java Sea, an Allied strike force is defeated by a Japanese task force in the Java Sea in the Dutch East Indies.
+- 1940: Martin Kamen and Sam Ruben discover carbon-14.
+- 1939: United States labor law: The U.S. Supreme Court rules in NLRB v. Fansteel Metallurgical Corp. that the National Labor Relations Board has no authority to force an employer to rehire workers who engage in sit-down strikes.
+- 1933: Reichstag fire: Germany's parliament building in Berlin, the Reichstag, is set on fire; Marinus van der Lubbe, a young Dutch Communist claims responsibility.
+- 1932: The Mäntsälä rebellion begins when members of the far-right Lapua Movement start shooting at the social democrats' event in Mäntsälä, Finland.
+- 1922: A challenge to the Nineteenth Amendment to the United States Constitution, allowing women the right to vote, is rebuffed by the Supreme Court of the United States in Leser v. Garnett.
+- 1921: The International Working Union of Socialist Parties is founded in Vienna.
 
 Data from muffinlabs
-*(Updated at: 2025-02-26 01:37:31 UTC)*
+*(Updated at: 2025-02-27 01:38:05 UTC)*
 
 # 历史上的今天 
 
-- -2021：在尼日利亚Zamfara State的Zamfara绑架中，共有279名10至17岁之间的女学生被土匪绑架。
-- -  2019年：印度空军战斗机针对Balakot的Jaish-e-Mohammed恐怖训练营的目标。
-- -  2013年：埃及卢克索（Luxor）附近的热气球坠毁，杀死了19人。
-- -  2012年：17岁的非裔美国学生特雷冯·马丁（Trayvon Martin）在佛罗里达州桑福德的一场争执中被邻里观看协调员乔治·齐默尔曼（George Zimmerman）枪杀。
-- -  2012年：一列火车在加拿大安大略省伯灵顿出轨，杀死了至少三人，受伤45人。
-- -  2008年：纽约爱乐乐团在朝鲜平壤表演；这是在朝鲜举行的同类事件。
-- -  1995年：在流氓证券经纪人尼克·莱森（Nick Leeson）使用期货合约向新加坡国际货币交易所推测，英国最古老的投资银行研究所鲍林斯银行（Barings Bank）倒塌了。
-- -  1993年：世界贸易中心爆炸案：在纽约市，一个停在世界贸易中心北塔下方的卡车炸弹爆炸，炸死了六人，炸伤了一千多人。
-- -  1992年：第一次纳戈尔诺 - 卡拉巴赫战争：霍哈利大屠杀：亚美尼亚武装部队在霍哈利镇外的一个军事邮政上向阿泽里平民开火，造成数百人死亡。
-- -  1987年：伊朗 - 对照事件：塔委员会斥责罗纳德·里根（Ronald Reagan）总统不控制其国家安全人员。
-- -  1980年：埃及和以色列建立了完整的外交关系。
-- -  1979年：超级行业车辆与Amtrak一起进入税收服务。
-- -  1971年：联合国秘书长U thant征兆联合国宣布春分为地球日。
-- -  1966年：阿波罗计划：AS-2011启动，这是土星IB火箭的第一次飞行。
-- -  1960年：起飞后不久，一架纽约的Alitalia Airliner坠毁在爱尔兰香农的一座墓地中，杀死了船上52人中的34人。
-- -  1952年：文森特·梅西（Vincent Massey）宣誓就任加拿大首位加拿大总督。
-- -  1945年：第二次世界大战：美军从日本人那里夺回了菲律宾岛的科尔杰岛。
-- -  1936年：在2月26日的事件中，年轻的民族主义日本军官暗杀了多名内阁政治家，并在东京市中心开始叛乱，该叛乱于3天后结束。
-- -  1935年：罗伯特·沃森·瓦特（Robert Watson-Watt）在达文（Daventry）附近举行了一次示威活动，直接导致英国雷达（Radar）的发展。
-- -  1935年：阿道夫·希特勒（Adolf Hitler）下令重建德国人，违反了《凡尔赛条约》的规定。
-- -  1929年：总统加尔文·柯立芝（Calvin Coolidge）签署了立法，建立了怀俄明州96,000英亩（390 km2）大提顿国家公园。
-- -  1919年：总统伍德罗·威尔逊（Woodrow Wilson）签署了建立大峡谷国家公园的国会法案。
-- -  1914年：RMS泰坦尼克号的姐姐HMHS Britannic在贝尔法斯特的Harland和Wolff Shipyard发射。
-- -  1909年：KineMacolor是第一个成功的色彩电影过程，首先向伦敦宫殿剧院的公众展示。
-- -  1876年：日本和韩国签署了《危险授予韩国日本公民域外权利权利》的袋鼠条约，为日本贸易开放了三个韩国港口，并结束了韩国作为清朝中国的支流状态的地位。
-- -  1870年：纽约市的海滩气动过境，打算作为地铁线的示威开放。
-- -  1815年：拿破仑·波拿巴（Napoleon Bonaparte）从埃尔巴岛（Elba）岛上流放。
-- -  1794年：哥本哈根的第一个克里斯蒂安堡宫烧毁。
-- -  1775年：Balambangan岛上的英国东印度公司工厂被摩洛海盗摧毁。
-- -1616：罗马天主教会正式禁止伽利略·伽利略（Galileo Galilei）教导或捍卫地球绕太阳绕的观点。
+- -  2019年：巴基斯坦空军JF-17雷霆队在空中战斗中击败印度飞行员Abhinandan Varthaman的Mig-21，并在查mu和克什米尔进行了空袭后俘虏了他。
+- -  2015年：俄罗斯政治家鲍里斯·尼姆索夫（Boris Nemtsov）在与女友一起散步时在莫斯科被暗杀。
+- -  2013年：枪击事件发生在瑞士门瑙的一家工厂，其中五人（包括肇事者）被杀，另外五人受伤。
+- -  2010年：一场地震在瞬间尺度上的地震8.8击中智利的中心部分，造成500多名受害者，数千人受伤。地震触发了一场海啸，不久之后就袭击了夏威夷。
+- -  2008年：Jemaah Islamiyah恐怖分子Mas Selamat Kastari从新加坡的一个拘留中心逃脱了马来西亚柔佛州的拘留中心，直到一年后被夺回。
+- -  2007年：中国股票泡沫2007年：上海证券交易所下跌了9％，是十年来最大的每日下降，此前猜测镇压非法股份产品和交易以及对加速通货膨胀的担心。
+- -  2004年：日本世界末日崇拜Aum Shinrikyo的领导人Shoko Asahara因策划1995年东京地铁沙林袭击而被判处死刑。
+- -  2004年：阿布·赛亚夫（Abu Sayyaf）在菲律宾最严重的恐怖袭击中轰炸了超级费用，炸死了100多名乘客。
+- -  2002年：戈德拉（Godhra）火车燃烧：穆斯林暴民火炬从阿约提亚（Ayodhya）返回，杀死了59个印度朝圣者。
+- -  2002年：Ryanair航班296在伦敦Stansted机场起火，造成轻伤。
+- -  2001年：Loganair航班670A坠毁，试图在苏格兰的Forth降落水。
+- -  1991年：海湾战争：美国总统乔治·H·W·布什宣布“科威特被解放”。
+- -  1988年：Sumgait大屠杀：阿塞拜疆Sumgait的亚美尼亚社区的目标是暴力大屠杀。
+- -  1976年：西班牙前西班牙领土，在波利萨里奥（Polisario）阵线的主持下，宣布独立为撒哈拉阿拉伯民主共和国。
+- -  1973年：美洲印第安人运动遭受了膝盖，以抗议联邦政府。
+- -  1971年：第一个荷兰堕胎诊所（Arnhem的Mildredhuis）的医生开始进行人为诱发的堕胎。
+- -  1964年：意大利政府寻求帮助，以防止比萨的倾斜塔倒塌。
+- -  1963年：自从拉斐尔·特鲁吉洛（Rafael Trujillo）领导的独裁统治以来，多米尼加共和国将获得首位民主选举的总统胡安·博世（Juan Bosch）。
+- -  1962年：越南战争：两名持不同政见的越南空军飞行员共和国炸毁了西贡的独立宫，试图暗杀越南南部总统恩加ng。
+- -  1961年：西班牙工会组织的第一届大会就职。
+- -  1951年：批准了《美国宪法》的二十秒修正案，将总统限制在两个任期。
+- -  1943年：大屠杀：在柏林，盖世太保逮捕了1,800名与德国妻子的犹太人，导致了罗森斯特拉斯抗议。
+- -  1943年：蒙大拿州贝克里克（Bearcreek）的史密斯矿山（Smith Mine＃3）爆炸，杀死了74人。
+- -  1942年：第二次世界大战：在爪哇海战役中，一支盟军的罢工部队在荷兰东印度群岛的爪哇海被日本特遣部队击败。
+- -  1940年：马丁·卡门（Martin Kamen）和山姆·鲁本（Sam Ruben）发现碳14。
+- -  1939年：美国劳动法：NLRB诉Fansteel Metallurgical Corp.美国最高法院的规定，国家劳资关系委员会无权迫使雇主重新聘请坐下来罢工。
+- -  1933年：国会大厦大火：德国在柏林的议会大楼被纵火燃烧；年轻的荷兰共产党人马里努斯·范·德·卢布（Marinus van der Lubbe）声称责任。
+- -  1932年：Mäntsälä叛乱始于极右翼Lapua运动的成员在芬兰Mäntsälä的社会民主党活动开始射击。
+- -  1922年：美国最高法院在Leser诉Garnett案中拒绝了1922年对美国宪法的第十九修正案的挑战，允许妇女享有投票权。
+- -  1921年：国际社会主义政党联盟成立于维也纳。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-02-26 01:37:31 UTC）*
+*（更新于: 2025-02-27 01:38:05 UTC）*
