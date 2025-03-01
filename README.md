@@ -1,67 +1,71 @@
 # History of Today 
 
-- 2024: Prime Minister Modi of India inaugurated the 2nd Space Port of India - Kulasekarapattinam Spaceport.
-- 2023: Two trains collide south of the Vale of Tempe in Greece, leading to the deaths of at least 57 people and leaving 58 missing and 85 injured.
-- 2013: Pope Benedict XVI resigns as the pope of the Catholic Church, becoming the first pope to do so since Pope Gregory XII in 1415.
-- 2002: During the religious violence in Gujarat, 97 people are killed in the Naroda Patiya massacre and 69 in the Gulbarg Society massacre.
-- 2001: The 2001 Nisqually earthquake, having a moment magnitude of 6.8, with epicenter in the southern Puget Sound, damages Seattle metropolitan area.
-- 1997: A Turkish military memorandum resulted in the collapse of the coalition government in Turkey.
-- 1997: An earthquake in northern Iran is responsible for about 1,100 deaths.
-- 1993: Bureau of Alcohol, Tobacco and Firearms (ATF) agents raid the Branch Davidian church in Waco, Texas with a warrant to arrest the group's leader David Koresh, starting a 51-day standoff.
-- 1990: Space Shuttle Atlantis is launched on STS-36.
-- 1986: Olof Palme, 26th Prime Minister of Sweden, is assassinated in Stockholm.
-- 1985: The Provisional Irish Republican Army carries out a mortar attack on the Royal Ulster Constabulary police station at Newry, killing nine officers.
-- 1983: The final episode of M*A*S*H airs, with almost 110 million viewers.
-- 1975: In London, an underground train fails to stop at Moorgate terminus station and crashes into the end of the tunnel, killing 43 people.
-- 1974: The British election ended in a hung parliament after the Jeremy Thorpe-led Liberal Party achieved their biggest vote share since 1929.
-- 1969: The 1969 Portugal earthquake hits Portugal, Spain and Morocco.
-- 1966: A NASA T-38 Talon crashes into the McDonnell Aircraft factory while attempting a poor-visibility landing at Lambert Field, St. Louis, killing astronauts Elliot See and Charles Bassett.
-- 1959: Discoverer 1, an American spy satellite that is the first object intended to achieve a polar orbit, is launched but fails to achieve orbit.
-- 1958: A school bus in Floyd County, Kentucky hits a wrecker truck and plunges down an embankment into the rain-swollen Levisa Fork river. The driver and 26 children die in one of the worst school bus accidents in U.S. history.
-- 1948: The 1948 Accra riots erupted following a march by ex-servicemen of the Gold Coast Regiment towards the seat of the colonial government at Christiansborg Castle where they were fired upon by Superintendant Colin Imray leading to the killing of Sergeant Adjetey, Corporal Attipoe and Private Odartey Lamptey and the arrest of the Big Six in the Gold Coast.
-- 1947: February 28 incident: In Taiwan, civil disorder is put down with the death of an estimated 28,000 civilians.
-- 1925: The Charlevoix-Kamouraska earthquake strikes northeastern North America.
-- 1922: The United Kingdom ends its protectorate over Egypt through a Unilateral Declaration of Independence.
-- 1844: A gun explodes on board the steam warship USS Princeton during a pleasure cruise down the Potomac River, killing six, including Secretary of State Abel Upshur. President John Tyler, who was also on board, was not injured from the blast.
-- 1835: Elias Lönnrot signed and dated the first version of the Kalevala, the so-called foreword to the Old Kalevala.
-- 1638: The Scottish National Covenant is signed in Edinburgh.
-- 1525: Aztec king Cuauhtémoc is executed on the order of conquistador Hernán Cortés.
-- 870: The Fourth Council of Constantinople closes.
-- 202 BC: Liu Bang is enthroned as the Emperor of China, beginning four centuries of rule by the Han dynasty.
+- 2014: Thirty-five people are killed and 143 injured in a mass stabbing at Kunming Railway Station in China.
+- 2008: The Armenian police clash with peaceful opposition rally protesting against allegedly fraudulent presidential elections, as a result ten people are killed.
+- 2007: Tornadoes break out across the southern United States, killing at least 20 people, including eight at Enterprise High School.
+- 2006: English-language Wikipedia reaches its one millionth article, Jordanhill railway station.
+- 2005: In Roper v. Simmons, the U.S. Supreme Court rules that the execution of juveniles found guilty of any crime is unconstitutional.
+- 2003: Management of the United States Customs Service and the United States Secret Service move to the United States Department of Homeland Security.
+- 2002: Space Shuttle Columbia is launched on STS-109 to service the Hubble Space Telescope.
+- 2002: The Envisat environmental satellite successfully launches aboard an Ariane 5 rocket to reach an orbit of 800 km (500 mi) above the Earth, which was the then-largest payload at 10.5 m long and with a diameter of 4.57 m.
+- 2002: U.S. invasion of Afghanistan: Operation Anaconda begins in eastern Afghanistan.
+- 1998: Titanic became the first film to gross over $1 billion worldwide.
+- 1992: Bosnia and Herzegovina declares its independence from Socialist Federal Republic of Yugoslavia.
+- 1991: Uprisings against Saddam Hussein begin in Iraq, leading to the deaths of more than 25,000 people, mostly civilians.
+- 1990: Steve Jackson Games is raided by the United States Secret Service, prompting the later formation of the Electronic Frontier Foundation.
+- 1981: Provisional Irish Republican Army member Bobby Sands begins his hunger strike in HM Prison Maze.
+- 1974: Watergate scandal: Seven are indicted for their role in the Watergate break-in and charged with conspiracy to obstruct justice.
+- 1973: Black September storms the Saudi embassy in Khartoum, Sudan, resulting in the assassination of three Western hostages.
+- 1971: President of Pakistan Yahya Khan indefinitely postpones the pending national assembly session, precipitating massive civil disobedience in East Pakistan.
+- 1966: The Ba'ath Party takes power in Syria.
+- 1966: Venera 3 Soviet space probe crashes on Venus becoming the first spacecraft to land on another planet's surface.
+- 1964: Paradise Airlines Flight 901A crashes near Lake Tahoe, Nevada, killing 85.
+- 1964: Villarrica Volcano begins a strombolian eruption causing lahars that destroy half of the town of Coñaripe.
+- 1962: American Airlines Flight 1 crashes into Jamaica Bay in New York, killing 95.
+- 1961: Uganda becomes self-governing and holds its first elections.
+- 1958: Samuel Alphonsus Stritch is appointed Pro-Prefect of the Propagation of Faith and thus becomes the first U.S. member of the Roman Curia.
+- 1956: Formation of the East German Nationale Volksarmee.
+- 1956: The International Air Transport Association finalizes a draft of the Radiotelephony spelling alphabet for the International Civil Aviation Organization.
+- 1954: Armed Puerto Rican nationalists attack the United States Capitol building, injuring five Representatives.
+- 1954: Nuclear weapons testing: The Castle Bravo, a 15-megaton hydrogen bomb, is detonated on Bikini Atoll in the Pacific Ocean, resulting in the worst radioactive contamination ever caused by the United States.
+- 1953: Soviet Premier Joseph Stalin suffers a stroke and collapses; he dies four days later.
+- 1950: Cold War: Klaus Fuchs is convicted of spying for the Soviet Union by disclosing top secret atomic bomb data.
 
 Data from muffinlabs
-*(Updated at: 2025-02-28 01:38:11 UTC)*
+*(Updated at: 2025-03-01 01:43:14 UTC)*
 
 # 历史上的今天 
 
-- -  2024年：印度总理莫迪（Modi of India）揭幕了印度的第二个太空港 -  Kulasekarapattinam Spaceport。
-- -  2023年：两列火车在希腊坦佩谷谷以南碰撞，导致至少57人死亡，58人失踪，85人受伤。
-- -  2013年：教皇本尼迪克特十六世辞去了天主教教皇的职务，成为自1415年教皇格雷戈里十二世以来第一个这样做的教皇。
-- -  2002年：在古吉拉特邦发生的宗教暴力期间，有97人在Naroda Patiya大屠杀中被杀，在Gulbarg Society Massacre中有69人丧生。
-- -  2001年：2001年的尼斯卡利地震，瞬间幅度为6.8，震中在南部海湾的声音中损害了西雅图大都市地区。
-- -  1997年：土耳其军事备忘录导致土耳其联盟政府崩溃。
-- -  1997年：伊朗北部的地震造成约1100人死亡。
-- -  1993年：酒精，烟草和枪支局（ATF）特工突袭了德克萨斯州韦科的戴维尼教堂，逮捕了该组织的领导人戴维·科雷斯（David Koresh），开始了51天的对峙。
-- -  1990年：Atlantis航天飞机在STS-36上发射。
-- -  1986年：瑞典第26位总理奥洛夫·帕尔姆（Olof Palme）在斯德哥尔摩被暗杀。
-- -  1985年：临时爱尔兰共和党军队对纽里的皇家阿尔斯特警察局进行了迫击炮袭击，杀死了9名军官。
-- -  1983年：M*a*s*h的最后一集播出，近1.1亿观众。
-- -  1975年：在伦敦，地下火车未能停在Moorgate Terminus站，并撞到隧道的尽头，造成43人丧生。
-- -  1974年：在杰里米·索普（Jeremy Thorpe）领导的自由党获得了自1929年以来最大的投票份额之后，英国大选以悬而未决的议会结束。
-- -  1969年：1969年的葡萄牙地震袭击了葡萄牙，西班牙和摩洛哥。
-- -  1966年：NASA T-38 TALON撞向了麦克唐纳飞机工厂，同时尝试在圣路易斯兰伯特菲尔德（Lambert Field）降落不良的降落，杀死了宇航员埃利奥特（Elliot See）和查尔斯·巴塞特（Charles Bassett）。
-- -  1959年：Discoverer 1是美国间谍卫星，是第一个旨在实现极地轨道的物体，但未能实现轨道。
-- -  1958年：肯塔基州弗洛伊德县的一辆校车撞上了一辆破坏者卡车，并从路堤驶入雨水般的Levisa Fork河。驾驶员和26名儿童死于美国历史上最严重的校车事故之一。
-- -  1948年：1948年，黄金海岸团的前任人员爆发了1948年的骚乱，在克里斯蒂安斯堡城堡的殖民政府所在地，在那里被督导员科林·伊姆雷（Colin Imray）开除，导致杀害Sergeant Adjetey，Adjetey，Cornsal Attipoe和Privation Odartey Lamptey和Lamptey lamptey和lamptey of sif Six sif Six Coast of Mick of siv of sif sif sif sip sif sif sip sif sip sick Six sif sick Six sif sic sif sic of sich s。
-- -  1947年：2月28日事件：在台湾，估计有28,000名平民死亡，民间疾病被抑制。
-- -  1925年：Charlevoix-Kamouraska地震袭击了北美东北部。
-- -  1922年：英国通过单方面的独立宣言结束了对埃及的保护国。
-- -  1844年：一支枪在蒸汽军舰上爆炸了普林斯顿航空公司，在波托马克河（Potomac River）的愉悦巡游中，杀死了六辆，包括国务卿亚伯·乌普苏尔（Abel Upshur）。总统约翰·泰勒（John Tyler）也曾在船上受伤。
-- -  1835年：EliasLönnrot签署并与所谓的“旧卡列瓦拉”所谓的前言签署并与第一个版本签名。
-- -1638：苏格兰国家盟约在爱丁堡签署。
-- -  1525年：阿兹台克国王库阿特莫克（Cuauhtémoc）由征服者埃尔南·科尔特斯（HernánCortés）执行。
-- -870：君士坦丁堡第四委员会结束。
-- - 公元前202年：刘·邦（Liu Bang）被登基为中国皇帝，从汉朝开始了四个世纪的统治。
+- -  2014年：中国昆明火车站的大规模刺伤中有35人丧生，143人受伤。
+- -  2008年：亚美尼亚警察与和平的反对派集会冲突，抗议涉嫌欺诈性总统大选，因此十个人被杀。
+- -  2007年：龙卷风在美国南部爆发，杀死了至少20人，其中包括企业高中的八人。
+- -  2006年：英语维基百科（Wikipedia）在其一百万篇文章乔丹希尔火车站（Jordanhill Firway Station）。
+- -  2005年：在Roper诉Simmons案中，美国最高法院裁定，处决少年犯有任何犯罪是违宪的。
+- -  2003年：美国海关管理局的管理和美国特勤局搬到了美国国土安全部。
+- -  2002年：航天飞机哥伦比亚航天飞机在STS-109上推出，以服务哈勃太空望远镜。
+- -  2002年：Envisat环境卫星成功地登上Ariane 5火箭，到达地球上800公里（500英里）的轨道，当时是当时的10.5 m长，直径为4.57 m。
+- -  2002年：美国对阿富汗的入侵：Anaconda行动始于阿富汗东部。
+- -  1998年：泰坦尼克号成为全球票房超过10亿美元的第一部电影。
+- -  1992年：波斯尼亚和黑塞哥维那宣布其独立于南斯拉夫联邦联邦共和国。
+- -  1991年：针对萨达姆·侯赛因（Saddam Hussein）的起义始于伊拉克，导致超过25,000人死亡，主要是平民。
+- -  1990年：史蒂夫·杰克逊（Steve Jackson）的游戏受到美国特勤局的突袭，促使后来的电子边界基金会的形成。
+- -  1981年：临时爱尔兰共和党成员鲍比·桑德斯（Bobby Sands）开始在HM监狱迷宫中的绝食。
+- -  1974年：水门丑闻：七人因其在水门闯入中的作用而被起诉，并被指控串谋妨碍司法公正。
+- -  1973年：布莱克九月袭击了苏丹喀土穆的沙特大使馆，导致三个西方人质被暗杀。
+- -  1971年：巴基斯坦Yahya Khan总统无限期地推迟了国民议会会议，在东巴基斯坦加剧了大规模的公民抗命。
+- -  1966年：巴特党在叙利亚掌权。
+- -  1966年：Venera 3苏联太空探测器在金星上坠毁成为第一个降落在另一个星球表面上的航天器。
+- -  1964年：内华达州塔霍湖附近的Paradise Airlines航班901A坠毁，杀死了85。
+- -  1964年：维拉里卡火山（Villarrica Volcano）开始了一场斯特罗姆洛利亚爆发，导致拉哈尔人摧毁了库纳（Coñaripe）镇的一半。
+- -  1962年：美国航空公司1航班撞上纽约的牙买加湾，杀死95。
+- -  1961年：乌干达成为自治，并举行了第一次选举。
+- -  1958年：塞缪尔·阿尔方斯·斯特里奇（Samuel Alphonsus Stritch）被任命为信仰传播的挑选，因此成为罗马库里亚（Roman Curia）的第一位美国成员。
+- -  1956年：东德国家Volksarmee的形成。
+- -  1956年：国际航空运输协会最终确定了国际民航组织的Radiotelephony拼写字母的草案。
+- -  1954年：波多黎各民族主义者袭击了美国国会大厦大楼，炸伤五名代表。
+- -  1954年：核武器测试：15兆雄氢炸弹城堡Bravo在太平洋的比基尼环礁上引爆，导致美国有史以来最严重的放射性污染。
+- -  1953年：苏联总理约瑟夫·斯大林（Joseph Stalin）遭受中风并崩溃；他四天后去世。
+- -  1950年：冷战：克劳斯·福克斯（Klaus Fuchs）因披露顶级机密原子弹数据而被判监视苏联。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-02-28 01:38:11 UTC）*
+*（更新于: 2025-03-01 01:43:14 UTC）*
