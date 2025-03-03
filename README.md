@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Russian forces capture the city of Kherson during the Russian invasion of Ukraine, which subsequently began the start of the Russian occupation and military-civilian administration in Kherson. Kherson is the only regional capital in Ukraine that Russia captured.
-- 2017: The elements Moscovium, Tennessine, and Oganesson are officially added to the periodic table at a conference in Moscow, Russia.
-- 2012: A tornado outbreak occurs over a large section of the Southern United States and into the Ohio Valley region, resulting in 40 tornado-related fatalities.
-- 2004: War in Iraq: Al-Qaeda carries out the Ashoura Massacre in Iraq, killing 170 and wounding over 500.
-- 2002: U.S. invasion of Afghanistan: Operation Anaconda begins, (ending on March 19 after killing 500 Taliban and al-Qaeda fighters, with 11 Western troop fatalities).
-- 1998: Data sent from the Galileo spacecraft indicates that Jupiter's moon Europa has a liquid ocean under a thick crust of ice.
-- 1995: Space Shuttle Endeavour launches from the Kennedy Space Center on STS-67, carrying the ASTRO-2 spacelab observatory.
-- 1995: Researchers at Fermilab announce the discovery of the top quark.
-- 1992: Armenia, Azerbaijan, Kazakhstan, Kyrgyzstan, Moldova, San Marino, Tajikistan, Turkmenistan and Uzbekistan, all of which (except San Marino) were former Soviet republics, join the United Nations.
-- 1992: Start of the war in Transnistria.
-- 1991: Battle at Rumaila oil field brings an end to the 1991 Gulf War.
-- 1991: Establishment of Kuwait Democratic Forum, center-left political organization in Kuwait.
-- 1990: Nelson Mandela is elected deputy president of the African National Congress.
-- 1989: Twelve European Community nations agree to ban the production of all chlorofluorocarbons (CFCs) by the end of the century.
-- 1983: Compact discs and players are released for the first time in the United States and other markets. They had previously been available only in Japan.
-- 1978: The late iconic actor Charlie Chaplin's coffin is stolen from his grave in Switzerland.
-- 1978: Czech Vladimír Remek becomes the first non-Russian or non-American to go into space, when he is launched aboard Soyuz 28.
-- 1977: Libya becomes the Socialist People's Libyan Arab Jamahiriya as the General People's Congress adopted the "Declaration on the Establishment of the Authority of the People".
-- 1972: The Pioneer 10 space probe is launched from Cape Canaveral, Florida with a mission to explore the outer planets.
-- 1970: Rhodesia declares itself a republic, breaking its last links with the British crown.
-- 1969: In Toulouse, France, the first test flight of the Anglo-French Concorde is conducted.
-- 1968: Baggeridge Colliery closes marking the end of over 300 years of coal mining in the Black Country.
-- 1965: The US and Republic of Vietnam Air Force begin Operation Rolling Thunder, a sustained bombing campaign against North Vietnam.
-- 1962: Wilt Chamberlain sets the single-game scoring record in the National Basketball Association by scoring 100 points.
-- 1962: In Burma, the army led by General Ne Win seizes power in a coup d'état.
-- 1955: Norodom Sihanouk, king of Cambodia, abdicates the throne in favor of his father, Norodom Suramarit.
-- 1949: Captain James Gallagher lands his B-50 Superfortress Lucky Lady II in Fort Worth, Texas, after completing the first non-stop around-the-world airplane flight in 94 hours and one minute.
-- 1943: World War II: During the Battle of the Bismarck Sea Allied aircraft defeated a Japanese attempt to ship troops to New Guinea.
-- 1941: World War II: First German military units enter Bulgaria after it joins the Axis Pact.
-- 1939: Cardinal Eugenio Pacelli is elected Pope and takes the name Pius XII.
+- 2013: A bomb blast in Karachi, Pakistan, kills at least 48 people and injured 200 others in a predominantly Shia Muslim area.
+- 2005: Margaret Wilson is elected as Speaker of the New Zealand House of Representatives, beginning a period lasting until August 23, 2006, where all the highest political offices (including Elizabeth II as Head of State), were occupied by women, making New Zealand the first country for this to occur.
+- 2005: Steve Fossett becomes the first person to fly an airplane non-stop around the world solo without refueling.
+- 2005: James Roszko murders four Royal Canadian Mounted Police constables during a drug bust at his property in Rochfort Bridge, Alberta, then commits suicide. This is the deadliest peace-time incident for the RCMP since 1885 and the North-West Rebellion.
+- 1991: United Airlines Flight 585 crashes on its final approach to Colorado Springs killing everyone on board.
+- 1991: An amateur video captures the beating of Rodney King by Los Angeles police officers.
+- 1986: The Australia Act 1986 commences, causing Australia to become fully independent from the United Kingdom.
+- 1985: A magnitude 8.3 earthquake strikes the Valparaíso Region of Chile, killing 177 and leaving nearly a million people homeless.
+- 1980: The USS Nautilus is decommissioned and stricken from the Naval Vessel Register.
+- 1974: Turkish Airlines Flight 981 crashes at Ermenonville near Paris, France killing all 346 aboard.
+- 1972: Mohawk Airlines Flight 405 crashes as a result of a control malfunction and insufficient training in emergency procedures.
+- 1969: Apollo program: NASA launches Apollo 9 to test the lunar module.
+- 1958: Nuri al-Said becomes Prime Minister of Iraq for the eighth time.
+- 1953: A De Havilland Comet (Canadian Pacific Air Lines) crashes in Karachi, Pakistan, killing 11 people.
+- 1945: World War II: In poor visibility, the RAF mistakenly bombs the Bezuidenhout area of The Hague, Netherlands, killing 511 people.
+- 1944: A freight train carrying stowaway passengers stalls in a tunnel shortly after departing from Balvano, Basilicata, Italy just after midnight, with 517 dying from carbon monoxide poisoning.
+- 1944: The Order of Nakhimov and Order of Ushakov are instituted in USSR as the highest naval awards.
+- 1943: World War II: In London, 173 people are killed in a crush while trying to enter an air-raid shelter at Bethnal Green tube station.
+- 1942: World War II: Ten Japanese warplanes raid Broome, Western Australia, killing more than 100 people.
+- 1940: Five people are killed in an arson attack on the offices of the communist newspaper Flamman in Luleå, Sweden.
+- 1939: In Bombay, Mohandas Gandhi begins a hunger strike in protest at the autocratic rule in British India.
+- 1938: Oil is discovered in Saudi Arabia.
+- 1924: The Free State of Fiume is annexed by the Kingdom of Italy.
+- 1924: The Ottoman Caliphate is abolished, when the Caliph Abdülmecid II of the Ottoman dynasty is deposed. The last remnant of the old monarchy gives way to the reformed Turkey of Kemal Atatürk.
+- 1923: US magazine Time publishes its first issue.
+- 1918: Russia signs the Treaty of Brest-Litovsk, agreeing to withdraw from World War I, and conceding German control of the Baltic States, Belarus and Ukraine. It also conceded Turkish control of Ardahan, Kars and Batumi.
+- 1913: Thousands of women march in the Woman Suffrage Procession in Washington, D.C.
+- 1891: Shoshone National Forest is established as the first national forest in the US and world.
+- 1878: The Russo-Turkish War ends with Bulgaria regaining its independence from the Ottoman Empire according to the Treaty of San Stefano.
+- Bizet's opera Carmen is first performed at the Opéra-Comique in Paris.: None
 
 Data from muffinlabs
-*(Updated at: 2025-03-02 01:42:27 UTC)*
+*(Updated at: 2025-03-03 01:40:46 UTC)*
 
 # 历史上的今天 
 
-- -  2022年：俄罗斯军队在俄罗斯入侵乌克兰期间占领了赫森市，后来开始了俄罗斯占领和军事 - 西维利亚政府在赫森开始的开始。赫森是俄罗斯占领的唯一区域首都。
-- -  2017年：在俄罗斯莫斯科举行的一次会议上，将元素，田纳西州和田纳西州的元素正式添加到元素周期表中。
-- -  2012年：龙卷风爆发发生在美国南部的大部分地区和俄亥俄州山谷地区，造成40例龙卷风相关的死亡。
-- -  2004年：伊拉克战争：基地组织在伊拉克进行了阿什拉大屠杀，造成170人炸死500多人。
-- -  2002年：美国对阿富汗的入侵：Anaconda行动开始（结束于3月19日，在杀死了500名塔利班和基地组织的战斗机后，有11名西部部队死亡）。
-- -  1998年：从伽利略航天器发送的数据表明，木星的月球欧罗巴在厚厚的冰壳下有液态海洋。
-- -  1995年：航天飞机努力是从STS-67的肯尼迪航天中心发射的，带有Astro-2 Spacelab天文台。
-- -  1995年：费米拉布（Fermilab）的研究人员宣布发现了顶级夸克（Quark）。
-- -  1992年：亚美尼亚，阿塞拜疆，哈萨克斯坦，吉尔吉斯斯坦，摩尔多瓦，圣玛丽诺，塔吉克斯坦，土库曼斯坦和乌兹别克斯坦，所有这些都是前苏联共和国，所有这些都加入了联合国。
-- -  1992年：跨恩斯特里亚战争开始。
-- -  1991年：Rumaila油田的战斗结束了1991年的海湾战争。
-- -  1991年：科威特民主论坛的建立，科威特中心左翼政治组织。
-- -  1990年：纳尔逊·曼德拉（Nelson Mandela）当选为非洲人国民大会的副主席。
-- -  1989年：十二个欧洲社区国家同意在本世纪末禁止生产所有氯氟氟化合物（CFC）。
-- -  1983年：紧凑型光盘和玩家在美国和其他市场首次发布。他们以前仅在日本可用。
-- -  1978年：已故的标志性演员查理·卓别林（Charlie Chaplin）的棺材被他在瑞士的坟墓中被盗。
-- -  1978年：捷克·弗拉基米尔·雷姆克（CzechVladimírRemek）成为第一个进入Soyuz 28上市时进入太空的非俄罗斯或非美国人。
-- -  1977年：利比亚成为社会主义人民的利比亚阿拉伯Jamahiriya，因为一般人民代表大会采用了“关于建立人民权威的声明”。
-- -  1972年：先锋10太空探测器是从佛罗里达州卡纳维拉尔角（Cape Canaveral）推出的，其任务是探索外行星。
-- -  1970年：罗得西亚宣布自己是共和国，打破了与英国王室的最后联系。
-- -  1969年：在法国图卢兹（Toulouse），进行了盎格鲁 - 法国协和的第一次测试飞行。
-- -  1968年：Baggeridge煤矿关闭，标志着黑国300年以上的煤矿开采结束。
-- -  1965年：美国和越南共和国开始对北越的持续轰炸运动滚动雷霆行动。
-- -  1962年：威尔特·张伯伦（Wilt Chamberlain）通过得分100分在国家篮球协会中创造了单场得分纪录。
-- -  1962年：在缅甸，由NE将军获胜的军队在政变中夺取了权力。
-- -  1955年：柬埔寨国王Norodom Sihanouk退位，支持其父亲Norodom Suramarit。
-- -  1949年：詹姆斯·加拉格尔（James Gallagher）上尉在94小时零一分钟内完成了第一架不间断的飞机飞行飞机，在德克萨斯州沃思堡（Fort Worth）登陆了他的B-50超级堡垒Lucky Lady II。
-- -  1943年：第二次世界大战：在Bismarck Sea Allied飞机战役中，击败了日本将部队运送到新几内亚的企图。
-- -  1941年：第二次世界大战：第一部德国军事部队加入轴心协定后进入保加利亚。
-- -  1939年：红衣主教Eugenio Pacelli当选为教皇，并以Pius XII的名字命名。
+- -  2013年：巴基斯坦卡拉奇的炸弹爆炸炸死了至少48人，并在什叶派穆斯林地区主要受伤200人。
+- -  2005年：玛格丽特·威尔逊（Margaret Wilson）被当选为新西兰众议院议长，开始了一个持续到2006年8月23日的时期，那里所有最高的政治办公室（包括伊丽莎白二世（Elizabeth II）作为国家元首）都被妇女占领，使新西兰成为第一个发生这种情况的国家。
+- -  2005年：史蒂夫·福塞特（Steve Fossett）成为第一个在不加油的情况下不停地在世界上驾驶飞机的人。
+- -  2005年：詹姆斯·罗斯科（James Roszko）在他位于艾伯塔省罗奇福特桥（Rochfort Bridge）的财产中毒品胸围中谋杀了四名加拿大皇家警员，然后自杀。这是自1885年以来加拿大皇家骑警和西北叛乱的最致命的和平时间事件。
+- -  1991年：联合航空公司585航班以其对科罗拉多斯普林斯的最终方法撞车撞车，杀死了船上的所有人。
+- -  1991年：业余视频捕捉了洛杉矶警察对罗德尼·金的殴打。
+- -  1986年：1986年《澳大利亚法案》开始，导致澳大利亚完全独立于英国。
+- -  1985年：8.3级地震袭击了智利的瓦尔帕莱索地区，杀死了177人，造成近100万人无家可归。
+- -  1980年：Nautilus USS已退役并遭受海军船只登记册的打击。
+- -  1974年：土耳其航空公司981航班在法国巴黎附近的Ermenonville坠毁，杀死了所有346号。
+- -  1972年：莫霍克航空405航班由于控制故障和紧急程序培训不足而坠毁。
+- -  1969年：阿波罗计划：NASA启动Apollo 9来测试月球模块。
+- -  1958年：努里·萨德（Nuri al-Said）第八次成为伊拉克总理。
+- -  1953年：德哈维兰彗星（加拿大太平洋航空​​公司）在巴基斯坦卡拉奇坠毁，炸死11人。
+- -  1945年：第二次世界大战：皇家空军在荷兰海牙海牙的贝祖登豪特地区造成了错误的炸弹，炸死了511人。
+- -  1944年：从午夜后从意大利巴西利卡塔市的巴尔瓦诺出发后不久，一条货运火车在隧道中载着船上的乘客摊位，其中517名死于一氧化碳中毒。
+- -  1944年：纳基莫夫（Nakhimov）的秩序和乌萨科夫（Ushakov）的秩序是在苏联（USSR）中作为最高的海军奖。
+- -  1943年：第二次世界大战：在伦敦，试图进入Bethnal Green Tube站的空袭庇护所时，有173人被杀害。
+- -  1942年：第二次世界大战：西澳大利亚州的十个日本战机突袭布鲁姆，炸死100多人。
+- -  1940年：在瑞典卢莱奥的共产主义报纸弗拉姆曼的办公室纵火袭击中，有五人被杀。
+- -  1939年：在孟买，莫汉斯·甘地（Mohandas Gandhi）开始抗议对英属印度的专制统治的抗议。
+- -  1938年：在沙特阿拉伯发现了石油。
+- -  1924年：菲姆的自由状态被意大利王国吞并。
+- -  1924年：奥斯曼帝国王朝的哈里发·阿卜杜勒·米奇（CaliphAbdülmecidII）被罢免时被废除了。古老的君主制的最后一残留物被凯马尔·阿塔图尔克（KemalAtatürk）的土耳其取代。
+- -  1923年：《美国杂志时间》发表了第一个问题。
+- -  1918年：俄罗斯签署了布雷斯特·莱托夫斯克条约，同意退出第一次世界大战，并承认德国对波罗的海国家，白俄罗斯和乌克兰的控制权。它还承认了土耳其对Ardahan，Kars和Batumi的控制。
+- -  1913年：成千上万的妇女游行在华盛顿特区的妇女选举权游行。
+- -  1891年：肖肖尼国家森林是美国和世界的第一个国家森林。
+- -  1878年：根据《圣史蒂芬诺条约》，保加利亚恢复了其脱离奥斯曼帝国的独立。
+- -Bizet的Opera Carmen首次在巴黎的Opéra-Comique演出。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-03-02 01:42:27 UTC）*
+*（更新于: 2025-03-03 01:40:46 UTC）*
