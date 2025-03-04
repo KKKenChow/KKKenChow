@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2013: A bomb blast in Karachi, Pakistan, kills at least 48 people and injured 200 others in a predominantly Shia Muslim area.
-- 2005: Margaret Wilson is elected as Speaker of the New Zealand House of Representatives, beginning a period lasting until August 23, 2006, where all the highest political offices (including Elizabeth II as Head of State), were occupied by women, making New Zealand the first country for this to occur.
-- 2005: Steve Fossett becomes the first person to fly an airplane non-stop around the world solo without refueling.
-- 2005: James Roszko murders four Royal Canadian Mounted Police constables during a drug bust at his property in Rochfort Bridge, Alberta, then commits suicide. This is the deadliest peace-time incident for the RCMP since 1885 and the North-West Rebellion.
-- 1991: United Airlines Flight 585 crashes on its final approach to Colorado Springs killing everyone on board.
-- 1991: An amateur video captures the beating of Rodney King by Los Angeles police officers.
-- 1986: The Australia Act 1986 commences, causing Australia to become fully independent from the United Kingdom.
-- 1985: A magnitude 8.3 earthquake strikes the Valparaíso Region of Chile, killing 177 and leaving nearly a million people homeless.
-- 1980: The USS Nautilus is decommissioned and stricken from the Naval Vessel Register.
-- 1974: Turkish Airlines Flight 981 crashes at Ermenonville near Paris, France killing all 346 aboard.
-- 1972: Mohawk Airlines Flight 405 crashes as a result of a control malfunction and insufficient training in emergency procedures.
-- 1969: Apollo program: NASA launches Apollo 9 to test the lunar module.
-- 1958: Nuri al-Said becomes Prime Minister of Iraq for the eighth time.
-- 1953: A De Havilland Comet (Canadian Pacific Air Lines) crashes in Karachi, Pakistan, killing 11 people.
-- 1945: World War II: In poor visibility, the RAF mistakenly bombs the Bezuidenhout area of The Hague, Netherlands, killing 511 people.
-- 1944: A freight train carrying stowaway passengers stalls in a tunnel shortly after departing from Balvano, Basilicata, Italy just after midnight, with 517 dying from carbon monoxide poisoning.
-- 1944: The Order of Nakhimov and Order of Ushakov are instituted in USSR as the highest naval awards.
-- 1943: World War II: In London, 173 people are killed in a crush while trying to enter an air-raid shelter at Bethnal Green tube station.
-- 1942: World War II: Ten Japanese warplanes raid Broome, Western Australia, killing more than 100 people.
-- 1940: Five people are killed in an arson attack on the offices of the communist newspaper Flamman in Luleå, Sweden.
-- 1939: In Bombay, Mohandas Gandhi begins a hunger strike in protest at the autocratic rule in British India.
-- 1938: Oil is discovered in Saudi Arabia.
-- 1924: The Free State of Fiume is annexed by the Kingdom of Italy.
-- 1924: The Ottoman Caliphate is abolished, when the Caliph Abdülmecid II of the Ottoman dynasty is deposed. The last remnant of the old monarchy gives way to the reformed Turkey of Kemal Atatürk.
-- 1923: US magazine Time publishes its first issue.
-- 1918: Russia signs the Treaty of Brest-Litovsk, agreeing to withdraw from World War I, and conceding German control of the Baltic States, Belarus and Ukraine. It also conceded Turkish control of Ardahan, Kars and Batumi.
-- 1913: Thousands of women march in the Woman Suffrage Procession in Washington, D.C.
-- 1891: Shoshone National Forest is established as the first national forest in the US and world.
-- 1878: The Russo-Turkish War ends with Bulgaria regaining its independence from the Ottoman Empire according to the Treaty of San Stefano.
-- Bizet's opera Carmen is first performed at the Opéra-Comique in Paris.: None
+- 2020: Nik Wallenda becomes the first person to walk over the Masaya Volcano in Nicaragua.
+- 2018: Former MI6 spy Sergei Skripal and his daughter are poisoned with a Novichok nerve agent in Salisbury, England, causing a diplomatic uproar that results in mass-expulsions of diplomats from all countries involved.
+- 2015: At least 34 miners die in a suspected gas explosion at the Zasyadko coal mine in the rebel-held Donetsk region of Ukraine.
+- 2012: A series of explosions is reported at a munitions dump in Brazzaville, the capital of the Republic of the Congo, killing at least 250 people.
+- 2009: The International Criminal Court (ICC) issues an arrest warrant for Sudanese President Omar Hassan al-Bashir for war crimes and crimes against humanity in Darfur. Al-Bashir is the first sitting head of state to be indicted by the ICC since its establishment in 2002.
+- 2002: Afghanistan: Seven American Special Operations Forces soldiers and 200 Al-Qaeda Fighters are killed as American forces attempt to infiltrate the Shah-i-Kot Valley on a low-flying helicopter reconnaissance mission.
+- 2001: BBC bombing: A massive car bomb explodes in front of the BBC Television Centre in London, seriously injuring one person; the attack was attributed to the Real IRA.
+- 1998: Gay rights: Oncale v. Sundowner Offshore Services, Inc.: The Supreme Court of the United States rules that federal laws banning on-the-job sexual harassment also apply when both parties are the same sex.
+- 1996: A derailed train in Weyauwega, Wisconsin (USA) causes the emergency evacuation of 2,300 people for 16 days.
+- 1994: Space Shuttle program: the Space Shuttle Columbia is launched on STS-62.
+- 1990: Lennox Sebe, President for life of the South African Bantustan of Ciskei, is ousted from power in a bloodless military coup led by Brigadier Oupa Gqozo.
+- 1990: American basketball player Hank Gathers dies after collapsing during the semifinals of a West Coast Conference tournament game.
+- 1986: The Soviet Vega 1 begins returning images of Halley's Comet and the first images of its nucleus.
+- 1985: The Food and Drug Administration approves a blood test for HIV infection, used since then for screening all blood donations in the United States.
+- 1980: Nationalist leader Robert Mugabe wins a sweeping election victory to become Zimbabwe's first black prime minister.
+- 1977: The 1977 Vrancea earthquake in eastern and southern Europe kills more than 1,500, mostly in Bucharest, Romania.
+- 1976: The Northern Ireland Constitutional Convention is formally dissolved in Northern Ireland resulting in direct rule of Northern Ireland from London by the British parliament.
+- 1970: French submarine Eurydice explodes underwater, resulting in the loss of the entire 57-man crew.
+- 1966: In an interview in the London Evening Standard, The Beatles' John Lennon declares that the band is "more popular than Jesus now".
+- 1966: A Canadian Pacific Air Lines DC-8-43 explodes on landing at Tokyo International Airport, killing 64 people.
+- 1962: A Caledonian Airways Douglas DC-7 crashes shortly after takeoff from Cameroon, killing 111 - the worst crash of a DC-7.
+- 1960: The French freighter La Coubre explodes in Havana, Cuba, killing 100.
+- 1957: The S&P 500 stock market index is introduced, replacing the S&P 90.
+- 1955: An order to protect the endangered Saimaa ringed seal (Pusa hispida saimensis) is legalized.
+- 1946: Field Marshal C. G. E. Mannerheim, the 6th president of Finland, resigns from his position for health reasons.
+- 1944: World War II: After the success of Big Week, the USAAF begins a daylight bombing campaign of Berlin.
+- 1943: World War II: The Battle of Fardykambos, one of the first major battles between the Greek Resistance and the occupying Royal Italian Army, begins. It ends on 6 March with the surrender of an entire Italian battalion and the liberation of the town of Grevena.
+- 1943: World War II: The Battle of the Bismarck Sea in the south-west Pacific comes to an end.
+- 1941: World War II: The United Kingdom launches Operation Claymore on the Lofoten Islands; the first large scale British Commando raid.
+- 1933: The Parliament of Austria is suspended because of a quibble over procedure - Chancellor Engelbert Dollfuss initiates an authoritarian rule by decree.
 
 Data from muffinlabs
-*(Updated at: 2025-03-03 01:40:46 UTC)*
+*(Updated at: 2025-03-04 01:39:34 UTC)*
 
 # 历史上的今天 
 
-- -  2013年：巴基斯坦卡拉奇的炸弹爆炸炸死了至少48人，并在什叶派穆斯林地区主要受伤200人。
-- -  2005年：玛格丽特·威尔逊（Margaret Wilson）被当选为新西兰众议院议长，开始了一个持续到2006年8月23日的时期，那里所有最高的政治办公室（包括伊丽莎白二世（Elizabeth II）作为国家元首）都被妇女占领，使新西兰成为第一个发生这种情况的国家。
-- -  2005年：史蒂夫·福塞特（Steve Fossett）成为第一个在不加油的情况下不停地在世界上驾驶飞机的人。
-- -  2005年：詹姆斯·罗斯科（James Roszko）在他位于艾伯塔省罗奇福特桥（Rochfort Bridge）的财产中毒品胸围中谋杀了四名加拿大皇家警员，然后自杀。这是自1885年以来加拿大皇家骑警和西北叛乱的最致命的和平时间事件。
-- -  1991年：联合航空公司585航班以其对科罗拉多斯普林斯的最终方法撞车撞车，杀死了船上的所有人。
-- -  1991年：业余视频捕捉了洛杉矶警察对罗德尼·金的殴打。
-- -  1986年：1986年《澳大利亚法案》开始，导致澳大利亚完全独立于英国。
-- -  1985年：8.3级地震袭击了智利的瓦尔帕莱索地区，杀死了177人，造成近100万人无家可归。
-- -  1980年：Nautilus USS已退役并遭受海军船只登记册的打击。
-- -  1974年：土耳其航空公司981航班在法国巴黎附近的Ermenonville坠毁，杀死了所有346号。
-- -  1972年：莫霍克航空405航班由于控制故障和紧急程序培训不足而坠毁。
-- -  1969年：阿波罗计划：NASA启动Apollo 9来测试月球模块。
-- -  1958年：努里·萨德（Nuri al-Said）第八次成为伊拉克总理。
-- -  1953年：德哈维兰彗星（加拿大太平洋航空​​公司）在巴基斯坦卡拉奇坠毁，炸死11人。
-- -  1945年：第二次世界大战：皇家空军在荷兰海牙海牙的贝祖登豪特地区造成了错误的炸弹，炸死了511人。
-- -  1944年：从午夜后从意大利巴西利卡塔市的巴尔瓦诺出发后不久，一条货运火车在隧道中载着船上的乘客摊位，其中517名死于一氧化碳中毒。
-- -  1944年：纳基莫夫（Nakhimov）的秩序和乌萨科夫（Ushakov）的秩序是在苏联（USSR）中作为最高的海军奖。
-- -  1943年：第二次世界大战：在伦敦，试图进入Bethnal Green Tube站的空袭庇护所时，有173人被杀害。
-- -  1942年：第二次世界大战：西澳大利亚州的十个日本战机突袭布鲁姆，炸死100多人。
-- -  1940年：在瑞典卢莱奥的共产主义报纸弗拉姆曼的办公室纵火袭击中，有五人被杀。
-- -  1939年：在孟买，莫汉斯·甘地（Mohandas Gandhi）开始抗议对英属印度的专制统治的抗议。
-- -  1938年：在沙特阿拉伯发现了石油。
-- -  1924年：菲姆的自由状态被意大利王国吞并。
-- -  1924年：奥斯曼帝国王朝的哈里发·阿卜杜勒·米奇（CaliphAbdülmecidII）被罢免时被废除了。古老的君主制的最后一残留物被凯马尔·阿塔图尔克（KemalAtatürk）的土耳其取代。
-- -  1923年：《美国杂志时间》发表了第一个问题。
-- -  1918年：俄罗斯签署了布雷斯特·莱托夫斯克条约，同意退出第一次世界大战，并承认德国对波罗的海国家，白俄罗斯和乌克兰的控制权。它还承认了土耳其对Ardahan，Kars和Batumi的控制。
-- -  1913年：成千上万的妇女游行在华盛顿特区的妇女选举权游行。
-- -  1891年：肖肖尼国家森林是美国和世界的第一个国家森林。
-- -  1878年：根据《圣史蒂芬诺条约》，保加利亚恢复了其脱离奥斯曼帝国的独立。
-- -Bizet的Opera Carmen首次在巴黎的Opéra-Comique演出。
+- -  2020年：尼克·沃伦达（Nik Wallenda）成为第一个在尼加拉瓜的马萨亚火山上行走的人。
+- -  2018年：前MI6间谍Sergei Skripal和他的女儿被英格兰索尔兹伯里的Novichok神经毒剂中毒，引起了外交骚动，导致所有参与国家的外交官大规模宣传。
+- -  2015年：至少有34名矿工死于乌克兰叛军持有的顿涅茨克地区的Zasyadko煤矿的可疑气体爆炸。
+- -  2012年：据刚果共和国首都布拉佐维尔的弹药垃圾场报道了一系列爆炸，炸死了至少250人。
+- -  2009年：国际刑事法院（ICC）向苏丹总统奥马尔·哈桑·阿尔·巴希尔（Omar Hassan al-Bashir）颁发了逮捕令，以期在达尔富尔（Darfur）危害人类罪和危害人类罪。自2002年成立以来，Al-Bashir是国际刑事法院（ICC）首位被国际刑事法院（ICC）起诉的国家元首。
+- -  2002年：阿富汗：七名美国特种作战部队士兵和200名基地组织战斗机被杀害，因为美军试图通过低空飞行的直升机侦察任务渗透Shah-i-Kot山谷。
+- -  2001年：英国广播公司（BBC）轰炸：一枚大规模的汽车炸弹在伦敦的BBC电视中心前爆炸，严重伤害了一个人；攻击归因于真正的IRA。
+- -  1998年：同性恋权利：Oncale诉Sundowner Offshore Services，Inc。：美国最高法院的规定，当双方双方都是相同的性别时，联邦法律禁止在职性骚扰也适用。
+- -  1996年：美国威斯康星州韦亚瓦加（Weyauwega）的一名出轨火车导致2300人紧急撤离16天。
+- -  1994年：航天飞机计划：哥伦比亚航天飞机哥伦比亚航天飞机于STS-62发射。
+- -  1990年：南非班塔斯坦（Ciskei）的生命总裁伦诺克斯·塞伯（Lennox Sebe）在由Oupa Gqozo准将中的无血病军事政变中被驱逐出权力。
+- -  1990年：美国篮球运动员汉克（Hank）在西海岸会议锦标赛比赛的半决赛中倒塌后，收集了死亡。
+- -  1986年：苏联Vega 1开始返回Halley彗星的图像及其核的第一批图像。
+- -  1985年：食品药品监督管理局批准了艾滋病毒感染的血液检查，此后用于筛查美国的所有献血。
+- -  1980年：民族主义领导人罗伯特·穆加贝（Robert Mugabe）赢得了津巴布韦首位黑人总理的胜利。
+- -  1977年：东欧和南欧的1977年Vrancea地震造成1,500多人，主要在罗马尼亚布加勒斯特。
+- -  1976年：《北爱尔兰宪法公约》在北爱尔兰正式解散，导致英国议会从伦敦直接统治北爱尔兰。
+- -  1970年：法国潜艇Eurydice在水下爆炸，导致整个57人的船员失去。
+- -  1966年：在伦敦晚间标准的一次采访中，甲壳虫乐队的约翰·列侬（John Lennon）宣布，乐队“现在比耶稣更受欢迎”。
+- -  1966年：加拿大太平洋航空​​公司DC-8-43在东京国际机场降落时爆炸，炸死64人。
+- -  1962年：喀里多尼亚航空公司道格拉斯DC-7在喀麦隆起飞后不久坠毁，杀死了111次 -  DC-7最严重的坠机事故。
+- -  1960年：法国货轮La Coubre在古巴的哈瓦那爆炸，杀死了100。
+- -  1957年：引入了标准普尔500股市指数，取代了标准普尔90指数。
+- -  1955年：保护濒临灭绝的Saimaa环（Pusa hispida saimensis）的命令合法化。
+- -  1946年：芬兰第六任总统菲尔德·C·G·E·曼德海姆（C. G. E. Mandheim）出于健康原因辞职。
+- -  1944年：第二次世界大战：大一周成功之后，美国空军开始了柏林的日光轰炸运动。
+- -  1943年：第二次世界大战：Fardykambos战役是希腊抵抗与占领的皇家意大利军队之间的首次重大战斗之一。它于3月6日结束，整个意大利营的投降和格雷维纳镇的解放。
+- -  1943年：第二次世界大战：西南太平洋的Bismarck海战役即将结束。
+- -  1941年：第二次世界大战：英国在Lofoten群岛推出了Claymore行动；第一个大型英国突击队突袭。
+- -  1933年：奥地利议会由于对程序的疑问而被暂停 - 恩格尔伯特·杜福斯（Engelbert Dollfuss）校长通过法令启动了独裁统治。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-03-03 01:40:46 UTC）*
+*（更新于: 2025-03-04 01:39:34 UTC）*
