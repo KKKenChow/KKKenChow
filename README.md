@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2020: Nik Wallenda becomes the first person to walk over the Masaya Volcano in Nicaragua.
-- 2018: Former MI6 spy Sergei Skripal and his daughter are poisoned with a Novichok nerve agent in Salisbury, England, causing a diplomatic uproar that results in mass-expulsions of diplomats from all countries involved.
-- 2015: At least 34 miners die in a suspected gas explosion at the Zasyadko coal mine in the rebel-held Donetsk region of Ukraine.
-- 2012: A series of explosions is reported at a munitions dump in Brazzaville, the capital of the Republic of the Congo, killing at least 250 people.
-- 2009: The International Criminal Court (ICC) issues an arrest warrant for Sudanese President Omar Hassan al-Bashir for war crimes and crimes against humanity in Darfur. Al-Bashir is the first sitting head of state to be indicted by the ICC since its establishment in 2002.
-- 2002: Afghanistan: Seven American Special Operations Forces soldiers and 200 Al-Qaeda Fighters are killed as American forces attempt to infiltrate the Shah-i-Kot Valley on a low-flying helicopter reconnaissance mission.
-- 2001: BBC bombing: A massive car bomb explodes in front of the BBC Television Centre in London, seriously injuring one person; the attack was attributed to the Real IRA.
-- 1998: Gay rights: Oncale v. Sundowner Offshore Services, Inc.: The Supreme Court of the United States rules that federal laws banning on-the-job sexual harassment also apply when both parties are the same sex.
-- 1996: A derailed train in Weyauwega, Wisconsin (USA) causes the emergency evacuation of 2,300 people for 16 days.
-- 1994: Space Shuttle program: the Space Shuttle Columbia is launched on STS-62.
-- 1990: Lennox Sebe, President for life of the South African Bantustan of Ciskei, is ousted from power in a bloodless military coup led by Brigadier Oupa Gqozo.
-- 1990: American basketball player Hank Gathers dies after collapsing during the semifinals of a West Coast Conference tournament game.
-- 1986: The Soviet Vega 1 begins returning images of Halley's Comet and the first images of its nucleus.
-- 1985: The Food and Drug Administration approves a blood test for HIV infection, used since then for screening all blood donations in the United States.
-- 1980: Nationalist leader Robert Mugabe wins a sweeping election victory to become Zimbabwe's first black prime minister.
-- 1977: The 1977 Vrancea earthquake in eastern and southern Europe kills more than 1,500, mostly in Bucharest, Romania.
-- 1976: The Northern Ireland Constitutional Convention is formally dissolved in Northern Ireland resulting in direct rule of Northern Ireland from London by the British parliament.
-- 1970: French submarine Eurydice explodes underwater, resulting in the loss of the entire 57-man crew.
-- 1966: In an interview in the London Evening Standard, The Beatles' John Lennon declares that the band is "more popular than Jesus now".
-- 1966: A Canadian Pacific Air Lines DC-8-43 explodes on landing at Tokyo International Airport, killing 64 people.
-- 1962: A Caledonian Airways Douglas DC-7 crashes shortly after takeoff from Cameroon, killing 111 - the worst crash of a DC-7.
-- 1960: The French freighter La Coubre explodes in Havana, Cuba, killing 100.
-- 1957: The S&P 500 stock market index is introduced, replacing the S&P 90.
-- 1955: An order to protect the endangered Saimaa ringed seal (Pusa hispida saimensis) is legalized.
-- 1946: Field Marshal C. G. E. Mannerheim, the 6th president of Finland, resigns from his position for health reasons.
-- 1944: World War II: After the success of Big Week, the USAAF begins a daylight bombing campaign of Berlin.
-- 1943: World War II: The Battle of Fardykambos, one of the first major battles between the Greek Resistance and the occupying Royal Italian Army, begins. It ends on 6 March with the surrender of an entire Italian battalion and the liberation of the town of Grevena.
-- 1943: World War II: The Battle of the Bismarck Sea in the south-west Pacific comes to an end.
-- 1941: World War II: The United Kingdom launches Operation Claymore on the Lofoten Islands; the first large scale British Commando raid.
-- 1933: The Parliament of Austria is suspended because of a quibble over procedure - Chancellor Engelbert Dollfuss initiates an authoritarian rule by decree.
+- 2023: A group of four prisoners escape from the Nouakchott Civil Prison, before being caught the next day.
+- 2023: The 2023 Estonian parliamentary election is held, with two centre-right liberal parties gaining an absolute majority for the first time.
+- 2021: Twenty people are killed and 30 injured in a suicide car bombing in Mogadishu, Somalia.
+- 2021: Pope Francis begins a historical visit to Iraq amidst the COVID-19 pandemic.
+- 2018: Syrian civil war: The Syrian Democratic Forces (SDF) pause the Deir ez-Zor campaign due to the Turkish-led invasion of Afrin.
+- 2012: Two people are killed and six more are injured in a shooting at a hair Salon in Bucharest, Romania.
+- 2012: Tropical Storm Irina kills over 75 as it passes through Madagascar.
+- 2011: An Antonov An-148 crashes in Russia's Alexeyevsky District, Belgorod Oblast during a test flight, killing all seven aboard.
+- 2003: In Haifa, 17 Israeli civilians are killed in the Haifa bus 37 suicide bombing.
+- 2002: An earthquake in Mindanao, Philippines, kills 15 people and injures more than 100.
+- 2001: In Mina, Saudi Arabia, 35 pilgrims are killed in a stampede on the Jamaraat Bridge during the Hajj.
+- 1993: Palair Macedonian Airlines Flight 301 crashes at Skopje International Airport in Petrovec, North Macedonia, killing 83.
+- 1991: Aeropostal Alas de Venezuela Flight 109 crashes in Venezuela, killing 45.
+- 1982: Soviet probe Venera 14 lands on Venus.
+- 1981: The ZX81, a pioneering British home computer, is launched by Sinclair Research and would go on to sell over 1.mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}1⁄2 million units around the world.
+- 1979: Soviet probes Venera 11, Venera 12 and the German-American solar satellite Helios II all are hit by "off the scale" gamma rays leading to the discovery of soft gamma repeaters.
+- 1978: The Landsat 3 is launched from Vandenberg Air Force Base in California.
+- 1974: Yom Kippur War: Israeli forces withdraw from the west bank of the Suez Canal.
+- 1973: An Iberia McDonnell Douglas DC-9 collide in mid-air with a Spantax Convair 990 Coronado over Nantes, France, killing all 68 people aboard the DC-9, including music manager Michael Jeffery.
+- 1970: The Treaty on the Non-Proliferation of Nuclear Weapons goes into effect after ratification by 43 nations.
+- 1968: Air France Flight 212 crashes into La Grande Soufrière, killing all 63 aboard.
+- 1967: Lake Central Airlines Flight 527 crashes near Marseilles, Ohio, killing 38.
+- 1966: BOAC Flight 911, a Boeing 707 aircraft, breaks apart in mid-air due to clear-air turbulence and crashes into Mount Fuji, Japan, killing all 124 people on board.
+- 1965: March Intifada: A Leftist uprising erupts in Bahrain against the British colonial presence.
+- 1963: Aeroflot Flight 191 crashes while landing at Aşgabat International Airport, killing 12.
+- 1963: American country music stars Patsy Cline, Hawkshaw Hawkins, Cowboy Copas and their pilot Randy Hughes are killed in a plane crash in Camden, Tennessee.
+- 1960: Indonesian President Sukarno dismissed the Dewan Perwakilan Rakyat (DPR), 1955 democratically elected parliament, and replaced with DPR-GR, the parliament of his own selected members.
+- 1957: Sutton Wick air crash a Blackburn Beverley of 53 Squadron, Royal Air Forces, crashes into the village of Sutton Wick, Berkshire (now Oxfordshire) killing most of the crew and passengers and two local residents.
+- 1953: Joseph Stalin, the longest serving leader of the Soviet Union, dies at his Volynskoe dacha in Moscow after suffering a cerebral hemorrhage four days earlier.
+- 1946: Cold War: Winston Churchill coins the phrase "Iron Curtain" in his speech at Westminster College, Missouri.
 
 Data from muffinlabs
-*(Updated at: 2025-03-04 01:39:34 UTC)*
+*(Updated at: 2025-03-05 01:39:18 UTC)*
 
 # 历史上的今天 
 
-- -  2020年：尼克·沃伦达（Nik Wallenda）成为第一个在尼加拉瓜的马萨亚火山上行走的人。
-- -  2018年：前MI6间谍Sergei Skripal和他的女儿被英格兰索尔兹伯里的Novichok神经毒剂中毒，引起了外交骚动，导致所有参与国家的外交官大规模宣传。
-- -  2015年：至少有34名矿工死于乌克兰叛军持有的顿涅茨克地区的Zasyadko煤矿的可疑气体爆炸。
-- -  2012年：据刚果共和国首都布拉佐维尔的弹药垃圾场报道了一系列爆炸，炸死了至少250人。
-- -  2009年：国际刑事法院（ICC）向苏丹总统奥马尔·哈桑·阿尔·巴希尔（Omar Hassan al-Bashir）颁发了逮捕令，以期在达尔富尔（Darfur）危害人类罪和危害人类罪。自2002年成立以来，Al-Bashir是国际刑事法院（ICC）首位被国际刑事法院（ICC）起诉的国家元首。
-- -  2002年：阿富汗：七名美国特种作战部队士兵和200名基地组织战斗机被杀害，因为美军试图通过低空飞行的直升机侦察任务渗透Shah-i-Kot山谷。
-- -  2001年：英国广播公司（BBC）轰炸：一枚大规模的汽车炸弹在伦敦的BBC电视中心前爆炸，严重伤害了一个人；攻击归因于真正的IRA。
-- -  1998年：同性恋权利：Oncale诉Sundowner Offshore Services，Inc。：美国最高法院的规定，当双方双方都是相同的性别时，联邦法律禁止在职性骚扰也适用。
-- -  1996年：美国威斯康星州韦亚瓦加（Weyauwega）的一名出轨火车导致2300人紧急撤离16天。
-- -  1994年：航天飞机计划：哥伦比亚航天飞机哥伦比亚航天飞机于STS-62发射。
-- -  1990年：南非班塔斯坦（Ciskei）的生命总裁伦诺克斯·塞伯（Lennox Sebe）在由Oupa Gqozo准将中的无血病军事政变中被驱逐出权力。
-- -  1990年：美国篮球运动员汉克（Hank）在西海岸会议锦标赛比赛的半决赛中倒塌后，收集了死亡。
-- -  1986年：苏联Vega 1开始返回Halley彗星的图像及其核的第一批图像。
-- -  1985年：食品药品监督管理局批准了艾滋病毒感染的血液检查，此后用于筛查美国的所有献血。
-- -  1980年：民族主义领导人罗伯特·穆加贝（Robert Mugabe）赢得了津巴布韦首位黑人总理的胜利。
-- -  1977年：东欧和南欧的1977年Vrancea地震造成1,500多人，主要在罗马尼亚布加勒斯特。
-- -  1976年：《北爱尔兰宪法公约》在北爱尔兰正式解散，导致英国议会从伦敦直接统治北爱尔兰。
-- -  1970年：法国潜艇Eurydice在水下爆炸，导致整个57人的船员失去。
-- -  1966年：在伦敦晚间标准的一次采访中，甲壳虫乐队的约翰·列侬（John Lennon）宣布，乐队“现在比耶稣更受欢迎”。
-- -  1966年：加拿大太平洋航空​​公司DC-8-43在东京国际机场降落时爆炸，炸死64人。
-- -  1962年：喀里多尼亚航空公司道格拉斯DC-7在喀麦隆起飞后不久坠毁，杀死了111次 -  DC-7最严重的坠机事故。
-- -  1960年：法国货轮La Coubre在古巴的哈瓦那爆炸，杀死了100。
-- -  1957年：引入了标准普尔500股市指数，取代了标准普尔90指数。
-- -  1955年：保护濒临灭绝的Saimaa环（Pusa hispida saimensis）的命令合法化。
-- -  1946年：芬兰第六任总统菲尔德·C·G·E·曼德海姆（C. G. E. Mandheim）出于健康原因辞职。
-- -  1944年：第二次世界大战：大一周成功之后，美国空军开始了柏林的日光轰炸运动。
-- -  1943年：第二次世界大战：Fardykambos战役是希腊抵抗与占领的皇家意大利军队之间的首次重大战斗之一。它于3月6日结束，整个意大利营的投降和格雷维纳镇的解放。
-- -  1943年：第二次世界大战：西南太平洋的Bismarck海战役即将结束。
-- -  1941年：第二次世界大战：英国在Lofoten群岛推出了Claymore行动；第一个大型英国突击队突袭。
-- -  1933年：奥地利议会由于对程序的疑问而被暂停 - 恩格尔伯特·杜福斯（Engelbert Dollfuss）校长通过法令启动了独裁统治。
+- -  2023年：一群四名囚犯从第二天被捕，然后从诺克乔特民事监狱逃脱。
+- -2023：举行了2023年的爱沙尼亚议会选举，两个中右翼的自由党首次获得绝对多数。
+- -2021：索马里摩加迪沙的自杀式汽车炸弹炸弹炸死20人，30人受伤。
+- -  2021年：教皇方济各在19日大流行期间开始对伊拉克进行历史访问。
+- -  2018年：叙利亚内战：叙利亚民主力量（SDF）由于土耳其为主导的阿夫林入侵而停止了Deir EZ-Zor运动。
+- -  2012年：在罗马尼亚布加勒斯特的一家美发沙龙枪击事件中，有两人被杀，六人受伤。
+- -  2012年：热带风暴伊琳娜（Irina）经过马达加斯加（Madagascar），杀死了75多个。
+- -  2011年：在测试飞行期间，Antonov AN-148在俄罗斯的Alexeyevsky区坠毁，杀死了所有七人。
+- -  2003年：在海法，在海法公共汽车37自杀炸弹袭击中，有17名以色列平民被杀。
+- -  2002年：菲律宾棉兰老岛的地震造成15人丧生，并造成100多人伤害。
+- -  2001年：在沙特阿拉伯的米纳，在朝j期间在贾马拉特桥的一条踩踏事件中杀死了35名朝圣者。
+- -  1993年：马其顿帕莱尔航空公司301航班在马其顿北部彼得罗韦的斯科普里国际机场坠毁，造成83人丧生。
+- -  1991年：委内瑞拉航班109航班航空公司的Aeropostal Alas de Fripting造成45人丧生。
+- -  1982年：苏联探针Venera 14土地在金星上。
+- -  1981年：ZX81是一款开创性的英国家用计算机，由Sinclair Research启动，并将继续销售1.mw-parser-Output .frac {whiterap}。。0px）;高度：1px;边距：-1px;溢出：隐藏；填充：0;位置：绝对;宽度：1px} 1⁄200万个单位。
+- -  1979年：苏联探测器Venera 11，Venera 12和德国太阳卫星Helios II都受到“规模降低”伽玛射线的打击，导致发现了软伽马中继器。
+- -  1978年：Landsat 3是从加利福尼亚的Vandenberg空军基地发射的。
+- -  1974年：Yom Kippur战争：以色列部队从苏伊士运河西岸撤出。
+- -  1973年：伊比利亚麦克唐纳·道格拉斯DC-9在空中碰撞的是法国南特的Spantax Corvair 990 Coronado，杀死了包括音乐经理Michael Jeffery在内的DC-9上的所有68人。
+- -  1970年：在43个国家批准后，核武器不扩散的条约生效。
+- -  1968年：法国航班212航班撞上了拉格里夫·苏夫里埃（La GrandeSoufrière），杀死了全部63号船。
+- -  1967年：中央航空公司湖527航班在俄亥俄州马赛附近撞车，杀死38号。
+- -  1966年：BOAC 911飞机是一架波音707架飞机，由于清晰的湍流而在空中闯入，并撞向日本富士山，杀死了所有124人船上。
+- -  1965年：三月起义：巴林反对英国殖民地存在的左派起义爆发。
+- -  1963年：Aeroflot航班191航班在降落在Aşgabat国际机场时坠毁，杀死12人。
+- -  1963年：美国乡村音乐明星Patsy Cline，Hawkshaw Hawkins，Cowboy Copas和他们的飞行员Randy Hughes在田纳西州卡姆登的一次飞机失事中被杀。
+- -  1960年：印尼总统苏卡诺（Sukarno）驳回了1955年民主选举的议会的德万·佩瓦基兰·拉基特（DPR）（DPR），并由他自己选定成员的议会DPR-GR取代。
+- -  1957年：萨顿·威克（Sutton Wick）空气坠毁，皇家空军53中队的布莱克本·贝弗利（Blackburn Beverley）撞上了伯克希尔（现为牛津郡）萨顿·威克（Sutton Wick）村庄，杀死了大多数机组人员，乘客，两名当地居民。
+- -  1953年：苏联任职时间最长的领导人约瑟夫·斯大林（Joseph Stalin）在四天前患有脑出血后，在莫斯科的沃尔林斯科·达查（Volynskoe Dacha）死亡。
+- -  1946年：冷战：温斯顿·丘吉尔（Winston Churchill）在他在密苏里州威斯敏斯特学院的演讲中写下了“铁幕”一词。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-03-04 01:39:34 UTC）*
+*（更新于: 2025-03-05 01:39:18 UTC）*
