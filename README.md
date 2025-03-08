@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024- Hannah Gutierrez-Reed is found guilty of involuntary manslaughter in the death of Halyna Hutchins on the set of the movie Rust, the first time someone has been found guilty for causing a death on a movie set.[25]: None
-- 2024: Sweden officially joins NATO, becoming its 32nd member.
-- 2021: At least 108 die and 615 are injured in the 2021 Bata explosions in Bata, Equatorial Guinea.
-- 2009: The Real Irish Republican Army kills two British soldiers and injures two other soldiers and two civilians at Massereene Barracks, the first British military deaths in Northern Ireland since the end of The Troubles.
-- 2007: Garuda Indonesia Flight 200 crashes at Adisutjipto International Airport in the Special Region of Yogyakarta, Indonesia, killing 21 people.
-- 2007: Reform of the House of Lords: The British House of Commons votes to make the upper chamber, the House of Lords, 100% elected.
-- 2006: The terrorist organisation Lashkar-e-Taiba coordinates a series of bombings in Varanasi, India.
-- 1993: The tugboat Thomas Hebert sank off the coast of New Jersey, USA.
-- 1989: Iran and the United Kingdom break diplomatic relations after a fight over Salman Rushdie and his controversial novel, The Satanic Verses.
-- 1987: Lieyu massacre: Taiwanese military massacre of 19 unarmed Vietnamese refugees at Donggang, Lieyu, Kinmen.
-- 1986: Challenger Disaster: Divers from the USS Preserver locate the crew cabin of Challenger on the ocean floor.
-- 1971: Sheikh Mujibur Rahman, political leader of then East Pakistan (present day-Bangladesh), delivers his historic 7th March speech in the Racecourse Field (Now Suhrawardy Udyan) in Dhaka.
-- 1968: Vietnam War: The United States and South Vietnamese military begin Operation Truong Cong Dinh to root out Viet Cong forces from the area surrounding Mỹ Tho.
-- 1965: Aeroflot Flight 542 crashes in the Yermakovsky District, killing all 31 aboard.
-- 1965: Bloody Sunday: A group of 600 civil rights marchers are brutally attacked by state and local police in Selma, Alabama.
-- 1951: Iranian prime minister Ali Razmara is assassinated by Khalil Tahmasebi, a member of the Islamic fundamentalist Fada'iyan-e Islam, outside a mosque in Tehran.
-- 1951: Korean War: Operation Ripper: United Nations troops led by General Matthew Ridgway begin an assault against Chinese forces.
-- 1951: Northwest Orient Airlines Flight 307 crashes in Lynnhurst, Minneapolis, killing 15 people.
-- 1941: Günther Prien and the crew of German submarine U-47, one of the most successful U-boats of World War II, disappear without a trace.
-- 1931: The Parliament House of Finland is officially inaugurated in Helsinki, Finland.
-- 1921: The short-lived socialist Labin Republic is proclaimed.
-- 1902: Second Boer War: Boers, led by Koos de la Rey, defeat the British at the Battle of Tweebosch.
-- 1876: Alexander Graham Bell is granted a patent for an invention he calls the "telephone".
-- 1850: Senator Daniel Webster gives his "Seventh of March" speech endorsing the Compromise of 1850 in order to prevent a possible civil war.
-- 1826: Shrigley abduction: 15-year old Ellen Turner is abducted by Edward Gibbon Wakefield, a future figure in the establishment of colonies in South Australia and New Zealand.
-- 1814: Emperor Napoleon I of France wins the Battle of Craonne.
-- 1799: Napoleon Bonaparte captures Jaffa in Palestine and his troops proceed to kill more than 2,000 Albanian captives.
-- 1573: A peace treaty is signed between the Ottoman Empire and the Republic of Venice, ending the Ottoman-Venetian War and leaving Cyprus in Ottoman hands.
-- 1277: The University of Paris issues the last in a series of condemnations of various philosophical and theological theses.
-- 1138: Konrad III von Hohenstaufen was elected king of Germany at Coblenz in the presence of the papal legate Theodwin.
+- 2021: Twenty-eight political institutions in Myanmar establish the National Unity Consultative Council, a historic alliance of ethnic armed organizations and democratically elected leaders in response to the 2021 Myanmar coup d'état
+- 2021: International Women's Day marches in Mexico become violent with 62 police officers and 19 civilians injured in Mexico City alone.
+- 2018: The first Aurat March (social/political demonstration) was held being International Women's Day in Karachi, Pakistan, since then annually held  across Pakistan and feminist slogan Mera Jism Meri Marzi (My body, my choice), in demand for women's right to bodily autonomy and against gender-based violence came into vogue in Pakistan.
+- 2017: The Azure Window, a natural arch on the Maltese island of Gozo, collapses in stormy weather.
+- 2014: In one of aviation's greatest mysteries, Malaysia Airlines Flight 370, carrying a total of 239 people, disappears en route from Kuala Lumpur to Beijing. The fate of the flight remains unknown.
+- 2010: Headlined by Hulk Hogan and Ric Flair, TNA Wrestling moved its flagship program, TNA Impact!, to Monday night. This effort to go "big time live" failed but is notable in the history of professional wrestling television.
+- 2004: A new constitution is signed by Iraq's Governing Council.
+- 1994: A collision at Indira Gandhi International Airport kills 9 people.
+- 1988: Aeroflot Flight 3379 is hijacked by the Ovechkin family and diverted to Veshchevo in the Soviet Union.
+- 1985: A supposed failed assassination attempt on Islamic cleric Sayyed Mohammad Hussein Fadlallah in Beirut, Lebanon kills 80 and injures 200 others.
+- 1983: Cold War: While addressing a convention of Evangelicals, U.S. President Ronald Reagan labels the Soviet Union an "evil empire".
+- 1979: Images taken by Voyager 1 prove the existence of volcanoes on Io, a moon of Jupiter.
+- 1979: Philips demonstrates the compact disc publicly for the first time.
+- 1966: Nelson's Pillar in Dublin, Ireland, is destroyed by a bomb.
+- 1965: Aeroflot Flight 513 crashes during takeoff from Kuybyshev Airport, killing 30 and injuring 9.
+- 1965: Vietnam War: US Marines arrive at Da Nang.
+- 1963: The Ba'ath Party comes to power in Syria in a coup d'état.
+- 1962: A Turkish Airlines Fokker F27 Friendship crashes into Mount Medetsiz in the Taurus Mountains of Turkey, killing all 11 people on board.
+- 1950: The iconic Volkswagen Type 2 "Bus" begins production.
+- 1942: World War II: Imperial Japanese Army forces captured Rangoon, Burma from British.
+- 1942: World War II: The Dutch East Indies surrender Java to the Imperial Japanese Army.
+- 1937: Spanish Civil War: The Battle of Guadalajara begins.
+- 1936: Daytona Beach and Road Course holds its first oval stock car race.
+- 1924: A mine disaster kills 172 coal miners near Castle Gate, Utah.
+- 1921: Spanish Prime Minister Eduardo Dato Iradier is assassinated while on his way home from the parliament building in Madrid.
+- 1917: The United States Senate votes to limit filibusters by adopting the cloture rule.
+- 1917: International Women's Day protests in Petrograd mark the beginning of the February Revolution (February 23 in the Julian calendar).
+- 1916: World War I: A British force unsuccessfully attempts to relieve the siege of Kut (present-day Iraq) in the Battle of Dujaila.
+- 1910: French aviator Raymonde de Laroche becomes the first woman to receive a pilot's license.
+- 1868: Sakai incident: Japanese samurai kill 11 French sailors in the port of Sakai, Osaka.
 
 Data from muffinlabs
-*(Updated at: 2025-03-07 01:40:05 UTC)*
+*(Updated at: 2025-03-08 01:13:59 UTC)*
 
 # 历史上的今天 
 
-- -2024-汉娜·古铁雷斯·里德（Hannah Gutierrez-Reed）在电影《锈》（Rust）的halyna hutchins死亡中被判犯有非自愿杀人罪。
-- -  2024年：瑞典正式加入北约，成为其第32位成员。
-- -2021：在赤道几内亚的Bata的2021年BATA爆炸中，至少有108个死亡和615人受伤。
-- -  2009年：真正的爱尔兰共和军杀死了两名英国士兵，并在马塞雷尼军营中炸伤了另外两名士兵和两名平民，这是麻烦结束以来北爱尔兰的第一次英国军事死亡。
-- -  2007年：印度尼西亚的Garuda飞行200撞车在印度尼西亚州长特别地区的Adisutjipto国际机场撞车，炸死21人。
-- -  2007年：上议院改革：英国下议院投票使上议院，上议院100％当选。
-- -  2006年：恐怖组织Lashkar-e-Taiba在印度瓦拉纳西（Varanasi）协调了一系列轰炸。
-- -  1993年：拖船托马斯·赫伯特（Thomas Hebert）在美国新泽西州的海岸下沉。
-- -  1989年：伊朗和英国在与萨尔曼·拉什迪（Salman Rushdie）的战斗和他有争议的小说《撒旦诗》（The Satanic Verses）之后，破坏了外交关系。
-- -  1987年：lieyu大屠杀：台湾军事大屠杀，在金门，列尤东冈的19名无武装越南难民。
-- -  1986年：挑战者灾难：USS Preserver的潜水员在海底找到挑战者的机组人员。
-- -  1971年：当时的东巴基斯坦（当今孟加拉国）的政治领导人谢赫·穆吉布尔·拉赫曼（Sheikh Mujibur Ra​​hman）在达卡（Dhaka）在赛马场（现为苏鲁瓦迪·乌迪恩（Suhrawardy Udyan））中发表了他历史悠久的7月7日演讲。
-- -  1968年：越南战争：美国和南越军事开始行动Truong Cong Dinh行动，将越野部队从MỹTho周围的地区扎根。
-- -  1965年：Yermakovsky区的Aeroflot 542航班坠毁，杀死了所有31号。
-- -  1965年：血腥的星期日：一群600名民权游行者在阿拉巴马州塞尔玛（Selma）残酷地袭击了州和地方警察。
-- -  1951年：伊朗总理阿里·拉兹马拉（Ali Razmara）被伊斯兰原教旨主义者Fada'iyan-e Islam的成员Khalil Tahmasebi暗杀了德黑兰的一座清真寺。
-- -  1951年：朝鲜战争：开膛手行动：由马修·里奇威将军领导的联合国部队开始对中国部队袭击。
-- -  1951年：西北东方航空公司307航班在明尼阿波利斯的林恩赫斯特（Lynnhurst）撞车，炸死15人。
-- -  1941年：GüntherPrien和第二次世界大战最成功的U-47潜艇U-47潜艇的船员消失了。
-- -  1931年：芬兰议会大厦在芬兰的赫尔辛基正式揭幕。
-- -  1921年：宣布短暂的社会主义拉林共和国。
-- -  1902年：第二波尔战争：布尔斯（Boers），由Koos de la Rey领导，在Tweebosch战役中击败了英国人。
-- -  1876年：亚历山大·格雷厄姆·贝尔（Alexander Graham Bell）获得了他称为“电话”的发明的专利。
-- -  1850年：参议员丹尼尔·韦伯斯特（Daniel Webster）发表了他的“ 3月第七次”演讲，以认可1850年的妥协，以防止可能的内战。
-- -  1826年：什里格利绑架：15岁的艾伦·特纳（Ellen Turner）被爱德华·吉本·韦克菲尔德（Edward Gibbon Wakefield）绑架，这是在南澳大利亚和新西兰建立殖民地的未来人物。
-- -  1814年：法国的拿破仑皇帝赢得了克雷恩战役。
-- -  1799年：拿破仑·波拿巴（Napoleon Bonaparte）在巴勒斯坦占领贾法（Jaffa），他的部队继续杀死2,000多名阿尔巴尼亚俘虏。
-- -1573：奥斯曼帝国和威尼斯共和国之间签署了一项和平条约，结束了奥斯曼帝国战争，并将塞浦路斯留在奥斯曼帝国的手中。
-- -1277：巴黎大学在一系列对各种哲学和神学论文的谴责中发表了最后一部。
-- -1138：康拉德三世冯·霍恩斯托芬（Konrad III）在罗马教皇西奥德温（Theodwin）在场的情况下当选为德国国王。
+- -2021：缅甸的二十八个政治机构建立了国家统一咨询委员会，这是一个历史性的武装组织和民主选举的领导人，以应对2021年缅甸政变
+- -  2021年：仅在墨西哥城，国际妇女节游行在墨西哥游行，有62名警察和19名平民受伤。
+- -  2018年：自那时以来，每年在巴基斯坦卡拉奇举行的国际妇女节举行了第一次Aurat March（社会/政治示威活动），此后每年在巴基斯坦和女权主义的口号Mera Meri Meri Meri Meri Meri Marzi（我的身体，我的选择）中举行，对妇女的身体自主权和反对基于性别的暴力的要求陷入了Vogue。
+- -  2017年：蓝龙岛上的天然拱门，戈佐岛的天然拱门在暴风雨的天气下倒塌。
+- -  2014年：在航空中最大的奥秘之一中，马来西亚航空公司370航班总共239人，在从吉隆坡到北京的途中消失了。飞行的命运仍然未知。
+- -  2010年：TNA Wrestling以Hulk Hogan和Ric Flair为头条，将其旗舰计划TNA Impact！的标题转移到了星期一晚上。这项“大时光现场”的努力失败了，但在专业摔跤电视的历史上是值得注意的。
+- -  2004年：伊拉克理事会签署了一项新的宪法。
+- -  1994年：Indira Gandhi国际机场发生的碰撞杀死了9人。
+- -  1988年：Aeroflot 3379被Ovechkin家族劫持，并转移到苏联的Veshchevo。
+- -  1985年：假定对伊斯兰牧师赛义德·穆罕默德·侯赛因·法德拉拉（Mohammad Hussein Fadlallah）的暗杀企图，黎巴嫩杀死80人，炸伤200人。
+- -  1983年：冷战：美国总统罗纳德·里根（Ronald Reagan）在谈到福音派大会时，将苏联标记为“邪恶帝国”。
+- -  1979年：Voyager 1拍摄的图像证明了木星月亮上的火山存在。
+- -  1979年：飞利浦首次公开演示紧凑型光盘。
+- -  1966年：爱尔兰都柏林的纳尔逊支柱被炸弹摧毁。
+- -  1965年：从库伊比雪夫机场起飞期间，Aeroflot 513航班坠毁，造成30人丧生，受伤9。
+- -  1965年：越南战争：美国海军陆战队到达唐。
+- -  1963年：巴特党在叙利亚以政变上台。
+- -  1962年：一家土耳其航空公司Fokker F27友谊坠毁在土耳其金牛座山上的梅塞兹山，杀死了船上的所有11人。
+- -  1950年：标志性的大众2型“总线”开始生产。
+- -  1942年：第二次世界大战：日本帝国军队从英国占领了仰光，缅甸。
+- -  1942年：第二次世界大战：荷兰东部印度群岛向日本帝国军队投降了爪哇。
+- -  1937年：西班牙内战：瓜达拉哈拉战役开始。
+- -  1936年：代托纳海滩和道路路线举行了首次椭圆形股票赛车。
+- -  1924年：一场地雷灾难杀死了犹他州城堡门附近的172个煤矿工人。
+- -  1921年：西班牙总理爱德华多·迪多·伊拉迪尔（Eduardo Dato Iradier）在从马德里议会大楼回家的路上被暗杀。
+- -  1917年：美国参议院投票通过采用盘列规则来限制filibususters。
+- -  1917年：彼得格勒（Petrograd）的国际妇女节抗议活动标志着2月革命开始（朱利安日历2月23日）。
+- -  1916年：第一次世界大战：一支英国部队未能成功地试图在杜哈伊拉战役中缓解库特（现今伊拉克）的围攻。
+- -  1910年：法国飞行员雷蒙德·德·拉罗奇（Raymonde de Laroche）成为第一个获得飞行员执照的女性。
+- -  1868年：Sakai事件：日本武士在大阪萨凯港杀死11名法国水手。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-03-07 01:40:05 UTC）*
+*（更新于: 2025-03-08 01:13:59 UTC）*
