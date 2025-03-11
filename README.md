@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: 2024 Portuguese legislative election: Elections are held in Portugal for all 230 seats in the Assembly of the Republic. The Partido Socialista loses its absolute majority to the Partido Social Democrata, winning 77 and 79 seats respectively.
-- 2023: Silicon Valley Bank collapses due to a run on its deposits, in the second largest bank failure in US history. Its operations are taken over by the FDIC.
-- 2022: 2022 Hungarian presidential election: The National Assembly of Hungary elects former minister for Family Affairs, Katalin Novák, as president of Hungary in a 137-51 vote, becoming the first female president in the country's history.
-- 2019: Ethiopian Airlines Flight 302, a Boeing 737 MAX, crashes shortly after take off, killing all 157 passengers and crew. This and the prior Lion Air Flight 610 led to all 387 Boeing 737 MAX aircraft being grounded worldwide.
-- 2017: The impeachment of President Park Geun-hye of South Korea in response to a major political scandal is unanimously upheld by the country's Constitutional Court, ending her presidency.
-- 2006: The Mars Reconnaissance Orbiter arrives at Mars.
-- 2000: The Dot-com bubble peaks with the NASDAQ Composite stock market index reaching 5,048.62.
-- 1991: 1991 Salvadoran legislative election: The Nationalist Republican Alliance wins 39 of the 84 seats in the Legislative Assembly of El Salvador.
-- 1990: In Haiti, Prosper Avril is ousted eighteen months after seizing power in a coup d'état in September 1988.
-- 1989: Air Ontario Flight 1363, a Fokker F-28 Fellowship, crashes at Dryden Regional Airport in Dryden, Ontario, Canada, killing 24.
-- 1982: Syzygy: All nine planets recognized at this time — Mercury to Pluto — align on the same side of the Sun.
-- 1979: 1979 International Women's Day protests in Tehran: Protestor involvement peaks with 15,000 Iranian women and girls performing a three‐hour-long sit‐in at the Courthouse of Tehran.
-- 1977: Astronomers discover the rings of Uranus.
-- 1975: Vietnam War: Ho Chi Minh Campaign: North Vietnamese troops attack Ban Mê Thuột in the South on their way to capturing Saigon in the final push for victory over South Vietnam.
-- 1974: 1974 Belgian general election: Elections are held in Belgium for all 212 seats in the Chamber of Representatives, the Belgian Socialist Party taking the majority with 59.
-- 1971: John Gorton resigns as Prime Minister of Australia and the leader of the Liberal Party of Australia after a secret ballot vote of confidence, being replaced in both positions by William McMahon.
-- 1970: Vietnam War: Captain Ernest Medina is charged by the U.S. military with My Lai war crimes.
-- 1969: In Memphis, Tennessee, James Earl Ray pleads guilty to assassinating Martin Luther King Jr. He later unsuccessfully attempts to recant.
-- 1966: Military Prime Minister of South Vietnam Nguyễn Cao Kỳ sacks rival General Nguyễn Chánh Thi, precipitating large-scale civil and military dissension in parts of the nation.
-- 1959: Tibetan uprising: Fearing an abduction attempt by China, thousands of Tibetans surround the Dalai Lama's palace to prevent his removal.
-- 1952: Fulgencio Batista leads a successful coup in Cuba.
-- 1949: Mildred Gillars ("Axis Sally") is convicted of treason.
-- 1945: World War II: The U.S. Army Air Force firebombs Tokyo, and the resulting conflagration kills more than 100,000 people, mostly civilians.
-- 1944: Greek Civil War: The Political Committee of National Liberation is established in Greece by the National Liberation Front.
-- 1933: The Long Beach earthquake affects the Greater Los Angeles Area, leaving around 108 people dead.
-- 1922: Mahatma Gandhi is arrested in India, tried for sedition, and sentenced to six years in prison, only to be released after nearly two years for an appendicitis operation.
-- 1909: By signing the Anglo-Siamese Treaty of 1909, Thailand relinquishes its sovereignty over the Malay states of Kedah, Kelantan, Perlis and Terengganu, which become British protectorates.
-- 1906: The Courrières mine disaster, Europe's worst ever, kills 1099 miners in northern France.
-- 1891: Almon Strowger patents the Strowger switch, a device which led to the automation of telephone circuit switching.
-- 1876: The first successful test of a telephone is made by Alexander Graham Bell.
+- 2023: The Burmese military kills at least 30 villagers, including 3 Buddhist monks, during the Pinlaung massacre in Shan State, Myanmar.
+- 2021: US President Joe Biden signs the $1.9 trillion American Rescue Plan into law.
+- 2020: The World Health Organization (WHO) declares the COVID-19 virus epidemic a pandemic.
+- 2018: A Bombardier Challenger 604 crashes into the Zagros Mountains near the Iranian city of Shar-e-kord, killing all 11 people on board.
+- 2012: A U.S. soldier kills 16 civilians in the Panjwayi District of Afghanistan near Kandahar.
+- 2011: An earthquake measuring 9.0 in magnitude strikes 130 km (81 mi) east of Sendai, Japan, triggering a tsunami killing thousands of people. This event also triggered the second largest nuclear accident in history, and one of only two events to be classified as a Level 7 on the International Nuclear Event Scale.
+- 2010: Economist and businessman Sebastián Piñera is sworn in as President of Chile. Aftershocks of the 2010 Pichilemu earthquakes hit central Chile during the ceremony.
+- 2009: Winnenden school shooting: Fifteen are killed and nine are injured before recent graduate Tim Kretschmer shoots and kills himself, leading to tightened weapons restrictions in Germany.
+- 2006: Michelle Bachelet is inaugurated as the first female president of Chile.
+- 2004: Madrid train bombings: Simultaneous explosions on rush hour trains in Madrid, Spain kill 191 people.
+- 2003: The International Criminal Court holds its inaugural session in The Hague.
+- 1990: Patricio Aylwin is sworn in as the first democratically elected President of Chile since 1970.
+- 1990: Lithuania declares independence from the Soviet Union.
+- 1985: Mikhail Gorbachev is elected to the position of General Secretary of the Communist Party of the Soviet Union, making Gorbachev the USSR's de facto, and last, head of state.
+- 1983: Bob Hawke is appointed Prime Minister of Australia.
+- 1982: Fifteen people are killed when Widerøe Flight 933 crashes into the Barents Sea near Gamvik, Norway.
+- 1981: Hundreds of students protest in the University of Pristina in Kosovo, then part of Yugoslavia, to give their province more political rights. The protests then became a nationwide movement.
+- 1978: Coastal Road massacre: At least 37 are killed and more than 70 are wounded when Fatah hijack an Israeli bus, prompting Israel's Operation Litani.
+- 1977: The 1977 Hanafi Siege: Around 150 hostages held in Washington, D.C., by Hanafi Muslims are set free after ambassadors from three Islamic nations join negotiations.
+- 1946: Rudolf Höss, the first commandant of Auschwitz concentration camp, is captured by British troops.
+- 1945: World War II: The Empire of Vietnam, a short-lived Japanese puppet state, is established.
+- 1945: World War II:  The Imperial Japanese Navy attempts a large-scale kamikaze attack on the U.S. Pacific Fleet anchored at Ulithi atoll in Operation Tan No. 2.
+- 1941: World War II: United States President Franklin D. Roosevelt signs the Lend-Lease Act into law, allowing American-built war supplies to be shipped to the Allies on loan.
+- 1927: In New York City, Samuel Roxy Rothafel opens the Roxy Theatre.
+- 1917: World War I: Mesopotamian campaign: Baghdad falls to Anglo-Indian forces commanded by General Frederick Stanley Maude.
+- 1888: The Great Blizzard of 1888 begins along the eastern seaboard of the United States, shutting down commerce and killing more than 400 people.
+- 1879: Shō Tai formally abdicates his position of King of Ryūkyū, under orders from Tokyo, ending the Ryukyu Kingdom.
+- 1872: Construction of the Seven Sisters Colliery, South Wales, begins; it is located on one of the richest coal sources in Britain.
+- 1864: The Great Sheffield Flood kills 238 people in Sheffield, England.
+- 1861: American Civil War: The Constitution of the Confederate States of America is adopted.
 
 Data from muffinlabs
-*(Updated at: 2025-03-10 01:17:27 UTC)*
+*(Updated at: 2025-03-11 01:40:09 UTC)*
 
 # 历史上的今天 
 
-- -2024：2024葡萄牙立法选举：选举在共和国大会的所有230个席位上在葡萄牙举行。Partido Socialista将绝对多数席位输给了Partido社会民主党，分别赢得了77和79个席位。
-- -  2023年：硅谷银行由于其存款的运行而倒塌，在美国历史上的第二大银行失败中。它的操作由FDIC接管。
-- -2022：2022匈牙利总统大选：匈牙利国民议会选举前家庭事务部长卡塔琳·诺克（KatalinNovák）担任匈牙利总统，以137-51的投票成为该国历史上的第一位女总统。
-- -  2019年：埃塞俄比亚航空公司302航班，波音737 Max，起飞后不久坠毁，杀死了所有157名乘客和机组人员。这与先前的狮子航空公司610号飞行导致了所有387波音737 Max飞机均扎根于全球。
-- -  2017年：该国宪法法院一致维持了韩国帕克总统Geun-hye的弹each，以应对重大的政治丑闻，以结束总统任期。
-- -  2006年：火星侦察轨道轨道到达火星。
-- -2000：纳斯达克综合股市指数的互联网气泡峰达到5,048.62。
-- -1991：1991萨尔瓦多立法选举：民族主义共和党联盟在萨尔瓦多立法会议中赢得了84个席位中的39个。
-- -  1990年：在海地，在1988年9月在一次政变中夺取权力的十八个月后，在海地被罢免了18个月。
-- -  1989年：安大略省空中航班1363年的Fokker F-28奖学金，在加拿大安大略省德莱顿的德莱顿地区机场坠毁，杀死了24人。
-- -  1982年：syzygy：目前认可的所有九个行星 - 汞到冥王星 - 在太阳的同一侧对齐。
-- -  1979年：1979年在德黑兰举行的国际妇女节抗议活动：抗议者参与与15,000名伊朗妇女和女孩在德黑兰法院进行了三个小时的坐姿。
-- -  1977年：天文学家发现了天王星的环。
-- -  1975年：越南战争：胡志明战役：北越军队在南部的北越南军队袭击了南部，以夺取西贡的途中，以争取击败南越南部的最终胜利。
-- -  1974年：1974年比利时大选：选举在比利时举行，在众议院的所有212个席位上举行，比利时社会主义党以59占多数。
-- -  1971年：约翰·戈顿（John Gorton）辞去澳大利亚总理和澳大利亚自由党的领导人的辞职，在秘密投票投票投票后，被威廉·麦克马洪（William McMahon）在这两个职位上取代。
-- -  1970年：越南战争：欧内斯特·麦地那上尉被美国军方指控我的莱战争罪。
-- -  1969年：在田纳西州的孟菲斯，詹姆斯·伯爵·雷（James Earl Ray）认罪，暗杀小马丁·路德·金（Martin Luther King Jr.）。
-- -  1966年：南越南nguyễncaokỳ袋装竞争对手NguyễnChánhThi将军，在全国范围的部分地区促成大规模的民事和军事分歧。
-- -  1959年：藏族起义：担心中国的绑架企图，成千上万的藏人围绕着达赖喇嘛的宫殿，以防止他撤离。
-- -  1952年：Fulgencio Batista在古巴领导了一项成功的政变。
-- -  1949年：Mildred Gillars（“ Axis Sally”）被判叛国罪。
-- -  1945年：第二次世界大战：东京美国陆军空军火炸弹，由此产生的大火造成100,000多人，主要是平民。
-- -  1944年：希腊内战：民族解放政治委员会是由民族解放阵线在希腊成立的。
-- -  1933年：长滩地震影响了大洛杉矶地区，约有108人死亡。
-- -  1922年：圣雄甘地在印度被捕，审判了煽动叛乱，并被判处六年徒刑，直到将近两年的阑尾炎手术后被释放。
-- -  1909年：通过签署1909年的《盎格鲁 - 西亚姆条约》，泰国放弃了其对凯达，凯兰丹，佩尔利斯和孟加努的马来州的主权，后者成为英国保护者。
-- -  1906年：欧洲有史以来最糟糕的库里尔矿山灾难在法国北部杀死了1099个矿工。
-- -1891：Almon Strowger为Strowger开关提供了专利，该设备导致了电话电路开关的自动化。
-- -  1876年：亚历山大·格雷厄姆·贝尔（Alexander Graham Bell）进行了第一次成功的电话测试。
+- -  2023年：在缅甸山州的Pinlaung大屠杀期间，缅甸军方至少杀死了30名村民，包括3名佛教僧侣。
+- -  2021年：美国总统乔·拜登（Joe Biden）签署了1.9万亿美元的美国救援计划。
+- -  2020年：世界卫生组织（WHO）宣布COVID-19病毒流行为大流行。
+- -  2018年：庞巴迪挑战者604坠毁进入伊朗城市Shar-e-Kord附近的扎格罗斯山脉，杀死了船上的所有11人。
+- -  2012年：一名美国士兵在坎大哈附近的阿富汗Panjwayi区杀死16名平民。
+- -  2011年：日本仙台以东130公里（81英里）的地震幅度为9.0，造成海啸杀害数千人。这项事件还引发了历史上第二大核事故，而在国际核活动量表上仅将两项被归类为7级的事件之一。
+- -  2010年：经济学家和商人塞巴斯蒂·皮涅拉（SebastiánPiñera）宣誓就职智利总裁。仪式上，2010年皮奇勒姆地震的余震袭击了智利中部。
+- -  2009年：温嫩登学校的枪击事件：15人被杀，九人受伤，在最近的毕业生蒂姆·克雷施默（Tim Kretschmer）拍摄并自杀，导致德国的武器限制受到收紧。
+- -  2006年：米歇尔·巴切莱特（Michelle Bachelet）是智利的第一任女总统。
+- -  2004年：马德里火车爆炸案：西班牙马德里的高峰时间火车上的同时爆炸炸死191人。
+- -  2003年：国际刑事法院在海牙举行了就职会议。
+- -  1990年：自1970年以来，帕特里奥·艾尔温（Patricio Aylwin）宣誓就任智利的第一位民主选举。
+- -  1990年：立陶宛宣布与苏联独立。
+- -  1985年：米哈伊尔·戈尔巴乔夫（Mikhail Gorbachev）当选为苏联共产党秘书长的职位，使戈尔巴乔夫（Gorbachev）成为苏联的事实上，最后是国家元首。
+- -  1983年：鲍勃·霍克（Bob Hawke）被任命为澳大利亚总理。
+- -  1982年：当Widerøe933航班撞向挪威Gamvik附近的Barents Sea时，有15人被杀。
+- -  1981年：当时是南斯拉夫一部分的科索沃普里斯蒂纳大学的数百名学生抗议，以赋予其省更多的政治权利。抗议活动随后成为全国运动。
+- -  1978年：沿海公路大屠杀：当法塔赫劫持以色列公共汽车时，至少有37人被杀，有70多人受伤，促使以色列行动的行动。
+- -  1977年：1977年的哈纳菲（Hanafi）围困：哈纳菲穆斯林（Hanafi Muslims）在华盛顿特区举行的大约150名人质，在三个伊斯兰国家大使加入谈判之后，将释放。
+- -  1946年：奥斯威辛集中营的第一位指挥官鲁道夫·霍斯斯（RudolfHöss）被英军俘虏。
+- -  1945年：第二次世界大战：越南帝国是一个短暂的日本木偶国家。
+- -  1945年：第二次世界大战：日本帝国海军试图对锚定在棕褐色2号行动的Ulithi Atoll的美国太平洋舰队进行大规模的Kamikaze攻击。
+- -  1941年：第二次世界大战：美国总统富兰克林·罗斯福（Franklin D.
+- -  1927年：在纽约市，塞缪尔·罗克西·罗塔菲尔（Samuel Roxy Rothafel）开设了罗克西剧院。
+- -  1917年：第一次世界大战：美索不达米亚运动：巴格达瀑布归弗雷德里克·史丹利·莫德将军指挥的盎格鲁 - 印度军队。
+- -  1888年：1888年的大暴风雪始于美国东部沿海地区，关闭商业并杀死了400多人。
+- -  1879年：ShōTai正式放弃了他在东京的命令下的Ryūkyūking的地位，结束了Ryukyu王国。
+- -  1872年：建造七个姐妹，南威尔士州煤矿，开始；它位于英国最富有的煤炭来源之一。
+- -  1864年：大谢菲尔德洪水在英格兰谢菲尔德杀死了238人。
+- -  1861年：美国内战：美国同盟国的宪法被采用。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-03-10 01:17:27 UTC）*
+*（更新于: 2025-03-11 01:40:09 UTC）*
