@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: Burmese security forces kill at least 65 civilians in the Hlaingthaya massacre.
-- 2019: Cyclone Idai makes landfall near Beira, Mozambique, causing devastating floods and over 1,000 deaths.
-- 2017: A naming ceremony for the chemical element nihonium takes place in Tokyo, with then Crown Prince Naruhito in attendance.
-- 2008: A series of riots, protests, and demonstrations erupt in Lhasa and subsequently spread elsewhere in Tibet.
-- 2007: The Nandigram violence in Nandigram, West Bengal, results in the deaths of at least 14 people.
-- 2006: Operation Bringing Home the Goods: Israeli troops raid an American-supervised Palestinian prison in Jericho to capture six Palestinian prisoners, including PFLP chief Ahmad Sa'adat.
-- 2006: The 2006 Chadian coup d'état attempt ends in failure.
-- 1995: Norman Thagard becomes the first American astronaut to ride to space on board a Russian launch vehicle.
-- 1988: In the Johnson South Reef Skirmish Chinese forces defeat Vietnamese forces in an altercation over control of one of the Spratly Islands.
-- 1982: The South African government bombs the headquarters of the African National Congress in London.
-- 1980: LOT Polish Airlines Flight 007 crashes during final approach near Warsaw, Poland, killing 87 people, including a 14-man American boxing team.
-- 1979: Alia Royal Jordanian Flight 600 crashes at Doha International Airport, killing 45 people.
-- 1978: The Israel Defense Forces launch Operation Litani, a seven-day campaign to invade and occupy southern Lebanon.
-- 1972: Sterling Airways Flight 296 crashes near Kalba, United Arab Emirates while on approach to Dubai International Airport, killing 112 people.
-- 1967: The body of U.S. President John F. Kennedy is moved to a permanent burial place at Arlington National Cemetery.
-- 1964: Jack Ruby is convicted of killing Lee Harvey Oswald, the assumed assassin of John F. Kennedy.
-- 1961: A USAF B-52 bomber carrying nuclear weapons crashes near Yuba City, California.
-- 1951: Korean War: United Nations troops recapture Seoul for the second time.
-- 1945: The R.A.F. drop the Grand Slam bomb in action for the first time, on a railway viaduct near Bielefeld, Germany.
-- 1943: The Holocaust: The liquidation of the Kraków Ghetto is completed.
-- 1942: Anne Miller becomes the first American patient to be treated with penicillin, under the care of Orvan Hess and John Bumstead.
-- 1939: Slovakia declares independence under German pressure.
-- 1931: Alam Ara, India's first talking film, is released.
-- 1926: The El Virilla train accident, Costa Rica, kills 248 people and wounds another 93 when a train falls off a bridge over the Río Virilla between Heredia and Tibás.
-- 1923: Charlie Daly and three other members of the Irish Republican Army are executed by Irish Free State forces.
-- 1921: Six members of a group of Irish Republican Army activists known as the Forgotten Ten, are hanged in Dublin's Mountjoy Prison.
-- 1920: In the second of the 1920 Schleswig plebiscites, about 80% of the population in Zone II votes to remain part of Weimar Germany.
-- 1903: Pelican Island National Wildlife Refuge, the first national wildlife refuge in the US, is established by President Theodore Roosevelt.
-- 1901: Utah governor Heber Manning Wells vetoes a bill that would have eased restriction on polygamy.
-- 1900: The Gold Standard Act is ratified, placing the United States currency on the gold standard.
+- 2022: The 2022 Sri Lankan protests begins amidst Sri Lanka's economic collapse.
+- 2019: Approximately 1.4 million young people in 123 countries go on strike to protest climate change.
+- 2019: Beginning of the 2019-20 Hong Kong protests.
+- 2019: Fifty-one people are killed in the Christchurch mosque shootings.
+- 2011: Beginning of the Syrian Civil War.
+- 2008: Stockpiles of obsolete ammunition explode at an ex-military ammunition depot in the village of Gërdec, Albania, killing 26 people.
+- 1991: Cold War: The Treaty on the Final Settlement with Respect to Germany comes into effect, granting full sovereignty to the Federal Republic of Germany.
+- 1990: Mikhail Gorbachev is elected as the first President of the Soviet Union.
+- 1986: Collapse of Hotel New World: Thirty-three people die when the Hotel New World in Singapore collapses.
+- 1978: Somalia and Ethiopia signed a truce to end the Ethio-Somali War.
+- 1974: Fifteen people are killed when Sterling Airways Flight 901, a Sud Aviation Caravelle, catches fire following a landing gear collapse at Mehrabad International Airport in Tehran, Iran.
+- 1965: President Lyndon B. Johnson, responding to the Selma crisis, tells U.S. Congress "We shall overcome" while advocating the Voting Rights Act.
+- 1961: At the 1961 Commonwealth Prime Ministers' Conference, South Africa announces that it will withdraw from the Commonwealth when the South African Constitution of 1961 comes into effect.
+- 1951: Iranian oil industry is nationalized.
+- 1943: World War II: Third Battle of Kharkiv: The Germans retake the city of Kharkiv from the Soviet armies.
+- 1939: Carpatho-Ukraine declares itself an independent republic, but is annexed by Hungary the next day.
+- 1939: Germany occupies Czechoslovakia.
+- 1927: The first Women's Boat Race between the University of Oxford and the University of Cambridge takes place on The Isis in Oxford.
+- 1922: After Egypt gains nominal independence from the United Kingdom, Fuad I becomes King of Egypt.
+- 1921: Talaat Pasha, former Grand Vizir of the Ottoman Empire and chief architect of the Armenian genocide is assassinated in Berlin by a 23-year-old Armenian, Soghomon Tehlirian.
+- 1919: The American Legion is founded.
+- 1919: Ukrainian War of Independence: The Kontrrazvedka is established as the counterintelligence division of the Revolutionary Insurgent Army of Ukraine.
+- 1918: Finnish Civil War: The battle of Tampere begins.
+- 1917: Tsar Nicholas II of Russia abdicates the Russian throne, ending the 304-year Romanov dynasty.
+- 1907: The first parliamentary elections of Finland (at the time the Grand Duchy of Finland) are held.
+- 1888: Start of the Anglo-Tibetan War of 1888.
+- 1877: First ever official cricket test match is played: Australia vs England at the MCG Stadium, in Melbourne, Australia.
+- 1875: Archbishop of New York John McCloskey is named the first cardinal in the United States.
+- 1874: France and Vietnam sign the Second Treaty of Saigon, further recognizing the full sovereignty of France over Cochinchina.
+- 1848: A revolution breaks out in Hungary, and the Habsburg rulers are compelled to meet the demands of the reform party.
 
 Data from muffinlabs
-*(Updated at: 2025-03-14 01:38:58 UTC)*
+*(Updated at: 2025-03-15 01:38:21 UTC)*
 
 # 历史上的今天 
 
-- -  2021年：缅甸安全部队在Hlaingthaya大屠杀中杀死了至少65名平民。
-- -  2019年：Cyclone Idai在莫桑比克贝拉附近登陆，造成毁灭性的洪水和1000多人死亡。
-- -  2017年：化学元素nihonium的命名仪式在东京举行，当时的纳鲁希托王储出席了会议。
-- -  2008年：拉萨（Lhasa）的一系列暴动，抗议和示威游行，随后在西藏其他地方散布。
-- -  2007年：西孟加拉邦Nandigram的Nandigram暴力行为导致至少14人死亡。
-- -  2006年：将货物带回家的行动：以色列部队在耶利哥袭击了一名美国监督的巴勒斯坦监狱，占领了包括PFLP首席艾哈迈德·萨阿达特（Ahmad Sa'adat）在内的六名巴勒斯坦囚犯。
-- -  2006年：2006年乍得政变的尝试以失败结束。
-- -  1995年：诺曼·塔加德（Norman Thagard）成为第一位乘坐俄罗斯发射车上乘坐太空的美国宇航员。
-- -  1988年：在约翰逊南礁小规模冲突中，中国军队在控制了其中一个斯普拉特群岛的争执中击败了越南军队。
-- -  1982年：南非政府在伦敦非洲国民大会的总部炸弹。
-- -  1980年：波兰航空公司007航班在波兰华沙附近的最后一个进近期间撞车，杀死了87人，其中包括一支14人的美国拳击队。
-- -  1979年：阿里亚皇家约旦600航班在多哈国际机场撞车，造成45人丧生。
-- -  1978年：以色列国防军发射行动Litani，这是为期7天的入侵和占领黎巴嫩南部的运动。
-- -  1972年：阿拉伯联合酋长国卡尔巴附近的斯特林航空公司（Sterling Airways）航班在前往迪拜国际机场的驶入时撞车，造成112人丧生。
-- -  1967年：美国总统肯尼迪的尸体被移至阿灵顿国家公墓的永久墓地。
-- -  1964年：杰克·鲁比（Jack Ruby）被判杀害约翰·肯尼迪（John F. Kennedy）的刺客李·哈维·奥斯瓦尔德（Lee Harvey Oswald）罪名成立。
-- -  1961年：一名USAF B-52轰炸机携带核武器坠毁在加利福尼亚州尤巴市附近。
-- -  1951年：朝鲜战争：联合国军队第二次夺回首尔。
-- -  1945年：R.A.F.第一次将大满贯炸弹放在德国比勒菲尔德附近的铁路高架桥上。
-- -  1943年：大屠杀：克拉科夫贫民窟的清算完成。
-- -  1942年：在Orvan Hess和John Bumstead的照顾下，安妮·米勒（Anne Miller）成为第一位接受青霉素治疗的美国患者。
-- -  1939年：斯洛伐克在德国压力下宣布独立。
-- -  1931年：印度第一部谈话电影阿拉姆·阿拉（Alam Ara）发行。
-- -  1926年：哥斯达黎加的El Virilla火车事故造成248人丧生，当火车从Heredia和Tibás之间的RíoVirilla上桥上驶过一座桥时，造成了93人伤口。
-- -  1923年：查理·戴利（Charlie Daly）和爱尔兰共和党的其他三名成员由爱尔兰自由州军队处决。
-- -  1921年：一群爱尔兰共和党激进主义者的六名成员被称为“被遗忘的十”，被绞死在都柏林的山乔伊监狱中。
-- -  1920年：在1920年的Schleswig全民投票中，大约80％的II区投票人口保留了魏玛德国的一部分。
-- -  1903年：鹈鹕岛国家野生动物保护区是美国第一个国家野生动物保护区，由总统西奥多·罗斯福（Theodore Roosevelt）建立。
-- -  1901年：犹他州州长赫伯·曼宁·威尔斯（Heber Manning Wells）否决了一项法案，该法案将减轻对一夫多妻制的限制。
-- -  1900年：批准了《黄金标准法》，将美国的货币置于黄金标准上。
+- -  2022年：2022年斯里兰卡抗议活动开始于斯里兰卡的经济崩溃。
+- -  2019年：123个国家的大约140万年轻人罢工以抗议气候变化。
+- -  2019年：2019  -  20年香港抗议活动的开始。
+- -  2019年：在基督城清真寺枪击事件中被杀害了五十一人。
+- -  2011年：叙利亚内战的开始。
+- -  2008年：过时的弹药库存在阿尔巴尼亚盖尔德克村的一个前军事弹药库中爆炸，炸死26人。
+- -  1991年：冷战：关于德国最终解决的条约生效，授予德国联邦共和国的完全主权。
+- -  1990年：米哈伊尔·戈尔巴乔夫（Mikhail Gorbachev）当选为苏联的第一任总统。
+- -  1986年：新世界酒店的崩溃：新加坡的新世界倒塌时，有33人死亡。
+- -  1978年：索马里和埃塞俄比亚签署了一场休战，以结束埃塞俄比亚 - 索马里战争。
+- -  1974年：当斯特林航空公司901号航班（Sud Aviation Caravelle）在伊朗德黑兰的Mehrabad国际机场发生着陆齿轮倒塌后，15人丧生。
+- -  1965年：对塞尔玛危机的回应，林登·约翰逊（Lyndon B. Johnson）总统告诉美国国会“我们将克服”，同时倡导《投票权法》。
+- -  1961年：在1961年联邦总理会议上，南非宣布，1961年南非宪法生效后，它将退出联邦。
+- -  1951年：伊朗石油行业被国有化。
+- -  1943年：第二次世界大战：哈尔基夫的第三战：德国人从苏联军队中夺回了哈尔基夫市。
+- -  1939年：卡尔托斯 - 乌克兰（Carpatho-Ikraine）宣布自己是一个独立的共和国，但第二天被匈牙利吞并。
+- -  1939年：德国占据了捷克斯洛伐克。
+- -  1927年：牛津大学和剑桥大学之间的第一场女子船比赛发生在牛津的ISIS。
+- -  1922年：埃及从英国获得名义独立后，福阿德一世成为埃及国王。
+- -  1921年：奥斯曼帝国的前大维吉尔，亚美尼亚种族灭绝的首席建筑师在柏林被23岁的亚美尼亚人Soghomon Tehlirian暗杀。
+- -  1919年：美国军团是建立的。
+- -  1919年：乌克兰独立战争：Kontrrazvedka被确立为乌克兰革命叛乱军的反情报师。
+- -  1918年：芬兰内战：坦佩雷战役开始。
+- -  1917年：俄罗斯的沙皇尼古拉斯二世（Tsar Nicholas II）放弃了俄罗斯宝座，结束了304年的罗曼诺夫王朝。
+- -  1907年：举行了芬兰的第一次议会选举（芬兰大公国）。
+- -  1888年：1888年盎格鲁藏族战争的开始。
+- -  1877年：有史以来首场官方板球测试比赛：澳大利亚澳大利亚澳大利亚墨尔本的MCG体育场的澳大利亚与英格兰。
+- -  1875年：纽约大主教约翰·麦克洛斯基（John McCloskey）被评为美国的第一个红衣主教。
+- -  1874年：法国和越南签署了西贡第二条条约，进一步认识到法国对科钦基纳的主权。
+- -  1848年：一场革命在匈牙利爆发，哈布斯堡统治者被迫满足改革党的要求。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-03-14 01:38:58 UTC）*
+*（更新于: 2025-03-15 01:38:21 UTC）*
