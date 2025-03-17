@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Mariupol theatre airstrike during the siege of Mariupol.
-- 2022: A 7.4-magnitude earthquake occurs off the coast of Fukushima, Japan, killing 4 people and injuring 225.
-- 2021: Atlanta spa shootings: Eight people are killed and one is injured in a trio of shootings at spas in and near Atlanta, Georgia, U.S. A suspect is arrested the same day.
-- 2020: The Dow Jones Industrial Average falls by 2,997.10, the single largest point drop in history and the second-largest percentage drop ever at 12.93%, an even greater crash than Black Monday (1929). This follows the U.S. Federal Reserve announcing that it will cut its target interest rate to 0-0.25%.
-- 2016: Two suicide bombers detonate their explosives at a mosque during morning prayer on the outskirts of Maiduguri, Nigeria, killing 24 and injuring 18.
-- 2016: A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 30.
-- 2014: Crimea votes in a controversial referendum to secede from Ukraine to join Russia.
-- 2012: Former Indian cricketer Sachin Tendulkar becomes the first batter in history to score 100 centuries in international cricket.
-- 2010: The Kasubi Tombs, Uganda's only cultural World Heritage Site, are destroyed in a fire.
-- 2005: Israel officially hands over Jericho to Palestinian control.
-- 2003: American activist Rachel Corrie is killed in Rafah by being run over by an Israel Defense Forces bulldozer while trying to obstruct the demolition of a home.
-- 2001: A series of bomb blasts in the city of Shijiazhuang, China kill 108 people and injure 38 others, the biggest mass murder in China in decades.
-- 1995: Mississippi formally ratifies the Thirteenth Amendment to the United States Constitution, becoming the last state to approve the abolition of slavery. The Thirteenth Amendment was officially ratified in 1865.
-- 1988: The Troubles: Ulster loyalist militant Michael Stone attacks a Provisional IRA funeral in Belfast with pistols and grenades. Three persons, one of them a member of PIRA are killed, and more than 60 others are wounded.
-- 1988: Halabja chemical attack: The Kurdish town of Halabja in Iraq is attacked with a mix of poison gas and nerve agents on the orders of Saddam Hussein, killing 5,000 people and injuring about 10,000 people.
-- 1988: Iran-Contra affair: Lieutenant Colonel Oliver North and Vice Admiral John Poindexter are indicted on charges of conspiracy to defraud the United States.
-- 1985: Associated Press newsman Terry Anderson is taken hostage in Beirut; he is not released until December 1991.
-- 1984: William Buckley, the CIA station chief in Lebanon, is kidnapped by Hezbollah; he later dies in captivity.
-- 1979: Sino-Vietnamese War: The People's Liberation Army crosses the border back into China, ending the war.
-- 1978: Supertanker Amoco Cadiz splits in two after running aground on the Portsall Rocks, three miles off the coast of Brittany, resulting in the largest oil spill in history at that time.
-- 1978: A Balkan Bulgarian Airlines Tupolev Tu-134 crashes near Gabare, Bulgaria, killing 73.
-- 1978: Former Italian Prime Minister Aldo Moro is kidnapped; he is later murdered by his captors.
-- 1977: Assassination of Kamal Jumblatt, the main leader of the anti-government forces in the Lebanese Civil War.
-- 1969: A Viasa McDonnell Douglas DC-9 crashes in Maracaibo, Venezuela, killing 155.
-- 1968: Vietnam War: My Lai massacre occurs; between 347 and 500 Vietnamese villagers are killed by American troops.
-- 1966: Launch of Gemini 8 with astronauts Neil Armstrong and David Scott. It would perform the first docking of two spacecraft in orbit.
-- 1962: Flying Tiger Line Flight 739 disappears in the western Pacific Ocean with all 107 aboard missing and presumed dead.
-- 1945: Ninety percent of Würzburg, Germany is destroyed in only 20 minutes by British bombers, resulting in at least 4,000 deaths.
-- 1945: World War II: The Battle of Iwo Jima ends, but small pockets of Japanese resistance persist.
-- 1941: Operation Appearance takes place to re-establish British Somaliland
+- 2016: Rojava conflict: At a conference in Rmelan, the Movement for a Democratic Society declares the establishment of the Democratic Federation of Northern Syria.
+- 2004: Unrest in Kosovo: More than 22 are killed and 200 wounded. Thirty-five Serbian Orthodox shrines in Kosovo and two mosques in Serbia are destroyed.
+- 2003: Leader of the House of Commons and Lord President of the Council, Robin Cook, resigns from the British Cabinet in disagreement with government plans for the 2003 invasion of Iraq.
+- 2000: Five hundred and thirty members of the Ugandan cult Movement for the Restoration of the Ten Commandments of God die in a fire, considered to be a mass murder or suicide orchestrated by leaders of the cult. Elsewhere another 248 members are later found dead.
+- 1992: A referendum to end apartheid in South Africa is passed 68.7% to 31.2%.
+- 1992: Israeli Embassy attack in Buenos Aires: Car bomb attack kills 29 and injures 242.
+- 1988: Eritrean War of Independence: The Nadew Command, an Ethiopian army corps in Eritrea, is attacked on three sides by military units of the Eritrean People's Liberation Front in the opening action of the Battle of Afabet.
+- 1988: A Colombian Boeing 727 jetliner, Avianca Flight 410, crashes into a mountainside near the Venezuelan border killing 143.
+- 1985: Serial killer Richard Ramirez, aka the "Night Stalker", commits the first two murders in his Los Angeles murder spree.
+- 1979: The Penmanshiel Tunnel collapses during engineering works, killing two workers.
+- 1973: The Pulitzer Prize-winning photograph Burst of Joy is taken, depicting a former prisoner of war being reunited with his family, which came to symbolize the end of United States involvement in the Vietnam War.
+- 1969: Golda Meir becomes the first female Prime Minister of Israel.
+- 1968: As a result of nerve gas testing by the U.S. Army Chemical Corps in Skull Valley, Utah, over 6,000 sheep are found dead.
+- 1966: Off the coast of Spain in the Mediterranean, the DSV Alvin submarine finds a missing American hydrogen bomb.
+- 1963: Mount Agung erupts on Bali killing more than 1,100 people.
+- 1960: Northwest Orient Airlines Flight 710 crashes in Tobin Township, Perry County, Indiana, killing 63.
+- 1960: U.S. President Dwight D. Eisenhower signs the National Security Council directive on the anti-Cuban covert action program that will ultimately lead to the Bay of Pigs Invasion.
+- 1958: The United States launches the first solar-powered satellite, which is also the first satellite to achieve a long-term orbit.
+- 1957: A plane crash in Cebu, Philippines kills Philippine President Ramon Magsaysay and 24 others.
+- 1950: Researchers at the University of California, Berkeley announce the creation of element 98, which they name "californium".
+- 1948: Belgium, France, Luxembourg, the Netherlands and the United Kingdom sign the Treaty of Brussels, a precursor to the North Atlantic Treaty establishing NATO.
+- 1945: The Ludendorff Bridge in Remagen, Germany, collapses, ten days after its capture.
+- 1942: Holocaust: The first Jews from the Lvov Ghetto are gassed at the Belzec death camp in what is today eastern Poland.
+- 1921: The Second Polish Republic adopts the March Constitution.
+- 1891: SS Utopia collides with HMS Anson in the Bay of Gibraltar and sinks, killing 562 of the 880 passengers on board.
+- 1862: The first railway line of Finland between cities of Helsinki and Hämeenlinna, called Päärata, is officially opened.
+- 1861: The Kingdom of Italy is proclaimed.
+- 1860: The First Taranaki War begins in Taranaki, New Zealand, a major phase of the New Zealand Wars.
+- 1842: The Female Relief Society of Nauvoo is formally organized with Emma Smith as president.
+- 1824: The Anglo-Dutch Treaty is signed in London, dividing the Malay archipelago. As a result, the Malay Peninsula is dominated by the British, while Sumatra and Java and surrounding areas are dominated by the Dutch.
 
 Data from muffinlabs
-*(Updated at: 2025-03-16 01:46:02 UTC)*
+*(Updated at: 2025-03-17 01:43:16 UTC)*
 
 # 历史上的今天 
 
-- -  2022年：玛丽奥波尔剧院在围困野马期间空袭。
-- -  2022年：日本福岛沿海发生7.4级地震，杀死了4人，受伤225。
-- -  2021年：亚特兰大水疗枪击事件：八人丧生，其中1人在美国乔治亚州亚特兰大的Spas及其附近的三人枪击中受伤。
-- -  2020年：道琼斯工业平均水平下降了2,997.10，这是历史上最大的点下降，有史以来第二大率下降了12.93％，比黑色星期一（1929年）更大的崩溃。这是在美国美联储宣布将其目标利率降低到0-0.25％的情况下。
-- -  2016年：两名自杀炸弹袭击者在尼日利亚Maiduguri郊区的晨间祈祷期间在清真寺爆炸，杀死24人，炸伤18。
-- -  2016年：一辆炸弹在巴基斯坦白沙瓦的一辆公共汽车上引爆，炸死15人，至少受伤30人。
-- -  2014年：克里米亚在有争议的全民公决中投票通过乌克兰加入俄罗斯。
-- -  2012年：前印度板球运动员Sachin Tendulkar成为历史上第一个在国际板球比赛中得分100世纪的击球手。
-- -  2010年：乌干达唯一的文化世界遗产Kasubi坟墓在大火中被摧毁。
-- -  2005年：以色列正式将耶利哥交给巴勒斯坦控制。
-- -  2003年：美国激进主义者雷切尔·科里（Rachel Corrie）在拉法（Rafah）被以色列国防军推土机撞倒，同时试图阻止拆除房屋。
-- -  2001年：中国什叶邦市的一系列炸弹爆炸炸死了108人，伤害了38人，这是中国数十年来最大的大规模谋杀案。
-- -  1995年：密西西比州正式批准了《美国宪法》第十三修正案，成为批准废除奴隶制的最后一个国家。第十三修正案于1865年正式批准。
-- -  1988年：麻烦：阿尔斯特忠诚主义激进的迈克尔·斯通（Michael Stone）用手枪和手榴弹袭击了贝尔法斯特的临时IRA葬礼。三个人，其中一个人是皮拉（Pira）成员被杀，另外60多人受伤。
-- -  1988年：Halabja化学攻击：伊拉克的库尔德镇Halabja在萨达姆·侯赛因（Saddam Hussein）的命令下被毒气和神经毒剂混合在一起，造成5,000人丧生，约10,000人受伤。
-- -  1988年：伊朗 - 对照事件：奥利弗·诺斯（Oliver North）上校和副海军上将约翰·普林德克斯特（John Poindexter）被控串谋欺骗美国。
-- -  1985年：美联社新闻记者特里·安德森（Terry Anderson）在贝鲁特被劫为人质；他直到1991年12月才被释放。
-- -  1984年：黎巴嫩中央情报局局长威廉·巴克利（William Buckley）被真主党绑架；后来他被囚禁。
-- -  1979年：中国战争：人民解放军越过边界回到中国，结束了战争。
-- -  1978年：超级货币官员加迪兹（Amoco Cadiz）在距布列塔尼海岸三英里的港口岩石上搁浅后，分为两分，这是当时历史上最大的石油漏油事件。
-- -  1978年：一家巴尔干的保加利亚航空Tupolev Tu-134撞车在保加利亚加巴里附近撞车，杀死了73。
-- -  1978年：前意大利总理阿尔多·莫罗（Aldo Moro）被绑架；后来他被绑架者谋杀。
-- -  1977年：黎巴嫩内战反政府部队的主要领导人卡马尔·朱姆布拉特（Kamal Jumblatt）暗杀。
-- -  1969年：Viasa McDonnell Douglas DC-9在委内瑞拉Maracaibo坠毁，杀死155。
-- -  1968年：越南战争：我的莱大屠杀发生；在347至500名越南村民之间被美军杀害。
-- -  1966年：与宇航员尼尔·阿姆斯特朗（Neil Armstrong）和大卫·斯科特（David Scott）一起推出了双子座8。它将在轨道上执行两个航天器的第一个对接。
-- -  1962年：西太平洋的飞行虎线739航班消失了，所有107号船都失踪并被假定死亡。
-- -  1945年：仅英国轰炸机在20分钟内摧毁了德国尤尔兹堡的百分之九十，至少造成4,000人死亡。
-- -  1945年：第二次世界大战：硫磺岛战役结束，但日本抵抗的小口袋仍然存在。
-- -  1941年：出场以重新建立英国索马里兰
+- -  2016年：Rojava冲突：在Rmelan的一次会议上，民主社会运动宣布建立了叙利亚北部民主联合会。
+- -  2004年：科索沃的动荡：22多个被杀，200人受伤。科索沃的三十五个塞尔维亚东正教神社，塞尔维亚的两个清真寺被摧毁。
+- -  2003年：下议院领导人和理事会主官罗宾·库克（Robin Cook）与政府对2003年入侵伊拉克的计划的计划分歧。
+- -  2000年：乌干达邪教运动的五十三十名成员恢复了上帝的十诫，死于一场大火，被认为是邪教领袖策划的大规模谋杀或自杀。在其他地方，另外248名成员后来被发现死亡。
+- -  1992年：一场全民公决在南非结束了68.7％至31.2％。
+- -  1992年：布宜诺斯艾利斯的以色列大使馆袭击：汽车炸弹袭击杀死29人，受伤242。
+- -  1988年：厄立特里亚独立战争：厄立特里亚的埃塞俄比亚军队纳德·司令部在阿法贝特战役的开场行动中遭到厄立特里亚人民解放阵线的三方袭击。
+- -  1988年：哥伦比亚波音727 Jetliner，Avianca 410航班，撞到委内瑞拉边境附近的山坡，杀死143。
+- -  1985年：连环杀手理查德·拉米雷斯（Richard Ramirez），又名“夜行者”，在他的洛杉矶谋杀狂潮中犯下了前两次谋杀案。
+- -  1979年：彭曼希尔（Penmanshiel）隧道在工程工程期间倒塌，杀死了两名工人。
+- -  1973年：普利策奖获奖的照片爆发了，描绘了一名前战俘与他的家人团聚，这象征着美国参与越南战争的终结。
+- -  1969年：戈达·梅尔（Golda Meir）成为以色列的第一任女总理。
+- -  1968年：由于美国陆军化学兵在犹他州骷髅谷进行了神经气测试，发现超过6,000只绵羊死亡。
+- -  1966年：DSV Alvin潜艇在西班牙海岸的地中海沿海地区发现了一枚美国氢炸弹。
+- -  1963年：阿贡山（Mount Agung）爆发了巴厘岛，杀死了1,100多人。
+- -  1960年：西北东方航空公司710航班在印第安纳州佩里县的托宾镇坠毁，造成63人丧生。
+- -  1960年：美国总统德怀特·D·艾森豪威尔（D. Eisenhower）签署了国家安全委员会指令，《反古巴秘密行动计划》最终将导致猪湾入侵。
+- -  1958年：美国推出了第一个太阳能卫星，这也是第一个实现长期轨道的卫星。
+- -  1957年：菲律宾宿雾发生的一场飞机失事杀死了菲律宾总统拉蒙·麦克塞耶（Ramon Magsaysay）和其他24人。
+- -  1950年：加利福尼亚大学伯克利分校的研究人员宣布，创建了元素98，他们将其命名为“ Californium”。
+- -  1948年：比利时，法国，卢森堡，荷兰和英国签署了布鲁塞尔条约，这是北大西洋条约建立北约的前身。
+- -  1945年：德国雷姆根（Remagen）的卢登多夫桥（Ludendorff Bridge）被捕十天后倒塌。
+- -  1942年：大屠杀：来自LVOV贫民窟的第一批犹太人在今天的波兰东部的Belzec死亡营中加热。
+- -  1921年：第二波兰共和国采用了三月宪法。
+- -  1891年：SS Utopia在直布罗陀和水槽的HMS Anson碰撞，杀死了880名乘客中的562名。
+- -  1862年：正式开放，赫尔辛基和哈梅恩林市（Hämeenlinna）城市之间的第一条铁路线被正式开放。
+- -  1861年：意大利王国被宣布。
+- -  1860年：第一场塔拉纳基战争在新西兰塔拉纳基（Taranaki）开始，这是新西兰战争的主要阶段。
+- -  1842年：Nauvoo女性救济协会由艾玛·史密斯（Emma Smith）正式组织为总统。
+- -  1824年：《盎格鲁 - 荷兰条约》在伦敦签署，将马来群岛分开。结果，马来半岛由英国人主导，而苏门答腊和爪哇及周边地区则由荷兰人主导。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-03-16 01:46:02 UTC）*
+*（更新于: 2025-03-17 01:43:16 UTC）*
