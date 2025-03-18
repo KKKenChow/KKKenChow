@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2016: Rojava conflict: At a conference in Rmelan, the Movement for a Democratic Society declares the establishment of the Democratic Federation of Northern Syria.
-- 2004: Unrest in Kosovo: More than 22 are killed and 200 wounded. Thirty-five Serbian Orthodox shrines in Kosovo and two mosques in Serbia are destroyed.
-- 2003: Leader of the House of Commons and Lord President of the Council, Robin Cook, resigns from the British Cabinet in disagreement with government plans for the 2003 invasion of Iraq.
-- 2000: Five hundred and thirty members of the Ugandan cult Movement for the Restoration of the Ten Commandments of God die in a fire, considered to be a mass murder or suicide orchestrated by leaders of the cult. Elsewhere another 248 members are later found dead.
-- 1992: A referendum to end apartheid in South Africa is passed 68.7% to 31.2%.
-- 1992: Israeli Embassy attack in Buenos Aires: Car bomb attack kills 29 and injures 242.
-- 1988: Eritrean War of Independence: The Nadew Command, an Ethiopian army corps in Eritrea, is attacked on three sides by military units of the Eritrean People's Liberation Front in the opening action of the Battle of Afabet.
-- 1988: A Colombian Boeing 727 jetliner, Avianca Flight 410, crashes into a mountainside near the Venezuelan border killing 143.
-- 1985: Serial killer Richard Ramirez, aka the "Night Stalker", commits the first two murders in his Los Angeles murder spree.
-- 1979: The Penmanshiel Tunnel collapses during engineering works, killing two workers.
-- 1973: The Pulitzer Prize-winning photograph Burst of Joy is taken, depicting a former prisoner of war being reunited with his family, which came to symbolize the end of United States involvement in the Vietnam War.
-- 1969: Golda Meir becomes the first female Prime Minister of Israel.
-- 1968: As a result of nerve gas testing by the U.S. Army Chemical Corps in Skull Valley, Utah, over 6,000 sheep are found dead.
-- 1966: Off the coast of Spain in the Mediterranean, the DSV Alvin submarine finds a missing American hydrogen bomb.
-- 1963: Mount Agung erupts on Bali killing more than 1,100 people.
-- 1960: Northwest Orient Airlines Flight 710 crashes in Tobin Township, Perry County, Indiana, killing 63.
-- 1960: U.S. President Dwight D. Eisenhower signs the National Security Council directive on the anti-Cuban covert action program that will ultimately lead to the Bay of Pigs Invasion.
-- 1958: The United States launches the first solar-powered satellite, which is also the first satellite to achieve a long-term orbit.
-- 1957: A plane crash in Cebu, Philippines kills Philippine President Ramon Magsaysay and 24 others.
-- 1950: Researchers at the University of California, Berkeley announce the creation of element 98, which they name "californium".
-- 1948: Belgium, France, Luxembourg, the Netherlands and the United Kingdom sign the Treaty of Brussels, a precursor to the North Atlantic Treaty establishing NATO.
-- 1945: The Ludendorff Bridge in Remagen, Germany, collapses, ten days after its capture.
-- 1942: Holocaust: The first Jews from the Lvov Ghetto are gassed at the Belzec death camp in what is today eastern Poland.
-- 1921: The Second Polish Republic adopts the March Constitution.
-- 1891: SS Utopia collides with HMS Anson in the Bay of Gibraltar and sinks, killing 562 of the 880 passengers on board.
-- 1862: The first railway line of Finland between cities of Helsinki and Hämeenlinna, called Päärata, is officially opened.
-- 1861: The Kingdom of Italy is proclaimed.
-- 1860: The First Taranaki War begins in Taranaki, New Zealand, a major phase of the New Zealand Wars.
-- 1842: The Female Relief Society of Nauvoo is formally organized with Emma Smith as president.
-- 1824: The Anglo-Dutch Treaty is signed in London, dividing the Malay archipelago. As a result, the Malay Peninsula is dominated by the British, while Sumatra and Java and surrounding areas are dominated by the Dutch.
+- 2015: The Bardo National Museum in Tunisia is attacked by gunmen. Twenty-four people, almost all tourists, are killed, and at least 50 other people are wounded.
+- 2014: The parliaments of Russia and Crimea sign an accession treaty.
+- 1997: The tail of a Russian Antonov An-24 charter plane breaks off while en route to Turkey, causing the plane to crash and killing all 50 people on board.
+- 1996: A nightclub fire in Quezon City, Philippines kills 162 people.
+- 1994: Bosnia's Bosniaks and Croats sign the Washington Agreement, ending war between the Croatian Republic of Herzeg-Bosnia and the Republic of Bosnia and Herzegovina, and establishing the Federation of Bosnia and Herzegovina.
+- 1990: In the largest art theft in US history, 12 paintings, collectively worth around $500 million, are stolen from the Isabella Stewart Gardner Museum in Boston.
+- 1990: Germans in the German Democratic Republic vote in the first democratic elections in the former communist dictatorship.
+- 1980: A Vostok-2M rocket at Plesetsk Cosmodrome Site 43 explodes during a fueling operation, killing 48 people.
+- 1974: Güzel İstanbul, a nude sculpture by Gürdal Duyar in Istanbul is torn down in the middle of the night.
+- 1971: Peru: A landslide crashes into Yanawayin Lake, killing 200 people at the mining camp of Chungar.
+- 1970: Lon Nol ousts Prince Norodom Sihanouk of Cambodia.
+- 1969: The United States begins secretly bombing the Sihanouk Trail in Cambodia, used by communist forces to infiltrate South Vietnam.
+- 1968: Gold standard: The U.S. Congress repeals the requirement for a gold reserve to back US currency.
+- 1967: The supertanker Torrey Canyon runs aground off the Cornish coast.
+- 1966: United Arab Airlines Flight 749 crashes on approach to Cairo International Airport in Cairo, Egypt, killing 30 people.
+- 1965: Cosmonaut Alexei Leonov, leaving his spacecraft Voskhod 2 for 12 minutes, becomes the first person to walk in space.
+- 1962: The Évian Accords end the Algerian War of Independence, which had begun in 1954.
+- 1959: The Hawaii Admission Act is signed into law.
+- 1953: An earthquake hits western Turkey, killing at least 1,070 people.
+- 1948: Soviet consultants leave Yugoslavia in the first sign of the Tito-Stalin split.
+- 1945: 40th Infantry Division, spearheaded by the 185th US Infantry Regiment, landed unopposed in Tigbauan forcing the Japanese forces to surrender and General Macario Peralta and Gen. Gen. Eichelberger to declare the Liberation of Panay, Romblon and Guimaras.
+- 1944: Mount Vesuvius in Italy erupts, killing 26 people, causing thousands to flee their homes, and destroying dozens of Allied bombers.
+- 1942: The War Relocation Authority is established in the United States to take Japanese Americans into custody.
+- 1940: World War II: Adolf Hitler and Benito Mussolini meet at the Brenner Pass in the Alps and agree to form an alliance against France and the United Kingdom.
+- 1938: Mexico creates Pemex by expropriating all foreign-owned oil reserves and facilities.
+- 1937: Spanish Civil War: Spanish Republican forces defeat the Italians at the Battle of Guadalajara.
+- 1937: The New London School explosion in New London, Texas, kills 300 people, mostly children.
+- 1925: The 1925 Tri-State tornado hits the Midwestern states of Missouri, Illinois, and Indiana, killing 695 people.
+- 1922: In India, Mohandas Gandhi is sentenced to six years in prison for civil disobedience, of which he serves only two.
+- 1921: Mongolian Revolution of 1921: The Mongolian People's Army defeated local Chinese forces at Altanbulag, Selenge (then known as Maimachen). This battle was seen as the birthday of the People's Army and completed the expulsion of Chinese militants in Mongolia.
 
 Data from muffinlabs
-*(Updated at: 2025-03-17 01:43:16 UTC)*
+*(Updated at: 2025-03-18 01:41:13 UTC)*
 
 # 历史上的今天 
 
-- -  2016年：Rojava冲突：在Rmelan的一次会议上，民主社会运动宣布建立了叙利亚北部民主联合会。
-- -  2004年：科索沃的动荡：22多个被杀，200人受伤。科索沃的三十五个塞尔维亚东正教神社，塞尔维亚的两个清真寺被摧毁。
-- -  2003年：下议院领导人和理事会主官罗宾·库克（Robin Cook）与政府对2003年入侵伊拉克的计划的计划分歧。
-- -  2000年：乌干达邪教运动的五十三十名成员恢复了上帝的十诫，死于一场大火，被认为是邪教领袖策划的大规模谋杀或自杀。在其他地方，另外248名成员后来被发现死亡。
-- -  1992年：一场全民公决在南非结束了68.7％至31.2％。
-- -  1992年：布宜诺斯艾利斯的以色列大使馆袭击：汽车炸弹袭击杀死29人，受伤242。
-- -  1988年：厄立特里亚独立战争：厄立特里亚的埃塞俄比亚军队纳德·司令部在阿法贝特战役的开场行动中遭到厄立特里亚人民解放阵线的三方袭击。
-- -  1988年：哥伦比亚波音727 Jetliner，Avianca 410航班，撞到委内瑞拉边境附近的山坡，杀死143。
-- -  1985年：连环杀手理查德·拉米雷斯（Richard Ramirez），又名“夜行者”，在他的洛杉矶谋杀狂潮中犯下了前两次谋杀案。
-- -  1979年：彭曼希尔（Penmanshiel）隧道在工程工程期间倒塌，杀死了两名工人。
-- -  1973年：普利策奖获奖的照片爆发了，描绘了一名前战俘与他的家人团聚，这象征着美国参与越南战争的终结。
-- -  1969年：戈达·梅尔（Golda Meir）成为以色列的第一任女总理。
-- -  1968年：由于美国陆军化学兵在犹他州骷髅谷进行了神经气测试，发现超过6,000只绵羊死亡。
-- -  1966年：DSV Alvin潜艇在西班牙海岸的地中海沿海地区发现了一枚美国氢炸弹。
-- -  1963年：阿贡山（Mount Agung）爆发了巴厘岛，杀死了1,100多人。
-- -  1960年：西北东方航空公司710航班在印第安纳州佩里县的托宾镇坠毁，造成63人丧生。
-- -  1960年：美国总统德怀特·D·艾森豪威尔（D. Eisenhower）签署了国家安全委员会指令，《反古巴秘密行动计划》最终将导致猪湾入侵。
-- -  1958年：美国推出了第一个太阳能卫星，这也是第一个实现长期轨道的卫星。
-- -  1957年：菲律宾宿雾发生的一场飞机失事杀死了菲律宾总统拉蒙·麦克塞耶（Ramon Magsaysay）和其他24人。
-- -  1950年：加利福尼亚大学伯克利分校的研究人员宣布，创建了元素98，他们将其命名为“ Californium”。
-- -  1948年：比利时，法国，卢森堡，荷兰和英国签署了布鲁塞尔条约，这是北大西洋条约建立北约的前身。
-- -  1945年：德国雷姆根（Remagen）的卢登多夫桥（Ludendorff Bridge）被捕十天后倒塌。
-- -  1942年：大屠杀：来自LVOV贫民窟的第一批犹太人在今天的波兰东部的Belzec死亡营中加热。
-- -  1921年：第二波兰共和国采用了三月宪法。
-- -  1891年：SS Utopia在直布罗陀和水槽的HMS Anson碰撞，杀死了880名乘客中的562名。
-- -  1862年：正式开放，赫尔辛基和哈梅恩林市（Hämeenlinna）城市之间的第一条铁路线被正式开放。
-- -  1861年：意大利王国被宣布。
-- -  1860年：第一场塔拉纳基战争在新西兰塔拉纳基（Taranaki）开始，这是新西兰战争的主要阶段。
-- -  1842年：Nauvoo女性救济协会由艾玛·史密斯（Emma Smith）正式组织为总统。
-- -  1824年：《盎格鲁 - 荷兰条约》在伦敦签署，将马来群岛分开。结果，马来半岛由英国人主导，而苏门答腊和爪哇及周边地区则由荷兰人主导。
+- -  2015年：突尼斯的巴多国家博物馆遭到枪手的袭击。二十四人，几乎所有的游客被杀，至少有50人受伤。
+- -  2014年：俄罗斯和克里米亚的议会签署了《加入条约》。
+- -  1997年：俄罗斯Antonov An-24租用飞机的尾巴在前往土耳其的同时破裂，导致飞机坠毁并杀死了船上的所有50人。
+- -  1996年：菲律宾奎松市的一场夜总会大火杀死162人。
+- -  1994年：波斯尼亚的波斯尼亚人和克罗地亚人签署了《华盛顿协议》，结束了克罗地亚黑泽 - 波斯尼亚共和国之间的战争，波斯尼亚和波斯尼亚共和国和黑塞哥维那，并建立了波斯尼亚和黑塞哥维那联合会。
+- -  1990年：在美国历史上最大的艺术盗窃案中，有12幅画，总价值约5亿美元，是从波士顿的伊莎贝拉·斯图尔特·加德纳博物馆（Isabella Stewart Gardner）偷来的。
+- -  1990年：德国民主共和国的德国人在前共产主义独裁统治的第一次民主选举中投票。
+- -  1980年：Plesetsk Cosmodrome站点的Vostok-2M火箭在加油操作期间爆炸了43人，造成48人丧生。
+- -  1974年：古泽尔·伊斯坦布尔（GüzelWiystanbul），伊斯坦布尔的古尔达尔·杜亚尔（GürdalDuyar）的裸体雕塑在深夜被拆除。
+- -  1971年：秘鲁：山体滑坡撞向亚纳维因湖，在春加的矿业营地炸死200人。
+- -  1970年：柬埔寨的诺洛姆·西哈努克王子。
+- -  1969年：美国开始秘密轰炸柬埔寨的西哈努克步道，共产党用来渗透越南南部。
+- -  1968年：黄金标准：美国国会废除了支持美国货币的黄金储备的要求。
+- -  1967年：超级货车托里·峡谷（Torrey Canyon）在康沃尔海岸（Cornish Coast）搁浅。
+- -  1966年：阿拉伯联合航空公司749号航班在埃及开罗的开罗国际机场的临近撞车事故中造成30人丧生。
+- -  1965年：宇航员Alexei Leonov，将他的航天器Voskhod 2留了12分钟，成为第一个在太空中行走的人。
+- -  1962年：Évian协议结束了始于1954年的阿尔及利亚独立战争。
+- -  1959年：《夏威夷入学法》已签署为法律。
+- -  1953年：地震袭击了西部土耳其，杀死了至少1,070人。
+- -  1948年：苏联顾问离开南斯拉夫的第一个迹象。
+- -  1945年：由第185个美国步兵团牵头的第40步兵师在提格鲍恩（Tigbauan）登陆，迫使日军投降和玛卡里奥·佩拉尔塔（Macario Peralta）和艾希尔伯格（Eichelberger）将军宣布Panay，Romblon和Guimaras宣布自由。
+- -  1944年：意大利的维苏威山爆发，杀死了26人，造成数千人逃离家园，并摧毁了数十名盟军轰炸机。
+- -  1942年：在美国建立了战争搬迁机构，将日裔美国人拘留。
+- -  1940年：第二次世界大战：阿道夫·希特勒（Adolf Hitler）和贝尼托·墨索里尼（Benito Mussolini）在阿尔卑斯山的布伦纳（Brenner）通行证会面，并同意与法国和英国结盟。
+- -  1938年：墨西哥通过征用所有外国拥有的石油储量和设施来创建PEMEX。
+- -  1937年：西班牙内战：西班牙共和党在瓜达拉哈拉战役中击败了意大利人。
+- -  1937年：德克萨斯州新伦敦的新伦敦学校爆炸炸死300人，主要是儿童。
+- -  1925年：1925年的三州龙卷风袭击了密苏里州中西部，伊利诺伊州和印第安纳州，炸死695人。
+- -  1922年：在印度，莫哈达斯·甘地（Mohandas Gandhi）因公民抗命而被判处六年徒刑，他只服务两名。
+- -  1921年：1921年的蒙古革命：蒙古人的军队在塞勒格（当时称为Maimachen）的Altanbulag击败了当地中国部队。这场战斗被视为人民军的生日，并完成了蒙古中国武装分子的驱逐。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-03-17 01:43:16 UTC）*
+*（更新于: 2025-03-18 01:41:13 UTC）*
