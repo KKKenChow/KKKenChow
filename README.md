@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: At least 145 people are killed and 551 injured in a bombing and mass shooting at the Crocus City Hall in Krasnogorsk, Russia.
-- 2021: Ten people are killed in a mass shooting in Boulder, Colorado.
-- 2020: Greek Prime Minister Kyriakos Mitsotakis announces a national lockdown and the country's first ever self-imposed curfew, in an effort to fight the spread of COVID-19.
-- 2020: Indian Prime Minister Narendra Modi announces the country's largest ever self-imposed curfew, in an effort to fight the spread of COVID-19.
-- 2019: Two buses crashed in Kitampo, a town north of Ghana's capital Accra, killing at least 50 people.
-- 2019: The Special Counsel investigation on the 2016 United States presidential election concludes when Robert Mueller submits his report to the United States Attorney General.
-- 2017: Syrian civil war: Five hundred members of the Syrian Democratic Forces (SDF) are airlifted south of the Euphrates by United States Air Force helicopters, beginning the Battle of Tabqa.
-- 2017: A terrorist attack in London near the Houses of Parliament leaves four people dead and at least 20 injured.
-- 2016: Three suicide bombers kill 32 people and injure 316 in the 2016 Brussels bombings at the airport and at the Maelbeek/Maalbeek metro station.
-- 2013: At least 37 people are killed and 200 are injured after a fire destroys a camp containing Burmese refugees near Ban Mae, Thailand.
-- 2006: Three Christian Peacemaker Team (CPT) hostages are freed by British forces in Baghdad after 118 days of captivity and the murder of their colleague from the U.S., Tom Fox.
-- 2004: Ahmed Yassin, co-founder and leader of the Palestinian Sunni Islamist group Hamas, two bodyguards, and nine civilian bystanders are killed in the Gaza Strip when hit by Israeli Air Force Hellfire missiles.
-- 1997: Comet Hale-Bopp reaches its closest approach to Earth at 1.315 AU.
-- 1997: Tara Lipinski, aged 14 years and nine months, becomes the youngest women's World Figure Skating Champion.
-- 1996: NASA's Space Shuttle Atlantis is launched on its 16th mission, STS-76.
-- 1995: Cosmonaut Valeri Polyakov returns to earth after setting a record of 438 days in space.
-- 1993: The Intel Corporation ships the first Pentium chips (80586), featuring a 60 MHz clock speed, 100+ MIPS, and a 64 bit data path.
-- 1992: Fall of communism in Albania: The Democratic Party of Albania wins a decisive majority in the parliamentary election.
-- 1992: USAir Flight 405 crashes shortly after takeoff from New York City's LaGuardia Airport, leading to a number of studies into the effect that ice has on aircraft.
-- 1988: The United States Congress votes to override President Ronald Reagan's veto of the Civil Rights Restoration Act of 1987.
-- 1982: NASA's Space Shuttle Columbia is launched from the Kennedy Space Center on its third mission, STS-3.
-- 1978: Karl Wallenda of The Flying Wallendas dies after falling off a tight-rope suspended between two hotels in San Juan, Puerto Rico.
-- 1975: A fire at the Browns Ferry Nuclear Power Plant in Decatur, Alabama, causes a dangerous reduction in cooling water levels.
-- 1972: In Eisenstadt v. Baird, the United States Supreme Court decides that unmarried persons have the right to possess contraceptives.
-- 1972: The United States Congress sends the Equal Rights Amendment to the states for ratification.
-- 1970: Chicano residents in San Diego, California occupy a site under the Coronado Bridge, leading to the creation of Chicano Park.
-- 1963: The Beatles release their debut album Please Please Me.
-- 1960: Arthur Leonard Schawlow and Charles Hard Townes receive the first patent for a laser.
-- 1955: A United States Navy Douglas R6D-1 Liftmaster crashes into Hawaii's Waiʻanae Range, killing 66.
-- 1946: The United Kingdom grants full independence to Transjordan.
+- 2021: A container ship runs aground and obstructs the Suez Canal for six days.
+- 2020: Prime Minister Boris Johnson put the United Kingdom into its first national lockdown in response to COVID-19.
+- 2019: The US-backed Syrian Democratic Forces capture the town of Baghuz in Eastern Syria, declaring military victory over the Islamic State of Iraq and the Levant after four years of fighting, although the group maintains a scattered presence and sleeper cells across Syria and Iraq.
+- 2019: The Kazakh capital of Astana was renamed to Nur-Sultan.
+- 2018: President of Peru Pedro Pablo Kuczynski resigns from the presidency amid a mass corruption scandal before certain impeachment by the opposition-majority Congress of Peru.
+- 2014: The World Health Organization (WHO) reports cases of Ebola in the forested rural region of southeastern Guinea, marking the beginning of the largest Ebola outbreak in history.
+- 2010: The Affordable Care Act becomes law in the United States.
+- 2009: FedEx Express Flight 80: A McDonnell Douglas MD-11 flying from Guangzhou, China crashes at Tokyo's Narita International Airport, killing both the captain and the co-pilot.
+- 2008: Official opening of Rajiv Gandhi International Airport in Hyderabad, India
+- 2003: Battle of Nasiriyah, first major conflict during the invasion of Iraq.
+- 2001: The Russian Mir space station is disposed of, breaking up in the atmosphere before falling into the southern Pacific Ocean near Fiji.
+- 1999: Gunmen assassinate Paraguay's Vice President Luis María Argaña.
+- 1996: Taiwan holds its first direct elections and chooses Lee Teng-hui as President.
+- 1994: Aeroflot Flight 593 crashed into the Kuznetsk Alatau mountain, Kemerovo Oblast, Russia, killing 75.
+- 1994: A United States Air Force (USAF) F-16 aircraft collides with a USAF C-130 at Pope Air Force Base and then crashes, killing 24 United States Army soldiers on the ground. This later became known as the Green Ramp disaster.
+- 1994: At an election rally in Tijuana, Mexican presidential candidate Luis Donaldo Colosio is assassinated by Mario Aburto Martínez.
+- 1991: The Revolutionary United Front, with support from the special forces of Charles Taylor's National Patriotic Front of Liberia, invades Sierra Leone in an attempt to overthrow Joseph Saidu Momoh, sparking the 11-year Sierra Leone Civil War.
+- 1988: Angolan and Cuban forces defeat South Africa in the Battle of Cuito Cuanavale.
+- 1983: Strategic Defense Initiative: President Ronald Reagan makes his initial proposal to develop technology to intercept enemy missiles.
+- 1982: Guatemala's government, headed by Fernando Romeo Lucas García is overthrown in a military coup by right-wing General Efraín Ríos Montt.
+- 1980: Archbishop Óscar Romero of El Salvador gives his famous speech appealing to men of the El Salvadoran armed forces to stop killing the Salvadorans.
+- 1978: The first UNIFIL troops arrived in Lebanon for peacekeeping mission along the Blue Line.
+- 1977: The first of The Nixon Interviews (12 will be recorded over four weeks) is videotaped with British journalist David Frost interviewing former United States President Richard Nixon about the Watergate scandal and the Nixon tapes.
+- 1965: NASA launches Gemini 3, the United States' first two-man space flight (crew: Gus Grissom and John Young).
+- 1956: Pakistan becomes the first Islamic republic in the world. This date is now celebrated as Republic Day in Pakistan.
+- 1940: The Lahore Resolution (Qarardad-e-Pakistan or Qarardad-e-Lahore) is put forward at the Annual General Convention of the All-India Muslim League.
+- 1939: The Hungarian air force attacks the headquarters of the Slovak air force in Spišská Nová Ves, killing 13 people and beginning the Slovak-Hungarian War.
+- 1935: Signing of the Constitution of the Commonwealth of the Philippines.
+- 1933: The Reichstag passes the Enabling Act of 1933, making Adolf Hitler dictator of Germany.
+- 1931: Bhagat Singh, Shivaram Rajguru and Sukhdev Thapar are hanged for the killing of a deputy superintendent of police during the Indian independence movement.
 
 Data from muffinlabs
-*(Updated at: 2025-03-22 01:39:27 UTC)*
+*(Updated at: 2025-03-23 01:46:49 UTC)*
 
 # 历史上的今天 
 
-- -  2024年：在俄罗斯克拉斯诺格斯克的鳄鱼市政厅的轰炸和大规模枪击事件中，至少有145人丧生，551人受伤。
-- -2021：在科罗拉多州博尔德的一次大规模枪击事件中，十人丧生。
-- -  2020年：希腊总理凯里亚科斯·三井塔基斯（Kyriakos Mitsotakis）宣布了全国性的封锁和该国有史以来第一个自我强加的宵禁，以抗击Covid-19的传播。
-- -  2020年：印度总理纳伦德拉·莫迪（Narendra Modi）宣布了该国有史以来最大的自我强加的宵禁，以抗击Covid-19的传播。
-- -  2019年：两辆公共汽车在加纳首都阿克拉（Accra）以北的一个小镇基塔莫（Kitampo）坠毁，炸死了至少50人。
-- -  2019年：罗伯特·穆勒（Robert Mueller）向美国总检察长提交报告时，关于2016年美国总统大选的特别顾问调查得出结论。
-- -  2017年：叙利亚内战：美国空军直升机在幼发拉底河以南空运的叙利亚民主部队（SDF）的五百名成员开始了TABQA之战。
-- -  2017年：在议会大厦附近的伦敦发生的恐怖袭击造成四人死亡，至少有20人受伤。
-- -  2016年：三名自杀炸弹袭击者在2016年在机场和Maelbeek/Maalbeek地铁站的布鲁塞尔炸弹袭击中杀死了32人316人。
-- -  2013年：大火摧毁了泰国班梅附近的缅甸难民营地后，至少有37人被杀，200人受伤。
-- -  2006年：在被囚禁了118天后，英国军队在巴格达释放了三个基督教和平缔造者团队（CPT）人质，并从美国谋杀了他们的同事汤姆·福克斯（Tom Fox）。
-- -  2004年：巴勒斯坦逊尼派伊斯兰集团哈马斯的联合创始人兼领导人艾哈迈德·亚辛（Ahmed Yassin），两个保镖和9名平民旁观者在被以色列空军地狱大火导弹击中时在加沙地带被杀。
-- -  1997年：Hale-Bopp彗星在1.315 AU上达到了最接近地球的方法。
-- -  1997年：塔拉·利宾斯基（Tara Lipinski）享年14岁零9个月，成为最年轻的女子花样滑冰冠军。
-- -  1996年：NASA的航天飞机亚特兰蒂斯（Atlantis）在其第16个任务STS-76上发射。
-- -  1995年：宇航员Valeri Polyakov在空间中创造了438天的记录后返回地球。
-- -  1993年：英特尔公司（Intel Corporation）运送了第一批奔腾芯片（80586），其时钟速度，100多个MIPS和64位数据路径。
-- -  1992年：阿尔巴尼亚共产主义的堕落：阿尔巴尼亚民主党在议会选举中赢得了果断的多数席位。
-- -  1992年：从纽约市的拉瓜迪亚机场起飞后不久，USAIR 405航班坠毁，导致许多研究对ICE对飞机的影响。
-- -  1988年：美国国会投票决定覆盖罗纳德·里根（Ronald Reagan）总统1987年《民权恢复法》的否决权。
-- -  1982年：NASA的航天飞机哥伦比亚是从肯尼迪航天中心（Kennedy Passion Center）推出的第三次任务STS-3。
-- -  1978年：飞行瓦伦达斯（Wallendas）的卡尔·沃伦达（Karl Wallenda）在波多黎各圣胡安（San Juan）的两家酒店之间悬挂着一条紧密的绳子后死亡。
-- -  1975年：阿拉巴马州迪凯特的布朗渡轮核电站发生大火，导致冷却水位危险降低。
-- -  1972年：在Eisenstadt诉Baird案中，美国最高法院裁定未婚的人有权拥有避孕药具。
-- -  1972年：美国国会将平等权利修正案发送给各州批准。
-- -  1970年：加利福尼亚州圣地亚哥的奇卡诺居民占据了科罗纳多桥下的一个地点，导致了奇卡诺公园的创建。
-- -  1963年：甲壳虫乐队发行他们的首张专辑，请我。
-- -  1960年：Arthur Leonard Schawlow和Charles Hard Townes获得了激光的第一项专利。
-- -  1955年：美国海军道格拉斯R6D-1升降机大师坠入夏威夷的Wai'anae系列，杀死了66。
-- -  1946年：英国向Transjordan授予了完全独立性。
+- -2021：一艘集装箱船搁浅并阻塞苏伊士运河六天。
+- -  2020年：总理鲍里斯·约翰逊（Boris Johnson）将英国置于首个国家锁定中，以回应19日。
+- -  2019年：美国支持的叙利亚民主部队占领了叙利亚东部的巴格兹镇，宣布在战斗四年后击败了伊拉克伊斯兰国和黎凡特的军事胜利，尽管该组织在叙利亚和伊拉克各地保持了零星的存在和卧铺牢房。
+- -  2019年：哈萨克首都阿斯塔纳（Astana）被更名为努尔·苏尔丹（Nur-Sultan）。
+- -  2018年：秘鲁佩德罗·帕勃罗·库齐斯基（PERU PEDRO PABLO KUCZYNSKI）总统在秘鲁反对派少数大会的某些弹each之前，在总统职位上辞职。
+- -  2014年：世界卫生组织（WHO）报告了几内亚东南部森林农村地区的埃博拉病例，这标志着历史上最大的埃博拉病毒爆发的开始。
+- -  2010年：《平价医疗法案》成为美国的法律。
+- -  2009年：FedEx Express 80航班：麦克唐纳·道格拉斯（McDonnell Douglas）MD-11从广州（Guangzhou）飞行，中国在东京的纳里塔国际机场（Narita International Airport）坠毁，杀死了队长和副驾驶。
+- -  2008年：印度海得拉巴的拉吉夫·甘地国际机场的正式开放
+- -  2003年：纳西里亚战役，在入侵伊拉克期间的首次重大冲突。
+- -  2001年：俄罗斯mir空间站被处置，在大气中分解，然后落入斐济附近的南太平洋。
+- -  1999年：枪手暗杀巴拉圭的副总统路易斯·玛丽亚·阿格纳纳（LuisMaríaGragaña）。
+- -  1996年：台湾举行了第一次直接选举，并选择李·汤岛（Lee Teng-Hui）担任总统。
+- -  1994年：Aeroflot 593航班撞上了俄罗斯Kemerovo Oblast的Kuznetsk Alatau山，杀死了75。
+- -  1994年：美国空军（USAF）F-16飞机在教皇空军基地与USAF C-130相撞，然后坠毁，杀死了地面上24名美国陆军士兵。后来被称为绿色坡道灾难。
+- -  1994年：在墨西哥总统候选人路易斯·多纳尔多·科洛西奥（Luis Donaldo Colosio）在蒂华纳举行的一次选举集会上被马里奥·阿布尔托·马丁内斯（Mario AburtoMartínez）暗杀。
+- -  1991年：在查尔斯·泰勒（Charles Taylor）在利比里亚的国家爱国阵线的特种部队的支持下，革命联合阵线入侵了塞拉利昂（Sierra Leone），试图推翻约瑟夫·赛杜莫（Joseph Saidu Momoh），引发了11年的塞拉利昂内战。
+- -  1988年：安哥拉派和古巴军队在库纳瓦尔战役中击败了南非。
+- -  1983年：战略国防倡议：罗纳德·里根（Ronald Reagan）总统提出了开发技术以拦截敌方导弹的技术。
+- -  1982年：由费尔南多·卢卡斯·加西亚（Fernando RomeoLucasGarcía）领导的危地马拉政府由右翼将军埃夫拉恩·里斯·蒙特（EfraínRíosMontt）推翻了军事政变。
+- -  1980年：萨尔瓦多的大主教ÓscarRomero大主教发表了他的著名演讲，吸引了萨尔瓦多武装部队的士兵，以停止杀害萨尔瓦多人。
+- -  1978年：第一批unifil部队抵达黎巴嫩，沿着蓝线进行维和任务。
+- -  1977年：尼克松的第一次访谈（将在四个星期内记录12次）与英国记者戴维·弗罗斯特（David Frost）进行了录像，采访了前美国总统理查德·尼克松（Richard Nixon）关于水门丑闻和尼克松录像带。
+- -  1965年：NASA推出了Gemini 3，这是美国的第一次两人太空飞行（CREW：Gus Grissom和John Young）。
+- -  1956年：巴基斯坦成为世界上第一个伊斯兰共和国。现在，这个日期是在巴基斯坦举行的共和国日。
+- -  1940年：在全印度穆斯林联盟的年度一般会议上提出了拉合尔决议（卡拉达 - 巴基斯坦或卡拉达德 - 埃拉哈尔）。
+- -  1939年：匈牙利空军袭击了斯皮什斯卡诺瓦斯的斯洛伐克空军总部，杀死了13人，开始了斯洛伐克 - 亨加利亚战争。
+- -  1935年：签署菲律宾联邦宪法。
+- -  1933年：国会大厦通过了1933年的《授权法》，使阿道夫·希特勒（Adolf Hitler）的独裁者成为德国的独裁者。
+- -  1931年：Bhagat Singh，Shivaram Rajguru和Sukhdev Thapar被绞死在印度独立运动期间杀害警察副警察。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-03-22 01:39:27 UTC）*
+*（更新于: 2025-03-23 01:46:49 UTC）*
