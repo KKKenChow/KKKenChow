@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: A container ship runs aground and obstructs the Suez Canal for six days.
-- 2020: Prime Minister Boris Johnson put the United Kingdom into its first national lockdown in response to COVID-19.
-- 2019: The US-backed Syrian Democratic Forces capture the town of Baghuz in Eastern Syria, declaring military victory over the Islamic State of Iraq and the Levant after four years of fighting, although the group maintains a scattered presence and sleeper cells across Syria and Iraq.
-- 2019: The Kazakh capital of Astana was renamed to Nur-Sultan.
-- 2018: President of Peru Pedro Pablo Kuczynski resigns from the presidency amid a mass corruption scandal before certain impeachment by the opposition-majority Congress of Peru.
-- 2014: The World Health Organization (WHO) reports cases of Ebola in the forested rural region of southeastern Guinea, marking the beginning of the largest Ebola outbreak in history.
-- 2010: The Affordable Care Act becomes law in the United States.
-- 2009: FedEx Express Flight 80: A McDonnell Douglas MD-11 flying from Guangzhou, China crashes at Tokyo's Narita International Airport, killing both the captain and the co-pilot.
-- 2008: Official opening of Rajiv Gandhi International Airport in Hyderabad, India
-- 2003: Battle of Nasiriyah, first major conflict during the invasion of Iraq.
-- 2001: The Russian Mir space station is disposed of, breaking up in the atmosphere before falling into the southern Pacific Ocean near Fiji.
-- 1999: Gunmen assassinate Paraguay's Vice President Luis María Argaña.
-- 1996: Taiwan holds its first direct elections and chooses Lee Teng-hui as President.
-- 1994: Aeroflot Flight 593 crashed into the Kuznetsk Alatau mountain, Kemerovo Oblast, Russia, killing 75.
-- 1994: A United States Air Force (USAF) F-16 aircraft collides with a USAF C-130 at Pope Air Force Base and then crashes, killing 24 United States Army soldiers on the ground. This later became known as the Green Ramp disaster.
-- 1994: At an election rally in Tijuana, Mexican presidential candidate Luis Donaldo Colosio is assassinated by Mario Aburto Martínez.
-- 1991: The Revolutionary United Front, with support from the special forces of Charles Taylor's National Patriotic Front of Liberia, invades Sierra Leone in an attempt to overthrow Joseph Saidu Momoh, sparking the 11-year Sierra Leone Civil War.
-- 1988: Angolan and Cuban forces defeat South Africa in the Battle of Cuito Cuanavale.
-- 1983: Strategic Defense Initiative: President Ronald Reagan makes his initial proposal to develop technology to intercept enemy missiles.
-- 1982: Guatemala's government, headed by Fernando Romeo Lucas García is overthrown in a military coup by right-wing General Efraín Ríos Montt.
-- 1980: Archbishop Óscar Romero of El Salvador gives his famous speech appealing to men of the El Salvadoran armed forces to stop killing the Salvadorans.
-- 1978: The first UNIFIL troops arrived in Lebanon for peacekeeping mission along the Blue Line.
-- 1977: The first of The Nixon Interviews (12 will be recorded over four weeks) is videotaped with British journalist David Frost interviewing former United States President Richard Nixon about the Watergate scandal and the Nixon tapes.
-- 1965: NASA launches Gemini 3, the United States' first two-man space flight (crew: Gus Grissom and John Young).
-- 1956: Pakistan becomes the first Islamic republic in the world. This date is now celebrated as Republic Day in Pakistan.
-- 1940: The Lahore Resolution (Qarardad-e-Pakistan or Qarardad-e-Lahore) is put forward at the Annual General Convention of the All-India Muslim League.
-- 1939: The Hungarian air force attacks the headquarters of the Slovak air force in Spišská Nová Ves, killing 13 people and beginning the Slovak-Hungarian War.
-- 1935: Signing of the Constitution of the Commonwealth of the Philippines.
-- 1933: The Reichstag passes the Enabling Act of 1933, making Adolf Hitler dictator of Germany.
-- 1931: Bhagat Singh, Shivaram Rajguru and Sukhdev Thapar are hanged for the killing of a deputy superintendent of police during the Indian independence movement.
+- 2024: The 2024 Senegalese presidential election is held following anti-government protests.
+- 2019: Jakarta MRT, a rapid transit system in Jakarta, began operation.
+- 2018: Students across the United States stage the March for Our Lives demanding gun control in response to the Stoneman Douglas High School shooting.
+- 2018: Syrian civil war: The Turkish Armed Forces (TAF) and Syrian National Army (SNA) take full control of Afrin District, marking the end of the Afrin offensive.
+- 2015: Germanwings Flight 9525 crashes in the French Alps in an apparent pilot mass murder-suicide, killing all 150 people on board.
+- 2008: Bhutan officially becomes a democracy, with its first ever general election.
+- 2003: The Arab League votes 21-1 in favor of a resolution demanding an end to the 2003 invasion of Iraq.
+- 1999: A lorry carrying margarine and flour catches fire inside the Mont Blanc Tunnel, creating an inferno that kills 38 people.
+- 1999: Kosovo War: NATO began attacks on Yugoslavia without United Nations Security Council (UNSC) approval, marking the first time NATO has attacked a sovereign country.
+- 1998: Dr. Rüdiger Marmulla performed the first computer-assisted Bone Segment Navigation at the University of Regensburg, Germany.
+- 1998: A tornado sweeps through Dantan in India, killing 250 people and injuring 3,000 others.
+- 1998: Mitchell Johnson and Andrew Golden, aged 11 and 13 respectively, open fire upon teachers and students at Westside Middle School in Jonesboro, Arkansas; five people are killed and ten are wounded.
+- 1993: Comet Shoemaker-Levy 9 is discovered by Carolyn and Eugene Shoemaker, and David Levy at the Palomar Observatory in California.
+- 1992: Space Shuttle Atlantis launches on STS-45.
+- 1990: Indian intervention in the Sri Lankan Civil War ends with last ship of Indian Peace Keeping Force leaving Sri Lanka.
+- 1989: In Prince William Sound in Alaska, the Exxon Valdez spills 240,000 barrels (38,000 m3) of crude oil after running aground.
+- 1986: The Loscoe gas explosion leads to new UK laws on landfill gas migration and gas protection on landfill sites.
+- 1982: Bangladeshi President Abdus Sattar is deposed in a bloodless coup led by Army Chief Lieutenant general Hussain Muhammad Ershad, who suspends the Constitution and imposes martial law.
+- 1980: El Salvadorian Archbishop Óscar Romero is assassinated while celebrating Mass in San Salvador.
+- 1977: Morarji Desai became the Prime Minister of India, the first Prime Minister not to belong to Indian National Congress.
+- 1976: In Argentina, the armed forces overthrow the constitutional government of President Isabel Perón and start a seven-year dictatorial period self-styled the National Reorganization Process.
+- 1972: Direct rule is imposed on Northern Ireland by the Government of the United Kingdom under Edward Heath.
+- 1961: The Quebec Board of the French Language is established.
+- 1949: Hanns Albin Rauter, a chief SS and Police Leader, in the Netherlands, is convicted and executed for crimes against humanity.
+- 1946: A British Cabinet Mission arrives in India to discuss and plan for the transfer of power from the British Raj to Indian leadership.
+- 1944: World War II: In an event later dramatized in the movie The Great Escape, 76 Allied prisoners of war begin breaking out of the German camp Stalag Luft III.
+- 1944: German troops massacre 335 Italian civilians in Rome.
+- 1939: The 1939 Liechtenstein putsch takes place; approximately 40 members of the VBDL starting from Nendeln march towards Vaduz with the intention of overthrowing the government and provoking Liechtenstein's annexation into Germany.
+- 1934: The Tydings-McDuffie Act is passed by the United States Congress, allowing the Philippines to become a self-governing commonwealth.
+- 1927: Nanking Incident: Foreign warships bombard Nanjing, China, in defence of the foreign citizens within the city.
 
 Data from muffinlabs
-*(Updated at: 2025-03-23 01:46:49 UTC)*
+*(Updated at: 2025-03-24 01:45:00 UTC)*
 
 # 历史上的今天 
 
-- -2021：一艘集装箱船搁浅并阻塞苏伊士运河六天。
-- -  2020年：总理鲍里斯·约翰逊（Boris Johnson）将英国置于首个国家锁定中，以回应19日。
-- -  2019年：美国支持的叙利亚民主部队占领了叙利亚东部的巴格兹镇，宣布在战斗四年后击败了伊拉克伊斯兰国和黎凡特的军事胜利，尽管该组织在叙利亚和伊拉克各地保持了零星的存在和卧铺牢房。
-- -  2019年：哈萨克首都阿斯塔纳（Astana）被更名为努尔·苏尔丹（Nur-Sultan）。
-- -  2018年：秘鲁佩德罗·帕勃罗·库齐斯基（PERU PEDRO PABLO KUCZYNSKI）总统在秘鲁反对派少数大会的某些弹each之前，在总统职位上辞职。
-- -  2014年：世界卫生组织（WHO）报告了几内亚东南部森林农村地区的埃博拉病例，这标志着历史上最大的埃博拉病毒爆发的开始。
-- -  2010年：《平价医疗法案》成为美国的法律。
-- -  2009年：FedEx Express 80航班：麦克唐纳·道格拉斯（McDonnell Douglas）MD-11从广州（Guangzhou）飞行，中国在东京的纳里塔国际机场（Narita International Airport）坠毁，杀死了队长和副驾驶。
-- -  2008年：印度海得拉巴的拉吉夫·甘地国际机场的正式开放
-- -  2003年：纳西里亚战役，在入侵伊拉克期间的首次重大冲突。
-- -  2001年：俄罗斯mir空间站被处置，在大气中分解，然后落入斐济附近的南太平洋。
-- -  1999年：枪手暗杀巴拉圭的副总统路易斯·玛丽亚·阿格纳纳（LuisMaríaGragaña）。
-- -  1996年：台湾举行了第一次直接选举，并选择李·汤岛（Lee Teng-Hui）担任总统。
-- -  1994年：Aeroflot 593航班撞上了俄罗斯Kemerovo Oblast的Kuznetsk Alatau山，杀死了75。
-- -  1994年：美国空军（USAF）F-16飞机在教皇空军基地与USAF C-130相撞，然后坠毁，杀死了地面上24名美国陆军士兵。后来被称为绿色坡道灾难。
-- -  1994年：在墨西哥总统候选人路易斯·多纳尔多·科洛西奥（Luis Donaldo Colosio）在蒂华纳举行的一次选举集会上被马里奥·阿布尔托·马丁内斯（Mario AburtoMartínez）暗杀。
-- -  1991年：在查尔斯·泰勒（Charles Taylor）在利比里亚的国家爱国阵线的特种部队的支持下，革命联合阵线入侵了塞拉利昂（Sierra Leone），试图推翻约瑟夫·赛杜莫（Joseph Saidu Momoh），引发了11年的塞拉利昂内战。
-- -  1988年：安哥拉派和古巴军队在库纳瓦尔战役中击败了南非。
-- -  1983年：战略国防倡议：罗纳德·里根（Ronald Reagan）总统提出了开发技术以拦截敌方导弹的技术。
-- -  1982年：由费尔南多·卢卡斯·加西亚（Fernando RomeoLucasGarcía）领导的危地马拉政府由右翼将军埃夫拉恩·里斯·蒙特（EfraínRíosMontt）推翻了军事政变。
-- -  1980年：萨尔瓦多的大主教ÓscarRomero大主教发表了他的著名演讲，吸引了萨尔瓦多武装部队的士兵，以停止杀害萨尔瓦多人。
-- -  1978年：第一批unifil部队抵达黎巴嫩，沿着蓝线进行维和任务。
-- -  1977年：尼克松的第一次访谈（将在四个星期内记录12次）与英国记者戴维·弗罗斯特（David Frost）进行了录像，采访了前美国总统理查德·尼克松（Richard Nixon）关于水门丑闻和尼克松录像带。
-- -  1965年：NASA推出了Gemini 3，这是美国的第一次两人太空飞行（CREW：Gus Grissom和John Young）。
-- -  1956年：巴基斯坦成为世界上第一个伊斯兰共和国。现在，这个日期是在巴基斯坦举行的共和国日。
-- -  1940年：在全印度穆斯林联盟的年度一般会议上提出了拉合尔决议（卡拉达 - 巴基斯坦或卡拉达德 - 埃拉哈尔）。
-- -  1939年：匈牙利空军袭击了斯皮什斯卡诺瓦斯的斯洛伐克空军总部，杀死了13人，开始了斯洛伐克 - 亨加利亚战争。
-- -  1935年：签署菲律宾联邦宪法。
-- -  1933年：国会大厦通过了1933年的《授权法》，使阿道夫·希特勒（Adolf Hitler）的独裁者成为德国的独裁者。
-- -  1931年：Bhagat Singh，Shivaram Rajguru和Sukhdev Thapar被绞死在印度独立运动期间杀害警察副警察。
+- -2024：反政府抗议活动在2024年塞内加尔总统大选举行。
+- -  2019年：雅加达快速运输系统雅加达MRT开始运营。
+- -  2018年：美国舞台的学生们为我们的生命进行游行，要求枪支控制枪支，以响应斯通曼道格拉斯高中枪击事件。
+- -  2018年：叙利亚内战：土耳其武装部队（TAF）和叙利亚国民军（SNA）完全控制了阿夫林地区，这标志着阿夫林进攻的终结。
+- -  2015年：9525航班在法国阿尔卑斯山坠毁，在一个明显的大规模谋杀案中，杀死了船上的所有150人。
+- -  2008年：不丹正式成为民主国家，其首次大选。
+- -  2003年：阿拉伯联盟以21-1投票支持决议，要求结束2003年入侵伊拉克。
+- -  1999年：一辆载有人造黄油和面粉的货车在蒙特·布兰克隧道内着火，造成了一个杀死38人的地狱。
+- -  1999年：科索沃战争：北约没有联合国安理会（UNSC）批准对南斯拉夫的袭击，这是北约第一次袭击了一个主权国家。
+- -  1998年：RüdigerMarmulla博士在德国雷根斯堡大学进行了第一个计算机辅助的骨细分市场导航。
+- -  1998年：龙卷风在印度横扫丹坦，炸死250人，炸伤3,000人。
+- -  1998年：米切尔·约翰逊（Mitchell Johnson）和安德鲁·戈尔登（Andrew Golden）分别为11岁和13岁，在阿肯色州琼斯伯勒的西区中学对老师和学生开火；五人被杀，十人受伤。
+- -  1993年：Carolyn和Eugene Shoemaker和加利福尼亚州Palomar天文台的David Levy发现了Comet Shoemaker-Levy 9。
+- -  1992年：航天飞机亚特兰蒂斯（Atlantis）在STS-45上推出。
+- -  1990年：印度对斯里兰卡内战的干预结束了，最后一艘印度和平武力离开斯里兰卡。
+- -  1989年：在阿拉斯加的威廉王子湾（Prince prince Sound）中，埃克森·瓦尔迪兹（Exxon Valdez）在搁浅后，将240,000桶（38,000平方米）的原油溢出。
+- -  1986年：Loscoe气体爆炸导致有关垃圾填埋场垃圾填埋场的新法律。
+- -  1982年：孟加拉国总统阿卜杜勒斯·萨塔尔（Abdus Sattar）在陆军首席中尉侯赛因·穆罕默德·埃尔沙德（Hussain Muhammad Ershad）领导的一场无流血政变中被罢免，后者暂停宪法并实施戒严。
+- -  1980年：萨尔瓦多大主教ÓscarRomero在圣萨尔瓦多庆祝弥撒时被暗杀。
+- -  1977年：莫拉吉·德赛（Morarji Desai）成为印度总理，第一位不属于印度国民大会的总理。
+- -  1976年：在阿根廷，武装部队推翻了总统伊莎贝尔·佩隆（IsabelPerón）的宪法政府，并开始了为期七年的独裁时期，自制了国家重组过程。
+- -  1972年：爱德华·希思（Edward Heath）领导下的英国政府对北爱尔兰进行了直接统治。
+- -  1961年：建立了魁北克法语委员会。
+- -  1949年：荷兰首席党卫军兼警察领导人汉斯·阿尔宾·劳特（Hanns Albin Rauter）因危害人类罪被定罪并被处决。
+- -  1946年：英国内阁任务到达印度，讨论并计划将权力从英国拉吉转移到印度领导。
+- -  1944年：第二次世界大战：在电影《大逃生》中被戏剧化的事件中，有76名盟军战俘开始闯入德国营地斯塔拉格·卢夫特三世。
+- -  1944年：德国军队大屠杀335罗马的意大利平民。
+- -  1939年：1939年的列支敦士登·普茨（Liechtenstein Putsch）举行；从Nendeln March到Vaduz的大约40名VBDL成员，目的是推翻政府并激发Liechtenstein的吞并到德国。
+- -  1934年：美国国会通过了《泰丁斯 - 麦克杜菲法案》，允许菲律宾成为自治的联邦。
+- -  1927年：南京事件：外国军舰轰炸了中国的南京，以捍卫城市内的外国公民。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-03-23 01:46:49 UTC）*
+*（更新于: 2025-03-24 01:45:00 UTC）*
