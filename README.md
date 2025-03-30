@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: The ship Ever Given was dislodged from the Suez Canal.
-- 2017: Prime Minister Theresa May invokes Article 50 of the Treaty on European Union, formally beginning the United Kingdom's withdrawal from the European Union.
-- 2016: A United States Air Force F-16 crashes during takeoff from Bagram Airfield in Afghanistan.
-- 2015: Air Canada Flight 624 skids off the runway at Halifax Stanfield International Airport, after arriving from Toronto shortly past midnight. All 133 passengers and five crews on board survive, with 23 treated for minor injuries.
-- 2014: The first same-sex marriages in England and Wales are performed.
-- 2013: At least 36 people are killed when a 16-floor building collapses in the commercial capital Dar es Salaam, Tanzania.
-- 2010: Two suicide bombers hit the Moscow Metro system at the peak of the morning rush hour, killing 40.
-- 2004: The Council on Tall Buildings and Urban Habitat certifies Taipei 101 as the world's tallest building, based on the building having been topped out on 1 July  2003, even though the building was not completed until 31 December 2004.
-- 2004: Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia, and Slovenia join NATO as full members.
-- 2002: In reaction to the Passover massacre two days prior, Israel launches Operation Defensive Shield against Palestinian militants, its largest military operation in the West Bank since the 1967 Six-Day War.
-- 2001: A Gulfstream III crashes on approach to Aspen/Pitkin County Airport in Aspen, Colorado. All 18 people on board are killed.
-- 1999: A magnitude 6.8 earthquake in India strikes the Chamoli district in Uttar Pradesh, killing 103.
-- 1999: The Dow Jones Industrial Average closes above the 10,000 mark (10,006.78) for the first time, during the height of the dot-com bubble.
-- 1990: The Czechoslovak parliament is unable to reach an agreement on what to call the country after the fall of Communism, sparking the so-called Hyphen War.
-- 1984: The Baltimore Colts load its possessions onto fifteen Mayflower moving trucks in the early morning hours and transfer its operations to Indianapolis.
-- 1982: The Canada Act 1982 receives the Royal Assent from Queen Elizabeth II, setting the stage for the Queen of Canada to proclaim the Constitution Act, 1982.
-- 1974: Terracotta Army was discovered in Shaanxi province, China.
-- 1974: NASA's Mariner 10 becomes the first space probe to fly by Mercury.
-- 1973: Operation Barrel Roll, a covert American bombing campaign in Laos to stop communist infiltration of South Vietnam, ends.
-- 1973: Vietnam War: The last United States combat soldiers leave South Vietnam.
-- 1971: My Lai massacre: Lieutenant William Calley is convicted of premeditated murder and sentenced to life in prison.
-- 1968: The funeral of Yuri Gagarin, the first man in space, started in Moscow, with thousands of people in attendance.
-- 1962: Arturo Frondizi, the president of Argentina, is overthrown in a military coup by Argentina's armed forces, ending an 11.mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}1⁄2 day constitutional crisis.
-- 1961: The Twenty-third Amendment to the United States Constitution is ratified, allowing residents of Washington, D.C., to vote in presidential elections.
-- 1957: The New York, Ontario and Western Railway makes its final run, the first major U.S. railroad to be abandoned in its entirety.
-- 1951: Hypnosis murders in Copenhagen.
-- 1951: Julius and Ethel Rosenberg are convicted of conspiracy to commit espionage.
-- 1947: The Malagasy Uprising against French colonial rule begins in Madagascar.
-- 1942: The Bombing of Lübeck in World War II is the first major success for the RAF Bomber Command against Germany and a German city.
-- 1941: World War II: British Royal Navy and Royal Australian Navy forces defeat those of the Italian Regia Marina off the Peloponnesian coast of Greece in the Battle of Cape Matapan.
+- 2023: Donald Trump becomes the first former United States president to be indicted by a grand jury.
+- 2019: Pope Francis visits Morocco.
+- 2018: The Israeli Army kills 17 Palestinians and wounds 1,400 in Gaza during Land Day protests.
+- 2017: SpaceX conducts the world's first reflight of an orbital class rocket.
+- 2011: Min Aung Hlaing is appointed as the Commander-in-Chief of Myanmar's armed forces.
+- 2009: Twelve gunmen attack the Manawan Police Academy in Lahore, Pakistan.
+- 2008: Drolma Kyi arrested by Chinese authorities.
+- 2006: Cyclone Glenda, one of the strongest tropical cyclones in the Australian region makes landfall near Onslow, Western Australia.
+- 2002: The 2002 Lyon car attack takes place.
+- 1982: Space Shuttle program: STS-3 mission is completed with the landing of Columbia at White Sands Missile Range, New Mexico.
+- 1981: U.S. President Ronald Reagan is shot in the chest outside a Washington, D.C., hotel by John Hinckley Jr.; three others are wounded in the same incident.
+- 1979: Airey Neave, a British Member of Parliament (MP), is killed by a car bomb as he exits the Palace of Westminster. The Irish National Liberation Army claims responsibility.
+- 1976: Israeli-Palestinian conflict: in the first organized response against Israeli policies by a Palestinian collective since 1948, Palestinians create the first Land Day.
+- 1972: Vietnam War: The Easter Offensive begins after North Vietnamese forces cross into the Demilitarized Zone (DMZ) of South Vietnam.
+- 1967: Delta Air Lines Flight 9877 crashes at Louis Armstrong New Orleans International Airport, killing 19.
+- 1965: Vietnam War: A car bomb explodes in front of the United States Embassy, Saigon, killing 22 and wounding 183 others.
+- 1961: The Single Convention on Narcotic Drugs is signed in New York City.
+- 1959: Tenzin Gyatso, the 14th Dalai Lama, flees Tibet for India.
+- 1949: Cold War: A riot breaks out in Austurvöllur square in Reykjavík, when Iceland joins NATO.
+- 1945: World War II: Soviet forces invade Austria and capture Vienna. Polish and Soviet forces liberate Danzig.
+- 1944: Out of 795 Lancasters, Halifaxes and Mosquitos sent to attack Nuremberg, 95 bombers do not return, making it the largest RAF Bomber Command loss of the war.
+- 1944: World War II: Allied bombers conduct their most severe bombing run on Sofia, Bulgaria.
+- 1940: Second Sino-Japanese War: Japan declares Nanking capital of a new Chinese puppet government, nominally controlled by Wang Jingwei.
+- 1939: The Heinkel He 100 fighter sets a world airspeed record of 463 mph (745 km/h).
+- 1918: Beginning of the bloody March Events in Baku and other locations of Baku Governorate.
+- 1912: Sultan Abd al-Hafid signs the Treaty of Fez, making Morocco a French protectorate.
+- 1900: Archaeologists in Knossos, Crete, discover the first clay tablet with hieroglyphic writing in a script later called Linear B.
+- 1899: German Society of Chemistry issues an invitation to other national scientific organizations to appoint delegates to the International Committee on Atomic Weights.
+- 1885: The Battle for Kushka triggers the Panjdeh Incident which nearly gives rise to war between the Russian and British Empires.
+- 1870: Texas is readmitted to the United States Congress following Reconstruction.
 
 Data from muffinlabs
-*(Updated at: 2025-03-29 01:41:07 UTC)*
+*(Updated at: 2025-03-30 01:49:11 UTC)*
 
 # 历史上的今天 
 
-- -2021：曾经送出的这艘船从苏伊士运河中脱离。
-- -  2017年：总理特蕾莎（Theresa）可能会援引《欧盟条约》第50条，正式开始英国从欧盟撤离。
-- -  2016年：从阿富汗的巴格拉姆机场起飞期间，美国空军F-16坠毁。
-- -  2015年：加拿大航空公司624号航班在午夜后不久从多伦多到达哈利法克斯斯坦菲尔德国际机场的跑道。船上的所有133名乘客和5名船员都幸存下来，有23名因轻伤治疗。
-- -2014：进行了英格兰和威尔士的第一次同性婚姻。
-- -  2013年：当坦桑尼亚商业首都达累斯萨拉姆（Dar Es Salaam）倒塌时，至少有36人丧生。
-- -  2010年：两名自杀炸弹袭击者在早晨高峰时段达到莫斯科地铁系统，杀死了40人。
-- -  2004年：高大建筑和城市栖息地委员会证明台北101是世界上最高的建筑，这是根据2003年7月1日登上该建筑物的基础，即使该建筑物直到2004年12月31日才完成。
-- -  2004年：保加利亚，爱沙尼亚，拉脱维亚，立陶宛，罗马尼亚，斯洛伐克和斯洛文尼亚与北约一起成为正式成员。
-- -  2002年：为了回应两天前的逾越节大屠杀，以色列发动了防守盾，以抵抗巴勒斯坦武装分子，这是自1967年六日战争以来西岸最大的军事行动。
-- -  2001年：一场湾流III撞上了科罗拉多州阿斯彭市阿斯彭/皮特金县机场的接近。船上的所有18人都被杀。
-- -  1999年：印度的6.8级地震袭击了北方邦的Chamoli区，杀死103。
-- -  1999年：道琼斯工业平均水平在互联网泡沫的高峰期间首次关闭了10,000分（10,006.78）。
-- -  1990年：捷克斯洛伐克议会无法就共产主义倒塌后的国家达成协议，引发了所谓的连字符战争。
-- -  1984年：巴尔的摩小马队在清晨将其财产装载到15个五月花移动的卡车上，并将其运营转移到印第安纳波利斯。
-- -  1982年：《 1982年加拿大法案》获得了伊丽莎白二世女王的同意，为加拿大女王宣布1982年《宪法法》奠定了基础。
-- -  1974年：在中国山西省发现了兵马俑。
-- -  1974年：NASA的水手10成为第一个乘水星飞行的太空探测器。
-- -  1973年：在老挝的秘密美国爆炸式轰炸活动中，桶装行动卷，以阻止共产党的渗透到越南南部。
-- -  1973年：越南战争：最后的美国战斗士兵离开越南南部。
-- -  1971年：我的莱屠杀：威廉·卡利中尉因谋杀谋杀罪被定罪，并被判处无期徒刑。
-- -  1968年：太空中的第一个人尤里·加加林（Yuri Gagarin）的葬礼始于莫斯科，成千上万的人出席。
-- - 1962: Arturo Frondizi, the president of Argentina, is overthrown in a military coup by Argentina's armed forces, ending an 11.mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac。0px）;高度：1px;边距：-1px;溢出：隐藏；填充：0;位置：绝对;宽度：1px} 1⁄2天宪法危机。
-- -  1961年：批准了《美国宪法》的二十三修正案，允许华盛顿特区的居民在总统选举中投票。
-- -  1957年：纽约，安大略省和西部铁路进行了最终奔跑，这是第一个全面放弃的美国主要铁路。
-- -  1951年：哥本哈根的催眠谋杀案。
-- -  1951年：朱利叶斯（Julius）和埃塞尔·罗森伯格（Ethel Rosenberg）被判串谋进行间谍活动。
-- -  1947年：马达加斯加起义反对法国殖民统治在马达加斯加开始。
-- -  1942年：第二次世界大战中吕贝克的轰炸是皇家空军轰炸机对德国和德国城市的首要成功。
-- -  1941年：第二次世界大战：英国皇家海军和澳大利亚皇家海军部队在马图帕斯角（Cape Matapan）战役中击败了希腊伯罗奔尼撒海岸的意大利雷吉亚码头的玛丽娜。
+- -  2023年：唐纳德·特朗普（Donald Trump）成为第一位被大陪审团起诉的前美国总统。
+- -  2019年：教皇方济各访问摩洛哥。
+- -  2018年：在土地日抗议期间，以色列军队在加沙杀死了17名巴勒斯坦人，1,400人的伤口。
+- -  2017年：SpaceX是世界上第一个轨道级火箭的摘要。
+- -  2011年：Min Aung Hlaing被任命为缅甸武装部队总司令。
+- -  2009年：十二名持枪者袭击了巴基斯坦拉合尔的曼万警察学院。
+- -  2008年：中国当局逮捕了Drolma Kyi。
+- -  2006年：Cyclone Glenda是澳大利亚地区最强的热带气旋之一，使登陆西澳大利亚州的Onslow附近。
+- -  2002年：2002年里昂汽车袭击发生。
+- -  1982年：航天飞机计划：STS-3任务完成，哥伦比亚在新墨西哥州的白沙导弹范围内登陆。
+- -  1981年：美国总统罗纳德·里根（Ronald Reagan）在华盛顿特区外的胸部被约翰·欣克利（John Hinckley Jr）枪杀；在同一事件中，另外三人受伤。
+- -  1979年：国会议员艾瑞·尼夫（Airey Neave）在离开威斯敏斯特宫时被汽车炸弹杀害。爱尔兰民族解放部队声称责任。
+- -  1976年：以色列 - 巴勒斯坦冲突：在1948年以来，巴勒斯坦集体对以色列政策的第一个有组织的反应中，巴勒斯坦人创造了第一天。
+- -  1972年：越南战争：复活节进攻开始后，北越部队越过南越南越南的非军事区（DMZ）。
+- -  1967年：三角洲航空公司9877航班在路易斯·阿姆斯特朗新奥尔良国际机场坠毁，杀死了19。
+- -  1965年：越南战争：一枚汽车炸弹在美国大使馆前爆炸，炸死22人，炸伤183人。
+- -  1961年：关于麻醉药品的单一大会在纽约市签署。
+- -  1959年：第14座达赖喇嘛Tenzin Gyatso逃往印度西藏。
+- -  1949年：冷战：当冰岛加入北约时，一场骚乱在雷克雅未克的奥斯图尔沃尔广场爆发。
+- -  1945年：第二次世界大战：苏联军队入侵奥地利并占领维也纳。波兰和苏联部队解放了丹兹格。
+- -  1944年：在795名兰开斯特人中，哈利法克斯和蚊子发动攻击纽伦堡，有95架轰炸机没有返回，这使其成为战争最大的皇家空军轰炸机的损失。
+- -  1944年：第二次世界大战：盟军在保加利亚索非亚进行最严重的轰炸。
+- -  1940年：第二次中日战争：日本宣布了一个新中国木偶政府的范围，名义上由王·金韦（Wang Jingwei）控制。
+- -  1939年：Heinkel He 100战斗机创造了463英里/小时（745 km/h）的世界空速纪录。
+- -  1918年：巴库和巴库省其他地方的血腥游行活动开始。
+- -  1912年：苏丹·阿卜杜勒·哈菲德（Sultan Abd al-Hafid）签署了《菲斯条约》，使摩洛哥成为法国保护国。
+- -  1900年：克里特（Crete）的克诺索斯（Knossos）的考古学家，以象形文字写作的第一个粘土平板电脑，后来又名为Linarear B.
+- -  1899年：德国化学协会向其他国家科学组织发出邀请，将代表任命为国际原子量委员会。
+- -  1885年：库什卡的战斗触发了潘杰德事件，这几乎引起了俄罗斯和英国帝国之间的战争。
+- -  1870年：重建后，得克萨斯州已向美国国会录取。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-03-29 01:41:07 UTC）*
+*（更新于: 2025-03-30 01:49:11 UTC）*
