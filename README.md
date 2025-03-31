@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: Donald Trump becomes the first former United States president to be indicted by a grand jury.
-- 2019: Pope Francis visits Morocco.
-- 2018: The Israeli Army kills 17 Palestinians and wounds 1,400 in Gaza during Land Day protests.
-- 2017: SpaceX conducts the world's first reflight of an orbital class rocket.
-- 2011: Min Aung Hlaing is appointed as the Commander-in-Chief of Myanmar's armed forces.
-- 2009: Twelve gunmen attack the Manawan Police Academy in Lahore, Pakistan.
-- 2008: Drolma Kyi arrested by Chinese authorities.
-- 2006: Cyclone Glenda, one of the strongest tropical cyclones in the Australian region makes landfall near Onslow, Western Australia.
-- 2002: The 2002 Lyon car attack takes place.
-- 1982: Space Shuttle program: STS-3 mission is completed with the landing of Columbia at White Sands Missile Range, New Mexico.
-- 1981: U.S. President Ronald Reagan is shot in the chest outside a Washington, D.C., hotel by John Hinckley Jr.; three others are wounded in the same incident.
-- 1979: Airey Neave, a British Member of Parliament (MP), is killed by a car bomb as he exits the Palace of Westminster. The Irish National Liberation Army claims responsibility.
-- 1976: Israeli-Palestinian conflict: in the first organized response against Israeli policies by a Palestinian collective since 1948, Palestinians create the first Land Day.
-- 1972: Vietnam War: The Easter Offensive begins after North Vietnamese forces cross into the Demilitarized Zone (DMZ) of South Vietnam.
-- 1967: Delta Air Lines Flight 9877 crashes at Louis Armstrong New Orleans International Airport, killing 19.
-- 1965: Vietnam War: A car bomb explodes in front of the United States Embassy, Saigon, killing 22 and wounding 183 others.
-- 1961: The Single Convention on Narcotic Drugs is signed in New York City.
-- 1959: Tenzin Gyatso, the 14th Dalai Lama, flees Tibet for India.
-- 1949: Cold War: A riot breaks out in Austurvöllur square in Reykjavík, when Iceland joins NATO.
-- 1945: World War II: Soviet forces invade Austria and capture Vienna. Polish and Soviet forces liberate Danzig.
-- 1944: Out of 795 Lancasters, Halifaxes and Mosquitos sent to attack Nuremberg, 95 bombers do not return, making it the largest RAF Bomber Command loss of the war.
-- 1944: World War II: Allied bombers conduct their most severe bombing run on Sofia, Bulgaria.
-- 1940: Second Sino-Japanese War: Japan declares Nanking capital of a new Chinese puppet government, nominally controlled by Wang Jingwei.
-- 1939: The Heinkel He 100 fighter sets a world airspeed record of 463 mph (745 km/h).
-- 1918: Beginning of the bloody March Events in Baku and other locations of Baku Governorate.
-- 1912: Sultan Abd al-Hafid signs the Treaty of Fez, making Morocco a French protectorate.
-- 1900: Archaeologists in Knossos, Crete, discover the first clay tablet with hieroglyphic writing in a script later called Linear B.
-- 1899: German Society of Chemistry issues an invitation to other national scientific organizations to appoint delegates to the International Committee on Atomic Weights.
-- 1885: The Battle for Kushka triggers the Panjdeh Incident which nearly gives rise to war between the Russian and British Empires.
-- 1870: Texas is readmitted to the United States Congress following Reconstruction.
+- 2023: A historic tornado outbreak occurs in the American Midwest and its northern South.
+- 2018: Start of the 2018 Armenian revolution.
+- 2016: NASA astronaut Scott Kelly and Roscosmos cosmonaut Mikhail Kornienko return to Earth after a yearlong mission at the International Space Station.
+- 2005: The dwarf planet Makemake is discovered by a team led by astronomer Michael E. Brown at the Palomar Observatory.
+- 2004: Iraq War in Anbar Province: In Fallujah, Iraq, four American private military contractors working for Blackwater USA, are killed after being ambushed.
+- 1998: Netscape releases Mozilla source code under an open source license.
+- 1995: TAROM Flight 371, an Airbus A310-300, crashes near Balotesti, Romania, killing all 60 people on board.
+- 1995: Selena is murdered by her fan club president Yolanda Saldívar at a Days Inn in Corpus Christi, Texas.
+- 1993: The Macao Basic Law is adopted by the Eighth National People's Congress of China to take effect December 20, 1999. Resumption by China of the Exercise of Sovereignty over Macao
+- 1992: The Treaty of Federation is signed in Moscow.
+- 1992: The USS Missouri, the last active United States Navy battleship, is decommissioned in Long Beach, California.
+- 1991: The Warsaw Pact formally disbands.
+- 1991: Georgian independence referendum: Nearly 99 percent of the voters support the country's independence from the Soviet Union.
+- 1990: Approximately 200,000 protesters take to the streets of London to protest against the newly introduced Poll Tax.
+- 1986: Mexicana de Aviación Flight 940 crashes into the Sierra Madre Oriental mountain range near the Mexican town of Maravatío, killing 167.
+- 1980: The Chicago, Rock Island and Pacific Railroad operates its final train after being ordered to liquidate its assets because of bankruptcy and debts owed to creditors.
+- 1970: Explorer 1 re-enters the Earth's atmosphere after 12 years in orbit.
+- 1968: American President Lyndon B. Johnson speaks to the nation of "Steps to Limit the War in Vietnam" in a television address. At the conclusion of his speech, he announces: "I shall not seek, and I will not accept, the nomination of my party for another term as your President."
+- 1966: The Labour Party under Harold Wilson wins the 1966 United Kingdom general election.
+- 1966: The Soviet Union launches Luna 10 which later becomes the first space probe to enter orbit around the Moon.
+- 1964: Brazilian General Olímpio Mourão Filho orders his troops to move towards Rio de Janeiro, beginning the coup d'état and 21 years of military dictatorship.
+- 1959: The 14th Dalai Lama, crosses the border into India and is granted political asylum.
+- 1958: In the Canadian federal election, the Progressive Conservatives, led by John Diefenbaker, win the largest percentage of seats in Canadian history, with 208 seats of 265.
+- 1957: Elections to the Territorial Assembly of the French colony Upper Volta are held. After the elections PDU and MDV form a government.
+- 1951: Remington Rand delivers the first UNIVAC I computer to the United States Census Bureau.
+- 1949: The Dominion of Newfoundland joins the Canadian Confederation and becomes the 10th Province of Canada.
+- 1945: World War II: A defecting German pilot delivers a Messerschmitt Me 262A-1, the world's first operational jet-powered fighter aircraft, to the Americans, the first to fall into Allied hands.
+- 1942: World War II: Japanese forces invade Christmas Island, then a British possession.
+- 1939: Events preceding World War II in Europe: Prime Minister Neville Chamberlain pledges British military support to the Second Polish Republic in the event of an invasion by Nazi Germany.
+- 1933: The Civilian Conservation Corps is established with the mission of relieving rampant unemployment in the United States.
 
 Data from muffinlabs
-*(Updated at: 2025-03-30 01:49:11 UTC)*
+*(Updated at: 2025-03-31 01:47:42 UTC)*
 
 # 历史上的今天 
 
-- -  2023年：唐纳德·特朗普（Donald Trump）成为第一位被大陪审团起诉的前美国总统。
-- -  2019年：教皇方济各访问摩洛哥。
-- -  2018年：在土地日抗议期间，以色列军队在加沙杀死了17名巴勒斯坦人，1,400人的伤口。
-- -  2017年：SpaceX是世界上第一个轨道级火箭的摘要。
-- -  2011年：Min Aung Hlaing被任命为缅甸武装部队总司令。
-- -  2009年：十二名持枪者袭击了巴基斯坦拉合尔的曼万警察学院。
-- -  2008年：中国当局逮捕了Drolma Kyi。
-- -  2006年：Cyclone Glenda是澳大利亚地区最强的热带气旋之一，使登陆西澳大利亚州的Onslow附近。
-- -  2002年：2002年里昂汽车袭击发生。
-- -  1982年：航天飞机计划：STS-3任务完成，哥伦比亚在新墨西哥州的白沙导弹范围内登陆。
-- -  1981年：美国总统罗纳德·里根（Ronald Reagan）在华盛顿特区外的胸部被约翰·欣克利（John Hinckley Jr）枪杀；在同一事件中，另外三人受伤。
-- -  1979年：国会议员艾瑞·尼夫（Airey Neave）在离开威斯敏斯特宫时被汽车炸弹杀害。爱尔兰民族解放部队声称责任。
-- -  1976年：以色列 - 巴勒斯坦冲突：在1948年以来，巴勒斯坦集体对以色列政策的第一个有组织的反应中，巴勒斯坦人创造了第一天。
-- -  1972年：越南战争：复活节进攻开始后，北越部队越过南越南越南的非军事区（DMZ）。
-- -  1967年：三角洲航空公司9877航班在路易斯·阿姆斯特朗新奥尔良国际机场坠毁，杀死了19。
-- -  1965年：越南战争：一枚汽车炸弹在美国大使馆前爆炸，炸死22人，炸伤183人。
-- -  1961年：关于麻醉药品的单一大会在纽约市签署。
-- -  1959年：第14座达赖喇嘛Tenzin Gyatso逃往印度西藏。
-- -  1949年：冷战：当冰岛加入北约时，一场骚乱在雷克雅未克的奥斯图尔沃尔广场爆发。
-- -  1945年：第二次世界大战：苏联军队入侵奥地利并占领维也纳。波兰和苏联部队解放了丹兹格。
-- -  1944年：在795名兰开斯特人中，哈利法克斯和蚊子发动攻击纽伦堡，有95架轰炸机没有返回，这使其成为战争最大的皇家空军轰炸机的损失。
-- -  1944年：第二次世界大战：盟军在保加利亚索非亚进行最严重的轰炸。
-- -  1940年：第二次中日战争：日本宣布了一个新中国木偶政府的范围，名义上由王·金韦（Wang Jingwei）控制。
-- -  1939年：Heinkel He 100战斗机创造了463英里/小时（745 km/h）的世界空速纪录。
-- -  1918年：巴库和巴库省其他地方的血腥游行活动开始。
-- -  1912年：苏丹·阿卜杜勒·哈菲德（Sultan Abd al-Hafid）签署了《菲斯条约》，使摩洛哥成为法国保护国。
-- -  1900年：克里特（Crete）的克诺索斯（Knossos）的考古学家，以象形文字写作的第一个粘土平板电脑，后来又名为Linarear B.
-- -  1899年：德国化学协会向其他国家科学组织发出邀请，将代表任命为国际原子量委员会。
-- -  1885年：库什卡的战斗触发了潘杰德事件，这几乎引起了俄罗斯和英国帝国之间的战争。
-- -  1870年：重建后，得克萨斯州已向美国国会录取。
+- -  2023年：历史悠久的龙卷风爆发发生在美国中西部及其北部。
+- -  2018年：2018年亚美尼亚革命的开始。
+- -  2016年：NASA宇航员Scott Kelly和Roscosmos Cosmonaut Mikhail Kornienko在国际空间站进行了一年的任务后重返地球。
+- -  2005年：矮人行星马克马克（Makemake）是由天文学家迈克尔·布朗（Michael E.
+- -  2004年：安巴尔省的伊拉克战争：在美国布莱克沃特（Blackwater USA）工作的四名美国私人军事承包商在伊拉克的Fallujah被伏击后被杀害。
+- -1998：Netscape根据开源许可发布Mozilla源代码。
+- -  1995年：塔罗姆（Tarom）航班371，空中客车A310-300，在罗马尼亚巴洛特斯蒂附近坠毁，杀死了船上的所有60人。
+- -  1995年：赛琳娜（Selena）在德克萨斯州科珀斯克里斯蒂市（Corpus Christi）的一家旅馆（Days Inn）被她的粉丝俱乐部主席YolandaSaldívar谋杀。
+- -  1993年：《澳门基础法》由中国第八届全国人民大会通过1999年12月20日生效。
+- -  1992年：《联邦条约》在莫斯科签署。
+- -  1992年：密苏里州号航空母舰是最后一次活跃的美国海军战舰，在加利福尼亚州长滩退役。
+- -  1991年：华沙条约正式解散。
+- -  1991年：格鲁吉亚独立公投：近99％的选民支持该国脱离苏联的独立。
+- -  1990年：大约有200,000名抗议者带到伦敦的街道上，以抗议新提出的投票税。
+- -  1986年：墨西哥deAviación940航班撞上墨西哥镇Maravatío附近的塞拉马达雷东方山脉，杀害167。
+- -  1980年：芝加哥，洛克岛和太平洋铁路公司因破产和欠债权人的债务而被勒令清算其资产后运营其最后火车。
+- -  1970年：Explorer 1在轨道上12年后重新进入地球大气层。
+- -  1968年：美国总统林登·约翰逊（Lyndon B. Johnson）在电视讲话中对“限制越南战争的步骤”进行了交谈。在演讲结束时，他宣布：“我不会寻求，我不会接受我的政党作为您的总统的另一个任期的提名。”
+- -  1966年：哈罗德·威尔逊（Harold Wilson）领导下的工党赢得了1966年英国大选。
+- -  1966年：苏联推出了Luna 10，后来成为第一个进入月球周围轨道的太空探测器。
+- -  1964年：巴西将军奥利米奥·穆恩（OlímpioMourãoFilho）命令他的部队朝着里约热内卢（Rio de Janeiro）迁移，开始了政变和21年的军事独裁统治。
+- -  1959年：第14座达赖喇嘛越过边界进入印度，并被授予政治庇护。
+- -  1958年：在加拿大联邦大选中，由约翰·迪芬贝克（John Diefenbaker）领导的进步保守派赢得了加拿大历史上最大的席位，其中208个席位为265。
+- -  1957年：举行了法国殖民地上伏尔塔地区大会的选举。选举结束后，PDU和MDV组成了政府。
+- -  1951年：雷明顿·兰德（Remington Rand）将第一台Univac I计算机交给美国人口普查局。
+- -  1949年：纽芬兰的统治加入了加拿大联邦，并成为加拿大第十省。
+- -  1945年：第二次世界大战：一名缺陷的德国飞行员将Messerchmitt ME 262A-1（世界上第一批由喷气式飞机运营的战斗机飞机）提供给美国人，这是第一个落入盟军手中的美国人。
+- -  1942年：第二次世界大战：日本部队入侵了圣诞节岛，然后是英国拥有。
+- -  1939年：欧洲第二次世界大战之前的事件：纳粹德国的入侵时，内维尔·张伯伦总理保证英国对第二波兰共和国的军事支持。
+- -  1933年：建立了民用保护团，其任务是在美国缓解猖ramp的失业率。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-03-30 01:49:11 UTC）*
+*（更新于: 2025-03-31 01:47:42 UTC）*
