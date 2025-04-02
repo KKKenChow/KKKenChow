@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2016: The 2016 Nagorno-Karabakh conflict begins along the Nagorno-Karabakh Line of Contact.
-- 2011: After protests against the burning of the Quran turn violent, a mob attacks a United Nations compound in Mazar-i-Sharif, Afghanistan, resulting in the deaths of fourteen people, including seven UN workers.
-- 2006: Serious Organised Crime Agency (SOCA) of the Government of the United Kingdom is enforced, but later merged into National Crime Agency on 7 October 2013.
-- 2004: Google launches its Email service Gmail.
-- 2001: Same-sex marriage becomes legal in the Netherlands, the first contemporary country to allow it.
-- 2001: Former President of Federal Republic of Yugoslavia Slobodan Milošević surrenders to police special forces, to be tried on war crimes charges.
-- 2001: An EP-3E United States Navy surveillance aircraft collides with a Chinese People's Liberation Army Shenyang J-8 fighter jet. The Chinese pilot ejected but is subsequently lost. The Navy crew makes an emergency landing in Hainan, China and is detained.
-- 1999: Nunavut is established as a Canadian territory carved out of the eastern part of the Northwest Territories.
-- 1997: Comet Hale-Bopp is seen passing at perihelion.
-- 1993: NASCAR racer Alan Kulwicki is killed in a plane crash near the Tri-Cities Regional Airport in Blountville, Tennessee.
-- 1989: Margaret Thatcher's new local government tax, the Community Charge (commonly known as the "poll tax"), is introduced in Scotland.
-- 1986: Communist Party of Nepal (Mashal) cadres attack a number of police stations in Kathmandu, seeking to incite a popular rebellion.
-- 1984: Singer Marvin Gaye is shot to death by his father in his home in Arlington Heights, Los Angeles, California.
-- 1979: Iran becomes an Islamic republic by a 99% vote, officially overthrowing the Shah.
-- 1976: Steve Jobs and Steve Wozniak found Apple Computer, Inc.
-- 1974: The Local Government Act 1972 of England and Wales comes into effect.
-- 1973: Project Tiger, a tiger conservation project, is launched in the Jim Corbett National Park, India.
-- 1971: Bangladesh Liberation War: The Pakistan Army massacre more than a thousand people in Keraniganj Upazila, Bangladesh.
-- 1970: A Royal Air Maroc Sud Aviation Caravelle crashes near Berrechid, Morocco, killing 61.
-- 1970: President Richard Nixon signs the Public Health Cigarette Smoking Act into law.
-- 1969: The Hawker Siddeley Harrier, the first operational fighter aircraft with Vertical/Short Takeoff and Landing capabilities, enters service with the Royal Air Force.
-- 1964: The British Admiralty, War Office and Air Ministry are replaced by a unified Defence Council of the United Kingdom.
-- 1960: The TIROS-1 satellite transmits the first television picture from space.
-- 1955: The EOKA rebellion against the British Empire begins in Cyprus, with the goal of unifying with Greece.
-- 1954: United States President Dwight D. Eisenhower authorizes the creation of the United States Air Force Academy in Colorado Springs, Colorado.
-- 1949: The Government of Canada repeals Japanese-Canadian internment after seven years.
-- 1949: Chinese Civil War: The Chinese Communist Party holds unsuccessful peace talks with the Nationalist Party in Beijing, after three years of fighting.
-- 1948: Faroe Islands gain autonomy from Denmark.
-- 1948: Cold War: Communist forces respond to the introduction of the Deutsche Mark by attempting to force the western powers to withdraw from Berlin.
-- 1947: The only mutiny in the history of the Royal New Zealand Navy begins.
+- 2024: Viertola school shooting: A 12-year-old pupil is killed and two others injured by a shooter of the same age in Vantaa, Finland.
+- 2021: A Capitol Police officer is killed and another injured when an attacker rams his car into a barricade outside the United States Capitol.
+- 2021: At least 49 people are killed in a train derailment in Taiwan after a truck accidentally rolls onto the track.
+- 2020: COVID-19 pandemic: The total number of confirmed cases reach one million.
+- 2015: Four men steal items worth up to £200 million from an underground safe deposit facility in London's Hatton Garden area in what has been called the "largest burglary in English legal history."
+- 2015: Gunmen attack Garissa University College in Kenya, killing at least 148 people and wounding 79 others.
+- 2014: A spree shooting occurs at the Fort Hood army base in Texas, with four dead, including the gunman, and 16 others injured.
+- 2012: UTair Flight 120 crashes after takeoff from Roshchino International Airport in Tyumen, Russia, killing 33 and injuring 10.
+- 2012: A mass shooting at Oikos University in California leaves seven people dead and three injured.
+- 2011: India wins the Cricket World Cup for the second time in history under the captaincy of MS Dhoni.
+- 2006: Over 60 tornadoes break out in the United States; Tennessee is hardest hit with 29 people killed.
+- 2004: Islamist terrorists involved in the 11 March 2004 Madrid attacks attempt to bomb the Spanish high-speed train AVE near Madrid; the attack is thwarted.
+- 2002: Israeli forces surround the Church of the Nativity in Bethlehem, into which armed Palestinians had retreated.
+- 1992: Forty-two civilians are massacred in the town of Bijeljina in Bosnia and Herzegovina.
+- 1992: In New York, Mafia boss John Gotti is convicted of murder and racketeering and is later sentenced to life in prison.
+- 1991: Rita Johnston becomes the first female Premier of a Canadian province when she succeeds William Vander Zalm (who had resigned) as Premier of British Columbia.
+- 1989: Soviet leader Mikhail Gorbachev arrives in Havana, Cuba, to meet with Fidel Castro in an attempt to mend strained relations.
+- 1986: Alabama governor George Wallace, a former segregationist, best known for the "Stand in the Schoolhouse Door", announces that he will not seek a fifth four-year term and will retire from public life upon the end of his term in January 1987.
+- 1982: Falklands War: Argentina invades the Falkland Islands.
+- 1980: United States President Jimmy Carter signs the Crude Oil Windfall Profits Tax Act.
+- 1979: A Soviet bio-warfare laboratory at Sverdlovsk accidentally releases airborne anthrax spores, killing 66 plus an unknown amount of livestock.
+- 1976: Prince Norodom Sihanouk resigns as leader of Cambodia and is placed under house arrest.
+- 1975: Vietnam War: Thousands of civilian refugees flee from Quảng Ngãi Province in front of advancing North Vietnamese troops.
+- 1973: Launch of the LexisNexis computerized legal research service.
+- 1972: Actor Charlie Chaplin returns to the United States for the first time since being labeled a communist during the Red Scare in the early 1950s.
+- 1969: LOT Polish Airlines Flight 165 crashes into the Polica mountain near Zawoja, Poland, killing 53.
+- 1964: The Soviet Union launches Zond 1.
+- 1956: As the World Turns and The Edge of Night premiere on CBS. The two soaps become the first daytime dramas to debut in the 30-minute format.
+- 1954: A 19-month-old infant is swept up in the ocean tides at Hermosa Beach, California. Local photographer John L. Gaunt photographs the incident; 1955 Pulitzer winner "Tragedy by the Sea".
+- 1930: After the mysterious death of Empress Zewditu, Haile Selassie is proclaimed emperor of Ethiopia.
 
 Data from muffinlabs
-*(Updated at: 2025-04-01 01:53:52 UTC)*
+*(Updated at: 2025-04-02 01:44:04 UTC)*
 
 # 历史上的今天 
 
-- -  2016年：2016年的纳戈尔诺 - 卡拉巴赫冲突始于纳戈尔诺 - 卡拉巴赫的联系线。
-- -  2011年：在反对古兰经燃烧的抗议活动之后，暴民袭击了阿富汗马扎尔i-Sharif的联合国大院，导致14人死亡，其中包括七名联合国工人。
-- -  2006年：英国政府的严重有组织犯罪局（SOCA）被执行，但随后于2013年10月7日合并为国家犯罪局。
-- -  2004年：Google推出了其电子邮件服务Gmail。
-- -  2001年：同性婚姻在荷兰是合法的，这是第一个允许它的当代国家。
-- -  2001年：南斯拉夫斯洛博丹·米洛舍维奇（SlobodanMilošević）前总统向警察特种部队投降，以战争罪行进行审判。
-- -  2001年：EP-3E美国海军监视飞机与中国人民解放军Shenyang J-8战斗机相撞。中国飞行员弹出，但随后丢失了。海军船员紧急降落在中国海南，被拘留。
-- -  1999年：努纳武特（Nunavut）被确定为从西北地区东部雕刻而成的加拿大领土。
-- -1997：看到Hale-Bopp彗星在近日座中经过。
-- -  1993年：NASCAR赛车手Alan Kulwicki在田纳西州布朗特维尔的Tri-Cities区域机场附近的一次飞机失事中丧生。
-- -  1989年：玛格丽特·撒切尔（Margaret Thatcher）的新地方政府税，社区指控（通常称为“投票税”），是在苏格兰引入的。
-- -  1986年：尼泊尔共产党（马沙尔）干部袭击了加德满都的许多警察局，试图煽动受欢迎的叛乱。
-- -  1984年：歌手马文·盖伊（Marvin Gaye）在加利福尼亚州洛杉矶阿灵顿高地的家中被父亲枪杀。
-- -  1979年：伊朗以99％的投票成为伊斯兰共和国，正式推翻了沙阿。
-- -  1976年：史蒂夫·乔布斯（Steve Jobs）和史蒂夫·沃兹尼亚克（Steve Wozniak）找到了Apple Computer，Inc.。
-- -  1974年：《 1972年英格兰和威尔士的地方政府法》生效。
-- -  1973年：老虎保护项目Tiger Project Project在印度吉姆·科贝特国家公园（Jim Corbett National Park）发射。
-- -  1971年：孟加拉国解放战争：巴基斯坦陆军大屠杀在孟加拉国的Keraniganj upazila中有1000多人。
-- -  1970年：摩洛哥贝雷奇德附近的皇家空气玛克斯·苏德·航空公司（Royal Air Maroc Sud Aviation Caravelle）坠毁，杀死了61。
-- -  1970年：总统理查德·尼克松（Richard Nixon）将《公共卫生吸烟法》签署为法律。
-- -  1969年：小贩Siddeley Harrier是第一架具有垂直/短起来和着陆功能的作战战斗机，可与皇家空军一起服役。
-- -  1964年：英国海军部，战争办公室和空中部被英国的统一国防委员会所取代。
-- -  1960年：Tiros-1卫星从太空传输了第一台电视图片。
-- -  1955年：对大英帝国的欧洲叛乱始于塞浦路斯，目的是与希腊统一。
-- -  1954年：美国总统德怀特·D·艾森豪威尔（D. Eisenhower）授权在科罗拉多州科罗拉多斯普林斯的美国空军学院创建。
-- -  1949年：加拿大政府在七年后废除了日本加拿大的实习。
-- -  1949年：中国内战：经过三年的战斗，中国共产党与北京的民族主义党进行了不成功的和平谈判。
-- -  1948年：法罗群岛从丹麦获得自治。
-- -  1948年：冷战：共产党军队通过试图迫使西方大国从柏林撤离，以回应德意志商标的引入。
-- -  1947年：新西兰皇家海军历史上唯一的叛变开始。
+- -  2024年：维尔托拉学校的枪击事件：一名12岁的学生被杀，另外两名受到芬兰万塔塔同龄人的射击者的伤害。
+- -  2021年：当一名袭击者将汽车撞到美国国会大厦外的一个路障时，国会大厦警察被杀，另一人受伤。
+- -2021：一辆卡车不小心驶向赛道后，至少有49人在台湾的火车出轨中丧生。
+- -2020：Covid-19-19，大流行：确认案件的总数达到100万。
+- -  2015年：四名男子从伦敦哈顿花园地区的一个地下保险柜设施中窃取价值2亿英镑的物品，该设施被称为“英国法律历史上最大的盗窃案”。
+- -  2015年：枪手袭击肯尼亚的加里萨大学学院，杀死了至少148人，炸伤79人。
+- -  2014年：德克萨斯州的胡德堡军队基地发生了一次狂热的枪击事件，其中有四人死亡，包括枪手，另有16人受伤。
+- -  2012年：从俄罗斯泰曼的罗什奇诺国际机场起飞后，乌塔尔120号航班坠毁，造成33人丧生，受伤10。
+- -  2012年：在加利福尼亚的Oikos University进行大规模枪击事件，造成7人死亡，三人受伤。
+- -  2011年：印度在MS Dhoni的队长下第二次赢得了板球世界杯。
+- -  2006年：超过60多个龙卷风在美国爆发；田纳西州被29人丧生而受到打击。
+- -  2004年：参与2004年3月11日马德里袭击的伊斯兰恐怖分子试图轰炸马德里附近的西班牙高速火车大道；攻击受到挫败。
+- -  2002年：以色列部队围绕着伯利恒的耶稣诞生教会，武装巴勒斯坦人撤退了。
+- -  1992年：在波斯尼亚和黑塞哥维那的比耶尔吉纳镇被屠杀了42名平民。
+- -  1992年：在纽约，黑手党老板约翰·戈蒂（John Gotti）被判谋杀和敲诈勒索，后来被判处无期徒刑。
+- -  1991年：丽塔·约翰斯顿（Rita Johnston）接替威廉·范德·扎尔姆（William Vander Zalm）（辞职）担任不列颠哥伦比亚省总理时，成为加拿大省的第一任女总理。
+- -  1989年：苏联领导人米哈伊尔·戈尔巴乔夫（Mikhail Gorbachev）到达古巴哈瓦那，与菲德尔·卡斯特罗（Fidel Castro）会面，试图解决紧张的关系。
+- -  1986年：阿拉巴马州州长乔治·华莱士（George Wallace）是前种族隔离主义者，以“校舍里的立场”而闻名，他宣布他不会寻求第五个四年任期，并将在1987年1月结束时从公共生活中退休。
+- -  1982年：福克兰战争：阿根廷入侵福克兰群岛。
+- -  1980年：美国总统吉米·卡特（Jimmy Carter）签署了《原油盈余税收法》。
+- -  1979年：Sverdlovsk的一家苏联生物 - 战线实验室不小心释放了空中炭疽孢子，杀死了66次加上未知数的牲畜。
+- -  1976年：Norodom Sihanouk王子辞去柬埔寨领导人的职务，并被逮捕。
+- -  1975年：越南战争：成千上万的平民难民逃离了北部越南军队的前面。
+- -  1973年：发射Lexisnexis计算机化法律研究服务。
+- -  1972年：演员查理·卓别林（Charlie Chaplin）自1950年代初期的红色恐慌中被标记为共产党以来，首次返回美国。
+- -  1969年：波兰航空公司165号航班撞上波兰扎沃贾附近的波利卡山，杀死了53。
+- -  1964年：苏联推出了Zond 1。
+- -  1956年：随着世界的转变和夜晚首映的边缘。两种肥皂成为以30分钟格式首次亮相的第一部日常戏剧。
+- -  1954年：一个19个月大的婴儿在加利福尼亚州赫莫萨海滩的海潮中被扫除。当地摄影师John L. Gaunt拍摄了事件；1955年，普利策的冠军“大海的悲剧”。
+- -  1930年：祖迪图皇后神秘之死后，海尔·塞拉西（Haile Selassie）被宣布为埃塞俄比亚皇帝。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-04-01 01:53:52 UTC）*
+*（更新于: 2025-04-02 01:44:04 UTC）*
