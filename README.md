@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Viertola school shooting: A 12-year-old pupil is killed and two others injured by a shooter of the same age in Vantaa, Finland.
-- 2021: A Capitol Police officer is killed and another injured when an attacker rams his car into a barricade outside the United States Capitol.
-- 2021: At least 49 people are killed in a train derailment in Taiwan after a truck accidentally rolls onto the track.
-- 2020: COVID-19 pandemic: The total number of confirmed cases reach one million.
-- 2015: Four men steal items worth up to £200 million from an underground safe deposit facility in London's Hatton Garden area in what has been called the "largest burglary in English legal history."
-- 2015: Gunmen attack Garissa University College in Kenya, killing at least 148 people and wounding 79 others.
-- 2014: A spree shooting occurs at the Fort Hood army base in Texas, with four dead, including the gunman, and 16 others injured.
-- 2012: UTair Flight 120 crashes after takeoff from Roshchino International Airport in Tyumen, Russia, killing 33 and injuring 10.
-- 2012: A mass shooting at Oikos University in California leaves seven people dead and three injured.
-- 2011: India wins the Cricket World Cup for the second time in history under the captaincy of MS Dhoni.
-- 2006: Over 60 tornadoes break out in the United States; Tennessee is hardest hit with 29 people killed.
-- 2004: Islamist terrorists involved in the 11 March 2004 Madrid attacks attempt to bomb the Spanish high-speed train AVE near Madrid; the attack is thwarted.
-- 2002: Israeli forces surround the Church of the Nativity in Bethlehem, into which armed Palestinians had retreated.
-- 1992: Forty-two civilians are massacred in the town of Bijeljina in Bosnia and Herzegovina.
-- 1992: In New York, Mafia boss John Gotti is convicted of murder and racketeering and is later sentenced to life in prison.
-- 1991: Rita Johnston becomes the first female Premier of a Canadian province when she succeeds William Vander Zalm (who had resigned) as Premier of British Columbia.
-- 1989: Soviet leader Mikhail Gorbachev arrives in Havana, Cuba, to meet with Fidel Castro in an attempt to mend strained relations.
-- 1986: Alabama governor George Wallace, a former segregationist, best known for the "Stand in the Schoolhouse Door", announces that he will not seek a fifth four-year term and will retire from public life upon the end of his term in January 1987.
-- 1982: Falklands War: Argentina invades the Falkland Islands.
-- 1980: United States President Jimmy Carter signs the Crude Oil Windfall Profits Tax Act.
-- 1979: A Soviet bio-warfare laboratory at Sverdlovsk accidentally releases airborne anthrax spores, killing 66 plus an unknown amount of livestock.
-- 1976: Prince Norodom Sihanouk resigns as leader of Cambodia and is placed under house arrest.
-- 1975: Vietnam War: Thousands of civilian refugees flee from Quảng Ngãi Province in front of advancing North Vietnamese troops.
-- 1973: Launch of the LexisNexis computerized legal research service.
-- 1972: Actor Charlie Chaplin returns to the United States for the first time since being labeled a communist during the Red Scare in the early 1950s.
-- 1969: LOT Polish Airlines Flight 165 crashes into the Polica mountain near Zawoja, Poland, killing 53.
-- 1964: The Soviet Union launches Zond 1.
-- 1956: As the World Turns and The Edge of Night premiere on CBS. The two soaps become the first daytime dramas to debut in the 30-minute format.
-- 1954: A 19-month-old infant is swept up in the ocean tides at Hermosa Beach, California. Local photographer John L. Gaunt photographs the incident; 1955 Pulitzer winner "Tragedy by the Sea".
-- 1930: After the mysterious death of Empress Zewditu, Haile Selassie is proclaimed emperor of Ethiopia.
+- 2023: Finland becomes a member of NATO after Turkey accepts its membership request.
+- 2020: China holds a national day of mourning for martyrs who died in the fight against the novel coronavirus disease outbreak.
+- 2017: Syria conducts an air strike on Khan Shaykhun using chemical weapons, killing 89 civilians.
+- 2013: 74 people are killed in a building collapse in Thane, India.
+- 2011: Georgian Airways Flight 834 crashes at N'djili Airport in Kinshasa, killing 32.
+- 2010: A magnitude 7.2 earthquake hits south of the Mexico-USA border, killing at least two and damaging buildings across the two countries.
+- 2009: France announces its return to full participation of its military forces within NATO.
+- 2002: The MPLA government of Angola and UNITA rebels sign a peace treaty ending the Angolan Civil War.
+- 1997: Space Shuttle program: Space Shuttle Columbia is launched on STS-83. However, the mission is later cut short due to a fuel cell problem.
+- 1996: Comet Hyakutake is imaged by the USA Asteroid Orbiter Near Earth Asteroid Rendezvous.
+- 1994: Three people are killed when KLM Cityhopper Flight 433 crashes at Amsterdam Airport Schiphol.
+- 1991: Forty-one people are taken hostage inside a Good Guys! Electronics store in Sacramento, California. Three of the hostage takers and three hostages are killed.
+- 1991: Senator John Heinz of Pennsylvania and six others are killed when a helicopter collides with their airplane over an elementary school in Merion, Pennsylvania.
+- 1990: The current flag of Hong Kong is adopted for post-colonial Hong Kong during the Third Session of the Seventh National People's Congress.
+- 1988: Governor Evan Mecham of Arizona is convicted in his impeachment trial and removed from office.
+- 1987: Garuda Indonesia Flight 032 crashes at Medan Airport, killing 23.
+- 1984: President Ronald Reagan calls for an international ban on chemical weapons.
+- 1983: Space Shuttle program: Space Shuttle Challenger makes its maiden voyage into space on STS-6.
+- 1981: Iran-Iraq War: The Islamic Republic of Iran Air Force mounts an attack on H-3 Airbase and destroys about 50 Iraqi aircraft.
+- 1979: Prime Minister Zulfikar Ali Bhutto of Pakistan is executed.
+- 1977: Southern Airways Flight 242 crashes in New Hope, Paulding County, Georgia, killing 72.
+- 1975: Vietnam War: A United States Air Force Lockheed C-5A Galaxy transporting orphans, crashes near Saigon, South Vietnam shortly after takeoff, killing 172 people.
+- 1975: Microsoft is founded as a partnership between Bill Gates and Paul Allen in Albuquerque, New Mexico.
+- 1973: A Lockheed C-141 Starlifter, dubbed the Hanoi Taxi, makes the last flight of Operation Homecoming.
+- 1973: The Twin Towers of the World Trade Center in New York City are officially dedicated.
+- 1969: Dr. Denton Cooley implants the first temporary artificial heart.
+- 1968: Apollo program: NASA launches Apollo 6.
+- 1968: Martin Luther King Jr. is assassinated by James Earl Ray at a motel in Memphis, Tennessee.
+- 1967: Martin Luther King Jr. delivers his "Beyond Vietnam: A Time to Break Silence" speech in New York City's Riverside Church.
+- 1964: The Beatles occupy the top five positions on the Billboard Hot 100 pop chart.
 
 Data from muffinlabs
-*(Updated at: 2025-04-02 01:44:04 UTC)*
+*(Updated at: 2025-04-04 01:42:28 UTC)*
 
 # 历史上的今天 
 
-- -  2024年：维尔托拉学校的枪击事件：一名12岁的学生被杀，另外两名受到芬兰万塔塔同龄人的射击者的伤害。
-- -  2021年：当一名袭击者将汽车撞到美国国会大厦外的一个路障时，国会大厦警察被杀，另一人受伤。
-- -2021：一辆卡车不小心驶向赛道后，至少有49人在台湾的火车出轨中丧生。
-- -2020：Covid-19-19，大流行：确认案件的总数达到100万。
-- -  2015年：四名男子从伦敦哈顿花园地区的一个地下保险柜设施中窃取价值2亿英镑的物品，该设施被称为“英国法律历史上最大的盗窃案”。
-- -  2015年：枪手袭击肯尼亚的加里萨大学学院，杀死了至少148人，炸伤79人。
-- -  2014年：德克萨斯州的胡德堡军队基地发生了一次狂热的枪击事件，其中有四人死亡，包括枪手，另有16人受伤。
-- -  2012年：从俄罗斯泰曼的罗什奇诺国际机场起飞后，乌塔尔120号航班坠毁，造成33人丧生，受伤10。
-- -  2012年：在加利福尼亚的Oikos University进行大规模枪击事件，造成7人死亡，三人受伤。
-- -  2011年：印度在MS Dhoni的队长下第二次赢得了板球世界杯。
-- -  2006年：超过60多个龙卷风在美国爆发；田纳西州被29人丧生而受到打击。
-- -  2004年：参与2004年3月11日马德里袭击的伊斯兰恐怖分子试图轰炸马德里附近的西班牙高速火车大道；攻击受到挫败。
-- -  2002年：以色列部队围绕着伯利恒的耶稣诞生教会，武装巴勒斯坦人撤退了。
-- -  1992年：在波斯尼亚和黑塞哥维那的比耶尔吉纳镇被屠杀了42名平民。
-- -  1992年：在纽约，黑手党老板约翰·戈蒂（John Gotti）被判谋杀和敲诈勒索，后来被判处无期徒刑。
-- -  1991年：丽塔·约翰斯顿（Rita Johnston）接替威廉·范德·扎尔姆（William Vander Zalm）（辞职）担任不列颠哥伦比亚省总理时，成为加拿大省的第一任女总理。
-- -  1989年：苏联领导人米哈伊尔·戈尔巴乔夫（Mikhail Gorbachev）到达古巴哈瓦那，与菲德尔·卡斯特罗（Fidel Castro）会面，试图解决紧张的关系。
-- -  1986年：阿拉巴马州州长乔治·华莱士（George Wallace）是前种族隔离主义者，以“校舍里的立场”而闻名，他宣布他不会寻求第五个四年任期，并将在1987年1月结束时从公共生活中退休。
-- -  1982年：福克兰战争：阿根廷入侵福克兰群岛。
-- -  1980年：美国总统吉米·卡特（Jimmy Carter）签署了《原油盈余税收法》。
-- -  1979年：Sverdlovsk的一家苏联生物 - 战线实验室不小心释放了空中炭疽孢子，杀死了66次加上未知数的牲畜。
-- -  1976年：Norodom Sihanouk王子辞去柬埔寨领导人的职务，并被逮捕。
-- -  1975年：越南战争：成千上万的平民难民逃离了北部越南军队的前面。
-- -  1973年：发射Lexisnexis计算机化法律研究服务。
-- -  1972年：演员查理·卓别林（Charlie Chaplin）自1950年代初期的红色恐慌中被标记为共产党以来，首次返回美国。
-- -  1969年：波兰航空公司165号航班撞上波兰扎沃贾附近的波利卡山，杀死了53。
-- -  1964年：苏联推出了Zond 1。
-- -  1956年：随着世界的转变和夜晚首映的边缘。两种肥皂成为以30分钟格式首次亮相的第一部日常戏剧。
-- -  1954年：一个19个月大的婴儿在加利福尼亚州赫莫萨海滩的海潮中被扫除。当地摄影师John L. Gaunt拍摄了事件；1955年，普利策的冠军“大海的悲剧”。
-- -  1930年：祖迪图皇后神秘之死后，海尔·塞拉西（Haile Selassie）被宣布为埃塞俄比亚皇帝。
+- -  2023年：土耳其接受其会员要求后，芬兰成为北约成员。
+- -  2020年：中国为烈士举行了全国性的哀悼日，他们在与新的冠状病毒疾病爆发中丧生。
+- -  2017年：叙利亚使用化学武器对可汗Shaykhun进行了空袭，杀死了89名平民。
+- -  2013年：印度塔那的一座建筑物崩溃中有74人被杀。
+- -  2011年：格鲁吉亚航空公司在金沙萨的N'djili机场撞车834撞车，杀死32人。
+- -  2010年：7.2级地震袭击了墨西哥 - 美国边境的南部，在两国杀死了至少两座且破坏的建筑物。
+- -  2009年：法国宣布其在北约内部的军队充分参与。
+- -  2002年：安哥拉和统治者叛军的MPLA政府签署了一项和平条约，结束了安哥拉内战。
+- -  1997年：航天飞机计划：哥伦比亚航天飞机哥伦比亚航天飞机于STS-83发射。但是，由于燃料电池问题，该任务后来被缩短了。
+- -  1996年：海洋彗星是由地球小行星在地球小行星会合附近成像的。
+- -  1994年：当KLM CityHopper 433航班在阿姆斯特丹机场史基普尔（Schiphol）坠毁时，三人被杀。
+- -  1991年：四十一个人被劫为人质！加利福尼亚州萨克拉曼多的电子商店。三名人质劫持者和三名人质被杀。
+- -  1991年：宾夕法尼亚州的参议员约翰·亨氏（John Heinz）和另外六人在宾夕法尼亚州梅里恩（Merion）的一所小学上与飞机相撞时被杀。
+- -  1990年：在第七届全国人民大会的第三届会议上，香港的当前旗帜被采用后殖民香港。
+- -  1988年：亚利桑那州州长Evan Mecham在他的弹each审判中被定罪，并被撤职。
+- -  1987年：印度尼西亚Garuda 032在梅丹机场坠毁，杀死23号。
+- -  1984年：罗纳德·里根（Ronald Reagan）总统呼吁禁止国际化学武器。
+- -  1983年：航天飞机计划：航天飞机挑战者在STS-6上驶入太空。
+- -  1981年：伊朗 - 伊拉克战争：伊朗空军伊斯兰共和国对H-3空军基地进行了攻击，并摧毁了约50架伊拉克飞机。
+- -  1979年：巴基斯坦总理Zulfikar Ali Bhutto被处决。
+- -  1977年：南部航空公司242航班在佐治亚州鲍尔丁县的新希望坠毁，杀死72。
+- -  1975年：越南战争：美国空军洛克希德C-5A银河系运输孤儿，起飞后不久，南越南西贡附近坠毁，炸死172人。
+- -  1975年：微软是在新墨西哥州阿尔伯克基的比尔·盖茨和保罗·艾伦之间建立的。
+- -  1973年：被称为河内出租车的洛克希德C-141 Starlifter成为了最后一次返校行动。
+- -  1973年：纽约市世界贸易中心的双子塔是正式专用的。
+- -  1969年：Denton Cooley博士植入了第一个临时人造心脏。
+- -  1968年：阿波罗计划：NASA推出阿波罗6。
+- -  1968年：小马丁·路德·金（Martin Luther King Jr.）在田纳西州孟菲斯的一家汽车旅馆被詹姆斯·伯爵（James Earl Ray）暗杀。
+- -  1967年：小马丁·路德·金（Martin Luther King Jr.
+- -  1964年：甲壳虫乐队在Billboard Hot 100流行图中占据了前五名。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-04-02 01:44:04 UTC）*
+*（更新于: 2025-04-04 01:42:28 UTC）*
