@@ -1,71 +1,59 @@
 # History of Today 
 
-- 2022: Ketanji Brown Jackson is confirmed for the Supreme Court of the United States, becoming the first black female justice.
-- 2021: COVID-19 pandemic: The Centers for Disease Control and Prevention announces that the SARS-CoV-2 Alpha variant has become the dominant strain of COVID-19 in the United States.
-- 2020: COVID-19 pandemic: Acting Secretary of the Navy Thomas Modly resigns for his handling of the COVID-19 pandemic on USS Theodore Roosevelt and the dismissal of Brett Crozier.
-- 2020: COVID-19 pandemic: China ends its lockdown in Wuhan.
-- 2018: Syria launches the Douma chemical attack during the Eastern Ghouta offensive of the Syrian Civil War.
-- 2018: Former Brazilian president, Luiz Inácio Lula da Silva, is arrested for corruption by determination of Judge Sérgio Moro, from the "Car-Wash Operation". Lula stayed imprisoned for 580 days, after being released by the Brazilian Supreme Court.
-- 2017: U.S. President Donald Trump orders the 2017 Shayrat missile strike against Syria in retaliation for the Khan Shaykhun chemical attack.
-- 2017: A man deliberately drives a hijacked truck into a crowd of people in Stockholm, Sweden, killing five people and injuring fifteen others.
-- 2011: The Israel Defense Forces use their Iron Dome missile system to successfully intercept a BM-21 Grad launched from Gaza, marking the first short-range missile intercept ever.
-- 2009: Mass protests begin across Moldova under the belief that results from the parliamentary election are fraudulent.
-- 2009: Former Peruvian President Alberto Fujimori is sentenced to 25 years in prison for ordering killings and kidnappings by security forces.
-- 2003: Haitian president Jean-Bertrand Arisitde demands reparations of $21 billion from France for the Haiti Independence Debt.
-- 2003: Iraq War: U.S. troops capture Baghdad; Saddam Hussein's Ba'athist regime falls two days later.
-- 2001: NASA launches the 2001 Mars Odyssey orbiter.
-- 1999: Turkish Airlines Flight 5904 crashes near Ceyhan in southern Turkey, killing six people.
-- 1995: First Chechen War: Russian paramilitary troops begin a massacre of civilians in Samashki, Chechnya.
-- 1994: Auburn Calloway attempts to destroy Federal Express Flight 705 in order to allow his family to benefit from his life insurance policy.
-- 1994: Rwandan genocide: Massacres of Tutsis begin in Kigali, Rwanda, and soldiers kill the civilian Prime Minister Agathe Uwilingiyimana.
-- 1990: John Poindexter is convicted for his role in the Iran-Contra affair. In 1991 the convictions are reversed on appeal.
-- 1990: A fire breaks out on the passenger ferry Scandinavian Star, killing 159 people.
-- 1989: Soviet submarine Komsomolets sinks in the Barents Sea off the coast of Norway, killing 42 sailors.
-- 1988: Soviet Defense Minister Dmitry Yazov orders the Soviet withdrawal from Afghanistan.
-- 1983: During STS-6, astronauts Story Musgrave and Don Peterson perform the first Space Shuttle spacewalk.
-- 1982: Iranian Foreign Affairs Minister Sadegh Ghotbzadeh is arrested.
-- 1980: During the Iran hostage crisis, the United States severs relations with Iran.
-- 1978: Development of the neutron bomb is canceled by President Jimmy Carter.
-- 1977: German Federal prosecutor Siegfried Buback and his driver are shot by two Red Army Faction members while waiting at a red light.
-- 1976: Member of Parliament and suspected spy John Stonehouse resigns from the Labour Party after being arrested for faking his own death.
-- 1972: Vietnam War: Communist forces overrun the South Vietnamese town of Loc Ninh.
-- 1971: Vietnam War: President Richard Nixon announces his decision to quicken the pace of Vietnamization.
+- 2024: Solar eclipse of April 8, 2024: A total solar eclipse takes place at the Moon's ascending node, visible across North America.
+- 2020: Bernie Sanders ends his presidential campaign, leaving Joe Biden as the Democratic Party's nominee.
+- 2014: Windows XP reaches its standard End Of Life and is no longer supported.
+- 2010: U.S. President Barack Obama and Russian President Dmitry Medvedev sign the New START Treaty.
+- 2005: A solar eclipse occurs, visible over areas of the Pacific Ocean and Latin American countries such as Costa Rica, Panama, Colombia and Venezuela.
+- 2002: The Space Shuttle Atlantis is launched on mission STS-110, carrying the S0 truss to the International Space Station. Astronaut Jerry L. Ross also becomes the first person to fly on seven spaceflights.
+- 1993: The Space Shuttle Discovery is launched on mission STS-56.
+- 1974: Hank Aaron passes Babe Ruth as the all-time leader in career home runs by hitting his 715th home run off of Al Downing at Atlanta-Fulton County Stadium.
+- 1940: The Central Committee of the Mongolian People's Revolutionary Party elects Yumjaagiin Tsedenbal as General Secretary, marking the beginning of his 44-year-long tenure as de facto leader of Mongolia.
+- 1904: The French Third Republic and the United Kingdom of Great Britain and Ireland sign the Entente cordiale.
+- 1895: In Pollock v. Farmers' Loan & Trust Co. the Supreme Court of the United States declares unapportioned income tax to be unconstitutional.
+- 1886: William Ewart Gladstone introduces the first Irish Home Rule Bill into the British House of Commons.
+- 1866: Austro-Prussian War: Italy and Prussia sign a secret alliance against the Austrian Empire.
+- 1832: Black Hawk War: Around 300 United States 6th Infantry troops leave St. Louis, Missouri to fight the Sauk Native Americans.
+- 1820: The Venus de Milo is discovered on the Aegean island of Milos.
+- 1812: Czar Alexander I, the Russian Emperor and the Grand Duke of Finland, officially announces the transfer of the status of the Finnish capital from Turku to Helsinki.
+- 1730: Shearith Israel, the first synagogue in continental North America, is dedicated.
+- 1605: The city of Oulu, Finland, is founded by Charles IX of Sweden.
+- 1271: In Syria, sultan Baibars conquers the Krak des Chevaliers.
+- 1250: Seventh Crusade: Ayyubids of Egypt capture King Louis IX of France in the Battle of Fariskur.
+- 1232: Mongol-Jin War: The Mongols begin their siege on Kaifeng, the capital of the Jin dynasty.
+- 1139: Roger II of Sicily is excommunicated by Innocent II for supporting Anacletus II as pope for seven years, even though Roger had already publicly recognized Innocent's claim to the papacy.
+- 876: The Battle of Dayr al-'Aqul saves Baghdad from the Saffarids.
+- 217: Roman emperor Caracalla is assassinated and is succeeded by his Praetorian Guard prefect, Marcus Opellius Macrinus.
 
 Data from muffinlabs
-*(Updated at: 2025-04-07 01:45:57 UTC)*
+*(Updated at: 2025-04-08 01:43:19 UTC)*
 
 # 历史上的今天 
 
-- -2022：Ketanji Brown Jackson已被确认为美国最高法院，成为第一位黑人女性大法官。
-- -2021：COVID-19大流行：疾病控制与预防中心宣布SARS-COV-2 Alpha变体已成为美国Covid-19的主要菌株。
-- -  2020年：Covid-19-19大流行：海军代理秘书托马斯·莫德利（Thomas Modly）辞职，因为他处理了西奥多·罗斯福（Theodore Roosevelt）和布雷特·克罗兹（Brett Crozier）的covid-19-19大流行。
-- -  2020年：Covid-19-19大流行：中国在武汉结束了封锁。
-- -  2018年：叙利亚在叙利亚内战的东古塔进攻期间发动了杜马化学攻击。
-- -  2018年：前巴西总统路易斯·伊纳西奥·卢拉·达·席尔瓦（LuizInácioLulada Silva）因“汽车洗涤行动”的裁定，因裁定塞尔吉奥·莫罗（SérgioMoro）法官而被捕。卢拉（Lula）被巴西最高法院释放后被监禁了580天。
-- -  2017年：美国总统唐纳德·特朗普（Donald Trump）下令对叙利亚的2017年Shayrat导弹罢工，以报复可汗Shaykhun化学攻击。
-- -  2017年：一个人故意将一辆被劫持的卡车驾驶到斯德哥尔摩，瑞典的一群人，杀死了五人，并炸伤了15人。
-- -  2011年：以色列国防军利用其铁圆顶导弹系统成功拦截了从加沙发起的BM-21毕业生，这是有史以来第一次短期导弹拦截。
-- -  2009年：摩尔多瓦始于摩尔多瓦的大规模抗议活动，这是因为议会选举导致的欺诈行为。
-- -  2009年：前秘鲁总统阿尔贝托·富吉莫里（Alberto Fujimori）因命令被安全部队杀害和绑架而被判处25年徒刑。
-- -  2003年：海地总统让·伯特兰德·阿里西特（Jean-Bertrand Arisitde）要求从法国赔偿210亿美元的海地独立债务。
-- -  2003年：伊拉克战争：美军占领巴格达；两天后，萨达姆·侯赛因（Saddam Hussein）的巴拉斯主义政权下降了。
-- -  2001年：NASA推出了2001年火星奥德赛轨道轨道。
-- -  1999年：土耳其航空公司5904航班在土耳其南部锡汉附近撞车，炸死了六人。
-- -  1995年：第一架车臣战争：俄罗斯准军事部队在车臣萨马什基开始了一场平民大屠杀。
-- -  1994年：奥本·卡洛韦（Auburn Calloway）试图摧毁联邦快递705航班，以便他的家人从他的人寿保险单中受益。
-- -  1994年：卢旺达种族灭绝：图西斯的大屠杀始于基加利，卢旺达，士兵杀死了平民总理阿加斯·乌维吉利尼玛纳。
-- -  1990年：约翰·普林德克斯特（John Poindexter）因其在伊朗 - 对照事件中的角色而被定罪。1991年，定罪被上诉颠倒了。
-- -  1990年：乘客渡轮斯堪的纳维亚星爆炸，炸死159人。
-- -  1989年：苏联海底Komsomolets沉入挪威海岸的巴伦支海中，杀死了42名水手。
-- -  1988年：苏联国防部长德米特里·雅佐夫（Dmitry Yazov）命令苏联从阿富汗撤军。
-- -  1983年：在STS-6期间，宇航员的故事Musgrave和Don Peterson表演了第一个航天飞机航天飞机。
-- -  1982年：伊朗外交部长Sadegh Ghotbzadeh被捕。
-- -  1980年：在伊朗人质危机期间，美国与伊朗发生了关系。
-- -  1978年：总统吉米·卡特（Jimmy Carter）取消了中子炸弹的发展。
-- -  1977年：德国联邦检察官西格弗里德·巴巴克（Siegfried Buback）和他的驾驶员在等待红色灯光时被两个红军派系成员开枪。
-- -  1976年：议会议员和涉嫌间谍约翰·斯通豪斯（John Stonehouse）因伪造自己的死亡而被捕后辞职。
-- -  1972年：越南战争：共产党部队占领了南越小镇Loc Ninh。
-- -  1971年：越南战争：总统理查德·尼克松（Richard Nixon）宣布决定加快越南化步伐。
+- -  2024年：2024年4月8日的日食：日食总共发生在月球上升节点，可见北美。
+- -  2020年：伯尼·桑德斯（Bernie Sanders）结束了他的总统竞选活动，使乔·拜登（Joe Biden）成为民主党的提名人。
+- -  2014年：Windows XP达到了其标准终结，不再得到支持。
+- -  2010年：美国总统巴拉克·奥巴马（Barack Obama）和俄罗斯总统德米特里·梅德韦杰夫（Dmitry Medvedev）签署了《新起点条约》。
+- -  2005年：发生日食，在太平洋和拉丁美洲国家（例如哥斯达黎加，巴拿马，哥伦比亚和委内瑞拉）的地区可见。
+- -  2002年：航天飞机亚特兰蒂斯（Atlantis）在Mission STS-11上发射，将S0桁架带到国际空间站。宇航员杰里·罗斯（Jerry L. Ross）也成为第一个飞行七个太空飞行的人。
+- -  1993年：航天飞机发现是在Mission STS-56上推出的。
+- -  1974年：汉克·亚伦（Hank Aaron）通过贝贝·露丝（Babe Ruth）作为职业本垒打的历史领导者，他在亚特兰大 - 富顿县体育场（Atlanta-Fulton County Stadium）击败了他的第715个本垒打。
+- -  1940年：蒙古人民革命党中央委员会选举Yumjaagiin Tsedenbal为秘书长，标志着他为期44年任职的蒙古领导人的成立。
+- -  1904年：法国第三共和国和英国英国和爱尔兰的英国签署了哥德西亚的签名。
+- -  1895年：在Pollock诉Farmers'Loan＆Trust Co.中，美国最高法院宣布不折磨的所得税是违宪的。
+- -  1886年：威廉·埃瓦特·格拉德斯通（William Ewart Gladstone）将第一份爱尔兰统治法案介绍给英国下议院。
+- -  1866年：奥尔普鲁士战争：意大利和普鲁士签署了针对奥地利帝国的秘密联盟。
+- -  1832年：黑鹰战争：大约300个美国第六步兵部队离开密苏里州圣路易斯与美国原住民作战。
+- -  1820年：在爱琴海米尔斯岛上发现了金星德米洛。
+- -  1812年：沙皇亚历山大一世，俄罗斯皇帝和芬兰大公爵，正式宣布将芬兰首都从图尔库转移到赫尔辛基。
+- -  1730年：北美大陆的第一个犹太教堂Shearith以色列是专门的。
+- -  1605年：芬兰的奥卢市是由瑞典的查尔斯九世创立的。
+- -1271：在叙利亚，苏丹·贝巴尔斯（Sultan Baibars）征服了克拉克·德斯·雪佛兰（Krak des Chevaliers）。
+- -1250：第七次十字军：埃及的阿尤比德在法国战役中占领了法国的路易斯国王。
+- -1232：蒙古-Jin战争：蒙古人开始对金王朝首都Kaifeng围攻。
+- -1139：Sicily的Roger II被Innocent II对支持Anacletus II作为教皇的支持已有七年了，尽管Roger已经公开承认Innocent对教皇的主张。
+- -876：Dayr al-'Aqul战役使Baghdad从Saffarids中拯救出来。
+- -217：罗马皇帝卡拉卡拉被暗杀，并由他的Praetorian卫队州长Marcus Opellius Macrinus继承。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-04-07 01:45:57 UTC）*
+*（更新于: 2025-04-08 01:43:19 UTC）*
