@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: During the Pazigyi massacre, an airstrike conducted by the Myanmar Air Force kills at least 100 villagers in Pazigyi, Sagaing Region.
-- 2021: Twenty year old Daunte Wright is shot and killed in Brooklyn Center, Minnesota by officer Kimberly Potter, sparking protests in the city, when the officer allegedly mistakes her own gun for her taser.
-- 2018: An Ilyushin Il-76 which was owned and operated by the Algerian Air Force crashes near Boufarik, Algeria, killing 257.
-- 2012: A pair of great earthquakes occur in the Wharton Basin west of Sumatra in Indonesia. The maximum Mercalli intensity of this strike-slip doublet earthquake is VII (Very strong). Ten are killed, twelve are injured, and a non-destructive tsunami is observed on the island of Nias.
-- 2011: An explosion in the Minsk Metro, Belarus kills 15 people and injures 204 others.
-- 2008: Kata Air Transport Flight 007 crashes while attempting an emergency landing at Chișinău International Airport, killing eight.
-- 2007: Algiers bombings: Two bombings in Algiers kill 33 people and wound a further 222 others.
-- 2006: Iranian president Mahmoud Ahmadinejad announces Iran's claim to have successfully enriched uranium.
-- 2002: Over two hundred thousand people march in Caracas towards the presidential palace to demand the resignation of President Hugo Chávez. Nineteen protesters are killed.
-- 2002: The Ghriba synagogue bombing by al-Qaeda kills 21 in Tunisia.
-- 2001: The detained crew of a United States EP-3E aircraft that landed in Hainan, China after a collision with a J-8 fighter, is released.
-- 1993: Four hundred fifty prisoners rioted at the Southern Ohio Correctional Facility in Lucasville, Ohio, and continued to do so for ten days, citing grievances related to prison conditions, as well as the forced vaccination of Nation of Islam prisoners (for tuberculosis) against their religious beliefs.
-- 1990: Customs officers in Middlesbrough, England, seize what they believe to be the barrel of a massive gun on a ship bound for Iraq.
-- 1987: The London Agreement is secretly signed between Israeli Foreign Affairs Minister Shimon Peres and King Hussein of Jordan.
-- 1986: FBI Miami Shootout: A gun battle in broad daylight in Dade County, Florida between two bank/armored car robbers and pursuing FBI agents. During the firefight, FBI agents Jerry L. Dove and Benjamin P. Grogan were killed, while five other agents were wounded. As a result, the popular .40 S&W cartridge was developed.
-- 1981: A massive riot in Brixton, south London results in almost 300 police injuries and 65 serious civilian injuries.
-- 1979: Ugandan dictator Idi Amin is deposed.
-- 1977: London Transport's Silver Jubilee AEC Routemaster buses are launched.
-- 1976: The Apple I is created.
-- 1970: Apollo Program: Apollo 13 is launched.
-- 1968: A failed assassination attempt on Rudi Dutschke, leader of the German student movement, leaves Dutschke suffering from brain damage.
-- 1968: US President Lyndon B. Johnson signs the Civil Rights Act of 1968, prohibiting discrimination in the sale, rental, and financing of housing.
-- 1965: The Palm Sunday tornado outbreak of 1965: Fifty-five tornadoes hit in six Midwestern states of the United States, killing 266 people.
-- 1964: Brazilian Marshal Humberto de Alencar Castelo Branco is elected president by the National Congress.
-- 1963: Pope John XXIII issues Pacem in terris, the first encyclical addressed to all Christians instead of only Catholics, and which described the conditions for world peace in human terms.
-- 1961: The trial of Adolf Eichmann begins in Jerusalem.
-- 1957: United Kingdom agrees to Singaporean self-rule.
-- 1955: The Air India Kashmir Princess is bombed and crashes in a failed assassination attempt on Zhou Enlai by the Kuomintang.
-- 1952: Pan Am Flight 526A ditches near San Juan-Isla Grande Airport in San Juan, Puerto Rico, after experiencing an engine failure, killing 52 people.
-- 1952: Bolivian National Revolution: Rebels take over Palacio Quemado.
+- 2014: The Great Fire of Valparaíso ravages the Chilean city of Valparaíso, killing 16 people, displacing nearly 10,000, and destroying over 2,000 homes.
+- 2013: Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali.
+- 2010: Merano derailment: A rail accident in South Tyrol kills nine people and injures a further 28.
+- 2009: Zimbabwe officially abandons the Zimbabwean dollar as its official currency.
+- 2007: A suicide bomber penetrates the Green Zone and detonates in a cafeteria within a parliament building, killing Iraqi MP Mohammed Awad and wounding more than twenty other people.
+- 2002: A suicide bomber blows herself up at the entrance to Jerusalem's Mahane Yehuda Market, killing seven people and wounding 104.
+- 1999: During the NATO bombing of Yugoslavia, an American McDonnell Douglas F-15E Strike Eagle shoots a passenger train, killing between 20 and 60 people.
+- 1999: United States President Bill Clinton is cited for contempt of court for giving "intentionally false statements" in a civil lawsuit; he is later fined and disbarred.
+- 1992: The Euro Disney Resort officially opens with its theme park Euro Disneyland; the resort and its park's name are subsequently changed to Disneyland Resort Paris.
+- 1990: Widerøe Flight 839 crashes after takeoff from Værøy Airport in Norway, killing five people.
+- 1990: Jim Gary's "Twentieth Century Dinosaurs" exhibition opens at the Smithsonian Institution National Museum of Natural History in Washington, D.C. He is the only sculptor ever invited to present a solo exhibition there.
+- 1985: Space Shuttle Discovery launches on STS-51D to deploy two communications satellites.
+- 1983: Harold Washington is elected as the first black mayor of Chicago.
+- 1981: The first launch of a Space Shuttle (Columbia) takes place: The STS-1 mission.
+- 1980: Canadian runner and athlete, Terry Fox begins his Marathon of Hope Run in St. John's, NF
+- 1980: Transbrasil Flight 303, a Boeing 727, crashes on approach to Hercílio Luz International Airport in Florianópolis, Brazil. Fifty-five out of the 58 people on board are killed.
+- 1980: The Americo-Liberian government of Liberia is violently deposed.
+- 1970: Soviet submarine K-8, carrying four nuclear torpedoes, sinks in the Bay of Biscay four days after a fire on board.
+- 1963: The Soviet nuclear-powered submarine K-33 collides with the Finnish merchant vessel M/S Finnclipper in the Danish straits.[citation needed]
+- 1961: Space Race: The Soviet cosmonaut Yuri Gagarin becomes the first human to travel into outer space and perform the first crewed orbital flight, Vostok 1.
+- 1955: The polio vaccine, developed by Dr. Jonas Salk, is declared safe and effective.
+- 1945: World War II: The U.S. Ninth Army under General William H. Simpson crosses the Elbe River astride Magdeburg, and reaches Tangermünde—only 50 miles from Berlin.
+- 1945: U.S. President Franklin D. Roosevelt dies in office; Vice President Harry S. Truman becomes President upon Roosevelt's death.
+- 1937: Sir Frank Whittle ground-tests the first jet engine designed to power an aircraft, at Rugby, England.
+- 1934: The U.S. Auto-Lite strike begins, culminating in a five-day melee between Ohio National Guard troops and 6,000 strikers and picketers.[citation needed]
+- 1934: The strongest surface wind gust in the world at the time of 231 mph, is measured on the summit of Mount Washington, New Hampshire. It has since been surpassed.
+- 1928: The Bremen, a German Junkers W 33 type aircraft, takes off for the first successful transatlantic aeroplane flight from east to west.
+- 1927: Rocksprings, Texas is hit by an F5 tornado that destroys 235 of the 247 buildings in the town, kills 72 townspeople, and injures 205; third deadliest tornado in Texas history.
+- 1927: Shanghai massacre of 1927: Chiang Kai-shek orders the Chinese Communist Party members executed in Shanghai, ending the First United Front.[citation needed]
+- 1917: World War I: Canadian forces successfully complete the taking of Vimy Ridge from the Germans.
 
 Data from muffinlabs
-*(Updated at: 2025-04-11 01:43:55 UTC)*
+*(Updated at: 2025-04-12 01:41:17 UTC)*
 
 # 历史上的今天 
 
-- -  2023年：在帕齐吉屠杀期间，由缅甸空军进行的空袭杀死了萨吉宁地区Pazigyi的至少100名村民。
-- -  2021年：二十岁的Daunte Wright被金伯利·波特军官在明尼苏达州布鲁克林中心开枪杀死，在据称该警官将自己的枪误认为自己的泰瑟枪时，引发了这座城市的抗议活动。
-- -  2018年：由阿尔及利亚空军坠毁在阿尔及利亚的布法里克附近的阿尔及利亚空军坠机公司拥有和运营的Ilyushin IL-76，杀死了257。
-- -  2012年：印度尼西亚苏门答腊西部的沃顿盆地发生了一对大地震。这次滑坡双重地震的最大默塞利强度为vii（非常强）。十人被杀死，十二人受伤，在尼亚斯岛上观察到无损的海啸。
-- -  2011年：白俄罗斯明斯克地铁的爆炸爆炸炸死15人，炸伤204人。
-- -  2008年：凯塔航空运输航班007撞车在志奇伊国际机场的紧急降落时撞车，造成八人丧生。
-- -  2007年：阿尔及尔爆炸：阿尔及尔的两次爆炸案杀死了33人，另外222人炸伤。
-- -  2006年：伊朗总统马哈茂德·艾哈迈迪内贾德（Mahmoud Ahmadinejad）宣布伊朗声称成功地丰富了铀。
-- -  2002年：超过二十万人在加拉加斯进军总统宫殿，要求总统雨果·查韦斯（HugoChávez）辞职。十九个抗议者被杀。
-- -  2002年：基地组织的Ghriba犹太教堂在突尼斯杀死了21个。
-- -  2001年：释放了与J-8战斗机发生碰撞后，该飞机的拘留船员被释放在中国海南。
-- -  1993年：四百五十名囚犯在俄亥俄州卢卡斯维尔的俄亥俄州南部惩教所骚乱，并继续这样做十天，理由是与监狱条件有关的申诉以及强迫对伊斯兰囚犯的疫苗接种（用于结核病）。
-- -  1990年：英格兰米德尔斯堡的海关官员抓住了他们认为是伊拉克船上的船只的枪支。
-- -  1987年：以色列外交部长西蒙·佩雷斯（Shimon Peres）和约旦国王侯赛因（King Hussein）之间秘密签署了伦敦协议。
-- -  1986年：联邦调查局迈阿密枪战：在佛罗里达州达德县的宽阔日光举行的一场枪战，在两名银行/装甲车抢劫犯和追求联邦调查局特工之间。在交火期间，联邦调查局特工杰里·杜夫（Jerry L. Dove）和本杰明·格罗根（Benjamin P.结果，开发了流行的.40 S＆W弹药筒。
-- -  1981年：南伦敦布里克斯顿发生巨大骚乱，造成300次警察受伤和65例严重的平民伤害。
-- -  1979年：乌干达独裁者Idi Amin被罢免。
-- -  1977年：伦敦运输公司的银禧AEC Routemaster公共汽车已推出。
-- -  1976年：创建了苹果。
-- -  1970年：阿波罗计划：Apollo 13启动。
-- -  1968年：德国学生运动领导人鲁迪·杜特奇克（Rudi Dutschke）的暗杀企图失败，使杜特施克（Dutschke）遭受了脑部损伤。
-- -  1968年：美国总统林登·约翰逊（Lyndon B.
-- -  1965年：1965年的棕榈周日龙卷风爆发：五十五个龙卷风在美国六个州袭击，造成266人丧生。
-- -  1964年：巴西元帅Humberto de Alencar Castelo Branco由国民代表大会当选。
-- -  1963年：教皇约翰XXIII在Terris中发表了Pacem，这是第一个涉及所有基督徒而不是天主教徒的百科全书，并用人类的角度描述了世界和平的条件。
-- -  1961年：阿道夫·艾希曼（Adolf Eichmann）的审判始于耶路撒冷。
-- -  1957年：英国同意新加坡自我规则。
-- -  1955年：印度阿尔克什米尔公主遭到轰炸，并在库恩甘（Kuomintang）对周恩（Zhou Ellai）的暗杀企图中坠毁。
-- -  1952年：Pan AM 526A沟渠在波多黎各圣胡安的圣胡安 - 伊斯兰格兰德机场附近，经历了发动机故障，造成52人丧生。
-- -  1952年：玻利维亚民族革命：叛军接管了帕拉西奥·奎马多（Palacio Quemado）。
+- -  2014年：瓦尔帕莱索（Valparaíso）的大火摧毁了智利城市瓦尔帕拉索（Valparaíso），炸死16人，流离失所，占地近10,000人，并摧毁了2,000多家房屋。
+- -  2013年：两名自杀炸弹袭击者杀死了三名乍得士兵，并在马里基达尔的一个市场上伤害了数十名平民。
+- -  2010年：梅拉诺（Merano）出轨：南蒂罗尔（South Tyrol）的一次铁路事故杀死了9人，并造成28人造成28人伤害。
+- -  2009年：津巴布韦正式放弃了津巴布韦美元作为其官方货币。
+- -  2007年：一名自杀炸弹袭击者穿透了绿色区域，并在议会大楼内的自助餐厅爆炸，杀死了伊拉克国会议员穆罕默德·阿瓦德（Mohammed Awad），并炸伤了其他二十多人。
+- -  2002年：一名自杀炸弹袭击者在耶路撒冷马哈恩·耶胡达（Mahane Yehuda）市场的入口处炸毁了自己，炸死了7人，受伤104。
+- -  1999年：在南奥斯拉夫的北约爆炸案中，美国麦克唐纳·道格拉斯F-15E罢工鹰射击了一辆客车，炸死20至60人。
+- -  1999年：美国总统比尔·克林顿（Bill Clinton）被蔑视法院，因为他在民事诉讼中发表了“故意虚假陈述”；后来他被罚款并被拒绝。
+- -  1992年：欧洲迪士尼度假村（Euro Disney Resort）正式开放其主题公园欧洲迪斯尼乐园（Euro Disneyland）；该度假胜地及其公园的名字随后更改为巴黎迪斯尼乐园度假村。
+- -  1990年：从挪威的Værøy机场起飞后，Widerøe839航班坠毁，造成5人丧生。
+- -  1990年：吉姆·加里（Jim Gary）的“二十世纪恐龙”展览在华盛顿特区的史密森学会国家自然历史博物馆开幕。
+- -  1985年：航天飞机发现在STS-51D上推出，以部署两个通信卫星。
+- -  1983年：哈罗德·华盛顿（Harold Washington）当选为芝加哥的第一位黑人市长。
+- -  1981年：航天飞机（哥伦比亚）的首次发布：STS-1任务。
+- -  1980年：加拿大跑步者和运动员特里·福克斯（Terry Fox
+- -  1980年：Transbrasil 303航班（波音727）坠毁在巴西Florianópolis的HercílioLuz国际机场的途中。在船上的58人中，有55人被杀。
+- -  1980年：美国利比里亚美洲政府被猛烈罢免。
+- -  1970年：苏联潜艇K-8，载有四个核鱼雷，在船上大火后四天在比斯湾的水槽。
+- -  1963年：苏联核动力潜艇K-33与丹麦海峡的芬兰商船M/S Finnclipper相撞。[需要引用]
+- -  1961年：太空竞赛：苏联宇航员尤里·加加林（Yuri Gagarin）成为第一个进入外太空并进行第一批船员轨道飞行的人Vostok 1。
+- -  1955年：由乔纳斯·萨克（Jonas Salk）博士开发的脊髓灰质炎疫苗被宣布为安全有效。
+- -  1945年：第二次世界大战：威廉·H·辛普森将军统治下的美国第九军越过埃尔伯河越过玛格德堡，到达坦克穆德（Tangermünde） - 距柏林仅50英里。
+- -  1945年：美国总统富兰克林·罗斯福去世；副总统哈里·杜鲁门（Harry S. Truman）死后成为总统。
+- -  1937年：弗兰克·惠特尔（Frank Whittle）的地面测验爵士是第一个旨在在英格兰橄榄球的飞机供电的喷气发动机。
+- -  1934年：美国自动罢工开始，最终以俄亥俄州国民警卫队与6,000名前锋和纠察队之间的为期五天的近战。[需要引用]
+- -  1934年：在新罕布什尔州华盛顿山的山顶上测量了231英里 /小时时世界上最强的表面风阵风。此后已超过。
+- -  1928年：不来梅是德国垃圾店W 33型飞机，从东到西乘了首次成功的跨大西洋飞机飞行。
+- -  1927年：德克萨斯州洛克斯普林斯（Rocksprings）遭到F5龙卷风的袭击，该龙卷风摧毁了该镇247座建筑物中的235座，杀死了72个城镇居民，受伤205；德克萨斯州历史上第三个致命的龙卷风。
+- -  1927年：1927年的上海大屠杀：清凯·希克（Chiang Kai-Shek）命令中国共产党成员在上海处决，结束了第一个联合阵线。[需要引用]
+- -  1917年：第一次世界大战：加拿大军队成功地完成了德国人的vimy岭。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-04-11 01:43:55 UTC）*
+*（更新于: 2025-04-12 01:41:17 UTC）*
