@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2014: The Great Fire of Valparaíso ravages the Chilean city of Valparaíso, killing 16 people, displacing nearly 10,000, and destroying over 2,000 homes.
-- 2013: Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali.
-- 2010: Merano derailment: A rail accident in South Tyrol kills nine people and injures a further 28.
-- 2009: Zimbabwe officially abandons the Zimbabwean dollar as its official currency.
-- 2007: A suicide bomber penetrates the Green Zone and detonates in a cafeteria within a parliament building, killing Iraqi MP Mohammed Awad and wounding more than twenty other people.
-- 2002: A suicide bomber blows herself up at the entrance to Jerusalem's Mahane Yehuda Market, killing seven people and wounding 104.
-- 1999: During the NATO bombing of Yugoslavia, an American McDonnell Douglas F-15E Strike Eagle shoots a passenger train, killing between 20 and 60 people.
-- 1999: United States President Bill Clinton is cited for contempt of court for giving "intentionally false statements" in a civil lawsuit; he is later fined and disbarred.
-- 1992: The Euro Disney Resort officially opens with its theme park Euro Disneyland; the resort and its park's name are subsequently changed to Disneyland Resort Paris.
-- 1990: Widerøe Flight 839 crashes after takeoff from Værøy Airport in Norway, killing five people.
-- 1990: Jim Gary's "Twentieth Century Dinosaurs" exhibition opens at the Smithsonian Institution National Museum of Natural History in Washington, D.C. He is the only sculptor ever invited to present a solo exhibition there.
-- 1985: Space Shuttle Discovery launches on STS-51D to deploy two communications satellites.
-- 1983: Harold Washington is elected as the first black mayor of Chicago.
-- 1981: The first launch of a Space Shuttle (Columbia) takes place: The STS-1 mission.
-- 1980: Canadian runner and athlete, Terry Fox begins his Marathon of Hope Run in St. John's, NF
-- 1980: Transbrasil Flight 303, a Boeing 727, crashes on approach to Hercílio Luz International Airport in Florianópolis, Brazil. Fifty-five out of the 58 people on board are killed.
-- 1980: The Americo-Liberian government of Liberia is violently deposed.
-- 1970: Soviet submarine K-8, carrying four nuclear torpedoes, sinks in the Bay of Biscay four days after a fire on board.
-- 1963: The Soviet nuclear-powered submarine K-33 collides with the Finnish merchant vessel M/S Finnclipper in the Danish straits.[citation needed]
-- 1961: Space Race: The Soviet cosmonaut Yuri Gagarin becomes the first human to travel into outer space and perform the first crewed orbital flight, Vostok 1.
-- 1955: The polio vaccine, developed by Dr. Jonas Salk, is declared safe and effective.
-- 1945: World War II: The U.S. Ninth Army under General William H. Simpson crosses the Elbe River astride Magdeburg, and reaches Tangermünde—only 50 miles from Berlin.
-- 1945: U.S. President Franklin D. Roosevelt dies in office; Vice President Harry S. Truman becomes President upon Roosevelt's death.
-- 1937: Sir Frank Whittle ground-tests the first jet engine designed to power an aircraft, at Rugby, England.
-- 1934: The U.S. Auto-Lite strike begins, culminating in a five-day melee between Ohio National Guard troops and 6,000 strikers and picketers.[citation needed]
-- 1934: The strongest surface wind gust in the world at the time of 231 mph, is measured on the summit of Mount Washington, New Hampshire. It has since been surpassed.
-- 1928: The Bremen, a German Junkers W 33 type aircraft, takes off for the first successful transatlantic aeroplane flight from east to west.
-- 1927: Rocksprings, Texas is hit by an F5 tornado that destroys 235 of the 247 buildings in the town, kills 72 townspeople, and injures 205; third deadliest tornado in Texas history.
-- 1927: Shanghai massacre of 1927: Chiang Kai-shek orders the Chinese Communist Party members executed in Shanghai, ending the First United Front.[citation needed]
-- 1917: World War I: Canadian forces successfully complete the taking of Vimy Ridge from the Germans.
+- 2024: Six people and the perpetrator are killed and twelve others injured in a mass stabbing at Westfield Bondi Junction shopping centre in Sydney, Australia.
+- 2023: The house of Jack Teixeira is raided in an investigation into leaked Pentagon documents; he is arrested on the same day.
+- 1997: Tiger Woods becomes the youngest golfer to win the Masters Tournament.
+- 1996: Two women and four children are killed after Israeli helicopter fired rockets at an ambulance in Mansouri, Lebanon.
+- 1976: Forty workers die in the Lapua Cartridge Factory explosion, the deadliest industrial accident in modern Finnish history.
+- 1976: The United States Treasury Department reintroduces the two-dollar bill as a Federal Reserve Note on Thomas Jefferson's 233rd birthday as part of the United States Bicentennial celebration.
+- 1975: An attack by the Phalangist resistance kills 26 militia members of the Popular Front for the Liberation of Palestine, marking the start of the 15-year Lebanese Civil War.
+- 1972: Vietnam War: The Battle of An Lộc begins.
+- 1972: The Universal Postal Union decides to recognize the People's Republic of China as the only legitimate Chinese representative, effectively expelling the Republic of China administering Taiwan.
+- 1970: An oxygen tank aboard the Apollo 13 Service Module explodes, putting the crew in great danger and causing major damage to the Apollo command and service module (codenamed "Odyssey") while en route to the Moon.
+- 1964: At the Academy Awards, Sidney Poitier becomes the first African-American man to win the Best Actor award for the 1963 film Lilies of the Field.
+- 1960: The United States launches Transit 1-B, the world's first satellite navigation system.
+- 1953: CIA director Allen Dulles launches the mind-control program Project MKUltra.
+- 1948: In an ambush, 78 Jewish doctors, nurses and medical students from Hadassah Hospital, and a British soldier, are massacred by Arabs in Sheikh Jarrah. This event came to be known as the Hadassah medical convoy massacre.
+- 1945: World War II: Soviet and Bulgarian forces capture Vienna.
+- 1945: World War II: German troops kill more than 1,000 political and military prisoners in Gardelegen, Germany.
+- 1943: The Jefferson Memorial is dedicated in Washington, D.C., on the 200th anniversary of President Thomas Jefferson's birth.
+- 1943: World War II: The discovery of mass graves of Polish prisoners of war killed by Soviet forces in the Katyń Forest Massacre is announced, causing a diplomatic rift between the Polish government-in-exile in London and the Soviet Union, which denies responsibility.
+- 1941: A pact of neutrality between the USSR and Japan is signed.
+- 1919: Jallianwala Bagh massacre: British Indian Army troops led by Brigadier-General Reginald Dyer kill approximately 379-1,000 unarmed demonstrators including men and women in Amritsar, India; and approximately 1,500 injured.
+- 1909: The 31 March Incident leads to the overthrow of Sultan Abdul Hamid II.
+- 1873: The Colfax massacre: More than 60 to 150 black men are murdered in Colfax, Louisiana, while surrendering to a mob of former Confederate soldiers and members of the Ku Klux Klan.
+- 1870: The New York City Metropolitan Museum of Art is founded.
+- 1865: American Civil War: Raleigh, North Carolina is occupied by Union forces.
+- 1863: ​The Winged Victory of Samothrace is discovered during excavations on the Greek island of Samothrace.
+- 1861: American Civil War: Union forces surrender Fort Sumter to Confederate forces.
+- 1849: Lajos Kossuth presents the Hungarian Declaration of Independence in a closed session of the National Assembly.
+- 1829: The Roman Catholic Relief Act 1829 gives Roman Catholics in the United Kingdom the right to vote and to sit in Parliament.
+- 1777: American Revolutionary War: American forces are ambushed and defeated in the Battle of Bound Brook, New Jersey.
+- 1742: George Frideric Handel's oratorio Messiah makes its world premiere in Dublin, Ireland.
 
 Data from muffinlabs
-*(Updated at: 2025-04-12 01:41:17 UTC)*
+*(Updated at: 2025-04-13 03:10:18 UTC)*
 
 # 历史上的今天 
 
-- -  2014年：瓦尔帕莱索（Valparaíso）的大火摧毁了智利城市瓦尔帕拉索（Valparaíso），炸死16人，流离失所，占地近10,000人，并摧毁了2,000多家房屋。
-- -  2013年：两名自杀炸弹袭击者杀死了三名乍得士兵，并在马里基达尔的一个市场上伤害了数十名平民。
-- -  2010年：梅拉诺（Merano）出轨：南蒂罗尔（South Tyrol）的一次铁路事故杀死了9人，并造成28人造成28人伤害。
-- -  2009年：津巴布韦正式放弃了津巴布韦美元作为其官方货币。
-- -  2007年：一名自杀炸弹袭击者穿透了绿色区域，并在议会大楼内的自助餐厅爆炸，杀死了伊拉克国会议员穆罕默德·阿瓦德（Mohammed Awad），并炸伤了其他二十多人。
-- -  2002年：一名自杀炸弹袭击者在耶路撒冷马哈恩·耶胡达（Mahane Yehuda）市场的入口处炸毁了自己，炸死了7人，受伤104。
-- -  1999年：在南奥斯拉夫的北约爆炸案中，美国麦克唐纳·道格拉斯F-15E罢工鹰射击了一辆客车，炸死20至60人。
-- -  1999年：美国总统比尔·克林顿（Bill Clinton）被蔑视法院，因为他在民事诉讼中发表了“故意虚假陈述”；后来他被罚款并被拒绝。
-- -  1992年：欧洲迪士尼度假村（Euro Disney Resort）正式开放其主题公园欧洲迪斯尼乐园（Euro Disneyland）；该度假胜地及其公园的名字随后更改为巴黎迪斯尼乐园度假村。
-- -  1990年：从挪威的Værøy机场起飞后，Widerøe839航班坠毁，造成5人丧生。
-- -  1990年：吉姆·加里（Jim Gary）的“二十世纪恐龙”展览在华盛顿特区的史密森学会国家自然历史博物馆开幕。
-- -  1985年：航天飞机发现在STS-51D上推出，以部署两个通信卫星。
-- -  1983年：哈罗德·华盛顿（Harold Washington）当选为芝加哥的第一位黑人市长。
-- -  1981年：航天飞机（哥伦比亚）的首次发布：STS-1任务。
-- -  1980年：加拿大跑步者和运动员特里·福克斯（Terry Fox
-- -  1980年：Transbrasil 303航班（波音727）坠毁在巴西Florianópolis的HercílioLuz国际机场的途中。在船上的58人中，有55人被杀。
-- -  1980年：美国利比里亚美洲政府被猛烈罢免。
-- -  1970年：苏联潜艇K-8，载有四个核鱼雷，在船上大火后四天在比斯湾的水槽。
-- -  1963年：苏联核动力潜艇K-33与丹麦海峡的芬兰商船M/S Finnclipper相撞。[需要引用]
-- -  1961年：太空竞赛：苏联宇航员尤里·加加林（Yuri Gagarin）成为第一个进入外太空并进行第一批船员轨道飞行的人Vostok 1。
-- -  1955年：由乔纳斯·萨克（Jonas Salk）博士开发的脊髓灰质炎疫苗被宣布为安全有效。
-- -  1945年：第二次世界大战：威廉·H·辛普森将军统治下的美国第九军越过埃尔伯河越过玛格德堡，到达坦克穆德（Tangermünde） - 距柏林仅50英里。
-- -  1945年：美国总统富兰克林·罗斯福去世；副总统哈里·杜鲁门（Harry S. Truman）死后成为总统。
-- -  1937年：弗兰克·惠特尔（Frank Whittle）的地面测验爵士是第一个旨在在英格兰橄榄球的飞机供电的喷气发动机。
-- -  1934年：美国自动罢工开始，最终以俄亥俄州国民警卫队与6,000名前锋和纠察队之间的为期五天的近战。[需要引用]
-- -  1934年：在新罕布什尔州华盛顿山的山顶上测量了231英里 /小时时世界上最强的表面风阵风。此后已超过。
-- -  1928年：不来梅是德国垃圾店W 33型飞机，从东到西乘了首次成功的跨大西洋飞机飞行。
-- -  1927年：德克萨斯州洛克斯普林斯（Rocksprings）遭到F5龙卷风的袭击，该龙卷风摧毁了该镇247座建筑物中的235座，杀死了72个城镇居民，受伤205；德克萨斯州历史上第三个致命的龙卷风。
-- -  1927年：1927年的上海大屠杀：清凯·希克（Chiang Kai-Shek）命令中国共产党成员在上海处决，结束了第一个联合阵线。[需要引用]
-- -  1917年：第一次世界大战：加拿大军队成功地完成了德国人的vimy岭。
+- -  2024年：六人和肇事者在澳大利亚悉尼的韦斯特菲尔德·邦迪（Westfield Bondi）交界中心大规模刺伤中丧生，另外十二人受伤。
+- -  2023年：杰克·特克西拉（Jack Teixeira）的房子在调查五角大楼文件的调查中被突袭；他在同一天被捕。
+- -  1997年：老虎伍兹成为赢得大师赛的最年轻的高尔夫球手。
+- -  1996年：以色列直升机在黎巴嫩曼苏里的一辆救护车开火后，有两个妇女和四个孩子被杀。
+- -  1976年：40名工人死于拉普阿墨盒工厂爆炸，这是现代芬兰历史上最致命的工业事故。
+- -  1976年：美国财政部重新引入了两美元的法案，作为托马斯·杰斐逊（Thomas Jefferson）233岁生日的美联储票据，作为美国两百周年庆典的一部分。
+- -  1975年：Phalangist抵抗运动的袭击杀死了26名民兵在巴勒斯坦解放的民兵阵线中，这标志着黎巴嫩15年的内战的开始。
+- -  1972年：越南战争：LộC之战开始。
+- -  1972年：普遍的邮政联盟决定承认中华人民共和国是唯一合法的中国代表，有效地驱逐了台湾的中国共和国。
+- -  1970年：Apollo 13服务模块上的一个氧气罐爆炸，使船员处于极大的危险中，并对Apollo Command and Service模块（代码为“ Odyssey”）造成了重大损害，而在前往月球的过程中。
+- -  1964年：在奥斯卡金像奖上，西德尼·普瓦特（Sidney Poitier）成为第一个赢得1963年电影《百合花》（Lilies）最佳男演员奖的非裔美国人。
+- -  1960年：美国推出了世界上第一个卫星导航系统Transit 1-B。
+- -  1953年：中央情报局局长艾伦·杜勒斯（Allen Dulles）启动了Mind-Control计划项目Mkultra。
+- -  1948年：在伏击中，来自哈萨萨医院的78名犹太医生，护士和医学生和一名英国士兵在谢赫·贾拉（Sheikh Jarrah）屠杀了阿拉伯人。该活动被称为哈达萨医疗车队大屠杀。
+- -  1945年：第二次世界大战：苏联和保加利亚部队占领了维也纳。
+- -  1945年：第二次世界大战：德国军队在德国加德莱根杀死了1000多名政治和军事囚犯。
+- -  1943年：杰斐逊纪念馆（Jefferson Memorial）是在托马斯·杰斐逊（Thomas Jefferson）诞辰200周年的华盛顿特区献身于华盛顿特区。
+- -  1943年：第二次世界大战：宣布了苏联军队在凯廷森林大屠杀中杀死的波兰战俘的大规模坟墓的发现，造成了伦敦波兰政府在伦敦和苏联的波兰政府之间的外交裂痕，这否认责任。
+- -  1941年：签署了苏联和日本之间的中立条约。
+- -  1919年：Jallianwala Bagh大屠杀：由雷金纳尔·戴尔准将领导的英国印度军队杀死了大约379-1,000名没有武装的示威者，包括印度阿姆利则的男女；约有1,500人受伤。
+- -  1909年：3月31日的事件导致苏丹·阿卜杜勒·哈米德二世被推翻。
+- -  1873年：Colfax大屠杀：在路易斯安那州科法克斯（Colfax）谋杀了60至150多名黑人，同时投降给了一群前同盟士兵和Ku Klux Klan的暴民。
+- -  1870年：纽约市大都会艺术博物馆成立。
+- -  1865年：美国内战：北卡罗来纳州罗利的联盟部队占领。
+- -  1863年：在希腊萨摩托拉斯岛的发掘中发现了萨莫斯拉斯的有翼胜利。
+- -  1861年：美国内战：工会部队向同盟军屈服于萨姆特堡。
+- -  1849年：拉霍斯·科苏特（Lajos Kossuth）在国民议会的封闭会议上提出了《匈牙利独立宣言》。
+- -  1829年：1829年《罗马天主教救济法》授予英国的罗马天主教徒投票权并坐在议会中。
+- -  1777年：美国革命战争：美军在新泽西州布鲁克战役中被伏击和击败。
+- -  1742年：乔治·弗里德里奇·汉德尔（George Frideric Handel）的演说家在爱尔兰都柏林首映。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-04-12 01:41:17 UTC）*
+*（更新于: 2025-04-13 03:10:18 UTC）*
