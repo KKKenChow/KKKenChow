@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Six people and the perpetrator are killed and twelve others injured in a mass stabbing at Westfield Bondi Junction shopping centre in Sydney, Australia.
-- 2023: The house of Jack Teixeira is raided in an investigation into leaked Pentagon documents; he is arrested on the same day.
-- 1997: Tiger Woods becomes the youngest golfer to win the Masters Tournament.
-- 1996: Two women and four children are killed after Israeli helicopter fired rockets at an ambulance in Mansouri, Lebanon.
-- 1976: Forty workers die in the Lapua Cartridge Factory explosion, the deadliest industrial accident in modern Finnish history.
-- 1976: The United States Treasury Department reintroduces the two-dollar bill as a Federal Reserve Note on Thomas Jefferson's 233rd birthday as part of the United States Bicentennial celebration.
-- 1975: An attack by the Phalangist resistance kills 26 militia members of the Popular Front for the Liberation of Palestine, marking the start of the 15-year Lebanese Civil War.
-- 1972: Vietnam War: The Battle of An Lộc begins.
-- 1972: The Universal Postal Union decides to recognize the People's Republic of China as the only legitimate Chinese representative, effectively expelling the Republic of China administering Taiwan.
-- 1970: An oxygen tank aboard the Apollo 13 Service Module explodes, putting the crew in great danger and causing major damage to the Apollo command and service module (codenamed "Odyssey") while en route to the Moon.
-- 1964: At the Academy Awards, Sidney Poitier becomes the first African-American man to win the Best Actor award for the 1963 film Lilies of the Field.
-- 1960: The United States launches Transit 1-B, the world's first satellite navigation system.
-- 1953: CIA director Allen Dulles launches the mind-control program Project MKUltra.
-- 1948: In an ambush, 78 Jewish doctors, nurses and medical students from Hadassah Hospital, and a British soldier, are massacred by Arabs in Sheikh Jarrah. This event came to be known as the Hadassah medical convoy massacre.
-- 1945: World War II: Soviet and Bulgarian forces capture Vienna.
-- 1945: World War II: German troops kill more than 1,000 political and military prisoners in Gardelegen, Germany.
-- 1943: The Jefferson Memorial is dedicated in Washington, D.C., on the 200th anniversary of President Thomas Jefferson's birth.
-- 1943: World War II: The discovery of mass graves of Polish prisoners of war killed by Soviet forces in the Katyń Forest Massacre is announced, causing a diplomatic rift between the Polish government-in-exile in London and the Soviet Union, which denies responsibility.
-- 1941: A pact of neutrality between the USSR and Japan is signed.
-- 1919: Jallianwala Bagh massacre: British Indian Army troops led by Brigadier-General Reginald Dyer kill approximately 379-1,000 unarmed demonstrators including men and women in Amritsar, India; and approximately 1,500 injured.
-- 1909: The 31 March Incident leads to the overthrow of Sultan Abdul Hamid II.
-- 1873: The Colfax massacre: More than 60 to 150 black men are murdered in Colfax, Louisiana, while surrendering to a mob of former Confederate soldiers and members of the Ku Klux Klan.
-- 1870: The New York City Metropolitan Museum of Art is founded.
-- 1865: American Civil War: Raleigh, North Carolina is occupied by Union forces.
-- 1863: ​The Winged Victory of Samothrace is discovered during excavations on the Greek island of Samothrace.
-- 1861: American Civil War: Union forces surrender Fort Sumter to Confederate forces.
-- 1849: Lajos Kossuth presents the Hungarian Declaration of Independence in a closed session of the National Assembly.
-- 1829: The Roman Catholic Relief Act 1829 gives Roman Catholics in the United Kingdom the right to vote and to sit in Parliament.
-- 1777: American Revolutionary War: American forces are ambushed and defeated in the Battle of Bound Brook, New Jersey.
-- 1742: George Frideric Handel's oratorio Messiah makes its world premiere in Dublin, Ireland.
+- 2024: Flooding in the Persian Gulf starts, killing 19 in Oman.
+- 2023: The Jupiter Icy Moons Explorer (JUICE) is launched by the European Space Agency.
+- 2022: Russian invasion of Ukraine: The Russian warship Moskva sinks.
+- 2016: The foreshock of a major earthquake occurs in Kumamoto, Japan.
+- 2014: Boko Haram abducts 276 girls from a school in Chibok, Nigeria.
+- 2014: Two bombs detonate at a bus station in Nyanya, Nigeria, killing at least 88 people and injuring hundreds. Boko Haram claims responsibility.
+- 2006: Twin blasts triggered by crude bombs during Asr prayer in the Jama Masjid mosque in Delhi injure 13 people.
+- 2005: The Oregon Supreme Court nullifies marriage licenses issued to same-sex couples a year earlier by Multnomah County.
+- 2003: U.S. troops in Baghdad capture Abu Abbas, leader of the Palestinian group that killed an American on the hijacked cruise liner MS Achille Lauro in 1985.
+- 2003: The Human Genome Project is completed with 99% of the human genome sequenced to an accuracy of 99.99%.
+- 2002: Venezuelan president Hugo Chávez returns to office two days after being ousted and arrested by the country's military.
+- 1999: A severe hailstorm strikes Sydney, Australia causing A$2.3 billion in insured damages, the most costly natural disaster in Australian history.
+- 1999: NATO mistakenly bombs a convoy of ethnic Albanian refugees. Yugoslav officials say 75 people were killed.
+- 1997: Pai Hsiao-yen, daughter of Taiwanese artiste Pai Bing-bing is kidnapped on her way to school, preceding her murder.
+- 1994: In a friendly fire incident during Operation Provide Comfort in northern Iraq, two U.S. Air Force aircraft mistakenly shoot-down two U.S. Army helicopters, killing 26 people.
+- 1991: The Republic of Georgia introduces the post of President following its declaration of independence from the Soviet Union.
+- 1988: In a United Nations ceremony in Geneva, Switzerland, the Soviet Union signs an agreement pledging to withdraw its troops from Afghanistan.
+- 1988: The USS Samuel B. Roberts strikes a mine in the Persian Gulf during Operation Earnest Will.
+- 1986: The heaviest hailstones ever recorded, each weighing 1 kilogram (2.2 lb), fall on the Gopalganj district of Bangladesh, killing 92.
+- 1981: STS-1: The first operational Space Shuttle, Columbia completes its first test flight.
+- 1979: The Progressive Alliance of Liberia stages a protest, without a permit, against an increase in rice prices proposed by the government, with clashes between protestors and the police resulting in over 70 deaths and over 500 injuries.
+- 1978: Tbilisi demonstrations: Thousands of Georgians demonstrate against Soviet attempts to change the constitutional status of the Georgian language.
+- 1967: Gnassingbé Eyadéma overthrows Nicolas Grunitzky and installs himself as the new President of Togo, a title he will hold for the next 38 years.
+- 1958: The Soviet satellite Sputnik 2 falls from orbit after a mission duration of 162 days. This was the first spacecraft to carry a living animal, a female dog named Laika, who likely lived only a few hours.
+- 1945: Razing of Friesoythe: The 4th Canadian (Armoured) Division deliberately destroys the German town of Friesoythe on the orders of Major General Christopher Vokes.
+- 1944: Bombay explosion: A massive explosion in Bombay harbor kills 300 and causes economic damage valued at 20 million pounds.
+- 1941: World War II: German and Italian forces attack Tobruk, Libya.
+- 1940: World War II: Royal Marines land in Namsos, Norway, preceding a larger force which will arrive two days later.
+- 1935: The Black Sunday dust storm, considered one of the worst storms of the Dust Bowl, sweeps across the Oklahoma and Texas panhandles and neighboring areas.
+- 1931: The Second Spanish Republic is proclaimed and king Alfonso XIII goes to exile. Meanwhile, in Barcelona, Francesc Macià proclaims the Catalan Republic.
 
 Data from muffinlabs
-*(Updated at: 2025-04-13 03:10:18 UTC)*
+*(Updated at: 2025-04-14 01:47:36 UTC)*
 
 # 历史上的今天 
 
-- -  2024年：六人和肇事者在澳大利亚悉尼的韦斯特菲尔德·邦迪（Westfield Bondi）交界中心大规模刺伤中丧生，另外十二人受伤。
-- -  2023年：杰克·特克西拉（Jack Teixeira）的房子在调查五角大楼文件的调查中被突袭；他在同一天被捕。
-- -  1997年：老虎伍兹成为赢得大师赛的最年轻的高尔夫球手。
-- -  1996年：以色列直升机在黎巴嫩曼苏里的一辆救护车开火后，有两个妇女和四个孩子被杀。
-- -  1976年：40名工人死于拉普阿墨盒工厂爆炸，这是现代芬兰历史上最致命的工业事故。
-- -  1976年：美国财政部重新引入了两美元的法案，作为托马斯·杰斐逊（Thomas Jefferson）233岁生日的美联储票据，作为美国两百周年庆典的一部分。
-- -  1975年：Phalangist抵抗运动的袭击杀死了26名民兵在巴勒斯坦解放的民兵阵线中，这标志着黎巴嫩15年的内战的开始。
-- -  1972年：越南战争：LộC之战开始。
-- -  1972年：普遍的邮政联盟决定承认中华人民共和国是唯一合法的中国代表，有效地驱逐了台湾的中国共和国。
-- -  1970年：Apollo 13服务模块上的一个氧气罐爆炸，使船员处于极大的危险中，并对Apollo Command and Service模块（代码为“ Odyssey”）造成了重大损害，而在前往月球的过程中。
-- -  1964年：在奥斯卡金像奖上，西德尼·普瓦特（Sidney Poitier）成为第一个赢得1963年电影《百合花》（Lilies）最佳男演员奖的非裔美国人。
-- -  1960年：美国推出了世界上第一个卫星导航系统Transit 1-B。
-- -  1953年：中央情报局局长艾伦·杜勒斯（Allen Dulles）启动了Mind-Control计划项目Mkultra。
-- -  1948年：在伏击中，来自哈萨萨医院的78名犹太医生，护士和医学生和一名英国士兵在谢赫·贾拉（Sheikh Jarrah）屠杀了阿拉伯人。该活动被称为哈达萨医疗车队大屠杀。
-- -  1945年：第二次世界大战：苏联和保加利亚部队占领了维也纳。
-- -  1945年：第二次世界大战：德国军队在德国加德莱根杀死了1000多名政治和军事囚犯。
-- -  1943年：杰斐逊纪念馆（Jefferson Memorial）是在托马斯·杰斐逊（Thomas Jefferson）诞辰200周年的华盛顿特区献身于华盛顿特区。
-- -  1943年：第二次世界大战：宣布了苏联军队在凯廷森林大屠杀中杀死的波兰战俘的大规模坟墓的发现，造成了伦敦波兰政府在伦敦和苏联的波兰政府之间的外交裂痕，这否认责任。
-- -  1941年：签署了苏联和日本之间的中立条约。
-- -  1919年：Jallianwala Bagh大屠杀：由雷金纳尔·戴尔准将领导的英国印度军队杀死了大约379-1,000名没有武装的示威者，包括印度阿姆利则的男女；约有1,500人受伤。
-- -  1909年：3月31日的事件导致苏丹·阿卜杜勒·哈米德二世被推翻。
-- -  1873年：Colfax大屠杀：在路易斯安那州科法克斯（Colfax）谋杀了60至150多名黑人，同时投降给了一群前同盟士兵和Ku Klux Klan的暴民。
-- -  1870年：纽约市大都会艺术博物馆成立。
-- -  1865年：美国内战：北卡罗来纳州罗利的联盟部队占领。
-- -  1863年：在希腊萨摩托拉斯岛的发掘中发现了萨莫斯拉斯的有翼胜利。
-- -  1861年：美国内战：工会部队向同盟军屈服于萨姆特堡。
-- -  1849年：拉霍斯·科苏特（Lajos Kossuth）在国民议会的封闭会议上提出了《匈牙利独立宣言》。
-- -  1829年：1829年《罗马天主教救济法》授予英国的罗马天主教徒投票权并坐在议会中。
-- -  1777年：美国革命战争：美军在新泽西州布鲁克战役中被伏击和击败。
-- -  1742年：乔治·弗里德里奇·汉德尔（George Frideric Handel）的演说家在爱尔兰都柏林首映。
+- -  2024年：波斯湾的洪水开始，在阿曼杀死了19人。
+- -2023：木星冰卫星探险家（JUICE）由欧洲航天局成立。
+- -  2022年：俄罗斯入侵乌克兰：俄罗斯军舰Moskva沉没。
+- -  2016年：大地震的预壳发生在日本库曼托。
+- -  2014年：Boko Haram绑架276名来自尼日利亚Chibok一所学校的女孩。
+- -  2014年：两枚炸弹在尼日利亚Nyanya的一家汽车站引爆，杀死了至少88人，数百人受伤。Boko Haram声称责任。
+- -  2006年：在德里的贾马清真寺（Jama Masjid Mosque）在ASR祈祷期间，由粗炸弹触发的双重爆炸受伤了13人。
+- -  2005年：俄勒冈州最高法院一年前由Multnomah County颁发给同性夫妇的结婚许可证。
+- -  2003年：巴格达的美军俘虏了巴勒斯坦集团的领导人阿布·阿布斯（Abu Abbas），该组织于1985年在被劫持的邮轮巡游班轮上杀死了一名美国人。
+- -2003：人类基因组项目完成，99％的人类基因组的准确性为99.99％。
+- -  2002年：委内瑞拉总统雨果·查韦斯（HugoChávez）在被该国军队罢免和逮捕两天后返回任职。
+- -  1999年：严重的冰雹袭击澳大利亚悉尼，造成了23亿美元的保险赔偿，这是澳大利亚历史上最昂贵的自然灾害。
+- -  1999年：北约错误地炸毁了阿尔巴尼亚难民的车队。南斯拉夫官员说，有75人被杀。
+- -  1997年：台湾艺术家Pai Bing-Bing的女儿Pai Hsiao-Yen在上学的路上被绑架，在谋杀之前。
+- -  1994年：在行动期间的一次友好火灾中，在伊拉克北部提供了舒适感，两架美国空军飞机错误地射击了两架美国陆军直升机，炸死26人。
+- -  1991年：佐治亚州共和国在苏联宣布独立后介绍了总统的职位。
+- -  1988年：在瑞士日内瓦举行的联合国仪式上，苏联签署了一项协议，承诺从阿富汗撤军。
+- -  1988年：塞缪尔·罗伯茨（Samuel B.
+- -  1986年：有史以来最重的冰雹，每个冰雹重1千克（2.2磅），落在孟加拉国的Gopalganj区，杀死92。
+- -  1981年：STS-1：哥伦比亚的第一辆运营航天飞机完成了其第一次测试飞行。
+- -  1979年：利比里亚的进步联盟颁发了抗议活动，未经许可，反对政府提出的水稻价格上涨，抗议者与警察之间的冲突导致70多人死亡和500多人受伤。
+- -  1978年：第比利斯的示威活动：成千上万的格鲁吉亚人反对苏联改变格鲁吉亚语言的宪法地位的企图。
+- -  1967年：GnassingbéEyadéma推翻了Nicolas Grunitzky，并担任多哥的新总统，他将在未来38年内拥有这个头衔。
+- -  1958年：苏联卫星卫星施主尼克2在任务持续时间为162天后从轨道上掉落。这是第一个携带活动物的航天器，一只叫莱卡（Laika）的母狗，他可能只活了几个小时。
+- -  1945年：弗里索伊斯（Friesoythe）的掠夺：第四加拿大（装甲）师在克里斯托弗·沃克斯（Christopher Vokes）少校的命令下故意摧毁德国弗里索伊镇（Friesoythe）。
+- -  1944年：孟买爆炸：孟买港口的大规模爆炸炸死300人，并造成价值2000万磅的经济损失。
+- -  1941年：第二次世界大战：德国和意大利军队袭击了利比亚的托布鲁克。
+- -  1940年：第二次世界大战：挪威南索斯的皇家海军陆战队土地之前，在两天后将到达一支更大的力量。
+- -  1935年：黑色的周日沙尘暴，被认为是防尘碗最严重的暴风雨之一，席卷了俄克拉荷马州和德克萨斯州的轻弹和附近地区。
+- -  1931年：宣布第二个西班牙共和国，阿方索XIII国王流亡。同时，在巴塞罗那，弗朗西斯克·麦基（FrancescMacià）宣布加泰罗尼亚共和国。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-04-13 03:10:18 UTC）*
+*（更新于: 2025-04-14 01:47:36 UTC）*
