@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: The funeral of Prince Philip, Duke of Edinburgh, takes place at St George's Chapel, Windsor Castle.
-- 2014: NASA's Kepler space telescope confirms the discovery of the first Earth-size planet in the habitable zone of another star.
-- 2013: An explosion at a fertilizer plant in the city of West, Texas, kills 15 people and injures 160 others.
-- 2006: A Palestinian suicide bomber detonates an explosive device in a Tel Aviv restaurant, killing 11 people and injuring 70.
-- 2003: Anneli Jäätteenmäki takes office as the first female prime minister of Finland.
-- 1998: Space Shuttle Columbia is launched on STS-90, the final Spacelab mission.
-- 1992: The Katina P is deliberately run aground off Maputo, Mozambique, and 60,000 tons of crude oil spill into the ocean.
-- 1986: An alleged state of war lasting 335 years between the Netherlands and the Isles of Scilly declared peace bringing an end to any hypothetical war that may have been legally considered to exist.
-- 1982: Constitution Act, 1982 Patriation of the Canadian constitution in Ottawa by Proclamation of Elizabeth II, Queen of Canada.
-- 1978: Mir Akbar Khyber is assassinated, provoking the Saur Revolution in Afghanistan.
-- 1975: The Cambodian Civil War ends. The Khmer Rouge captures the capital Phnom Penh and Cambodian government forces surrender.
-- 1971: The Provisional Government of Bangladesh is formed.
-- 1970: Apollo program: The damaged Apollo 13 spacecraft returns to Earth safely.
-- 1969: Communist Party of Czechoslovakia chairman Alexander Dubček is deposed.
-- 1969: Sirhan Sirhan is convicted of assassinating Robert F. Kennedy.
-- 1964: Jerrie Mock completes the first around-the-world airplane flight by a woman. Her solo flight in the Spirit of Columbus, which took 29 1/2 days, took off and landed at the Port Columbus International Airport in Ohio. 
-- 1961: Bay of Pigs Invasion: A group of Cuban exiles financed and trained by the CIA lands at the Bay of Pigs in Cuba with the aim of ousting Fidel Castro.
-- 1951: The Peak District becomes the United Kingdom's first National Park.
-- 1946: The last French troops are withdrawn from Syria.
-- 1945: Historian Tran Trong Kim is appointed the Prime Minister of the Empire of Vietnam.
-- 1945: World War II: Montese, Italy, is liberated from Nazi forces.
-- 1944: Forces of the Communist-controlled Greek People's Liberation Army attack the smaller National and Social Liberation resistance group, which surrenders. Its leader Dimitrios Psarros is murdered.
-- 1942: French prisoner of war General Henri Giraud escapes from his castle prison in Königstein Fortress.
-- 1941: World War II: The Axis powers invasion of Yugoslavia is completed when it signs an armistice with Germany and Italy.
-- 1931: After negotiations between Catalan and Spanish provisional governments, the Catalan Republic proclaimed in April 14 becomes the Generalitat de Catalunya, the autonomous government of Catalonia within the Spanish Republic.
-- 1912: Russian troops open fire on striking goldfield workers in northeast Siberia, killing at least 150.
-- 1907: The Ellis Island immigration center processes 11,747 people, more than on any other day.
-- 1905: The Supreme Court of the United States decides Lochner v. New York, which holds that the "right to free contract" is implicit in the due process clause of the Fourteenth Amendment to the United States Constitution.
-- 1895: The Treaty of Shimonoseki between China and Japan is signed. This marks the end of the First Sino-Japanese War, and the defeated Qing Empire is forced to renounce its claims on Korea and to concede the southern portion of the Fengtian province, Taiwan and the Penghu to Japan.
-- 1876: Catalpa rescue: The rescue of six Fenian prisoners from Fremantle Prison in Western Australia.
+- 2019: A redacted version of the Mueller report is released to the United States Congress and the public.
+- 2018: Anti-government protests start in Nicaragua.
+- 2018: King Mswati III of Swaziland announces that his country's name will change to Eswatini.
+- 1988: In Israel John Demjanjuk is sentenced to death for war crimes committed in World War II, although the verdict is later overturned.
+- 1988: The United States launches Operation Praying Mantis against Iranian naval forces in the largest naval battle since World War II.
+- 1980: The town of Elmore City, Oklahoma holds its first dance in the town's history.
+- 1980: The Republic of Zimbabwe (formerly Rhodesia) comes into being, with Canaan Banana as the country's first President. The Zimbabwean dollar replaces the Rhodesian dollar as the official currency.
+- 1972: East African Airways Flight 720 crashes during a rejected takeoff from Addis Ababa Bole International Airport in Addis Ababa, Ethiopia, killing 43.
+- 1955: Twenty-nine nations meet at Bandung, Indonesia, for the first Asian-African Conference.
+- 1954: Gamal Abdel Nasser seizes power in Egypt.
+- 1949: The Republic of Ireland Act comes into force, declaring Éire to be a republic and severing Ireland's "association" with the Commonwealth of Nations.
+- 1947: The Operation Big Bang, the largest non-nuclear man-made explosion to that time, destroys bunkers and military installations on the North Sea island of Heligoland, Germany.
+- 1946: Jackie Robinson makes his regular season debut for the Montreal Royals of the International League, to make them the first integrated modern professional baseball team.
+- 1946: The International Court of Justice holds its inaugural meeting in The Hague, Netherlands.
+- 1945: Italian resistance movement: In Turin, despite the harsh repressive measures adopted by Nazi-fascists, a great pre-insurrectional strike begins.
+- 1945: World War II: Over 1,000 bombers attack the small island of Heligoland, Germany.
+- 1943: World War II: Operation Vengeance, Admiral Isoroku Yamamoto is killed when his aircraft is shot down by U.S. fighters over Bougainville Island.
+- 1942: Pierre Laval becomes Prime Minister of Vichy France.
+- 1942: World War II: The Doolittle Raid on Japan: Tokyo, Yokohama, Kobe and Nagoya are bombed.
+- 1939: Robert Menzies, who became Australia's longest-serving prime minister, is elected as leader of the United Australia Party after the death of Prime Minister Joseph Lyons.
+- 1930: A fire kills 118 people at a wooden church in the small Romanian town of Costești, most of them schoolchildren, after starting during Good Friday services.
+- 1916: World War I: During a mine warfare in high altitude on the Dolomites, the Italian troops conquer the Col di Lana held by the Austrian army.
+- 1915: World War I: French pilot Roland Garros is shot down and glides to a landing on the German side of the lines.
+- 1912: The Cunard liner RMS Carpathia brings 705 survivors from the RMS Titanic to New York City.
+- 1909: Joan of Arc is beatified in Rome.
+- 1906: The 7.9 Mw earthquake and fire destroy much of San Francisco, California, killing more than 3,000 people, making one of the worst natural disasters in American history.
+- 1902: The 7.5 Mw  Guatemala earthquake shakes Guatemala with a maximum Mercalli intensity of VIII (Severe), killing between 800 and 2,000.
+- 1899: The St. Andrew's Ambulance Association is granted a royal charter by Queen Victoria.
+- 1897: The Greco-Turkish War is declared between Greece and the Ottoman Empire.
+- 1864: Battle of Dybbøl: A Prussian-Austrian army defeats Denmark and gains control of Schleswig. Denmark surrenders the province in the following peace settlement.
 
 Data from muffinlabs
-*(Updated at: 2025-04-17 01:44:42 UTC)*
+*(Updated at: 2025-04-18 01:42:15 UTC)*
 
 # 历史上的今天 
 
-- -  2021年：爱丁堡公爵菲利普亲王的葬礼在温莎城堡的圣乔治教堂举行。
-- -  2014年：NASA的开普勒太空望远镜在另一颗恒星的宜居区中证实了第一个地球大小的行星的发现。
-- -  2013年：德克萨斯州西部的一家肥料厂发生爆炸，炸死15人，炸伤160人。
-- -  2006年：一名巴勒斯坦自杀炸弹袭击者在特拉维夫餐厅引爆了爆炸装置，炸死11人，受伤70人。
-- -  2003年：AnneliJäätteenmäki担任芬兰女总理。
-- -  1998年：航天飞机哥伦比亚航天飞机是在最后的Spacelab任务STS-90上推出的。
-- -  1992年：卡蒂娜P故意在马普托，莫桑比克和60,000吨的原油溢油中搁浅。
-- -  1986年：荷兰和斯基利群岛之间持续335年的据称战争状态宣布和平，结束了可能在法律上认为存在的任何假设战争。
-- -  1982年：1982年，加拿大女王伊丽莎白二世宣布加拿大宪法在渥太华对加拿大宪法的爱好。
-- -  1978年：Mir Akbar Khyber被暗杀，激发了阿富汗的Saur革命。
-- -  1975年：柬埔寨内战结束。红色高棉捕获了资本金边和柬埔寨政府部队投降。
-- -  1971年：成立了孟加拉国的临时政府。
-- -  1970年：阿波罗计划：受损的阿波罗13号航天器安全返回地球。
-- -  1969年：捷克斯洛伐克共产党主席亚历山大·杜布切克（AlexanderDubček）被罢免。
-- -  1969年：Sirhan Sirhan因暗杀Robert F. Kennedy而被定罪。
-- -  1964年：杰里·莫克（Jerrie Mock）完成了一个女人的第一次环球飞机飞行。她以29 1/2天的哥伦布精神飞行的个人飞行起飞，降落在俄亥俄州的哥伦布国际机场。
-- -  1961年：猪湾入侵：由中央情报局（CIA）土地在古巴的猪湾（Cia of Pigs）资助和训练的一群古巴流亡者，目的是驱逐菲德尔·卡斯特罗（Fidel Castro）。
-- -  1951年：峰区成为英国的第一个国家公园。
-- -  1946年：最后的法国军队被撤回叙利亚。
-- -  1945年：历史学家特兰·特隆·金（Tran Trong Kim）被任命为越南帝国的总理。
-- -  1945年：第二次世界大战：意大利蒙特塞（Montese）从纳粹部队中解放出来。
-- -  1944年：共产主义控制的希腊人民解放部队袭击了较小的民族和社会解放抗钱组织，该组织投降了。它的领导人迪米特里奥斯·帕洛斯（Dimitrios Psarros）被谋杀。
-- -  1942年：法国战俘将军亨利·吉罗（Henri Giraud）从他位于科尼格斯坦堡垒的城堡监狱逃脱。
-- -  1941年：第二次世界大战：当与德国和意大利的停战协定签署停战时，轴心的入侵将完成。
-- -  1931年：在加泰罗尼亚和西班牙临时政府之间进行谈判之后，加泰罗尼亚共和国于4月14日宣布成为加泰罗尼亚自治政府加泰罗尼亚自治政府的加泰罗尼亚共和国。
-- -  1912年：俄罗斯军队对西伯利亚东北部的戈尔德菲尔德工人开火，杀死了至少150人。
-- -  1907年：埃利斯岛移民中心（Ellis Island Emigration Center）处理11,747人，比其他任何一天都要多。
-- -  1905年：美国最高法院裁定Lochner诉New York案，该诉纽约裁定“自由合同权”在《美国宪法》第十四修正案的正当程序条款中隐含。
-- -  1895年：签署了中国和日本之间的Shimonoseki条约。这标志着第一次中日战争的终结，被击败的清帝国被迫放弃其对韩国的主张，并承认了边境省，台湾和彭格的南部地区。
-- -  1876年：卡塔尔帕救援：从西澳大利亚州的弗里曼特尔监狱中救出了六名芬尼囚犯。
+- -  2019年：穆勒报告的编辑版本已发布给美国国会和公众。
+- -  2018年：反政府抗议活动从尼加拉瓜开始。
+- -  2018年：斯威士兰国王姆斯瓦蒂三世（King Mswati III）宣布，他的国家的名字将变成埃斯瓦蒂尼（Eswatini）。
+- -  1988年：在以色列，约翰·丹朱克（John Demjanjuk）因在第二次世界大战中犯下的战争罪而被判处死刑，尽管判决后来被推翻。
+- -  1988年：美国在第二次世界大战以来最大的海军战斗中向曼蒂斯祈祷对伊朗海军的行动发起行动。
+- -  1980年：俄克拉荷马州埃尔莫尔市镇（Elmore City）在该镇历史上举行了第一支舞蹈。
+- -  1980年：津巴布韦共和国（以前是罗得西亚），迦南香蕉作为该国的第一任总统。津巴布韦美元以官方货币取代了罗德尼美元。
+- -  1972年：东非航空公司720次撞车在埃塞俄比亚亚的斯亚贝巴的亚的斯亚贝巴·鲍尔国际机场的一次拒绝起飞中，造成43人丧生。
+- -  1955年：二十九个国家在印度尼西亚的万伦举行了第一次亚洲会议。
+- -  1954年：Gamal Abdel Nasser夺取了埃及的权力。
+- -  1949年：《爱尔兰共和国法案》生效，宣布Éire是共和国，并切断了爱尔兰与国际联邦的“协会”。
+- -  1947年：大爆炸行动是那个时候最大的非核人造爆炸，在德国北海岛上摧毁了掩体和军事装置。
+- -  1946年：杰基·鲁滨逊（Jackie Robinson）为国际联赛的蒙特利尔皇家队（Montreal Royals）首次亮相，使他们成为了第一个综合的现代职业棒球队。
+- -  1946年：国际法院在荷兰海牙举行了就职会议。
+- -  1945年：意大利抵抗运动：在都灵，尽管纳粹法西斯（Nazi-Fascist）采取了严厉的压制性措施，但伟大的事前罢工开始了。
+- -  1945年：第二次世界大战：超过1,000轰炸机袭击了德国Heligoland的小岛。
+- -  1943年：第二次世界大战：Isoroku Yamamoto海军上将行动时，当他的飞机被美国战斗机击落时，他的飞机被杀害。
+- -  1942年：皮埃尔·拉瓦尔（Pierre Laval）成为法国维希（Vichy France）的总理。
+- -  1942年：第二次世界大战：对日本的杜利特尔突袭：东京，横滨，科比和名古屋被轰炸。
+- -  1939年：成为澳大利亚任职时间最长的总理的罗伯特·孟席斯（Robert Menzies）在总理约瑟夫·里昂斯（Joseph Lyons）去世后被当选为联合澳大利亚党的领导人。
+- -  1930年：一场大火在罗马尼亚小镇Costești的一座木教教堂中造成118人丧生，其中大多数是学童，在耶稣受难日服务开始后。
+- -  1916年：第一次世界大战：在高海拔地区的一场矿战战期间，意大利军队征服了奥地利军队持有的上校。
+- -  1915年：第一次世界大战：法国飞行员罗兰·加洛斯（Roland Garros）被击落，滑到德国线的降落。
+- -  1912年：Cunard Liner RMS Carpathia将705个幸存者从RMS Titanic带到纽约市。
+- -  1909年：琼（Joan of Arc）在罗马被打败。
+- -  1906年：7.9 Mwearthquake和Fire摧毁了加利福尼亚州旧金山的大部分地区，造成3,000多人造成，成为美国历史上最严重的自然灾害之一。
+- -  1902年：7.5 MW危地马拉地震摇动危地马拉，最大的Mercalli强度为VIII（严重），杀死了800至2,000。
+- -  1899年：圣安德鲁救护车协会由维多利亚女王授予皇家宪章。
+- -  1897年：希腊和奥斯曼帝国之间宣布了希腊 - 土耳其战争。
+- -  1864年：Dybbøl战役：普鲁士 - 奥地利军队击败丹麦并获得了对施莱斯益格的控制。丹麦在以下和平解决中投降。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-04-17 01:44:42 UTC）*
+*（更新于: 2025-04-18 01:42:15 UTC）*
