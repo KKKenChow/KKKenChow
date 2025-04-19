@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: A redacted version of the Mueller report is released to the United States Congress and the public.
-- 2018: Anti-government protests start in Nicaragua.
-- 2018: King Mswati III of Swaziland announces that his country's name will change to Eswatini.
-- 1988: In Israel John Demjanjuk is sentenced to death for war crimes committed in World War II, although the verdict is later overturned.
-- 1988: The United States launches Operation Praying Mantis against Iranian naval forces in the largest naval battle since World War II.
-- 1980: The town of Elmore City, Oklahoma holds its first dance in the town's history.
-- 1980: The Republic of Zimbabwe (formerly Rhodesia) comes into being, with Canaan Banana as the country's first President. The Zimbabwean dollar replaces the Rhodesian dollar as the official currency.
-- 1972: East African Airways Flight 720 crashes during a rejected takeoff from Addis Ababa Bole International Airport in Addis Ababa, Ethiopia, killing 43.
-- 1955: Twenty-nine nations meet at Bandung, Indonesia, for the first Asian-African Conference.
-- 1954: Gamal Abdel Nasser seizes power in Egypt.
-- 1949: The Republic of Ireland Act comes into force, declaring Éire to be a republic and severing Ireland's "association" with the Commonwealth of Nations.
-- 1947: The Operation Big Bang, the largest non-nuclear man-made explosion to that time, destroys bunkers and military installations on the North Sea island of Heligoland, Germany.
-- 1946: Jackie Robinson makes his regular season debut for the Montreal Royals of the International League, to make them the first integrated modern professional baseball team.
-- 1946: The International Court of Justice holds its inaugural meeting in The Hague, Netherlands.
-- 1945: Italian resistance movement: In Turin, despite the harsh repressive measures adopted by Nazi-fascists, a great pre-insurrectional strike begins.
-- 1945: World War II: Over 1,000 bombers attack the small island of Heligoland, Germany.
-- 1943: World War II: Operation Vengeance, Admiral Isoroku Yamamoto is killed when his aircraft is shot down by U.S. fighters over Bougainville Island.
-- 1942: Pierre Laval becomes Prime Minister of Vichy France.
-- 1942: World War II: The Doolittle Raid on Japan: Tokyo, Yokohama, Kobe and Nagoya are bombed.
-- 1939: Robert Menzies, who became Australia's longest-serving prime minister, is elected as leader of the United Australia Party after the death of Prime Minister Joseph Lyons.
-- 1930: A fire kills 118 people at a wooden church in the small Romanian town of Costești, most of them schoolchildren, after starting during Good Friday services.
-- 1916: World War I: During a mine warfare in high altitude on the Dolomites, the Italian troops conquer the Col di Lana held by the Austrian army.
-- 1915: World War I: French pilot Roland Garros is shot down and glides to a landing on the German side of the lines.
-- 1912: The Cunard liner RMS Carpathia brings 705 survivors from the RMS Titanic to New York City.
-- 1909: Joan of Arc is beatified in Rome.
-- 1906: The 7.9 Mw earthquake and fire destroy much of San Francisco, California, killing more than 3,000 people, making one of the worst natural disasters in American history.
-- 1902: The 7.5 Mw  Guatemala earthquake shakes Guatemala with a maximum Mercalli intensity of VIII (Severe), killing between 800 and 2,000.
-- 1899: The St. Andrew's Ambulance Association is granted a royal charter by Queen Victoria.
-- 1897: The Greco-Turkish War is declared between Greece and the Ottoman Empire.
-- 1864: Battle of Dybbøl: A Prussian-Austrian army defeats Denmark and gains control of Schleswig. Denmark surrenders the province in the following peace settlement.
+- 2021: The Ingenuity helicopter becomes the first aircraft to achieve flight on another planet.
+- 2020: A killing spree in Nova Scotia, Canada, leaves 22 people and the perpetrator dead, making it the deadliest rampage in the country's history.
+- 2013: Boston Marathon bombing suspect Tamerlan Tsarnaev is killed in a shootout with police. His brother Dzhokhar is later captured hiding in a boat inside a backyard in the suburb of Watertown.
+- 2011: Fidel Castro resigns as First Secretary of the Communist Party of Cuba after holding the title since July 1961.
+- 2005: Cardinal Joseph Ratzinger is elected to the papacy and becomes Pope Benedict XVI.
+- 2001: Space Shuttle Endeavour is launched on STS-100 carrying the Canadarm2 to the International Space Station.
+- 2000: Air Philippines Flight 541 crashes in Samal, Davao del Norte, killing all 131 people on board.
+- 1999: The German Bundestag returns to Berlin.
+- 1995: Oklahoma City bombing: The Alfred P. Murrah Federal Building in Oklahoma City, USA, is bombed, killing 168 people including 19 children under the age of six.
+- 1993: The 51-day FBI siege of the Branch Davidian building in Waco, Texas, USA, ends when a fire breaks out. Seventy-six Davidians, including 18 children under age 10, died in the fire.
+- 1989: A gun turret explodes on the USS Iowa, killing 47 sailors.
+- 1987: The Simpsons first appear as a series of shorts on The Tracey Ullman Show, first starting with "Good Night".
+- 1985: Two hundred ATF and FBI agents lay siege to the compound of the white supremacist survivalist group The Covenant, the Sword, and the Arm of the Lord in Arkansas; the CSA surrenders two days later.
+- 1984: Advance Australia Fair is proclaimed as Australia's national anthem, and green and gold as the national colours.
+- 1976: A violent F5 tornado strikes around Brownwood, Texas, injuring 11 people. Two people were thrown at least 1,000 yards (910 m) by the tornado and survived uninjured.
+- 1975: South Vietnamese forces withdrew from the town of Xuan Loc in the last major battle of the Vietnam War.
+- 1975: India's first satellite Aryabhata launched in orbit from Kapustin Yar, Russia.
+- 1973: The Portuguese Socialist Party is founded in the German town of Bad Münstereifel.
+- 1971: Charles Manson is sentenced to death (later commuted to life imprisonment) for conspiracy in the Tate-LaBianca murders.
+- 1971: Launch of Salyut 1, the first space station.
+- 1971: Sierra Leone becomes a republic, and Siaka Stevens the president.
+- 1960: Students in South Korea hold a nationwide pro-democracy protest against president Syngman Rhee, eventually forcing him to resign.
+- 1956: Actress Grace Kelly marries Prince Rainier of Monaco.
+- 1943: Albert Hofmann deliberately doses himself with LSD for the first time, three days after having discovered its effects on April 16, an event commonly known and celebrated as Bicycle Day.
+- 1943: World War II: In German-occupied Poland, the Warsaw Ghetto Uprising begins, after German troops enter the Warsaw Ghetto to round up the remaining Jews.
+- 1942: World War II: In German-occupied Poland, the Majdan-Tatarski ghetto is established, situated between the Lublin Ghetto and a Majdanek subcamp.
+- 1936: The Jaffa riots commence, initiating the 1936-1939 Arab revolt in Palestine.
+- 1927: Mae West is sentenced to ten days in jail for obscenity for her play Sex.
+- 1903: The Kishinev pogrom in Kishinev (Bessarabia) begins, forcing tens of thousands of Jews to later seek refuge in Palestine and the Western world.
+- 1861: American Civil War: Baltimore riot of 1861: A pro-Secession mob in Baltimore attacks United States Army troops marching through the city.
 
 Data from muffinlabs
-*(Updated at: 2025-04-18 01:42:15 UTC)*
+*(Updated at: 2025-04-19 01:40:31 UTC)*
 
 # 历史上的今天 
 
-- -  2019年：穆勒报告的编辑版本已发布给美国国会和公众。
-- -  2018年：反政府抗议活动从尼加拉瓜开始。
-- -  2018年：斯威士兰国王姆斯瓦蒂三世（King Mswati III）宣布，他的国家的名字将变成埃斯瓦蒂尼（Eswatini）。
-- -  1988年：在以色列，约翰·丹朱克（John Demjanjuk）因在第二次世界大战中犯下的战争罪而被判处死刑，尽管判决后来被推翻。
-- -  1988年：美国在第二次世界大战以来最大的海军战斗中向曼蒂斯祈祷对伊朗海军的行动发起行动。
-- -  1980年：俄克拉荷马州埃尔莫尔市镇（Elmore City）在该镇历史上举行了第一支舞蹈。
-- -  1980年：津巴布韦共和国（以前是罗得西亚），迦南香蕉作为该国的第一任总统。津巴布韦美元以官方货币取代了罗德尼美元。
-- -  1972年：东非航空公司720次撞车在埃塞俄比亚亚的斯亚贝巴的亚的斯亚贝巴·鲍尔国际机场的一次拒绝起飞中，造成43人丧生。
-- -  1955年：二十九个国家在印度尼西亚的万伦举行了第一次亚洲会议。
-- -  1954年：Gamal Abdel Nasser夺取了埃及的权力。
-- -  1949年：《爱尔兰共和国法案》生效，宣布Éire是共和国，并切断了爱尔兰与国际联邦的“协会”。
-- -  1947年：大爆炸行动是那个时候最大的非核人造爆炸，在德国北海岛上摧毁了掩体和军事装置。
-- -  1946年：杰基·鲁滨逊（Jackie Robinson）为国际联赛的蒙特利尔皇家队（Montreal Royals）首次亮相，使他们成为了第一个综合的现代职业棒球队。
-- -  1946年：国际法院在荷兰海牙举行了就职会议。
-- -  1945年：意大利抵抗运动：在都灵，尽管纳粹法西斯（Nazi-Fascist）采取了严厉的压制性措施，但伟大的事前罢工开始了。
-- -  1945年：第二次世界大战：超过1,000轰炸机袭击了德国Heligoland的小岛。
-- -  1943年：第二次世界大战：Isoroku Yamamoto海军上将行动时，当他的飞机被美国战斗机击落时，他的飞机被杀害。
-- -  1942年：皮埃尔·拉瓦尔（Pierre Laval）成为法国维希（Vichy France）的总理。
-- -  1942年：第二次世界大战：对日本的杜利特尔突袭：东京，横滨，科比和名古屋被轰炸。
-- -  1939年：成为澳大利亚任职时间最长的总理的罗伯特·孟席斯（Robert Menzies）在总理约瑟夫·里昂斯（Joseph Lyons）去世后被当选为联合澳大利亚党的领导人。
-- -  1930年：一场大火在罗马尼亚小镇Costești的一座木教教堂中造成118人丧生，其中大多数是学童，在耶稣受难日服务开始后。
-- -  1916年：第一次世界大战：在高海拔地区的一场矿战战期间，意大利军队征服了奥地利军队持有的上校。
-- -  1915年：第一次世界大战：法国飞行员罗兰·加洛斯（Roland Garros）被击落，滑到德国线的降落。
-- -  1912年：Cunard Liner RMS Carpathia将705个幸存者从RMS Titanic带到纽约市。
-- -  1909年：琼（Joan of Arc）在罗马被打败。
-- -  1906年：7.9 Mwearthquake和Fire摧毁了加利福尼亚州旧金山的大部分地区，造成3,000多人造成，成为美国历史上最严重的自然灾害之一。
-- -  1902年：7.5 MW危地马拉地震摇动危地马拉，最大的Mercalli强度为VIII（严重），杀死了800至2,000。
-- -  1899年：圣安德鲁救护车协会由维多利亚女王授予皇家宪章。
-- -  1897年：希腊和奥斯曼帝国之间宣布了希腊 - 土耳其战争。
-- -  1864年：Dybbøl战役：普鲁士 - 奥地利军队击败丹麦并获得了对施莱斯益格的控制。丹麦在以下和平解决中投降。
+- -2021：Ingenuity直升机成为第一架在另一个星球上飞行的飞机。
+- -  2020年：加拿大新斯科舍省的一次杀人狂潮使22人和肇事者丧生，使其成为该国历史上最致命的横冲直撞。
+- -  2013年：波士顿马拉松炸弹袭击嫌疑人塔梅兰·特萨纳耶夫（Tamerlan Tsarnaev）在与警察的枪战中被杀。他的兄弟Dzhokhar后来被捕地藏在沃特敦郊区后院的一艘船上。
+- -  2011年：自1961年7月以来，菲德尔·卡斯特罗（Fidel Castro）辞去了冠军头衔后辞去了古巴共产党的第一秘书。
+- -  2005年：红衣主教约瑟夫·拉辛格（Joseph Ratzinger）当选为教皇，成为本尼迪克特十六世教皇。
+- -  2001年：航天飞机努力是在STS-100上发射的，将CanadArm2带到国际空间站。
+- -  2000年：菲律宾航空541号航班在北达沃·德尔·诺特（Davao del Norte）的萨马尔（Samal）撞车，杀死了船上的所有131人。
+- -  1999年：德国政府返回柏林。
+- -  1995年：俄克拉荷马城轰炸：美国俄克拉荷马城的阿尔弗雷德·P·默拉（Alfred P.
+- -  1993年：美国德克萨斯州韦科市的戴维安（David）大楼的51天联邦调查局围困在大火爆发时结束。76名戴维斯人，其中包括18岁以下的儿童在大火中死亡。
+- -  1989年：一个枪炮塔在爱荷华州号上爆炸，杀死了47名水手。
+- -  1987年：辛普森一家首先出现在特蕾西·乌尔曼（Tracey Ullman）节目中的一系列短裤，首先是从“晚安”开始。
+- -  1985年：两百个ATF和联邦调查局特工围攻白人至上主义生存主义团体的盟约，剑和耶和华在阿肯色州的武器；两天后，CSA投降。
+- -  1984年：澳大利亚前进博览会被宣布为澳大利亚国歌，绿色和黄金为民族色彩。
+- -  1976年：德克萨斯州布朗伍德周围的暴力F5龙卷风袭击，炸伤11人。龙卷风扔了两个人至少1000码（910 m），并幸存下来。
+- -  1975年：在越南战争的最后一场大战中，南越军队从Xuan Loc镇撤出。
+- -  1975年：印度的第一个卫星Aryabhata是从俄罗斯的Kapustin Yar发射的。
+- -  1973年：葡萄牙社会主义党建立在德国小镇BadMünstereifel。
+- -  1971年：查尔斯·曼森（Charles Manson）被判处死刑（后来被判处终身监禁），以案中的阴谋谋杀。
+- -  1971年：发射Salyut 1，第一个空间站。
+- -  1971年：塞拉利昂（Sierra Leone）成为共和国，总统西亚卡·史蒂文斯（Siaka Stevens）。
+- -  1960年：韩国的学生在全国范围内针对Syngman Rhee总统进行民主政治抗议，最终迫使他辞职。
+- -  1956年：女演员格蕾丝·凯利（Grace Kelly）嫁给了摩纳哥的雷尼尔王子。
+- -  1943年：阿尔伯特·霍夫曼（Albert Hofmann）在4月16日发现其效果三天后，首次与LSD剂量服用，这是一个通常被称为自行车日的事件。
+- -  1943年：第二次世界大战：在德国占领的波兰，华沙贫民窟起义开始了，在德国军队进入华沙贫民窟以围捕其余的犹太人之后。
+- -  1942年：第二次世界大战：在德国占领的波兰，Majdan-Tatarski Ghetto建立了，位于卢布林贫民窟和Majdanek Subcamp之间。
+- -  1936年：贾法的暴动开始，开始了1936  -  1939年在巴勒斯坦的阿拉伯起义。
+- -  1927年：梅·韦斯特（Mae West）因淫秽性行为而被判入狱十天。
+- -  1903年：基希内夫（Bessarabia）的基希内夫大屠杀开始，迫使成千上万的犹太人随后在巴勒斯坦和西方世界寻求庇护。
+- -  1861年：美国内战：1861年的巴尔的摩骚乱：巴尔的摩袭击美国军队在整个城市行进的美国军队。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-04-18 01:42:15 UTC）*
+*（更新于: 2025-04-19 01:40:31 UTC）*
