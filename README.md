@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: Indonesian Navy submarine KRI Nanggala (402) sinks in the Bali Sea during a military drill, killing all 53 on board.
-- 2019: Eight bombs explode at churches, hotels, and other locations in Sri Lanka on Easter Sunday, killing at least 269.
-- 2014: The American city of Flint, Michigan switches its water source to the Flint River, beginning the ongoing Flint water crisis which has caused lead poisoning in up to 12,000 people, and at least 12 deaths from Legionnaires' disease, ultimately leading to criminal indictments against 15 people, five of whom have been charged with involuntary manslaughter.
-- 2012: Two trains are involved in a head-on collision near Sloterdijk, Amsterdam, in the Netherlands, killing one person and injuring 116 others.
-- 2010: The controversial Kharkiv Pact (Russian Ukrainian Naval Base for Gas Treaty) is signed in Kharkiv, Ukraine, by Ukrainian President Viktor Yanukovych and Russian President Dmitry Medvedev; it was unilaterally terminated by Russia on March 31, 2014.
-- 2004: Five suicide car bombers target police stations in and around Basra, killing 74 people and wounding 160.
-- 1993: The Supreme Court in La Paz, Bolivia, sentences former dictator Luis García Meza to 30 years in jail without parole for murder, theft, fraud and violating the constitution.
-- 1989: Tiananmen Square protests of 1989: In Beijing, around 100,000 students gather in Tiananmen Square to commemorate Chinese reform leader Hu Yaobang.
-- 1987: The Tamil Tigers are blamed for a car bomb that detonates in the Sri Lankan capital city of Colombo, killing 106 people.
-- 1985: The compound of the militant group The Covenant, The Sword, and the Arm of the Lord surrenders to federal authorities in Arkansas after a two-day government siege.
-- 1982: Baseball: Rollie Fingers of the Milwaukee Brewers becomes the first pitcher to record 300 saves.
-- 1977: Annie opens on Broadway.
-- 1975: Vietnam War: President of South Vietnam Nguyễn Văn Thiệu flees Saigon, as Xuân Lộc, the last South Vietnamese outpost blocking a direct North Vietnamese assault on Saigon, falls.
-- 1972: Astronauts John Young and Charles Duke fly Apollo 16's Apollo Lunar Module to the Moon's surface, the fifth NASA Apollo Program crewed lunar landing.
-- 1967: A few days before the general election in Greece, Colonel George Papadopoulos leads a coup d'état, establishing a military regime that lasts for seven years.
-- 1966: Rastafari movement: Haile Selassie of Ethiopia visits Jamaica, an event now celebrated as Grounation Day.
-- 1965: The 1964-1965 New York World's Fair opens for its second and final season.
-- 1964: A Transit-5bn satellite fails to reach orbit after launch; as it re-enters the atmosphere, 2.1 pounds (0.95 kg) of radioactive plutonium in its SNAP RTG power source is widely dispersed.
-- 1963: The first election of the Universal House of Justice is held, marking its establishment as the supreme governing institution of the Baháʼí Faith.
-- 1962: The Seattle World's Fair (Century 21 Exposition) opens. It is the first World's Fair in the United States since World War II.
-- 1960: Brasília, Brazil's capital, is officially inaugurated. At 09:30, the Three Powers of the Republic are simultaneously transferred from the old capital, Rio de Janeiro.
-- 1958: United Air Lines Flight 736 collides with a United States Air Force fighter jet near Arden, Nevada in what is now Enterprise, Nevada.
-- 1952: Secretary's Day (now Administrative Professionals' Day) is first celebrated.
-- 1950: The Nainital wedding massacre occurs, killing 22 members of the Harijan caste.
-- 1948: United Nations Security Council Resolution 47 relating to Kashmir conflict is adopted.
-- 1946: The U.S. Weather Bureau publish a paper which stated the width of a tornado which struck the city of Timber Lake, South Dakota was 4 miles (6.4 km), which would make this the widest tornado ever documented in history.
-- 1945: World War II: Soviet forces south of Berlin at Zossen attack the German High Command headquarters.
-- 1934: The "Surgeon's Photograph", the most famous photo allegedly showing the Loch Ness Monster, is published in the Daily Mail (in 1994, it is revealed to be a hoax).
-- 1926: Al-Baqi cemetery, former site of the mausoleum of four Shi'a Imams, is leveled to the ground by Wahhabis.
-- 1918: World War I: German fighter ace Manfred von Richthofen, better known as "The Red Baron", is shot down and killed over Vaux-sur-Somme in France.
+- 2020: Four police officers are killed after being struck by a truck on the Eastern Freeway in Melbourne while speaking to a speeding driver, marking the largest loss of police lives in Victoria Police history.
+- 2016: The Paris Agreement is signed, an agreement to help fight global warming.
+- 2005: Japan's Prime Minister Junichiro Koizumi apologizes for Japan's war record.
+- 1993: Eighteen-year-old Stephen Lawrence is murdered in a racially motivated attack while waiting for a bus in Well Hall, Eltham.
+- 1992: A series of gas explosions rip through the streets in Guadalajara, Mexico, killing 206.
+- 1977: Optical fiber is first used to carry live telephone traffic.
+- 1974: Pan Am Flight 812 crashes on approach to Ngurah Rai International Airport in Denpasar, Bali, Indonesia, killing all 107 people on board.
+- 1970: Chicano residents in San Diego, California occupy a site under the Coronado Bridge, leading to the creation of Chicano Park.
+- 1970: The first Earth Day is celebrated.
+- 1969: The formation of the Communist Party of India (Marxist-Leninist) is announced at a mass rally in Calcutta.
+- 1969: British yachtsman Sir Robin Knox-Johnston wins the Sunday Times Golden Globe Race and completes the first solo non-stop circumnavigation of the world.
+- 1966: American Flyers Airline Flight 280/D crashes on approach to Ardmore Municipal Airport in Ardmore, Oklahoma, killing 83.
+- 1954: Red Scare: Witnesses begin testifying and live television coverage of the Army-McCarthy hearings begins.
+- 1951: Korean War: The Chinese People's Volunteer Army begin assaulting positions defended by the Royal Australian Regiment and the Princess Patricia's Canadian Light Infantry at the Battle of Kapyong.
+- 1948: Arab-Israeli War: The port city of Haifa is captured by Jewish forces.
+- 1945: World War II: Sachsenhausen concentration camp is liberated by soldiers of the Red Army and Polish First Army.
+- 1945: World War II: Prisoners at the Jasenovac concentration camp revolt. Five hundred twenty are killed and around eighty escape.
+- 1944: World War II: In Greenland, the Allied Sledge Patrol attack the German Bassgeiger weather station.
+- 1944: World War II: Operation Persecution is initiated: Allied forces land in the Hollandia (currently known as Jayapura) area of New Guinea.
+- 1944: The 1st Air Commando Group using Sikorsky R-4 helicopters stage the first use of helicopters in combat with combat search and rescue operations in the China Burma India Theater.
+- 1930: The United Kingdom, Japan and the United States sign the London Naval Treaty regulating submarine warfare and limiting shipbuilding.
+- 1915: World War I: The use of poison gas in World War I escalates when chlorine gas is released as a chemical weapon in the Second Battle of Ypres.
+- 1906: The 1906 Intercalated Games open in Athens.
+- 1898: Spanish-American War: President William McKinley calls for 125,000 volunteers to join the National Guard and fight in Cuba, while Congress more than doubles regular Army forces to 65,000.
+- 1889: At noon, thousands rush to claim land in the Land Rush of 1889. Within hours the cities of Oklahoma City and Guthrie are formed with populations of at least 10,000.
+- 1876: The first National League baseball game is played at the Jefferson Street Grounds in Philadelphia.
+- 1864: The U.S. Congress passes the Coinage Act of 1864 that permitted the inscription In God We Trust be placed on all coins minted as United States currency.
+- 1836: Texas Revolution: A day after the Battle of San Jacinto, forces under Texas General Sam Houston identify Mexican General Antonio López de Santa Anna among the captives of the battle when some of his fellow soldiers mistakenly give away his identity.
+- 1809: The second day of the Battle of Eckmühl: The Austrian army is defeated by the First French Empire army led by Napoleon and driven over the Danube in Regensburg.
+- 1529: Treaty of Zaragoza divides the eastern hemisphere between Spain and Portugal along a line 297.5 leagues (1,250 kilometres (780 mi)) east of the Moluccas.
 
 Data from muffinlabs
-*(Updated at: 2025-04-21 01:49:52 UTC)*
+*(Updated at: 2025-04-22 01:45:39 UTC)*
 
 # 历史上的今天 
 
-- -  2021年：印尼海军潜艇克里·南格拉（Kri Nanggala）（402）在一次军事演习期间沉入巴厘岛，杀死了所有53人。
-- -  2019年：复活节星期日在斯里兰卡的教堂，酒店和其他地点爆炸了八枚炸弹，杀死了至少269人。
-- -  2014年：美国密歇根州的美国弗林特城市将其水源转移到弗林特河，开始了正在进行的弗林特水危机，该危机导致多达12,000人的铅中毒，至少有12人死于军团纳尔氏病，最终导致对15人的刑事诉讼，其中5人被指控犯有无人男子lughter的指控。
-- -  2012年：两列火车涉及荷兰阿姆斯特丹Sloterdijk附近的一场正面碰撞，杀死了一个人并伤害了116人。
-- -  2010年：乌克兰总统维克多·亚努科维奇（Viktor Yanukovych）和俄罗斯总统德米特里·梅德韦维夫（Dmitry Medvedev）在乌克兰的哈尔基夫签署了有争议的哈尔基夫契约（俄罗斯乌克兰海军基地）乌克兰的哈尔基夫；它于2014年3月31日单方面由俄罗斯终止。
-- -  2004年：五个自杀式汽车轰炸机针对巴士拉及其周围地区的警察局，造成74人炸伤，160人受伤。
-- -  1993年：玻利维亚拉巴斯的最高法院判决前独裁者路易斯·加西亚·梅扎（LuisGarcíaMeza）判处30年监禁，而没有假释，盗窃，欺诈和违反宪法。
-- -  1989年：1989年的天安门广场抗议活动：在北京，大约有100,000名学生聚集在天安门广场，以纪念中国改革领袖胡·亚尚。
-- -  1987年：泰米尔虎（Tamil Tigers）被指责为一枚在斯里兰卡首都科伦坡（Colombo）引爆的汽车炸弹，炸死106人。
-- -  1985年：激进组织的盟约，剑和主的手臂在经过为期两天的政府围困后向阿肯色州的联邦当局投降。
-- -  1982年：棒球：密尔沃基酿酒师的rollie手指成为第一个记录300次扑救的投手。
-- -  1977年：安妮在百老汇开业。
-- -  1975年：越南战争：越南南部的总统nguyễnVănThiệu逃离了西贡（XuânLộC），XuânLộC是最后一个南部越南人的前哨基地，阻止了直接的北部越南对西贡的直接袭击。
-- -  1972年：宇航员约翰·杨（John Young）和查尔斯·杜克（Charles Duke）飞行阿波罗（Apollo）16的阿波罗月球模块到月球表面，第五届NASA阿波罗计划（NASA Apollo）计划船员Lunar Landing。
-- -  1967年：在希腊大选前几天，乔治·帕帕多洛斯上校领导了一场政变，建立了持续七年的军事政权。
-- -  1966年：拉斯塔法里运动：埃塞俄比亚的海尔·塞拉西（Haile Selassie）访问牙买加，这是一个庆祝活动日的活动。
-- -  1965年：1964  -  1965年纽约世界博览会的第二个也是最后一个赛季。
-- -  1964年：发射后，一颗5亿卫星未能到达轨道；当它重新进入大气时，其SNAP RTG电源中的2.1磅（0.95 kg）的放射性per含量被广泛分散。
-- -  1963年：举行了普遍司法众议院的第一次选举，将其建立标记为最高理事会的巴哈伊信仰机构。
-- -  1962年：西雅图世界博览会（Century 21博览会）开放。自第二次世界大战以来，这是美国第一世界博览会。
-- -  1960年：巴西首都布拉西利亚（Brasília）正式开幕。在09:30，共和国的三项权力同时从旧首都里约热内卢转移。
-- -  1958年：联合航空公司736号航班与内华达州企业的内华达州阿登附近的美国空军战斗机碰撞。
-- -  1952年：首先庆祝秘书节（现在是行政专业人士日）。
-- -  1950年：奈尼塔尔婚礼大屠杀发生了，杀死了哈里扬种姓的22名成员。
-- -  1948年：采用了与克什米尔冲突有关的联合国安理会第47号决议。
-- -  1946年：美国气象局发表了一篇论文，说明了龙卷风的宽度，该龙卷风袭击了南达科他州的木材湖，是4英里（6.4公里），这将使这成为历史上有史以来最广泛的龙卷风。
-- -  1945年：第二次世界大战：柏林以南的苏联部队在佐森袭击了德国高级司令部总部。
-- -  1934年：“外科医生的照片”是据称显示的最著名的照片，展示了尼斯尼斯怪物的照片，该照片发表在《每日邮报》上（1994年，它被发现是骗局）。
-- -  1926年：瓦哈比斯（Wahhabis）将四个shi'a imams的陵墓al-baqi公墓（Al-Baqi Cemetery）置于地面上。
-- -  1918年：第一次世界大战：德国战斗机Ace Manfred Von Richthofen，更名为“红色男爵”，被击落并在法国的Vaux-Surme上被杀死。
+- -  2020年：在与超速驾驶员交谈时，四名警察在墨尔本的东部高速公路上被卡车撞死，这标志着维多利亚州警方历史上最大的警察丧生。
+- -  2016年：签署了《巴黎协定》，这是一项协议，以帮助与全球变暖作斗争。
+- -  2005年：日本总理朱尼希罗·考苏米（Junichiro Koizumi）为日本战争记录道歉。
+- -  1993年：十八岁的斯蒂芬·劳伦斯（Stephen Lawrence）在等待在埃尔瑟姆（Eltham）井霍尔（Well Hall）的一辆公共汽车时被谋杀。
+- -  1992年：墨西哥瓜达拉哈拉（Guadalajara）的街道上撕裂了一系列的气体爆炸，杀死了206。
+- -  1977年：光纤首先用于进行实时电话流量。
+- -  1974年：PAN AM 812航班在印度尼西亚巴厘岛丹帕萨尔市的Ngurah Rai国际机场的途中坠毁，杀死了所有107人。
+- -  1970年：加利福尼亚州圣地亚哥的奇卡诺居民占据了科罗纳多桥下的一个地点，导致了奇卡诺公园的创建。
+- -  1970年：庆祝地球日。
+- -  1969年：印度共产党（马克思列宁主义者）的成立在加尔各答的一次大规模集会上宣布。
+- -  1969年：英国游艇爵士罗宾·诺克斯·约翰斯顿爵士赢得了《星期日泰晤士报》金球奖，并完成了世界上第一个独奏不停地环游世界。
+- -  1966年：美国飞行员航空公司航空公司280/d撞车在俄克拉荷马州阿德莫尔的阿德莫尔市政机场的往返机上撞车，杀死了83。
+- -  1954年：红色恐慌：目击者开始对陆军麦卡锡听证会的作证和直播电视报道开始。
+- -  1951年：朝鲜战争：中国人民的志愿军开始袭击由澳大利亚皇家团和帕特里夏公主的加拿大轻步兵在Kapyong战役中捍卫的立场。
+- -  1948年：阿拉伯 - 以色列战争：海法港口被犹太部队俘虏。
+- -  1945年：第二次世界大战：萨克森豪森集中营被红军和波兰第一军的士兵解放。
+- -  1945年：第二次世界大战：Jasenovac集中营起义的囚犯。五百二十人被杀，大约八十次逃脱。
+- -  1944年：第二次世界大战：在格陵兰，盟军雪橇巡逻队袭击了德国巴斯吉格气象站。
+- -  1944年：第二次世界大战：启动行动迫害：盟军降落在新几内亚的荷兰岛（目前称为Jayapura）地区。
+- -  1944年：使用Sikorsky R-4直升机的第一航空公司集团舞台首次在中国缅甸印度剧院与战斗搜索和救援行动进行战斗。
+- -  1930年：英国，日本和美国签署了规范潜艇战争和限制造船的伦敦海军条约。
+- -  1915年：第一次世界大战：第一次世界大战中使用毒气的使用在第二次Ypres战役中以化学武器的形式释放时，在第一次世界大战中升级。
+- -  1906年：1906年的插图游戏在雅典开业。
+- -  1898年：西班牙裔美国人战争：总统威廉·麦金莱（William McKinley）呼吁125,000名志愿者加入国民警卫队并在古巴战斗，而国会则将正规军多倍地达到65,000。
+- -  1889年：中午，成千上万的人急于在1889年的土地冲刺中要求土地。在几个小时内，俄克拉荷马城和古斯里的城市成立了至少10,000人。
+- -  1876年：第一场全国联赛棒球比赛是在费城的杰斐逊街场进行的。
+- -  1864年：美国国会通过了1864年的《造币法》，该法案允许我们相信的上帝铭文放在所有被铸造为美国货币的硬币上。
+- -  1836年：得克萨斯州的革命：圣哈辛托战役后的第二天，德克萨斯州将军萨姆·休斯顿（Sam Houston）领导下的部队将墨西哥将军安东尼奥·洛佩斯·德·圣安娜（AntonioLópezde Santa Anna）识别为战斗的俘虏，当时他的一些同胞错误地赋予了他的身份。
+- -  1809年：埃克穆尔战役的第二天：奥地利军队被拿破仑领导的第一军帝国军队击败，并在雷根斯堡的多瑙河上行驶。
+- -1529：Zaragoza条约沿着莫卢卡斯以东的297.5联赛（1,250公里（780英里））沿着西班牙和葡萄牙之间的东半球划分。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-04-21 01:49:52 UTC）*
+*（更新于: 2025-04-22 01:45:39 UTC）*
