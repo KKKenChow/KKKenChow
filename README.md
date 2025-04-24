@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: The 2024 Lumut mid-air collision in Malaysia kills 10 people while rehearsing for the 90th anniversary of the Royal Malaysian Navy.
-- 2019: The April 2019 Hpakant jade mine collapse in Myanmar kills four miners and two rescuers, with at least 50 others missing and presumed dead.
-- 2018: A vehicle-ramming attack kills 11 people and injures 15 in Toronto. A 25-year-old suspect, Alek Minassian, is arrested.
-- 2013: At least 111 people are killed and 233 injured as violence breaks out in Hawija, Iraq.
-- 2005: The first YouTube video, titled "Me at the zoo", was published by co-founder Jawed Karim.
-- 1999: NATO bombs the headquarters of Radio Television of Serbia, as part of their aerial campaign against the Federal Republic of Yugoslavia.
-- 1993: Sri Lankan politician Lalith Athulathmudali is assassinated while addressing a gathering, approximately four weeks ahead of the Provincial Council elections for the Western Province.
-- 1993: Eritreans vote overwhelmingly for independence from Ethiopia in a United Nations-monitored referendum.
-- 1990: Namibia becomes the 160th member of the United Nations and the 50th member of the Commonwealth of Nations.
-- 1985: Coca-Cola changes its formula and releases New Coke. The response is overwhelmingly negative, and the original formula is back on the market in less than three months.
-- 1979: Blair Peach, a British activist, was fatally injured after being knocked unconscious during an Anti-Nazi League demonstration against a National Front election meeting in Southall, London.
-- 1979: SAETA Flight 011 crashes in Pastaza Province, Ecuador, killing all 57 people on board. The wreckage was not discovered until 1984.
-- 1971: Bangladesh Liberation War: The Pakistan Army and Razakars massacre approximately 3,000 Hindu emigrants in the Jathibhanga area of East Pakistan (now Bangladesh).
-- 1968: Vietnam War: Student protesters at Columbia University in New York City take over administration buildings and shut down the university.
-- 1967: Soviet space program: Soyuz 1 (Russian: Союз 1, Union 1) a crewed spaceflight carrying cosmonaut Colonel Vladimir Komarov is launched into orbit.
-- 1966: Aeroflot Flight 2723 crashes into the Caspian Sea off the Absheron Peninsula, killing 33 people.
-- 1961: Algiers putsch by French generals.
-- 1951: Cold War: American journalist William N. Oatis is arrested for espionage by the Communist government of Czechoslovakia.
-- 1949: Chinese Civil War: Establishment of the People's Liberation Army Navy.
-- 1946: Manuel Roxas is elected the last President of the Commonwealth of the Philippines.
-- 1945: World War II: Adolf Hitler's designated successor, Hermann Göring, sends him a telegram asking permission to take leadership of Nazi Germany. Martin Bormann and Joseph Goebbels advise Göring that the telegram is treasonous.
-- 1942: World War II: Baedeker Blitz: German bombers hit Exeter, Bath and York in retaliation for the British raid on Lübeck.
-- 1941: World War II: The Greek government and King George II evacuate Athens before the invading Wehrmacht.
-- 1940: The Rhythm Club fire at a dance hall in Natchez, Mississippi, kills 198 people.
-- 1935: The Polish Constitution of 1935 is adopted.
-- 1927: Cardiff City defeat Arsenal in the FA Cup Final, the only time it has been won by a team not based in England.
-- 1920: The Grand National Assembly of Turkey (TBMM) is founded in Ankara. The assembly denounces the government of Sultan Mehmed VI and announces the preparation of a temporary constitution.
-- 1919: The Estonian Constituent Assembly is held in Estonia, which marks the birth of the Estonian Parliament, the Riigikogu.
-- 1918: World War I: The British Royal Navy makes a raid in an attempt to neutralise the Belgian port of Bruges-Zeebrugge.
-- 1909: In Portugal, a magnitude 6.0 earthquake strikes near Lisbon, killing at least 60 people and injuring 75.
+- 2013: Violence in Bachu County, Kashgar Prefecture, of China's Xinjiang results in death of 21 people.
+- 2013: A building collapses near Dhaka, Bangladesh, killing 1,134 people and injuring about 2,500 others.
+- 2011: WikiLeaks starts  publishing the Guantanamo Bay files leak.
+- 2006: Bombings in the Egyptian resort city of Dahab kill 23 people and injure about 80.
+- 2005: Cardinal Joseph Ratzinger is inaugurated as the 265th Pope of the Catholic Church taking the name Pope Benedict XVI.
+- 2004: The United States lifts economic sanctions imposed on Libya 18 years previously, as a reward for its cooperation in eliminating weapons of mass destruction.
+- 1996: In the United States, the Antiterrorism and Effective Death Penalty Act of 1996 is passed into law.
+- 1994: A Douglas DC-3 ditches in Botany Bay after takeoff from Sydney Airport. All 25 people on board survive.
+- 1993: An IRA bomb devastates the Bishopsgate area of London.
+- 1990: Gruinard Island, Scotland, is officially declared free of the anthrax disease after 48 years of quarantine.
+- 1990: STS-31: The Hubble Space Telescope is launched from the Space Shuttle Discovery.
+- 1980: Eight U.S. servicemen die in Operation Eagle Claw as they attempt to end the Iran hostage crisis.
+- 1979: Blair Peach, a British activist, died after being knocked unconscious during an Anti-Nazi League demonstration against a National Front election meeting in Southall, London.
+- 1970: The Gambia becomes a republic within the Commonwealth of Nations, with Dawda Jawara as its first President.
+- 1970: China launches Dong Fang Hong I, becoming the fifth nation to put an object into orbit using its own booster.
+- 1967: Vietnam War: American General William Westmoreland says in a news conference that the enemy had "gained support in the United States that gives him hope that he can win politically that which he cannot win militarily".
+- 1967: Cosmonaut Vladimir Komarov dies in Soyuz 1 when its parachute fails to open. He is the first human to die during a space mission.
+- 1965: Civil war breaks out in the Dominican Republic when Colonel Francisco Caamaño overthrows the triumvirate that had been in power since the coup d'état against Juan Bosch.
+- 1963: Marriage of Princess Alexandra of Kent to Angus Ogilvy at Westminster Abbey in London.
+- 1957: Suez Crisis: The Suez Canal is reopened following the introduction of UNEF peacekeepers to the region.
+- 1955: The Bandung Conference ends: Twenty-nine non-aligned nations of Asia and Africa finish a meeting that condemns colonialism, racism, and the Cold War.
+- 1953: Winston Churchill is knighted by Queen Elizabeth II.
+- 1944: World War II: The SBS launches a raid against the garrison of Santorini in Greece.
+- 1933: Nazi Germany begins its persecution of Jehovah's Witnesses by shutting down the Watch Tower Society office in Magdeburg.
+- 1932: Benny Rothman leads the mass trespass of Kinder Scout, leading to substantial legal reforms in the United Kingdom.
+- 1926: The Treaty of Berlin is signed. Germany and the Soviet Union each pledge neutrality in the event of an attack on the other by a third party for the next five years.
+- 1924: Thorvald Stauning becomes premier of Denmark (first term).
+- 1922: The first segment of the Imperial Wireless Chain providing wireless telegraphy between Leafield in Oxfordshire, England, and Cairo, Egypt, comes into operation.
+- 1918: World War I: First tank-to-tank combat, during the second Battle of Villers-Bretonneux. Three British Mark IVs meet three German A7Vs.
+- 1916: Ernest Shackleton and five men of the Imperial Trans-Antarctic Expedition launch a lifeboat from uninhabited Elephant Island in the Southern Ocean to organise a rescue for the crew of the sunken Endurance.
 
 Data from muffinlabs
-*(Updated at: 2025-04-23 01:45:54 UTC)*
+*(Updated at: 2025-04-24 01:46:15 UTC)*
 
 # 历史上的今天 
 
-- -  2024年：2024年马来西亚的灯具中间空中碰撞杀死了10人，同时排练了马来西亚皇家海军90周年。
-- -  2019年：2019年4月的HPAKANT JADE矿山倒塌在缅甸杀死了四名矿工和两名救援人员，至少有50人失踪并假定死亡。
-- -  2018年：撞车袭击造成11人丧生，多伦多造成15人伤害。一名25岁的嫌疑人Alek Minassian被捕。
-- -  2013年：由于伊拉克的哈维亚（Hawija）爆发暴力，至少有111人被杀，233人受伤。
-- -  2005年：联合创始人Jawed Karim出版了第一个YouTube视频，标题为“ Me in the Zoo”。
-- -  1999年：作为对南斯拉夫联邦共和国的空中运动的一部分，北约炸弹塞尔维亚无线电电视台的总部。
-- -  1993年：斯里兰卡政治家拉利斯·阿提拉特木里（Lalith Athulathmudali）在一次聚会时被暗杀，比省议会大选前往西部省大约四个星期。
-- -  1993年：厄立特里亚人以少数投票，以与联合国监控全民公决中的埃塞俄比亚独立投票。
-- -  1990年：纳米比亚成为联合国第160名成员和国家联邦第50位成员。
-- -  1985年：可口可乐改变了其公式并释放了新可乐。响应绝大多数是负面的，原始公式在不到三个月的时间内又回到了市场上。
-- -  1979年：英国激进主义者布莱尔·佩奇（Blair Peach）在反纳粹联赛示威中因在伦敦索尔萨尔举行的国民阵线选举会议上昏迷而受到致命伤害。
-- -  1979年：Saeta航班011在厄瓜多尔的意大利面包省坠毁，杀死了所有57人。直到1984年才发现残骸。
-- -  1971年：孟加拉国解放战争：巴基斯坦军队和拉萨卡尔大屠杀约有3,000名在东巴基斯坦（现为孟加拉国）的贾西巴加地区的印度教移民。
-- -  1968年：越南战争：纽约市哥伦比亚大学的学生抗议者接管行政大楼并关闭了大学。
-- -  1967年：苏联太空计划：苏育1号（俄罗斯：茅юз1，联合1）载有cosmonaut上校弗拉基米尔·科马罗夫（Vladimir Komarov）的船员太空飞行进入轨道。
-- -  1966年：Aeroflot 2723航班撞向阿布塞龙半岛附近的里海，造成33人丧生。
-- -  1961年：法国将军的Algiers Putsch。
-- -  1951年：冷战：美国记者威廉·N·奥阿蒂斯（William N. Oatis）被捷克斯洛伐克共产党政府逮捕。
-- -  1949年：中国内战：建立人民解放军海军。
-- -  1946年：曼努埃尔·罗克萨斯（Manuel Roxas）当选为菲律宾联邦的最后一位总统。
-- -  1945年：第二次世界大战：阿道夫·希特勒（Adolf Hitler）的指定继任者赫尔曼·戈林（HermannGöring）向他发送了一封电报，要求允许纳粹德国领导。马丁·博尔曼（Martin Bormann）和约瑟夫·戈伯尔斯（Joseph Goebbels）建议戈林（Göring）叛国派。
-- -  1942年：第二次世界大战：Baedeker Blitz：德国轰炸机袭击了埃克塞特，巴斯和约克，以报复英国对吕贝克的突袭。
-- -  1941年：第二次世界大战：希腊政府和乔治二世国王在入侵韦尔马赫特之前撤离雅典。
-- -  1940年：密西西比州纳奇兹的舞厅的节奏俱乐部大火杀死了198人。
-- -  1935年：采用了1935年的波兰宪法。
-- -  1927年：加的夫城在足总杯决赛中击败阿森纳，这是一支不在英格兰的球队赢得的唯一一次。
-- -  1920年：土耳其大会（TBMM）建立在安卡拉。议会谴责苏丹·梅赫梅德六世（Sultan Mehmed VI）政府，并宣布准备临时宪法。
-- -  1919年：爱沙尼亚人民议会在爱沙尼亚举行，这标志着爱沙尼亚议会的诞生，里吉库古。
-- -  1918年：第一次世界大战：英国皇家海军进行突袭，以中和布鲁格斯 - 泽布鲁格的比利时港口。
-- -  1909年：在葡萄牙，里斯本附近的6.0次地震袭击，杀死至少60人，受伤75。
+- -  2013年：中国新疆喀什县巴库县的暴力行为导致21人死亡。
+- -  2013年：孟加拉国达卡附近的一栋建筑物倒塌，造成1,134人丧生，炸伤约2500人。
+- -  2011年：WikiLeaks开始发布关塔那摩湾文件泄漏。
+- -  2006年：埃及度假村城市达哈卜（Dahab）的爆炸案杀死了23人，约80人受伤。
+- -  2005年：枢机主教约瑟夫·拉辛格（Joseph Ratzinger）被任命为教皇本尼迪克特十六世（Pope Benedict XVI）的第265位教皇。
+- -  2004年：美国18年前对利比亚实施的经济制裁，以奖励其在消除大规模杀伤性武器方面的合作。
+- -  1996年：在美国，《 1996年的抗恐怖主义和有效的死刑法》已通过法律。
+- -  1994年：从悉尼机场起飞后，植物学湾的道格拉斯DC-3沟渠。船上的所有25个人都能生存。
+- -  1993年：IRA炸弹破坏了伦敦的主教区域。
+- -  1990年：苏格兰的格鲁纳德岛（Gruinard Island）在隔离了48年后，正式宣布患有炭疽病。
+- -  1990年：STS-31：哈勃太空望远镜是从航天飞机发现推出的。
+- -  1980年：八名美国军人在试图结束伊朗人质危机时死亡的鹰爪行动。
+- -  1979年：英国激进主义者布莱尔·佩奇（Blair Peach）在一次反纳粹联赛示威中被击倒昏迷后去世，反对在伦敦索尔萨尔举行的国民阵线选举会议。
+- -  1970年：冈比亚成为国家联邦的共和国，达达·贾瓦拉（Dawda Jawara）是其第一任总统。
+- -  1970年：中国推出了东港，成为使用自己的助推器将物体放入轨道的第五个国家。
+- -  1967年：越南战争：美国将军威廉·韦斯特摩兰（William Westmoreland）在新闻发布会上说，敌人“在美国获得了支持，这使他希望他能在政治上赢得他不能在军事上赢得的胜利”。
+- -  1967年：宇航员弗拉基米尔·科马罗夫（Vladimir Komarov）在降落伞未能开放时死在苏盟1中。他是在太空任务中第一个死亡的人。
+- -  1965年：内战在多米尼加共和国爆发，当时弗朗西斯科·卡马尼奥上校推翻了自政变以来对胡安·博世（Juan Bosch）以来就一直掌权的胜利者。
+- -  1963年：肯特公主的亚历山德拉公主与伦敦的威斯敏斯特大教堂的安格斯·奥美的婚姻。
+- -  1957年：苏伊士危机：苏伊士运河在向该地区引入不利于维和人员后重新开放。
+- -  1955年：万伦会议结束：亚洲和非洲的29个不结盟国家结束了一次谴责殖民主义，种族主义和冷战的会议。
+- -  1953年：温斯顿·丘吉尔（Winston Churchill）被女王伊丽莎白二世（Queen Elizabeth II）爵士。
+- -  1944年：第二次世界大战：SBS对希腊的Santorini驻军进行了突袭。
+- -  1933年：纳粹德国通过关闭位于玛格德堡的守望塔协会办公室来开始对耶和华见证人的迫害。
+- -  1932年：本尼·罗斯曼（Benny Rothman）领导着金德侦察兵的大规模侵入，导致英国进行了实质性的法律改革。
+- -  1926年：《柏林条约》已签署。在接下来的五年中，德国和苏联都承诺中立。
+- -  1924年：Thorvald Stauning成为丹麦的总理（第一学期）。
+- -  1922年：帝国无线连锁店的第一部分，在英格兰牛津郡的叶菲尔德和埃及的开罗之间提供无线电报。
+- -  1918年：第一次世界大战：在Villers-Bretonneux的第二次战斗中，第一次坦克战斗。三个英国商标IV遇到了三个德国A7V。
+- -  1916年：欧内斯特·沙克尔顿（Ernest Shackleton）和五名帝国跨北极探险队的五名男子从南海的无人居住的大象岛上发射了一艘救生艇，为沉没的耐力船员组织了救援。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-04-23 01:45:54 UTC）*
+*（更新于: 2025-04-24 01:46:15 UTC）*
