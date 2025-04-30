@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2015: A baseball game between the Baltimore Orioles and the Chicago White Sox sets the all-time low attendance mark for Major League Baseball. Zero fans were in attendance for the game, as the stadium was officially closed to the public due to the 2015 Baltimore protests.
-- 2013: National Airlines Flight 102, a Boeing 747-400 freighter aircraft, crashes during takeoff from Bagram Airfield in Parwan Province, Afghanistan, killing all seven people on board.
-- 2013: A powerful explosion occurs in an office building in Prague, believed to have been caused by natural gas, and injures 43 people.
-- 2011: The Wedding of Prince William and Catherine Middleton takes place at Westminster Abbey in London.
-- 2004: The final Oldsmobile is built in Lansing, Michigan, ending 107 years of vehicle production.
-- 1997: The Chemical Weapons Convention of 1993 enters into force, outlawing the production, stockpiling and use of chemical weapons by its signatories.
-- 1992: Riots in Los Angeles begin, following the acquittal of police officers charged with excessive force in the beating of Rodney King. Over the next three days 63 people are killed and hundreds of buildings are destroyed.
-- 1991: The 7.0 Mw  Racha earthquake affects Georgia with a maximum MSK intensity of IX (Destructive), killing 270 people.
-- 1991: A cyclone strikes the Chittagong district of southeastern Bangladesh with winds of around 155 miles per hour (249 km/h), killing at least 138,000 people and leaving as many as ten million homeless.
-- 1986: An assembly of Sikhs, known as a Sarbat Khalsa, officially declared independence for a state of Khalistan.
-- 1986: The United States Navy aircraft carrier USS Enterprise becomes the first nuclear-powered aircraft carrier to transit the Suez Canal, navigating from the Red Sea to the Mediterranean Sea to relieve the USS Coral Sea.
-- 1986: A fire at the Central library of the Los Angeles Public Library damages or destroys 400,000 books and other items.
-- 1985: Space Shuttle Challenger is launched on STS-51-B.
-- 1975: Vietnam War: The North Vietnamese army completes its capture of all parts of South Vietnam-held Trường Sa Islands.
-- 1975: Vietnam War: Operation Frequent Wind: The U.S. begins to evacuate U.S. citizens from Saigon before an expected North Vietnamese takeover. U.S. involvement in the war comes to an end.
-- 1974: Watergate scandal: United States President Richard Nixon announces the release of edited transcripts of White House tape recordings relating to the scandal.
-- 1970: Vietnam War: United States and South Vietnamese forces invade Cambodia to hunt Viet Cong.
-- 1967: After refusing induction into the United States Army the previous day, Muhammad Ali is stripped of his boxing title.
-- 1953: The first U.S. experimental 3D television broadcast shows an episode of Space Patrol on Los Angeles ABC affiliate KECA-TV.
-- 1952: Pan Am Flight 202 crashes into the Amazon basin near Carolina, Maranhão, Brazil, killing 50 people.
-- 1946: The International Military Tribunal for the Far East convenes and indicts former Prime Minister of Japan Hideki Tojo and 28 former Japanese leaders for war crimes.
-- 1945: Dachau concentration camp is liberated by United States troops.
-- 1945: World War II: Adolf Hitler marries his longtime partner Eva Braun in a Berlin bunker and designates Admiral Karl Dönitz as his successor.
-- 1945: World War II: Airdrops of food begin over German-occupied regions of the Netherlands.
-- 1945: World War II: The Surrender of Caserta is signed by the commander of German forces in Italy.
-- 1916: Easter Rising: After six days of fighting, Irish rebel leaders surrender to British forces in Dublin, bringing the Easter Rising to an end.
-- 1916: World War I: The UK's 6th Indian Division surrenders to Ottoman Forces at the Siege of Kut in one of the largest surrenders of British forces up to that point.
-- 1911: Tsinghua University, one of mainland China's leading universities, is founded.
-- 1910: The Parliament of the United Kingdom passes the People's Budget, the first budget in British history with the expressed intent of redistributing wealth among the British public.
-- 1903: A landslide kills 70 people in Frank, in the District of Alberta, Canada.
+- 2021: Forty-five men and boys are killed in the Meron stampede in Israel.
+- 2014: A bomb blast in Ürümqi, China kills three people and injures 79 others.
+- 2013: Willem-Alexander is inaugurated as King of the Netherlands following the abdication of Beatrix.
+- 2012: An overloaded ferry capsizes on the Brahmaputra River in India killing at least 108 people.  At least 150 more are missing and presumed dead.
+- 2009: Seven civilians and the perpetrator are killed and another ten injured at a Queen's Day parade in Apeldoorn, Netherlands in an attempted assassination on Queen Beatrix.
+- 2009: Chrysler files for Chapter 11 bankruptcy.
+- 2008: Two skeletal remains found near Yekaterinburg are confirmed by Russian scientists to be the remains of Alexei and Anastasia, two of the children of the last Tsar of Russia, whose entire family was executed at Yekaterinburg by the Bolsheviks.
+- 2004: U.S. media release graphic photos of American soldiers committing war crimes against Iraqi prisoners at Abu Ghraib prison.
+- 2000: Canonization of Faustina Kowalska in the presence of 200,000 people and the first Divine Mercy Sunday celebrated worldwide.
+- 1999: Neo-Nazi David Copeland carries out the last of his three nail bombings in London at the Admiral Duncan gay pub, killing three people and injuring 79 others.
+- 1994: Formula One racing driver Roland Ratzenberger is killed in a crash during the qualifying session of the San Marino Grand Prix run at Autodromo Enzo e Dino Ferrari outside Imola, Italy.
+- 1993: CERN announces World Wide Web protocols will be free.
+- 1989: The Monkseaton shootings occur in Tyne and Wear, England. One killed, 16 injured.
+- 1982: The Bijon Setu massacre occurs in Calcutta, India.
+- 1980: The Iranian Embassy siege begins in London.
+- 1980: Beatrix is inaugurated as Queen of the Netherlands following the abdication of Juliana.
+- 1979: Eruption of Mount Marapi: Mount Marapi, a complex volcano on the Indonesian island of Sumatra, erupted. 80 up to 100 people were killed.
+- 1975: Fall of Saigon: Communist forces gain control of Saigon. The Vietnam War formally ends with the unconditional surrender of South Vietnamese president Dương Văn Minh.
+- 1973: Watergate scandal: U.S. President Richard Nixon fires White House Counsel John Dean; other top aides, most notably H. R. Haldeman and John Ehrlichman, resign.
+- 1963: The Bristol Bus Boycott is held in Bristol to protest the Bristol Omnibus Company's refusal to employ Black or Asian bus crews, drawing national attention to racial discrimination in the United Kingdom.
+- 1961: K-19, the first Soviet nuclear submarine equipped with nuclear missiles, is commissioned.
+- 1957: Supplementary Convention on the Abolition of Slavery entered into force.
+- 1956: Former Vice President and Democratic Senator Alben Barkley dies during a speech in Virginia.
+- 1948: In Bogotá, Colombia, the Organization of American States is established.
+- 1947: In Nevada, Boulder Dam is renamed Hoover Dam.
+- 1945: World War II: Stalag Luft I prisoner-of-war camp near Barth, Germany is liberated by Soviet soldiers, freeing nearly 9,000 American and British airmen.
+- 1945: World War II: Führerbunker: Adolf Hitler and Eva Braun commit suicide after being married for less than 40 hours. Soviet soldiers raise the Victory Banner over the Reichstag building.
+- 1943: World War II: The British submarine HMS Seraph surfaces near Huelva to cast adrift a dead man dressed as a courier and carrying false invasion plans.
+- 1939: NBC inaugurates its regularly scheduled television service in New York City, broadcasting President Franklin D. Roosevelt's N.Y. World's Fair opening day ceremonial address.
+- 1939: The 1939-40 New York World's Fair opens.
 
 Data from muffinlabs
-*(Updated at: 2025-04-29 01:47:29 UTC)*
+*(Updated at: 2025-04-30 01:47:01 UTC)*
 
 # 历史上的今天 
 
-- -  2015年：巴尔的摩金莺和芝加哥白袜队之间的棒球比赛为美国职棒大联盟的历史低位标记。零球迷参加了比赛，因为由于2015年巴尔的摩抗议活动，体育场因正式关闭了公众关闭。
-- -  2013年：一架波音747-400飞机的国家航空公司102号航班在阿富汗帕尔万省的巴格拉姆机场起飞期间坠毁，杀死了船上的所有七人。
-- -  2013年：在布拉格的一栋办公楼发生了强大的爆炸，据信是由天然气造成的，受伤43人。
-- -  2011年：威廉王子和凯瑟琳·米德尔顿的婚礼在伦敦的威斯敏斯特大教堂举行。
-- -  2004年：最后的Oldsmobile建于密歇根州兰辛市，结束了107年的车辆生产。
-- -  1997年：1993年的《化学武器公约》（Chemical Guntion Jumention）签署了签名人，宣布生产，储存和使用化学武器。
-- -  1992年：洛杉矶的骚乱开始，在警察被指控殴打罗德尼·金（Rodney King）的警察无罪释放之后。在接下来的三天中，有63人被杀，数百座建筑物被摧毁。
-- -1991：7.0 MW RACHA地震以最大的IX（破坏性）强度影响佐治亚州，杀死了270人。
-- -  1991年：一个旋风袭击了孟加拉国东南部的吉大港地区，风为每小时约155英里（249 km/h），造成至少138,000人丧生，并留下多达1000万个无家可归者。
-- -  1986年：锡克教徒的大会，被称为Sarbat Khalsa，正式宣布为哈利斯坦州的独立。
-- -  1986年：美国海军航空母舰USS Enterprise成为第一批经营苏伊士运河的核动力航空母舰，从红海航行到地中海，以缓解USS珊瑚海。
-- -  1986年：洛杉矶公共图书馆中央图书馆的大火损害或摧毁了40万本书和其他物品。
-- -  1985年：航天飞机挑战者在STS-51-B上发射。
-- -  1975年：越南战争：北越军队完成了对南越南占领的Trườngsa岛的占领。
-- -  1975年：越南战争：频繁的风：美国开始从西贡撤离美国公民，然后预期北越接管。美国参与战争将结束。
-- -  1974年：水门丑闻：美国总统理查德·尼克松（Richard Nixon）宣布发布与丑闻有关的白宫磁带录音的编辑成绩单。
-- -  1970年：越南战争：美国和南越部队入侵柬埔寨狩猎越共。
-- -  1967年：穆罕默德·阿里（Muhammad Ali）拒绝入选美国军队后，被剥夺了拳击冠军。
-- -  1953年：美国第一台实验3D电视广播显示了洛杉矶ABC关联公司Keca-TV的太空巡逻队的一集。
-- -  1952年：Pan AM 202航班撞上了巴西Maranhão的卡罗来纳州附近的亚马逊盆地，炸死50人。
-- -  1946年：远东的国际军事法庭召集并起诉日本前总理hideki Tojo和28名前日本战争罪。
-- -  1945年：达豪（Dachau）集中营被美国军队解放。
-- -  1945年：第二次世界大战：阿道夫·希特勒（Adolf Hitler）在柏林掩体中与他的长期合伙人伊娃·布劳恩（Eva Braun）结婚，并将卡尔·多尼茨海军上将指定为他的继任者。
-- -  1945年：第二次世界大战：食物的气水始于荷兰的德国占领地区。
-- -  1945年：第二次世界大战：卡斯塔（Caserta）的投降是由意大利德军指挥官签署的。
-- -  1916年：复活节崛起：经过六天的战斗，爱尔兰叛军领导人投降给了都柏林的英军，使复活节崛起结束。
-- -  1916年：第一次世界大战：英国第六印度师在库特（Kut）围困的奥斯曼军队中投降了英国军队最大的投降之一。
-- -  1911年：中国大陆领先的大学之一Tsinghua University是成立的。
-- -  1910年：英国议会通过了人民的预算，这是英国历史上第一个预算，其意图是重新分配英国公众之间的财富。
-- -  1903年：在加拿大艾伯塔省地区，弗兰克（Frank）杀死了70人。
+- -2021：四十五名男子和男孩在以色列的梅隆牛仔中被杀。
+- -  2014年：中国在ürümqi发生的炸弹爆炸炸死了三人，炸伤79人。
+- -  2013年：威勒姆·亚历山大（Willem-Alexander）在比阿特里克斯（Beatrix）退位后被任命为荷兰国王。
+- -  2012年：在印度的布拉马普特拉河上倾覆的渡轮超载，杀死了至少108人。至少有150人失踪并被假定死亡。
+- -  2009年：七名平民和肇事者被杀，在荷兰阿佩尔多恩的女王节游行中又有十名受伤，企图暗杀女王比阿特里克斯（Queen Beatrix）。
+- -  2009年：第11章破产的克莱斯勒文件。
+- -  2008年：俄罗斯科学家证实在Yekaterinburg附近发现的两个骨骼遗体是Alexei和Anastasia的遗体，Alexei和Anastasia的遗体是俄罗斯最后一位沙皇的两个孩子，布尔什维克在Yekaterinburg处决了整个家庭。
+- -  2004年：美国媒体释放的图形照片是美国士兵在阿布格莱布监狱犯下战争罪的美国士兵的照片。
+- -  2000年：在有200,000人面前的福斯蒂娜·科瓦尔斯卡（Faustina Kowalska）和全球庆祝的第一个神圣怜悯周日。
+- -  1999年：新纳粹大卫·科普兰（Neo Nazi David Copeland）在伦敦海军上将邓肯·盖伊（Duncan Gay）酒吧进行了三起指甲爆炸案中的最后一次，杀死了三人，炸伤79人。
+- -  1994年：一级方程式赛车司机罗兰·拉岑伯格（Roland Ratzenberger）在意大利伊莫拉（Imola）以外的Autodromo Enzo e Dino Ferrari的圣马力诺大奖赛预选赛中被杀。
+- -  1993年：CERN宣布全球网络协议将是免费的。
+- -  1989年：蒙克顿枪击事件发生在英格兰的泰恩和磨损中。一人被杀，16人受伤。
+- -  1982年：Bijon Setu屠杀发生在印度加尔各答。
+- -  1980年：伊朗大使馆围困在伦敦开始。
+- -  1980年：朱莉安娜（Juliana）退位后，比阿特丽克斯（Beatrix）担任荷兰女王。
+- -  1979年：马拉皮山的爆发：马拉皮山（Mount Marapi），印尼苏门答腊岛上的复杂火山爆发。80多达100人被杀。
+- -  1975年：西贡的堕落：共产军获得了对西贡的控制。越南战争正式以南越总统迪恩·瓦恩·敏恩的无条件投降。
+- -  1973年：水门丑闻：美国总统理查德·尼克松（Richard Nixon）解雇了白宫律师约翰·迪恩（John Dean）；其他顶级助手，最著名的是H. R. Haldeman和John Ehrlichman辞职。
+- -  1963年：布里斯托尔公共汽车抵制在布里斯托尔举行，以抗议布里斯托尔综合公司拒绝雇用黑人或亚洲公共汽车人员，这引起了全国对英国种族歧视的关注。
+- -  1961年：K-19是第一位配备了核导弹的苏联核潜艇。
+- -  1957年：废除奴隶制的补充公约已生效。
+- -  1956年：前副总统兼民主党参议员阿尔本·巴克利（Alben Barkley）在弗吉尼亚州的演讲中去世。
+- -  1948年：在哥伦比亚波哥大，建立了美国国家的组织。
+- -  1947年：在内华达州，博尔德大坝被更名为胡佛大坝。
+- -  1945年：第二次世界大战：德国巴特附近的战俘营地被苏联士兵解放，释放了近9,000名美国和英国飞行员。
+- -  1945年：第二次世界大战：Führerbunker：阿道夫·希特勒（Adolf Hitler）和伊娃·布劳恩（Eva Braun）结婚不到40个小时后自杀。苏联士兵在国会大厦建筑物上举起了胜利横幅。
+- -  1943年：第二次世界大战：赫尔瓦（Huelva）附近的英国海底HMS五五颗五五颗粒表面，使一个死去的人打扮成快递员，并带有虚假的入侵计划。
+- -  1939年：NBC在纽约市定期安排的电视服务，广播了总统富兰克林·罗斯福（Franklin D.
+- -  1939年：1939  -  40年纽约世界博览会开幕。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-04-29 01:47:29 UTC）*
+*（更新于: 2025-04-30 01:47:01 UTC）*
