@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: Forty-five men and boys are killed in the Meron stampede in Israel.
-- 2014: A bomb blast in Ürümqi, China kills three people and injures 79 others.
-- 2013: Willem-Alexander is inaugurated as King of the Netherlands following the abdication of Beatrix.
-- 2012: An overloaded ferry capsizes on the Brahmaputra River in India killing at least 108 people.  At least 150 more are missing and presumed dead.
-- 2009: Seven civilians and the perpetrator are killed and another ten injured at a Queen's Day parade in Apeldoorn, Netherlands in an attempted assassination on Queen Beatrix.
-- 2009: Chrysler files for Chapter 11 bankruptcy.
-- 2008: Two skeletal remains found near Yekaterinburg are confirmed by Russian scientists to be the remains of Alexei and Anastasia, two of the children of the last Tsar of Russia, whose entire family was executed at Yekaterinburg by the Bolsheviks.
-- 2004: U.S. media release graphic photos of American soldiers committing war crimes against Iraqi prisoners at Abu Ghraib prison.
-- 2000: Canonization of Faustina Kowalska in the presence of 200,000 people and the first Divine Mercy Sunday celebrated worldwide.
-- 1999: Neo-Nazi David Copeland carries out the last of his three nail bombings in London at the Admiral Duncan gay pub, killing three people and injuring 79 others.
-- 1994: Formula One racing driver Roland Ratzenberger is killed in a crash during the qualifying session of the San Marino Grand Prix run at Autodromo Enzo e Dino Ferrari outside Imola, Italy.
-- 1993: CERN announces World Wide Web protocols will be free.
-- 1989: The Monkseaton shootings occur in Tyne and Wear, England. One killed, 16 injured.
-- 1982: The Bijon Setu massacre occurs in Calcutta, India.
-- 1980: The Iranian Embassy siege begins in London.
-- 1980: Beatrix is inaugurated as Queen of the Netherlands following the abdication of Juliana.
-- 1979: Eruption of Mount Marapi: Mount Marapi, a complex volcano on the Indonesian island of Sumatra, erupted. 80 up to 100 people were killed.
-- 1975: Fall of Saigon: Communist forces gain control of Saigon. The Vietnam War formally ends with the unconditional surrender of South Vietnamese president Dương Văn Minh.
-- 1973: Watergate scandal: U.S. President Richard Nixon fires White House Counsel John Dean; other top aides, most notably H. R. Haldeman and John Ehrlichman, resign.
-- 1963: The Bristol Bus Boycott is held in Bristol to protest the Bristol Omnibus Company's refusal to employ Black or Asian bus crews, drawing national attention to racial discrimination in the United Kingdom.
-- 1961: K-19, the first Soviet nuclear submarine equipped with nuclear missiles, is commissioned.
-- 1957: Supplementary Convention on the Abolition of Slavery entered into force.
-- 1956: Former Vice President and Democratic Senator Alben Barkley dies during a speech in Virginia.
-- 1948: In Bogotá, Colombia, the Organization of American States is established.
-- 1947: In Nevada, Boulder Dam is renamed Hoover Dam.
-- 1945: World War II: Stalag Luft I prisoner-of-war camp near Barth, Germany is liberated by Soviet soldiers, freeing nearly 9,000 American and British airmen.
-- 1945: World War II: Führerbunker: Adolf Hitler and Eva Braun commit suicide after being married for less than 40 hours. Soviet soldiers raise the Victory Banner over the Reichstag building.
-- 1943: World War II: The British submarine HMS Seraph surfaces near Huelva to cast adrift a dead man dressed as a courier and carrying false invasion plans.
-- 1939: NBC inaugurates its regularly scheduled television service in New York City, broadcasting President Franklin D. Roosevelt's N.Y. World's Fair opening day ceremonial address.
-- 1939: The 1939-40 New York World's Fair opens.
+- 2024: The 2024 Loblaw boycott, a Canadian boycott against retail corporation and grocer Loblaw Companies, begins.
+- 2019: Naruhito ascends to the throne of Japan succeeding his father Akihito, beginning the Reiwa period.
+- 2019: Naxalite attack in Gadchiroli district of India: Sixteen army soldiers, including a driver, killed in an IED blast. Naxals targeted an anti-Naxal operations team.
+- 2018: Syrian civil war: The Syrian Democratic Forces (SDF) resumes the Deir ez-Zor campaign in order to clear the remnants of the Islamic State of Iraq and the Levant (ISIL) from the Iraq-Syria border.
+- 2011: Pope John Paul II is beatified by his successor, Pope Benedict XVI.
+- 2010: Faisal Shahzad attempts to detonate a car bomb in Times Square, but the bomb fails to go off.
+- 2009: Same-sex marriage is legalized in Sweden.
+- 2004: Cyprus, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia join the European Union, celebrated at the residence of the Irish President in Dublin.
+- 2003: Invasion of Iraq: In what becomes known as the "Mission Accomplished" speech, on board the USS Abraham Lincoln (off the coast of California), U.S. President George W. Bush declares that "major combat operations in Iraq have ended".
+- 1999: The body of British climber George Mallory is found on Mount Everest, 75 years after his disappearance in 1924.
+- 1997: Labour Party wins the 1997 General Election and Tony Blair is elected as Prime Minister
+- 1994: Three-time Formula One champion Ayrton Senna is killed in an accident during the San Marino Grand Prix.
+- 1993: Sri Lankan President Ranasinghe Premadasa is assassinated in Colombo in a suicide bombing carried out by the Liberation Tigers of Tamil Eelam.
+- 1991: Angolan Civil War: The MPLA and UNITA agree to the Bicesse Accords, which are formally signed on May 31 in Lisbon.
+- 1982: Operation Black Buck: The Royal Air Force attacks the Argentine Air Force during Falklands War.
+- 1978: Japan's Naomi Uemura, travelling by dog sled, becomes the first person to reach the North Pole alone.
+- 1975: The Särkänniemi Amusement Park opens in Tampere, Finland.
+- 1971: Amtrak (the National Railroad Passenger Corporation) takes over operation of U.S. passenger rail service.
+- 1970: Vietnam War: Protests erupt in response to U.S. and South Vietnamese forces attacking Vietnamese communists in a Cambodian Campaign.
+- 1961: The Prime Minister of Cuba, Fidel Castro, proclaims Cuba a socialist nation and abolishes elections.
+- 1960: Cold War: U-2 incident: Francis Gary Powers, in a Lockheed U-2 spyplane, is shot down over the Sverdlovsk Oblast, Soviet Union, sparking a diplomatic crisis.
+- 1957: A Vickers VC.1 Viking crashes while attempting to return to Blackbushe Airport in Yateley, killing 34.
+- 1956: The polio vaccine developed by Jonas Salk is made available to the public.
+- 1947: Portella della Ginestra massacre against May Day celebrations in Sicily by the bandit and separatist leader Salvatore Giuliano where 11 persons are killed and 33 wounded.
+- 1946: Start of three-year Pilbara strike of Indigenous Australians.
+- 1945: World War II: Up to 2,500 people die in a mass suicide in Demmin following the advance of the Red Army.
+- 1945: World War II: German radio broadcasts news of Adolf Hitler's death, falsely stating that he has "fallen at his command post in the Reich Chancellery fighting to the last breath against Bolshevism and for Germany". The Soviet flag is raised over the Reich Chancellery, by order of Stalin.
+- 1931: The Empire State Building is dedicated in New York City.
+- 1930: "Pluto" is officially proposed for the name of the newly discovered dwarf planet by Vesto Slipher in the Lowell Observatory Observation Circular. The name quickly catches on.
+- 1929: The 7.2 Mw  Kopet Dag earthquake shakes the Iran-Turkmenistan border region with a maximum Mercalli intensity of IX (Violent), killing up to 3,800 and injuring 1,121.
 
 Data from muffinlabs
-*(Updated at: 2025-04-30 01:47:01 UTC)*
+*(Updated at: 2025-05-01 01:55:40 UTC)*
 
 # 历史上的今天 
 
-- -2021：四十五名男子和男孩在以色列的梅隆牛仔中被杀。
-- -  2014年：中国在ürümqi发生的炸弹爆炸炸死了三人，炸伤79人。
-- -  2013年：威勒姆·亚历山大（Willem-Alexander）在比阿特里克斯（Beatrix）退位后被任命为荷兰国王。
-- -  2012年：在印度的布拉马普特拉河上倾覆的渡轮超载，杀死了至少108人。至少有150人失踪并被假定死亡。
-- -  2009年：七名平民和肇事者被杀，在荷兰阿佩尔多恩的女王节游行中又有十名受伤，企图暗杀女王比阿特里克斯（Queen Beatrix）。
-- -  2009年：第11章破产的克莱斯勒文件。
-- -  2008年：俄罗斯科学家证实在Yekaterinburg附近发现的两个骨骼遗体是Alexei和Anastasia的遗体，Alexei和Anastasia的遗体是俄罗斯最后一位沙皇的两个孩子，布尔什维克在Yekaterinburg处决了整个家庭。
-- -  2004年：美国媒体释放的图形照片是美国士兵在阿布格莱布监狱犯下战争罪的美国士兵的照片。
-- -  2000年：在有200,000人面前的福斯蒂娜·科瓦尔斯卡（Faustina Kowalska）和全球庆祝的第一个神圣怜悯周日。
-- -  1999年：新纳粹大卫·科普兰（Neo Nazi David Copeland）在伦敦海军上将邓肯·盖伊（Duncan Gay）酒吧进行了三起指甲爆炸案中的最后一次，杀死了三人，炸伤79人。
-- -  1994年：一级方程式赛车司机罗兰·拉岑伯格（Roland Ratzenberger）在意大利伊莫拉（Imola）以外的Autodromo Enzo e Dino Ferrari的圣马力诺大奖赛预选赛中被杀。
-- -  1993年：CERN宣布全球网络协议将是免费的。
-- -  1989年：蒙克顿枪击事件发生在英格兰的泰恩和磨损中。一人被杀，16人受伤。
-- -  1982年：Bijon Setu屠杀发生在印度加尔各答。
-- -  1980年：伊朗大使馆围困在伦敦开始。
-- -  1980年：朱莉安娜（Juliana）退位后，比阿特丽克斯（Beatrix）担任荷兰女王。
-- -  1979年：马拉皮山的爆发：马拉皮山（Mount Marapi），印尼苏门答腊岛上的复杂火山爆发。80多达100人被杀。
-- -  1975年：西贡的堕落：共产军获得了对西贡的控制。越南战争正式以南越总统迪恩·瓦恩·敏恩的无条件投降。
-- -  1973年：水门丑闻：美国总统理查德·尼克松（Richard Nixon）解雇了白宫律师约翰·迪恩（John Dean）；其他顶级助手，最著名的是H. R. Haldeman和John Ehrlichman辞职。
-- -  1963年：布里斯托尔公共汽车抵制在布里斯托尔举行，以抗议布里斯托尔综合公司拒绝雇用黑人或亚洲公共汽车人员，这引起了全国对英国种族歧视的关注。
-- -  1961年：K-19是第一位配备了核导弹的苏联核潜艇。
-- -  1957年：废除奴隶制的补充公约已生效。
-- -  1956年：前副总统兼民主党参议员阿尔本·巴克利（Alben Barkley）在弗吉尼亚州的演讲中去世。
-- -  1948年：在哥伦比亚波哥大，建立了美国国家的组织。
-- -  1947年：在内华达州，博尔德大坝被更名为胡佛大坝。
-- -  1945年：第二次世界大战：德国巴特附近的战俘营地被苏联士兵解放，释放了近9,000名美国和英国飞行员。
-- -  1945年：第二次世界大战：Führerbunker：阿道夫·希特勒（Adolf Hitler）和伊娃·布劳恩（Eva Braun）结婚不到40个小时后自杀。苏联士兵在国会大厦建筑物上举起了胜利横幅。
-- -  1943年：第二次世界大战：赫尔瓦（Huelva）附近的英国海底HMS五五颗五五颗粒表面，使一个死去的人打扮成快递员，并带有虚假的入侵计划。
-- -  1939年：NBC在纽约市定期安排的电视服务，广播了总统富兰克林·罗斯福（Franklin D.
-- -  1939年：1939  -  40年纽约世界博览会开幕。
+- -  2024年：2024年洛布劳抵制，加拿大抵制零售公司和杂货商洛布劳公司，开始了。
+- -  2019年：纳鲁希托（Naruhito）登上日本王位，继承了他的父亲阿基伊托（Akihito），开始了Reiwa时期。
+- -  2019年：印度加德奇罗里地区的纳克西特袭击：包括一名驾驶员在内的16名军士兵在IED爆炸中丧生。纳克斯（Naxals）针对一个反纳克萨尔运营团队。
+- -  2018年：叙利亚内战：叙利亚民主力量（SDF）恢复了迪尔EZ-Zor运动，以清除伊拉克伊斯兰国和伊拉克（ISIL）的残余。
+- -  2011年：教皇约翰·保罗二世被他的继任者本尼迪克特十六世所击败。
+- -  2010年：Faisal Shahzad试图在时代广场引爆汽车炸弹，但炸弹没有熄灭。
+- -  2009年：瑞典同性婚姻合法化。
+- -  2004年：塞浦路斯，捷克共和国，爱沙尼亚，匈牙利，拉脱维亚，立陶宛，马耳他，波兰，斯洛伐克和斯洛文尼亚加入了欧盟，在爱尔兰总统在都柏林的 - 庆祝。
+- -  2003年：入侵伊拉克：在被称为“任务完成的”演讲中，美国总统乔治·W·布什（George W.
+- -  1999年：英国登山者乔治·马洛里（George Mallory）的尸体在1924年失踪75年后发现了珠穆朗玛峰。
+- -  1997年：工党赢得1997年大选，托尼·布莱尔（Tony Blair）当选为总理
+- -  1994年：三届一级方程式冠军艾尔顿·塞纳（Ayrton Senna）在圣玛丽诺大奖赛中的一次事故中丧生。
+- -  1993年：斯里兰卡总统兰纳辛·帕普拉达萨（Ranasinghe Premadasa）在泰米尔·埃拉姆（Tamil Eelam）的解放老虎（Tigers）进行的自杀式轰炸中被暗杀。
+- -  1991年：安哥拉内战：MPLA和UNITA同意《双色协议》，该协定于5月31日在里斯本正式签署。
+- -  1982年：黑头行动：皇家空军在福克兰兹战争期间袭击了阿根廷空军。
+- -  1978年：日本的Naomi Uemura乘狗雪橇旅行，成为第一个仅到达北极的人。
+- -  1975年：Särkänniemi游乐园在芬兰坦佩雷开业。
+- -  1971年：Amtrak（国家铁路旅客公司）接管了美国旅客铁路服务的运营。
+- -  1970年：越南战争：抗议活动爆发，以回应美国和南越部队在柬埔寨竞选活动中袭击越南共产党。
+- -  1961年：古巴总理菲德尔·卡斯特罗（Fidel Castro）宣称古巴是一个社会主义国家，并废除了选举。
+- -  1960年：冷战：U-2事件：洛克希德·加里·鲍尔斯（Francis Gary Powers）在洛克希德（Lockheed）的U-2间谍活动中被击落在苏联的Sverdlovsk Oblast上，引发了外交危机。
+- -  1957年：Vickers VC.1 Viking坠毁，试图返回Yateley的Blackbushe机场，杀死34人。
+- -  1956年：乔纳斯·萨克（Jonas Salk）开发的脊髓灰质炎疫苗可向公众提供。
+- -  1947年：Bandit和分离主义的领导人Salvatore Giuliano在西西里岛举行的五月天庆祝活动的Portella Della Ginestra大屠杀，那里有11人丧生，33人受伤。
+- -  1946年：澳大利亚土著人的三年罢工开始。
+- -  1945年：第二次世界大战：红军前进之后，多达2500人在戴敏（Demmin）自杀中死亡。
+- -  1945年：第二次世界大战：德国广播广播有关阿道夫·希特勒（Adolf Hitler）死亡的新闻，错误地说他“在帝国大教堂（Reich Chancellery）的指挥哨所中摔倒了，击败了布尔什维克主义和德国的最后一口气”。苏联国旗按照斯大林的命令在帝国皇帝的校长上升起。
+- -  1931年：帝国大厦在纽约市专门。
+- -  1930年：“冥王星”是正式提出的，该名称是由洛厄尔天文台观测通函中的Vesto Slipher的新发现的矮人行星的名称。这个名字很快就抓住了。
+- -  1929年：7.2 MW Kopet Dag地震摇动了伊朗 - 土耳其人边境地区，最大的Mercalli强度为IX（暴力），杀死了3,800次，造成1,121人受伤。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-04-30 01:47:01 UTC）*
+*（更新于: 2025-05-01 01:55:40 UTC）*
