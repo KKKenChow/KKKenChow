@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: The 2024 Loblaw boycott, a Canadian boycott against retail corporation and grocer Loblaw Companies, begins.
-- 2019: Naruhito ascends to the throne of Japan succeeding his father Akihito, beginning the Reiwa period.
-- 2019: Naxalite attack in Gadchiroli district of India: Sixteen army soldiers, including a driver, killed in an IED blast. Naxals targeted an anti-Naxal operations team.
-- 2018: Syrian civil war: The Syrian Democratic Forces (SDF) resumes the Deir ez-Zor campaign in order to clear the remnants of the Islamic State of Iraq and the Levant (ISIL) from the Iraq-Syria border.
-- 2011: Pope John Paul II is beatified by his successor, Pope Benedict XVI.
-- 2010: Faisal Shahzad attempts to detonate a car bomb in Times Square, but the bomb fails to go off.
-- 2009: Same-sex marriage is legalized in Sweden.
-- 2004: Cyprus, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia join the European Union, celebrated at the residence of the Irish President in Dublin.
-- 2003: Invasion of Iraq: In what becomes known as the "Mission Accomplished" speech, on board the USS Abraham Lincoln (off the coast of California), U.S. President George W. Bush declares that "major combat operations in Iraq have ended".
-- 1999: The body of British climber George Mallory is found on Mount Everest, 75 years after his disappearance in 1924.
-- 1997: Labour Party wins the 1997 General Election and Tony Blair is elected as Prime Minister
-- 1994: Three-time Formula One champion Ayrton Senna is killed in an accident during the San Marino Grand Prix.
-- 1993: Sri Lankan President Ranasinghe Premadasa is assassinated in Colombo in a suicide bombing carried out by the Liberation Tigers of Tamil Eelam.
-- 1991: Angolan Civil War: The MPLA and UNITA agree to the Bicesse Accords, which are formally signed on May 31 in Lisbon.
-- 1982: Operation Black Buck: The Royal Air Force attacks the Argentine Air Force during Falklands War.
-- 1978: Japan's Naomi Uemura, travelling by dog sled, becomes the first person to reach the North Pole alone.
-- 1975: The Särkänniemi Amusement Park opens in Tampere, Finland.
-- 1971: Amtrak (the National Railroad Passenger Corporation) takes over operation of U.S. passenger rail service.
-- 1970: Vietnam War: Protests erupt in response to U.S. and South Vietnamese forces attacking Vietnamese communists in a Cambodian Campaign.
-- 1961: The Prime Minister of Cuba, Fidel Castro, proclaims Cuba a socialist nation and abolishes elections.
-- 1960: Cold War: U-2 incident: Francis Gary Powers, in a Lockheed U-2 spyplane, is shot down over the Sverdlovsk Oblast, Soviet Union, sparking a diplomatic crisis.
-- 1957: A Vickers VC.1 Viking crashes while attempting to return to Blackbushe Airport in Yateley, killing 34.
-- 1956: The polio vaccine developed by Jonas Salk is made available to the public.
-- 1947: Portella della Ginestra massacre against May Day celebrations in Sicily by the bandit and separatist leader Salvatore Giuliano where 11 persons are killed and 33 wounded.
-- 1946: Start of three-year Pilbara strike of Indigenous Australians.
-- 1945: World War II: Up to 2,500 people die in a mass suicide in Demmin following the advance of the Red Army.
-- 1945: World War II: German radio broadcasts news of Adolf Hitler's death, falsely stating that he has "fallen at his command post in the Reich Chancellery fighting to the last breath against Bolshevism and for Germany". The Soviet flag is raised over the Reich Chancellery, by order of Stalin.
-- 1931: The Empire State Building is dedicated in New York City.
-- 1930: "Pluto" is officially proposed for the name of the newly discovered dwarf planet by Vesto Slipher in the Lowell Observatory Observation Circular. The name quickly catches on.
-- 1929: The 7.2 Mw  Kopet Dag earthquake shakes the Iran-Turkmenistan border region with a maximum Mercalli intensity of IX (Violent), killing up to 3,800 and injuring 1,121.
+- 2014: Two mudslides in Badakhshan, Afghanistan, leave up to 2,500 people missing.
+- 2012: A pastel version of The Scream, by Norwegian painter Edvard Munch, sells for $120 million in a New York City auction, setting a new world record for a work of art at auction.
+- 2011: An E. coli outbreak strikes Europe, mostly in Germany, leaving more than 30 people dead and many others are taken ill.
+- 2011: Osama bin Laden, the suspected mastermind behind the September 11 attacks and the FBI's most wanted man, is killed by the United States Navy SEALs in Abbottabad, Pakistan.
+- 2008: Chaitén Volcano begins erupting in Chile, forcing the evacuation of more than 4,500 people.
+- 2008: Cyclone Nargis makes landfall in Burma killing over 138,000 people and leaving millions of people homeless.
+- 2004: The Yelwa massacre concludes. It began on 4 February 2004 when armed Muslims killed 78 Christians at Yelwa, Nigeria. In response, about 630 Muslims were killed by Christians on May 2.
+- 2000: President Bill Clinton announces that accurate GPS access would no longer be restricted to the United States military.
+- 1999: Panamanian general election: Mireya Moscoso becomes the first woman to be elected President of Panama.
+- 1998: The European Central Bank is founded in Brussels in order to define and execute the European Union's monetary policy.
+- 1995: During the Croatian War of Independence, the Army of the Republic of Serb Krajina fires cluster bombs at Zagreb, killing seven and wounding over 175 civilians.
+- 1989: Cold War: Hungary begins dismantling its border fence with Austria, which allows a number of East Germans to defect.
+- 1986: Chernobyl disaster: The City of Chernobyl is evacuated six days after the disaster.
+- 1982: Falklands War: The British nuclear submarine HMS Conqueror sinks the Argentine cruiser ARA General Belgrano.
+- 1972: In the early morning hours a fire breaks out at the Sunshine Mine located between Kellogg and Wallace, Idaho, killing 91 workers.
+- 1970: ALM Flight 980 ditches in the Caribbean Sea near Saint Croix, killing 23.
+- 1969: The British ocean liner Queen Elizabeth 2 departs on her maiden voyage to New York City.
+- 1964: First ascent of Shishapangma, the fourteenth highest mountain in the world and the lowest of the Eight-thousanders.
+- 1964: Vietnam War: An explosion sinks the American aircraft carrier USNS Card while it is docked at Saigon. Two Viet Cong combat swimmers had placed explosives on the ship's hull. She is raised and returned to service less than seven months later.
+- 1963: Berthold Seliger launches a rocket with three stages and a maximum flight altitude of more than 100 kilometres (62 mi) near Cuxhaven. It is the only sounding rocket developed in Germany.
+- 1952: A De Havilland Comet makes the first jetliner flight with fare-paying passengers, from London to Johannesburg.
+- 1945: World War II: A death march from Dachau to the Austrian border is halted by the segregated, all-Nisei 522nd Field Artillery Battalion of the U.S. Army in southern Bavaria, saving several hundred prisoners.
+- 1945: World War II: The US 82nd Airborne Division liberates Wöbbelin concentration camp finding 1,000 dead prisoners, most of whom starved to death.
+- 1945: World War II: The surrender of Caserta comes into effect, by which German troops in Italy cease fighting.
+- 1945: World War II: The Soviet Union announces the fall of Berlin.
+- 1941: World War II: Following the coup d'état against Iraq Crown Prince 'Abd al-Ilah earlier that year, the United Kingdom launches the Anglo-Iraqi War to restore him to power.
+- 1933: Germany's independent labor unions are replaced by the German Labour Front.
+- 1920: The first game of the Negro National League baseball is played in Indianapolis.
+- 1906: Closing ceremony of the Intercalated Games in Athens, Greece.
+- 1889: Menelik II, Emperor of Ethiopia, signs the Treaty of Wuchale, giving Italy control over Eritrea.
 
 Data from muffinlabs
-*(Updated at: 2025-05-01 01:55:40 UTC)*
+*(Updated at: 2025-05-02 01:47:22 UTC)*
 
 # 历史上的今天 
 
-- -  2024年：2024年洛布劳抵制，加拿大抵制零售公司和杂货商洛布劳公司，开始了。
-- -  2019年：纳鲁希托（Naruhito）登上日本王位，继承了他的父亲阿基伊托（Akihito），开始了Reiwa时期。
-- -  2019年：印度加德奇罗里地区的纳克西特袭击：包括一名驾驶员在内的16名军士兵在IED爆炸中丧生。纳克斯（Naxals）针对一个反纳克萨尔运营团队。
-- -  2018年：叙利亚内战：叙利亚民主力量（SDF）恢复了迪尔EZ-Zor运动，以清除伊拉克伊斯兰国和伊拉克（ISIL）的残余。
-- -  2011年：教皇约翰·保罗二世被他的继任者本尼迪克特十六世所击败。
-- -  2010年：Faisal Shahzad试图在时代广场引爆汽车炸弹，但炸弹没有熄灭。
-- -  2009年：瑞典同性婚姻合法化。
-- -  2004年：塞浦路斯，捷克共和国，爱沙尼亚，匈牙利，拉脱维亚，立陶宛，马耳他，波兰，斯洛伐克和斯洛文尼亚加入了欧盟，在爱尔兰总统在都柏林的 - 庆祝。
-- -  2003年：入侵伊拉克：在被称为“任务完成的”演讲中，美国总统乔治·W·布什（George W.
-- -  1999年：英国登山者乔治·马洛里（George Mallory）的尸体在1924年失踪75年后发现了珠穆朗玛峰。
-- -  1997年：工党赢得1997年大选，托尼·布莱尔（Tony Blair）当选为总理
-- -  1994年：三届一级方程式冠军艾尔顿·塞纳（Ayrton Senna）在圣玛丽诺大奖赛中的一次事故中丧生。
-- -  1993年：斯里兰卡总统兰纳辛·帕普拉达萨（Ranasinghe Premadasa）在泰米尔·埃拉姆（Tamil Eelam）的解放老虎（Tigers）进行的自杀式轰炸中被暗杀。
-- -  1991年：安哥拉内战：MPLA和UNITA同意《双色协议》，该协定于5月31日在里斯本正式签署。
-- -  1982年：黑头行动：皇家空军在福克兰兹战争期间袭击了阿根廷空军。
-- -  1978年：日本的Naomi Uemura乘狗雪橇旅行，成为第一个仅到达北极的人。
-- -  1975年：Särkänniemi游乐园在芬兰坦佩雷开业。
-- -  1971年：Amtrak（国家铁路旅客公司）接管了美国旅客铁路服务的运营。
-- -  1970年：越南战争：抗议活动爆发，以回应美国和南越部队在柬埔寨竞选活动中袭击越南共产党。
-- -  1961年：古巴总理菲德尔·卡斯特罗（Fidel Castro）宣称古巴是一个社会主义国家，并废除了选举。
-- -  1960年：冷战：U-2事件：洛克希德·加里·鲍尔斯（Francis Gary Powers）在洛克希德（Lockheed）的U-2间谍活动中被击落在苏联的Sverdlovsk Oblast上，引发了外交危机。
-- -  1957年：Vickers VC.1 Viking坠毁，试图返回Yateley的Blackbushe机场，杀死34人。
-- -  1956年：乔纳斯·萨克（Jonas Salk）开发的脊髓灰质炎疫苗可向公众提供。
-- -  1947年：Bandit和分离主义的领导人Salvatore Giuliano在西西里岛举行的五月天庆祝活动的Portella Della Ginestra大屠杀，那里有11人丧生，33人受伤。
-- -  1946年：澳大利亚土著人的三年罢工开始。
-- -  1945年：第二次世界大战：红军前进之后，多达2500人在戴敏（Demmin）自杀中死亡。
-- -  1945年：第二次世界大战：德国广播广播有关阿道夫·希特勒（Adolf Hitler）死亡的新闻，错误地说他“在帝国大教堂（Reich Chancellery）的指挥哨所中摔倒了，击败了布尔什维克主义和德国的最后一口气”。苏联国旗按照斯大林的命令在帝国皇帝的校长上升起。
-- -  1931年：帝国大厦在纽约市专门。
-- -  1930年：“冥王星”是正式提出的，该名称是由洛厄尔天文台观测通函中的Vesto Slipher的新发现的矮人行星的名称。这个名字很快就抓住了。
-- -  1929年：7.2 MW Kopet Dag地震摇动了伊朗 - 土耳其人边境地区，最大的Mercalli强度为IX（暴力），杀死了3,800次，造成1,121人受伤。
+- -  2014年：阿富汗巴达克山（Badakhshan）的两个泥石流，最多2500人失踪。
+- -  2012年：挪威画家Edvard Munch撰写的柔和版本的尖叫声在纽约市的一次拍卖中以1.2亿美元的价格出售，为拍卖会创造了新的世界艺术品纪录。
+- -  2011年：大肠杆菌爆发袭击了欧洲，主要是在德国，造成30多人死亡，许多其他人都病了。
+- -  2011年：乌萨马·本·拉登（Osama bin Laden）是9月11日袭击和联邦调查局最想要的人的可疑策划者，被巴基斯坦阿伯塔巴德的美国海军海豹突击队杀害。
+- -  2008年：Chaitén火山开始在智利爆发，迫使4,500多人撤离。
+- -  2008年：Cyclone Nargis在缅甸登陆，炸死了138,000多人，并使数百万人无家可归。
+- -  2004年：Yelwa大屠杀得出结论。它始于2004年2月4日，当时武装穆斯林在尼日利亚耶尔瓦杀死了78名基督徒。作为回应，5月2日，约有630名穆斯林被基督徒杀害。
+- -  2000年：比尔·克林顿（Bill Clinton）总统宣布，准确的GPS访问将不再仅限于美国军方。
+- -  1999年：巴拿马大选：莫斯科索（Mireya Moscoso）成为第一位当选巴拿马总统的女性。
+- -  1998年：欧洲中央银行是在布鲁塞尔建立的，目的是定义和执行欧盟的货币政策。
+- -  1995年：在克罗地亚独立战争期间，塞族共和国克拉吉纳（Krajina）的军队向萨格勒布（Zagreb）发射了集群炸弹，炸死了77名平民，炸伤了175名平民。
+- -  1989年：冷战：匈牙利开始拆除与奥地利的边界围栏，这使许多东德人都能赤字。
+- -  1986年：切尔诺贝利灾难：切尔诺贝利市在灾难发生六天后撤离。
+- -  1982年：福克兰群岛战争：英国核潜艇HMS征服者沉没了阿根廷巡洋舰阿拉将军贝尔格拉诺将军。
+- -  1972年：在清晨，在凯洛格（Kellogg）和爱达荷州华莱士（Wallace）之间的阳光矿井爆发，杀害了91名工人。
+- -  1970年：ALM 980航班在圣克鲁瓦附近的加勒比海沟渠，杀死23。
+- -  1969年：英国远洋班轮皇后伊丽莎白2（Elizabeth 2）出发前往纽约市。
+- -  1964年：Shishapangma的首次上升，这是世界上第四高山，是八千人中最低的。
+- -  1964年：越南战争：爆炸使美国航空公司在西贡停靠时沉没了美国航空公司。两名越共战斗游泳者在船体上放了炸药。不到七个月后，她长大并恢复了服务。
+- -  1963年：Berthold Seliger在Cuxhaven附近发射了三个阶段的火箭和最高飞行高度超过100公里（62英里）。这是德国唯一发出的发声火箭。
+- -  1952年：De Havilland Comet是从伦敦到约翰内斯堡的票价乘客的第一次喷气客机。
+- -  1945年：第二次世界大战：从达豪（Dachau）到奥地利边境的死亡游行被隔离的，全尼西（Nisei）的全尼西（Nisei）第522野战炮兵营（美国陆军）在巴伐利亚南部的美国陆军停产，拯救了数百名囚犯。
+- -  1945年：第二次世界大战：美国第82空降师解放了Wöbbelin集中营，发现了1,000名死囚，其中大多数人饿死了。
+- -  1945年：第二次世界大战：卡斯塔（Caserta）的投降生效，在意大利，德国军队停止战斗。
+- -  1945年：第二次世界大战：苏联宣布柏林倒台。
+- -  1941年：第二次世界大战：在当年早些时候对伊拉克王储的阿卜杜勒·阿拉（Abd al-Ilah）的政变之后，英国发动了盎格鲁 - 伊拉克战争以恢复他的权力。
+- -  1933年：德国独立工会被德国劳工阵线所取代。
+- -  1920年：黑人全国棒球的第一场比赛是在印第安纳波利斯打的。
+- -  1906年：希腊雅典互联比赛的闭幕式。
+- -  1889年：埃塞俄比亚皇帝的梅内利克二世签署了《瓦切尔条约》，使意大利控制了厄立特里亚。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-05-01 01:55:40 UTC）*
+*（更新于: 2025-05-02 01:47:22 UTC）*
