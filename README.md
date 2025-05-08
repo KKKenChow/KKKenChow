@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2004: American businessman Nick Berg is beheaded by Islamic militants. The act is recorded on videotape and released on the Internet.
-- 2002: A China Northern Airlines MD-82 plunges into the Yellow Sea, killing 112 people.
-- 2002: An EgyptAir Boeing 737-500 crashes on approach to Tunis-Carthage International Airport, killing 14 people.
-- 2000: Vladimir Putin is inaugurated as president of Russia.
-- 1999: In Guinea-Bissau, President João Bernardo Vieira is ousted in a military coup.
-- 1999: Kosovo War: Three Chinese citizens are killed and 20 wounded when a NATO aircraft inadvertently bombs the Chinese embassy in Belgrade, Serbia.
-- 1999: Pope John Paul II travels to Romania, becoming the first pope to visit a predominantly Eastern Orthodox country since the Great Schism in 1054.
-- 1998: Mercedes-Benz buys Chrysler for US$40 billion and forms DaimlerChrysler in the largest industrial merger in history.
-- 1994: Edvard Munch's painting The Scream is recovered undamaged after being stolen from the National Gallery of Norway in February.
-- 1992: Three employees at a McDonald's Restaurant in Sydney, Nova Scotia, Canada, are brutally murdered and a fourth permanently disabled after a botched robbery. It is the first "fast-food murder" in Canada.
-- 1992: Space Shuttle program: The Space Shuttle Endeavour is launched on its first mission, STS-49.
-- 1992: Michigan ratifies a 203-year-old proposed amendment to the United States Constitution making the 27th Amendment law. This amendment bars the U.S. Congress from giving itself a mid-term pay raise.
-- 1991: A fire and explosion occurs at a fireworks factory at Sungai Buloh, Malaysia, killing 26.
-- 1986: Canadian Patrick Morrow becomes the first person to climb each of the Seven Summits.
-- 1964: Pacific Airlines Flight 773 is hijacked by Francisco Gonzales and crashes in Contra Costa County, California, killing 44.
-- 1960: Cold War: U-2 Crisis of 1960: Soviet leader Nikita Khrushchev announces that his nation is holding American U-2 pilot Gary Powers.
-- 1954: Indochina War: The Battle of Dien Bien Phu ends in a French defeat and a Viet Minh victory (the battle began on March 13).
-- 1952: The concept of the integrated circuit, the basis for all modern computers, is first published by Geoffrey Dummer.
-- 1948: The Council of Europe is founded during the Hague Congress.
-- 1946: Tokyo Telecommunications Engineering (later renamed Sony) is founded.
-- 1945: World War II: Generalfeldmarschall Wilhelm Keitel signs unconditional surrender terms at Reims, France, ending Germany's participation in the war. The document takes effect the next day.
-- 1945: World War II: Last German U-boat attack of the war, two freighters are sunk off the Firth of Forth, Scotland.
-- 1942: World War II: During the Battle of the Coral Sea, United States Navy aircraft carrier aircraft attack and sink the Imperial Japanese Navy light aircraft carrier Shōhō; the battle marks the first time in naval history that two enemy fleets fight without visual contact between warring ships.
-- 1940: World War II: The Norway Debate in the British House of Commons begins, and leads to the replacement of Prime Minister Neville Chamberlain with Winston Churchill three days later.
-- 1937: Spanish Civil War: The German Condor Legion, equipped with Heinkel He 51 biplanes, arrives in Spain to assist Francisco Franco's forces.
-- 1931: The stand-off between criminal Francis Crowley and 300 members of the New York Police Department takes place in his fifth-floor apartment on West 91st Street, New York City.
-- 1930: The 7.1 Mw  Salmas earthquake shakes northwestern Iran and southeastern Turkey with a maximum Mercalli intensity of IX (Violent). Up to three-thousand people were killed.
-- 1920: Treaty of Moscow: Soviet Russia recognizes the independence of the Democratic Republic of Georgia only to invade the country six months later.
-- 1920: Polish-Soviet War: Kyiv offensive: Polish troops led by Józef Piłsudski and Edward Rydz-Śmigły and assisted by a symbolic Ukrainian force capture Kyiv only to be driven out by the Red Army counter-offensive a month later.
-- 1915: The Republic of China accedes to 13 of the 21 Demands, extending the Empire of Japan's control over Manchuria and the Chinese economy.
+- 2021: A car bomb explodes in front of a school in Kabul, capital city of Afghanistan killing at least 55 people and wounding over 150.
+- 2019: British 17-year-old Isabelle Holdaway is reported to be the first patient ever to receive a genetically modified phage therapy to treat a drug-resistant infection.
+- 1997: China Southern Airlines Flight 3456 crashes on approach into Bao'an International Airport, killing 35 people.
+- 1988: A fire at Illinois Bell's Hinsdale Central Office triggers an extended 1AESS network outage once considered to be the "worst telecommunications disaster in US telephone industry history".
+- 1987: The SAS kills eight Provisional Irish Republican Army volunteers and a civilian during an ambush in Loughgall, Northern Ireland.
+- 1984: The Thames Barrier is officially opened, preventing the floodplain of most of Greater London from being flooded except under extreme circumstances.
+- 1984: The USSR announces a boycott upon the Summer Olympics at Los Angeles, later joined by 14 other countries.
+- 1984: Corporal Denis Lortie enters the Quebec National Assembly and opens fire, killing three people and wounding 13. René Jalbert, Sergeant-at-Arms of the Assembly, succeeds in calming him, for which he will later receive the Cross of Valour.
+- 1980: The World Health Organization confirms the eradication of smallpox.
+- 1978: The first ascent of Mount Everest without supplemental oxygen, by Reinhold Messner and Peter Habeler.
+- 1976: The rollercoaster The New Revolution, the first steel coaster with a vertical loop, opens at Six Flags Magic Mountain.
+- 1973: A 71-day standoff between federal authorities and the American Indian Movement members occupying the Pine Ridge Reservation at Wounded Knee, South Dakota ends with the surrender of the militants.
+- 1972: Vietnam War: U.S. President Richard Nixon announces his order to place naval mines in major North Vietnamese ports in order to stem the flow of weapons and other goods to that nation.
+- 1970: The Beatles release their 12th and final studio album Let It Be.
+- 1967: The Philippine province of Davao is split into three: Davao del Norte, Davao del Sur, and Davao Oriental.
+- 1963: South Vietnamese soldiers under the Roman Catholic President Ngo Dinh Diem open fire on Buddhists defying a ban on the flying of the Buddhist flag on Vesak, killing nine and sparking the Buddhist crisis.
+- 1957: South Vietnamese President Ngo Dinh Diem began a state visit to the United States, his regime's main sponsor.
+- 1950: The Tollund Man was discovered in a peat bog near Silkeborg, Denmark.
+- 1946: Estonian schoolgirls Aili Jõgi and Ageeda Paavel blow up the Soviet memorial which preceded the Bronze Soldier of Tallinn.
+- 1945: The Halifax riot starts when thousands of civilians and servicemen rampage through Halifax, Nova Scotia.
+- 1945: Hundreds of Algerian civilians are killed by French Army soldiers in the Sétif massacre.
+- 1945: End of the Prague uprising, celebrated now as a national holiday in the Czech Republic.
+- 1945: World War II: The German Instrument of Surrender signed at Berlin-Karlshorst comes into effect.
+- 1942: World War II: Gunners of the Ceylon Garrison Artillery on Horsburgh Island in the Cocos Islands rebel in the Cocos Islands Mutiny. Their mutiny is crushed and three of them are executed, the only British Commonwealth soldiers to be executed for mutiny during the Second World War.
+- 1942: World War II: The Battle of the Coral Sea comes to an end with Imperial Japanese Navy aircraft carrier aircraft attacking and sinking the United States Navy aircraft carrier USS Lexington.
+- 1942: World War II: The German 11th Army begins Operation Trappenjagd (Bustard Hunt) and destroys the bridgehead of the three Soviet armies defending the Kerch Peninsula.
+- 1941: World War II: The German Luftwaffe launches a bombing raid on Nottingham and Derby.
+- 1933: Mohandas Gandhi begins a 21-day fast of self-purification and launched a one-year campaign to help the Harijan movement.
+- 1927: Attempting to make the first non-stop transatlantic flight from Paris to New York, French war heroes Charles Nungesser and François Coli disappear after taking off aboard The White Bird biplane.
+- 1924: The Klaipėda Convention is signed formally incorporating Klaipėda Region (Memel Territory) into Lithuania.
 
 Data from muffinlabs
-*(Updated at: 2025-05-07 01:49:08 UTC)*
+*(Updated at: 2025-05-08 01:49:23 UTC)*
 
 # 历史上的今天 
 
-- -  2004年：美国商人尼克·伯格（Nick Berg）被伊斯兰激进分子斩首。该法案记录在录像带上并在互联网上发布。
-- -  2002年：一家中国北部航空公司MD-82陷入黄海，炸死112人。
-- -  2002年：埃及航空波音737-500在通往突尼斯 - 卡萨奇国际机场的途中撞车，造成14人丧生。
-- -  2000年：弗拉基米尔·普京（Vladimir Putin）担任俄罗斯总统。
-- -  1999年：在几内亚 - 比索（Guinea-Bissau），总统乔·贝纳多·维埃拉（JoãoBernardoVieira）在军事政变中被罢免。
-- -  1999年：科索沃战争：当北约飞机无意中炸弹中国驻塞尔维亚大使馆时，三名中国公民被杀，20人受伤。
-- -  1999年：教皇约翰·保罗二世（John Paul II）前往罗马尼亚，成为自1054年伟大的分裂以来，首位访问东正教以来的第一个教皇。
-- -  1998年：梅赛德斯 - 奔驰以400亿美元的价格购买克莱斯勒，并在历史上最大的工业合并中形成了戴姆勒克莱斯勒。
-- -  1994年：埃德瓦德·蒙克（Edvard Munch）的画作《尖叫声》（Scream）在2月从挪威国家美术馆（National Gallery）偷走后，没有损坏。
-- -  1992年：在加拿大新斯科舍省悉尼的一家麦当劳餐厅的三名员工被残酷地谋杀，在一次抢劫抢劫后，第四名永久残疾。这是加拿大的第一次“快餐谋杀案”。
-- -  1992年：航天飞机计划：航天飞机努力是在其第一个任务STS-49上发起的。
-- -  1992年：密歇根州批准了一项203年的一项拟议的修正案《美国宪法》，制定了《第27修正案法》。该修正案禁止美国国会给自己中期加薪。
-- -  1991年：火灾和爆炸发生在马来西亚三角布洛的一家烟火工厂，杀死26人。
-- -  1986年：加拿大帕特里克·莫罗（Patrick Morrow）成为第一个攀登七个峰会的人。
-- -  1964年：太平洋航空​​公司773航班被加利福尼亚州康特拉·科斯塔县的弗朗西斯科·冈萨雷斯（Francisco Gonzales）劫持，造成44人丧生。
-- -  1960年：冷战：1960年的U-2危机：苏联领导人尼基塔·赫鲁晓夫（Nikita Khrushchev）宣布，他的国家持有美国U-2飞行员加里·鲍尔斯（Gary Powers）。
-- -  1954年：印度支那战争：迪恩·比恩（Dien Bien Phu）的战役以法国的失败和越来越多的胜利结束（战斗于3月13日开始）。
-- -  1952年：综合电路的概念是所有现代计算机的基础，首先由Geoffrey Dummer发布。
-- -  1948年：欧洲理事会是在海牙国会期间成立的。
-- -  1946年：东京电信工程（后来更名为索尼）。
-- -  1945年：第二次世界大战：法国雷姆斯雷姆斯的无条件投降条款，结束了德国参与战争的参与。该文件在第二天生效。
-- -  1945年：第二次世界大战：战争的最后一次德国U型艇袭击，两架货轮被苏格兰的福斯（Forth）陷入困境。
-- -  1942年：第二次世界大战：在珊瑚海战役中，美国海军航空母舰袭击并沉没了日本帝国海军轻型飞机船长shōhō；这场战斗标志着海军历史上第一次，两个敌人的舰队在交战船之间没有视觉接触的情况下进行战斗。
-- -  1940年：第二次世界大战：英国下议院的挪威辩论开始，并在三天后与温斯顿·丘吉尔（Winston Churchill）接替了总理内维尔·张伯伦（Neville Chamberlain）。
-- -  1937年：西班牙内战：配备了Heinkel He 51 Biplanes的德国秃鹰军团到达西班牙，以协助弗朗西斯科·佛朗哥（Francisco Franco）的部队。
-- -  1931年：犯罪弗朗西斯·克劳利（Francis Crowley）和纽约警察局300名成员之间的对峙发生在他位于纽约市西91街的五楼公寓。
-- -  1930年：7.1 MW萨尔马斯地震摇晃伊朗西北和土耳其东南部，其最大默卡利强度为IX（暴力）。多达三千人被杀。
-- -  1920年：莫斯科条约：苏联俄罗斯承认佐治亚州民主共和国的独立，直到六个月后入侵该国。
-- -  1920年：波兰苏维亚战争：基辅进攻：由约兹夫·皮伊斯基（JózefPiłsudski）和爱德华·瑞兹·Śmigły领导的波兰军队，并在一个月后被红军反击驱逐出象征性的乌克兰武力俘虏基夫（Kyiv）。
-- -  1915年：中华民国在21项需求中的13个中加入了日本帝国对满洲和中国经济的控制。
+- -  2021年：一枚汽车炸弹在首都阿富汗喀布尔的一所学校前爆炸，炸死了至少55人，炸伤150人。
+- -  2019年：据报道，英国17岁的Isabelle Holdaway是有史以来第一位接受转基因噬菌体治疗以治疗耐药性感染的患者。
+- -  1997年：中国南部航空公司3456航班在驶入Bao'an国际机场的撞车事故中，造成35人丧生。
+- -  1988年：伊利诺伊州贝尔的Hinsdale中央办公室发生的大火触发了一个扩展的1AES网络中断，曾被认为是“美国电话行业历史上最严重的电信灾难”。
+- -  1987年：SAS在北爱尔兰Loughgall的一次伏击中杀死了八名临时爱尔兰共和党志愿者和一名平民。
+- -  1984年：泰晤士河障碍被正式打开，防止大伦敦大部分地区的洪泛区被洪水淹没，除非在极端情况下。
+- -  1984年：苏联宣布抵制洛杉矶的夏季奥运会，后来又有14个国家加入。
+- -  1984年：丹尼斯·洛蒂（Denis Lortie）下士进入魁北克国民议会，开火，杀死了三人，受伤13。大会中士的雷内·贾尔伯特（RenéJalbert）成功地使他平静下来，后来他将收到瓦洛尔（Valor）的十字架。
+- -  1980年：世界卫生组织确认消除天花。
+- -  1978年：Reinhold Messner和Peter Habeler的第一个没有补充氧气的珠穆朗玛峰的首次上升。
+- -  1976年：新革命的过山车，这是第一个带有垂直循环的钢制过山车，在六旗魔术山（Six Flags Magic Mountain）开放。
+- -  1973年：联邦当局与美洲印第安人运动成员之间的71天对峙占据了受伤的膝盖的松岭保留地，南达科他州以激进分子的投降结束。
+- -  1972年：越南战争：美国总统理查德·尼克松（Richard Nixon）宣布将海军矿山放置在北越少校港口，以阻止武器和其他商品流向该国家。
+- -  1970年：甲壳虫乐队发行他们的第12张也是最后一张录音室专辑《 Let》。
+- -  1967年：达沃菲律宾省分为三：达沃·德尔·诺特（Davao del Norte），达沃·德尔·苏尔（Davao del Sur）和达沃东方（Davao Oriental）。
+- -  1963年：罗马天主教总统恩戈·迪姆·迪姆（Ngo dinh Diem）在佛教徒的佛教徒违反禁止佛教旗上的佛教旗上的佛教徒的佛教徒的野火之下的南越士兵，杀死了九个并引发了佛教危机。
+- -  1957年：南越总统的非政府组织DIEEM开始对他政权的主要赞助商美国进行国事访问。
+- -  1950年：Tollund Man被发现在丹麦Silkeborg附近的泥炭沼泽中。
+- -  1946年：爱沙尼亚女学生艾利·贾吉（AiliJâgi）和帕维尔（Ageeda Paavel）炸毁了塔林（Tallinn）青铜士兵之前的苏联纪念馆。
+- -  1945年：哈利法克斯骚乱始于成千上万的平民和军人穿越新斯科舍省哈利法克斯。
+- -  1945年：数百名阿尔及利亚平民在塞蒂夫大屠杀中被法国陆军士兵杀害。
+- -  1945年：布拉格起义的尽头，现在在捷克共和国作为国定假日庆祝。
+- -  1945年：第二次世界大战：在柏林 - 卡尔肖斯特签署的投降工具生效。
+- -  1942年：第二次世界大战：可可群岛叛军的可可群岛叛军的锡隆驻军炮兵的枪手。他们的叛变被压碎，其中三人被处决，这是第二次世界大战期间唯一被兵变处决的英国士兵。
+- -  1942年：第二次世界大战：珊瑚海战役结束，日本帝国海军航空母舰袭击并沉没了美国海军航空母舰列克星敦。
+- -  1942年：第二次世界大战：德国第11军开始行动Trappenjagd（Bustard Hunt），并摧毁了捍卫Kerch Peninsula的三支苏联军队的桥头。
+- -  1941年：第二次世界大战：德国卢斯特瓦夫（Derman Luftwaffe）对诺丁汉和德比进行了轰炸。
+- -  1933年：莫汉斯·甘地（Mohandas Gandhi）开始了21天的自我培训，并发起了为期一年的运动来帮助哈里扬（Harijan）运动。
+- -  1927年：试图将第一次不间断的跨大西洋飞行从巴黎飞往纽约，法国战争英雄查尔斯·努吉瑟（Charles Nungesser）和弗朗索瓦（François）大肠杆菌在乘坐白鸟双翼飞机上脱下后消失了。
+- -  1924年：《Klaipėda公约》被正式签署，将Klaipėda地区（Memel领土）纳入立陶宛。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-05-07 01:49:08 UTC）*
+*（更新于: 2025-05-08 01:49:23 UTC）*
