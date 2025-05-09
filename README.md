@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: A car bomb explodes in front of a school in Kabul, capital city of Afghanistan killing at least 55 people and wounding over 150.
-- 2019: British 17-year-old Isabelle Holdaway is reported to be the first patient ever to receive a genetically modified phage therapy to treat a drug-resistant infection.
-- 1997: China Southern Airlines Flight 3456 crashes on approach into Bao'an International Airport, killing 35 people.
-- 1988: A fire at Illinois Bell's Hinsdale Central Office triggers an extended 1AESS network outage once considered to be the "worst telecommunications disaster in US telephone industry history".
-- 1987: The SAS kills eight Provisional Irish Republican Army volunteers and a civilian during an ambush in Loughgall, Northern Ireland.
-- 1984: The Thames Barrier is officially opened, preventing the floodplain of most of Greater London from being flooded except under extreme circumstances.
-- 1984: The USSR announces a boycott upon the Summer Olympics at Los Angeles, later joined by 14 other countries.
-- 1984: Corporal Denis Lortie enters the Quebec National Assembly and opens fire, killing three people and wounding 13. René Jalbert, Sergeant-at-Arms of the Assembly, succeeds in calming him, for which he will later receive the Cross of Valour.
-- 1980: The World Health Organization confirms the eradication of smallpox.
-- 1978: The first ascent of Mount Everest without supplemental oxygen, by Reinhold Messner and Peter Habeler.
-- 1976: The rollercoaster The New Revolution, the first steel coaster with a vertical loop, opens at Six Flags Magic Mountain.
-- 1973: A 71-day standoff between federal authorities and the American Indian Movement members occupying the Pine Ridge Reservation at Wounded Knee, South Dakota ends with the surrender of the militants.
-- 1972: Vietnam War: U.S. President Richard Nixon announces his order to place naval mines in major North Vietnamese ports in order to stem the flow of weapons and other goods to that nation.
-- 1970: The Beatles release their 12th and final studio album Let It Be.
-- 1967: The Philippine province of Davao is split into three: Davao del Norte, Davao del Sur, and Davao Oriental.
-- 1963: South Vietnamese soldiers under the Roman Catholic President Ngo Dinh Diem open fire on Buddhists defying a ban on the flying of the Buddhist flag on Vesak, killing nine and sparking the Buddhist crisis.
-- 1957: South Vietnamese President Ngo Dinh Diem began a state visit to the United States, his regime's main sponsor.
-- 1950: The Tollund Man was discovered in a peat bog near Silkeborg, Denmark.
-- 1946: Estonian schoolgirls Aili Jõgi and Ageeda Paavel blow up the Soviet memorial which preceded the Bronze Soldier of Tallinn.
-- 1945: The Halifax riot starts when thousands of civilians and servicemen rampage through Halifax, Nova Scotia.
-- 1945: Hundreds of Algerian civilians are killed by French Army soldiers in the Sétif massacre.
-- 1945: End of the Prague uprising, celebrated now as a national holiday in the Czech Republic.
-- 1945: World War II: The German Instrument of Surrender signed at Berlin-Karlshorst comes into effect.
-- 1942: World War II: Gunners of the Ceylon Garrison Artillery on Horsburgh Island in the Cocos Islands rebel in the Cocos Islands Mutiny. Their mutiny is crushed and three of them are executed, the only British Commonwealth soldiers to be executed for mutiny during the Second World War.
-- 1942: World War II: The Battle of the Coral Sea comes to an end with Imperial Japanese Navy aircraft carrier aircraft attacking and sinking the United States Navy aircraft carrier USS Lexington.
-- 1942: World War II: The German 11th Army begins Operation Trappenjagd (Bustard Hunt) and destroys the bridgehead of the three Soviet armies defending the Kerch Peninsula.
-- 1941: World War II: The German Luftwaffe launches a bombing raid on Nottingham and Derby.
-- 1933: Mohandas Gandhi begins a 21-day fast of self-purification and launched a one-year campaign to help the Harijan movement.
-- 1927: Attempting to make the first non-stop transatlantic flight from Paris to New York, French war heroes Charles Nungesser and François Coli disappear after taking off aboard The White Bird biplane.
-- 1924: The Klaipėda Convention is signed formally incorporating Klaipėda Region (Memel Territory) into Lithuania.
+- 2023: The May 9 riots following the arrest of Imran Khan in Pakistan.
+- 2022: Russo-Ukrainian War: United States President Joe Biden signs the 2022 Lend-Lease Act into law, a rebooted World War II-era policy expediting American equipment to Ukraine and other Eastern European countries.
+- 2020: The COVID-19 recession causes the U.S. unemployment rate to hit 14.9 percent, its worst rate since the Great Depression.
+- 2018: The historic defeat for Barisan Nasional, the governing coalition of Malaysia since the country's independence in 1957 in 2018 Malaysian general election.
+- 2002: The 38-day stand-off in the Church of the Nativity in Bethlehem comes to an end when the Palestinians inside agree to have 13 suspected terrorists among them deported to several different countries.
+- 2001: In Ghana, 129 football fans die in what became known as the Accra Sports Stadium disaster. The deaths are caused by a stampede (caused by the firing of tear gas by police personnel at the stadium) that followed a controversial decision by the referee.
+- 1992: Westray Mine disaster kills 26 workers in Nova Scotia, Canada.
+- 1992: Armenian forces capture Shusha, marking a major turning point in the First Nagorno-Karabakh War.
+- 1988: New Parliament House, Canberra officially opens.
+- 1987: LOT Flight 5055 Tadeusz Kościuszko crashes after takeoff in Warsaw, Poland, killing all 183 people on board.
+- 1980: In Norco, California, United States, five masked gunmen hold up a Security Pacific bank, leading to a violent shoot-out and one of the largest pursuits in California history. Two of the gunmen and one police officer are killed and thirty-three police and civilian vehicles are destroyed in the chase.
+- 1980: In Florida, United States, Liberian freighter MV Summit Venture collides with the Sunshine Skyway Bridge over Tampa Bay, making a 430-meter (1,400 ft) section of the southbound span collapse. Thirty-five people in six cars and a Greyhound bus fall 46 metres (150 ft) into the water and die.
+- 1979: Iranian Jewish businessman Habib Elghanian is executed by firing squad in Tehran, prompting the mass exodus of the once 100,000-strong Jewish community of Iran.
+- 1974: Watergate scandal: The  United States House Committee on the Judiciary opens formal and public impeachment hearings against President Richard Nixon.
+- 1969: Carlos Lamarca leads the first urban guerrilla action against the military dictatorship of Brazil in São Paulo, by robbing two banks.
+- 1960: The Food and Drug Administration announces it will approve birth control as an additional indication for Searle's Enovid, making Enovid the world's first approved oral contraceptive pill.
+- 1955: Cold War: West Germany joins NATO.
+- 1950: Robert Schuman presents the "Schuman Declaration", considered by some to be the beginning of the creation of what is now the European Union.
+- 1948: Czechoslovakia's Ninth-of-May Constitution comes into effect.
+- 1946: King Victor Emmanuel III of Italy abdicates and is succeeded by Umberto II.
+- 1945: World War II: the Channel Islands are liberated from Nazi occupation.
+- 1942: The Holocaust in Ukraine: The SS executes 588 Jewish residents of the Podolian town of Zinkiv (Khmelnytska oblast. The Zoludek Ghetto (in Belarus) is destroyed and all its inhabitants executed or deported.
+- 1941: World War II: The German submarine U-110 is captured by the Royal Navy. On board is the latest Enigma machine which Allied cryptographers later use to break coded German messages.
+- 1936: Italy formally annexes Ethiopia after taking the capital Addis Ababa on May 5.
+- 1927: The Old Parliament House, Canberra, Australia, officially opens.
+- 1926: Admiral Richard E. Byrd and Floyd Bennett claim to have flown over the North Pole (later discovery of Byrd's diary appears to cast some doubt on the claim.)
+- 1920: Polish-Soviet War: The Polish army under General Edward Rydz-Śmigły celebrates its capture of Kiev with a victory parade on Khreshchatyk.
+- 1918: World War I: Germany repels Britain's second attempt to blockade the port of Ostend, Belgium.
+- 1915: World War I: Second Battle of Artois between German and French forces.
+- 1901: Australia opens its first national parliament in Melbourne.
 
 Data from muffinlabs
-*(Updated at: 2025-05-08 01:49:23 UTC)*
+*(Updated at: 2025-05-09 01:48:49 UTC)*
 
 # 历史上的今天 
 
-- -  2021年：一枚汽车炸弹在首都阿富汗喀布尔的一所学校前爆炸，炸死了至少55人，炸伤150人。
-- -  2019年：据报道，英国17岁的Isabelle Holdaway是有史以来第一位接受转基因噬菌体治疗以治疗耐药性感染的患者。
-- -  1997年：中国南部航空公司3456航班在驶入Bao'an国际机场的撞车事故中，造成35人丧生。
-- -  1988年：伊利诺伊州贝尔的Hinsdale中央办公室发生的大火触发了一个扩展的1AES网络中断，曾被认为是“美国电话行业历史上最严重的电信灾难”。
-- -  1987年：SAS在北爱尔兰Loughgall的一次伏击中杀死了八名临时爱尔兰共和党志愿者和一名平民。
-- -  1984年：泰晤士河障碍被正式打开，防止大伦敦大部分地区的洪泛区被洪水淹没，除非在极端情况下。
-- -  1984年：苏联宣布抵制洛杉矶的夏季奥运会，后来又有14个国家加入。
-- -  1984年：丹尼斯·洛蒂（Denis Lortie）下士进入魁北克国民议会，开火，杀死了三人，受伤13。大会中士的雷内·贾尔伯特（RenéJalbert）成功地使他平静下来，后来他将收到瓦洛尔（Valor）的十字架。
-- -  1980年：世界卫生组织确认消除天花。
-- -  1978年：Reinhold Messner和Peter Habeler的第一个没有补充氧气的珠穆朗玛峰的首次上升。
-- -  1976年：新革命的过山车，这是第一个带有垂直循环的钢制过山车，在六旗魔术山（Six Flags Magic Mountain）开放。
-- -  1973年：联邦当局与美洲印第安人运动成员之间的71天对峙占据了受伤的膝盖的松岭保留地，南达科他州以激进分子的投降结束。
-- -  1972年：越南战争：美国总统理查德·尼克松（Richard Nixon）宣布将海军矿山放置在北越少校港口，以阻止武器和其他商品流向该国家。
-- -  1970年：甲壳虫乐队发行他们的第12张也是最后一张录音室专辑《 Let》。
-- -  1967年：达沃菲律宾省分为三：达沃·德尔·诺特（Davao del Norte），达沃·德尔·苏尔（Davao del Sur）和达沃东方（Davao Oriental）。
-- -  1963年：罗马天主教总统恩戈·迪姆·迪姆（Ngo dinh Diem）在佛教徒的佛教徒违反禁止佛教旗上的佛教旗上的佛教徒的佛教徒的野火之下的南越士兵，杀死了九个并引发了佛教危机。
-- -  1957年：南越总统的非政府组织DIEEM开始对他政权的主要赞助商美国进行国事访问。
-- -  1950年：Tollund Man被发现在丹麦Silkeborg附近的泥炭沼泽中。
-- -  1946年：爱沙尼亚女学生艾利·贾吉（AiliJâgi）和帕维尔（Ageeda Paavel）炸毁了塔林（Tallinn）青铜士兵之前的苏联纪念馆。
-- -  1945年：哈利法克斯骚乱始于成千上万的平民和军人穿越新斯科舍省哈利法克斯。
-- -  1945年：数百名阿尔及利亚平民在塞蒂夫大屠杀中被法国陆军士兵杀害。
-- -  1945年：布拉格起义的尽头，现在在捷克共和国作为国定假日庆祝。
-- -  1945年：第二次世界大战：在柏林 - 卡尔肖斯特签署的投降工具生效。
-- -  1942年：第二次世界大战：可可群岛叛军的可可群岛叛军的锡隆驻军炮兵的枪手。他们的叛变被压碎，其中三人被处决，这是第二次世界大战期间唯一被兵变处决的英国士兵。
-- -  1942年：第二次世界大战：珊瑚海战役结束，日本帝国海军航空母舰袭击并沉没了美国海军航空母舰列克星敦。
-- -  1942年：第二次世界大战：德国第11军开始行动Trappenjagd（Bustard Hunt），并摧毁了捍卫Kerch Peninsula的三支苏联军队的桥头。
-- -  1941年：第二次世界大战：德国卢斯特瓦夫（Derman Luftwaffe）对诺丁汉和德比进行了轰炸。
-- -  1933年：莫汉斯·甘地（Mohandas Gandhi）开始了21天的自我培训，并发起了为期一年的运动来帮助哈里扬（Harijan）运动。
-- -  1927年：试图将第一次不间断的跨大西洋飞行从巴黎飞往纽约，法国战争英雄查尔斯·努吉瑟（Charles Nungesser）和弗朗索瓦（François）大肠杆菌在乘坐白鸟双翼飞机上脱下后消失了。
-- -  1924年：《Klaipėda公约》被正式签署，将Klaipėda地区（Memel领土）纳入立陶宛。
+- -  2023年：伊姆兰·汗（Imran Khan）在巴基斯坦被捕后的5月9日暴动。
+- -  2022年：鲁斯索 - 乌克兰战争：美国总统乔·拜登（Joe Biden）签署了《 2022年租赁租赁法》，这是一项重新启动的第二次世界大战时期的政策，加快了美国对乌克兰和其他东欧国家的设备加速。
+- -  2020年：共同衰退导致美国失业率达到14.9％，这是自大萧条以来最糟糕的率。
+- -  2018年：自1957年在2018年马来西亚大选的独立性以来，马来西亚的政府统治联盟的历史性失败。
+- -  2002年：伯利恒耶稣诞生教会的38天对峙即将结束，当时的巴勒斯坦人同意有13名涉嫌恐怖分子被驱逐到几个不同的国家。
+- -  2001年：在加纳，有129名足球迷在被称为阿克拉体育体育场灾难中死亡。死亡是由于裁判有争议的决定，是由踩踏事件（由镇压人员发射催泪瓦斯引起的）。
+- -  1992年：韦斯特雷矿山灾难杀死了加拿大新斯科舍省的26名工人。
+- -  1992年：亚美尼亚军队占领舒沙，标志着第一次纳戈尔诺 - 卡拉巴赫战争中的一个主要转折点。
+- -  1988年：堪培拉的新议会大厦正式开放。
+- -  1987年：Lot 5055 TadeuszKościuszko在波兰华沙起飞后坠毁，杀死了船上的所有183人。
+- -  1980年：在美国加利福尼亚州的诺科，五名蒙面的枪手拥有一家安全太平洋银行，导致暴力枪战和加利福尼亚历史上最大的追求之一。两名枪手和一名警官被杀，33名警察在追逐中被摧毁。
+- -  1980年：在佛罗里达州，利比里亚货轮MV Summit Venture与坦帕湾的阳光天线桥发生了碰撞，在南行跨度倒塌的430米（1,400英尺）部分。35人在六辆车上，一辆灵狮巴士跌入水中46米（150英尺），死亡。
+- -  1979年：伊朗犹太商人哈比布·埃尔加尼亚人（Habib Elghanian）被德黑兰（Tehran）射击派对，促使曾经曾经是100,000名伊朗犹太人社区的大规模出埃及记。
+- -  1974年：水门丑闻：美国司法机构委员会向总统理查德·尼克松（Richard Nixon）开放正式和公共弹each听证会。
+- -  1969年：卡洛斯·拉马卡（Carlos Lamarca）通过抢劫两家银行，领导首个对巴西在圣保罗的军事独裁统治的城市游击行动。
+- -  1960年：食品药品监督管理局宣布将批准避孕措施作为Searle的Enovid的附加迹象，使Enovid成为世界上首次批准的口服避孕药。
+- -  1955年：冷战：西德加入北约。
+- -  1950年：罗伯特·舒曼（Robert Schuman）提出了“舒曼宣言”，被某些人认为是创建现在欧盟的开始。
+- -  1948年：捷克斯洛伐克的五月宪法生效。
+- -  1946年：意大利国王维克多·伊曼纽尔三世（Victor Emmanuel III）退位，由乌姆贝托二世（Umberto II）继承。
+- -  1945年：第二次世界大战：海峡群岛从纳粹占领中解放出来。
+- -  1942年：乌克兰的大屠杀：党卫军犯下了波多利亚镇Zinkiv（Khmelnytska Oblast。
+- -  1941年：第二次世界大战：德国潜艇U-110被皇家海军俘虏。船上是最新的谜机器，盟军密码师后来用来打破编码的德语消息。
+- -  1936年：意大利于5月5日占据首都亚的斯亚贝巴后正式吞并埃塞俄比亚。
+- -  1927年：澳大利亚堪培拉的老议会大厦正式开放。
+- -  1926年：理查德·E·伯德（Richard E.
+- -  1920年：波兰苏维埃战争：爱德华·瑞兹·斯米格利将军领导下的波兰军队通过在Khreshchatyk举行的胜利游行来庆祝其对基辅的俘虏。
+- -  1918年：第一次世界大战：德国排斥英国第二次封锁比利时奥斯坦德港的尝试。
+- -  1915年：第一次世界大战：德国和法国部队之间的第二次Artois战役。
+- -  1901年：澳大利亚在墨尔本开设了首个国会议会。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-05-08 01:49:23 UTC）*
+*（更新于: 2025-05-09 01:48:49 UTC）*
