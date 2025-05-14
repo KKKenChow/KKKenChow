@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2014: An explosion at an underground coal mine in southwest Turkey kills 301 miners.
-- 2013: American physician Kermit Gosnell is found guilty in Pennsylvania of murdering three infants born alive during attempted abortions, involuntary manslaughter of a woman during an abortion procedure, and other charges.
-- 2012: Forty-nine dismembered bodies are discovered by Mexican authorities on Mexican Federal Highway 40.
-- 2011: Two bombs explode in the Charsadda District of Pakistan killing 98 people and wounding 140 others.
-- 2008: 9 bombs planted by terrorist group Indian Mujahideen explode in Jaipur, Rajasthan, killing 80 people and injuring 216.
-- 2006: São Paulo violence: Rebellions occur in several prisons in Brazil.
-- 2005: Andijan uprising, Uzbekistan; Troops open fire on crowds of protestors after a prison break; at least 187 people were killed according to official estimates.
-- 2000: A fireworks storage depot explodes in a residential neighborhood in Enschede, Netherlands, killing 23 people and injuring 950 others.
-- 1998: India carries out two nuclear weapon tests at Pokhran, following the three conducted on May 11. The United States and Japan impose economic sanctions on India.
-- 1998: Race riots break out in Jakarta, Indonesia, where shops owned by Indonesians of Chinese descent are looted and women raped.
-- 1996: Severe thunderstorms and a tornado in Bangladesh kill 600 people.
-- 1995: Alison Hargreaves, a 33-year-old British mother, becomes the first woman to conquer Everest without oxygen or the help of sherpas.
-- 1992: Li Hongzhi gives the first public lecture on Falun Gong in Changchun, People's Republic of China.
-- 1990: The Dinamo-Red Star riot took place at Maksimir Stadium in Zagreb, Croatia between the Bad Blue Boys (fans of Dinamo Zagreb) and the Delije (fans of Red Star Belgrade).
-- 1989: Large groups of students occupy Tiananmen Square and begin a hunger strike.
-- 1985: Police bombed MOVE headquarters in Philadelphia, killing six adults and five children, and destroying the homes of 250 city residents.
-- 1981: Mehmet Ali Ağca attempts to assassinate Pope John Paul II in St. Peter's Square in Rome. The Pope is rushed to the Agostino Gemelli University Polyclinic to undergo emergency surgery and survives.
-- 1980: An F3 tornado hits Kalamazoo County, Michigan. President Jimmy Carter declares it a federal disaster area.
-- 1972: The Troubles: A car bombing outside a crowded pub in Belfast sparks a two-day gun battle involving the Provisional IRA, Ulster Volunteer Force and British Army. Seven people are killed and over 66 injured.
-- 1972: A fire occurs in the Sennichi Department Store in Osaka, Japan. Blocked exits and non-functional elevators result in 118 fatalities (many victims leaping to their deaths).
-- 1969: In the aftermath of the 1969 Malaysian general election, Sino-Malay sectarian violence erupted in Kuala Lumpur, Malaysia.
-- 1967: Dr. Zakir Husain becomes the third President of India. He is the first Muslim President of the Indian Union. He holds this position until August 24, 1969.
-- 1960: Hundreds of University of California, Berkeley students congregate for the first day of protest against a visit by the House Committee on Un-American Activities.
-- 1958: Ben Carlin becomes the first (and only) person to circumnavigate the world by amphibious vehicle, having travelled over 17,000 kilometres (11,000 mi) by sea and 62,000 kilometres (39,000 mi) by land during a ten-year journey.
-- 1958: May 1958 crisis: A group of French military officers lead a coup in Algiers demanding that a government of national unity be formed with Charles de Gaulle at its head in order to defend French control of Algeria.
-- 1958: During a visit to Caracas, Venezuela, the US Vice President Richard Nixon's car is attacked by anti-American demonstrators.
-- 1954: The anti-National Service Riots, by Chinese middle school students in Singapore, take place.
-- 1952: The Rajya Sabha, the upper house of the Parliament of India, holds its first sitting.
-- 1951: The 400th anniversary of the founding of the National University of San Marcos is commemorated by the opening of the first large-capacity stadium in Peru.
-- 1950: The inaugural Formula One World Championship race takes place at Silverstone Circuit. The race was won by Giuseppe Farina, who would go on to become the inaugural champion that year.
+- 2022: Ten people are killed in a mass shooting in Buffalo, New York.
+- 2021: China successfully lands Zhurong, the country's first Mars rover.
+- 2012: Agni Air Flight CHT crashes in Nepal after a failed go-around, killing 15 people.
+- 2010: Space Shuttle Atlantis launches on the STS-132 mission to deliver the first shuttle-launched Russian ISS component — Rassvet. This was originally slated to be the final launch of Atlantis, before Congress approved STS-135.
+- 2008: Battle of Piccadilly Gardens in Manchester city centre between Zenit supporters and Rangers supporters and the Greater Manchester Police, 39 policemen injured, one police-dog injured and 39 arrested.
+- 2004: Rico Linhas Aéreas Flight 4815 crashes into the Amazon rainforest during approach to Eduardo Gomes International Airport in Manaus, Brazil, killing 33 people.
+- 2004: Crown Prince Frederik of Denmark and Mary Donaldson are married at Copenhagen Cathedral.
+- 2004: The Constitutional Court of South Korea overturns the impeachment of President Roh Moo-hyun.
+- 1988: Carrollton bus collision: A drunk driver traveling the wrong way on Interstate 71 near Carrollton, Kentucky hits a converted school bus carrying a church youth group. Twenty-seven die in the crash and ensuing fire.
+- 1987: Fijian Prime Minister Timoci Bavadra is ousted from power in a coup d'état led by Lieutenant colonel Sitiveni Rabuka.
+- 1980: Salvadoran Civil War: the Sumpul River massacre occurs in Chalatenango, El Salvador.
+- 1977: A Dan-Air Boeing 707 leased to IAS Cargo Airlines crashes on approach to Lusaka International Airport in Lusaka, Zambia, killing six people.
+- 1973: Skylab, the United States' first space station, is launched.
+- 1970: Andreas Baader is freed from custody by Ulrike Meinhof, Gudrun Ensslin and others, a pivotal moment in the formation of the Red Army Faction.
+- 1961: Civil rights movement: A white mob twice attacks a Freedom Riders bus near Anniston, Alabama, before fire-bombing the bus and attacking the civil rights protesters who flee the burning vehicle.
+- 1955: Cold War: Eight Communist bloc countries, including the Soviet Union, sign a mutual defense treaty called the Warsaw Pact.
+- 1953: Approximately 7,100 brewery workers in Milwaukee perform a walkout, marking the start of the 1953 Milwaukee brewery strike.
+- 1951: Trains run on the Talyllyn Railway in Wales for the first time since preservation, making it the first railway in the world to be operated by volunteers.
+- 1948: Israel is declared to be an independent state and a provisional government is established. Immediately after the declaration, Israel is attacked by the neighboring Arab states, triggering the 1948 Arab-Israeli War.
+- 1943: World War II: A Japanese submarine sinks AHS Centaur off the coast of Queensland.
+- 1940: World War II: Rotterdam, Netherlands is bombed by the Luftwaffe of Nazi Germany despite a ceasefire, killing about 900 people and destroying the historic city center.
+- 1939: Lina Medina becomes the youngest confirmed mother in medical history at the age of five.
+- 1935: The Constitution of the Philippines is ratified by a popular vote.
+- 1931: Five unarmed civilians are killed in the Ådalen shootings, as the Swedish military is called in to deal with protesting workers.
+- 1925: Mrs Dalloway, one of Virginia Woolf's earliest and best-known novels, was published.
+- 1918: Cape Town Mayor, Sir Harry Hands, inaugurates the Two-minute silence.
+- 1915: The May 14 Revolt takes place in Lisbon, Portugal.
+- 1913: Governor of New York William Sulzer approves the charter for the Rockefeller Foundation, which begins operations with a $100 million donation from John D. Rockefeller.
+- 1900: Opening of World Amateur championship at the Paris Exposition Universelle, also known as Olympic Games.
+- 1879: The first group of 463 Indian indentured laborers arrives in Fiji aboard the Leonidas.
 
 Data from muffinlabs
-*(Updated at: 2025-05-13 01:50:13 UTC)*
+*(Updated at: 2025-05-14 01:49:06 UTC)*
 
 # 历史上的今天 
 
-- -  2014年：西南部土耳其地下煤矿发生爆炸，杀死了301名矿工。
-- -  2013年：美国医师柯米特·戈斯内尔（Kermit Gosnell）在宾夕法尼亚州被判有罪，谋杀了三名在未遂堕胎期间活着的婴儿，在堕胎程序期间的非自愿过失杀人罪以及其他指控。
-- -  2012年：墨西哥当局在墨西哥联邦40号公路上发现了四十九个肢解的尸体。
-- -  2011年：巴基斯坦查萨达（Charsadda）地区爆炸了两枚炸弹，炸死98人，炸伤140人。
-- -  2008年：由恐怖组织印度圣战者种植的9枚炸弹在拉贾斯坦邦斋浦尔爆炸，炸死80人，受伤216。
-- -  2006年：圣保罗暴力：叛乱发生在巴西的几个监狱中。
-- -  2005年：乌兹别克斯坦的Andijan起义；越狱后，部队向抗议者的人群开火。根据官方估计，至少有187人被杀。
-- -  2000年：烟花存储仓库在荷兰恩切德市的一个住宅区爆炸，炸死23人，炸伤950人。
-- -  1998年：在5月11日进行的三场比赛之后，印度在博克兰进行了两次核武器测试。美国和日本对印度实施了经济制裁。
-- -  1998年：种族暴动在印度尼西亚的雅加达爆发，中国后裔拥有的商店被抢劫并强奸了妇女。
-- -  1996年：孟加拉国的严重雷暴和龙卷风杀死了600人。
-- -  1995年：33岁的英国母亲艾莉森·哈格里夫斯（Alison Hargreaves）成为第一个征服珠穆朗玛峰的女性，而没有氧气或夏尔巴人的帮助。
-- -  1992年：李·洪吉（Li Hongzhi）在中华人民共和国长春（Changchun）举行了首次关于法轮锣的公开演讲。
-- -  1990年：迪纳莫 - 红色明星暴动发生在克罗地亚萨格勒布的马克西米尔体育场（Maksimir Stadium）之间，介于坏蓝色男孩（Dinamo Zagreb的粉丝）和Delije（Red Star Belgrade的粉丝）之间。
-- -  1989年：大批学生占领天安门广场并开始绝食。
-- -  1985年：警方轰炸了费城的移动总部，杀死了六名成人和5个孩子，并摧毁了250名城市居民的房屋。
-- -  1981年：MehmetAliAğca试图在罗马的圣彼得广场暗杀约翰·保罗二世。教皇被送往阿戈斯蒂诺·杰格利大学多克林氏菌进行急诊手术并得以幸存。
-- -  1980年：F3龙卷风袭击了密歇根州的卡拉马祖县。总统吉米·卡特（Jimmy Carter）宣布这是联邦灾区。
-- -  1972年：麻烦：贝尔法斯特一家拥挤的酒吧外面的汽车轰炸发生了一场为期两天的枪战，涉及IRA，Ulster志愿者部队和英国军队。七人被杀，超过66人受伤。
-- -  1972年：日本大阪的Sennichi百货商店发生了大火。被阻塞的出口和非功能电梯导致118人死亡（许多受害者死亡）。
-- -  1969年：在1969年马来西亚大选之后，马来西亚吉隆坡爆发了中马来宗派暴力。
-- -  1967年：扎基尔·侯赛因（Zakir Husain）博士成为印度的第三任总统。他是印度联盟的第一位穆斯林总统。他一直担任这个职位，直到1969年8月24日。
-- -  1960年：伯克利分校的数百名学生聚集在抗议的第一天，反对众议院委员会关于非美国活动的访问。
-- -  1958年：本·卡林（Ben Carlin）成为第一个（也是唯一的）人通过两栖车辆环绕着世界的人，在十年的旅程中，海上行驶了超过17,000公里（11,000英里），陆路62,000公里（39,000英里）。
-- -  1958年：1958年5月危机：一群法国军官在阿尔及尔（Algiers）发动政变，要求与查尔斯·德·高勒（Charles de Gaulle）组成一个民族团结政府，以捍卫法国对阿尔及利亚的控制。
-- -  1958年：在访问委内瑞拉加拉加斯时，美国副总统理查德·尼克松（Richard Nixon）的汽车遭到反美示威者的袭击。
-- -  1954年：新加坡中国中学学生的反民族服务暴动发生。
-- -  1952年：印度议会的上议院拉吉亚·萨卜哈（Rajya Sabha）举行了第一次坐。
-- -  1951年：圣马科斯国立大学成立400周年纪念秘鲁的第一个大容量体育场的开幕纪念。
-- -  1950年：首届一级方程式世界冠军赛在银石赛道举行。这场比赛由朱塞佩·法琳娜（Giuseppe Farina）赢得，他将继续成为当年的就职冠军。
+- -2022：在纽约布法罗的一次大规模枪击事件中，十人丧生。
+- -  2021年：中国成功降落了该国第一批火星漫游者Zhurong。
+- -  2012年：Agni Air Flight CHT在失败的巡回演出后在尼泊尔坠毁，造成15人丧生。
+- -  2010年：航天飞机亚特兰蒂斯（Atlantis）在STS-132任务上推出，以交付首个班车发射的俄罗斯ISS组件-Rassvet。在国会批准的STS-135之前，这最初是亚特兰蒂斯的最终推出。
+- -  2008年：曼彻斯特市中心的皮卡迪利花园战役与Zenit支持者和游骑兵支持者与大曼彻斯特警察，39名警察受伤，一名警察案受伤，39人被捕。
+- -  2004年：RicoLinhasAéreas4815航班在前往巴西Manaus的Eduardo Gomes International Airport的接近期间撞向亚马逊雨林，造成33人丧生。
+- -  2004年：丹麦王储弗雷德里克（Frederik）和玛丽·唐纳森（Mary Donaldson）在哥本哈根大教堂结婚。
+- -  2004年：韩国宪法法院推翻了皇家罗·穆恩（Roh Moo-Hyun）的弹each。
+- -  1988年：卡罗尔顿公共汽车碰撞：一名醉酒的司机在肯塔基州卡罗尔顿附近的71号州际公路上走错路，撞上了一辆载有教堂青年团体的校车。二十七个在坠机事故中死亡并随后发生火灾。
+- -  1987年：斐济总理蒂莫西·巴瓦德拉（Timoci Bavadra）在由上校Sitiveni Rabuka中校领导的政变中被驱逐出权力。
+- -  1980年：萨尔瓦多内战：Sumpul河大屠杀发生在萨尔瓦多的Chalatenango。
+- -  1977年：一辆丹 - 艾尔波音707租用在IAS货运航空公司撞车时，在卢萨卡国际机场的卢萨卡机场撞车，炸死了六人。
+- -  1973年：美国第一个空间站Skylab被推出。
+- -  1970年：Andreas Baader被Ulrike Meinhof，Gudrun Ensslin和其他人摆脱了监护权，这是红军派系形成的关键时刻。
+- -  1961年：民权运动：白人暴民两次攻击阿拉巴马州安妮斯顿附近的自由骑手巴士，然后炸毁公共汽车并攻击逃离燃烧车辆的民权抗议者。
+- -  1955年：冷战：包括苏联在内的八个共产党集团国家签署了一项名为《华沙条约》的共同国防条约。
+- -  1953年：密尔沃基大约有7,100名啤酒厂的工人进行了罢工，标志着1953年密尔沃基啤酒厂罢工的开始。
+- -  1951年：自保存以来，火车是威尔士的塔利林铁路上行驶的火车，这使其成为世界上第一个由志愿者运营的铁路。
+- -  1948年：以色列被宣布为一个独立国家，并建立了临时政府。声明后，以色列立即受到邻国阿拉伯国家的袭击，引发了1948年的阿拉伯 - 以色列战争。
+- -  1943年：第二次世界大战：日本潜艇在昆士兰州沿海的AHS CENTAR下沉。
+- -  1940年：第二次世界大战：荷兰鹿特丹，尽管停火了，但纳粹德国的卢夫夫夫炸毁了，炸死了约900人并摧毁了这个历史悠久的市中心。
+- -  1939年：莉娜·麦地那（Lina Medina）成为五岁的病史上最年轻的病史确认母亲。
+- -  1935年：菲律宾的宪法通过普选批准。
+- -  1931年：在Ådalen枪击事件中，五名无武装平民被杀，因为瑞典军队被要求与抗议工人打交道。
+- -  1925年：弗吉尼亚·伍尔夫（Virginia Woolf）最早，最著名的小说之一达洛威（Dalloway）夫人出版了。
+- -  1918年：开普敦市市长，哈利·赫尔德（Harry Hands）爵士，为两分钟的沉默揭幕。
+- -  1915年：5月14日起义发生在葡萄牙里斯本。
+- -  1913年：纽约州州长威廉·苏尔泽（William Sulzer）批准了洛克菲勒基金会的宪章，该基金会以约翰·D·洛克菲勒（John D. Rockefeller）的1亿美元捐款开始运营。
+- -  1900年：在巴黎博览会世界上开幕式世界业余冠军，也称为奥运会。
+- -  1879年：第一批463个印度契约工人到达列昂尼达斯（Leonidas）的斐济。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-05-13 01:50:13 UTC）*
+*（更新于: 2025-05-14 01:49:06 UTC）*
