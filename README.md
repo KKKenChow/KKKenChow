@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: The UN commemorates the Palestinian Nakba Day for the first time.
-- 2013: An upsurge in violence in Iraq leaves more than 389 people dead over three days.
-- 2010: Jessica Watson becomes the youngest person to sail, non-stop and unassisted around the world solo.
-- 2008: California becomes the second U.S. state after Massachusetts in 2004 to legalize same-sex marriage after the state's own Supreme Court rules a previous ban unconstitutional.
-- 2004: Arsenal F.C. go an entire league campaign unbeaten in the English Premier League, joining Preston North End F.C. with the right to claim the title "The Invincibles".
-- 2001: A CSX EMD SD40-2 rolls out of a train yard in Walbridge, Ohio, with 47 freight cars, including some tank cars with flammable chemical, after its engineer fails to reboard it after setting a yard switch. It travels south driverless for 66 miles (106 km) until it was brought to a halt near Kenton. The incident became the inspiration for the 2010 film Unstoppable.
-- 1997: The Space Shuttle Atlantis launches on STS-84 to dock with the Russian space station Mir.
-- 1997: The United States government acknowledges the existence of the "Secret War" in Laos and dedicates the Laos Memorial in honor of Hmong and other "Secret War" veterans.
-- 1991: Édith Cresson becomes France's first female Prime Minister.
-- 1988: Soviet-Afghan War: After more than eight years of fighting, the Soviet Army begins to withdraw 115,000 troops from Afghanistan.
-- 1976: Aeroflot Flight 1802 crashes near Viktorivka, Chernihiv Raion, Chernihiv Oblast, killing 52.
-- 1974: Ma'alot massacre: Members of the Democratic Front for the Liberation of Palestine attack and take hostages at an Israeli school; a total of 31 people are killed, including 22 schoolchildren.
-- 1972: The Ryukyu Islands, under U.S. military governance since its conquest in 1945, reverts to Japanese control.
-- 1970: President Richard Nixon appoints Anna Mae Hays and Elizabeth P. Hoisington the first female United States Army generals.
-- 1963: Project Mercury: The launch of the final Mercury mission, Mercury-Atlas 9 with astronaut Gordon Cooper on board. He becomes the first American to spend more than a day in space, and the last American to go into space alone.
-- 1957: At Malden Island in the Pacific Ocean, Britain tests its first hydrogen bomb in Operation Grapple.
-- 1948: Following the expiration of The British Mandate for Palestine, the Kingdom of Egypt, Transjordan, Lebanon, Syria, Iraq and Saudi Arabia invade Israel thus starting the 1948 Arab-Israeli War.
-- 1945: World War II: The Battle of Poljana, the final skirmish in Europe is fought near Prevalje, Slovenia.
-- 1943: Joseph Stalin dissolves the Comintern (or Third International).
-- 1942: World War II: In the United States, a bill creating the Women's Army Auxiliary Corps (WAAC) is signed into law.
-- 1941: First flight of the Gloster E.28/39 the first British and Allied jet aircraft.
-- 1940: Richard and Maurice McDonald open the first McDonald's restaurant.
-- 1940: World War II: The Battle of the Netherlands: After fierce fighting, the poorly trained and equipped Dutch troops surrender to Germany, marking the beginning of five years of occupation.
-- 1940: USS Sailfish is recommissioned. It was originally the USS Squalus.
-- 1934: A self coup by prime minister Kārlis Ulmanis succeeded in Latvia, suspending its constitution and dissolving its Saeima.
-- 1933: All military aviation organizations within or under the control of the RLM of Germany were officially merged in a covert manner to form its Wehrmacht military's air arm, the Luftwaffe.
-- 1932: In an attempted coup d'état, the Prime Minister of Japan Inukai Tsuyoshi is assassinated.
-- 1929: A fire at the Cleveland Clinic in Cleveland, Ohio kills 123.
-- 1919: Greek occupation of Smyrna. During the occupation, the Greek army kills or wounds 350 Turks; those responsible are punished by Greek commander Aristides Stergiades.
-- 1919: The Winnipeg general strike begins. By 11:00, almost the whole working population of Winnipeg had walked off the job.
+- 2014: Twelve people are killed in two explosions in the Gikomba market area of Nairobi, Kenya.
+- 2011: STS-134 (ISS assembly flight ULF6), launched from the Kennedy Space Center on the 25th and final flight for Space Shuttle Endeavour.
+- 2005: Kuwait permits women's suffrage in a 35-23 National Assembly vote.
+- 2003: In Morocco, 33 civilians are killed and more than 100 people are injured in the Casablanca terrorist attacks.
+- 1997: Mobutu Sese Seko, the President of Zaire, flees the country.
+- 1991: Queen Elizabeth II of the United Kingdom addresses a joint session of the United States Congress. She is the first British monarch to address the U.S. Congress.
+- 1988: A report by the Surgeon General of the United States C. Everett Koop states that the addictive properties of nicotine are similar to those of heroin and cocaine.
+- 1975: Junko Tabei from Japan becomes the first woman to reach the summit of Mount Everest.
+- 1972: An Antonov An-24 crashes into a kindergarten building in Svetlogorsk, killing 35.
+- 1974: Josip Broz Tito is elected president for life of Yugoslavia.
+- 1969: Venera program: Venera 5, a Soviet space probe, lands on Venus.
+- 1966: The Chinese Communist Party issues the "May 16 Notice", marking the beginning of the Cultural Revolution.
+- 1961: Park Chung Hee leads a coup d'état to overthrow the Second Republic of South Korea.
+- 1960: Theodore Maiman operates the first optical laser (a ruby laser), at Hughes Research Laboratories in Malibu, California.
+- 1959: The Tritons' Fountain in Valletta, Malta is turned on for the first time.
+- 1954: Beginning of the Kengir uprising in the Gulag.
+- 1951: The first regularly scheduled transatlantic flights begin between Idlewild Airport (now John F Kennedy International Airport) in New York City and Heathrow Airport in London, operated by El Al Israel Airlines.
+- 1945: Beginning of the Levant Crisis between Britain and France in Syria. The latter try to quell nationalist protests but backs down after threat of military action by the British.
+- 1943: Operation Chastise is undertaken by RAF Bomber Command with specially equipped Avro Lancasters to destroy the Mohne, Sorpe, and Eder dams in the Ruhr valley.
+- 1943: The Holocaust: The Warsaw Ghetto Uprising ends.
+- 1929: In Hollywood, the first Academy Awards ceremony takes place.
+- 1925: The first modern performance of Claudio Monteverdi's opera Il ritorno d'Ulisse in patria occurred in Paris.
+- 1920: In Rome, Pope Benedict XV canonizes Joan of Arc.
+- 1919: A naval Curtiss NC-4 aircraft commanded by Albert Cushing Read leaves Trepassey, Newfoundland, for Lisbon via the Azores on the first transatlantic flight.
+- 1918: The Sedition Act of 1918 is passed by the U.S. Congress, making criticism of the government during wartime an imprisonable offense. It will be repealed less than two years later.
+- 1916: The United Kingdom of Great Britain and Ireland and the French Third Republic sign the secret wartime Sykes-Picot Agreement partitioning former Ottoman territories such as Iraq and Syria.
+- 1891: The International Electrotechnical Exhibition opened in Frankfurt, Germany, featuring the world's first long-distance transmission of high-power, three-phase electric current (the most common form today).
+- 1888: Nikola Tesla delivers a lecture describing the equipment which will allow efficient generation and use of alternating currents to transmit electric power over long distances.
+- 1877: The 16 May 1877 crisis occurs in France, ending with the dissolution of the National Assembly 22 June and affirming the interpretation of the Constitution of 1875 as a parliamentary rather than presidential system. The elections held in October 1877 led to the defeat of the royalists as a formal political movement in France.
+- 1874: A flood on the Mill River in Massachusetts destroys much of four villages and kills 139 people.
 
 Data from muffinlabs
-*(Updated at: 2025-05-15 01:47:15 UTC)*
+*(Updated at: 2025-05-16 01:50:42 UTC)*
 
 # 历史上的今天 
 
-- -2023：联合国首次纪念巴勒斯坦纳克巴日。
-- -  2013年：伊拉克暴力行为的兴起使389多人在三天内死亡。
-- -  2010年：杰西卡·沃森（Jessica Watson）成为世界上最年轻的人，不停地驾驶和无助的人。
-- -  2008年：在该州最高法院裁定以前禁止违宪之后，加利福尼亚成为2004年马萨诸塞州第二个美国第二个州的美国州。
-- -  2004年：阿森纳F.C.在英超联赛中，整个联赛竞选不败，加入Preston North End F.C.有权声称标题“无敌”。
-- -2001：CSX EMD SD40-2从俄亥俄州沃尔布里奇的火车场滚出，有47辆货车，包括一些易燃化学罐车，其工程师在设置院子开关后未能重新登机。它将南方的无人驾驶行驶66英里（106公里）传播，直到肯顿附近停下来。该事件成为2010年电影不可阻挡的灵感。
-- -  1997年：航天飞机亚特兰蒂斯（Atlantis）在STS-84上推出，与俄罗斯空间站Mir停靠。
-- -  1997年：美国政府承认在老挝的“秘密战争”中存在，并为纪念苗族和其他“秘密战争”退伍军人而奉献了老挝纪念馆。
-- -  1991年：ÉdithCresson成为法国的第一任女总理。
-- -  1988年：苏联 - 阿富汗战争：经过八年多的战斗，苏联军队开始从阿富汗撤出115,000名士兵。
-- -  1976年：Aeroflot航班1802年在Viktorivka，Chernihiv Raion，Chernihiv Oblast附近坠毁，杀死52。
-- -  1974年：马阿洛特大屠杀：解放巴勒斯坦袭击的民主阵线成员，并在以色列学校劫持人质；共有31人被杀，其中包括22个学童。
-- -  1972年：自1945年征服以来，在美国的军事治理下，龙京群岛恢复了日本的控制。
-- -  1970年：总统理查德·尼克松（Richard Nixon）任命安娜·梅·海斯（Anna Mae Hays）和伊丽莎白·霍辛顿（Elizabeth P.
-- -  1963年：水星项目：最终的水星任务，水星 - 阿特拉斯9与宇航员戈登·库珀（Gordon Cooper）一起登机。他成为第一个在太空中度过一天以上的美国人，也是最后一个独自进入太空的美国人。
-- -  1957年：英国在太平洋的马尔登岛（Malden Island）测试了其第一枚抗斗争中的氢炸弹。
-- -  1948年：在英国授权巴勒斯坦，埃及王国，特兰约旦，黎巴嫩，叙利亚，伊拉克和沙特阿拉伯入侵以色列之后，开始了1948年的阿拉伯 - 以色列战争。
-- -  1945年：第二次世界大战：波尔贾纳战役，欧洲的最后一场小规模冲突是在斯洛文尼亚普雷斯特·埃弗拉杰附近进行的。
-- -  1943年：约瑟夫·斯大林（Joseph Stalin）解散了共产党（或第三国际）。
-- -  1942年：第二次世界大战：在美国，建立妇女辅助军（WAAC）的法案被签署为法律。
-- -  1941年：Gloster E.28/39的第一架飞行是第一架英国和盟军喷气式飞机。
-- -  1940年：理查德（Richard）和莫里斯·麦当劳（Maurice McDonald）开设了第一家麦当劳的餐厅。
-- -  1940年：第二次世界大战：荷兰战役：激烈的战斗之后，训练有素的荷兰军队投降了德国，这标志着占领五年的开始。
-- -  1940年：Sailfish US被推荐。它最初是乌贼号号码。
-- -  1934年：总理卡利斯·乌尔曼尼斯（KārlisUlmanis）的自我政变在拉脱维亚接任，中止了其宪法并解散了其Saeima。
-- -  1933年：在德国RLM内部或控制的所有军事航空组织都以秘密方式合并，以形成其Wehrmacht军方的空军，即Luftwaffe。
-- -  1932年：在一次尝试的政变中，日本国际王国总理被暗杀。
-- -  1929年：俄亥俄州克利夫兰克利夫兰诊所的大火杀死了123。
-- -  1919年：希腊人的士麦那占领。在占领期间，希腊军队杀死或伤口350土耳其人；那些负责的人受到希腊指挥官阿里斯蒂斯·斯ergiades（Aristides Stergiades）的惩罚。
-- -  1919年：温尼伯大罢工开始。到11:00，温尼伯几乎整个工作人口都离开了工作。
+- -  2014年：在肯尼亚内罗毕的吉科姆巴市场地区的两次爆炸中，有十二人被杀。
+- -  2011年：STS-134（ISS组装Flight ULF6），于25日也是最后一次航天飞机的航班从肯尼迪航天中心发射。
+- -  2005年：科威特允许以35-23的国民议会投票获得妇女选举权。
+- -  2003年：在摩洛哥，卡萨布兰卡恐怖袭击中有33名平民被杀，100多人受伤。
+- -  1997年：扎伊尔总统蒙博图·塞斯·塞科（Mobutu Sese Seko）逃离了该国。
+- -  1991年：英国女王伊丽莎白二世介绍了美国国会的联合会议。她是第一个向美国国会致辞的英国君主。
+- -  1988年：美国外科医生C. Everett Koop的一份报告指出，尼古丁的成瘾性特性与海洛因和可卡因相似。
+- -  1975年：来自日本的Junko Tabei成为第一个到达珠穆朗玛峰山顶的女性。
+- -  1972年：Antonov An-24撞上了Svetlogorsk的一栋幼儿园建筑，杀死了35。
+- -  1974年：Josip Broz Tito当选为南斯拉夫人生总统。
+- -  1969年：Venera计划：Venera 5，苏联太空探测器，降落在金星上。
+- -  1966年：中国共产党发表了“ 5月16日通知”，标志着文化大革命的开始。
+- -  1961年：帕克·钟（Park Chung Hee）领导政变，推翻了韩国第二共和国。
+- -  1960年：西奥多·迈曼（Theodore Maiman）在加利福尼亚州马里布市的休斯研究实验室（Hughes Research Laboratories）运营着第一个光学激光器（红宝石激光）。
+- -  1959年：马耳他瓦莱塔（Valletta）的特里顿（Tritons）喷泉是第一次打开。
+- -  1954年：古拉格（Gulag）的Kengir起义开始。
+- -  1951年：第一次定期定期定期的跨大西洋航班始于纽约市的伊德维尔德机场（现为约翰·肯尼迪国际机场）和伦敦的希思罗机场，由埃尔阿尔以色列航空公司运营。
+- -  1945年：英国与法国在叙利亚的黎凡特危机的开始。后者试图平息民族主义抗议活动，但在英国人采取军事行动的威胁之后退缩。
+- -  1943年：Chastise行动是由Raf Bomber Command进行的，专门配备了Avro Lancasters，以摧毁Ruhr Valley的Mohne，Sorpe和Eder Dams。
+- -  1943年：大屠杀：华沙贫民窟起义的目的。
+- -  1929年：在好莱坞，第一届奥斯卡金像奖颁奖典礼。
+- -  1925年：克劳迪奥·蒙特维尔迪（Claudio Monteverdi）的歌剧院的第一次现代表演在帕特里亚（Patria）出现在巴黎。
+- -  1920年：在罗马，教皇本尼迪克特XV canize canizes of a arc的琼。
+- -  1919年：Albert Cushing Read指挥的海军Curtiss NC-4飞机在纽芬兰的Trepassey Well Trepassey在第一次跨大西洋航班上通过亚速尔群岛为里斯本。
+- -  1918年：美国国会通过了1918年的《煽动法》，在战时对政府的批评是可监禁的罪行。它将在不到两年后废除。
+- -  1916年：英国和爱尔兰的英国和法国第三共和国签署了秘密战时Sykes-Picot协议，分区了前奥斯曼帝国领土，例如伊拉克和叙利亚。
+- -  1891年：国际电学展览会在德国法兰克福开业，该展览是世界上首次高功率，三相电流的长途传播（当今最常见的形式）。
+- -  1888年：尼古拉·特斯拉（Nikola Tesla）进行了一场演讲，描述了设备，该设备将有效地生成和使用交流电流以长途发射电力。
+- -  1877年：1877年5月16日发生在法国发生的危机，结束于6月22日国民议会的解散，并确认将1875年宪法解释为议会议会而不是总统制度。1877年10月举行的选举导致保皇党在法国的正式政治运动中失败。
+- -  1874年：马萨诸塞州米尔河上的一场洪水摧毁了四个村庄中的大部分，造成139人丧生。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-05-15 01:47:15 UTC）*
+*（更新于: 2025-05-16 01:50:42 UTC）*
