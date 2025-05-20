@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024:  A helicopter crash in Iran leaves 8 people dead, including the country's president Ebrahim Raisi & foreign minister Hossein Amir-Abdollahian.
-- 2018: The wedding of Prince Harry and Meghan Markle is held at St George's Chapel, Windsor, with an estimated global audience of 1.9 billion.
-- 2016: EgyptAir Flight 804 crashes into the Mediterranean Sea while traveling from Paris to Cairo, killing all on board.
-- 2015: The Refugio oil spill deposited 142,800 U.S. gallons (3,400 barrels) of crude oil onto an area in California considered one of the most biologically diverse coastlines of the west coast.
-- 2012: A car bomb explodes near a military complex in the Syrian city of Deir ez-Zor, killing nine people.
-- 2012: Three gas cylinder bombs explode in front of a vocational school in the Italian city of Brindisi, killing one person and injuring five others.
-- 2010: The Royal Thai Armed Forces concludes its crackdown on protests by forcing the surrender of United Front for Democracy Against Dictatorship leaders.
-- 2007: President of Romania Traian Băsescu survives an impeachment referendum and returns to office from suspension.
-- 2006: The release of the WWE Films movie See No Evil and the corresponding storyline around WWE superstar Kane having a hatred of the day May 19th 
-- 2000: Space Shuttle program: Space Shuttle Atlantis is launched on mission STS-101 to resupply the International Space Station.
-- 1997: The Sierra Gorda biosphere, the most ecologically diverse region in Mexico, is established as a result of grassroots efforts.
-- 1996: Space Shuttle program: Space Shuttle Endeavour is launched on mission STS-77.
-- 1993: SAM Colombia Flight 501 crashes on approach to José María Córdova International Airport in Medellín, Colombia, killing 132.
-- 1991: Croatians vote for independence in a referendum.
-- 1986: The Firearm Owners Protection Act is signed into law by U.S. President Ronald Reagan.
-- 1971: Mars probe program: Mars 2 is launched by the Soviet Union.
-- 1963: The New York Post Sunday Magazine publishes Martin Luther King Jr.'s Letter from Birmingham Jail.
-- 1962: A birthday salute to U.S. President John F. Kennedy takes place at Madison Square Garden, New York City. The highlight is Marilyn Monroe's rendition of "Happy Birthday".
-- 1961: At Silchar Railway Station, Assam, 11 Bengalis die when police open fire on protesters demanding state recognition of Bengali language in the Bengali Language Movement.
-- 1961: Venera program: Venera 1 becomes the first man-made object to fly by another planet by passing Venus (the probe had lost contact with Earth a month earlier and did not send back any data).
-- 1959: The North Vietnamese Army establishes Group 559, whose responsibility is to determine how to maintain supply lines to South Vietnam; the resulting route is the Ho Chi Minh trail.
-- 1950: Egypt announces that the Suez Canal is closed to Israeli ships and commerce.
-- 1950: A barge containing munitions destined for Pakistan explodes in the harbor at South Amboy, New Jersey, devastating the city.
-- 1945: Syrian demonstrators in Damascus are fired upon by French troops injuring twelve, leading to the Levant Crisis.
-- 1943: Winston Churchill's second wartime address to the U.S. Congress
-- 1942: World War II: In the aftermath of the Battle of the Coral Sea, Task Force 16 heads to Pearl Harbor for repairs.
-- 1934: Zveno and the Bulgarian Army engineer a coup d'état and install Kimon Georgiev as the new Prime Minister of Bulgaria.
-- 1933: Finnish cavalry general C. G. E. Mannerheim is appointed the field marshal.
-- 1922: The Young Pioneer Organization of the Soviet Union is established.
-- 1921: The United States Congress passes the Emergency Quota Act establishing national quotas on immigration.
+- 2022: Russo-Ukrainian War: Russia claims full control of the Ukrainian city of Mariupol after a nearly three-month siege.
+- 2019: The International System of Units (SI): The base units are redefined, making the international prototype of the kilogram obsolete.
+- 2016: The government of Singapore authorised the controversial execution of convicted murderer Kho Jabing for the murder of a Chinese construction worker despite the international pleas for clemency, notably from Amnesty International and the United Nations.
+- 2013: An EF5 tornado strikes the Oklahoma City suburb of Moore, killing 24 people and injuring 377 others.
+- 2012: At least 27 people are killed and 50 others injured when a 6.0-magnitude earthquake strikes northern Italy.
+- 2011: Mamata Banerjee is sworn in as the Chief Minister of West Bengal, the first woman to hold this post.
+- 2009: An Indonesian Air Force Lockheed L-100 Hercules crashes in Magetan Regency, killing 99.
+- 2002: The independence of East Timor is recognized by Portugal, formally ending 23 years of Indonesian rule and three years of provisional UN administration (Portugal itself is the former colonizer of East Timor until 1976).
+- 1996: Civil rights: The Supreme Court of the United States rules in Romer v. Evans against a law that would have prevented any city, town or county in the state of Colorado from taking any legislative, executive, or judicial action to protect the rights of gays and lesbians.
+- 1990: The first post-Communist presidential and parliamentary elections are held in Romania.
+- 1989: The Chinese authorities declare martial law in the face of pro-democracy demonstrations, setting the scene for the Tiananmen Square massacre.
+- 1985: Radio Martí, part of the Voice of America service, begins broadcasting to Cuba.
+- 1983: Church Street bombing: A car bomb planted by UMkhonto we Sizwe explodes on Church Street in South Africa's capital, Pretoria, killing 19 people and injuring 217 others.
+- 1983: First publications of the discovery of the HIV virus that causes AIDS in the journal Science by a team of French scientists including Françoise Barré-Sinoussi, Jean-Claude Chermann, and Luc Montagnier.
+- 1980: In a referendum in Quebec, the population rejects, with 60% of the vote, a government proposal to move towards independence from Canada.
+- 1971: In the Chuknagar massacre, Pakistani forces massacre thousands, mostly Bengali Hindus.
+- 1969: The Battle of Hamburger Hill in Vietnam ends.
+- 1967: The Popular Movement of the Revolution political party is established in the Democratic Republic of the Congo.
+- 1965: One hundred twenty-one people are killed when Pakistan International Airlines Flight 705 crashes at Cairo International Airport.
+- 1964: Discovery of the cosmic microwave background radiation by Robert Woodrow Wilson and Arno Penzias.
+- 1958: Capital Airlines Flight 300 collides in mid-air with a United States Air Force Lockheed T-33 over Brunswick, Maryland, killing 12.
+- 1956: In Operation Redwing, the first United States airborne hydrogen bomb is dropped over Bikini Atoll in the Pacific Ocean.
+- 1949: In the United States, the Armed Forces Security Agency, the predecessor to the National Security Agency, is established.
+- 1948: Generalissimo Chiang Kai-shek wins the 1948 Republic of China presidential election and is sworn in as the first President of the Republic of China at Nanjing.
+- 1943: The Luttra Woman, a bog body from the Early Neolithic period (radiocarbon-dated c. 3928-3651 BC), was discovered near Luttra, Sweden.
+- 1941: World War II: Battle of Crete: German paratroops invade Crete.
+- 1940: The Holocaust: The first prisoners arrive at a new concentration camp at Auschwitz.
+- 1932: Amelia Earhart takes off from Newfoundland to begin the world's first solo nonstop flight across the Atlantic Ocean by a female pilot, landing in Ireland the next day.
+- 1927: Charles Lindbergh takes off for Paris from Roosevelt Field in Long Island, N.Y., aboard the Spirit of St. Louis on the first nonstop solo flight across the Atlantic Ocean, landing .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}33+1⁄2 hours later.
+- 1927: Treaty of Jeddah: The United Kingdom recognizes the sovereignty of King Ibn Saud in the Kingdoms of Hejaz and Nejd, which later merge to become the Kingdom of Saudi Arabia.
 
 Data from muffinlabs
-*(Updated at: 2025-05-19 01:55:01 UTC)*
+*(Updated at: 2025-05-20 01:51:10 UTC)*
 
 # 历史上的今天 
 
-- -  2024年：在伊朗的一次直升机坠机事故使8人死亡，包括该国总统埃布拉希姆·雷西（Ebrahim Raisi）和外交大臣霍森·阿米尔·阿卜杜拉（Hossein Amir-Abdollahian）。
-- -  2018年：哈里王子和梅根·马克尔的婚礼在温莎的圣乔治教堂举行，估计全球观众为19亿。
-- -  2016年：埃及航空804航班从巴黎到开罗旅行时撞向地中海，杀死了所有人。
-- -  2015年：雷德吉奥（Refugio）漏油物沉积了142,800加仑（3,400桶）原油，被认为是西海岸生物学上最多样化的海岸线之一。
-- -  2012年：一枚汽车炸弹在叙利亚城市Deir Ez-Zor的军事综合体附近爆炸，炸死9人。
-- -  2012年：在意大利城市布林迪西（Brindisi）的一所职业学校面前爆炸了三枚燃气缸炸弹，杀死了一个人并伤害了另外五个人。
-- -  2010年：皇家泰国武装部队通过迫使曼联阵线投降民主对独裁统治领导人的投降来结束对抗议的打击。
-- -  2007年：罗马尼亚TraianBăsescu总统在弹each公投中幸存下来，并因停赛而返回任职。
-- -  2006年：《 WWE电影的发行》，《无邪恶》和《 WWE超级巨星凯恩》的相应故事情节，对当天的仇恨是5月19日
-- -  2000年：航天飞机计划：航天飞机亚特兰蒂斯（Atlantis）在Mission STS-101上发射以补充国际空间站。
-- -  1997年：墨西哥生态上最多样化的地区Sierra Gorda Biosphere是由于基层努力而建立的。
-- -  1996年：航天飞机计划：航天飞机努力是在Mission STS-77上发射的。
-- -  1993年：萨姆·哥伦比亚501航班在哥伦比亚梅德林的何塞·玛丽亚·科尔多瓦国际机场撞车时坠毁，丧生132。
-- -  1991年：克罗地亚人在全民投票中投票支持独立。
-- -  1986年：美国总统罗纳德·里根（Ronald Reagan）签署了《枪支所有者保护法》。
-- -  1971年：火星调查计划：火星2由苏联推出。
-- -  1963年：《纽约邮报》周日杂志出版了小马丁·路德·金（Martin Luther King Jr.）的信。
-- -  1962年：向美国总统约翰·肯尼迪（John F. Kennedy）致敬，在纽约市麦迪逊广场花园举行。亮点是玛丽莲·梦露（Marilyn Monroe）的《生日快乐》。
-- -1961：在阿萨姆邦的锡尔查尔（Silchar）火车站，孟加拉人11孟加拉人死于抗议者，要求国家对孟加拉语运动中的孟加拉语承认。
-- -1961：Venera计划：Venera 1成为第一个通过Venus通过另一个星球飞行的人造物体（一个月前探测器与地球失去了接触，没有发送任何数据）。
-- -  1959年：北越陆军建立了559组，其责任是确定如何维护越南南部的供应线；最终的路线是Ho Chi Minh步道。
-- -  1950年：埃及宣布苏伊士运河对以色列船舶和商业关闭。
-- -  1950年：一艘驳船，围栏原定为巴基斯坦的弹药在新泽西州南安博伊的港口爆炸，摧毁了这座城市。
-- -  1945年：大马士革的叙利亚示威者被法国军队炸伤十二人，导致黎凡特危机。
-- -  1943年：温斯顿·丘吉尔（Winston Churchill）在美国国会的第二次战时讲话
-- -  1942年：第二次世界大战：在珊瑚海之战之后，16特遣队前往珍珠港进行维修。
-- -  1934年：Zveno和保加利亚陆军工程师A政变，并安装了Kimon Georgiev作为保加利亚新任总理。
-- -  1933年：芬兰骑兵将军C. G. E. Mandheim被任命为现场元帅。
-- -  1922年：建立了苏联的年轻开拓者组织。
-- -  1921年：美国国会通过了《紧急配额法》，建立了国家移民配额。
+- -  2022年：鲁斯索 - 乌克兰战争：俄罗斯声称在经历了近三个月的攻城之后，完全控制了乌克兰城市玛丽奥波尔。
+- -  2019年：国际单位体系（SI）：重新定义基本单位，使千克过时的国际原型。
+- -  2016年：新加坡政府授权执行有争议的被定罪的凶手Kho Jabing因谋杀一名中国建筑工人的谋杀案，尽管国际宽大处理，尤其是来自国际大赦国际和联合国的诉讼。
+- -  2013年：EF5龙卷风袭击了俄克拉荷马城摩尔郊区，杀死了24人，炸伤377人。
+- -  2012年：当6.0级地震袭击意大利北部时，至少有27人被杀，另外50人受伤。
+- -  2011年：Mamata Banerjee宣誓就任西孟加拉邦的首席部长，这是第一位担任此职位的妇女。
+- -  2009年：印尼空军洛克希德L-100大力神在玛格坦摄政中坠毁，杀死了99。
+- -  2002年：东帝汶的独立性得到了葡萄牙的认可，正式结束了印尼23年的统治和三年的临时联合国政府（葡萄牙本身是东帝汶的前殖民者，直到1976年）。
+- -  1996年：民权：美国最高法院在罗默（Romer）诉埃文斯（Romerv。Evans）中违反一项法律，该法律将阻止科罗拉多州的任何城市，城镇或县采取任何立法，行政或司法诉讼，以保护同性恋和女同性恋者的权利。
+- -  1990年：第一次在罗马尼亚举行了第一次共产主义总统和议会选举。
+- -  1989年：中国当局面对民主示威活动宣布戒严，为天安门广场大屠杀设置了场景。
+- -  1985年：美国声音服务的一部分Martí无线电开始向古巴进行广播。
+- -  1983年：教堂街轰炸：Umkhonto We Sizwe种植的一辆汽车炸弹在南非首都的教堂街，比勒陀利亚爆炸，炸死19人，炸伤217人。
+- -  1983年：发现艾滋病毒病毒的第一版，该出版物由法国科学家团队在《弗朗索瓦斯·巴雷·史西西》，《让·克劳德·奇尔曼》和《卢克·蒙塔尼尔》等法国科学家团队中引起杂志。
+- -  1980年：在魁北克举行的全民公决中，人口拒绝了60％的投票，这是政府提出从加拿大独立的提议。
+- -  1971年：在丘那加尔大屠杀中，巴基斯坦迫使成千上万，主要是孟加拉印度教徒。
+- -  1969年：越南汉堡山的战役结束。
+- -  1967年：革命政党的大众运动是在刚果民主共和国建立的。
+- -  1965年：当巴基斯坦国际航空公司705撞车在开罗国际机场撞车时，一百二十一人被杀。
+- -  1964年：罗伯特·伍德罗·威尔逊（Robert Woodrow Wilson）和阿诺·彭齐亚斯（Arno Penzias）的宇宙微波背景辐射发现。
+- -  1958年：资本航空公司300航班在空中撞车与马里兰州不伦瑞克省的美国空军洛克希德（Lockheed T-33）碰撞，杀死了12。
+- -  1956年：在Redwing行动中，第一个美国空降氢弹被掉落在太平洋的比基尼环礁上。
+- -  1949年：在美国，建立了国家安全局的前身武装部队安全局。
+- -  1948年：Generalissimo chiang kai-shek赢得了1948年中华民国总统大选，并宣誓就任南京共和国第一任总统。
+- -  1943年：Luttra妇女是新石器时代早期（放射性碳日期约公元前3928  -  3651年）的沼泽体。
+- -  1941年：第二次世界大战：克里特岛战役：德国伞兵入侵克里特。
+- -  1940年：大屠杀：第一批囚犯到达奥斯威辛集中营的新集中营。
+- -  1932年：阿米莉亚·埃哈特（Amelia Earhart）从纽芬兰（Newfoundland）起飞，通过一名女飞行员开始了世界上第一次穿越大西洋的独奏，第二天降落在爱尔兰。
+- -  1927年：查尔斯·林德伯格（Charles Lindbergh。0px）;高度：1px; margin：-1px;溢出：隐藏；填充：0;位置：绝对;宽度：1px} 33+1⁄2小时。
+- -  1927年：吉达条约：英国在赫贾兹（Hejaz）和内伊德（Nejd）王国中承认伊本·沙特（Ibn Saud）国王的主权，后来合并成为沙特阿拉伯的王国。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-05-19 01:55:01 UTC）*
+*（更新于: 2025-05-20 01:51:10 UTC）*
