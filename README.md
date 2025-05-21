@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Russo-Ukrainian War: Russia claims full control of the Ukrainian city of Mariupol after a nearly three-month siege.
-- 2019: The International System of Units (SI): The base units are redefined, making the international prototype of the kilogram obsolete.
-- 2016: The government of Singapore authorised the controversial execution of convicted murderer Kho Jabing for the murder of a Chinese construction worker despite the international pleas for clemency, notably from Amnesty International and the United Nations.
-- 2013: An EF5 tornado strikes the Oklahoma City suburb of Moore, killing 24 people and injuring 377 others.
-- 2012: At least 27 people are killed and 50 others injured when a 6.0-magnitude earthquake strikes northern Italy.
-- 2011: Mamata Banerjee is sworn in as the Chief Minister of West Bengal, the first woman to hold this post.
-- 2009: An Indonesian Air Force Lockheed L-100 Hercules crashes in Magetan Regency, killing 99.
-- 2002: The independence of East Timor is recognized by Portugal, formally ending 23 years of Indonesian rule and three years of provisional UN administration (Portugal itself is the former colonizer of East Timor until 1976).
-- 1996: Civil rights: The Supreme Court of the United States rules in Romer v. Evans against a law that would have prevented any city, town or county in the state of Colorado from taking any legislative, executive, or judicial action to protect the rights of gays and lesbians.
-- 1990: The first post-Communist presidential and parliamentary elections are held in Romania.
-- 1989: The Chinese authorities declare martial law in the face of pro-democracy demonstrations, setting the scene for the Tiananmen Square massacre.
-- 1985: Radio Martí, part of the Voice of America service, begins broadcasting to Cuba.
-- 1983: Church Street bombing: A car bomb planted by UMkhonto we Sizwe explodes on Church Street in South Africa's capital, Pretoria, killing 19 people and injuring 217 others.
-- 1983: First publications of the discovery of the HIV virus that causes AIDS in the journal Science by a team of French scientists including Françoise Barré-Sinoussi, Jean-Claude Chermann, and Luc Montagnier.
-- 1980: In a referendum in Quebec, the population rejects, with 60% of the vote, a government proposal to move towards independence from Canada.
-- 1971: In the Chuknagar massacre, Pakistani forces massacre thousands, mostly Bengali Hindus.
-- 1969: The Battle of Hamburger Hill in Vietnam ends.
-- 1967: The Popular Movement of the Revolution political party is established in the Democratic Republic of the Congo.
-- 1965: One hundred twenty-one people are killed when Pakistan International Airlines Flight 705 crashes at Cairo International Airport.
-- 1964: Discovery of the cosmic microwave background radiation by Robert Woodrow Wilson and Arno Penzias.
-- 1958: Capital Airlines Flight 300 collides in mid-air with a United States Air Force Lockheed T-33 over Brunswick, Maryland, killing 12.
-- 1956: In Operation Redwing, the first United States airborne hydrogen bomb is dropped over Bikini Atoll in the Pacific Ocean.
-- 1949: In the United States, the Armed Forces Security Agency, the predecessor to the National Security Agency, is established.
-- 1948: Generalissimo Chiang Kai-shek wins the 1948 Republic of China presidential election and is sworn in as the first President of the Republic of China at Nanjing.
-- 1943: The Luttra Woman, a bog body from the Early Neolithic period (radiocarbon-dated c. 3928-3651 BC), was discovered near Luttra, Sweden.
-- 1941: World War II: Battle of Crete: German paratroops invade Crete.
-- 1940: The Holocaust: The first prisoners arrive at a new concentration camp at Auschwitz.
-- 1932: Amelia Earhart takes off from Newfoundland to begin the world's first solo nonstop flight across the Atlantic Ocean by a female pilot, landing in Ireland the next day.
-- 1927: Charles Lindbergh takes off for Paris from Roosevelt Field in Long Island, N.Y., aboard the Spirit of St. Louis on the first nonstop solo flight across the Atlantic Ocean, landing .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}33+1⁄2 hours later.
-- 1927: Treaty of Jeddah: The United Kingdom recognizes the sovereignty of King Ibn Saud in the Kingdoms of Hejaz and Nejd, which later merge to become the Kingdom of Saudi Arabia.
+- 2024: The Greenfield tornado kills 5 and injures 35 across rural Iowa, United States. Wind speeds in excess of 300 mph (480 km/h) are estimated from measurements for the third time in history.
+- 2017: Ringling Bros. and Barnum & Bailey Circus performed their final show at Nassau Veterans Memorial Coliseum.
+- 2014: Random killings occurred on the Bannan Line of the Taipei MRT, killing four and injuring 24.
+- 2012: A suicide bombing kills more than 120 people in Sana'a, Yemen.
+- 2012: A bus accident near Himara, Albania kills 13 people and injures 21 others.
+- 2011: Radio broadcaster Harold Camping predicted that the world would end on this date.
+- 2010: JAXA, the Japan Aerospace Exploration Agency, launches the solar-sail spacecraft IKAROS aboard an H-IIA rocket. The vessel would make a Venus flyby late in the year.
+- 2006: The Republic of Montenegro holds a referendum proposing independence from the State Union of Serbia and Montenegro; 55% of Montenegrins vote for independence.
+- 2005: The tallest roller coaster in the world, Kingda Ka opens at Six Flags Great Adventure in Jackson Township, New Jersey.
+- 2003: The 6.8 Mw  Boumerdès earthquake shakes northern Algeria with a maximum Mercalli intensity of X (Extreme). More than 2,200 people were killed and a moderate tsunami sank boats at the Balearic Islands.
+- 2001: French Taubira law is enacted, officially recognizing the Atlantic slave trade and slavery as crimes against humanity.
+- 2000: Nineteen people are killed in a plane crash in Wilkes-Barre, Pennsylvania.
+- 1998: President Suharto of Indonesia resigns following the killing of students from Trisakti University earlier that week by security forces and growing mass protests in Jakarta against his ongoing corrupt rule.
+- 1998: In Miami, five abortion clinics are attacked by a butyric acid attacker.
+- 1996: The seven Trappist monks of Tibhirine that were abducted on March 27 are killed under uncertain circumstances.
+- 1996: The ferry MV Bukoba sinks in Tanzanian waters on Lake Victoria, killing nearly 1,000.
+- 1994: The Democratic Republic of Yemen unsuccessfully attempts to secede from the Republic of Yemen; a war breaks out.
+- 1992: After 30 seasons Johnny Carson hosted his penultimate episode and last featuring guests (Robin Williams and Bette Midler) of The Tonight Show.
+- 1991: Mengistu Haile Mariam, president of the People's Democratic Republic of Ethiopia, flees Ethiopia, effectively bringing the Ethiopian Civil War to an end.
+- 1991: Former Indian Prime Minister Rajiv Gandhi is assassinated by a female suicide bomber near Madras.
+- 1988: Margaret Thatcher holds her controversial Sermon on the Mound before the General Assembly of the Church of Scotland.
+- 1982: Falklands War: A British amphibious assault during Operation Sutton leads to the Battle of San Carlos.
+- 1981: Transamerica Corporation agrees to sell United Artists to Metro-Goldwyn-Mayer for $380 million after the box office failure of the 1980 film Heaven's Gate.
+- 1981: The Italian government releases the membership list of Propaganda Due, an illegal pseudo-Masonic lodge that was implicated in numerous Italian crimes and mysteries.
+- 1979: White Night riots in San Francisco following the manslaughter conviction of Dan White for the assassinations of George Moscone and Harvey Milk.
+- 1976: Twenty-nine people are killed in the Yuba City bus disaster in Martinez, California.
+- 1972: Michelangelo's Pietà in St. Peter's Basilica in Rome is damaged by a vandal, the mentally disturbed Hungarian geologist Laszlo Toth.
+- 1969: Civil unrest in Rosario, Argentina, known as Rosariazo, following the death of a 15-year-old student.
+- 1966: The Ulster Volunteer Force declares war on the Irish Republican Army in Northern Ireland.
+- 1961: American civil rights movement: Alabama Governor John Malcolm Patterson declares martial law in an attempt to restore order after race riots break out.
 
 Data from muffinlabs
-*(Updated at: 2025-05-20 01:51:10 UTC)*
+*(Updated at: 2025-05-21 01:50:35 UTC)*
 
 # 历史上的今天 
 
-- -  2022年：鲁斯索 - 乌克兰战争：俄罗斯声称在经历了近三个月的攻城之后，完全控制了乌克兰城市玛丽奥波尔。
-- -  2019年：国际单位体系（SI）：重新定义基本单位，使千克过时的国际原型。
-- -  2016年：新加坡政府授权执行有争议的被定罪的凶手Kho Jabing因谋杀一名中国建筑工人的谋杀案，尽管国际宽大处理，尤其是来自国际大赦国际和联合国的诉讼。
-- -  2013年：EF5龙卷风袭击了俄克拉荷马城摩尔郊区，杀死了24人，炸伤377人。
-- -  2012年：当6.0级地震袭击意大利北部时，至少有27人被杀，另外50人受伤。
-- -  2011年：Mamata Banerjee宣誓就任西孟加拉邦的首席部长，这是第一位担任此职位的妇女。
-- -  2009年：印尼空军洛克希德L-100大力神在玛格坦摄政中坠毁，杀死了99。
-- -  2002年：东帝汶的独立性得到了葡萄牙的认可，正式结束了印尼23年的统治和三年的临时联合国政府（葡萄牙本身是东帝汶的前殖民者，直到1976年）。
-- -  1996年：民权：美国最高法院在罗默（Romer）诉埃文斯（Romerv。Evans）中违反一项法律，该法律将阻止科罗拉多州的任何城市，城镇或县采取任何立法，行政或司法诉讼，以保护同性恋和女同性恋者的权利。
-- -  1990年：第一次在罗马尼亚举行了第一次共产主义总统和议会选举。
-- -  1989年：中国当局面对民主示威活动宣布戒严，为天安门广场大屠杀设置了场景。
-- -  1985年：美国声音服务的一部分Martí无线电开始向古巴进行广播。
-- -  1983年：教堂街轰炸：Umkhonto We Sizwe种植的一辆汽车炸弹在南非首都的教堂街，比勒陀利亚爆炸，炸死19人，炸伤217人。
-- -  1983年：发现艾滋病毒病毒的第一版，该出版物由法国科学家团队在《弗朗索瓦斯·巴雷·史西西》，《让·克劳德·奇尔曼》和《卢克·蒙塔尼尔》等法国科学家团队中引起杂志。
-- -  1980年：在魁北克举行的全民公决中，人口拒绝了60％的投票，这是政府提出从加拿大独立的提议。
-- -  1971年：在丘那加尔大屠杀中，巴基斯坦迫使成千上万，主要是孟加拉印度教徒。
-- -  1969年：越南汉堡山的战役结束。
-- -  1967年：革命政党的大众运动是在刚果民主共和国建立的。
-- -  1965年：当巴基斯坦国际航空公司705撞车在开罗国际机场撞车时，一百二十一人被杀。
-- -  1964年：罗伯特·伍德罗·威尔逊（Robert Woodrow Wilson）和阿诺·彭齐亚斯（Arno Penzias）的宇宙微波背景辐射发现。
-- -  1958年：资本航空公司300航班在空中撞车与马里兰州不伦瑞克省的美国空军洛克希德（Lockheed T-33）碰撞，杀死了12。
-- -  1956年：在Redwing行动中，第一个美国空降氢弹被掉落在太平洋的比基尼环礁上。
-- -  1949年：在美国，建立了国家安全局的前身武装部队安全局。
-- -  1948年：Generalissimo chiang kai-shek赢得了1948年中华民国总统大选，并宣誓就任南京共和国第一任总统。
-- -  1943年：Luttra妇女是新石器时代早期（放射性碳日期约公元前3928  -  3651年）的沼泽体。
-- -  1941年：第二次世界大战：克里特岛战役：德国伞兵入侵克里特。
-- -  1940年：大屠杀：第一批囚犯到达奥斯威辛集中营的新集中营。
-- -  1932年：阿米莉亚·埃哈特（Amelia Earhart）从纽芬兰（Newfoundland）起飞，通过一名女飞行员开始了世界上第一次穿越大西洋的独奏，第二天降落在爱尔兰。
-- -  1927年：查尔斯·林德伯格（Charles Lindbergh。0px）;高度：1px; margin：-1px;溢出：隐藏；填充：0;位置：绝对;宽度：1px} 33+1⁄2小时。
-- -  1927年：吉达条约：英国在赫贾兹（Hejaz）和内伊德（Nejd）王国中承认伊本·沙特（Ibn Saud）国王的主权，后来合并成为沙特阿拉伯的王国。
+- -  2024年：绿地龙卷风杀死5人，在美国爱荷华州乡村造成35人炸伤。从历史上第三次测量中估计了超过300 mph（480 km/h）的风速超过300 mph（480 km/h）。
+- -  2017年：Ringling Bros.和Barnum＆Bailey Circus在拿骚退伍军人纪念体育馆进行了最后一场演出。
+- -  2014年：随机杀戮发生在台北捷运的班南线上，杀死了四人，受伤24。
+- -  2012年：自杀炸弹炸弹在也门萨那杀死了120多人。
+- -  2012年：阿尔巴尼亚基拉拉（Himara）附近的一次公共汽车事故杀死13人，炸伤21人。
+- -  2011年：广播广播公司Harold Camping预测世界将在这个日期结束。
+- -  2010年：日本航空航天勘探局Jaxa在H-IIA火箭上推出了太阳能航天器Ikaros。该船将在今年下半年进行金星飞行。
+- -  2006年：黑山共和国举行全民投票，提议与塞尔维亚和黑山的州联盟独立；Montenegrins 55％投票支持独立。
+- -  2005年：世界上最高的过山车，Kingda Ka在新泽西州杰克逊镇的六旗大冒险中开放。
+- -  2003年：6.8 MWBoumerdès地震摇动北阿尔及利亚，其最大Mercalli强度为X（极端）。超过2200人被杀，一艘中度的海啸沉没在巴利阿里群岛。
+- -  2001年：制定法国陶比拉法律，正式承认大西洋奴隶贸易和奴隶制是反对人类的罪行。
+- -  2000年：在宾夕法尼亚州威尔克斯 - 巴里（Wilkes-Barre）的一次飞机失事中，有19人被杀。
+- -  1998年：印度尼西亚总统苏哈托（Suharto）总统辞去了当地的安全部队的杀害，并在雅加达（Jakarta）的大规模抗议活动中杀害了他持续的腐败统治。
+- -  1998年：在迈阿密，五个流产诊所受到丁酸酸攻击者的攻击。
+- -  1996年：3月27日被绑架的蒂比林的七个trappist僧侣在不确定的情况下被杀害。
+- -  1996年：渡轮MV Bukoba在维多利亚湖的坦桑尼亚水域下沉，造成近1,000人。
+- -  1994年：也门民主共和国未能成功地脱离也门共和国；战争爆发。
+- -  1992年：经过30个季节，约翰尼·卡森（Johnny Carson）主持了他的倒数第二集，最后一场邀请了《今晚秀》（Robin Williams and Bette Midler）的嘉宾（Robin Williams和Bette Midler）。
+- -  1991年：埃塞俄比亚人民民主共和国总统蒙格斯图·海尔·玛丽亚姆（Mengistu Haile Mariam）逃离埃塞俄比亚，有效地将埃塞俄比亚内战带到了结束。
+- -  1991年：前印度总理拉吉夫·甘地（Rajiv Gandhi）被马德拉斯附近的一名女性自杀轰炸机暗杀。
+- -  1988年：玛格丽特·撒切尔（Margaret Thatcher）在苏格兰教堂大会前的土墩上举行了有争议的讲道。
+- -  1982年：福克兰群岛战争：萨顿行动中的一场英国两栖攻击导致圣卡洛斯战役。
+- -  1981年：Transamerica Corporation同意将联合艺术家出售给Metro-Goldwyn-Mayer，以3.8亿美元的价格在1980年电影《天堂之门票房失败》后以3.8亿美元的价格出售。
+- -  1981年：意大利政府释放了应得的宣传成员名单，这是一个非法的伪造摩西式旅馆，涉及许多意大利犯罪和奥秘。
+- -  1979年：丹·怀特（Dan White）的误杀罪后，旧金山的白夜里暴动因乔治·莫斯汀（George Moscone）和哈维·米尔（Harvey Milk）的暗杀而被定罪。
+- -  1976年：在加利福尼亚州马丁内斯的尤巴市巴士灾难中，有29人被杀。
+- -  1972年：罗马圣彼得大教堂的米开朗基罗的Pietà受到破坏的破坏，这是匈牙利精神上的匈牙利地质学家拉斯洛·托特（Laszlo Toth）。
+- -  1969年：一名15岁学生去世后，阿根廷罗萨里奥（Rosario）的内乱，被称为罗萨里亚佐（Rosariazo）。
+- -  1966年：阿尔斯特志愿者部队宣布对北爱尔兰的爱尔兰共和党军队进行战争。
+- -  1961年：美国民权运动：阿拉巴马州州长约翰·马尔科姆·帕特森（John Malcolm Patterson）宣布戒严，以试图在比赛后恢复秩序。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-05-20 01:51:10 UTC）*
+*（更新于: 2025-05-21 01:50:35 UTC）*
