@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: A mass shooting occurs at Robb Elementary School in Uvalde, Texas, United States, resulting in the deaths of 21 people, including 19 children.
-- 2019: Under pressure over her handling of Brexit, British Prime Minister Theresa May announces her resignation as Leader of the Conservative Party, effective as of June 7.
-- 2019: Twenty-two students die in a fire in Surat (India).
-- 2014: At least three people are killed in a shooting at Brussels' Jewish Museum of Belgium.
-- 2014: A 6.4 magnitude earthquake occurs in the Aegean Sea between Greece and Turkey, injuring 324 people.
-- 2002: Russia and the United States sign the Moscow Treaty.
-- 2000: Israeli troops withdraw from southern Lebanon after 22 years of occupation.
-- 1999: The International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands indicts Slobodan Milošević and four others for war crimes and crimes against humanity committed in Kosovo.
-- 1995: While attempting to return to Leeds Bradford Airport in the United Kingdom, Knight Air Flight 816 crashes in Dunkeswick, North Yorkshire, killing all 12 people on board.
-- 1994: Four men are convicted of bombing the World Trade Center in New York in 1993; each one is sentenced to 240 years in prison.
-- 1993: Roman Catholic Cardinal Juan Jesús Posadas Ocampo and five other people are assassinated in a shootout at Miguel Hidalgo y Costilla Guadalajara International Airport in Mexico.
-- 1993: Eritrea gains its independence from Ethiopia.
-- 1992: The ethnic cleansing in Kozarac, Bosnia and Herzegovina begins when Serbian militia and police forces enter the town.
-- 1992: The last Thai dictator, General Suchinda Kraprayoon, resigns following pro-democracy protests.
-- 1991: Israel conducts Operation Solomon, evacuating Ethiopian Jews to Israel.
-- 1988: Section 28 of the United Kingdom's Local Government Act 1988, a controversial amendment stating that a local authority cannot intentionally promote homosexuality, is enacted.
-- 1982: Liberation of Khorramshahr: Iranians recapture of the port city of Khorramshahr from the Iraqis during the Iran-Iraq War.
-- 1981: Ecuadorian president Jaime Roldós Aguilera, his wife, and his presidential committee die in an aircraft accident while travelling from Quito to Zapotillo minutes after the president gave a famous speech regarding the 24 de mayo anniversary of the Battle of Pichincha.
-- 1976: The Judgment of Paris takes place in France, launching California as a worldwide force in the production of quality wine.
-- 1967: Belle de Jour, directed by Luis Buñuel, is released.
-- 1967: Egypt imposes a blockade and siege of the Red Sea coast of Israel.
-- 1962: Project Mercury: American astronaut Scott Carpenter orbits the Earth three times in the Aurora 7 space capsule.
-- 1961: American civil rights movement: Freedom Riders are arrested in Jackson, Mississippi, for "disturbing the peace" after disembarking from their bus.
-- 1960: Following the 1960 Valdivia earthquake, the largest ever recorded earthquake, Cordón Caulle begins to erupt.
-- 1958: United Press International is formed through a merger of the United Press and the International News Service.
-- 1956: The first Eurovision Song Contest is held in Lugano, Switzerland.
-- 1948: Arab-Israeli War: Egypt captures the Israeli kibbutz of Yad Mordechai, but the five-day effort gives Israeli forces time to prepare enough to stop the Egyptian advance a week later.
-- 1944: Congress of Përmet occurs which establishes a provisional government in Albania in areas under partisan control, the first independent Albanian government since 1939. In honor of this the national emblem of Albania inscribed this date from 1946 until 1992.
-- 1944: Börse Berlin building burns down after being hit in an air raid during World War II.
-- 1941: World War II: Battle of the Atlantic: In the Battle of the Denmark Strait, the German battleship Bismarck sinks the pride of the Royal Navy, HMS Hood, killing all but three crewmen.
+- 2018: Ireland votes to repeal the Eighth Amendment of their constitution that prohibits abortion in all but a few cases, choosing to replace it with the Thirty-sixth Amendment of the Constitution of Ireland.
+- 2018: The General Data Protection Regulation (GDPR) becomes enforceable in the European Union.
+- 2013: A gas cylinder explodes on a school bus in the Pakistani city of Gujrat, killing at least 18 people.
+- 2013: Suspected Maoist rebels kill at least 28 people and injure 32 others in an attack on a convoy of Indian National Congress politicians in Chhattisgarh, India.
+- 2012: The SpaceX Dragon 1 becomes the first commercial spacecraft to successfully rendezvous and berth with the International Space Station.
+- 2011: Oprah Winfrey airs her last show, ending her 25-year run of The Oprah Winfrey Show.
+- 2009: North Korea allegedly tests its second nuclear device, after which Pyongyang also conducts several missile tests, building tensions in the international community.
+- 2008: NASA's Phoenix lander touches down in the Green Valley region of Mars to search for environments suitable for water and microbial life.
+- 2002: China Airlines Flight 611 disintegrates in mid-air and crashes into the Taiwan Strait, with the loss of all 225 people on board.
+- 2001: Erik Weihenmayer becomes the first blind person to reach the summit of Mount Everest, in the Himalayas, with Dr. Sherman Bull.
+- 2000: Liberation Day of Lebanon: Israel withdraws its army from Lebanese territory (with the exception of the disputed Shebaa farms zone) 18 years after the invasion of 1982.
+- 1999: The United States House of Representatives releases the Cox Report which details China's nuclear espionage against the U.S. over the prior two decades.
+- 1997: A military coup in Sierra Leone replaces President Ahmad Tejan Kabbah with Major Johnny Paul Koroma.
+- 1986: The Hands Across America event takes place.
+- 1985: Bangladesh is hit by a tropical cyclone and storm surge, which kills approximately 10,000 people.
+- 1982: Falklands War: HMS Coventry is sunk by Argentine Air Force A-4 Skyhawks.
+- 1981: In Riyadh, the Gulf Cooperation Council is created between Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and the United Arab Emirates.
+- 1979: American Airlines Flight 191: A McDonnell Douglas DC-10 crashes during takeoff at O'Hare International Airport, Chicago, killing all 271 on board and two people on the ground.
+- 1979: John Spenkelink, a convicted murderer, is executed in Florida; he is the first person to be executed in the state after the reintroduction of capital punishment in 1976.
+- 1978: The first of a series of bombings orchestrated by the Unabomber detonates at Northwestern University resulting in minor injuries.
+- 1977: The Chinese government removes a decade-old ban on William Shakespeare's work, effectively ending the Cultural Revolution started in 1966.
+- 1977: Star Wars (retroactively titled Star Wars: Episode IV - A New Hope) is released in US theaters.
+- 1973: In protest against the dictatorship in Greece, the captain and crew on Greek naval destroyer Velos mutiny and refuse to return to Greece, instead anchoring at Fiumicino, Italy.
+- 1968: The Gateway Arch in St. Louis, Missouri, is dedicated.
+- 1966: Explorer program: Explorer 32 launches.
+- 1963: The Organisation of African Unity is established in Addis Ababa, Ethiopia.
+- 1961: Apollo program: U.S. President John F. Kennedy announces, before a special joint session of the U.S. Congress, his goal to initiate a project to put a "man on the Moon" before the end of the decade.
+- 1955: First ascent of Mount Kangchenjunga: On the British Kangchenjunga expedition led by Charles Evans, Joe Brown and George Band reach the summit of the third-highest mountain in the world (8,586 meters); Norman Hardie and Tony Streather join them the following day.
+- 1955: In the United States, a night-time F5 tornado strikes the small city of Udall, Kansas as part of a larger outbreak across the Great Plains, killing 80 and injuring 273. It is the deadliest tornado to ever occur in the state and the 23rd deadliest in the U.S.
+- 1953: The first public television station in the United States officially begins broadcasting as KUHT from the campus of the University of Houston.
 
 Data from muffinlabs
-*(Updated at: 2025-05-24 01:45:57 UTC)*
+*(Updated at: 2025-05-25 01:58:32 UTC)*
 
 # 历史上的今天 
 
-- -  2022年：大规模枪击发生在美国德克萨斯州乌瓦尔德的罗布小学发生，导致21人死亡，其中包括19名儿童。
-- -  2019年：在对英国脱欧的处理压力下，英国首相特蕾莎·梅（Theresa May）宣布辞去保守党领导人的辞职，自6月7日起生效。
-- -  2019年：22名学生在印度苏拉特（Surat）的火灾中死亡。
-- -  2014年：在比利时犹太博物馆的枪击事件中，至少有三人被杀。
-- -  2014年：6.4级地震发生在希腊和土耳其之间的爱琴海，造成324人受伤。
-- -  2002年：俄罗斯和美国签署《莫斯科条约》。
-- -  2000年：在占领22年后，以色列部队从黎巴嫩南部退出。
-- -  1999年：荷兰海牙前南斯拉夫国际刑事法庭指控SlobodanMilošević和其他四个在科索沃犯下的战争罪和危害人类罪。
-- -  1995年：在试图返回英国的利兹布拉德福德机场时，骑士航空公司在北约克郡的邓克斯威克撞车816撞车，杀死了船上的所有12人。
-- -  1994年：1993年，有四名男子因轰炸纽约世界贸易中心的轰炸而被定罪；每个人被判处240年徒刑。
-- -  1993年：罗马天主教枢机主教JuanJesúsPosadasOcampo和其他五人在墨西哥的Miguel Hidalgo y Costilla Yidalgo y Costilla Guadalajara国际机场被暗杀。
-- -  1993年：厄立特里亚（Eritrea）脱离了埃塞俄比亚的独立性。
-- -  1992年：塞尔维亚民兵和警察部队进入该镇时，在科扎拉克，波萨尼亚和黑塞哥维那的种族清洗开始。
-- -  1992年：在亲民主抗议活动后，最后一位泰国独裁者苏辛达·克拉普拉隆将军辞职。
-- -  1991年：以色列进行所罗门行动，将埃塞俄比亚犹太人撤离以色列。
-- -  1988年：《 1988年英国地方政府法案》第28条，这是一项有争议的修正案，指出地方当局不能故意促进同性恋。
-- -  1982年：霍拉姆沙尔的解放：伊朗人在伊朗 - 伊拉克战争期间从伊拉克人夺回港口城市霍拉姆沙尔。
-- -  1981年：厄瓜多尔总统JaimeRoldósAguilera，他的妻子和他的总统委员会在飞机事故中死于一场飞机事故，同时在总统发表了关于Pichincha战役24周年纪念日的著名演讲之后，几分钟后从Quito到Zapotillo。
-- -  1976年：巴黎的判断是在法国进行的，在加利福尼亚州启动了一支在高品质葡萄酒中的全球力量。
-- -  1967年：由路易斯·布尼尔（LuisBuñuel）执导的Belle de Jour已发行。
-- -  1967年：埃及对以色列红海海岸施加了封锁和围困。
-- -  1962年：水星项目：美国宇航员斯科特·卡彭特（Scott Carpenter）在Aurora 7太空胶囊中三遍地球绕地球旋转。
-- -  1961年：美国民权运动：自由骑手在密西西比州杰克逊（Jackson）被捕，原因是从公共汽车上下船后“打扰了和平”。
-- -  1960年：在1960年瓦尔迪维亚地震（有史以来最大的地震）之后，科康·考尔（CordónCaulle）开始爆发。
-- -  1958年：联合出版社是通过联合出版社和国际新闻服务的合并而形成的。
-- -  1956年：第一场欧洲电视网歌曲大赛在瑞士的卢加诺举行。
-- -  1948年：阿拉伯 - 以色列战争：埃及占领了Yad Mordechai的以色列Kibbutz，但为期五天的努力使以色列部队有时间准备足够的时间来阻止一周后的埃及进步。
-- -  1944年：佩尔梅特国会发生，在党派控制下，在阿尔巴尼亚建立了一个临时政府，这是自1939年以来的第一个独立的阿尔巴尼亚政府。为此，为此纪念阿尔巴尼亚的国家象征，刻在1946年到1992年。
-- -  1944年：第二次世界大战期间在一次空袭中遭到袭击后，伯林伯林大楼燃烧。
-- -  1941年：第二次世界大战：大西洋战役：在丹麦海峡战役中，德国战舰Bismarck沉没了皇家海军HMS Hood的骄傲，杀死了三名船员。
+- -  2018年：爱尔兰投票决定废除其宪法的第八修正案，该修正案在除少数案件外禁止堕胎，选择用爱尔兰宪法第三十六修正案代替。
+- -  2018年：欧盟可以执行一般数据保护法规（GDPR）。
+- -  2013年：一个燃气缸在巴基斯坦城市古吉拉特市的一辆校车上爆炸，杀死了至少18人。
+- -  2013年：怀疑毛主义叛军在印度恰蒂斯加尔邦（Chhattisgarh）的印度国民大会政治家袭击中，杀死了至少28人，并伤害了32人。
+- -  2012年：SpaceX Dragon 1成为第一个成功与国际空间站聚会和泊位的商业航天器。
+- -  2011年：奥普拉·温弗瑞（Oprah Winfrey）播出了她的最后一场演出，结束了她在奥普拉·温弗瑞（Oprah Winfrey）演出的25年比赛中。
+- -  2009年：据称，朝鲜对其第二核设备进行了测试，此后平壤还进行了几次导弹测试，在国际社会中建立了紧张局势。
+- -  2008年：NASA的凤凰城兰特（Phoenix Lander）在火星的绿谷地区触摸，以寻找适合水和微生物生命的环境。
+- -  2002年：中国航空公司611航班在空中瓦解，撞向台湾海峡，船上所有225人丧失。
+- -  2001年：Erik Weihenmayer成为第一个与Sherman Bull博士一起到达喜马拉雅山上珠穆朗玛峰山顶的盲人。
+- -  2000年：黎巴嫩解放日：以色列在1982年入侵后18年从黎巴嫩领土（有争议的Shebaa农场区除外）撤军。
+- -  1999年：美国众议院发布了COX报告，该报告详细介绍了中国对美国对美国的核间谍活动。
+- -  1997年：塞拉利昂的一场军事政变用约翰尼·保罗·科罗马少校取代了总统艾哈迈德·特扬·卡布巴。
+- -  1986年：举行了整个美国的手。
+- -  1985年：孟加拉国受到热带气旋和风暴潮的袭击，大约有10,000人。
+- -  1982年：福克兰战争：HMS考文垂被阿根廷空军A-4 Skyhawks沉没。
+- -  1981年：在利雅得，海湾合作委员会是在巴林，科威特，阿曼，卡塔尔，沙特阿拉伯和阿拉伯联合酋长国之间成立的。
+- -  1979年：美国航空航班191号航班：麦克唐纳·道格拉斯DC-10在芝加哥奥黑尔国际机场起飞期间撞车，杀死了所有271人，并在地面上杀死了两个人。
+- -  1979年：被定罪的凶手约翰·斯宾克林克（John Spenkelink）在佛罗里达州被处决；1976年重新引入死刑后，他是第一个在该州处决的人。
+- -  1978年：联合国大学在西北大学（Northwestern University）爆炸的一系列爆炸案中的第一次，导致轻伤。
+- -  1977年：中国政府取消了对威廉·莎士比亚作品的十年禁令，有效地结束了1966年的文化大革命。
+- -  1977年：《星球大战》（《星球大战》的标题为“星球大战：第四集”  - 新希望）在美国剧院发行。
+- -  1973年：为了抗议希腊的独裁统治，希腊海军驱逐舰Velos Mutiny上的船长和船员拒绝返回希腊，而不是锚定在意大利的Fiumicino。
+- -  1968年：密苏里州圣路易斯的门户拱门是专门的。
+- -  1966年：Explorer计划：Explorer 32启动。
+- -  1963年：非洲团结组织是在埃塞俄比亚的亚的斯亚贝巴建立的。
+- -  1961年：阿波罗计划：美国总统约翰·肯尼迪（John F. Kennedy）宣布，在美国国会的特别联席会议之前，他的目标是启动一个项目，以在十年结束前将“男人登上月球”。
+- -  1955年：首次登上坎钦朱加山（Mount Kangenjunga）：在由查尔斯·埃文斯（Charles Evans），乔·布朗（Joe Brown）和乔治（George Band）领导的英国坎钦邦探险队（Kangchenjunga Expedition）上，到达了世界上第三高山的山顶（8,586米）；诺曼·哈迪（Norman Hardie）和托尼·斯特雷特（Tony Streather）第二天加入了他们的行列。
+- -  1955年：在美国，夜间F5龙卷风袭击了堪萨斯州乌德尔的小城市，这是整个大平原爆发的一部分，造成80人丧生，造成273人受伤。
+- -  1953年：美国第一个公共电视台正式从休斯顿大学的校园正式开始播放Kuht。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-05-24 01:45:57 UTC）*
+*（更新于: 2025-05-25 01:58:32 UTC）*
