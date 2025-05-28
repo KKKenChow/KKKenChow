@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2018: Maryland Flood Event: A flood occurs throughout the Patapsco Valley, causing one death, destroying the entire first floors of buildings on Main Street in Ellicott City, and causing cars to overturn.
-- 2017: Andrew Scheer takes over after Rona Ambrose as the leader of the Conservative Party of Canada.
-- 2016: Barack Obama is the first president of the United States to visit Hiroshima Peace Memorial Park and meet Hibakusha.
-- 2006: The 6.4 Mw  Yogyakarta earthquake shakes central Java with an MSK intensity of VIII (Damaging), leaving more than 5,700 dead and 37,000 injured.
-- 2001: Members of Abu Sayyaf, an Islamist separatist group, seize twenty hostages from an affluent island resort on Palawan in the Philippines; the hostage crisis would not be resolved until June 2002.
-- 1999: Space Shuttle Discovery is launched on STS-96, the first shuttle mission to dock with the International Space Station.
-- 1998: Oklahoma City bombing: Michael Fortier is sentenced to 12 years in prison and fined $200,000 for failing to warn authorities about the terrorist plot.
-- 1997: The 1997 Central Texas tornado outbreak occurs, spawning multiple tornadoes in Central Texas, including the F5 that killed 27 in Jarrell.
-- 1996: First Chechen War: Russian President Boris Yeltsin meets with Chechnyan rebels for the first time and negotiates a cease-fire.
-- 1988: Somaliland War of Independence: The Somali National Movement launches a major offensive against Somali government forces in Hargeisa and Burao, then the second- and third-largest cities of Somalia.
-- 1984: The Danube-Black Sea Canal is opened, in a ceremony attended by the Ceaușescus. It had been under construction since the 1950s.
-- 1980: The Gwangju Massacre: Airborne and army troops of South Korea retake the city of Gwangju from civil militias, killing at least 207 and possibly many more.
-- 1977: A plane crash at José Martí International Airport in Havana, Cuba, kills 67.
-- 1975: Dibbles Bridge coach crash near Grassington, in North Yorkshire, England, kills 33 - the highest ever death toll in a road accident in the United Kingdom.
-- 1971: Pakistani forces massacre over 200 civilians, mostly Bengali Hindus, in the Bagbati massacre.
-- 1971: The Dahlerau train disaster, the worst railway accident in West Germany, kills 46 people and injures 25 near Wuppertal.
-- 1967: The U.S. Navy aircraft carrier USS John F. Kennedy is launched by Jacqueline Kennedy and her daughter Caroline.
-- 1967: Australians vote in favor of a constitutional referendum granting the Australian government the power to make laws to benefit Indigenous Australians and to count them in the national census.
-- 1965: Vietnam War: American warships begin the first bombardment of National Liberation Front targets within South Vietnam.
-- 1962: The Centralia mine fire is ignited in the town's landfill above a coal mine.
-- 1960: In Turkey, a military coup removes President Celâl Bayar and the rest of the democratic government from office.
-- 1958: First flight of the McDonnell Douglas F-4 Phantom II.
-- 1950: The Linnanmäki amusement park is opened for the first time in Helsinki.
-- 1942: World War II: In Operation Anthropoid, Reinhard Heydrich is fatally wounded in Prague; he dies of his injuries eight days later.
-- 1941: World War II: The German battleship Bismarck is sunk in the North Atlantic, killing almost 2,100 men.
-- 1941: World War II: U.S. President Franklin D. Roosevelt proclaims an "unlimited national emergency".
-- 1940: World War II: In the Le Paradis massacre, 99 soldiers from a Royal Norfolk Regiment unit are shot after surrendering to German troops; two survive.
-- 1937: In California, the Golden Gate Bridge opens to pedestrian traffic, creating a vital link between San Francisco and Marin County, California.
-- 1935: New Deal: The Supreme Court of the United States declares the National Industrial Recovery Act to be unconstitutional in A.L.A. Schechter Poultry Corp. v. United States, (295 U.S. 495).
-- 1933: New Deal: The U.S. Federal Securities Act is signed into law requiring the registration of securities with the Federal Trade Commission.
+- 2017: Former Formula One driver Takuma Sato wins his first Indianapolis 500, the first Japanese and Asian driver to do so. Double world champion Fernando Alonso retires from an engine issue in his first entry of the event.
+- 2016: Harambe, a gorilla, is shot to death after grabbing a three-year-old boy in his enclosure at the Cincinnati Zoo and Botanical Garden, resulting in widespread criticism and sparking various internet memes.
+- 2011: Malta votes on the introduction of divorce; the proposal was approved by 53% of voters, resulting in a law allowing divorce under certain conditions being enacted later in the year.
+- 2010: In West Bengal, India, the Jnaneswari Express train derailment and subsequent collision kills 148 passengers.
+- 2008: The first meeting of the Constituent Assembly of Nepal formally declares Nepal a republic, ending the 240-year reign of the Shah dynasty.
+- 2004: The Iraqi Governing Council chooses Ayad Allawi, a longtime anti-Saddam Hussein exile, as prime minister of Iraq's interim government.
+- 2003: Peter Hollingworth resigns as Governor-General of Australia following criticism of his handling of child sexual abuse allegations during his tenure as Anglican Archbishop of Brisbane.
+- 2002: The last steel girder is removed from the original World Trade Center site. Cleanup duties officially end with closing ceremonies at Ground Zero in Manhattan, New York City.
+- 1999: In Milan, Italy, after 22 years of restoration work, Leonardo da Vinci's masterpiece The Last Supper is put back on display.
+- 1998: Nuclear testing: Pakistan responds to a series of nuclear tests by India with five of its own codenamed Chagai-I, prompting the United States, Japan, and other nations to impose economic sanctions. Pakistan celebrates Youm-e-Takbir annually.
+- 1996: U.S. President Bill Clinton's former business partners in the Whitewater land deal, Jim McDougal and Susan McDougal, and the Governor of Arkansas, Jim Guy Tucker, are convicted of fraud.
+- 1995: The 7.0 Mw  Neftegorsk earthquake shakes the former Russian settlement of Neftegorsk with a maximum Mercalli intensity of IX (Violent). Total damage was $64.1-300 million, with 1,989 deaths and 750 injured. The settlement was not rebuilt.
+- 1991: The capital city of Addis Ababa falls to the Ethiopian People's Revolutionary Democratic Front, ending both the Derg regime in Ethiopia and the Ethiopian Civil War.
+- 1987: An 18-year-old West German pilot, Mathias Rust, evades Soviet Union air defences and lands a private plane in Red Square in Moscow, Russia.
+- 1979: Konstantinos Karamanlis signs the full treaty of the accession of Greece with the European Economic Community.
+- 1977: In Southgate, Kentucky, the Beverly Hills Supper Club is engulfed in fire, killing 165 people inside.
+- 1975: Fifteen West African countries sign the Treaty of Lagos, creating the Economic Community of West African States.
+- 1974: Northern Ireland's power-sharing Sunningdale Agreement collapses following a general strike by loyalists.
+- 1968: Garuda Indonesian Airways Flight 892 crashes near Nala Sopara in India, killing 30.
+- 1964: The Palestine Liberation Organization (PLO) is founded, with Yasser Arafat elected as its first leader.
+- 1961: Peter Benenson's article The Forgotten Prisoners is published in several internationally read newspapers. This will later be thought of as the founding of the human rights organization Amnesty International.
+- 1958: Cuban Revolution: Fidel Castro's 26th of July Movement, heavily reinforced by Frank Pais Militia, overwhelm an army post in El Uvero.
+- 1948: Daniel François Malan is elected as Prime Minister of South Africa. He later goes on to implement Apartheid.
+- 1940: World War II: Norwegian, French, Polish and British forces recapture Narvik in Norway. This is the first Allied infantry victory of the War.
+- 1940: World War II: Belgium surrenders to Nazi Germany to end the Battle of Belgium.
+- 1937: Volkswagen, the German automobile manufacturer, is founded.
+- 1936: Alan Turing submits On Computable Numbers for publication.
+- 1934: Near Callander, Ontario, Canada, the Dionne quintuplets are born to Oliva and Elzire Dionne; they will be the first quintuplets to survive infancy.
+- 1932: In the Netherlands, construction of the Afsluitdijk is completed and the Zuiderzee bay is converted to the freshwater IJsselmeer.
+- 1926: The 28 May 1926 coup d'état: Ditadura Nacional is established in Portugal to suppress the unrest of the First Republic.
 
 Data from muffinlabs
-*(Updated at: 2025-05-27 01:49:11 UTC)*
+*(Updated at: 2025-05-28 01:51:09 UTC)*
 
 # 历史上的今天 
 
-- -  2018年：马里兰州洪水事件：整个Patapsco山谷中发生了洪水，造成了一次死亡，摧毁了埃利科特市大街上的整个建筑物的第一层楼，并导致汽车推翻。
-- -  2017年：安德鲁·谢尔（Andrew Scheer）接任罗纳·安布罗斯（Rona Ambrose）担任加拿大保守党的领导人。
-- -  2016年：巴拉克·奥巴马（Barack Obama）是美国第一位参观广岛和平纪念公园并与希巴库沙会面的总统。
-- -  2006年：6.4兆瓦的日益卡尔塔地震摇动了中央爪哇，MSK强度为VIII（有害），造成5,700多人死亡和37,000人受伤。
-- -  2001年：伊斯兰分离主义团体阿布·塞耶夫（Abu Sayyaf）的成员从菲律宾巴拉望岛的一个富裕的岛屿度假胜地占领了二十名人质；直到2002年6月，人质危机才能解决。
-- -  1999年：航天飞机发现是在STS-96上推出的，这是与国际空间站对接的第一个航天飞机任务。
-- -  1998年：俄克拉荷马城爆炸案：迈克尔·福特尔（Michael Fortier）被判处12年徒刑，并因未能警告当局有关恐怖分子情节而被罚款200,000美元。
-- -  1997年：1997年德克萨斯州中部龙卷风爆发发生，在德克萨斯州中部产卵，其中包括在贾雷尔（Jarrell）杀死27人的F5。
-- -  1996年：第一车臣战争：俄罗斯总统鲍里斯·叶利钦（Boris Yeltsin）首次与车臣叛军会面，并进行停火。
-- -  1988年：索马里兰独立战争：索马里民族运动对哈尔吉萨（Hargeisa）和布拉奥（Hargeisa）和布拉（Burao）的索马里政府部队发动了重大攻势，当时是索马里第二大城市。
-- -  1984年：在Ceaușescus参加的仪式上开放了多瑙河黑海河。自1950年代以来，它一直在建设中。
-- -  1980年：Gwangju大屠杀：韩国的空降和陆军从民兵中夺回了Gwangju市，杀死了至少207人，可能还有更多。
-- -  1977年：在古巴哈瓦那的何塞·马丁国际机场发生飞机失事，杀死了67人。
-- -  1975年：Dibbles Bridge教练在英国北约克郡格拉辛顿附近的撞车事故，杀死了33人，这是英国道路事故中有史以来最高的死亡损失。
-- -  1971年：巴基斯坦迫使在巴巴蒂大屠杀中大屠杀200多名平民，主要是孟加拉印度教徒。
-- -  1971年：达勒劳火车灾难是西德最严重的铁路事故，杀死了46人，在沃珀塔尔附近受伤25人。
-- -  1967年：美国海军航空母舰John F. Kennedy USS由Jacqueline Kennedy和她的女儿Caroline发射。
-- -  1967年：澳大利亚人投票支持宪法全民公决，授予澳大利亚政府制定法律，以使澳大利亚原住民的法律受益并在国家人口普查中进行统计。
-- -  1965年：越南战争：美国军舰首次轰炸了南越南境内的民族解放阵线目标。
-- -  1962年：煤矿上方的垃圾填埋场点燃了中央矿山的大火。
-- -  1960年：在土耳其，军事政变将总统塞勒尔·贝加（CelâlBayar）和民主政府的其他政府撤职。
-- -  1958年：麦克唐纳·道格拉斯F-4 Phantom II的首次飞行。
-- -  1950年：Linnanmäki游乐园首次在赫尔辛基开放。
-- -  1942年：第二次世界大战：在小类运动中，莱因哈德·海德里奇（Reinhard Heydrich）在布拉格受伤。八天后，他死亡。
-- -  1941年：第二次世界大战：德国战舰的bismarck在北大西洋中沉没，杀死了近2100名男子。
-- -  1941年：第二次世界大战：美国总统富兰克林·罗斯福（Franklin D. Roosevelt）宣布“无限国家紧急情况”。
-- -  1940年：第二次世界大战：在勒帕拉迪斯大屠杀中，诺福克皇家团的99名士兵在向德国军队投降后被枪杀；两个生存。
-- -  1937年：在加利福尼亚，金门大桥向行人交通开放，在旧金山和加利福尼亚州马林县之间建立了至关重要的联系。
-- -  1935年：新协议：美国最高法院宣布《国家工业恢复法》在A.L.A.违宪。Schechter Poultry Corp.诉美国，（295 U.S. 495）。
-- -  1933年：新协议：《美国联邦证券法》已签署为法律，要求向联邦贸易委员会注册证券。
+- -  2017年：前一级方程式赛车手武玛·佐藤（Takuma Sato）赢得了他的第一个印第安纳波利斯500，这是第一位日本和亚洲司机这样做的。双世界冠军费尔南多·阿隆索（Fernando Alonso）在比赛的第一次比赛中退出了引擎问题。
+- -  2016年：大猩猩哈拉姆（Harambe）在辛辛那提动物园（Cincinnati Zoo）和植物园的围栏中抓住一个三岁男孩后被枪杀，导致广泛的批评并引发了各种互联网模因。
+- -  2011年：马耳他对离婚的引入；该提案获得了53％的选民批准，导致一项法律允许在今年晚些时候颁布的某些条件下离婚。
+- -  2010年：在印度西孟加拉邦，Jnaneswari Express火车出轨和随后的碰撞杀死了148名乘客。
+- -  2008年：尼泊尔宪法大会的第一次会议正式宣布尼泊尔共和国，结束了沙阿王朝的240年统治。
+- -  2004年：伊拉克理事会选择了伊拉克临时政府总理的长期反萨达姆·侯赛因（Ayad Allawi），这是长期的反萨达姆·侯赛因（Ayad Allawi）。
+- -  2003年：彼得·霍林沃思（Peter Hollingworth）在批评他在布里斯班的英国国教大主教任职期间批评他处理儿童性虐待指控的批评后，辞去了澳大利亚总督的职务。
+- -  2002年：最后一个钢梁从原始的世界贸易中心遗址中删除。清理职责正式结束，在纽约市曼哈顿的零地面上结束仪式。
+- -  1999年：在意大利米兰进行了22年的恢复工作，莱昂纳多·达·芬奇（Leonardo da Vinci）的杰作《最后的晚餐》被放回了。
+- -  1998年：核试验：巴基斯坦对印度的一系列核试验作出了反应，其五个自己的代号为Chagai-I，促使美国，日本和其他国家实施经济制裁。巴基斯坦每年庆祝youm-e-takbir。
+- -  1996年：美国总统比尔·克林顿（Bill Clinton）在怀特沃特土地交易（Whitewater Land Deal），吉姆·麦克杜格尔（Jim McDougal）和苏珊·麦克杜格尔（Susan McDougal）以及阿肯色州州长吉姆·盖伊·塔克（Jim Guy Tucker）被定罪。
+- -  1995年：7.0 MW Neftegorsk地震摇动了前俄罗斯的Neftegorsk定居点，其最大的Mercalli强度为IX（暴力）。总损失为64.1-3亿美元，死亡1,989人，受伤750人。没有重建和解。
+- -  1991年：亚的斯亚贝巴首都属于埃塞俄比亚人民的革命民主战线，结束了埃塞俄比亚的Derg政权和埃塞俄比亚内战。
+- -  1987年：一名18岁的西德飞行员马蒂亚斯·鲁斯特（Mathias Rust）逃避了苏联防空，并在俄罗斯莫斯科的红广场降落了一架私人飞机。
+- -  1979年：Konstantinos Karamanlis签署了希腊与欧洲经济共同体加入的完整条约。
+- -  1977年：在肯塔基州的索斯盖特，比佛利山庄的晚餐俱乐部吞噬了火，里面杀死了165人。
+- -  1975年：15个西非国家签署了拉各斯条约，建立了西非国家的经济界。
+- -  1974年：北爱尔兰的权力共享协议在忠诚主义者的大罢工后瓦解。
+- -  1968年：印度尼西亚航空公司在印度的纳拉·索帕拉附近撞车892撞车，造成30人丧生。
+- -  1964年：巴勒斯坦解放组织（PLO）建立，Yasser Arafat当选为首位领导人。
+- -  1961年：彼得·贝伦森（Peter Benenson）的文章《被遗忘的囚犯》发表在几家国际报纸上。后来，这将被认为是国际大赦国际的建立。
+- -  1958年：古巴革命：菲德尔·卡斯特罗（Fidel Castro）的七月26日运动，由弗兰克·佩斯（Frank Pais）民兵大力加强，压倒了埃尔·乌韦罗（El Uvero）的陆军哨所。
+- -  1948年：丹尼尔·弗朗索瓦·马兰（DanielFrançoisMalan）当选为南非总理。后来他继续实施种族隔离。
+- -  1940年：第二次世界大战：挪威，法国，波兰和英军夺回挪威的纳维克。这是战争的首次盟军胜利。
+- -  1940年：第二次世界大战：比利时向纳粹德国投降以结束比利时战役。
+- -  1937年：德国汽车制造商大众汽车是成立的。
+- -  1936年：艾伦·图灵（Alan Turing）提交了可计算的数字进行出版。
+- -  1934年：在加拿大安大略省的Callander附近，Dionne Quintuplets出生于Oliva和Elzire Dionne。他们将是第一个在婴儿期生存的五重奏。
+- -  1932年：在荷兰，Afsluitdijk的建设完成，Zuiderzee湾转换为淡水IJSSELMEER。
+- -  1926年：1926年5月28日，政变：迪塔杜拉·纳西奇（Ditadura Nacional）在葡萄牙建立，以抑制第一共和国的动乱。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-05-27 01:49:11 UTC）*
+*（更新于: 2025-05-28 01:51:09 UTC）*
