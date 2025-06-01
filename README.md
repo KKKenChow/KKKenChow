@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: A shooting occurs inside a municipal building at Virginia Beach, Virginia, leaving 13 people dead, including the shooter, and four others injured.
-- 2017: A car bomb explodes in a crowded intersection in Kabul near the German embassy during rush hour, killing over 90 and injuring 463.
-- 2016: Syrian civil war: The Syrian Democratic Forces (SDF) launch the Manbij offensive, in order to capture the city of Manbij from the Islamic State of Iraq and the Levant (ISIL).
-- 2013: A record breaking 2.6 mile wide tornado strikes near El Reno, Oklahoma, United States, causing eight fatalities (including three storm chasers) and over 150 injuries.
-- 2013: The asteroid 1998 QE2 and its moon make their closest approach to Earth for the next two centuries.
-- 2010: Israeli Shayetet 13 commandos boarded the Gaza Freedom Flotilla while still in international waters trying to break the ongoing blockade of the Gaza Strip; nine Turkish citizens on the flotilla were killed in the ensuing violent affray.
-- 2008: Usain Bolt breaks the world record in the 100m sprint, with a wind-legal (+1.7 m/s) 9.72 seconds
-- 2005: Vanity Fair reveals that Mark Felt was "Deep Throat".
-- 2003: Air France retires its fleet of Concorde aircraft.
-- 1991: Bicesse Accords in Angola lay out a transition to multi-party democracy under the supervision of the United Nations' UNAVEM II peacekeeping mission.
-- 1985: United States-Canada tornado outbreak: Forty-one tornadoes hit Ohio, Pennsylvania, New York, and Ontario, leaving 76 dead.
-- 1977: The Trans-Alaska Pipeline System is completed.
-- 1973: Indian Airlines Flight 440 crashes near Palam Airport in Delhi, killing 48.
-- 1973: The United States Senate votes to cut off funding for the bombing of Khmer Rouge targets within Cambodia, hastening the end of the Cambodian Civil War.
-- 1971: In accordance with the Uniform Monday Holiday Act passed by the U.S. Congress in 1968, observation of Memorial Day occurs on the last Monday in May for the first time, rather than on the traditional Memorial Day of May 30.
-- 1970: The 7.9 Mw  Ancash earthquake shakes Peru with a maximum Mercalli intensity of VIII (Severe) and a landslide buries the town of Yungay, Peru. Between 66,794 and 70,000 were killed and 50,000 were injured.
-- 1962: The West Indies Federation dissolves.
-- 1961: In Moscow City Court, the Rokotov-Faibishenko show trial begins, despite the Khrushchev Thaw to reverse Stalinist elements in Soviet society.
-- 1961: The South African Constitution of 1961 becomes effective, thus creating the Republic of South Africa, which remains outside the Commonwealth of Nations until 1 June 1994, when South Africa is returned to Commonwealth membership.
-- 1955: The U.S. Supreme Court expands on its Brown v. Board of Education decision by ordering district courts and school districts to enforce educational desegregation "at all deliberate speed."
-- 1951: The Uniform Code of Military Justice takes effect as the legal system of the United States Armed Forces.
-- 1947: Ferenc Nagy, the democratically elected Prime Minister of Hungary, resigns from office after blackmail from the Hungarian Communist Party accusing him of being part of a plot against the state. This grants the Communists effective control of the Hungarian government.
-- 1942: World War II: Imperial Japanese Navy midget submarines begin a series of attacks on Sydney, Australia.
-- 1941: Anglo-Iraqi War: The United Kingdom completes the re-occupation of Iraq and returns 'Abd al-Ilah to power as regent for Faisal II.
-- 1935: A 7.7 Mw  earthquake destroys Quetta in modern-day Pakistan killing 40,000.
-- 1924: Hope Development School fire kills 24 people, mostly disabled children.
-- 1921: The Tulsa race massacre kills at least 39, but other estimates of black fatalities vary from 55 to about 300.
-- 1916: World War I: Battle of Jutland: The British Grand Fleet engages the High Seas Fleet in the largest naval battle of the war, which proves indecisive.
-- 1911: The President of Mexico Porfirio Díaz flees the country during the Mexican Revolution.
-- 1911: The RMS Titanic is launched in Belfast, Northern Ireland.
+- 2015: A ship carrying 458 people capsizes in the Yangtze river in China's Hubei province, killing 442 people.
+- 2011: Space Shuttle Endeavour makes its final landing after 25 flights.
+- 2011: A rare tornado outbreak occurs in New England; a strong EF3 tornado strikes Springfield, Massachusetts, during the event, killing four people.
+- 2009: General Motors files for Chapter 11 bankruptcy. It is the fourth largest United States bankruptcy in history.
+- 2009: Air France Flight 447 crashes into the Atlantic Ocean off the coast of Brazil on a flight from Rio de Janeiro to Paris. All 228 passengers and crew are killed.
+- 2008: A fire on the back lot of Universal Studios breaks out, destroying the attraction King Kong Encounter and a large archive of master tapes for music and film, the full extent of which was not revealed until 2019.
+- 2004: Oklahoma City bombing co-conspirator Terry Nichols is sentenced to 161 consecutive life terms without the possibility of parole.
+- 2001: Dolphinarium discotheque massacre: A Hamas suicide bomber kills 21 at a disco in Tel Aviv.
+- 2001: Nepalese royal massacre: Crown Prince Dipendra of Nepal shoots and kills several members of his family including his father and mother.
+- 1999: American Airlines Flight 1420 slides and crashes while landing at Little Rock National Airport, killing 11 people on a flight from Dallas to Little Rock.
+- 1994: Republic of South Africa becomes a republic in the Commonwealth of Nations.
+- 1993: Dobrinja mortar attack: Thirteen are killed and 133 wounded when Serb mortar shells are fired at a soccer game in Dobrinja, west of Sarajevo.
+- 1990: Cold War: George H. W. Bush and Mikhail Gorbachev sign a treaty to end chemical weapon production.
+- 1988: The Intermediate-Range Nuclear Forces Treaty comes into effect.
+- 1988: European Central Bank is founded in Brussels.
+- 1980: Cable News Network (CNN) begins broadcasting.
+- 1979: The first black-led government of Rhodesia (now Zimbabwe) in 90 years takes power.
+- 1978: The first international applications under the Patent Cooperation Treaty are filed.
+- 1976: Aeroflot Flight 418 crashes in Bioko, Equatorial Guinea, killing 46.
+- 1975: The Patriotic Union of Kurdistan was founded by Jalal Talabani, Nawshirwan Mustafa, Fuad Masum and others.
+- 1974: The Heimlich maneuver for rescuing choking victims is published in the journal Emergency Medicine.
+- 1964: Kenya becomes a republic with Jomo Kenyatta  as its first President.
+- 1962: Adolf Eichmann, former SS officer in Nazi Germany, is hanged in Israel for having committed crimes against humanity, war crimes, and other offenses.
+- 1961: The Canadian Bank of Commerce and Imperial Bank of Canada merge to form the Canadian Imperial Bank of Commerce, the largest bank merger in Canadian history.
+- 1958: Charles de Gaulle comes out of retirement to lead France by decree for six months.
+- 1950: The Chinchaga fire ignites. By September, it would become the largest single fire on record in North America.
+- 1950: The Declaration of Conscience speech, by U.S. Senator from Maine, Margaret Chase Smith, is delivered in response to Joseph R. McCarthy's speech at Wheeling, West Virginia.
+- 1946: Ion Antonescu, "Conducator" ("Leader") of Romania during World War II, is executed.
+- 1943: BOAC Flight 777 is shot down over the Bay of Biscay by German Junkers Ju 88s, killing British actor Leslie Howard and leading to speculation that it was actually an attempt to kill British Prime Minister Winston Churchill.
+- 1941: The Farhud, a massive pogrom in Iraq, starts and as a result, many Iraqi Jews are forced to leave their homes.
 
 Data from muffinlabs
-*(Updated at: 2025-05-31 01:48:20 UTC)*
+*(Updated at: 2025-06-01 02:08:35 UTC)*
 
 # 历史上的今天 
 
-- -  2019年：枪击事件发生在弗吉尼亚州弗吉尼亚海滩的市政大楼内，造成13人死亡，包括射手，另外四人受伤。
-- -  2017年：一枚汽车炸弹在高峰时段在德国大使馆附近的喀布尔的一个拥挤的十字路口爆炸，造成90多人炸死463人。
-- -  2016年：叙利亚内战：叙利亚民主力量（SDF）发动了曼比亚进攻，以便从伊拉克伊斯兰国和黎凡特（ISIL）中夺取曼比吉市。
-- -  2013年：在美国俄克拉荷马州埃尔雷诺附近的2.6英里宽龙卷风中打破了2.6英里宽的龙卷风，造成了八人死亡（包括三名风暴追捕者）和150多人受伤。
-- -2013：小行星1998 QE2及其月亮在接下来的两个世纪中最接近地球。
-- -  2010年：以色列Shayetet 13突击队在仍在国际水域中登上加沙自由舰队，试图打破对加沙地带的持续封锁；在随后的暴力殴打中丧生，船上的9名土耳其公民被杀。
-- -2008：Usain Bolt在100m冲刺中打破了世界纪录，风力法（+1.7 m/s）9.72秒
-- -  2005年：名利场揭示了马克感觉是“深喉咙”。
-- -  2003年：法国航空公司退役了协和飞机。
-- -  1991年：在联合国的Unavem II维和任务的监督下，安哥拉的双方协定将向多党民主的过渡。
-- -  1985年：美国加拿大龙卷风爆发：宾夕法尼亚州，纽约和安大略省的四十一台龙卷风袭击，造成76人死亡。
-- -  1977年：Trans-Alaska管道系统已完成。
-- -  1973年：印度航空公司在德里的帕拉姆机场附近的440次撞车事故，杀死了48。
-- -  1973年：美国参议院投票决定削减柬埔寨内战争中红色高棉目标的资金，从而加剧了柬埔寨内战的结束。
-- -  1971年：根据美国国会于1968年通过的《统一星期一假日法》，对阵亡将士纪念日的观察发生在5月的最后一个星期一，而不是在5月30日的传统阵亡将士纪念日。
-- -  1970年：7.9 MW的Ancash地震摇动秘鲁，最大的Mercalli强度为VIII（严重），而滑坡埋葬了秘鲁Yungay镇。66,794至70,000人丧生，50,000人受伤。
-- -  1962年：西印度群岛联合会解散。
-- -  1961年：在莫斯科市法院，尽管赫鲁晓夫融化以逆转苏联社会的斯大林主义元素，但罗科托夫·菲比申科秀审判仍开始。
-- -  1961年：1961年的南非宪法变得有效，从而创造了南非共和国，该共和国一直在国家以外的国家之外，直到1994年6月1日，南非被送回英联邦会员。
-- -  1955年：美国最高法院通过命令地方法院和学区命令“以所有故意的速度”执行教育种族隔离，扩大了其Brown诉教育委员会的决定。
-- -  1951年：《军事司法法典》作为美国武装部队的法律制度生效。
-- -  1947年：民主选举的匈牙利总理费伦斯·纳吉（Ferenc Nagy）在匈牙利共产党的勒索后辞职，指责他是反对国家的阴谋的一部分。这使共产党有效控制了匈牙利政府。
-- -  1942年：第二次世界大战：日本帝国海军侏儒潜艇开始对澳大利亚悉尼的一系列袭击。
-- -  1941年：盎格鲁 - 伊拉克战争：英国完成了伊拉克的重新占领，并返回了阿卜杜勒·阿拉（Abd al-ilah）作为faisal II的摄政王。
-- -  1935年：7.7 MW地震摧毁了现代巴基斯坦杀死40,000的奎达。
-- -  1924年：希望开发学校的火灾杀死24人，主要是残疾儿童。
-- -  1921年：塔尔萨种族大屠杀至少杀死39人，但黑人死亡人数的其他估计从55到约300。
-- -  1916年：第一次世界大战：朱兰德战役：英国大舰队参与了最大的战争海军战役，这证明是优柔寡断的。
-- -  1911年：墨西哥波菲里奥·迪亚兹（PorfirioDíaz）的总统在墨西哥革命期间逃离了该国。
-- -  1911年：RMS泰坦尼克号在北爱尔兰贝尔法斯特发射。
+- -  2015年：一艘载有458人的船在中国湖北省的长江倾斜，造成442人丧生。
+- -  2011年：航天飞机努力在25次飞行后登陆。
+- -  2011年：罕见的龙卷风爆发发生在新英格兰；在活动期间，强大的EF3龙卷风袭击了马萨诸塞州的斯普林菲尔德，杀死了四人。
+- -2009：第11章破产的通用汽车文件。它是历史上第四大破产。
+- -  2009年：法国航班447航班在从里约热内卢到巴黎的一艘航班上撞向巴西海岸的大西洋。所有228名乘客和机组人员都被杀。
+- -  2008年：背部的大火环球影城爆发了大火，破坏了King Kong的吸引力和音乐和电影的大型主磁带档案，直到2019年才揭示其全部内容。
+- -  2004年：俄克拉荷马城轰炸的同谋特里·尼科尔斯（Terry Nichols）连续判处161个无期徒刑，而没有假释的可能性。
+- -  2001年：海豚迪斯科舞会大屠杀：哈马斯自杀炸弹袭击者在特拉维夫的一家迪斯科舞厅杀死了21人。
+- -  2001年：尼泊尔皇家大屠杀：尼泊尔王子迪本德拉王子射击，杀死了他的家人的几名成员，包括他的父亲和母亲。
+- -  1999年：美国航空公司1420台幻灯片和撞车事故，降落在小石城国家机场时，从达拉斯飞往小石城的飞机中杀死了11人。
+- -  1994年：南非共和国成为国家联邦的共和国。
+- -  1993年：Dobrinja迫击炮袭击：13人丧生，133人在萨拉热窝以西Dobrinja的一场足球比赛中开枪时遭到了133人伤害。
+- -  1990年：冷战：乔治·H·布什（George H. W.
+- -  1988年：中等范围的核力量条约生效。
+- -  1988年：欧洲中央银行成立于布鲁塞尔。
+- -  1980年：有线新闻网（CNN）开始广播。
+- -  1979年：90年来的第一个黑人领导的罗得西亚政府（现为津巴布韦）掌权。
+- -  1978年：提出了《专利合作条约》下的第一份国际申请。
+- -  1976年：Aeroflot航班418在赤道几内亚的Bioko发生撞车事故，杀死46。
+- -  1975年：库尔德斯坦的爱国联盟是由Jalal Talabani，Nawshirwan Mustafa，Fuad Masum等建立的。
+- -  1974年：海姆利希（Heimlich）救援受害者的动作发表在《急诊医学》杂志上。
+- -  1964年：肯尼亚成为乔莫·肯雅塔（Jomo Kenyatta）的共和国，成为其第一任总统。
+- -  1962年：纳粹德国前党卫军官员阿道夫·艾希曼（Adolf Eichmann）因犯有针对人类，战争罪和其他罪行的罪行而被绞死在以色列。
+- -  1961年：加拿大商业银行和加拿大帝国银行合并，形成加拿大帝国商业银行，这是加拿大历史上最大的银行合并。
+- -  1958年：查尔斯·戴高勒（Charles de Gaulle）退休后通过法令领导法国六个月。
+- -  1950年：奇查加（Chinchaga Fire）点燃。到9月，它将成为北美记录中最大的一大火。
+- -  1950年：缅因州参议员玛格丽特·蔡斯·史密斯（Margaret Chase Smith）的良心言论宣言，以回应约瑟夫·麦卡锡（Joseph R. McCarthy）在西弗吉尼亚州惠林的讲话。
+- -  1946年：第二次世界大战期间罗马尼亚的“有诱导者”（“领导者”）被执行。
+- -  1943年：BOAC 777航班被德国的垃圾ju 88击中了比斯开湾，杀死了英国演员莱斯利·霍华德（Leslie Howard），并导致人们猜测这实际上是试图杀死英国首相温斯顿·丘吉尔（Winston Churchill）的企图。
+- -  1941年：伊拉克大屠杀的法胡德（Farhud）开始，结果，许多伊拉克犹太人被迫离开家园。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-05-31 01:48:20 UTC）*
+*（更新于: 2025-06-01 02:08:35 UTC）*
