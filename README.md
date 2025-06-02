@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2015: A ship carrying 458 people capsizes in the Yangtze river in China's Hubei province, killing 442 people.
-- 2011: Space Shuttle Endeavour makes its final landing after 25 flights.
-- 2011: A rare tornado outbreak occurs in New England; a strong EF3 tornado strikes Springfield, Massachusetts, during the event, killing four people.
-- 2009: General Motors files for Chapter 11 bankruptcy. It is the fourth largest United States bankruptcy in history.
-- 2009: Air France Flight 447 crashes into the Atlantic Ocean off the coast of Brazil on a flight from Rio de Janeiro to Paris. All 228 passengers and crew are killed.
-- 2008: A fire on the back lot of Universal Studios breaks out, destroying the attraction King Kong Encounter and a large archive of master tapes for music and film, the full extent of which was not revealed until 2019.
-- 2004: Oklahoma City bombing co-conspirator Terry Nichols is sentenced to 161 consecutive life terms without the possibility of parole.
-- 2001: Dolphinarium discotheque massacre: A Hamas suicide bomber kills 21 at a disco in Tel Aviv.
-- 2001: Nepalese royal massacre: Crown Prince Dipendra of Nepal shoots and kills several members of his family including his father and mother.
-- 1999: American Airlines Flight 1420 slides and crashes while landing at Little Rock National Airport, killing 11 people on a flight from Dallas to Little Rock.
-- 1994: Republic of South Africa becomes a republic in the Commonwealth of Nations.
-- 1993: Dobrinja mortar attack: Thirteen are killed and 133 wounded when Serb mortar shells are fired at a soccer game in Dobrinja, west of Sarajevo.
-- 1990: Cold War: George H. W. Bush and Mikhail Gorbachev sign a treaty to end chemical weapon production.
-- 1988: The Intermediate-Range Nuclear Forces Treaty comes into effect.
-- 1988: European Central Bank is founded in Brussels.
-- 1980: Cable News Network (CNN) begins broadcasting.
-- 1979: The first black-led government of Rhodesia (now Zimbabwe) in 90 years takes power.
-- 1978: The first international applications under the Patent Cooperation Treaty are filed.
-- 1976: Aeroflot Flight 418 crashes in Bioko, Equatorial Guinea, killing 46.
-- 1975: The Patriotic Union of Kurdistan was founded by Jalal Talabani, Nawshirwan Mustafa, Fuad Masum and others.
-- 1974: The Heimlich maneuver for rescuing choking victims is published in the journal Emergency Medicine.
-- 1964: Kenya becomes a republic with Jomo Kenyatta  as its first President.
-- 1962: Adolf Eichmann, former SS officer in Nazi Germany, is hanged in Israel for having committed crimes against humanity, war crimes, and other offenses.
-- 1961: The Canadian Bank of Commerce and Imperial Bank of Canada merge to form the Canadian Imperial Bank of Commerce, the largest bank merger in Canadian history.
-- 1958: Charles de Gaulle comes out of retirement to lead France by decree for six months.
-- 1950: The Chinchaga fire ignites. By September, it would become the largest single fire on record in North America.
-- 1950: The Declaration of Conscience speech, by U.S. Senator from Maine, Margaret Chase Smith, is delivered in response to Joseph R. McCarthy's speech at Wheeling, West Virginia.
-- 1946: Ion Antonescu, "Conducator" ("Leader") of Romania during World War II, is executed.
-- 1943: BOAC Flight 777 is shot down over the Bay of Biscay by German Junkers Ju 88s, killing British actor Leslie Howard and leading to speculation that it was actually an attempt to kill British Prime Minister Winston Churchill.
-- 1941: The Farhud, a massive pogrom in Iraq, starts and as a result, many Iraqi Jews are forced to leave their homes.
+- 2023: A collision between two passenger trains and a parked freight train near the city of Balasor, Odisha in eastern India, results in 296 deaths and more than 1,200 people injured.
+- 2022: Following a request from Ankara, the United Nations officially changed the name of the Republic of Turkey in the organization from what was previously known as "Turkey" to "Türkiye".
+- 2014: Telangana officially becomes the 29th state of India, formed from ten districts of northwestern Andhra Pradesh.
+- 2012: Former Egyptian President Hosni Mubarak is sentenced to life imprisonment for his role in the killing of demonstrators during the 2011 Egyptian revolution.
+- 2003: Europe launches its first voyage to another planet, Mars. The European Space Agency's Mars Express probe launches from the Baikonur space center in Kazakhstan.
+- 1998: Space Shuttle Discovery is launched on STS-91, the final mission of the Shuttle-Mir program.
+- 1997: In Denver, Timothy McVeigh is convicted on 15 counts of murder and conspiracy for his role in the 1995 bombing of the Alfred P. Murrah Federal Building in Oklahoma City, in which 168 people died. He was executed four years later.
+- 1990: The Lower Ohio Valley tornado outbreak spawns 66 confirmed tornadoes in Illinois, Indiana, Kentucky, and Ohio, killing 12.
+- 1983: After an emergency landing because of an in-flight fire, twenty-three passengers aboard Air Canada Flight 797 are killed when a flashover occurs as the plane's doors open. Because of this incident, numerous new safety regulations are put in place.
+- 1979: Pope John Paul II starts his first official visit to his native Poland, becoming the first Pope to visit a Communist country.
+- 1967: Protests in West Berlin against the arrival of the Shah of Iran are brutally suppressed, during which Benno Ohnesorg is killed by a police officer. His death results in the founding of the terrorist group Movement 2 June.
+- 1967: Luis Monge is executed in Colorado's gas chamber, in the last pre-Furman execution in the United States.
+- 1966: Surveyor program: Surveyor 1 lands in Oceanus Procellarum on the Moon, becoming the first U.S. spacecraft to soft-land on another world.
+- 1964: The Palestine Liberation Organization (PLO) is formed.
+- 1962: During the FIFA World Cup, police had to intervene multiple times in fights between Chilean and Italian players in one of the most violent games in football history.
+- 1955: The USSR and Yugoslavia sign the Belgrade declaration and thus normalize relations between the two countries, discontinued since 1948.
+- 1953: The coronation of Queen Elizabeth II at Westminster Abbey becomes the first British coronation and one of the first major international events to be televised.
+- 1946: Birth of the Italian Republic: In a referendum, Italians vote to turn Italy from a monarchy into a Republic. After the referendum, King Umberto II of Italy is exiled.
+- 1941: World War II: German paratroopers murder Greek civilians in the villages of Kondomari and Alikianos.
+- 1924: U.S. President Calvin Coolidge signs the Indian Citizenship Act into law, granting citizenship to all Native Americans born within the territorial limits of the United States.
+- 1919: Anarchists simultaneously set off bombs in eight separate U.S. cities.
+- 1910: Charles Rolls, a co-founder of Rolls-Royce Limited, becomes the first man to make a non-stop double crossing of the English Channel by plane.
+- 1909: Alfred Deakin becomes Prime Minister of Australia for the third time.
+- 1896: Guglielmo Marconi applies for a patent for his wireless telegraph.
+- 1866: The Fenians defeat Canadian forces at Ridgeway and Fort Erie, but the raids end soon after.
+- 1848: The Slavic Congress opens in Prague.
+- 1805: Napoleonic Wars: A Franco-Spanish fleet recaptures from the British the island of Diamond Rock, which guards the entrance to the bay leading to Fort-de-France, Martinique.
+- 1793: French Revolution: François Hanriot, leader of the Parisian National Guard, arrests 22 Girondists selected by Jean-Paul Marat, setting the stage for the Reign of Terror.
+- 1780: The anti-Catholic Gordon Riots in London leave an estimated 300 to 700 people dead.
+- 1774: Intolerable Acts: The Quartering Act of 1774 is enacted, allowing a governor in colonial America to house British soldiers in uninhabited houses, outhouses, barns, or other buildings if suitable quarters are not provided.
 
 Data from muffinlabs
-*(Updated at: 2025-06-01 02:08:35 UTC)*
+*(Updated at: 2025-06-02 01:56:05 UTC)*
 
 # 历史上的今天 
 
-- -  2015年：一艘载有458人的船在中国湖北省的长江倾斜，造成442人丧生。
-- -  2011年：航天飞机努力在25次飞行后登陆。
-- -  2011年：罕见的龙卷风爆发发生在新英格兰；在活动期间，强大的EF3龙卷风袭击了马萨诸塞州的斯普林菲尔德，杀死了四人。
-- -2009：第11章破产的通用汽车文件。它是历史上第四大破产。
-- -  2009年：法国航班447航班在从里约热内卢到巴黎的一艘航班上撞向巴西海岸的大西洋。所有228名乘客和机组人员都被杀。
-- -  2008年：背部的大火环球影城爆发了大火，破坏了King Kong的吸引力和音乐和电影的大型主磁带档案，直到2019年才揭示其全部内容。
-- -  2004年：俄克拉荷马城轰炸的同谋特里·尼科尔斯（Terry Nichols）连续判处161个无期徒刑，而没有假释的可能性。
-- -  2001年：海豚迪斯科舞会大屠杀：哈马斯自杀炸弹袭击者在特拉维夫的一家迪斯科舞厅杀死了21人。
-- -  2001年：尼泊尔皇家大屠杀：尼泊尔王子迪本德拉王子射击，杀死了他的家人的几名成员，包括他的父亲和母亲。
-- -  1999年：美国航空公司1420台幻灯片和撞车事故，降落在小石城国家机场时，从达拉斯飞往小石城的飞机中杀死了11人。
-- -  1994年：南非共和国成为国家联邦的共和国。
-- -  1993年：Dobrinja迫击炮袭击：13人丧生，133人在萨拉热窝以西Dobrinja的一场足球比赛中开枪时遭到了133人伤害。
-- -  1990年：冷战：乔治·H·布什（George H. W.
-- -  1988年：中等范围的核力量条约生效。
-- -  1988年：欧洲中央银行成立于布鲁塞尔。
-- -  1980年：有线新闻网（CNN）开始广播。
-- -  1979年：90年来的第一个黑人领导的罗得西亚政府（现为津巴布韦）掌权。
-- -  1978年：提出了《专利合作条约》下的第一份国际申请。
-- -  1976年：Aeroflot航班418在赤道几内亚的Bioko发生撞车事故，杀死46。
-- -  1975年：库尔德斯坦的爱国联盟是由Jalal Talabani，Nawshirwan Mustafa，Fuad Masum等建立的。
-- -  1974年：海姆利希（Heimlich）救援受害者的动作发表在《急诊医学》杂志上。
-- -  1964年：肯尼亚成为乔莫·肯雅塔（Jomo Kenyatta）的共和国，成为其第一任总统。
-- -  1962年：纳粹德国前党卫军官员阿道夫·艾希曼（Adolf Eichmann）因犯有针对人类，战争罪和其他罪行的罪行而被绞死在以色列。
-- -  1961年：加拿大商业银行和加拿大帝国银行合并，形成加拿大帝国商业银行，这是加拿大历史上最大的银行合并。
-- -  1958年：查尔斯·戴高勒（Charles de Gaulle）退休后通过法令领导法国六个月。
-- -  1950年：奇查加（Chinchaga Fire）点燃。到9月，它将成为北美记录中最大的一大火。
-- -  1950年：缅因州参议员玛格丽特·蔡斯·史密斯（Margaret Chase Smith）的良心言论宣言，以回应约瑟夫·麦卡锡（Joseph R. McCarthy）在西弗吉尼亚州惠林的讲话。
-- -  1946年：第二次世界大战期间罗马尼亚的“有诱导者”（“领导者”）被执行。
-- -  1943年：BOAC 777航班被德国的垃圾ju 88击中了比斯开湾，杀死了英国演员莱斯利·霍华德（Leslie Howard），并导致人们猜测这实际上是试图杀死英国首相温斯顿·丘吉尔（Winston Churchill）的企图。
-- -  1941年：伊拉克大屠杀的法胡德（Farhud）开始，结果，许多伊拉克犹太人被迫离开家园。
+- -  2023年：两次客车火车和印度东部奥里萨邦市附近的一辆停放的货运火车之间发生碰撞，造成296人死亡，1,200人受伤。
+- -  2022年：按照安卡拉的要求，联合国正式将组织中土耳其共和国的名称从以前被称为“土耳其”的名称更改为“Türkiye”。
+- -  2014年：Telangana正式成为印度第29个州，由安得拉邦西北部十个地区组成。
+- -  2012年：前埃及总统霍斯尼·穆巴拉克（Hosni Mubarak）因在2011年埃及革命中杀害示威者中的作用而被判处无期徒刑。
+- -  2003年：欧洲首次前往另一个星球火星。欧洲航天局的火星快车调查是从哈萨克斯坦的Baikonur航天中心推出的。
+- -  1998年：航天飞机发现是在STS-91上启动的，STS-91是Shuttle-Mir计划的最后任务。
+- -  1997年：在丹佛，蒂莫西·麦克维（Timothy McVeigh）因在1995年爆炸案对俄克拉荷马城的阿尔弗雷德·P·默拉（Alfred P. Murrah）联邦大楼的轰炸中被判犯有15项谋杀和阴谋罪名，其中有168人死亡。四年后他被处决。
+- -  1990年：下俄亥俄山谷龙卷风爆发产生了66次在伊利诺伊州，印第安纳州，肯塔基州和俄亥俄州确认龙卷风，杀死了12。
+- -  1983年：由于飞机上的火灾，紧急登陆后，加拿大航空797航班上的23名乘客在飞机开放时发生闪存时被杀死。由于这一事件，制定了许多新的安全法规。
+- -  1979年：教皇约翰·保罗二世开始首次正式访问他的祖国波兰，成为第一个访问共产主义国家的教皇。
+- -  1967年：西柏林的抗议活动反对伊朗沙阿的到来，被残酷地镇压，在此期间，本诺·奥尼诺格（Benno Ohnesorg）被警察杀害。他的死亡导致6月2日恐怖组织运动的建立。
+- -  1967年：路易斯·蒙格（Luis Monge）在美国的最后一场前战前处决。
+- -  1966年：测量师计划：测量师1土地在月球上的大洋洲Procellarum，成为第一个在另一个世界上软地带的美国航天器。
+- -  1964年：形成了巴勒斯坦解放组织（PLO）。
+- -  1962年：在FIFA世界杯期间，警察在足球历史上最暴力的比赛之一中不得不多次干预智利和意大利球员之间的战斗。
+- -  1955年：苏联和南斯拉夫签署了《贝尔格莱德宣言》，因此使两国之间的关系正常化，自1948年以来停产。
+- -  1953年：威斯敏斯特大教堂（Westminster Abbey）的伊丽莎白女王二世（Queen Elizabeth II）的加冕典礼成为英国加冕典礼，也是第一次进行电视转播的主要国际活动之一。
+- -  1946年：意大利共和国的诞生：在全民公决中，意大利人投票将意大利从君主制转变为共和国。全民公决后，意大利国王乌姆贝托二世被流放。
+- -  1941年：第二次世界大战：德国伞兵在康多马里和艾利基亚诺斯村庄谋杀希腊平民。
+- -  1924年：美国总统加尔文·柯立芝（Calvin Coolidge）将《印度公民法案》签署为法律，并向所有在美国领土范围内出生的美洲原住民授予公民身份。
+- -  1919年：无政府主义者同时在八个独立的美国城市中炸毁了炸弹。
+- -  1910年：劳斯莱斯有限公司的联合创始人查尔斯·罗尔斯（Charles Rolls）成为第一个乘飞机不停地对英语通道进行不间断双重交叉的人。
+- -  1909年：阿尔弗雷德·迪肯（Alfred Deakin）第三次成为澳大利亚总理。
+- -  1896年：Guglielmo Marconi申请了无线电报的专利。
+- -  1866年：芬尼人在里奇韦（Ridgeway）和伊利堡（Fort Erie）击败加拿大部队，但突袭不久之后就结束了。
+- -  1848年：斯拉夫国会在布拉格开放。
+- -  1805年：拿破仑战争：佛朗哥 - 西班牙舰队从英国钻石岩石岛夺回，该岛守护着海湾的入口，通往马提尼克堡堡。
+- -  1793年：法国大革命：巴黎国民警卫队的领导人弗朗索瓦·汉丽奥特（FrançoisHanriot）逮捕了让·帕尔·马拉特（Jean-Paul Marat）选出的22名吉隆特主义者，为恐怖统治奠定了基础。
+- -  1780年：伦敦的反天主教戈登暴动估计有300至700人死亡。
+- -  1774年：无法容忍的法案：制定了1774年的《四分之一法》，允许美国殖民地的一名州长在无人居住的房屋，外屋，谷仓或其他建筑物中容纳英国士兵，如果不提供合适的宿舍。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-06-01 02:08:35 UTC）*
+*（更新于: 2025-06-02 01:56:05 UTC）*
