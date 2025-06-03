@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: A collision between two passenger trains and a parked freight train near the city of Balasor, Odisha in eastern India, results in 296 deaths and more than 1,200 people injured.
-- 2022: Following a request from Ankara, the United Nations officially changed the name of the Republic of Turkey in the organization from what was previously known as "Turkey" to "Türkiye".
-- 2014: Telangana officially becomes the 29th state of India, formed from ten districts of northwestern Andhra Pradesh.
-- 2012: Former Egyptian President Hosni Mubarak is sentenced to life imprisonment for his role in the killing of demonstrators during the 2011 Egyptian revolution.
-- 2003: Europe launches its first voyage to another planet, Mars. The European Space Agency's Mars Express probe launches from the Baikonur space center in Kazakhstan.
-- 1998: Space Shuttle Discovery is launched on STS-91, the final mission of the Shuttle-Mir program.
-- 1997: In Denver, Timothy McVeigh is convicted on 15 counts of murder and conspiracy for his role in the 1995 bombing of the Alfred P. Murrah Federal Building in Oklahoma City, in which 168 people died. He was executed four years later.
-- 1990: The Lower Ohio Valley tornado outbreak spawns 66 confirmed tornadoes in Illinois, Indiana, Kentucky, and Ohio, killing 12.
-- 1983: After an emergency landing because of an in-flight fire, twenty-three passengers aboard Air Canada Flight 797 are killed when a flashover occurs as the plane's doors open. Because of this incident, numerous new safety regulations are put in place.
-- 1979: Pope John Paul II starts his first official visit to his native Poland, becoming the first Pope to visit a Communist country.
-- 1967: Protests in West Berlin against the arrival of the Shah of Iran are brutally suppressed, during which Benno Ohnesorg is killed by a police officer. His death results in the founding of the terrorist group Movement 2 June.
-- 1967: Luis Monge is executed in Colorado's gas chamber, in the last pre-Furman execution in the United States.
-- 1966: Surveyor program: Surveyor 1 lands in Oceanus Procellarum on the Moon, becoming the first U.S. spacecraft to soft-land on another world.
-- 1964: The Palestine Liberation Organization (PLO) is formed.
-- 1962: During the FIFA World Cup, police had to intervene multiple times in fights between Chilean and Italian players in one of the most violent games in football history.
-- 1955: The USSR and Yugoslavia sign the Belgrade declaration and thus normalize relations between the two countries, discontinued since 1948.
-- 1953: The coronation of Queen Elizabeth II at Westminster Abbey becomes the first British coronation and one of the first major international events to be televised.
-- 1946: Birth of the Italian Republic: In a referendum, Italians vote to turn Italy from a monarchy into a Republic. After the referendum, King Umberto II of Italy is exiled.
-- 1941: World War II: German paratroopers murder Greek civilians in the villages of Kondomari and Alikianos.
-- 1924: U.S. President Calvin Coolidge signs the Indian Citizenship Act into law, granting citizenship to all Native Americans born within the territorial limits of the United States.
-- 1919: Anarchists simultaneously set off bombs in eight separate U.S. cities.
-- 1910: Charles Rolls, a co-founder of Rolls-Royce Limited, becomes the first man to make a non-stop double crossing of the English Channel by plane.
-- 1909: Alfred Deakin becomes Prime Minister of Australia for the third time.
-- 1896: Guglielmo Marconi applies for a patent for his wireless telegraph.
-- 1866: The Fenians defeat Canadian forces at Ridgeway and Fort Erie, but the raids end soon after.
-- 1848: The Slavic Congress opens in Prague.
-- 1805: Napoleonic Wars: A Franco-Spanish fleet recaptures from the British the island of Diamond Rock, which guards the entrance to the bay leading to Fort-de-France, Martinique.
-- 1793: French Revolution: François Hanriot, leader of the Parisian National Guard, arrests 22 Girondists selected by Jean-Paul Marat, setting the stage for the Reign of Terror.
-- 1780: The anti-Catholic Gordon Riots in London leave an estimated 300 to 700 people dead.
-- 1774: Intolerable Acts: The Quartering Act of 1774 is enacted, allowing a governor in colonial America to house British soldiers in uninhabited houses, outhouses, barns, or other buildings if suitable quarters are not provided.
+- 2019: Khartoum massacre: In Sudan, over 100 people are killed when security forces accompanied by Janjaweed militiamen storm and open fire on a sit-in protest.
+- 2013: At least 119 people are killed in a fire at a poultry farm in Jilin Province in northeastern China.
+- 2013: The trial of United States Army private Chelsea Manning for leaking classified material to WikiLeaks begins in Fort Meade, Maryland.
+- 2012: The pageant for the Diamond Jubilee of Elizabeth II takes place on the River Thames.
+- 2012: A plane carrying 153 people on board crashes in a residential neighborhood in Lagos, Nigeria, killing everyone on board and six people on the ground.
+- 2006: The union of Serbia and Montenegro comes to an end with Montenegro's formal declaration of independence.
+- 1998: After suffering a mechanical failure, a high speed train derails at Eschede, Germany, killing 101 people.
+- 1992: Australian Aboriginal land rights are recognised in Mabo v Queensland (No 2), a case brought by Torres Strait Islander Eddie Mabo which led to the Native Title Act 1993  overturning the long-held colonial assumption of terra nullius.
+- 1991: Mount Unzen erupts in Kyūshū, Japan, killing 43 people, all of them either researchers or journalists.
+- 1989: The government of China sends troops to force protesters out of Tiananmen Square after seven weeks of occupation.
+- 1984: Operation Blue Star, a military offensive, is launched by the Indian government at Harmandir Sahib, also known as the Golden Temple, the holiest shrine for Sikhs, in Amritsar. The operation continues until June 6, with casualties, most of them civilians, in excess of 5,000.
+- 1982: The Israeli ambassador to the United Kingdom, Shlomo Argov, is shot on a London street; he survives but is left paralysed.
+- 1980: The 1980 Grand Island tornado outbreak hits Nebraska, United States, causing five deaths and $300 million (equivalent to $1145 million in 2024) worth of damage.
+- 1979: A blowout at the Ixtoc I oil well in the southern Gulf of Mexico causes at least 3,000,000 barrels (480,000 m3) of oil to be spilled into the waters, the second-worst accidental oil spill ever recorded.
+- 1973: A Soviet supersonic Tupolev Tu-144 crashes near Goussainville, France, killing 14, the first crash of a supersonic passenger aircraft.
+- 1969: Melbourne-Evans collision: off the coast of South Vietnam, the Australian aircraft carrier HMAS Melbourne cuts the U.S. Navy destroyer USS Frank E. Evans in half; resulting in 74 deaths.
+- 1965: The launch of Gemini 4, the first multi-day space mission by a NASA crew. Ed White, a crew member, performs the first American spacewalk.
+- 1963: Soldiers of the South Vietnamese Army attack protesting Buddhists in Huế with liquid chemicals from tear-gas grenades, causing 67 people to be hospitalized for blistering of the skin and respiratory ailments.
+- 1962: At Paris Orly Airport, Air France Flight 007 overruns the runway and explodes when the crew attempts to abort takeoff, killing 130.
+- 1950: Herzog and Lachenal of the French Annapurna expedition become the first climbers to reach the summit of an 8,000-metre peak.
+- 1943: In Los Angeles, California, white U.S. Navy sailors and Marines attack Latino youths in the five-day Zoot Suit Riots.
+- 1942: World War II: Japan begins the Aleutian Islands Campaign by bombing Unalaska Island.
+- 1941: World War II: The Wehrmacht razes the Greek village of Kandanos to the ground and murders 180 of its inhabitants.
+- 1940: Franz Rademacher proposes plans to make Madagascar the "Jewish homeland", an idea that had first been considered by 19th century journalist Theodor Herzl.
+- 1940: World War II: During the Battle of France, the Luftwaffe bombs Paris.
+- 1937: The Duke of Windsor marries Wallis Simpson.
+- 1935: One thousand unemployed Canadian workers board freight cars in Vancouver, beginning a protest trek to Ottawa.
+- 1916: The National Defense Act is signed into law, increasing the size of the United States National Guard by 450,000 men.
+- 1889: The first long-distance electric power transmission line in the United States is completed, running 14 miles (23 km) between a generator at Willamette Falls and downtown Portland, Oregon.
+- 1885: In the last military engagement fought on Canadian soil, the Cree leader, Big Bear, escapes the North-West Mounted Police.
 
 Data from muffinlabs
-*(Updated at: 2025-06-02 01:56:05 UTC)*
+*(Updated at: 2025-06-03 01:52:51 UTC)*
 
 # 历史上的今天 
 
-- -  2023年：两次客车火车和印度东部奥里萨邦市附近的一辆停放的货运火车之间发生碰撞，造成296人死亡，1,200人受伤。
-- -  2022年：按照安卡拉的要求，联合国正式将组织中土耳其共和国的名称从以前被称为“土耳其”的名称更改为“Türkiye”。
-- -  2014年：Telangana正式成为印度第29个州，由安得拉邦西北部十个地区组成。
-- -  2012年：前埃及总统霍斯尼·穆巴拉克（Hosni Mubarak）因在2011年埃及革命中杀害示威者中的作用而被判处无期徒刑。
-- -  2003年：欧洲首次前往另一个星球火星。欧洲航天局的火星快车调查是从哈萨克斯坦的Baikonur航天中心推出的。
-- -  1998年：航天飞机发现是在STS-91上启动的，STS-91是Shuttle-Mir计划的最后任务。
-- -  1997年：在丹佛，蒂莫西·麦克维（Timothy McVeigh）因在1995年爆炸案对俄克拉荷马城的阿尔弗雷德·P·默拉（Alfred P. Murrah）联邦大楼的轰炸中被判犯有15项谋杀和阴谋罪名，其中有168人死亡。四年后他被处决。
-- -  1990年：下俄亥俄山谷龙卷风爆发产生了66次在伊利诺伊州，印第安纳州，肯塔基州和俄亥俄州确认龙卷风，杀死了12。
-- -  1983年：由于飞机上的火灾，紧急登陆后，加拿大航空797航班上的23名乘客在飞机开放时发生闪存时被杀死。由于这一事件，制定了许多新的安全法规。
-- -  1979年：教皇约翰·保罗二世开始首次正式访问他的祖国波兰，成为第一个访问共产主义国家的教皇。
-- -  1967年：西柏林的抗议活动反对伊朗沙阿的到来，被残酷地镇压，在此期间，本诺·奥尼诺格（Benno Ohnesorg）被警察杀害。他的死亡导致6月2日恐怖组织运动的建立。
-- -  1967年：路易斯·蒙格（Luis Monge）在美国的最后一场前战前处决。
-- -  1966年：测量师计划：测量师1土地在月球上的大洋洲Procellarum，成为第一个在另一个世界上软地带的美国航天器。
-- -  1964年：形成了巴勒斯坦解放组织（PLO）。
-- -  1962年：在FIFA世界杯期间，警察在足球历史上最暴力的比赛之一中不得不多次干预智利和意大利球员之间的战斗。
-- -  1955年：苏联和南斯拉夫签署了《贝尔格莱德宣言》，因此使两国之间的关系正常化，自1948年以来停产。
-- -  1953年：威斯敏斯特大教堂（Westminster Abbey）的伊丽莎白女王二世（Queen Elizabeth II）的加冕典礼成为英国加冕典礼，也是第一次进行电视转播的主要国际活动之一。
-- -  1946年：意大利共和国的诞生：在全民公决中，意大利人投票将意大利从君主制转变为共和国。全民公决后，意大利国王乌姆贝托二世被流放。
-- -  1941年：第二次世界大战：德国伞兵在康多马里和艾利基亚诺斯村庄谋杀希腊平民。
-- -  1924年：美国总统加尔文·柯立芝（Calvin Coolidge）将《印度公民法案》签署为法律，并向所有在美国领土范围内出生的美洲原住民授予公民身份。
-- -  1919年：无政府主义者同时在八个独立的美国城市中炸毁了炸弹。
-- -  1910年：劳斯莱斯有限公司的联合创始人查尔斯·罗尔斯（Charles Rolls）成为第一个乘飞机不停地对英语通道进行不间断双重交叉的人。
-- -  1909年：阿尔弗雷德·迪肯（Alfred Deakin）第三次成为澳大利亚总理。
-- -  1896年：Guglielmo Marconi申请了无线电报的专利。
-- -  1866年：芬尼人在里奇韦（Ridgeway）和伊利堡（Fort Erie）击败加拿大部队，但突袭不久之后就结束了。
-- -  1848年：斯拉夫国会在布拉格开放。
-- -  1805年：拿破仑战争：佛朗哥 - 西班牙舰队从英国钻石岩石岛夺回，该岛守护着海湾的入口，通往马提尼克堡堡。
-- -  1793年：法国大革命：巴黎国民警卫队的领导人弗朗索瓦·汉丽奥特（FrançoisHanriot）逮捕了让·帕尔·马拉特（Jean-Paul Marat）选出的22名吉隆特主义者，为恐怖统治奠定了基础。
-- -  1780年：伦敦的反天主教戈登暴动估计有300至700人死亡。
-- -  1774年：无法容忍的法案：制定了1774年的《四分之一法》，允许美国殖民地的一名州长在无人居住的房屋，外屋，谷仓或其他建筑物中容纳英国士兵，如果不提供合适的宿舍。
+- -  2019年：喀土穆大屠杀：在苏丹，当安全部队伴随着Janjaweed Mivitiamen Storm陪同并开火，进行静坐抗议时，有100多人被杀。
+- -  2013年：在中国东北部吉林省的一个家禽农场的火灾中，至少有119人在大火中丧生。
+- -  2013年：美国陆军私人切尔西·曼宁（Chelsea Manning）泄露机密材料到维基解密的审判始于马里兰州米德堡。
+- -  2012年：伊丽莎白二世钻石禧年的选美大赛发生在泰晤士河上。
+- -  2012年：一架飞机在尼日利亚拉各斯的一个住宅区中载有153人撞车，杀死了船上的所有人，地面上有6人。
+- -  2006年：塞尔维亚和黑山的联合会随着黑山正式的独立宣言即将结束。
+- -  1998年：在机械故障遭受机械故障之后，高速火车在德国的埃切德（Eschede）脱轨，杀死了101人。
+- -  1992年：澳大利亚原住民土地权利在Mabo诉昆士兰州（第2号）中得到认可，这是托雷斯海峡岛民埃迪·马博提起的这一案件，导致了1993年《本土冠军法案》，推翻了长期以来对Terra Nullius的殖民地假设。
+- -  1991年：日本丁氏山爆发，杀死了43人，他们都是研究人员或记者。
+- -  1989年：中国政府派遣部队在占领七个星期后迫使抗议者离开天安门广场。
+- -  1984年：军事攻势行动是由印度政府在阿姆利则（Amritsar）的印度政府（Harmandir Sahib）发起的。该行动一直持续到6月6日，人员伤亡，大多数是平民，超过5,000。
+- -  1982年：以色列驻英国大使Shlomo Argov在伦敦街上被枪杀；他幸存下来，但瘫痪了。
+- -  1980年：1980年的大岛龙卷风爆发袭击了美国的内布拉斯加州，造成5人死亡和3亿美元（相当于2024年的1.145亿美元）造成的损失。
+- -  1979年：在墨西哥南部的IXTOC I油井中进行的井喷造成至少3,000,000桶（480,000平方米）的石油溢出到水中，这是有史以来第二次偶然的漏油事件。
+- -  1973年：苏联超音速Tupolev Tu-144撞车在法国戈斯山维尔附近撞车，杀死了14架超音速客机的第一次撞车事故。
+- -  1969年：墨尔本 - 埃文斯（Melbourne-Evans）碰撞：澳大利亚航空母舰HMAS墨尔本在南越沿海地区切断了美国海军驱逐舰弗兰克·E·埃文斯（Frank E. Evans）的一半；导致74人死亡。
+- -  1965年：Demini 4的推出，这是NASA机组人员的第一个多日太空任务。船员埃德·怀特（Ed White）演出了第一个美国航天路。
+- -  1963年：南越军队的士兵袭击了胡ế的佛教徒，炸泪液中的液体化学物质，导致67人因对皮肤和呼吸道疾病的暴力而住院。
+- -  1962年：在巴黎奥利机场，法国航班007航班越过跑道，船员试图中止起飞，炸死130。
+- -  1950年：法国安纳布尔纳探险队（Annapurna Expedition）的赫尔佐格（Herzog and Lachenal）和拉切纳尔（Lachenal）成为第一个达到8,000米山顶的登山者。
+- -  1943年：在加利福尼亚州洛杉矶，白色的美国海军水手和海军陆战队以五天的Zoot Suit Riots袭击了拉丁裔青年。
+- -  1942年：第二次世界大战：日本通过轰炸Unalaska岛开始了阿留申群岛运动。
+- -  1941年：第二次世界大战：Wehrmacht将希腊的坎达诺斯村夷为平地，并谋杀了180名居民。
+- -  1940年：弗朗兹·拉德马赫（Franz Rademacher）提出了计划将马达加斯加（Madagascar）成为“犹太家园”，这一想法首先被19世纪的记者西奥多·赫兹（Theodor Herzl）考虑。
+- -  1940年：第二次世界大战：在法国战役期间，德国空军炸弹巴黎。
+- -  1937年：温莎公爵嫁给了瓦利斯·辛普森（Wallis Simpson）。
+- -  1935年：一千名失业的加拿大工人董事会在温哥华货车，开始抗议渥太华。
+- -  1916年：《国防法》已签署为法律，使美国国民警卫队的规模增加了45万人。
+- -  1889年：美国的第一条长距离电力输电线路已完成，在威拉米特·福尔斯（Willamette Falls）和俄勒冈州波特兰市中心的发电机之间行驶14英里（23公里）。
+- -  1885年：在最后一次在加拿大土壤上进行的军事订婚中，克里领导人大熊逃脱了西北骑警。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-06-02 01:56:05 UTC）*
+*（更新于: 2025-06-03 01:52:51 UTC）*
