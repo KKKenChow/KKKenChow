@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: Khartoum massacre: In Sudan, over 100 people are killed when security forces accompanied by Janjaweed militiamen storm and open fire on a sit-in protest.
-- 2013: At least 119 people are killed in a fire at a poultry farm in Jilin Province in northeastern China.
-- 2013: The trial of United States Army private Chelsea Manning for leaking classified material to WikiLeaks begins in Fort Meade, Maryland.
-- 2012: The pageant for the Diamond Jubilee of Elizabeth II takes place on the River Thames.
-- 2012: A plane carrying 153 people on board crashes in a residential neighborhood in Lagos, Nigeria, killing everyone on board and six people on the ground.
-- 2006: The union of Serbia and Montenegro comes to an end with Montenegro's formal declaration of independence.
-- 1998: After suffering a mechanical failure, a high speed train derails at Eschede, Germany, killing 101 people.
-- 1992: Australian Aboriginal land rights are recognised in Mabo v Queensland (No 2), a case brought by Torres Strait Islander Eddie Mabo which led to the Native Title Act 1993  overturning the long-held colonial assumption of terra nullius.
-- 1991: Mount Unzen erupts in Kyūshū, Japan, killing 43 people, all of them either researchers or journalists.
-- 1989: The government of China sends troops to force protesters out of Tiananmen Square after seven weeks of occupation.
-- 1984: Operation Blue Star, a military offensive, is launched by the Indian government at Harmandir Sahib, also known as the Golden Temple, the holiest shrine for Sikhs, in Amritsar. The operation continues until June 6, with casualties, most of them civilians, in excess of 5,000.
-- 1982: The Israeli ambassador to the United Kingdom, Shlomo Argov, is shot on a London street; he survives but is left paralysed.
-- 1980: The 1980 Grand Island tornado outbreak hits Nebraska, United States, causing five deaths and $300 million (equivalent to $1145 million in 2024) worth of damage.
-- 1979: A blowout at the Ixtoc I oil well in the southern Gulf of Mexico causes at least 3,000,000 barrels (480,000 m3) of oil to be spilled into the waters, the second-worst accidental oil spill ever recorded.
-- 1973: A Soviet supersonic Tupolev Tu-144 crashes near Goussainville, France, killing 14, the first crash of a supersonic passenger aircraft.
-- 1969: Melbourne-Evans collision: off the coast of South Vietnam, the Australian aircraft carrier HMAS Melbourne cuts the U.S. Navy destroyer USS Frank E. Evans in half; resulting in 74 deaths.
-- 1965: The launch of Gemini 4, the first multi-day space mission by a NASA crew. Ed White, a crew member, performs the first American spacewalk.
-- 1963: Soldiers of the South Vietnamese Army attack protesting Buddhists in Huế with liquid chemicals from tear-gas grenades, causing 67 people to be hospitalized for blistering of the skin and respiratory ailments.
-- 1962: At Paris Orly Airport, Air France Flight 007 overruns the runway and explodes when the crew attempts to abort takeoff, killing 130.
-- 1950: Herzog and Lachenal of the French Annapurna expedition become the first climbers to reach the summit of an 8,000-metre peak.
-- 1943: In Los Angeles, California, white U.S. Navy sailors and Marines attack Latino youths in the five-day Zoot Suit Riots.
-- 1942: World War II: Japan begins the Aleutian Islands Campaign by bombing Unalaska Island.
-- 1941: World War II: The Wehrmacht razes the Greek village of Kandanos to the ground and murders 180 of its inhabitants.
-- 1940: Franz Rademacher proposes plans to make Madagascar the "Jewish homeland", an idea that had first been considered by 19th century journalist Theodor Herzl.
-- 1940: World War II: During the Battle of France, the Luftwaffe bombs Paris.
-- 1937: The Duke of Windsor marries Wallis Simpson.
-- 1935: One thousand unemployed Canadian workers board freight cars in Vancouver, beginning a protest trek to Ottawa.
-- 1916: The National Defense Act is signed into law, increasing the size of the United States National Guard by 450,000 men.
-- 1889: The first long-distance electric power transmission line in the United States is completed, running 14 miles (23 km) between a generator at Willamette Falls and downtown Portland, Oregon.
-- 1885: In the last military engagement fought on Canadian soil, the Cree leader, Big Bear, escapes the North-West Mounted Police.
+- 2023: Four people are killed when a Cessna Citation V crashes into Mine Bank Mountain in Augusta County, Virginia.
+- 2023: Protests begin in Poland against the Duda government.
+- 2010: Falcon 9 Flight 1 is the maiden flight of the SpaceX Falcon 9 rocket, which launches from Cape Canaveral Air Force Station Space Launch Complex 40.
+- 2005: The Civic Forum of the Romanians of Covasna, Harghita and Mureș is founded.
+- 1998: Terry Nichols is sentenced to life in prison for his role in the Oklahoma City bombing.
+- 1996: The first flight of Ariane 5 explodes after roughly 37 seconds. It was a Cluster mission.
+- 1989: Ufa train disaster: A natural gas explosion near Ufa, Russia, kills 575 as two trains passing each other throw sparks near a leaky pipeline.
+- 1989: Solidarity's victory in the 1989 Polish legislative election occurs, the first election since the Communist Polish United Workers' Party abandoned its monopoly of power. It sparks off the Revolutions of 1989 in Eastern Europe.
+- 1989: The Tiananmen Square protests and massacre are suppressed in Beijing by the People's Liberation Army, with between 241 and 10,000 dead (an unofficial estimate).
+- 1989: In the 1989 Iranian Supreme Leader election, Ali Khamenei is elected as the new Supreme Leader of Iran after the death and funeral of Ruhollah Khomeini.
+- 1988: Three cars on a train carrying hexogen to Kazakhstan explode in Arzamas, Gorky Oblast, USSR, killing 91 and injuring about 1,500.
+- 1986: Jonathan Pollard pleads guilty to espionage for selling top secret United States military intelligence to Israel.
+- 1983: Gordon Kahl, who killed two US Marshals in Medina, North Dakota on February 13, is killed in a shootout in Smithville, Arkansas, along with a local sheriff, after a four-month manhunt.
+- 1979: Flight Lieutenant Jerry Rawlings takes power in Ghana after a military coup in which General Fred Akuffo is overthrown.
+- 1977: JVC introduces its VHS videotape at the Consumer Electronics Show in Chicago. It will eventually prevail against Sony's rival Betamax system in a format war to become the predominant home video medium.
+- 1975: The Governor of California Jerry Brown signs the California Agricultural Labor Relations Act into law, the first law in the United States giving farmworkers collective bargaining rights.
+- 1970: Tonga gains independence from the British Empire.
+- 1967: Seventy-two people are killed when a Canadair C-4 Argonaut crashes at Stockport in England.
+- 1961: Cold War: In the Vienna summit, the Soviet premier Nikita Khrushchev sparks the Berlin Crisis by threatening to sign a separate peace treaty with East Germany and ending American, British and French access to East Berlin.
+- 1944: World War II: The United States Fifth Army captures Rome, although much of the German Fourteenth Army is able to withdraw to the north.
+- 1944: World War II: A hunter-killer group of the United States Navy captures the German Kriegsmarine submarine U-505: The first time a U.S. Navy vessel had captured an enemy vessel at sea since the 19th century.
+- 1943: A military coup in Argentina ousts Ramón Castillo.
+- 1942: World War II: Gustaf Mannerheim, the Commander-in-Chief of the Finnish Army, is granted the title of Marshal of Finland by the government on his 75th birthday. On the same day, Adolf Hitler arrives in Finland for a surprise visit to meet Mannerheim.
+- 1942: World War II: The Battle of Midway begins. The Japanese Admiral Chūichi Nagumo orders a strike on Midway Island by much of the Imperial Japanese Navy.
+- 1940: World War II: The Dunkirk evacuation ends: the British Armed Forces completes evacuation of 338,000 troops from Dunkirk in France. To rally the morale of the country, Winston Churchill delivers, only to the House of Commons, his famous "We shall fight on the beaches" speech.
+- 1939: The Holocaust: The MS St. Louis, a ship carrying 963 German Jewish refugees, is denied permission to land in Florida, in the United States, after already being turned away from Cuba. Forced to return to Europe, more than 200 of its passengers later die in Nazi concentration camps.
+- 1932: Marmaduke Grove and other Chilean military officers lead a coup d'état establishing the short-lived Socialist Republic of Chile.
+- 1928: The President of the Republic of China, Zhang Zuolin, is assassinated by Japanese agents.
+- 1920: Hungary loses 71% of its territory and 63% of its population when the Treaty of Trianon is signed in Paris.
+- 1919: Leon Trotsky bans the Planned Fourth Regional Congress of Peasants, Workers and Insurgents.
 
 Data from muffinlabs
-*(Updated at: 2025-06-03 01:52:51 UTC)*
+*(Updated at: 2025-06-04 01:53:00 UTC)*
 
 # 历史上的今天 
 
-- -  2019年：喀土穆大屠杀：在苏丹，当安全部队伴随着Janjaweed Mivitiamen Storm陪同并开火，进行静坐抗议时，有100多人被杀。
-- -  2013年：在中国东北部吉林省的一个家禽农场的火灾中，至少有119人在大火中丧生。
-- -  2013年：美国陆军私人切尔西·曼宁（Chelsea Manning）泄露机密材料到维基解密的审判始于马里兰州米德堡。
-- -  2012年：伊丽莎白二世钻石禧年的选美大赛发生在泰晤士河上。
-- -  2012年：一架飞机在尼日利亚拉各斯的一个住宅区中载有153人撞车，杀死了船上的所有人，地面上有6人。
-- -  2006年：塞尔维亚和黑山的联合会随着黑山正式的独立宣言即将结束。
-- -  1998年：在机械故障遭受机械故障之后，高速火车在德国的埃切德（Eschede）脱轨，杀死了101人。
-- -  1992年：澳大利亚原住民土地权利在Mabo诉昆士兰州（第2号）中得到认可，这是托雷斯海峡岛民埃迪·马博提起的这一案件，导致了1993年《本土冠军法案》，推翻了长期以来对Terra Nullius的殖民地假设。
-- -  1991年：日本丁氏山爆发，杀死了43人，他们都是研究人员或记者。
-- -  1989年：中国政府派遣部队在占领七个星期后迫使抗议者离开天安门广场。
-- -  1984年：军事攻势行动是由印度政府在阿姆利则（Amritsar）的印度政府（Harmandir Sahib）发起的。该行动一直持续到6月6日，人员伤亡，大多数是平民，超过5,000。
-- -  1982年：以色列驻英国大使Shlomo Argov在伦敦街上被枪杀；他幸存下来，但瘫痪了。
-- -  1980年：1980年的大岛龙卷风爆发袭击了美国的内布拉斯加州，造成5人死亡和3亿美元（相当于2024年的1.145亿美元）造成的损失。
-- -  1979年：在墨西哥南部的IXTOC I油井中进行的井喷造成至少3,000,000桶（480,000平方米）的石油溢出到水中，这是有史以来第二次偶然的漏油事件。
-- -  1973年：苏联超音速Tupolev Tu-144撞车在法国戈斯山维尔附近撞车，杀死了14架超音速客机的第一次撞车事故。
-- -  1969年：墨尔本 - 埃文斯（Melbourne-Evans）碰撞：澳大利亚航空母舰HMAS墨尔本在南越沿海地区切断了美国海军驱逐舰弗兰克·E·埃文斯（Frank E. Evans）的一半；导致74人死亡。
-- -  1965年：Demini 4的推出，这是NASA机组人员的第一个多日太空任务。船员埃德·怀特（Ed White）演出了第一个美国航天路。
-- -  1963年：南越军队的士兵袭击了胡ế的佛教徒，炸泪液中的液体化学物质，导致67人因对皮肤和呼吸道疾病的暴力而住院。
-- -  1962年：在巴黎奥利机场，法国航班007航班越过跑道，船员试图中止起飞，炸死130。
-- -  1950年：法国安纳布尔纳探险队（Annapurna Expedition）的赫尔佐格（Herzog and Lachenal）和拉切纳尔（Lachenal）成为第一个达到8,000米山顶的登山者。
-- -  1943年：在加利福尼亚州洛杉矶，白色的美国海军水手和海军陆战队以五天的Zoot Suit Riots袭击了拉丁裔青年。
-- -  1942年：第二次世界大战：日本通过轰炸Unalaska岛开始了阿留申群岛运动。
-- -  1941年：第二次世界大战：Wehrmacht将希腊的坎达诺斯村夷为平地，并谋杀了180名居民。
-- -  1940年：弗朗兹·拉德马赫（Franz Rademacher）提出了计划将马达加斯加（Madagascar）成为“犹太家园”，这一想法首先被19世纪的记者西奥多·赫兹（Theodor Herzl）考虑。
-- -  1940年：第二次世界大战：在法国战役期间，德国空军炸弹巴黎。
-- -  1937年：温莎公爵嫁给了瓦利斯·辛普森（Wallis Simpson）。
-- -  1935年：一千名失业的加拿大工人董事会在温哥华货车，开始抗议渥太华。
-- -  1916年：《国防法》已签署为法律，使美国国民警卫队的规模增加了45万人。
-- -  1889年：美国的第一条长距离电力输电线路已完成，在威拉米特·福尔斯（Willamette Falls）和俄勒冈州波特兰市中心的发电机之间行驶14英里（23公里）。
-- -  1885年：在最后一次在加拿大土壤上进行的军事订婚中，克里领导人大熊逃脱了西北骑警。
+- -2023：当Cessna引用V坠入弗吉尼亚州奥古斯塔县的矿山山时，四人被杀。
+- -  2023年：抗议活动始于波兰针对杜达政府。
+- -  2010年：Falcon 9航班1是SpaceX Falcon 9 Rocket的少女飞行，该飞行是从Cape Canaveral Air Force Station Space Space Punch Complex发射40。
+- -  2005年：成立了科瓦斯纳，哈吉塔和穆雷的罗马尼亚人的公民论坛。
+- -  1998年：特里·尼科尔斯（Terry Nichols）因在俄克拉荷马城爆炸案中的角色而被判处无期徒刑。
+- -  1996年：大约37秒后，Ariane 5的第一次飞行爆炸。这是一个集群任务。
+- -  1989年：UFA火车灾难：俄罗斯UFA附近的天然气爆炸炸死575，因为两列火车在漏水管道附近互相扔火花。
+- -  1989年：团结在1989年波兰立法选举中的胜利发生，这是自共产主义波兰联合工人党以来的第一次选举。它引发了1989年东欧的革命。
+- -  1989年：人民解放军在北京镇压天安门广场的抗议活动和大屠杀，其中241至10,000人死亡（一个非正式的估计）。
+- -  1989年：在1989年的伊朗最高领导人选举中，阿里·哈梅内伊（Ali Khamenei）当选为鲁霍拉·霍梅尼（Ruhollah Khomeini）死后的新最高领导人。
+- -  1988年：载着六辆车前往哈萨克斯坦的火车上的三辆汽车在阿扎马斯（Arzamas）爆炸，苏联戈尔基（Gorky），杀死了91人，约1,500人受伤。
+- -  1986年：乔纳森·波拉德（Jonathan Pollard）因向以色列出售最高机密的美国军事情报而对间谍活动认罪。
+- -  1983年：戈登·卡尔（Gordon Kahl）于2月13日在北达科他州的麦地那杀死了两名美国法警，在阿肯色州史密斯维尔的一次枪战中，以及一名当地警长在四个月的搜捕行动中被杀。
+- -  1979年：弗雷德·阿库福将军被推翻后，杰里·罗林斯中尉在加纳掌权。
+- -  1977年：JVC在芝加哥的消费电子展上介绍了其VHS录像带。最终，它将以格式战争的形式与索尼的竞争对手Betamax系统竞争，以成为主要的家庭视频媒体。
+- -  1975年：加利福尼亚州州长杰里·布朗（Jerry Brown）签署了《加利福尼亚农业劳动关系法》的法律，这是美国第一法律赋予农场工人集体谈判权利的法律。
+- -  1970年：汤加从大英帝国获得独立。
+- -  1967年：当Canadair C-4 Argonaut在英格兰的Stockport坠毁时，有72人被杀。
+- -  1961年：冷战：在维也纳首脑会议上，苏联总理尼基塔·赫鲁晓夫（Nikita Khrushchev）威胁要与东德签署单独的和平条约，并结束了美国，英国和法国人进入东柏林。
+- -  1944年：第二次世界大战：美国第五军占领了罗马，尽管德国的大部分第十四军都能够撤离北部。
+- -  1944年：第二次世界大战：美国海军的猎人杀手团体捕获了德国克里格斯马林潜艇U-505：自19世纪以来，美国海军船只第一次在海上捕获了一艘敌方船只。
+- -  1943年：阿根廷奥斯特·拉蒙·卡斯蒂略（RamónCastillo）的军事政变。
+- -  1942年：第二次世界大战：芬兰军队总司令古斯塔夫·麦德海姆（Gustaf Mandheim）被政府75岁生日授予芬兰元帅的头衔。同一天，阿道夫·希特勒（Adolf Hitler）到达芬兰（Finland）进行了一次惊喜访问，与曼德海姆（Mandheim）见面。
+- -  1942年：第二次世界大战：中途战役开始。日本海军上将ChūichiNagumo命令日本帝国海军大部分地区在中途岛上进行罢工。
+- -  1940年：第二次世界大战：敦刻尔克撤离的结局：英国武装部队从法国的敦刻尔克（Dunkirk）撤离了338,000名士兵。为了集结该国的士气，温斯顿·丘吉尔（Winston Churchill）仅送往下议院，他著名的“我们将在海滩上战斗”演讲。
+- -  1939年：大屠杀：圣路易斯女士是一艘载有963名德国犹太难民的船，被拒绝允许在佛罗里达州，美国佛罗里达州降落，此前已经被拒绝了古巴。被迫返回欧洲，其200多名乘客后来在纳粹集中营中死亡。
+- -  1932年：马尔马杜克·格罗夫（Marmaduke Grove）和其他智利军官领导了一个政变，建立了短暂的智利社会主义共和国。
+- -  1928年：中华民国总统张Zuolin被日本特工暗杀。
+- -  1920年：匈牙利在巴黎签署的Trianon条约时损失了其71％的领土和63％的人口。
+- -  1919年：莱昂·托洛茨基（Leon Trotsky）禁止计划的第四届农民，工人和叛乱分子。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-06-03 01:52:51 UTC）*
+*（更新于: 2025-06-04 01:53:00 UTC）*
