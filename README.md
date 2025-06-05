@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: Four people are killed when a Cessna Citation V crashes into Mine Bank Mountain in Augusta County, Virginia.
-- 2023: Protests begin in Poland against the Duda government.
-- 2010: Falcon 9 Flight 1 is the maiden flight of the SpaceX Falcon 9 rocket, which launches from Cape Canaveral Air Force Station Space Launch Complex 40.
-- 2005: The Civic Forum of the Romanians of Covasna, Harghita and Mureș is founded.
-- 1998: Terry Nichols is sentenced to life in prison for his role in the Oklahoma City bombing.
-- 1996: The first flight of Ariane 5 explodes after roughly 37 seconds. It was a Cluster mission.
-- 1989: Ufa train disaster: A natural gas explosion near Ufa, Russia, kills 575 as two trains passing each other throw sparks near a leaky pipeline.
-- 1989: Solidarity's victory in the 1989 Polish legislative election occurs, the first election since the Communist Polish United Workers' Party abandoned its monopoly of power. It sparks off the Revolutions of 1989 in Eastern Europe.
-- 1989: The Tiananmen Square protests and massacre are suppressed in Beijing by the People's Liberation Army, with between 241 and 10,000 dead (an unofficial estimate).
-- 1989: In the 1989 Iranian Supreme Leader election, Ali Khamenei is elected as the new Supreme Leader of Iran after the death and funeral of Ruhollah Khomeini.
-- 1988: Three cars on a train carrying hexogen to Kazakhstan explode in Arzamas, Gorky Oblast, USSR, killing 91 and injuring about 1,500.
-- 1986: Jonathan Pollard pleads guilty to espionage for selling top secret United States military intelligence to Israel.
-- 1983: Gordon Kahl, who killed two US Marshals in Medina, North Dakota on February 13, is killed in a shootout in Smithville, Arkansas, along with a local sheriff, after a four-month manhunt.
-- 1979: Flight Lieutenant Jerry Rawlings takes power in Ghana after a military coup in which General Fred Akuffo is overthrown.
-- 1977: JVC introduces its VHS videotape at the Consumer Electronics Show in Chicago. It will eventually prevail against Sony's rival Betamax system in a format war to become the predominant home video medium.
-- 1975: The Governor of California Jerry Brown signs the California Agricultural Labor Relations Act into law, the first law in the United States giving farmworkers collective bargaining rights.
-- 1970: Tonga gains independence from the British Empire.
-- 1967: Seventy-two people are killed when a Canadair C-4 Argonaut crashes at Stockport in England.
-- 1961: Cold War: In the Vienna summit, the Soviet premier Nikita Khrushchev sparks the Berlin Crisis by threatening to sign a separate peace treaty with East Germany and ending American, British and French access to East Berlin.
-- 1944: World War II: The United States Fifth Army captures Rome, although much of the German Fourteenth Army is able to withdraw to the north.
-- 1944: World War II: A hunter-killer group of the United States Navy captures the German Kriegsmarine submarine U-505: The first time a U.S. Navy vessel had captured an enemy vessel at sea since the 19th century.
-- 1943: A military coup in Argentina ousts Ramón Castillo.
-- 1942: World War II: Gustaf Mannerheim, the Commander-in-Chief of the Finnish Army, is granted the title of Marshal of Finland by the government on his 75th birthday. On the same day, Adolf Hitler arrives in Finland for a surprise visit to meet Mannerheim.
-- 1942: World War II: The Battle of Midway begins. The Japanese Admiral Chūichi Nagumo orders a strike on Midway Island by much of the Imperial Japanese Navy.
-- 1940: World War II: The Dunkirk evacuation ends: the British Armed Forces completes evacuation of 338,000 troops from Dunkirk in France. To rally the morale of the country, Winston Churchill delivers, only to the House of Commons, his famous "We shall fight on the beaches" speech.
-- 1939: The Holocaust: The MS St. Louis, a ship carrying 963 German Jewish refugees, is denied permission to land in Florida, in the United States, after already being turned away from Cuba. Forced to return to Europe, more than 200 of its passengers later die in Nazi concentration camps.
-- 1932: Marmaduke Grove and other Chilean military officers lead a coup d'état establishing the short-lived Socialist Republic of Chile.
-- 1928: The President of the Republic of China, Zhang Zuolin, is assassinated by Japanese agents.
-- 1920: Hungary loses 71% of its territory and 63% of its population when the Treaty of Trianon is signed in Paris.
-- 1919: Leon Trotsky bans the Planned Fourth Regional Congress of Peasants, Workers and Insurgents.
+- 2022: A constitutional referendum is held in Kazakhstan following violent protests and civil unrest against the government.
+- 2017: Six Arab countries—Bahrain, Egypt, Libya, Saudi Arabia, Yemen, and the United Arab Emirates—cut diplomatic ties with Qatar, accusing it of destabilising the region.
+- 2017: Montenegro becomes the 29th member of NATO.
+- 2016: Two shootings in Aktobe, Kazakhstan, kill six people.
+- 2015: An earthquake with a moment magnitude of 6.0 strikes Ranau, Sabah, Malaysia, killing 18 people, including hikers and mountain guides on Mount Kinabalu, after mass landslides that occurred during the earthquake. This is the strongest earthquake to strike Malaysia since 1975.
+- 2012: Last transit of Venus until the year 2117.
+- 2009: A fire at a day-care center kills 49 people in Hermosillo, Mexico.
+- 2009: After 65 straight days of civil disobedience, at least 31 people are killed in clashes between security forces and indigenous people near Bagua, Peru.
+- 2006: Serbia declares independence from the State Union of Serbia and Montenegro.
+- 2004: Noël Mamère, Mayor of Bègles, celebrates marriage for two men for the first time in France.
+- 2003: A severe heat wave across Pakistan and India reaches its peak, as temperatures exceed 50 °C (122 °F) in the region.
+- 2002: Space Shuttle Endeavour launches on STS-111, carrying the Expedition 5 crew to the International Space Station to replace the Expedition 4 crew. Astronaut Franklin Chang-Díaz becomes the second person to have flown on seven spaceflights.
+- 2001: Tropical Storm Allison makes landfall on the upper-Texas coastline as a strong tropical storm and dumps large amounts of rain over Houston. The storm causes $5.5 billion in damages, making Allison the second costliest tropical storm in U.S. history.
+- 2000: The Six-Day War in Kisangani begins in Kisangani, in the Democratic Republic of the Congo, between Ugandan and Rwandan forces. A large part of the city is destroyed.
+- 1998: A strike begins at the General Motors parts factory in Flint, Michigan, that quickly spreads to five other assembly plants. The strike lasts seven weeks.
+- 1997: The Second Republic of the Congo Civil War begins.
+- 1995: The Bose-Einstein condensate is first created.
+- 1993: Portions of the Holbeck Hall Hotel in Scarborough, North Yorkshire, UK, fall into the sea following a landslide.
+- 1991: Space Shuttle Columbia is launched on STS-40, the fifth spacelab mission.
+- 1989: The Tank Man halts the progress of a column of advancing tanks for over half an hour after the Tiananmen Square protests of 1989.
+- 1984: Operation Blue Star: Under orders from India's prime minister, Indira Gandhi, the Indian Army begins an invasion of the Golden Temple, the holiest site of the Sikh religion.
+- 1983: More than 100 people are killed when the Russian river cruise ship Aleksandr Suvorov collides with a girder of the Ulyanovsk Railway Bridge. The collision caused a freight train to derail, further damaging the vessel, yet the ship remained afloat and was eventually restored and returned to service.
+- 1981: The Morbidity and Mortality Weekly Report of the Centers for Disease Control and Prevention reports that five people in Los Angeles, California, have a rare form of pneumonia seen only in patients with weakened immune systems, in what turns out to be the first recognized cases of AIDS.
+- 1976: The Teton Dam in Idaho, United States, collapses. Eleven people are killed as a result of flooding.
+- 1975: The United Kingdom holds its first country-wide referendum on membership of the European Economic Community (EEC).
+- 1975: The Suez Canal opens for the first time since the Six-Day War.
+- 1968: Presidential candidate Robert F. Kennedy is assassinated by Sirhan Sirhan.
+- 1967: The Six-Day War begins: Israel launches surprise strikes against Egyptian air-fields in response to the mobilisation of Egyptian forces on the Israeli border.
+- 1964: DSV Alvin is commissioned.
+- 1963: Movement of 15 Khordad: Protests against the arrest of Ayatollah Ruhollah Khomeini by the Shah of Iran, Mohammad Reza Pahlavi. In several cities, masses of angry demonstrators are confronted by tanks and paratroopers.
 
 Data from muffinlabs
-*(Updated at: 2025-06-04 01:53:00 UTC)*
+*(Updated at: 2025-06-05 01:51:47 UTC)*
 
 # 历史上的今天 
 
-- -2023：当Cessna引用V坠入弗吉尼亚州奥古斯塔县的矿山山时，四人被杀。
-- -  2023年：抗议活动始于波兰针对杜达政府。
-- -  2010年：Falcon 9航班1是SpaceX Falcon 9 Rocket的少女飞行，该飞行是从Cape Canaveral Air Force Station Space Space Punch Complex发射40。
-- -  2005年：成立了科瓦斯纳，哈吉塔和穆雷的罗马尼亚人的公民论坛。
-- -  1998年：特里·尼科尔斯（Terry Nichols）因在俄克拉荷马城爆炸案中的角色而被判处无期徒刑。
-- -  1996年：大约37秒后，Ariane 5的第一次飞行爆炸。这是一个集群任务。
-- -  1989年：UFA火车灾难：俄罗斯UFA附近的天然气爆炸炸死575，因为两列火车在漏水管道附近互相扔火花。
-- -  1989年：团结在1989年波兰立法选举中的胜利发生，这是自共产主义波兰联合工人党以来的第一次选举。它引发了1989年东欧的革命。
-- -  1989年：人民解放军在北京镇压天安门广场的抗议活动和大屠杀，其中241至10,000人死亡（一个非正式的估计）。
-- -  1989年：在1989年的伊朗最高领导人选举中，阿里·哈梅内伊（Ali Khamenei）当选为鲁霍拉·霍梅尼（Ruhollah Khomeini）死后的新最高领导人。
-- -  1988年：载着六辆车前往哈萨克斯坦的火车上的三辆汽车在阿扎马斯（Arzamas）爆炸，苏联戈尔基（Gorky），杀死了91人，约1,500人受伤。
-- -  1986年：乔纳森·波拉德（Jonathan Pollard）因向以色列出售最高机密的美国军事情报而对间谍活动认罪。
-- -  1983年：戈登·卡尔（Gordon Kahl）于2月13日在北达科他州的麦地那杀死了两名美国法警，在阿肯色州史密斯维尔的一次枪战中，以及一名当地警长在四个月的搜捕行动中被杀。
-- -  1979年：弗雷德·阿库福将军被推翻后，杰里·罗林斯中尉在加纳掌权。
-- -  1977年：JVC在芝加哥的消费电子展上介绍了其VHS录像带。最终，它将以格式战争的形式与索尼的竞争对手Betamax系统竞争，以成为主要的家庭视频媒体。
-- -  1975年：加利福尼亚州州长杰里·布朗（Jerry Brown）签署了《加利福尼亚农业劳动关系法》的法律，这是美国第一法律赋予农场工人集体谈判权利的法律。
-- -  1970年：汤加从大英帝国获得独立。
-- -  1967年：当Canadair C-4 Argonaut在英格兰的Stockport坠毁时，有72人被杀。
-- -  1961年：冷战：在维也纳首脑会议上，苏联总理尼基塔·赫鲁晓夫（Nikita Khrushchev）威胁要与东德签署单独的和平条约，并结束了美国，英国和法国人进入东柏林。
-- -  1944年：第二次世界大战：美国第五军占领了罗马，尽管德国的大部分第十四军都能够撤离北部。
-- -  1944年：第二次世界大战：美国海军的猎人杀手团体捕获了德国克里格斯马林潜艇U-505：自19世纪以来，美国海军船只第一次在海上捕获了一艘敌方船只。
-- -  1943年：阿根廷奥斯特·拉蒙·卡斯蒂略（RamónCastillo）的军事政变。
-- -  1942年：第二次世界大战：芬兰军队总司令古斯塔夫·麦德海姆（Gustaf Mandheim）被政府75岁生日授予芬兰元帅的头衔。同一天，阿道夫·希特勒（Adolf Hitler）到达芬兰（Finland）进行了一次惊喜访问，与曼德海姆（Mandheim）见面。
-- -  1942年：第二次世界大战：中途战役开始。日本海军上将ChūichiNagumo命令日本帝国海军大部分地区在中途岛上进行罢工。
-- -  1940年：第二次世界大战：敦刻尔克撤离的结局：英国武装部队从法国的敦刻尔克（Dunkirk）撤离了338,000名士兵。为了集结该国的士气，温斯顿·丘吉尔（Winston Churchill）仅送往下议院，他著名的“我们将在海滩上战斗”演讲。
-- -  1939年：大屠杀：圣路易斯女士是一艘载有963名德国犹太难民的船，被拒绝允许在佛罗里达州，美国佛罗里达州降落，此前已经被拒绝了古巴。被迫返回欧洲，其200多名乘客后来在纳粹集中营中死亡。
-- -  1932年：马尔马杜克·格罗夫（Marmaduke Grove）和其他智利军官领导了一个政变，建立了短暂的智利社会主义共和国。
-- -  1928年：中华民国总统张Zuolin被日本特工暗杀。
-- -  1920年：匈牙利在巴黎签署的Trianon条约时损失了其71％的领土和63％的人口。
-- -  1919年：莱昂·托洛茨基（Leon Trotsky）禁止计划的第四届农民，工人和叛乱分子。
+- -2022：暴力抗议和针对政府的内乱，在哈萨克斯坦举行了宪法公投。
+- -  2017年：六个阿拉伯国家 - 巴林，埃及，利比亚，沙特阿拉伯，也门和阿拉伯联合酋长国 - 与卡塔尔的外交联系，指责它破坏了该地区的稳定。
+- -  2017年：黑山成为北约第29位成员。
+- -  2016年：哈萨克斯坦阿克托贝（Aktobe）发生了两次枪击事件，杀死了六人。
+- -  2015年：一场瞬间的地震为6.0罢工，马来西亚沙巴，杀死了18人，包括在地震期间发生的大规模滑坡之后，包括kinabalu山的徒步旅行者和山地向导。这是自1975年以来袭击马来西亚的最强烈地震。
+- -  2012年：直到2117年，金星的最后一次过境。
+- -  2009年：日间护理中心的大火在墨西哥赫莫西洛杀死了49人。
+- -  2009年：经过65天的公民抗命，至少有31人在秘鲁巴吉亚附近的安全部队与土著人民之间的冲突中丧生。
+- -  2006年：塞尔维亚宣布独立于塞尔维亚和黑山联盟。
+- -  2004年：Bègles市长NoëlMamère在法国首次庆祝两个男人的婚姻。
+- -  2003年：随着该地区的温度超过50°C（122°F），巴基斯坦和印度的严重热浪达到了峰值。
+- -  2002年：航天飞机努力在STS-111上发射，将5名探险队带到国际空间站，以取代Expedition 4船员。宇航员富兰克林·昌·迪亚兹（Franklin Chang-Díaz）成为第二个飞行七个太空飞行的人。
+- -  2001年：热带风暴艾莉森（Allison）在高德克萨斯州海岸线上登陆，这是一场强烈的热带风暴，并在休斯顿倾倒了大量降雨。这场风暴造成55亿美元的损失，使艾莉森成为美国历史上第二昂贵的热带风暴。
+- -  2000年：基桑加尼的六天战争始于乌干达和卢旺达部队之间的刚果民主共和国的基桑加尼。城市的很大一部分被摧毁。
+- -  1998年：罢工始于密歇根州弗林特的通用汽车零件工厂，该工厂迅速传播到其他五个装配厂。罢工持续了七个星期。
+- -  1997年：刚果第二共和国开始。
+- -1995：首先创建了Bose-Einstein冷凝物。
+- -  1993年：英国北约克郡斯卡伯勒的Holbeck Hall酒店的一部分，沿着滑坡落入大海。
+- -  1991年：哥伦比亚航天飞机哥伦比亚航天飞机是在第五次超级飞机任务的STS-40上推出的。
+- -  1989年：坦克人在1989年天安门广场抗议活动后半小时停止了一列前进的坦克的进度。
+- -  1984年：蓝星行动：在印度总理英迪拉·甘地（Indira Gandhi）的命令下，印度军队开始入侵锡克教宗教最神圣的遗址金神庙。
+- -  1983年：当俄罗斯河巡航船Aleksandr Suvorov与Ulyanovsk铁路桥的梁相撞时，有100多人被杀。碰撞导致货运火车出轨，进一步损坏了船只，但船只仍然漂浮，最终被恢复并恢复了服务。
+- -  1981年：疾病控制与预防中心的发病率和死亡率每周报告报告，加利福尼亚州洛杉矶的五人只有一种罕见的肺炎形式，仅在免疫系统疲软的患者中才能看到，这是第一个公认的艾滋病病例。
+- -  1976年：美国爱达荷州的提顿大坝倒塌。洪水造成的11人被杀。
+- -  1975年：英国举行了欧洲经济共同体（EEC）的首个全国性全民公决。
+- -  1975年：苏伊士运河自六天战争以来首次开放。
+- -  1968年：总统候选人罗伯特·肯尼迪（Robert F. Kennedy）被西汉·西尔汉（Sirhan Sirhan）暗杀。
+- -  1967年：为期六天的战争开始：以色列对埃及空气场的惊喜罢工，以回应动员埃及在以色列边境上的动员。
+- -  1964年：DSV Alvin已委托。
+- -  1963年：15 Khordad的行动：抗议伊朗伊朗Shah逮捕了Ayatollah Ruhollah Khomeini，Mohammad Reza Pahlavi。在几个城市中，大量愤怒的示威者面临坦克和伞兵。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-06-04 01:53:00 UTC）*
+*（更新于: 2025-06-05 01:51:47 UTC）*
