@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: A constitutional referendum is held in Kazakhstan following violent protests and civil unrest against the government.
-- 2017: Six Arab countries—Bahrain, Egypt, Libya, Saudi Arabia, Yemen, and the United Arab Emirates—cut diplomatic ties with Qatar, accusing it of destabilising the region.
-- 2017: Montenegro becomes the 29th member of NATO.
-- 2016: Two shootings in Aktobe, Kazakhstan, kill six people.
-- 2015: An earthquake with a moment magnitude of 6.0 strikes Ranau, Sabah, Malaysia, killing 18 people, including hikers and mountain guides on Mount Kinabalu, after mass landslides that occurred during the earthquake. This is the strongest earthquake to strike Malaysia since 1975.
-- 2012: Last transit of Venus until the year 2117.
-- 2009: A fire at a day-care center kills 49 people in Hermosillo, Mexico.
-- 2009: After 65 straight days of civil disobedience, at least 31 people are killed in clashes between security forces and indigenous people near Bagua, Peru.
-- 2006: Serbia declares independence from the State Union of Serbia and Montenegro.
-- 2004: Noël Mamère, Mayor of Bègles, celebrates marriage for two men for the first time in France.
-- 2003: A severe heat wave across Pakistan and India reaches its peak, as temperatures exceed 50 °C (122 °F) in the region.
-- 2002: Space Shuttle Endeavour launches on STS-111, carrying the Expedition 5 crew to the International Space Station to replace the Expedition 4 crew. Astronaut Franklin Chang-Díaz becomes the second person to have flown on seven spaceflights.
-- 2001: Tropical Storm Allison makes landfall on the upper-Texas coastline as a strong tropical storm and dumps large amounts of rain over Houston. The storm causes $5.5 billion in damages, making Allison the second costliest tropical storm in U.S. history.
-- 2000: The Six-Day War in Kisangani begins in Kisangani, in the Democratic Republic of the Congo, between Ugandan and Rwandan forces. A large part of the city is destroyed.
-- 1998: A strike begins at the General Motors parts factory in Flint, Michigan, that quickly spreads to five other assembly plants. The strike lasts seven weeks.
-- 1997: The Second Republic of the Congo Civil War begins.
-- 1995: The Bose-Einstein condensate is first created.
-- 1993: Portions of the Holbeck Hall Hotel in Scarborough, North Yorkshire, UK, fall into the sea following a landslide.
-- 1991: Space Shuttle Columbia is launched on STS-40, the fifth spacelab mission.
-- 1989: The Tank Man halts the progress of a column of advancing tanks for over half an hour after the Tiananmen Square protests of 1989.
-- 1984: Operation Blue Star: Under orders from India's prime minister, Indira Gandhi, the Indian Army begins an invasion of the Golden Temple, the holiest site of the Sikh religion.
-- 1983: More than 100 people are killed when the Russian river cruise ship Aleksandr Suvorov collides with a girder of the Ulyanovsk Railway Bridge. The collision caused a freight train to derail, further damaging the vessel, yet the ship remained afloat and was eventually restored and returned to service.
-- 1981: The Morbidity and Mortality Weekly Report of the Centers for Disease Control and Prevention reports that five people in Los Angeles, California, have a rare form of pneumonia seen only in patients with weakened immune systems, in what turns out to be the first recognized cases of AIDS.
-- 1976: The Teton Dam in Idaho, United States, collapses. Eleven people are killed as a result of flooding.
-- 1975: The United Kingdom holds its first country-wide referendum on membership of the European Economic Community (EEC).
-- 1975: The Suez Canal opens for the first time since the Six-Day War.
-- 1968: Presidential candidate Robert F. Kennedy is assassinated by Sirhan Sirhan.
-- 1967: The Six-Day War begins: Israel launches surprise strikes against Egyptian air-fields in response to the mobilisation of Egyptian forces on the Israeli border.
-- 1964: DSV Alvin is commissioned.
-- 1963: Movement of 15 Khordad: Protests against the arrest of Ayatollah Ruhollah Khomeini by the Shah of Iran, Mohammad Reza Pahlavi. In several cities, masses of angry demonstrators are confronted by tanks and paratroopers.
+- 2024: The launch of SpaceX Starship integrated flight test 4 (IFT-4)
+- 2023: Destruction of the Kakhovka Dam during the Russo-Ukrainian war.
+- 2017: Syrian civil war: The Battle of Raqqa begins with an offensive by the Syrian Democratic Forces (SDF) to capture the city from the Islamic State of Iraq and the Levant (ISIL).
+- 2002: Eastern Mediterranean event. A near-Earth asteroid estimated at ten meters in diameter explodes over the Mediterranean Sea between Greece and Libya. The explosion is estimated to have a force of 26 kilotons, slightly more powerful than the Nagasaki atomic bomb.
+- 1994: China Northwest Airlines Flight 2303 crashes near Xi'an Xianyang International Airport, killing all 160 people on board.
+- 1993: Punsalmaagiin Ochirbat wins the first presidential election in Mongolia.
+- 1992: Copa Airlines Flight 201 breaks apart in mid-air and crashes into the Darién Gap in Panama, killing all 47 aboard.
+- 1985: The grave of "Wolfgang Gerhard" is opened in Embu, Brazil; the exhumed remains are later proven to be those of Josef Mengele, Auschwitz's "Angel of Death"; Mengele is thought to have drowned while swimming in February 1979.
+- 1982: The Lebanon War begins. Forces under Israeli Defense Minister Ariel Sharon invade southern Lebanon during Operation Peace for the Galilee, eventually reaching as far north as the capital Beirut.
+- 1976: Chief Minister of Sabah Faud Stephens, Peter Joinud Mojuntin, and several other politicians are killed in a plane crash near Kota Kinabalu International Airport in Malaysia.
+- 1975: British referendum results in continued membership of the European Economic Community, with 67% of votes in favour.
+- 1971: Hughes Airwest Flight 706 collides with a McDonnell Douglas F-4 Phantom II of the United States Marine Corps over the San Gabriel Mountains, killing 50.
+- 1971: Soyuz 11 is launched. The mission ends in disaster when all three cosmonauts, Georgy Dobrovolsky, Vladislav Volkov, and Viktor Patsayev are suffocated by uncontrolled decompression of the capsule during re-entry on 29 June.
+- 1966: March Against Fear: African-American civil rights activist James Meredith is wounded in an ambush by white sniper James Aubrey Norvell. Meredith and Norvell are photographed by Jack R. Thornell, whose photo will receive the 1967 Pulitzer Prize in Photography, the last one to be awarded in the category.
+- 1944: Capture of the Caen canal and Orne river bridges by Allied paratroopers, also known as Operation Coup de Main (incorrectly referred to as Operation Deadstick.)
+- 1944: Commencement of Operation Overlord, the Allied invasion of Normandy, with the execution of Operation Neptune—commonly referred to as D-Day—the largest seaborne invasion in history. Nearly 160,000 Allied troops cross the English Channel with about 5,000 landing and assault craft, 289 escort vessels, and 277 minesweepers participating. By the end of the day, the Allies have landed on five invasion beaches and are pushing inland.
+- 1942: The United States Navy's victory over the Imperial Japanese Navy at the Battle of Midway is a major turning point in the Pacific Theater of World War II. All four Japanese fleet carriers taking part—Akagi, Kaga, Sōryū and Hiryū—are sunk, as is the heavy cruiser Mikuma. The American carrier Yorktown and the destroyer Hammann are also sunk.
+- 1934: New Deal: U.S. President Franklin D. Roosevelt signs the Securities Exchange Act of 1934 into law, establishing the U.S. Securities and Exchange Commission.
+- 1933: The first drive-in theater opens in Camden, New Jersey.
+- 1925: The original Chrysler Corporation was founded by Walter Chrysler from the remains of the Maxwell Motor Company.
+- 1918: Battle of Belleau Wood in World War I: the U.S. Marine Corps suffers its worst single day's casualties while attempting to recapture the wood at Château-Thierry (the losses are exceeded at the Battle of Tarawa in November 1943).
+- 1912: The eruption of Novarupta in Alaska begins. It is the largest volcanic eruption of the 20th century.
+- 1894: Governor Davis H. Waite orders the Colorado state militia to protect and support the miners engaged in the Cripple Creek miners' strike.
+- 1892: The Chicago "L" elevated rail system begins operation.
+- 1889: The Great Seattle Fire destroys all of downtown Seattle.
+- 1882: The Shewan forces of Menelik II of Ethiopia defeat the Gojjame army in the Battle of Embabo. The Shewans capture Negus Tekle Haymanot of Gojjam, and their victory leads to a Shewan hegemony over the territories south of the Abay River.
+- 1862: The First Battle of Memphis, a naval engagement fought on the Mississippi results in the capture of Memphis, Tennessee by Union forces from the Confederates.
+- 1859: Queensland is established as a separate colony from New South Wales. The date is still celebrated as Queensland Day.
+- 1844: The Young Men's Christian Association (YMCA) is founded in London.
+- 1832: The June Rebellion in Paris is put down by the National Guard.
 
 Data from muffinlabs
-*(Updated at: 2025-06-05 01:51:47 UTC)*
+*(Updated at: 2025-06-06 01:50:59 UTC)*
 
 # 历史上的今天 
 
-- -2022：暴力抗议和针对政府的内乱，在哈萨克斯坦举行了宪法公投。
-- -  2017年：六个阿拉伯国家 - 巴林，埃及，利比亚，沙特阿拉伯，也门和阿拉伯联合酋长国 - 与卡塔尔的外交联系，指责它破坏了该地区的稳定。
-- -  2017年：黑山成为北约第29位成员。
-- -  2016年：哈萨克斯坦阿克托贝（Aktobe）发生了两次枪击事件，杀死了六人。
-- -  2015年：一场瞬间的地震为6.0罢工，马来西亚沙巴，杀死了18人，包括在地震期间发生的大规模滑坡之后，包括kinabalu山的徒步旅行者和山地向导。这是自1975年以来袭击马来西亚的最强烈地震。
-- -  2012年：直到2117年，金星的最后一次过境。
-- -  2009年：日间护理中心的大火在墨西哥赫莫西洛杀死了49人。
-- -  2009年：经过65天的公民抗命，至少有31人在秘鲁巴吉亚附近的安全部队与土著人民之间的冲突中丧生。
-- -  2006年：塞尔维亚宣布独立于塞尔维亚和黑山联盟。
-- -  2004年：Bègles市长NoëlMamère在法国首次庆祝两个男人的婚姻。
-- -  2003年：随着该地区的温度超过50°C（122°F），巴基斯坦和印度的严重热浪达到了峰值。
-- -  2002年：航天飞机努力在STS-111上发射，将5名探险队带到国际空间站，以取代Expedition 4船员。宇航员富兰克林·昌·迪亚兹（Franklin Chang-Díaz）成为第二个飞行七个太空飞行的人。
-- -  2001年：热带风暴艾莉森（Allison）在高德克萨斯州海岸线上登陆，这是一场强烈的热带风暴，并在休斯顿倾倒了大量降雨。这场风暴造成55亿美元的损失，使艾莉森成为美国历史上第二昂贵的热带风暴。
-- -  2000年：基桑加尼的六天战争始于乌干达和卢旺达部队之间的刚果民主共和国的基桑加尼。城市的很大一部分被摧毁。
-- -  1998年：罢工始于密歇根州弗林特的通用汽车零件工厂，该工厂迅速传播到其他五个装配厂。罢工持续了七个星期。
-- -  1997年：刚果第二共和国开始。
-- -1995：首先创建了Bose-Einstein冷凝物。
-- -  1993年：英国北约克郡斯卡伯勒的Holbeck Hall酒店的一部分，沿着滑坡落入大海。
-- -  1991年：哥伦比亚航天飞机哥伦比亚航天飞机是在第五次超级飞机任务的STS-40上推出的。
-- -  1989年：坦克人在1989年天安门广场抗议活动后半小时停止了一列前进的坦克的进度。
-- -  1984年：蓝星行动：在印度总理英迪拉·甘地（Indira Gandhi）的命令下，印度军队开始入侵锡克教宗教最神圣的遗址金神庙。
-- -  1983年：当俄罗斯河巡航船Aleksandr Suvorov与Ulyanovsk铁路桥的梁相撞时，有100多人被杀。碰撞导致货运火车出轨，进一步损坏了船只，但船只仍然漂浮，最终被恢复并恢复了服务。
-- -  1981年：疾病控制与预防中心的发病率和死亡率每周报告报告，加利福尼亚州洛杉矶的五人只有一种罕见的肺炎形式，仅在免疫系统疲软的患者中才能看到，这是第一个公认的艾滋病病例。
-- -  1976年：美国爱达荷州的提顿大坝倒塌。洪水造成的11人被杀。
-- -  1975年：英国举行了欧洲经济共同体（EEC）的首个全国性全民公决。
-- -  1975年：苏伊士运河自六天战争以来首次开放。
-- -  1968年：总统候选人罗伯特·肯尼迪（Robert F. Kennedy）被西汉·西尔汉（Sirhan Sirhan）暗杀。
-- -  1967年：为期六天的战争开始：以色列对埃及空气场的惊喜罢工，以回应动员埃及在以色列边境上的动员。
-- -  1964年：DSV Alvin已委托。
-- -  1963年：15 Khordad的行动：抗议伊朗伊朗Shah逮捕了Ayatollah Ruhollah Khomeini，Mohammad Reza Pahlavi。在几个城市中，大量愤怒的示威者面临坦克和伞兵。
+- -2024：SpaceX星际飞船集成飞行测试4（IFT-4）的发布
+- -2023：在鲁斯乌克兰战争期间，卡科夫卡大坝的破坏。
+- -  2017年：叙利亚内战：拉卡战役始于叙利亚民主力量（SDF）的进攻，目的是从伊拉克伊斯兰国和黎凡特（ISIL）占领这座城市。
+- -  2002年：东地中海活动。估计直径十米的近地小行星在希腊和利比亚之间的地中海爆炸。爆炸估计具有26千万的力量，比长野原子弹强大。
+- -  1994年：中国西北航空公司在西安北国际机场附近的2303次撞车事故，杀死了所有160人。
+- -  1993年：Punsalmaagiin Ochirbat赢得了蒙古的首次总统大选。
+- -  1992年：Copa Airlines Flight 201在空中闯入，并撞向巴拿马的DariénGap，杀死了所有47号船。
+- -  1985年：“沃尔夫冈·格哈德（Wolfgang Gerhard）”的坟墓在巴西的本苏（Embu）开放；后来被证明是奥斯威辛集中营的“死亡天使”约瑟夫·孟加尔（Josef Mengele）的遗体；人们认为，孟格尔在1979年2月游泳时淹死了。
+- -  1982年：黎巴嫩战争开始。以色列国防部长阿里尔·沙龙（Ariel Sharon）领导下的部队在加利利（Galilee）的和平行动中入侵了黎巴嫩南部，最终到达北部至贝鲁特（Beirut）。
+- -  1976年：Sabah Faud Stephens首席部长，Peter Jobud Mojuntin和其他几名政客在马来西亚Kota Kinabalu国际机场附近的一次飞机失事中被杀。
+- -  1975年：英国全民公决导致欧洲经济共同体的持续成员资格，有67％的选票赞成。
+- -  1971年：休斯Airwest 706航班与美国海军陆战队的麦克唐纳·道格拉斯F-4幻影二世撞击圣加布里埃尔山脉，造成50人丧生。
+- -  1971年：SOYUZ 11发射。当所有三个宇航员，Georgy Dobrovolsky，Vladislav Volkov和Viktor Patsayev在6月29日重新进入胶囊的不受控制的减压窒息而已。
+- -  1966年：反对恐惧的三月：非裔美国人民权活动家詹姆斯·梅雷迪思（James Meredith）在白人狙击手詹姆斯·奥布里·诺维尔（James Aubrey Norvell）的伏击中受伤。梅雷迪思（Meredith）和诺维尔（Norvell）由杰克·索内尔（Jack R. Thornell）拍摄，他们的照片将获得1967年的普利策摄影奖，这是该类别中的最后一个奖。
+- -  1944年：盟军伞兵捕获了凯恩运河和奥恩河桥梁，也称为政变行动（错误地称为Deadstick行动）。
+- -  1944年：霸主行动开始，盟军入侵诺曼底，海王星行动执行（通常称为D日）是历史上最大的海洋入侵。近160,000名盟军越过英国频道，大约有5,000艘着陆和突击飞船，289艘护送船和277名扫雷者参加。到一天结束时，盟军降落在五个入侵海滩上，并推动内陆。
+- -  1942年：美国海军在中途战役中击败日本帝国海军的胜利是第二次世界大战太平洋剧院的主要转折点。所有的四个日本舰队运营商都参加了比赛，即Akagi，Kaga，Sōryū和Hiryū，都沉没了，重型巡洋舰Mikuma也被沉没。美国载体约克敦和驱逐舰汉曼也沉没了。
+- -  1934年：新政：美国总统富兰克林·罗斯福（Franklin D.
+- -  1933年：第一个开车剧院在新泽西州卡姆登开业。
+- -  1925年：最初的克莱斯勒公司是由麦克斯韦汽车公司遗迹的沃尔特·克莱斯勒（Walter Chrysler）创立的。
+- -  1918年：第一次世界大战中的贝勒木战役：美国海军陆战队在试图夺回城堡 - 锡埃里（Château-Thierry）的木材时遭受了最严重的一日伤亡（1943年11月在塔拉瓦（Tarawa）战役中，损失超过了）。
+- -  1912年：阿拉斯加诺瓦普塔的爆发开始。它是20世纪最大的火山喷发。
+- -  1894年：州长戴维斯·H·怀特（Davis H.
+- -  1892年：芝加哥“ L”高架铁路系统开始操作。
+- -  1889年：大西雅图大火摧毁了西雅图市中心。
+- -  1882年：埃塞俄比亚的梅内利克二世的谢旺（Shewan）军队在embabo战役中击败了戈杰梅军队。Shewans捕获了Gojjam的Negus Tekle Haymanot，他们的胜利导致了在Abay河以南的领土上的Shewan霸权。
+- -  1862年：孟菲斯的第一次战役是密西西比州的海军订婚，导致联合部队从同盟国俘虏田纳西州的孟菲斯。
+- -  1859年：昆士兰州被确定为与新南威尔士州的单独殖民地。该日期仍然是昆士兰州日。
+- -  1844年：年轻男子基督教协会（YMCA）成立于伦敦。
+- -  1832年：巴黎的六月叛乱由国民警卫队击倒。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-06-05 01:51:47 UTC）*
+*（更新于: 2025-06-06 01:50:59 UTC）*
