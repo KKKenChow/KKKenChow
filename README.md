@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: Former US President Donald Trump is indicted on federal charges of misusing classified information.
-- 2007: Newcastle, New South Wales, Australia, is hit by the State's worst storms and flooding in 30 years resulting in the death of nine people and the grounding of a trade ship, the MV Pasha Bulker.
-- 2004: The first Venus Transit in well over a century takes place, the previous one being in 1882.
-- 2001: Mamoru Takuma kills eight and injures 15 in a mass stabbing at an elementary school in the Osaka Prefecture of Japan.
-- 1995: Downed U.S. Air Force pilot Captain Scott O'Grady is rescued by U.S. Marines in Bosnia.
-- 1992: GP Express Airlines Flight 861 crashes on approach to Anniston Regional Airport in Anniston, Alabama, killing three.
-- 1992: The first World Oceans Day is celebrated, coinciding with the Earth Summit held in Rio de Janeiro, Brazil.
-- 1987: New Zealand's Labour government establishes a national nuclear-free zone under the New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987.
-- 1984: Homosexuality is decriminalized in the Australian state of New South Wales.
-- 1982: VASP Flight 168 crashes in Pacatuba, Ceará, Brazil, killing 128 people.
-- 1982: Bluff Cove Air Attacks during the Falklands War: Fifty-six British servicemen are killed by an Argentine air attack on two landing ships, RFA Sir Galahad and RFA Sir Tristram.
-- 1972: Vietnam War: Nine-year-old Phan Thị Kim Phúc is burned by napalm, an event captured by Associated Press photographer Nick Ut moments later while the young girl is seen running naked down a road, in what would become an iconic, Pulitzer Prize-winning photo.
-- 1968: James Earl Ray, the man who assassinated Martin Luther King Jr. is arrested at London Heathrow Airport.
-- 1967: Six-Day War: The USS Liberty incident: A United States Navy spy ship is attacked by the Israeli Air Force and Navy, resulting in 34 deaths and 171 wounded.
-- 1966: Topeka, Kansas, United States is devastated by a tornado that registers as an "F5" on the Fujita scale, exceeding US$200 million in damages. Seventeen people are killed, over five hundred more injured, and thousands of homes damaged or destroyed.
-- 1966: An F-104 Starfighter collides with XB-70 Valkyrie prototype no. 2, destroying both aircraft during a photo shoot near Edwards Air Force Base. Joseph A. Walker, a NASA test pilot, and Carl Cross, a United States Air Force test pilot, are both killed.
-- 1961: Marriage of Prince Edward, Duke of Kent to Katharine Worsley at York Minster.
-- 1959: USS Barbero and the United States Postal Service attempt the delivery of mail via Missile Mail.
-- 1953: The United States Supreme Court rules in District of Columbia v. John R. Thompson Co. that restaurants in Washington, D.C., cannot refuse to serve black patrons.
-- 1953: An F5 tornado hits Beecher, Michigan, United States, killing 116, injuring 844, and destroying 340 homes.
-- 1943: World War II: The two-day Battle of Porta between the Royal Italian Army and the Greek People's Liberation Army begins.
-- 1942: World War II: The Imperial Japanese Navy submarines I-21 and I-24 shell the Australian cities of Sydney and Newcastle.
-- 1941: World War II: The Allies commence the Syria-Lebanon Campaign against the possessions of Vichy France in the Levant.
-- 1940: World War II: The completion of Operation Alphabet, the evacuation of Allied forces from Narvik at the end of the Norwegian Campaign.
-- 1929: Margaret Bondfield is appointed Minister of Labour. She is the first woman appointed to the Cabinet of the United Kingdom.
-- 1928: Second Northern Expedition: The National Revolutionary Army captures Beijing, whose name is changed to Beiping ("Northern Peace").
-- 1924: British Mount Everest expedition: British mountaineers Andrew Irvine and George Mallory go missing.
-- 1906: Theodore Roosevelt signs the Antiquities Act into law, authorizing the President to restrict the use of certain parcels of public land with historical or conservation value.
-- 1887: Herman Hollerith applies for US patent #395,781 for the 'Art of Compiling Statistics', which was his punched card calculator.
-- 1867: Coronation of Franz Joseph as King of Hungary following the Austro-Hungarian compromise (Ausgleich).
+- 2010: At least 40 people are killed and more than 70 wounded in a suicide bombing at a wedding party in Arghandab, Kandahar.
+- 2009: An explosion kills 17 people and injures at least 46 at a hotel in Peshawar, Pakistan.
+- 2008: Two bombs explode at a train station near Algiers, Algeria, killing at least 13 people.
+- 1999: Kosovo War: The Federal Republic of Yugoslavia and NATO sign a peace treaty.
+- 1995: Ansett New Zealand Flight 703 crashes into the Tararua Range during approach to Palmerston North Airport on the North Island of New Zealand, killing four.
+- 1979: The Ghost Train fire at Luna Park Sydney, Australia, kills seven.
+- 1978: The Church of Jesus Christ of Latter-day Saints opens its priesthood to "all worthy men", ending a 148-year-old policy of excluding black men.
+- 1973: In horse racing, Secretariat wins the U.S. Triple Crown.
+- 1972: Severe rainfall causes a dam in the Black Hills of South Dakota to burst, creating a flood that kills 238 people and causes $160 million in damage.
+- 1968: U.S. President Lyndon B. Johnson declares a national day of mourning following the assassination of Senator Robert F. Kennedy.
+- 1967: Six-Day War: Israel captures the Golan Heights from Syria.
+- 1965: Vietnam War: The Viet Cong commences combat with the Army of the Republic of Vietnam in the Battle of Đồng Xoài, one of the largest battles in the war.
+- 1965: The civilian Prime Minister of South Vietnam, Phan Huy Quát, resigns after being unable to work with a junta led by Nguyễn Cao Kỳ.
+- 1959: The USS George Washington is launched. It is the first nuclear-powered ballistic missile submarine.
+- 1957: First ascent of Broad Peak by Fritz Wintersteller, Marcus Schmuck, Kurt Diemberger, and Hermann Buhl.
+- 1954: Joseph N. Welch, special counsel for the United States Army, lashes out at Senator Joseph McCarthy during the Army-McCarthy hearings, giving McCarthy the famous rebuke, "You've done enough. Have you no sense of decency, sir, at long last? Have you left no sense of decency?"
+- 1953: The Flint-Worcester tornado outbreak sequence kills 94 people in Massachusetts.
+- 1948: Foundation of the International Council on Archives under the auspices of the UNESCO.
+- 1944: World War II: The Soviet Union invades East Karelia and the previously Finnish part of Karelia, occupied by Finland since 1941.
+- 1944: World War II: Ninety-nine civilians are hanged from lampposts and balconies by German troops in Tulle, France, in reprisal for maquisards attacks.
+- 1930: A Chicago Tribune reporter, Jake Lingle, is killed during rush hour at the Illinois Central train station by Leo Vincent Brothers, allegedly over a $100,000 gambling debt owed to Al Capone.
+- 1928: Charles Kingsford Smith completes the first trans-Pacific flight in a Fokker Trimotor monoplane, the Southern Cross.
+- 1923: Bulgaria's military takes over the government in a coup.
+- 1922: Åland's Regional Assembly convened for its first plenary session in Mariehamn, Åland; today, the day is celebrated as Self-Government Day of Åland.
+- 1915: William Jennings Bryan resigns as Woodrow Wilson's Secretary of State over a disagreement regarding the United States' handling of the sinking of the RMS Lusitania.
+- 1900: Indian nationalist Birsa Munda dies of cholera in a British prison.
+- 1885: Treaty of Tientsin is signed to end the Sino-French War, with China eventually giving up Tonkin and Annam - most of present-day Vietnam - to France.
+- 1863: American Civil War: The Battle of Brandy Station in Virginia, the largest cavalry battle on American soil, ends Confederate cavalry dominance in the eastern theater.
+- 1862: American Civil War: Stonewall Jackson concludes his successful Shenandoah Valley Campaign with a victory in the Battle of Port Republic.
+- 1856: Five hundred Mormons leave Iowa City, Iowa for the Mormon Trail.
 
 Data from muffinlabs
-*(Updated at: 2025-06-08 02:00:59 UTC)*
+*(Updated at: 2025-06-09 01:58:11 UTC)*
 
 # 历史上的今天 
 
-- -  2023年：美国前总统唐纳德·特朗普（Donald Trump）因滥用机密信息而被起诉。
-- -  2007年：澳大利亚新南威尔士州纽卡斯尔，受到该州最严重的暴风雨和30年洪水的袭击，导致9人死亡以及一艘贸易船MV Pasha Bulker的基础。
-- -  2004年：一个多世纪以来的第一个维纳斯过境发生在1882年。
-- -  2001年：在日本大阪县的一所小学的大规模刺伤中，Mamoru Takuma杀死了八人，15人受伤。
-- -  1995年：美国空军飞行员斯科特·奥格雷迪（Scott O'Grady）上尉被波斯尼亚的美国海军陆战队救出。
-- -  1992年：GP Express航空公司861航班在阿拉巴马州安尼斯顿的安尼斯顿地区机场的临近行驶时坠毁，杀死了三人。
-- -  1992年：庆祝第一世界海洋日，与巴西里约热内卢举行的地球峰会相吻合。
-- -  1987年：新西兰工党政府在新西兰核自由区，裁军和军备控制1987年建立了一个无核核区。
-- -  1984年：在澳大利亚新南威尔士州，同性恋被合法化。
-- -  1982年：VASP 168航班在巴西Ceará的Pacatuba撞车事故，杀死了128人。
-- -  1982年：福克兰战争期间布拉夫湾的空袭：五十六名英国军人被阿根廷对两艘着陆舰的空袭杀死，RFA rfa rfa rfa爵士加拉哈德爵士和rfa tristram爵士。
-- -  1972年：越南战争：九岁的phanthịkimphúc被纳帕姆（Napalm）烧毁，这是美联社摄影师尼克·乌特（Nick Ut）在片刻之后捕获的事件，而那个年轻女孩被看到赤裸裸地奔跑，这将变成标志性的普利策奖得主的照片。
-- -  1968年：暗杀马丁·路德·金（Martin Luther King Jr.）的那个人詹姆斯·厄尔·雷（James Earl Ray）在伦敦希思罗机场被捕。
-- -  1967年：六​​天的战争：USS自由事件：一艘美国海军间谍船遭到以色列空军和海军的袭击，导致34人死亡，171人受伤。
-- -  1966年：美国堪萨斯州托皮卡（Topeka）被龙卷风摧毁，龙卷风在富士范围内以“ F5”为单位，超过了2亿美元的赔偿金。17人被杀，超过五百人受伤，成千上万的房屋损坏或摧毁。
-- -  1966年：F-104星际战斗机与XB-70 Valkyrie原型相撞。2，在爱德华兹空军基地附近的照片拍摄期间摧毁了两架飞机。美国宇航局测试飞行员约瑟夫·沃克（Joseph A. Walker）和美国空军测试飞行员卡尔·克罗斯（Carl Cross）都被杀。
-- -  1961年：肯特公爵王子爱德华王子与约克大教堂的凯瑟琳·沃斯利的婚姻。
-- -  1959年：巴贝罗号和美国邮政服务试图通过导弹邮件传递邮件。
-- -  1953年：美国最高法院的哥伦比亚诉约翰·R·汤普森公司（John R. Thompson Co.
-- -  1953年：F5龙卷风击中了美国密歇根州的比彻（Beecher），杀死116人，受伤844，摧毁了340户房屋。
-- -  1943年：第二次世界大战：皇家意大利军队与希腊人民解放军之间的为期两天的波尔塔战役开始。
-- -  1942年：第二次世界大战：日本帝国海军潜艇I-21和I-24壳，澳大利亚悉尼和纽卡斯尔城市。
-- -  1941年：第二次世界大战：盟国开始了反对黎凡特·法国财产的叙利亚 - 黎巴嫩运动。
-- -  1940年：第二次世界大战：字母行动的完成，在挪威战役结束时从纳维克撤离了盟军。
-- -  1929年：玛格丽特·邦德菲尔德（Margaret Bondfield）被任命为劳工部长。她是第一个被任命为英国内阁的女人。
-- -  1928年：第二北方探险：国家革命军捕获了北京，其名称已改为烤（“北部和平”）。
-- -  1924年：英国珠穆朗玛峰探险队：英国登山者安德鲁·欧文（Andrew Irvine）和乔治·马洛里（George Mallory）失踪。
-- -  1906年：西奥多·罗斯福（Theodore Roosevelt）将《古物法》签署为法律，授权总统限制使用具有历史或保护价值的某些公共土地的使用。
-- -  1887年：Herman Hollerith申请美国专利＃395,781，用于“编译统计的艺术”，这是他的打孔卡计算器。
-- -  1867年：弗朗兹·约瑟夫（Franz Joseph）在奥匈帝国（Ausgleich）之后加冕为匈牙利之王。
+- -  2010年：在坎大哈Arghandab举行的婚礼派对上，至少有40人丧生，并在一次自杀炸弹爆炸中丧生和70多人受伤。
+- -  2009年：爆炸炸死17人，在巴基斯坦白沙瓦的一家酒店至少46人受伤。
+- -  2008年：两枚炸弹在阿尔及利亚阿尔及尔附近的火车站爆炸，杀死了至少13人。
+- -  1999年：科索沃战争：南斯拉夫联邦共和国和北约签署了和平条约。
+- -  1995年：安塞特新西兰703航班在通往新西兰北岛的帕尔默斯顿北机场的途中撞向塔拉鲁阿山脉，造成四人丧生。
+- -  1979年：澳大利亚悉尼卢纳公园的幽灵火车大火杀死了7人。
+- -  1978年：耶稣基督后期圣徒的教会为“所有有价值的人”开放，结束了148年历史的黑人政策。
+- -  1973年：在赛马中，秘书处赢得了美国三冠王。
+- -  1972年：严重的降雨导致南达科他州黑山的大坝破裂，造成洪水造成238人，造成1.6亿美元的损失。
+- -  1968年：美国总统林登·约翰逊（Lyndon B. Johnson）宣布在参议员罗伯特·肯尼迪（Robert F. Kennedy）被暗杀后举行哀悼日。
+- -  1967年：六​​天的战争：以色列捕获了叙利亚的戈兰高地。
+- -  1965年：越南战争：越共在战争中最大的战斗之一的战斗之一埃恩格Xoài战役中与越南共和国的军队作战。
+- -  1965年：南越南越的平民总理潘·夸塔（Phan HuyQuát）在无法与NguyễnCaokỳ的政府合作后辞职。
+- -  1959年：乔治·华盛顿号号航空母舰被启动。这是第一枚核动力弹道导弹潜艇。
+- -  1957年：Fritz Wintersteller，Marcus Schmuck，Kurt Diember和Hermann Buhl首次登上Broad Peak。
+- -  1954年：美国陆军特别顾问约瑟夫·韦尔奇（Joseph N.
+- -  1953年：弗林特龙卷风爆发序列在马萨诸塞州杀死94人。
+- -  1948年：联合国教科文组织主持下的国际档案委员会基金会。
+- -  1944年：第二次世界大战：苏联入侵东卡雷利亚和以前的卡雷利亚芬兰地区，自1941年以来就被芬兰占领。
+- -  1944年：第二次世界大战：德国军队在法国塔勒（Tulle）绞死了九十9名平民，并遭到了袭击的报复。
+- -  1930年：芝加哥论坛报记者杰克·林格尔（Jake Lingle）在伊利诺伊州中央火车站的高峰时段被利奥·文森特兄弟（Leo Vincent Brothers）杀害，据称欠阿尔·卡彭（Al Capone）欠了100,000美元的赌博债务。
+- -  1928年：查尔斯·金斯福德·史密斯（Charles Kingsford Smith）在南十字架（Southern Cross）的Fokker Trimotor Monoplane中完成了第一次跨太平洋航班。
+- -  1923年：保加利亚军队接管政府。
+- -  1922年：Åland的区域议会参加了在ÅlandMariehamn举行的第一次全体会议；今天，这一天被庆祝为Åland的自治日。
+- -  1915年：威廉·詹宁斯·布莱恩（William Jennings Bryan）辞去了伍德罗·威尔逊（Woodrow Wilson）的国务卿的辞职，因为他对美国沉没RMS Lusitania的处理有分歧。
+- -  1900年：印度民族主义者比尔萨·蒙达（Birsa Munda）在英国监狱中死亡。
+- -  1885年：《泰恩廷条约》签署了以结束中国战争，中国最终将托金和安南（当今越南的大部分）放弃到法国。
+- -  1863年：美国内战：美国土壤上最大的骑兵战役的白兰地战场，结束了东部剧院的同盟骑兵优势。
+- -  1862年：美国内战：斯通沃尔·杰克逊（Stonewall Jackson）以在港口共和国战役中的胜利结束了他成功的谢南多亚河谷竞选活动。
+- -  1856年：五百个摩门教徒离开爱荷华州爱荷华城前往摩门教徒小径。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-06-08 02:00:59 UTC）*
+*（更新于: 2025-06-09 01:58:11 UTC）*
