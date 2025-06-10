@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2010: At least 40 people are killed and more than 70 wounded in a suicide bombing at a wedding party in Arghandab, Kandahar.
-- 2009: An explosion kills 17 people and injures at least 46 at a hotel in Peshawar, Pakistan.
-- 2008: Two bombs explode at a train station near Algiers, Algeria, killing at least 13 people.
-- 1999: Kosovo War: The Federal Republic of Yugoslavia and NATO sign a peace treaty.
-- 1995: Ansett New Zealand Flight 703 crashes into the Tararua Range during approach to Palmerston North Airport on the North Island of New Zealand, killing four.
-- 1979: The Ghost Train fire at Luna Park Sydney, Australia, kills seven.
-- 1978: The Church of Jesus Christ of Latter-day Saints opens its priesthood to "all worthy men", ending a 148-year-old policy of excluding black men.
-- 1973: In horse racing, Secretariat wins the U.S. Triple Crown.
-- 1972: Severe rainfall causes a dam in the Black Hills of South Dakota to burst, creating a flood that kills 238 people and causes $160 million in damage.
-- 1968: U.S. President Lyndon B. Johnson declares a national day of mourning following the assassination of Senator Robert F. Kennedy.
-- 1967: Six-Day War: Israel captures the Golan Heights from Syria.
-- 1965: Vietnam War: The Viet Cong commences combat with the Army of the Republic of Vietnam in the Battle of Đồng Xoài, one of the largest battles in the war.
-- 1965: The civilian Prime Minister of South Vietnam, Phan Huy Quát, resigns after being unable to work with a junta led by Nguyễn Cao Kỳ.
-- 1959: The USS George Washington is launched. It is the first nuclear-powered ballistic missile submarine.
-- 1957: First ascent of Broad Peak by Fritz Wintersteller, Marcus Schmuck, Kurt Diemberger, and Hermann Buhl.
-- 1954: Joseph N. Welch, special counsel for the United States Army, lashes out at Senator Joseph McCarthy during the Army-McCarthy hearings, giving McCarthy the famous rebuke, "You've done enough. Have you no sense of decency, sir, at long last? Have you left no sense of decency?"
-- 1953: The Flint-Worcester tornado outbreak sequence kills 94 people in Massachusetts.
-- 1948: Foundation of the International Council on Archives under the auspices of the UNESCO.
-- 1944: World War II: The Soviet Union invades East Karelia and the previously Finnish part of Karelia, occupied by Finland since 1941.
-- 1944: World War II: Ninety-nine civilians are hanged from lampposts and balconies by German troops in Tulle, France, in reprisal for maquisards attacks.
-- 1930: A Chicago Tribune reporter, Jake Lingle, is killed during rush hour at the Illinois Central train station by Leo Vincent Brothers, allegedly over a $100,000 gambling debt owed to Al Capone.
-- 1928: Charles Kingsford Smith completes the first trans-Pacific flight in a Fokker Trimotor monoplane, the Southern Cross.
-- 1923: Bulgaria's military takes over the government in a coup.
-- 1922: Åland's Regional Assembly convened for its first plenary session in Mariehamn, Åland; today, the day is celebrated as Self-Government Day of Åland.
-- 1915: William Jennings Bryan resigns as Woodrow Wilson's Secretary of State over a disagreement regarding the United States' handling of the sinking of the RMS Lusitania.
-- 1900: Indian nationalist Birsa Munda dies of cholera in a British prison.
-- 1885: Treaty of Tientsin is signed to end the Sino-French War, with China eventually giving up Tonkin and Annam - most of present-day Vietnam - to France.
-- 1863: American Civil War: The Battle of Brandy Station in Virginia, the largest cavalry battle on American soil, ends Confederate cavalry dominance in the eastern theater.
-- 1862: American Civil War: Stonewall Jackson concludes his successful Shenandoah Valley Campaign with a victory in the Battle of Port Republic.
-- 1856: Five hundred Mormons leave Iowa City, Iowa for the Mormon Trail.
+- 2024: A plane crash in Malawi leaves 10 people dead, including the country's Vice President Saulos Chilima.
+- 2018: Opportunity rover, sends it last message back to Earth. The mission was finally declared over on February 13, 2019.
+- 2009: Eighty-eight year-old James Wenneker von Brunn opens fire inside the United States Holocaust Memorial Museum and fatally shoots Museum Special Police Officer Stephen Tyrone Johns. Other security guards returned fire, wounding von Brunn, who was apprehended.
+- 2008: Sudan Airways Flight 109 crashes at Khartoum International Airport, killing 30 people.
+- 2003: The Spirit rover is launched, beginning NASA's Mars Exploration Rover mission.
+- 2002: The first direct electronic communication experiment between the nervous systems of two humans is carried out by Kevin Warwick in the United Kingdom.
+- 2001: Pope John Paul II canonizes Lebanon's first female saint, Saint Rafqa.
+- 1999: Kosovo War: NATO suspends its airstrikes after Slobodan Milošević agrees to withdraw Serbian forces from Kosovo.
+- 1997: Before fleeing his northern stronghold, Khmer Rouge leader Pol Pot orders the killing of his defense chief Son Sen and 11 of Sen's family members.
+- 1996: Peace talks begin in Northern Ireland without the participation of Sinn Féin.
+- 1994: China conducts a nuclear test for DF-31 warhead at Area C (Beishan), Lop Nur, its prominence being due to the Cox Report.
+- 1991: Eleven-year-old Jaycee Lee Dugard is kidnapped in South Lake Tahoe, California; she would remain a captive until 2009.
+- 1990: British Airways Flight 5390 lands safely at Southampton Airport after a blowout in the cockpit causes the captain to be partially sucked from the cockpit. There are no fatalities.
+- 1987: June Democratic Struggle: The June Democratic Struggle starts in South Korea, and people protest against the government.
+- 1982: Lebanon War: The Syrian Arab Army defeats the Israeli Defense Forces in the Battle of Sultan Yacoub.
+- 1980: The African National Congress in South Africa publishes a call to fight from their imprisoned leader Nelson Mandela.
+- 1977: James Earl Ray escapes from Brushy Mountain State Penitentiary in Petros, Tennessee. He is recaptured three days later.
+- 1967: The Six-Day War ends: Israel and Syria agree to a cease-fire.
+- 1964: United States Senate breaks a 75-day filibuster against the Civil Rights Act of 1964, leading to the bill's passage.
+- 1963: The Equal Pay Act of 1963, aimed at abolishing wage disparity based on sex, was signed into law by John F. Kennedy as part of his New Frontier Program.
+- 1960: Trans Australia Airlines Flight 538 crashes near Mackay Airport in Mackay, Queensland, Australia, killing 29.
+- 1957: John Diefenbaker leads the Progressive Conservative Party of Canada to a stunning upset in the 1957 Canadian federal election, ending 22 years of Liberal Party government.
+- 1947: Saab produces its first automobile.
+- 1945: Australian Imperial Forces land in Brunei Bay to liberate Brunei.
+- 1944: In baseball, 15-year-old Joe Nuxhall of the Cincinnati Reds becomes the youngest player ever in a major-league game.
+- 1944: World War II: In Distomo, Boeotia, Greece, 228 men, women and children are massacred by German troops.
+- 1944: World War II: Six hundred forty-three men, women and children massacred at Oradour-sur-Glane, France.
+- 1942: World War II: The Lidice massacre is perpetrated as a reprisal for the assassination of Obergruppenführer Reinhard Heydrich.
+- 1940: World War II: Military resistance to the German occupation of Norway ends.
+- 1940: World War II: U.S. President Franklin D. Roosevelt denounces Italy's actions in his "Stab in the Back" speech at the graduation ceremonies of the University of Virginia.
 
 Data from muffinlabs
-*(Updated at: 2025-06-09 01:58:11 UTC)*
+*(Updated at: 2025-06-10 01:54:06 UTC)*
 
 # 历史上的今天 
 
-- -  2010年：在坎大哈Arghandab举行的婚礼派对上，至少有40人丧生，并在一次自杀炸弹爆炸中丧生和70多人受伤。
-- -  2009年：爆炸炸死17人，在巴基斯坦白沙瓦的一家酒店至少46人受伤。
-- -  2008年：两枚炸弹在阿尔及利亚阿尔及尔附近的火车站爆炸，杀死了至少13人。
-- -  1999年：科索沃战争：南斯拉夫联邦共和国和北约签署了和平条约。
-- -  1995年：安塞特新西兰703航班在通往新西兰北岛的帕尔默斯顿北机场的途中撞向塔拉鲁阿山脉，造成四人丧生。
-- -  1979年：澳大利亚悉尼卢纳公园的幽灵火车大火杀死了7人。
-- -  1978年：耶稣基督后期圣徒的教会为“所有有价值的人”开放，结束了148年历史的黑人政策。
-- -  1973年：在赛马中，秘书处赢得了美国三冠王。
-- -  1972年：严重的降雨导致南达科他州黑山的大坝破裂，造成洪水造成238人，造成1.6亿美元的损失。
-- -  1968年：美国总统林登·约翰逊（Lyndon B. Johnson）宣布在参议员罗伯特·肯尼迪（Robert F. Kennedy）被暗杀后举行哀悼日。
-- -  1967年：六​​天的战争：以色列捕获了叙利亚的戈兰高地。
-- -  1965年：越南战争：越共在战争中最大的战斗之一的战斗之一埃恩格Xoài战役中与越南共和国的军队作战。
-- -  1965年：南越南越的平民总理潘·夸塔（Phan HuyQuát）在无法与NguyễnCaokỳ的政府合作后辞职。
-- -  1959年：乔治·华盛顿号号航空母舰被启动。这是第一枚核动力弹道导弹潜艇。
-- -  1957年：Fritz Wintersteller，Marcus Schmuck，Kurt Diember和Hermann Buhl首次登上Broad Peak。
-- -  1954年：美国陆军特别顾问约瑟夫·韦尔奇（Joseph N.
-- -  1953年：弗林特龙卷风爆发序列在马萨诸塞州杀死94人。
-- -  1948年：联合国教科文组织主持下的国际档案委员会基金会。
-- -  1944年：第二次世界大战：苏联入侵东卡雷利亚和以前的卡雷利亚芬兰地区，自1941年以来就被芬兰占领。
-- -  1944年：第二次世界大战：德国军队在法国塔勒（Tulle）绞死了九十9名平民，并遭到了袭击的报复。
-- -  1930年：芝加哥论坛报记者杰克·林格尔（Jake Lingle）在伊利诺伊州中央火车站的高峰时段被利奥·文森特兄弟（Leo Vincent Brothers）杀害，据称欠阿尔·卡彭（Al Capone）欠了100,000美元的赌博债务。
-- -  1928年：查尔斯·金斯福德·史密斯（Charles Kingsford Smith）在南十字架（Southern Cross）的Fokker Trimotor Monoplane中完成了第一次跨太平洋航班。
-- -  1923年：保加利亚军队接管政府。
-- -  1922年：Åland的区域议会参加了在ÅlandMariehamn举行的第一次全体会议；今天，这一天被庆祝为Åland的自治日。
-- -  1915年：威廉·詹宁斯·布莱恩（William Jennings Bryan）辞去了伍德罗·威尔逊（Woodrow Wilson）的国务卿的辞职，因为他对美国沉没RMS Lusitania的处理有分歧。
-- -  1900年：印度民族主义者比尔萨·蒙达（Birsa Munda）在英国监狱中死亡。
-- -  1885年：《泰恩廷条约》签署了以结束中国战争，中国最终将托金和安南（当今越南的大部分）放弃到法国。
-- -  1863年：美国内战：美国土壤上最大的骑兵战役的白兰地战场，结束了东部剧院的同盟骑兵优势。
-- -  1862年：美国内战：斯通沃尔·杰克逊（Stonewall Jackson）以在港口共和国战役中的胜利结束了他成功的谢南多亚河谷竞选活动。
-- -  1856年：五百个摩门教徒离开爱荷华州爱荷华城前往摩门教徒小径。
+- -  2024年：马拉维的一次飞机失事使10人死亡，其中包括该国副总统索洛斯·奇利玛（Saulos Chilima）。
+- -  2018年：机会流浪者，将其最后一条消息发送回地球。该任务最终于2019年2月13日宣布。
+- -  2009年：八十八岁的詹姆斯·温内克·冯·布伦（James Wenneker von Brunn）在美国大屠杀纪念博物馆内开火，并致命地射击博物馆特别警察斯蒂芬·泰隆·约翰斯（Stephen Tyrone Johns）。其他保安人员向被逮捕的冯·布鲁恩（Von Brunn）炸伤了大火。
+- -  2008年：苏丹航空公司109号航班在喀土穆国际机场撞车，造成30人丧生。
+- -  2003年：Spirit Rover启动，开始了NASA的火星探索漫游者任务。
+- -  2002年：英国的凯文·沃里克（Kevin Warwick）在两个人的神经系统之间进行了第一个直接的电子通信实验。
+- -  2001年：教皇约翰·保罗二世（John Paul II）封为黎巴嫩第一位女圣拉夫卡（Saint Rafqa）。
+- -  1999年：科索沃战争：在SlobodanMilošević同意从科索沃撤出塞尔维亚部队后，北约暂停了空袭。
+- -  1997年：在逃离北部据点之前，红色高棉领导人Pol Pot命令杀害其辩护酋长儿子Sen和11个家族成员。
+- -  1996年：和平谈判始于北爱尔兰，而没有辛恩·费因（SinnFéin）的参与。
+- -  1994年：中国对C区（Beishan）的DF-31弹头进行了核试验，其突出是由于Cox报告所致。
+- -  1991年：11岁的杰伊斯·李·杜加德（Jaycee Lee Dugard）被绑架在加利福尼亚州南湖湖；直到2009年，她将一直俘虏。
+- -  1990年：英国航空公司5390航班在驾驶舱进行井喷后安全地在南安普敦机场降落，这使船长被部分从驾驶舱中吸走。没有死亡。
+- -  1987年：六月民主斗争：六月民主斗争始于韩国，人们抗议政府。
+- -  1982年：黎巴嫩战争：叙利亚阿拉伯军队在苏丹·雅考战役中击败了以色列国防军。
+- -  1980年：南非的非洲人国民大会发表了一项呼吁，要求他们被监禁的领导人纳尔逊·曼德拉（Nelson Mandela）作战。
+- -  1977年：詹姆斯·厄尔·雷（James Earl Ray）从田纳西州彼得罗斯（Petros）的Brushy Mountain State Penturtiary逃脱。三天后，他被俘虏。
+- -  1967年：六​​天的战争结束：以色列和叙利亚同意停火。
+- -  1964年：美国参议院违反了1964年《民权法案》的75天无聊，导致了该法案的通过。
+- -  1963年：1963年的《平等薪酬法》，旨在废除基于性别的工资差异，由约翰·肯尼迪（John F. Kennedy）签署为法律，作为他的新边境计划的一部分。
+- -  1960年：澳大利亚跨性别航空公司538航班在澳大利亚昆士兰州麦凯机场附近的麦凯机场附近撞车，造成29人丧生。
+- -  1957年：约翰·迪芬贝克（John Diefenbaker）带领加拿大进步的保守党在1957年加拿大联邦大选中造成令人惊叹的沮丧，结束了22年的自由党政府。
+- -  1947年：萨博（Saab）生产第一辆汽车。
+- -  1945年：澳大利亚帝国部队在文莱湾的土地解放文莱。
+- -  1944年：在棒球比赛中，辛辛那提红人队的15岁乔·努克斯（Joe Nuxhall）成为有史以来最年轻的大联盟比赛。
+- -  1944年：第二次世界大战：在希腊的蒸馏器，228名男子，妇女和儿童被德国军队屠杀。
+- -  1944年：第二次世界大战：六百四十三个男人，妇女和儿童在法国的奥拉德·苏格兰（Oradour-Sur-Glane）屠杀。
+- -  1942年：第二次世界大战：利迪斯大屠杀被视为暗杀ObergruppenführerReinhardHeydrich的报复。
+- -  1940年：第二次世界大战：对挪威占领的军事抵抗。
+- -  1940年：第二次世界大战：美国总统富兰克林·罗斯福（Franklin D.
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-06-09 01:58:11 UTC）*
+*（更新于: 2025-06-10 01:54:06 UTC）*
