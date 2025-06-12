@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2013: Greece's public broadcaster ERT is shut down by then-prime minister Antonis Samaras. It would be opened exactly two years later by then-prime minister Alexis Tsipras.
-- 2012: 75 people die in a landslide triggered by two earthquakes in Afghanistan; an entire village is buried.
-- 2010: The first African FIFA World Cup kicks off in South Africa.
-- 2008: The Fermi Gamma-ray Space Telescope is launched into orbit.
-- 2008: Canadian Prime Minister Stephen Harper makes a historic official apology to Canada's First Nations in regard to abuses at a Canadian Indian residential school.
-- 2007: Mudslides in Chittagong, Bangladesh, kill 130 people.
-- 2004: Cassini-Huygens makes its closest flyby of the Saturn moon Phoebe.
-- 2002: Antonio Meucci is acknowledged as the first inventor of the telephone by the United States Congress.
-- 2001: Timothy McVeigh is executed for his role in the Oklahoma City bombing.
-- 1998: Compaq Computer pays US$9 billion for Digital Equipment Corporation in the largest high-tech acquisition.
-- 1987: Diane Abbott, Paul Boateng and Bernie Grant are elected as the first black MPs in Great Britain.
-- 1981: A magnitude 6.9 earthquake at Golbaf, Iran, kills at least 2,000.
-- 1978: Altaf Hussain founds the student political movement All Pakistan Muhajir Students Organisation (APMSO) in Karachi University.
-- 1971: The U.S. Government forcibly removes the last holdouts to the Native American Occupation of Alcatraz, ending 19 months of control.
-- 1970: After being appointed on May 15, Anna Mae Hays and Elizabeth P. Hoisington officially receive their ranks as U.S. Army general officers, becoming the first women to do so.
-- 1968: Lloyd J. Old identified the first cell surface antigens that could differentiate among different cell types.
-- 1964: World War II veteran Walter Seifert attacks an elementary school in Cologne, Germany, killing at least eight children and two teachers and seriously injuring several more with a home-made flamethrower and a lance.
-- 1963: John F. Kennedy addresses Americans from the Oval Office proposing the Civil Rights Act of 1964, which would revolutionize American society by guaranteeing equal access to public facilities, ending segregation in education, and guaranteeing federal protection for voting rights.
-- 1963: Buddhist monk Thích Quảng Đức burns himself with gasoline in a busy Saigon intersection to protest the lack of religious freedom in South Vietnam.
-- 1963: American Civil Rights Movement: Governor of Alabama George Wallace defiantly stands at the door of Foster Auditorium at the University of Alabama in an attempt to block two black students, Vivian Malone and James Hood, from attending that school. Later in the day, accompanied by federalized National Guard troops, they are able to register.
-- 1962: Frank Morris, John Anglin and Clarence Anglin allegedly become the only prisoners to escape from the prison on Alcatraz Island.
-- 1956: Start of Gal Oya riots, the first reported ethnic riots that target minority Sri Lankan Tamils in the Eastern Province. The total number of deaths is reportedly 150.
-- 1955: Eighty-three spectators are killed and at least one hundred are injured after an Austin-Healey and a Mercedes-Benz collide at the 24 Hours of Le Mans, the deadliest ever accident in motorsports.
-- 1944: USS Missouri, the last battleship built by the United States Navy and future site of the signing of the Japanese Instrument of Surrender, is commissioned.
-- 1942: Free French Forces retreat from Bir Hakeim after having successfully delayed the Axis advance.
-- 1942: World War II: The United States agrees to send Lend-Lease aid to the Soviet Union.
-- 1940: World War II: The Siege of Malta begins with a series of Italian air raids.
-- 1938: Second Sino-Japanese War: The Battle of Wuhan starts.
-- 1937: Great Purge: The Soviet Union under Joseph Stalin executes eight army leaders.
-- 1936: The London International Surrealist Exhibition opens.
+- 2024: A fire in a residential building in Mangaf, Kuwait City kills at least 50 people.
+- 2019: Kassym-Jomart Tokayev is inaugurated as the second president of Kazakhstan.
+- 2018: United States President Donald Trump and Kim Jong-un of North Korea held the first meeting between leaders of their two countries in Singapore.
+- 2016: Forty-nine civilians are killed and 58 others injured in an attack on a gay nightclub in Orlando, Florida, United States; the gunman, Omar Mateen, is killed in a gunfight with police.
+- 2014: Between 1,095 and 1,700 Shia Iraqi people are killed in an attack by the Islamic State of Iraq and the Levant on Camp Speicher in Tikrit, Iraq. It is the second deadliest act of terrorism in history, only behind 9/11.
+- 2009: A disputed presidential election in Iran leads to wide-ranging local and international protests.
+- 1999: Kosovo War: Operation Joint Guardian begins when a NATO-led United Nations peacekeeping force (KFor) enters the province of Kosovo in the Federal Republic of Yugoslavia.
+- 1993: An election takes place in Nigeria and is won by Moshood Kashimawo Olawale Abiola. Its results are later annulled by the military government of Ibrahim Babangida.
+- 1991: Kokkadichcholai massacre: The Sri Lankan Army massacres 152 minority Tamil civilians in the village of Kokkadichcholai near the Eastern Province town of Batticaloa.
+- 1991: In modern Russia's first democratic election, Boris Yeltsin is elected as the President of Russia.
+- 1990: Russia Day: The parliament of the Russian Federation formally declares its sovereignty.
+- 1988: Austral Líneas Aéreas Flight 046, a McDonnell Douglas MD-81, crashes short of the runway at Libertador General José de San Martín Airport, killing all 22 people on board.
+- 1987: Cold War: At the Brandenburg Gate, U.S. President Ronald Reagan publicly challenges Mikhail Gorbachev to tear down the Berlin Wall.
+- 1987: The Central African Republic's former emperor Jean-Bédel Bokassa is sentenced to death for crimes he had committed during his 13-year rule.
+- 1982: A nuclear disarmament rally and concert is held in New York City.
+- 1981: The first of the Indiana Jones film franchise, Raiders of the Lost Ark, is released in theaters.
+- 1979: Bryan Allen wins the second Kremer prize for a man-powered flight across the English Channel in the Gossamer Albatross.
+- 1975: India, Judge Jagmohanlal Sinha of the city of Allahabad ruled that India's Prime Minister Indira Gandhi had used corrupt practices to win her seat in the Indian Parliament, and that she should be banned from holding any public office. Mrs. Gandhi sent word that she refused to resign.
+- 1967: The United States Supreme Court in Loving v. Virginia declares all U.S. state laws which prohibit interracial marriage to be unconstitutional.
+- 1964: Anti-apartheid activist and ANC leader Nelson Mandela is sentenced to life in prison for sabotage in South Africa.
+- 1963: The film Cleopatra, starring Elizabeth Taylor and Richard Burton, is released in US theaters. It was the most expensive film made at the time.
+- 1963: NAACP field secretary Medgar Evers is murdered in front of his home in Jackson, Mississippi by Ku Klux Klan member Byron De La Beckwith during the civil rights movement.
+- 1954: Pope Pius XII canonises Dominic Savio, who was 14 years old at the time of his death, as a saint, making him at the time the youngest unmartyred saint in the Roman Catholic Church. In 2017, Francisco and Jacinta Marto, aged ten and nine at the time of their deaths, are declared as saints.
+- 1950: An Air France Douglas DC-4 crashes near Bahrain International Airport, killing 46 people.
+- 1944: World War II: Operation Overlord: American paratroopers of the 101st Airborne Division secure the town of Carentan, Normandy, France.
+- 1943: The Holocaust: Germany liquidates the Jewish Ghetto in Brzeżany, Poland (now Berezhany, Ukraine). Around 1,180 Jews are led to the city's old Jewish graveyard and shot.
+- 1942: Anne Frank receives a diary for her thirteenth birthday.
+- 1940: World War II: Thirteen thousand British and French troops surrender to Major General Erwin Rommel at Saint-Valery-en-Caux.
+- 1939: The Baseball Hall of Fame opens in Cooperstown, New York.
+- 1939: Shooting begins on Paramount Pictures' Dr. Cyclops, the first horror film photographed in three-strip Technicolor.
 
 Data from muffinlabs
-*(Updated at: 2025-06-11 01:53:46 UTC)*
+*(Updated at: 2025-06-12 01:52:19 UTC)*
 
 # 历史上的今天 
 
-- -  2013年：希腊的公共广播公司ERT被当时的总理安东尼斯·萨马拉斯（Antonis Samaras）关闭。两年后，当时的部长亚历克西斯·蒂普拉斯（Alexis Tsipras）将恰好开放。
-- -  2012年：75人死于阿富汗两次地震引发的山体滑坡；整个村庄都被埋葬了。
-- -  2010年：第一个非洲FIFA世界杯在南非开始。
-- -2008：Fermi Gamma-ray太空望远镜被推出到轨道上。
-- -  2008年：加拿大总理史蒂芬·哈珀（Stephen Harper）对加拿大印度一所印度居住学校的虐待行为有了历史性的官方道歉。
-- -  2007年：孟加拉国吉大港的泥石流，杀死130人。
-- -  2004年：卡西尼·赫格斯（Cassini-Huygens）最接近土星月亮菲比（Phoebe）的飞越。
-- -  2002年：美国国会将安东尼奥·穆奇（Antonio Meucci）承认为第一位电话发明者。
-- -  2001年：蒂莫西·麦克维（Timothy McVeigh）因在俄克拉荷马城爆炸案中的角色而被处决。
-- -  1998年：Compaq计算机在最大的高科技收购中为数字设备公司支付了90亿美元。
-- -  1987年：黛安·雅培（Diane Abbott），保罗·博阿伯特（Paul Boateng）和伯尼·格兰特（Bernie Grant）当选为英国的第一位黑人议员。
-- -  1981年：伊朗戈尔巴夫（Golbaf）的6.9级地震杀死了至少2,000人。
-- -  1978年：阿尔塔夫·侯赛因（Altaf Hussain）在卡拉奇大学（Karachi University）找到了学生政治运动的所有巴基斯坦Muhajir学生组织（APMSO）。
-- -  1971年：美国政府强行删除了对美国原住民对恶魔岛的最后持有，结束了19个月的控制。
-- -  1970年：5月15日被任命后，安娜·梅·海斯（Anna Mae Hays）和伊丽莎白·霍辛顿（Elizabeth P.
-- -1968：Lloyd J. Old确定了可以区分不同细胞类型的第一个细胞表面抗原。
-- -  1964年：第二次世界大战的老将沃尔特·塞弗特（Walter Seifert）袭击了德国科隆的一所小学，杀死了至少八名儿童和两名老师，并用自制的火焰架和长矛严重受伤。
-- -  1963年：约翰·肯尼迪（John F. Kennedy）向椭圆形办公室中的美国人讲话，提议1964年《民权法》，该法案将通过保证平等获得公共设施，结束教育隔离并保证联邦对投票权的保护来彻底改变美国社会。
-- -  1963年：佛教和尚在繁忙的西贡交叉路口中用汽油燃烧自己，以抗议越南南部缺乏宗教自由。
-- -  1963年：美国民权运动：阿拉巴马州乔治·华莱士（George Wallace）的州长挑衅地站在阿拉巴马大学寄养礼堂的门口，试图阻止两名黑人学生Vivian Malone和James Hood，无法就那所学校就读。当天晚些时候，在联邦国民警卫队部队的陪同下，他们能够注册。
-- -  1962年：据称，弗兰克·莫里斯（Frank Morris），约翰·安格林（John Anglin）和克拉伦斯·安格林（Clarence Anglin）成为唯一从恶魔岛监狱逃脱的囚犯。
-- -  1956年：Gal Oya Riots的开始，这是第一个针对东部省份少数斯里兰卡泰米尔人的种族暴动。据报道，死亡人数为150。
-- -  1955年：在奥斯丁·赫利（Austin-Healey）和梅赛德斯·奔驰（Mercedes-Benz）在勒芒24小时内碰撞后，八十三名观众被杀，至少一百人受伤，这是赛车场上最致命的事故。
-- -  1944年：密苏里州号号航空母舰是美国海军建造的最后一场战舰，也是签署日本投降工具的未来地点。
-- -  1942年：成功延迟了轴心前进后，自由法国部队从Bir Hakeim撤退。
-- -  1942年：第二次世界大战：美国同意向苏联发送租赁援助。
-- -  1940年：第二次世界大战：马耳他的包围始于一系列意大利空袭。
-- -  1938年：第二次中日战争：武汉战役开始。
-- -  1937年：大清洗：约瑟夫·斯大林（Joseph Stalin）领导下的苏联执行八名陆军领导人。
-- -  1936年：伦敦国际超现实主义展览开幕。
+- -  2024年：科威特市曼加夫的一座住宅大楼中的大火杀死了至少50人。
+- -  2019年：Kassym-Jomart Tokayev担任哈萨克斯坦的第二任总统。
+- -  2018年：朝鲜的美国总统唐纳德·特朗普（Donald Trump）和金正恩（Kim Jong-un）举行了两国领导人在新加坡领导人之间的第一次会议。
+- -  2016年：49名平民被杀，58人在美国佛罗里达州奥兰多的同性恋夜总会袭击中受伤；枪手奥马尔·马滕（Omar Mateen）与警察在枪战中被杀。
+- -  2014年：伊拉克伊斯兰国在伊拉克伊斯兰国和黎凡特（Levant）在伊拉克蒂克里特（Tikrit）的Speicher营地的袭击中杀害了1,095至1,700名什叶派伊拉克什叶派人民。这是历史上第二个最致命的恐怖主义行为，仅次于9/11。
+- -  2009年：在伊朗举行的有争议的总统大选导致广泛的地方和国际抗议活动。
+- -  1999年：科索沃战争：联合监护人行动开始时，北约领导的联合国维持和平部队（KFOR）进入南斯拉夫联邦共和国科索沃省。
+- -  1993年：选举在尼日利亚举行，并由Moshimawo Olawale Abiola赢得。后来，易卜拉欣·巴巴吉达军事政府废除了其结果。
+- -  1991年：Kokkadichcholai大屠杀：斯里兰卡陆军大屠杀152个少数民族泰米尔人平民，位于东部省镇镇Batticaloa附近的Kokkadichcholai村。
+- -  1991年：在现代俄罗斯的第一次民主大选中，鲍里斯·叶利钦（Boris Yeltsin）当选为俄罗斯总统。
+- -  1990年：俄罗斯日：俄罗斯联邦议会正式宣布其主权。
+- -  1988年：麦克唐纳·道格拉斯（McDonnell Douglas）MD-81号澳大利亚·丽尼亚斯·阿里亚斯（AustralLíneasAéreas）航班046号航班撞车，在利比尔塔多将军何塞·德·圣马丁机场（JosédeSanMartínAirport）的跑道没有撞车，杀死了所有22人。
+- -  1987年：冷战：在勃兰登堡门，美国总统罗纳德·里根（Ronald Reagan）公开挑战米哈伊尔·戈尔巴乔夫（Mikhail Gorbachev）拆除柏林墙。
+- -  1987年：中非共和国的前皇帝让·贝德尔·博卡萨（Jean-BédelBokassa）因他在13年统治中犯下的罪行而被判处死刑。
+- -  1982年：核裁军集会和音乐会在纽约市举行。
+- -  1981年：印第安纳·琼斯（Indiana Jones）电影系列的第一部电影《失落的方舟的突袭者》在剧院上映。
+- -  1979年：布莱恩·艾伦（Bryan Allen）赢得了克雷默（Kremer）的第二次奖金，该奖项是在摩天出的信天翁中跨过英国频道的人类驱动的航班。
+- -  1975年：印度，阿拉哈巴德市的Jagmohanlal Sinha法官裁定，印度总理英迪拉·甘地（Indira Gandhi）曾利用腐败的做法赢得了在印度议会的席位，应禁止她担任任何公职。甘地夫人发表消息说她拒绝辞职。
+- -  1967年：美国最高法院在爱情诉弗吉尼亚州宣布所有禁止异族婚姻违宪的美国法律。
+- -  1964年：反种族隔离活动家和非国大领袖纳尔逊·曼德拉（Nelson Mandela）因在南非的破坏而被判处无期徒刑。
+- -  1963年：由伊丽莎白·泰勒（Elizabeth Taylor）和理查德·伯顿（Richard Burton）主演的电影《埃及艳后》在美国剧院上映。这是当时制作的最昂贵的电影。
+- -  1963年：NAACP现场秘书Medgar Evers在民权运动期间被Ku Klux Klan成员Byron de La Beckwith在他在密西西比州杰克逊的房屋前谋杀。
+- -  1954年：教皇庇护十二世义大利佳肴多米尼克·萨维奥（Dominic Savio），他去世时14岁，是圣人，当时他是罗马天主教堂中最年轻的不友善的圣人。2017年，弗朗西斯科（Francisco）和贾辛塔·玛托（Jacinta Marto）死于十岁和九岁，被宣布为圣徒。
+- -  1950年：法国道格拉斯DC-4航空公司在巴林国际机场附近撞车，造成46人丧生。
+- -  1944年：第二次世界大战：霸主行动：第101空降师的美国伞兵保护了法国诺曼底的卡伦丹镇。
+- -  1943年：大屠杀：德国在波兰的布尔兹尼（Brze松）（现为乌克兰的Berezhany）清洗了犹太人贫民窟。大约有1,180名犹太人被带到城市的旧犹太墓地并开枪。
+- -  1942年：安妮·弗兰克（Anne Frank）为她的十三岁生日获得了日记。
+- -  1940年：第二次世界大战：13,000万英国和法国军队在圣维瓦利 - 恩卡克斯（Saint-Valery-en-Caux）向欧文·隆美尔少将投降。
+- -  1939年：棒球名人堂在纽约库珀斯敦开业。
+- -  1939年：拍摄始于派拉蒙（Paramount Pictures）的Cyclops博士，这是第一部恐怖片，以三架技术彩色拍摄。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-06-11 01:53:46 UTC）*
+*（更新于: 2025-06-12 01:52:19 UTC）*
