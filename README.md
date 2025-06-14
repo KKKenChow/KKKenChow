@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: Three people are killed and another three injured in an early morning stabbing and van ramming attack in Nottingham, England.
-- 2023: At least 100 people are killed when a wedding boat capsizes on the Niger River in Kwara State, Nigeria.
-- 2021: A gas explosion in Zhangwan district of Shiyan city, in Hubei province of China kills at least 12 people and wounds over 138 others.
-- 2018: Volkswagen is fined one billion euros over the emissions scandal.
-- 2015: A man opens fire at policemen outside the police headquarters in Dallas, Texas, while a bag containing a pipe bomb is also found. He was later shot dead by police.
-- 2012: A series of bombings across Iraq, including Baghdad, Hillah and Kirkuk, kills at least 93 people and wounds over 300 others.
-- 2010: A capsule of the Japanese spacecraft Hayabusa, containing particles of the asteroid 25143 Itokawa, returns to Earth by landing in the Australian Outback.
-- 2007: The Al Askari Mosque is bombed for a second time.
-- 2005: The jury acquits pop singer Michael Jackson of his charges for allegedly sexually molesting a child in 1993.
-- 2002: The United States withdraws from the Anti-Ballistic Missile Treaty.
-- 2000: Italy pardons Mehmet Ali Ağca, the Turkish gunman who tried to kill Pope John Paul II in 1981.
-- 2000: President Kim Dae-jung of South Korea meets Kim Jong-il, leader of North Korea, for the beginning of the first ever inter-Korea summit, in the northern capital of Pyongyang.
-- 1999: BMW win 1999 24 Hours of Le Mans
-- 1997: The Uphaar Cinema Fire took place at Green Park, Delhi, resulting in the deaths of 59 people and seriously injured 103 others.
-- 1997: A jury sentences Timothy McVeigh to death for his part in the 1995 Oklahoma City bombing.
-- 1996: Garuda Indonesia flight 865 crashes during takeoff from Fukuoka Airport, killing three people and injuring 170.
-- 1996: The Montana Freemen surrender after an 81-day standoff with FBI agents.
-- 1994: A jury in Anchorage, Alaska, blames recklessness by Exxon and Captain Joseph Hazelwood for the Exxon Valdez disaster, allowing victims of the oil spill to seek $15 billion in damages.
-- 1990: First day of the June 1990 Mineriad in Romania. At least 240 strikers and students are arrested or killed in the chaos ensuing from the first post-Ceaușescu elections.
-- 1983: Pioneer 10 becomes the first man-made object to leave the central Solar System when it passes beyond the orbit of Neptune.
-- 1982: Battles of Tumbledown and Wireless Ridge, during the Falklands War.
-- 1982: Fahd becomes King of Saudi Arabia upon the death of his brother, Khalid.
-- 1981: At the Trooping the Colour ceremony in London, a teenager, Marcus Sarjeant, fires six blank shots at Queen Elizabeth II.
-- 1977: Convicted Martin Luther King Jr. assassin James Earl Ray is recaptured after escaping from prison three days before.
-- 1973: In a game versus the Philadelphia Phillies at Veterans Stadium, Los Angeles Dodgers teammates Steve Garvey, Davey Lopes, Ron Cey and Bill Russell play together as an infield for the first time, going on to set the Major League Baseball record of staying together for .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}8+1⁄2 years.
-- 1971: Vietnam War: The New York Times begins publication of the Pentagon Papers.
-- 1967: U.S. President Lyndon B. Johnson nominates Solicitor-General Thurgood Marshall to become the first black justice on the U.S. Supreme Court.
-- 1966: The United States Supreme Court rules in Miranda v. Arizona that the police must inform suspects of their Fifth Amendment rights before questioning them (colloquially known as "Mirandizing").
-- 1952: Catalina affair: A Swedish Douglas DC-3 is shot down by a Soviet MiG-15 fighter.
-- 1944: World War II: Germany launches the first V1 Flying Bomb attack on England. Only four of the eleven bombs strike their targets.
+- 2017: Republican U.S. House Majority Whip Steve Scalise of Louisiana, and three others, are shot and wounded while practicing for the annual Congressional Baseball Game.
+- 2017: A fire in a high-rise apartment building in North Kensington, London, UK, leaves 72 people dead and another 74 injured.
+- 2014: A Ukraine military Ilyushin Il-76 airlifter is shot down, killing all 49 people on board.
+- 2002: Near-Earth asteroid 2002 MN misses the Earth by 75,000 miles (121,000 km), about one-third of the distance between the Earth and the Moon.
+- 1994: The 1994 Vancouver Stanley Cup riot occurs after the New York Rangers defeat the Vancouver Canucks to win the Stanley Cup, causing an estimated C$1.1 million, leading to 200 arrests and injuries.
+- 1986: The Mindbender derails and kills three riders at the Fantasyland (known today as Galaxyland) indoor amusement park at West Edmonton Mall in Edmonton, Alberta.
+- 1985: Five member nations of the European Economic Community sign the Schengen Agreement establishing a free travel zone with no border controls.
+- 1982: Falklands War: Argentine forces in the capital Stanley conditionally surrender to British forces.
+- 1972: Japan Air Lines Flight 471 crashes on approach to Palam International Airport (now Indira Gandhi International Airport) in New Delhi, India, killing 82 of the 87 people on board and four more people on the ground.
+- 1967: Mariner program: Mariner 5 is launched towards Venus.
+- 1966: The Vatican announces the abolition of the Index Librorum Prohibitorum ("index of prohibited books"), which was originally instituted in 1557.
+- 1962: The European Space Research Organisation is established in Paris - later becoming the European Space Agency.
+- 1959: Disneyland Monorail System, the first daily operating monorail system in the Western Hemisphere, opens to the public in Anaheim, California.
+- 1955: Chile becomes a signatory to the Buenos Aires copyright treaty.
+- 1954: U.S. President Dwight D. Eisenhower signs a bill into law that places the words "under God" into the United States Pledge of Allegiance.
+- 1951: UNIVAC I is dedicated by the U.S. Census Bureau.
+- 1950: An Air France Douglas DC-4 crashes near Bahrain International Airport, killing 40 people. This came two days after another Air France DC-4 crashed in the same location.
+- 1949: Albert II, a rhesus monkey, rides a V-2 rocket to an altitude of 134 km (83 mi), thereby becoming the first mammal and first monkey in space.
+- 1945: World War II: Filipino troops of the Philippine Commonwealth Army liberate the captured in Ilocos Sur and start the Battle of Bessang Pass in Northern Luzon.
+- 1944: World War II: After several failed attempts, the British Army abandons Operation Perch, its plan to capture the German-occupied town of Caen.
+- 1941: June deportation: the first major wave of Soviet mass deportations of Estonians, Latvians and Lithuanians, begins.
+- 1940: Seven hundred and twenty-eight Polish political prisoners from Tarnów become the first inmates of the Auschwitz concentration camp.
+- 1940: The Soviet Union presents an ultimatum to Lithuania resulting in Lithuanian loss of independence.
+- 1940: World War II: The German occupation of Paris begins.
+- 1937: U.S. House of Representatives passes the Marihuana Tax Act.
+- 1937: Pennsylvania becomes the first (and only) state of the United States to celebrate Flag Day officially as a state holiday.
+- 1934: The landmark Australian Eastern Mission returns from its three-month tour of East and South-East Asia.
+- 1926: Brazil leaves the League of Nations.
+- 1919: John Alcock and Arthur Whitten Brown depart from St. John's, Newfoundland on the first nonstop transatlantic flight.
+- 1907: The National Association for Women's Suffrage succeeds in getting Norwegian women the right to vote in parliamentary elections.
 
 Data from muffinlabs
-*(Updated at: 2025-06-13 01:53:18 UTC)*
+*(Updated at: 2025-06-14 01:49:22 UTC)*
 
 # 历史上的今天 
 
-- -  2023年：在清晨的刺伤和范·拉姆（Van Ramming）的袭击中，三人被杀，另外三人受伤。
-- -2023：婚礼船在尼日利亚夸瓦州的尼日尔河上倾覆时，至少有100人被杀。
-- -  2021年：湖北省Zhangwan区的一场气体爆炸炸死至少128人，伤口至少128人。
-- -  2018年：大众在排放丑闻中被罚款10亿欧元。
-- -  2015年：一名男子在德克萨斯州达拉斯的警察总部外向警察开火，同时还发现了一个装有管炸弹的袋子。后来他被警察枪杀。
-- -  2012年：包括巴格达，希拉和基尔库克在内的一系列爆炸案，炸死了至少93人和300多人的伤口。
-- -  2010年：日本航天器的Hayabusa的胶囊，其中包含小行星25143 Itokawa的颗粒，通过降落在澳大利亚内陆地区返回地球。
-- -  2007年：Al Askari清真寺第二次被轰炸。
-- -  2005年：陪审团因涉嫌在1993年对孩子进行性骚扰而被指控流行歌手迈克尔·杰克逊（Michael Jackson）。
-- -  2002年：美国退出了反焊接导弹条约。
-- -  2000年：意大利赦免了土耳其枪手MehmetAliAğca，他试图在1981年杀死教皇约翰二世。
-- -  2000年：韩国总统的金·达（Kim Dae-jung）会见朝鲜领导人金正日（Kim Jong-il），是在平壤北部首都北部首次korea峰会的开始。
-- -1999：宝马赢1999 24小时的勒芒
-- -  1997年：Uphaar电影大火在德里的绿色公园举行，导致59人死亡，并严重受伤了103人。
-- -  1997年：陪审团蒂莫西·麦克维（Timothy McVeigh）因在1995年俄克拉荷马城爆炸案中而处死。
-- -  1996年：从福冈机场起飞期间，印度尼西亚鹰航865号航班撞车，造成3人丧生，炸伤170人。
-- -  1996年：与联邦调查局特工进行了为期81天的对峙后，蒙大拿州的自由人投降。
-- -  1994年：阿拉斯加安克雷奇的陪审团责怪埃克森美孚公司和上尉约瑟夫·哈兹伍德（Joseph Hazelwood）为埃克森·瓦尔迪兹（Exxon Valdez）灾难而造成的鲁ck，允许漏油事件的受害者寻求150亿美元的损害赔偿。
-- -  1990年：1990年6月的罗马尼亚矿流的第一天。在第一次后首次选举中，至少有240名前锋和学生在随后的混乱中被捕或杀害。
-- -  1983年：先锋10成为第一个超过海王星轨道时离开中央太阳系的人造物体。
-- -  1982年：在福克兰战争期间，在福克兰战争期间进行了Bumbledown和Wireless Ridge的战斗。
-- -  1982年：法赫德（Fahd）在他的兄弟哈立德（Khalid）去世后成为沙特阿拉伯的国王。
-- -  1981年：在伦敦的彩色仪式上，少年马库斯·萨吉（Marcus Sarjeant）向伊丽莎白二世女王开了六张空白镜头。
-- -  1977年：三天前从监狱逃脱后，被定罪的马丁·路德·金（Martin Luther King Jr.
-- -  1973年：在一场比赛中，洛杉矶道奇队在退伍军人体育场的一场比赛中，洛杉矶道奇队的队友史蒂夫·加维（Steve Garvey），戴维·洛佩斯（Davey Lopes），罗恩·凯（Ron Cey）和比尔·罗素（Bill Russell）首次将其作为内场比赛，继续为.mw-parser-out-parser-over-out-out-out-untust tublacs complacs complacsion。。0px，0px 0px，0px 0px）;高度：1px; margin; margin：-1px;溢出：隐藏; padding：0; posting; position; position：absolute; width：1px} 8+1⁄2年。
-- -  1971年：越南战争：《纽约时报》开始发表《五角大楼论文》。
-- -  1967年：美国总统Lyndon B. Johnson提名律师Thurgood Marshall成为美国最高法院的第一位黑人司法。
-- -  1966年：美国最高法院在Miranda诉亚利桑那州案中规定，警方必须在质疑其第五修正案权利（通俗地称为“ Mirandizing”）之前向嫌疑人告知嫌疑人。
-- -  1952年：卡塔琳娜（Catalina）的事件：瑞典道格拉斯（Douglas DC-3）被苏联Mig-15战斗机击落。
-- -  1944年：第二次世界大战：德国发动了第一次对英国的V1飞行炸弹袭击。11枚炸弹中只有四枚袭击了目标。
+- -  2017年：共和党美国众议院多数派路易斯安那州的史蒂夫·斯卡利斯（Steve Scalise）和另外三名，在练习年度国会棒球比赛时受到枪击和受伤。
+- -  2017年：英国伦敦北肯辛顿市的一栋高层公寓大楼发生了大火，造成72人死亡，另有74人受伤。
+- -  2014年：乌克兰军事Ilyushin IL-76航空公司被击落，杀死了所有49人。
+- -  2002年：近地小行星2002 MN错过了地球75,000英里（121,000公里），约占地球和月球之间距离的三分之一。
+- -  1994年：1994年温哥华史丹利杯骚乱发生在纽约游骑兵击败温哥华加人队以赢得斯坦利杯冠军之后，造成了估计110万加元，导致200人被捕和伤害。
+- -  1986年：Mindbender在艾伯塔省埃德蒙顿的西埃德蒙顿购物中心（West Edmonton）购物中心的幻想地（今天称为Galaxyland）脱轨并杀死了三名骑手。
+- -  1985年：欧洲经济界的五个成员国签署了申根协定，建立了一个没有边境管制的自由旅行区。
+- -  1982年：福克兰战争：首都斯坦利的阿根廷军队有条件投降给英军。
+- -  1972年：日本航空公司471航班在印度新德里的Palam国际机场（现为Indira Gandhi国际机场）的临近行驶时撞车，造成87人中的82人中的82人，另外四人丧生。
+- -  1967年：水手计划：水手5向金星推出。
+- -  1966年：梵蒂冈宣布废除索引库库禁止（“禁止书籍索引”），该书最初于1557年成立。
+- -  1962年：欧洲太空研究组织成立于巴黎 - 后来成为欧洲航天局。
+- -  1959年：迪士尼乐园单轨系统是西半球的第一个日常运营单轨系统，该系统向加利福尼亚州阿纳海姆市的公众开放。
+- -  1955年：智利成为布宜诺斯艾利斯版权条约的签署国。
+- -  1954年：美国总统德怀特·D·艾森豪威尔（D.
+- -  1951年：Univac I由美国人口普查局奉献。
+- -  1950年：法国道格拉斯DC-4航空公司在巴林国际机场附近撞车，造成40人丧生。这是在另一个法国DC-4在同一地点坠毁的两天之后。
+- -  1949年：阿尔伯特二世（Albert II），一只恒河猴（Albert II），骑着V-2火箭弹到134公里（83英里）的高度，从而成为太空中的第一个哺乳动物和第一个猴子。
+- -  1945年：第二次世界大战：菲律宾联邦军队的菲律宾军队解放了伊洛科斯苏尔（Ilocos Sur）被捕的人，并开始了吕宋岛北部的贝桑及其战役。
+- -  1944年：第二次世界大战：经过几次失败的尝试，英国军队放弃了鲈鱼行动，该行动是捕获德国人占领的凯恩镇的计划。
+- -  1941年：六月驱逐出境：苏联人，拉脱维亚人和立陶宛人的首次大规模驱逐出境。
+- -  1940年：来自塔诺夫（Tarnów）的七百二十八名波兰政治犯成为奥斯威辛集中营的第一批囚犯。
+- -  1940年：苏联向立陶宛提出了最后通atum，导致立陶宛失去独立。
+- -  1940年：第二次世界大战：德国对巴黎的占领开始。
+- -  1937年：美国众议院通过了《大麻税法》。
+- -  1937年：宾夕法尼亚州成为美国第一个（也是唯一的）州正式庆祝国旗日作为州假期。
+- -  1934年：里程碑式的澳大利亚东部任务从其东亚和东南亚的三个月之旅中返回。
+- -  1926年：巴西离开国际联盟。
+- -  1919年：约翰·阿尔考克（John Alcock）和亚瑟·惠顿（Arthur Whitten Brown）在第一次不间断的跨大西洋飞行中从纽芬兰的圣约翰出发。
+- -  1907年：全国妇女选举权协会成功地使挪威妇女在议会选举中有权投票权。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-06-13 01:53:18 UTC）*
+*（更新于: 2025-06-14 01:49:22 UTC）*
