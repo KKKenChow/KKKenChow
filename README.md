@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: Titan, a submersible operated by OceanGate Expeditions, imploded while attempting to view the wreck of the Titanic, killing all five people on board including the co-founder and CEO of the company, Stockton Rush in the North Atlantic Ocean.
-- 2018: An earthquake of magnitude 6.1 strikes northern Osaka.
-- 2009: The Lunar Reconnaissance Orbiter (LRO), a NASA robotic spacecraft is launched.
-- 2007: The Charleston Sofa Super Store fire happened in Charleston, South Carolina, killing nine firefighters.
-- 2006: The first Kazakh space satellite, KazSat-1 is launched.
-- 1998: Propair Flight 420 crashes near Montréal-Mirabel International Airport in Quebec, Canada, killing 11.
-- 1994: The Troubles: Members of the Ulster Volunteer Force (UVF) attack a crowded pub with assault rifles in Loughinisland, Northern Ireland. Six Catholic civilians are killed and five wounded. It was crowded with people watching the 1994 FIFA World Cup.
-- 1984: A major clash between about 5,000 police and a similar number of striking miners takes place at Orgreave, South Yorkshire, during the 1984-85 UK miners' strike.
-- 1983: Mona Mahmudnizhad, together with nine other women of the Baháʼí Faith, is sentenced to death and hanged in Shiraz, Iran over her religious beliefs.
-- 1983: Space Shuttle program: STS-7, Astronaut Sally Ride becomes the first American woman in space.
-- 1982: Italian banker Roberto Calvi's body is discovered hanging beneath Blackfriars Bridge in London, England.
-- 1981: The Lockheed F-117 Nighthawk, the first operational aircraft initially designed around stealth technology, makes its first flight.
-- 1979: SALT II is signed by the United States and the Soviet Union.
-- 1972: Staines air disaster: One hundred eighteen people are killed when a BEA H.S. Trident crashes minutes after takeoff from London's Heathrow Airport.
-- 1965: Vietnam War: The United States Air Force uses B-52 bombers to attack guerrilla fighters in South Vietnam.
-- 1958: Benjamin Britten's one-act opera Noye's Fludde premiered at the Aldeburgh Festival.
-- 1954: Carlos Castillo Armas leads an invasion force across the Guatemalan border, setting in motion the 1954 Guatemalan coup d'état.
-- 1953: A United States Air Force C-124 crashes and burns near Tachikawa, Japan, killing 129.
-- 1953: The Egyptian revolution of 1952 ends with the overthrow of the Muhammad Ali dynasty and the declaration of the Republic of Egypt.
-- 1948: Britain, France and the United States announce that on June 21, the Deutsche Mark will be introduced in western Germany and West Berlin. Over the next six days, Communists increasingly restrict access to Berlin.
-- 1948: Columbia Records introduces the long-playing record album in a public demonstration at the Waldorf-Astoria Hotel in New York City.
-- 1946: Dr. Ram Manohar Lohia, a Socialist, calls for a Direct Action Day against the Portuguese in Goa.
-- 1945: William Joyce ("Lord Haw-Haw") is charged with treason for his pro-German propaganda broadcasting during World War II.
-- 1940: The "Finest Hour" speech is delivered by Winston Churchill.
-- 1940: Appeal of 18 June by Charles de Gaulle.
-- 1935: Police in Vancouver, British Columbia, Canada, clash with striking longshoremen, resulting in a total of 60 injuries and 24 arrests.
-- 1928: Aviator Amelia Earhart becomes the first woman to fly in an aircraft across the Atlantic Ocean (she is a passenger; Wilmer Stultz is the pilot and Lou Gordon the mechanic).
-- 1920: The Troubles in Northern Ireland (1920-1922) begin with a week of sectarian violence in Derry.
-- 1908: The University of the Philippines is established.
-- 1908: Japanese immigration to Brazil begins when 781 people arrive in Santos aboard the ship Kasato-Maru.
+- 2020: Animal rights advocate Regan Russell is run over and killed by a transport truck outside of a pig slaughterhouse in Burlington, Ontario.
+- 2018: Antwon Rose II is fatally shot in East Pittsburgh by East Pittsburgh Police Officer Michael Rosfeld after being involved in a near-fatal drive-by shooting.
+- 2018: The 10,000,000th United States Patent is issued.
+- 2012: WikiLeaks founder Julian Assange requests asylum in London's Ecuadorian Embassy for fear of extradition to the US after publication of previously classified documents including footage of civilian killings by the US army.
+- 2009: War in North-West Pakistan: The Pakistani Armed Forces open Operation Rah-e-Nijat against the Taliban and other Islamist rebels in the South Waziristan area of the Federally Administered Tribal Areas.
+- 2009: Mass riots involving over 10,000 people and 10,000 police officers break out in Shishou, China, over the dubious circumstances surrounding the death of a local chef.
+- 2007: The al-Khilani Mosque bombing in Baghdad leaves 78 people dead and another 218 injured.
+- 2005: Following a series of Michelin tire failures during the United States Grand Prix weekend at Indianapolis, and without an agreement being reached, 14 cars from seven teams in Michelin tires withdrew after completing the formation lap, leaving only six cars from three teams on Bridgestone tires to race.
+- 1991: The last Soviet army units in Hungary are withdrawn.
+- 1990: The Communist Party of the Russian Soviet Federative Socialist Republic is founded in Moscow.
+- 1990: The current international law defending indigenous peoples, Indigenous and Tribal Peoples Convention, 1989, is ratified for the first time by Norway.
+- 1988: Pope John Paul II canonizes 117 Vietnamese Martyrs.
+- 1987: Aeroflot Flight N-528 crashes at Berdiansk Airport in present-day Ukraine, killing eight people.
+- 1987: Basque separatist group ETA commits one of its most violent attacks, in which a bomb is set off in a supermarket, Hipercor, killing 21 and injuring 45.
+- 1985: Members of the Revolutionary Party of Central American Workers, dressed as Salvadoran soldiers, attack the Zona Rosa area of San Salvador.
+- 1982: The People's Armed Police is de facto founded; It is officially established 10 months later on April 5, 1983
+- 1978: Garfield's first comic strip, originally published locally as Jon in 1976, goes into nationwide syndication.
+- 1965: Nguyễn Cao Kỳ becomes Prime Minister of South Vietnam at the head of a military junta; General Nguyễn Văn Thiệu becomes the figurehead chief of state.
+- 1964: The Civil Rights Act of 1964 is approved after surviving an 83-day filibuster in the United States Senate.
+- 1961: Kuwait declares independence from the United Kingdom.
+- 1960: Charlotte Motor Speedway holds its first NASCAR race, the inaugural World 600.
+- 1953: Cold War: Julius and Ethel Rosenberg are executed at Sing Sing, in New York.
+- 1947: Pan Am Flight 121 crashes in the Syrian Desert near Mayadin, Syria, killing 15 and injuring 21.
+- 1943: The Philadelphia Eagles and Pittsburgh Steelers of the NFL merge for one season due to player shortages caused by World War II.
+- 1934: The Communications Act of 1934 establishes the United States' Federal Communications Commission (FCC).
+- 1921: The village of Knockcroghery, Ireland, is burned by British forces.
+- 1913: Natives Land Act, 1913 in South Africa implemented.
+- 1910: The first Father's Day is celebrated in Spokane, Washington.
+- 1903: Benito Mussolini, at the time a radical Socialist, is arrested by Bern police for advocating a violent general strike.
+- 1875: The Herzegovinian rebellion against the Ottoman Empire begins.
 
 Data from muffinlabs
-*(Updated at: 2025-06-18 01:53:13 UTC)*
+*(Updated at: 2025-06-19 01:54:04 UTC)*
 
 # 历史上的今天 
 
-- -  2023年：泰坦（Titan）是由海门探险队（Oceangate Expeditions）经营的潜水，在试图观看泰坦尼克号的残骸时爆炸了，杀死了船上的所有五人，包括公司的联合创始人兼首席执行官，北大西洋的斯托克顿·拉什（Stockton Rush）。
-- -  2018年：幅度6.1的地震袭击了大阪北部。
-- -  2009年：发射了NASA机器人航天器的月球侦察轨道（LRO）。
-- -  2007年：查尔斯顿沙发超级商店大火发生在南卡罗来纳州的查尔斯顿，杀死了9名消防员。
-- -  2006年：启动了哈萨克卫星的第一个哈萨克太空卫星。
-- -  1998年：加拿大魁北克的蒙特利尔·米拉贝尔国际机场附近的Propair 420撞车事故，杀死11人。
-- -  1994年：麻烦：阿尔斯特志愿者部队（UVF）的成员袭击了一家拥挤的酒吧，里面是北爱尔兰拉夫尼斯兰德的突击步枪。六名天主教平民被杀，五人受伤。人们挤满了观看1994年FIFA世界杯的人们。
-- -  1984年：在1984  -  85英国矿工的罢工期间，大约5,000名警察与类似罢工的矿工之间发生了重大冲突。
-- -  1983年：蒙娜·马哈穆德尼兹（Mona Mahmudnizhad）与其他九名巴哈伊信仰的妇女一起被判处死刑，并因她的宗教信仰而被绞死在伊朗的设拉子（Shiraz）。
-- -  1983年：航天飞机计划：STS-7，宇航员Sally Ride成为太空中的第一个美国女性。
-- -  1982年：意大利银行家罗伯托·卡尔维（Roberto Calvi）的尸体被发现悬挂在英国伦敦的Blackfriars桥下。
-- -  1981年：洛克希德F-117 Nighthawk是最初围绕隐形技术设计的第一架操作飞机，是其第一次飞行。
-- -  1979年：盐II由美国和苏联签署。
-- -  1972年：污渍空气灾难：一百八人在Bea H.S.从伦敦的希思罗机场起飞几分钟后，三叉戟坠毁。
-- -  1965年：越南战争：美国空军使用B-52轰炸机在越南南部攻击游击战士。
-- -  1958年：本杰明·布里顿（Benjamin Britten）的一幕歌剧诺耶（Noye）的弗卢德（Fludde）在阿尔德堡音乐节（Aldeburgh Festival）首映。
-- -  1954年：Carlos Castillo Armas领导着危地马拉边境的入侵部队，并开始了1954年的危地马拉政变。
-- -  1953年：日本塔川附近的美国空军C-124坠毁和烧伤，杀死129。
-- -  1953年：1952年的埃及革命以推翻穆罕默德·阿里（Muhammad Ali）王朝和埃及共和国的宣言结束。
-- -  1948年：英国，法国和美国宣布，6月21日，德国马克将在德国西部和西柏林引入。在接下来的六天中，共产党人越来越限制进入柏林的机会。
-- -  1948年：哥伦比亚唱片公司在纽约市的华尔道夫 - 阿斯托里亚酒店的公开演示中介绍了长期唱片专辑。
-- -  1946年：社会主义者Ram Manohar Lohia博士呼吁对果阿的葡萄牙人进行直接行动日。
-- -  1945年：威廉·乔伊斯（William Joyce）（“霍夫勋爵”）因其在第二次世界大战期间的亲德国宣传广播而被控叛国罪。
-- -  1940年：温斯顿·丘吉尔（Winston Churchill）发表了“最好的时刻”演讲。
-- -  1940年：查尔斯·德·高勒（Charles de Gaulle）于6月18日上诉。
-- -  1935年：在加拿大不列颠哥伦比亚省温哥华的警察与罢工的长期肖像冲突，总共造成60次伤害和24人被捕。
-- -  1928年：飞行员阿米莉亚·埃哈特（Amelia Earhart）成为第一个乘坐飞机乘坐大西洋的女人（她是乘客；威尔默·斯特尔茨（Wilmer Stultz）是飞行员，而机械师的卢·戈登（Lou Gordon）则是机械师。
-- -  1920年：北爱尔兰的麻烦（1920-1922）始于德里的宗派暴力。
-- -  1908年：建立了菲律宾大学。
-- -  1908年：日本移民到巴西开始，当时有781人在卡萨托·马鲁（Kasato-Maru）船上到达桑托斯（Santos）。
+- -  2020年：动物权利倡导者里根·罗素（Regan Russell）被安大略省伯灵顿的一辆猪屠宰场外的一辆运输车撞倒并杀死。
+- -  2018年：东匹兹堡警察迈克尔·罗斯菲尔德（Michael Rosfeld）在东匹兹堡（East Pittsburgh）致命地枪杀了安特旺·罗斯二世（Antwon Rose II）。
+- -  2018年：颁发了10,000,000届美国专利。
+- -  2012年：WikiLeaks创始人朱利安·阿桑奇（Julian Assange）要求在伦敦厄瓜多尔大使馆中庇护庇护所，因为担心在出版了先前分类的文件之后将其引渡到美国，包括美国陆军对平民杀人的录像。
+- -  2009年：巴基斯坦西北部的战争：巴基斯坦武装部队公开行动拉赫·尼亚特（Rah-e-Nijat）对塔利班和其他伊斯兰叛乱分子的其他伊斯兰叛乱分子，位于联邦政府管理部落地区的南瓦济里斯坦地区。
+- -  2009年：大规模骚乱涉及10,000多人和10,000名警察在中国Shishou爆发，围绕当地厨师去世的可疑情况。
+- -  2007年：巴格达的Al-Khilani清真寺炸弹爆炸使78人死亡，另有218人受伤。
+- -  2005年：在印第安纳波利斯的美国大奖赛周末发生了一系列米其林轮胎故障之后，没有达成协议，米其林轮胎的七支车队的14辆车在完成了队长后退出了比赛，只剩下6个车队的6辆汽车，来自布里德诺舞轮胎的三支球队。
+- -  1991年：匈牙利的最后一个苏联军队被撤回。
+- -  1990年：俄罗斯苏联联邦社会主义共和国共产党成立于莫斯科。
+- -  1990年：捍卫土著人民，1989年土著人民和部落人民公约的现任国际法首次被挪威批准。
+- -  1988年：教皇约翰·保罗二世（John Paul II）批判了117个越南烈士。
+- -  1987年：当今乌克兰的贝迪安斯克机场（Berdiansk Airport）撞车N-528航班撞车，炸死8人。
+- -  1987年：巴斯克分离主义团体ETA犯下了最暴力的袭击之一，其中一家超市Hipercor爆炸了炸弹，杀死了21人，受伤了45。
+- -  1985年：中美洲工人革命党的成员，穿着萨尔瓦多士兵，袭击了圣萨尔瓦多的Zona Rosa地区。
+- -  1982年：事实上成立了人民武装警察；它是在10个月后正式建立的，1983年4月5日
+- -  1978年：加菲尔德（Garfield）的第一台漫画最初于1976年以乔恩（Jon）本地出版，并进入了全国联合组织。
+- -  1965年：NguyễnCaoKỳ成为军政府首领的南越总理；NguyễnVănThiệu将军成为figure的国家负责人。
+- -  1964年：1964年的《民权法》在美国参议院度过83天的餐厅后得以批准。
+- -  1961年：科威特宣布脱离英国。
+- -  1960年：夏洛特汽车赛车场举行了首次NASCAR比赛，即首届世界600。
+- -  1953年：冷战：朱利叶斯（Julius）和埃塞尔·罗森伯格（Ethel Rosenberg）在纽约的辛格（Sing Sing）处决。
+- -  1947年：潘AM 121航班在叙利亚玛雅丁附近的叙利亚沙漠中坠毁，杀死了15人，受伤21。
+- -  1943年：由于第二次世界大战引起的球员短缺，NFL的费城老鹰队和匹兹堡钢人队合并了一个赛季。
+- -  1934年：1934年的《通信法》建立了美国联邦通信委员会（FCC）。
+- -  1921年：爱尔兰的Knockcroghery村被英军烧毁。
+- -  1913年：1913年在南非实施的当地土地法。
+- -  1910年：第一个父亲节在华盛顿斯波坎庆祝。
+- -  1903年：贝尼托·墨索里尼（Benito Mussolini），当时是一位激进的社会主义者，因主张暴力大罢工而被伯尔尼警察逮捕。
+- -  1875年：黑塞哥维尼亚对奥斯曼帝国的叛乱开始。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-06-18 01:53:13 UTC）*
+*（更新于: 2025-06-19 01:54:04 UTC）*
