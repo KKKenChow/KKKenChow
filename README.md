@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2012: An Indonesian Air Force Fokker F27 Friendship crashes near Halim Perdanakusuma International Airport, killing 11.
-- 2012: A boat carrying more than 200 migrants capsizes in the Indian Ocean between the Indonesian island of Java and Christmas Island, killing 17 people and leaving 70 others missing.
-- 2009: Greenland assumes self-rule.
-- 2006: A Yeti Airlines de Havilland Canada DHC-6 Twin Otter crashes at Jumla Airport in Nepal, killing nine people.
-- 2006: Pluto's newly discovered moons are officially named Nix and Hydra.
-- 2005: Edgar Ray Killen, who had previously been unsuccessfully tried for the murders of James Chaney, Andrew Goodman, and Mickey Schwerner, is convicted of manslaughter 41 years afterwards (the case had been reopened in 2004).
-- 2004: SpaceShipOne becomes the first privately funded spaceplane to achieve spaceflight.
-- 2001: A federal grand jury in Alexandria, Virginia, indicts 13 Saudis and a Lebanese in the 1996 bombing of the Khobar Towers in Saudi Arabia that killed 19 American servicemen.
-- 2000: Section 28 (of the Local Government Act 1988), outlawing the 'promotion' of homosexuality in the United Kingdom, is repealed in Scotland with a 99 to 17 vote.
-- 1993: Space Shuttle Endeavour is launched on STS-57 to retrieve the European Retrievable Carrier (EURECA) satellite. It is also the first shuttle mission to carry the Spacehab module.
-- 1989: The U.S. Supreme Court rules in Texas v. Johnson, 491 U.S. 397, that American flag-burning is a form of political protest protected by the First Amendment.
-- 1985: Braathens SAFE Flight 139 is hijacked on approach to Oslo Airport, Fornebu. Special forces arrest the hijacker and there are no fatalities.
-- 1982: John Hinckley is found not guilty by reason of insanity for the attempted assassination of U.S. President Ronald Reagan.
-- 1978: The original production of Tim Rice and Andrew Lloyd Webber's musical, Evita, based on the life of Eva Perón, opens at the Prince Edward Theatre, London.
-- 1973: In its decision in Miller v. California, 413 U.S. 15, the Supreme Court of the United States establishes the Miller test for determining whether something is obscene and not protected speech under the U.S. constitution.
-- 1973: The Primer Congreso del Hombre Andino is inaugurated in Arica, Chile.
-- 1970: Penn Central declares Section 77 bankruptcy in what was the largest U.S. corporate bankruptcy to date.
-- 1964: Three civil rights workers, Andrew Goodman, James Chaney and Michael Schwerner, are murdered in Neshoba County, Mississippi, United States, by members of the Ku Klux Klan.
-- 1963: Cardinal Giovanni Battista Montini is elected as Pope Paul VI.
-- 1957: Ellen Fairclough is sworn in as Canada's first female Cabinet Minister.
-- 1952: The Philippine School of Commerce, through a republic act, is converted to Philippine College of Commerce, later to be the Polytechnic University of the Philippines.
-- 1945: World War II: The Battle of Okinawa ends when the organized resistance of Imperial Japanese Army forces collapses in the Mabuni area on the southern tip of the main island.
-- 1942: World War II: A Japanese submarine surfaces near the Columbia River in Oregon, firing 17 shells at Fort Stevens in one of only a handful of attacks by Japan against the United States mainland.
-- 1942: World War II: Tobruk falls to Italian and German forces; 33,000 Allied troops are taken prisoner.
-- 1940: World War II: Italy begins an unsuccessful invasion of France.
-- 1930: One-year conscription comes into force in France.
-- 1929: An agreement brokered by U.S. Ambassador Dwight Whitney Morrow ends the Cristero War in Mexico.
-- 1921: The Irish village of Knockcroghery was burned by British forces.
-- 1919: Admiral Ludwig von Reuter scuttles the German fleet at Scapa Flow, Orkney. The nine sailors killed are the last casualties of World War I.
-- 1919: The Royal Canadian Mounted Police fire a volley into a crowd of unemployed war veterans, killing two, during the Winnipeg general strike.
+- 2022: An earthquake occurs in eastern Afghanistan resulting in over 1,000 deaths.
+- 2015: The Afghan National Assembly building is attacked by gunmen after a suicide bombing. All six of the gunmen are killed and 18 people are injured.
+- 2012: A Turkish Air Force McDonnell Douglas F-4 Phantom II fighter plane is shot down by the Syrian Armed Forces, killing both of the plane's pilots and worsening already-strained relations between Turkey and Syria.
+- 2012: Paraguayan President Fernando Lugo is removed from office by impeachment and succeeded by Federico Franco.
+- 2009: A Washington D.C Metro train traveling southbound near Fort Totten station collides into another train waiting to enter the station. Nine people are killed in the collision (eight passengers and the train operator) and at least 80 others are injured.
+- 2007: The small town of Elie, Manitoba is hit by Canada’s most intense tornado on record.
+- 2002: An earthquake measuring 6.5 Mw strikes a region of northwestern Iran killing at least 261 people and injuring 1,300 others and eventually causing widespread public anger due to the slow official response.
+- 2000: Wuhan Airlines Flight 343 is struck by lightning and crashes into Wuhan's Hanyang District, killing 49 people.
+- 1990: Cold War: Checkpoint Charlie is dismantled in Berlin.
+- 1986: The famous Hand of God goal, scored by Diego Maradona in the quarter-finals of the 1986 FIFA World Cup match between Argentina and England, ignites controversy. This was later followed by the Goal of the Century. Argentina wins 2-1 and later goes on to win the World Cup.
+- 1984: Virgin Atlantic launches with its first flight from London to Newark.
+- 1979: Former Liberal Party leader Jeremy Thorpe was acquitted of conspiracy to murder Norman Scott, who had accused Thorpe of having a relationship with him.
+- 1978: Charon, the first of Pluto's satellites to be discovered, was first seen at the United States Naval Observatory by James W. Christy.
+- 1969: The Cuyahoga River catches fire in Cleveland, Ohio, drawing national attention to water pollution, and spurring the passing of the Clean Water Act and the creation of the Environmental Protection Agency.
+- 1966: Vietnamese Buddhist activist leader Thích Trí Quang was arrested as the military junta of Nguyen Cao Ky crushed the Buddhist Uprising.
+- 1965: The Treaty on Basic Relations between Japan and the Republic of Korea is signed.
+- 1962: Air France Flight 117 crashes on approach to Pointe-à-Pitre International Airport in Guadeloupe, killing 112 people.
+- 1948: King George VI formally gives up the title "Emperor of India", half a year after Britain actually gave up its rule of India.
+- 1948: The ship HMT Empire Windrush brought the first group of 802 West Indian immigrants to Tilbury, marking the start of modern immigration to the United Kingdom.
+- 1945: World War II: The Battle of Okinawa comes to an end with an American flag-raising ceremony.
+- 1944: U.S. President Franklin D. Roosevelt signs into law the Servicemen's Readjustment Act of 1944, commonly known as the G.I. Bill.
+- 1944: World War II: Opening day of the Soviet Union's Operation Bagration against the Army Group Centre.
+- 1942: The Pledge of Allegiance is formally adopted by U.S. Congress.
+- 1942: World War II: Erwin Rommel is promoted to Field Marshal after the Axis capture of Tobruk.
+- 1941: World War II: Nazi Germany invades the Soviet Union in Operation Barbarossa.
+- 1940: World War II: France is forced to sign the Second Compiègne armistice with Germany, in the same railroad car in which the Germans signed the Armistice in 1918.
+- 1922: British Army Field Marshal Sir Henry Wilson is killed by the Irish Republican Army helping to spark the Irish Civil War.
+- 1918: The Hammond Circus Train Wreck kills 86 and injures 127 near Hammond, Indiana.
+- 1911: Mexican Revolution: Government forces bring an end to the Magonista rebellion of 1911 in the Second Battle of Tijuana.
+- 1911: George V and Mary of Teck are crowned King and Queen of the United Kingdom of Great Britain and Ireland.
 
 Data from muffinlabs
-*(Updated at: 2025-06-21 01:50:55 UTC)*
+*(Updated at: 2025-06-22 02:02:19 UTC)*
 
 # 历史上的今天 
 
-- -  2012年：印尼空军Fokker F27友谊坠毁在Halim Perdanakusuma国际机场附近，杀死11人。
-- -  2012年：一艘载有200多名移民在印度尼西亚爪哇岛和圣诞节岛之间的船，炸死了17人，造成70人失踪。
-- -  2009年：格陵兰假定自我规则。
-- -  2006年：加拿大的雪人航空公司DHC-6在尼泊尔的Jumla机场发生的双胞胎撞车事故，杀死了9人。
-- -  2006年：冥王星新发现的卫星正式命名为Nix和Hydra。
-- -  2005年：埃德加·雷·基伦（Edgar Ray Killen）以前因詹姆斯·夏尼（James Chaney），安德鲁·古德曼（Andrew Goodman）和米奇·施沃纳（Mickey Schwerner）的谋杀案未成功审判，后来被定罪了41年之后（该案于2004年重新审理）。
-- -  2004年：SpaceShipone成为第一个实现太空飞行的私人资助的太空平面。
-- -  2001年：弗吉尼亚州亚历山大市的联邦大陪审团起诉13人，在1996年爆炸了沙特阿拉伯的Khobar Towers，炸死了19名美国军人。
-- -  2000年：第28条（《 1988年地方政府法》第28条，禁止英国同性恋的“晋升”，以99到17票被废除。
-- -  1993年：航天飞机努力在STS-57上发射，以检索欧洲可检索的航空公司（Eureca）卫星。这也是携带SpaceHab模块的第一个穿梭任务。
-- -  1989年：美国最高法院在德克萨斯州诉约翰逊（Johnsonv。Johnson），第491卷397年，《美国国旗燃烧》是受《第一修正案》保护的一种政治抗议形式。
-- -  1985年：Braathens安全139号航班被劫持到达Fornebu的奥斯陆机场的途中。特种部队逮捕了劫机者，没有死亡。
-- -  1982年：约翰·欣克利（John Hinckley）因企图暗杀美国总统罗纳德·里根（Ronald Reagan）而被精神错乱而被发现无罪。
-- -  1978年：蒂姆·赖斯（Tim Rice）和安德鲁·劳埃德·韦伯（Andrew Lloyd Webber）的音乐剧《埃维塔》（Evita）的原始作品根据伊娃·佩隆（EvaPerón）的生活，在伦敦的爱德华王子剧院（Prince Edward Theatre）开放。
-- -  1973年：在美国最高法院在《美国最高法院》第15卷第413号米勒案中的裁决中，建立了米勒测试，用于确定某件事是否是淫秽而不是根据美国宪法的受保护的言论。
-- -  1973年：底漆恭喜hombre Andino在智利阿里卡（Arica）就职。
-- -  1970年：宾夕法尼亚州中央宣布第77条破产是迄今为止最大的美国公司破产。
-- -  1964年：三名民权工作者，安德鲁·古德曼（Andrew Goodman），詹姆斯·夏尼（James Chaney）和迈克尔·施沃纳（Michael Schwerner），在美国密西西比州的尼索巴县被Ku Klux Klan谋杀。
-- -  1963年：枢机主教Giovanni Battista Montini当选为Pope Paul VI。
-- -  1957年：艾伦·费尔克拉夫（Ellen Fairclough）宣誓就任加拿大第一位女内阁大臣。
-- -  1952年：通过共和国法案，菲律宾商学院被转换为菲律宾商业学院，后来又成为菲律宾理工大学。
-- -  1945年：第二次世界大战：冲绳战役结束，当时日本军队的有组织的抵抗在主岛南端的马布尼地区倒塌。
-- -  1942年：第二次世界大战：俄勒冈州哥伦比亚河附近的日本潜艇表面，向史蒂文斯堡（Fort Stevens）发射了17个炮弹，在日本仅少数几次对美国大陆的袭击之一。
-- -  1942年：第二次世界大战：托布鲁克属于意大利和德国军队；33,000名盟军被俘虏。
-- -  1940年：第二次世界大战：意大利开始对法国的入侵失败。
-- -  1930年：一年征兵在法国生效。
-- -  1929年：由美国大使德怀特·惠特尼·莫罗（Dwight Whitney Morrow）建立的协议结束了墨西哥的克里斯特罗战争。
-- -  1921年：爱尔兰村庄的敲门村被英军烧毁。
-- -  1919年：路德维希·冯·罗特（Ludwig von Reuter）海军上将在奥克尼（Orkney）的Scapa Flow上砍伐德国舰队。被杀的九名水手是第一次世界大战的最后伤亡人士。
-- -  1919年：在温尼伯大罢工期间，加拿大皇家骑警向一群失业的退伍军人发射了一群失业的退伍军人，杀死了两名。
+- -2022：阿富汗东部发生地震，导致1000多人死亡。
+- -  2015年：自杀炸弹袭击后，阿富汗国民议会大楼遭到枪手的袭击。所有六名枪手被杀，18人受伤。
+- -  2012年：土耳其空军麦克唐纳·道格拉斯F-4幻影II战斗机被叙利亚武装部队击倒，杀死了飞机的飞行员，并加剧了土耳其和叙利亚之间已经陷入的关系。
+- -  2012年：巴拉圭总统费尔南多·卢戈（Fernando Lugo）因弹each被撤职，并由费德里科·佛朗哥（Federico Franco）接任。
+- -  2009年：华盛顿特区的一辆地铁火车在托特特堡车站附近向南行驶，碰撞到另一列火车，等待进入车站。撞车事件（八名乘客和火车运营商）中有9人被杀，至少80人受伤。
+- -  2007年：曼尼托巴省的小镇埃莉（Elie）被加拿大最激烈的龙卷风袭击。
+- -  2002年：一场6.5兆瓦的地震袭击了一个伊朗西北部的一个地区，至少杀死了261人，造成1,300人受伤，并最终由于官方反应缓慢而引起广泛的公众愤怒。
+- -  2000年：武汉航空公司343航班被闪电袭击，并撞向武汉的汉阳区，造成49人丧生。
+- -  1990年：冷战：查理检查站在柏林被拆除。
+- -  1986年：由迭戈·马拉多纳（Diego Maradona）在1986年阿根廷和英格兰之间的FIFA世界杯比赛的四分之一决赛中得分的上帝目标，这引发了争议。随后是本世纪的目标。阿根廷以2-1获胜，后来继续赢得世界杯。
+- -  1984年：Virgin Atlantic从伦敦飞往纽瓦克的首次飞行。
+- -  1979年：前自由党领袖杰里米·索普（Jeremy Thorpe）因谋杀诺曼·斯科特（Norman Scott）而被判无罪，后者指责索普与他有关系。
+- -  1978年：查隆（Charon）是冥王星卫星要发现的第一颗，是詹姆斯·W·克里斯蒂（James W. Christy）在美国海军天文台首次见到的。
+- -  1969年：Cuyahoga河在俄亥俄州的克利夫兰引起了大火，引起了全国对水污染的关注，并激发了《清洁水法案》和《环境保护局》的创建。
+- -  1966年：越南佛教激进的领导人ThíchTríQuang被捕，因为Nguyen Cao Ky的军事军政府压抑了佛教徒起义。
+- -  1965年：日本与大韩民国之间的基本关系条约已签署。
+- -  1962年：航空航班117航班在瓜德罗普岛的Pointe-à-pitre国际机场的途中撞车，造成112人丧生。
+- -  1948年：乔治六世国王正式放弃了“印度皇帝”的头衔，这是英国实际放弃印度统治半年后的半年。
+- -  1948年：HMT Empire Windrush船将西印度移民的第一组带到蒂尔伯里，这标志着现代移民开始到英国。
+- -  1945年：第二次世界大战：冲绳战役以美国国旗仪式结束。
+- -  1944年：美国总统富兰克林·罗斯福（Franklin D.账单。
+- -  1944年：第二次世界大战：苏联对陆军集团中心行动的开幕日。
+- -  1942年：美国国会正式采用效忠的承诺。
+- -  1942年：第二次世界大战：埃尔文·隆美尔（Erwin Rommel）被晋升为托布鲁克（Tobruk）的轴心后，被提升为现场元帅。
+- -  1941年：第二次世界大战：纳粹德国入侵了苏联在巴巴罗萨行动中。
+- -  1940年：第二次世界大战：法国被迫与德国签署第二次竞争性停战，在1918年德国人签署停战的同一辆铁路车上。
+- -  1922年：英国陆军陆战元帅亨利·威尔逊爵士被爱尔兰共和党军队杀害，以激发爱尔兰内战。
+- -  1918年：哈蒙德马戏团的火车残骸杀死了86人，印第安纳州哈蒙德附近的127人受伤。
+- -  1911年：墨西哥革命：政府军在蒂华纳第二战役中结束了1911年的马格诺斯塔叛乱。
+- -  1911年：泰克的乔治五世和玛丽是英国和爱尔兰英国的国王和王后。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-06-21 01:50:55 UTC）*
+*（更新于: 2025-06-22 02:02:19 UTC）*
