@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Julian Assange, founder of WikiLeaks, returns to Australia after pleading guilty to one charge of espionage in a Saipan court and subsequently being released by the United States Department of Justice.
-- 2015: The U.S. Supreme Court ruled, 5-4, that same-sex couples have a constitutional right to marriage under the 14th Amendment to the United States Constitution.
-- 2015: Five different terrorist attacks in France, Tunisia, Somalia, Kuwait, and Syria occurred on what was dubbed Bloody Friday by international media. Upwards of 750 people were either killed or injured in these uncoordinated attacks.
-- 2013: The U.S. Supreme Court ruled, 5-4, that Section 3 of the Defense of Marriage Act is unconstitutional and in violation of the Fifth Amendment to the United States Constitution.
-- 2013: Riots in China's Xinjiang region kill at least 36 people and injure 21 others.
-- 2012: The Waldo Canyon fire descends into the Mountain Shadows neighborhood in Colorado Springs burning 347 homes in a matter of hours and killing two people.
-- 2008: A suicide bomber dressed as an Iraqi policeman detonates an explosive vest, killing 25 people.
-- 2007: Pope Benedict XVI reinstates the traditional laws of papal election in which a successful candidate must receive two-thirds of the votes.
-- 2006: Mari Alkatiri, the first Prime Minister of East Timor, resigns after weeks of political unrest.
-- 2003: The U.S. Supreme Court rules in Lawrence v. Texas that sex-based sodomy laws are unconstitutional.
-- 2000: The Human Genome Project announces the completion of a "rough draft" sequence.
-- 1997: J. K. Rowling publishes the first of her Harry Potter novel series, Harry Potter and the Philosopher's Stone in United Kingdom.
-- 1997: The U.S. Supreme Court rules that the Communications Decency Act violates the First Amendment to the United States Constitution.
-- 1995: Hamad bin Khalifa Al Thani deposes his father Khalifa bin Hamad Al Thani, the Emir of Qatar, in a bloodless coup d'état.
-- 1991: Yugoslav Wars: The Yugoslav People's Army begins the Ten-Day War in Slovenia.
-- 1988: The first crash of an Airbus A320 occurs when Air France Flight 296Q crashes at Mulhouse-Habsheim Airfield in Habsheim, France, during an air show, killing three of the 136 people on board.
-- 1981: Dan-Air Flight 240, flying to East Midlands Airport, crashes in Nailstone, Leicestershire. All three crew members perish.
-- 1978: Air Canada Flight 189, flying to Toronto, overruns the runway and crashes into the Etobicoke Creek ravine. Two of the 107 passengers on board perish.
-- 1977: Elvis Presley held his final concert in Indianapolis, Indiana at Market Square Arena.
-- 1975: Two FBI agents and a member of the American Indian Movement are killed in a shootout on the Pine Ridge Indian Reservation in South Dakota; Leonard Peltier is later convicted of the murders in a controversial trial.
-- 1974: The Universal Product Code is scanned for the first time to sell a package of Wrigley's chewing gum at the Marsh Supermarket in Troy, Ohio.
-- 1967: Karol Wojtyła (later John Paul II) made a cardinal by Pope Paul VI.
-- 1963: Cold War: U.S. President John F. Kennedy gave his "Ich bin ein Berliner" speech, underlining the support of the United States for democratic West Germany shortly after Soviet-supported East Germany erected the Berlin Wall.
-- 1960: Madagascar gains its independence from France.
-- 1960: The former British Protectorate of British Somaliland gains its independence as Somaliland.
-- 1959: Swedish boxer Ingemar Johansson becomes world champion of heavy weight boxing, by defeating American Floyd Patterson on technical knockout after two minutes and three seconds in the third round at Yankee Stadium.
-- 1955: The South African Congress Alliance adopts the Freedom Charter at the Congress of the People in Kliptown.
-- 1953: Lavrentiy Beria, head of MVD, is arrested by Nikita Khrushchev and other members of the Politburo.
-- 1952: The Pan-Malayan Labour Party is founded in Malaya, as a union of statewide labour parties.
-- 1948: Shirley Jackson's short story The Lottery is published in The New Yorker magazine.
+- 2024: U.S. president Joe Biden debates former U.S president Donald Trump. The debate leads to Biden's withdrawal from the election on July 21.
+- 2017: A series of powerful cyberattacks using the Petya malware target websites of Ukrainian organizations and counterparts with Ukrainian connections around the globe.
+- 2015: Formosa Fun Coast fire: A dust fire occurs at a recreational water park in Taiwan, killing 15 people and injuring 497 others, 199 critically.
+- 2014: At least fourteen people are killed when a Gas Authority of India Limited pipeline explodes in the East Godavari district of Andhra Pradesh, India.
+- 2013: NASA launches the Interface Region Imaging Spectrograph space probe to observe the Sun.
+- 2008: In a highly scrutinized election, President of Zimbabwe Robert Mugabe is re-elected in a landslide after his opponent Morgan Tsvangirai had withdrawn a week earlier, citing violence against his party's supporters.
+- 2007: The Brazilian Military Police invades the favelas of Complexo do Alemão in an episode which is remembered as the Complexo do Alemão massacre.
+- 2007: Tony Blair resigns as British Prime Minister, a position he had held since 1997. His Chancellor, Gordon Brown succeeds him.
+- 1994: Members of the Aum Shinrikyo cult release sarin gas in Matsumoto, Japan. Seven people are killed, 660 injured.
+- 1991: Two days after it had declared independence, Slovenia is invaded by Yugoslav troops, tanks, and aircraft, starting the Ten-Day War.
+- 1988: Villa Tunari massacre: Bolivian anti-narcotics police kill nine to 12 and injure over a hundred protesting coca-growing peasants.
+- 1988: The Gare de Lyon rail accident in Paris, France, kills 56 people.
+- 1982: Space Shuttle Columbia launched from the Kennedy Space Center on the final research and development flight mission, STS-4.
+- 1981: The Central Committee of the Chinese Communist Party issues its "Resolution on Certain Questions in the History of Our Party Since the Founding of the People's Republic of China", laying the blame for the Cultural Revolution on Mao Zedong.
+- 1980: The 'Ustica massacre': Itavia Flight 870 crashes in the sea while en route from Bologna to Palermo, Italy, killing all 81 on board.
+- 1977: Constitution for the Federation of Earth was adopted by the second session of the World Constituent Assembly, held at Innsbruck, Austria.
+- 1977: France grants independence to Djibouti.
+- 1976: Air France Flight 139 (Tel Aviv-Athens-Paris) is hijacked en route to Paris by the PFLP and redirected to Entebbe, Uganda.
+- 1974: U.S. president Richard Nixon visits the Soviet Union.
+- 1973: The President of Uruguay Juan María Bordaberry dissolves Parliament and establishes a dictatorship.
+- 1957: Hurricane Audrey makes landfall near the Texas-Louisiana border, killing over 400 people, mainly in and around Cameron, Louisiana.
+- 1954: The FIFA World Cup quarterfinal match between Hungary and Brazil, highly anticipated to be exciting, instead turns violent, with three players ejected and further fighting continuing after the game.
+- 1954: The Obninsk Nuclear Power Plant, the Soviet Union's first nuclear power station, opens in Obninsk, near Moscow.
+- 1950: The United States decides to send troops to fight in the Korean War.
+- 1946: In the Canadian Citizenship Act, the Parliament of Canada establishes the definition of Canadian citizenship.
+- 1944: World War II: Mogaung is the first place in Burma to be liberated from the Japanese by British Chindits, supported by the Chinese.
+- 1941: World War II: German troops capture the city of Białystok during Operation Barbarossa.
+- 1941: Romanian authorities launch one of the most violent pogroms in Jewish history in the city of Iași, resulting in the murder of at least 13,266 Jews.
+- 1928: The Rovaniemi township decree is promulgated, as a result of which Rovaniemi secedes from the old rural municipality as its own market town on January 1, 1929.
+- 1927: Prime Minister of Japan Tanaka Giichi convenes an eleven-day conference to discuss Japan's strategy in China. The Tanaka Memorial, a forged plan for world domination, is later claimed to be a secret report leaked from this conference.
 
 Data from muffinlabs
-*(Updated at: 2025-06-26 01:53:44 UTC)*
+*(Updated at: 2025-06-27 01:54:52 UTC)*
 
 # 历史上的今天 
 
-- -  2024年：WikiLeaks的创始人朱利安·阿桑奇（Julian Assange）在塞班岛法院认罪，返回澳大利亚，并随后由美国司法部释放。
-- -  2015年：美国最高法院以5-4裁定，同性夫妇根据《美国宪法》第14修正案具有宪法婚姻权。
-- -  2015年：在法国，突尼斯，索马里，科威特和叙利亚发生的五次不同的恐怖袭击发生在国际媒体被称为Bloody的事物上。在这些不协调的袭击中，有750人被杀或受伤。
-- -  2013年：美国最高法院以5-4裁定，《婚姻辩护法》第3条违宪，违反了《美国宪法》第五修正案。
-- -  2013年：中国新疆地区的骚乱杀死了至少36人，伤害了21人。
-- -  2012年：Waldo Canyon Fire降落到科罗拉多斯普林斯的山区阴影社区，在几个小时内燃烧了347栋房屋，并杀死了两个人。
-- -  2008年：一名穿着伊拉克警察的自杀炸弹袭击者引爆了一件爆炸背心，炸死25人。
-- -  2007年：教皇本尼迪克特十六世恢复了教皇选举法的传统法律，其中成功的候选人必须获得三分之二的选票。
-- -  2006年：东帝汶第一任总理玛丽·阿尔卡蒂里（Mari Alkatiri）经过数周的政治动荡后辞职。
-- -  2003年：美国最高法院在劳伦斯诉德克萨斯州案中，基于性别的鸡奸法是违宪的。
-- -  2000年：人类基因组项目宣布完成“粗糙草稿”序列。
-- -  1997年：J。K. Rowling出版了她的《哈利·波特小说》系列的第一本《哈利·波特》和《英国哲学家的石头》。
-- -  1997年：美国最高法院裁定《通信典范法》违反了《美国宪法》的第一修正案。
-- -  1995年：哈马德·本·哈利法（Hamad bin Khalifa Al Thani）在卡塔尔的埃米尔（Emir）的父亲哈利法（Khalifa Bin Hamad Al Thani）中存放在一场无流血的政变中。
-- -  1991年：南斯拉夫战争：南斯拉夫人民军开始在斯洛文尼亚为期十天的战争。
-- -  1988年：空中客车A320的第一次撞车发生在法国航班296Q在法国哈布希姆的Mulhouse-Habsheim Airfield坠毁时，在一次空中表演中，造成船上136人中的三人中的三人。
-- -  1981年：Dan-Air 240航班，飞往东米德兰兹机场，在莱斯特郡的奈尔斯通坠毁。这三名机组人员灭亡。
-- -  1978年：加拿大航空189号航班飞往多伦多，超越了跑道并撞向埃托比科克溪山沟。船上的107名乘客中有两名。
-- -  1977年：埃尔维斯·普雷斯利（Elvis Presley）在印第安纳州印第安纳波利斯（Market Square Arena）举行了他的最后一场音乐会。
-- -  1975年：两名联邦调查局特工和一名美洲印第安人运动的成员在南达科他州的派恩里奇印度保留地的一场枪战中被杀。伦纳德·佩尔蒂尔（Leonard Peltier）后来在有争议的审判中被判谋杀。
-- -  1974年：首次扫描通用产品代码，在俄亥俄州特洛伊的沼泽超市出售箭牌的咀嚼口香糖。
-- -  1967年：KarolWojtyła（后来的John Paul II）由Pope Paul VI撰写了红衣主教。
-- -  1963年：冷战：美国总统约翰·肯尼迪（John F. Kennedy）发表了他的“ Ich bin ein Berliner”演讲，在苏联支持的东德竖起了柏林墙之后不久，美国对民主西德民主西德的支持强调了美国的支持。
-- -  1960年：马达加斯加脱离了法国的独立性。
-- -  1960年：前英国索马里兰的前英国保护国成为索马里兰的独立性。
-- -  1959年：瑞典拳击手Ingemar Johansson成为世界重体重拳击的世界冠军，他在Yankee Stadium的第三轮比赛中击败了American Floyd Patterson，在技术淘汰赛中击败了美国弗洛伊德·帕特森（Floyd Patterson）。
-- -  1955年：南非国会联盟在克利普敦（Kliptown）的人民国会中采用了自由宪章。
-- -  1953年：MVD负责人Lavrentiy Beria被Nikita Khrushchev和其他政治局成员逮捕。
-- -  1952年：泛马来亚工党成立于马来亚，是全州劳动方联盟。
-- -  1948年：雪莉·杰克逊（Shirley Jackson）的短篇小说《彩票》发表在《纽约客》杂志上。
+- -  2024年：美国总统乔·拜登（Joe Biden）辩论前美国总统唐纳德·特朗普（Donald Trump）。辩论导致拜登于7月21日退出大选。
+- -2017：使用Petya恶意软件目标网站和乌克兰在全球范围内与乌克兰联系的同行的一系列强大的网络攻击。
+- -  2015年：福尔摩萨（Formosa）有趣的海岸大火：灰尘发生在台湾的休闲水上公园，炸死15人，造成497人受伤，199个批判性。
+- -  2014年：当印度的天然气局有限管道在印度安得拉邦东戈达瓦里地区爆炸时，至少有14人被杀。
+- -  2013年：NASA推出了接口区域成像光谱仪探测器以观察太阳。
+- -  2008年：在一次高度审查的选举中，津巴布韦·罗伯特·穆加贝（Zimbabwe Robert Mugabe）的总统在他的对手摩根·茨瓦吉拉伊（Morgan Tsvangirai）一周前撤回后，以对他的政党的支持者的暴力行为而撤回后，再次当选为滑坡。
+- -  2007年：巴西军事警察在一个情节中侵犯了Confffero doAlemão的贫民窟，该剧集被铭记为Coffendero doAlemão大屠杀。
+- -  2007年：托尼·布莱尔（Tony Blair）辞去了英国总理的职务，这是他自1997年以来担任的职务。他的总理戈登·布朗（Gordon Brown）继承了他。
+- -  1994年：日本松本的Aum Shinrikyo Cult释放Sarin Gas的成员。七人被杀，660人受伤。
+- -  1991年：在宣布独立两天后，斯洛文尼亚被南斯拉夫部队，坦克和飞机入侵，开始了为期十天的战争。
+- -  1988年：Villa tunari大屠杀：玻利维亚反毒品警察杀死了9至12人，并在一百个抗议的可口可乐农民中受伤。
+- -  1988年：法国巴黎的加尔·德里昂铁路事故造成56人丧生。
+- -  1982年：航天飞机哥伦比亚航天飞机于肯尼迪航天中心（Kennedy Passion Center）在最终的研发飞行任务（STS-4）上发射。
+- -  1981年：中国共产党中央委员会发表了“自从中华人民共和国成立以来，在我们党历史上的某些问题上解决”，将文化大革命归咎于毛泽东。
+- -  1980年：“ Ustica Massacre”：Itavia 870航班在从博洛尼亚到意大利巴洛诺的途中坠毁，杀死了所有81号船上。
+- -  1977年：地球联合会的宪法是由在奥地利因斯布鲁克举行的世界第二届会议。
+- -  1977年：法国将独立授予吉布提。
+- -  1976年：法国航班139号航空公司（特拉维夫 - 阿达斯 - 巴黎）在PFLP劫持到巴黎的途中，并将其重定向到乌干达的Entebbe。
+- -  1974年：美国总统理查德·尼克松（Richard Nixon）访问苏联。
+- -  1973年：乌拉圭·胡安·玛丽亚·博尔达贝里（Uruguay JuanMaríaBordaberry）的总统解散了议会，并建立了独裁统治。
+- -  1957年：奥黛丽飓风在德克萨斯 - 路易斯安那州边境附近登陆，炸死了400多人，主要是路易斯安那州卡梅伦及其周围的人。
+- -  1954年：匈牙利和巴西之间的FIFA世界杯四分之一决赛比赛，备受期待会令人兴奋，而是暴力，三名球员弹出，并在比赛结束后继续战斗。
+- -  1954年：苏联的第一个核电站奥伯宁斯克核电站在莫斯科附近的奥伯宁克开业。
+- -  1950年：美国决定派遣部队在朝鲜战争中战斗。
+- -  1946年：在《加拿大公民法》中，加拿大议会确立了加拿大公民身份的定义。
+- -  1944年：第二次世界大战：Mogaung是缅甸在中国人支持的英国奇迪特（British Chindits）从日本人那里解放的第一名。
+- -  1941年：第二次世界大战：德国军队在Barbarossa行动中占领了Białystok市。
+- -  1941年：罗马尼亚当局在IAșI市发动了犹太历史上最暴力的大屠杀之一，导致谋杀了至少13266个犹太人。
+- -  1928年：颁布了Rovaniemi Township的法令，因此，Rovaniemi于1929年1月1日从旧农村城市脱离了其自己的市场小镇。
+- -  1927年：日本田中吉奇总理召集了为期11天的会议，讨论日本在中国的战略。田中纪念馆是世界统治的伪造计划，后来被称为本次会议泄露的秘密报告。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-06-26 01:53:44 UTC）*
+*（更新于: 2025-06-27 01:54:52 UTC）*
