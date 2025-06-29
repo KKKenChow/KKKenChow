@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2016: A terrorist attack in Turkey's Istanbul Atatürk Airport kills 42 people and injures more than 230 others.
-- 2012: The United States Supreme Court upholds the constitutionality of the Affordable Care Act's individual mandate in National Federation of Independent Business v. Sebelius.
-- 2009: Honduran president Manuel Zelaya is ousted by a local military coup following a failed request to hold a referendum to rewrite the Honduran Constitution. This was the start of the 2009 Honduran constitutional crisis.
-- 2004: Iraq War: Sovereign power is handed to the interim government of Iraq by the Coalition Provisional Authority, ending the U.S.-led rule of that nation.
-- 2001: Slobodan Milošević is extradited to the ICTY in The Hague to stand trial.
-- 1997: Holyfield-Tyson II: Mike Tyson is disqualified in the third round for biting a piece off Evander Holyfield's ear.
-- 1989: On the 600th anniversary of the Battle of Kosovo, Slobodan Milošević delivers the Gazimestan speech at the site of the historic battle.
-- 1987: For the first time in military history, a civilian population is targeted for chemical attack when Iraqi warplanes bombed the Iranian town of Sardasht.
-- 1982: Aeroflot Flight 8641 crashes in Mazyr, Belarus, killing 132 people.
-- 1981: A powerful bomb explodes in Tehran, killing 73 officials of the Islamic Republican Party.
-- 1978: The United States Supreme Court, in Regents of the University of California v. Bakke bars quota systems in college admissions.
-- 1976: The Angolan court sentences US and UK mercenaries to death sentences and prison terms in the Luanda Trial.
-- 1973: Elections are held for the Northern Ireland Assembly, which will lead to power-sharing between unionists and nationalists in Northern Ireland for the first time.
-- 1969: Stonewall riots begin in New York City, marking the start of the Gay Rights Movement.
-- 1964: Malcolm X forms the Organization of Afro-American Unity.
-- 1956: In Poznań, workers from HCP factory go to the streets, sparking one of the first major protests against communist government both in Poland and Europe.
-- 1950: Korean War: The Korean People's Army kills almost a thousand doctors, nurses, inpatient civilians and wounded soldiers in the Seoul National University Hospital massacre.
-- 1950: Korean War: Packed with its own refugees fleeing Seoul and leaving their 5th Division stranded, South Korean forces blow up the Hangang Bridge in an attempt to slow North Korea's offensive. The city falls later that day.
-- 1950: Korean War: Suspected communist sympathizers (between 60,000 and 200,000) are executed in the Bodo League massacre.
-- 1948: Boxer Dick Turpin beats Vince Hawkins at Villa Park in Birmingham to become the first black British boxing champion in the modern era.
-- 1948: Cold War: The Tito-Stalin Split results in the expulsion of the League of Communists of Yugoslavia from the Cominform.
-- 1945: Poland's Soviet-allied Provisional Government of National Unity is formed over a month after V-E Day.
-- 1942: World War II: Nazi Germany starts its strategic summer offensive against the Soviet Union, codenamed Case Blue.
-- 1940: Romania cedes Bessarabia and Northern Bukovina to the Soviet Union after facing an ultimatum.
-- 1936: The Japanese puppet state of Mengjiang is formed in northern China.
-- 1926: Mercedes-Benz is formed by Gottlieb Daimler and Karl Benz merging their two companies.
-- 1922: The Irish Civil War begins with the shelling of the Four Courts in Dublin by Free State forces.
-- 1921: Serbian King Alexander I proclaims the new constitution of the Kingdom of Serbs, Croats and Slovenes, known thereafter as the Vidovdan Constitution.
-- 1919: The Treaty of Versailles is signed, ending the state of war between Germany and the Allies of World War I.
-- 1917: World War I: Greece joins the Allied powers.
+- 2014: The Islamic State of Iraq and the Levant self-declares its caliphate in Syria and northern Iraq.
+- 2012: A derecho sweeps across the eastern United States, leaving at least 22 people dead and millions without power.
+- 2007: Apple Inc. releases its first mobile phone, the iPhone.
+- 2006: Hamdan v. Rumsfeld: The U.S. Supreme Court rules that President George W. Bush's plan to try Guantanamo Bay detainees in military tribunals violates U.S. and international law.
+- 2002: Naval clashes between South Korea and North Korea lead to the death of six South Korean sailors and sinking of a North Korean vessel.
+- 1995: The Sampoong Department Store collapses in the Seocho District of Seoul, South Korea, killing 502 and injuring 937.
+- 1995: Space Shuttle program: STS-71 Mission (Atlantis) docks with the Russian space station Mir for the first time.
+- 1987: Vincent van Gogh's painting, the Le Pont de Trinquetaille, is bought for $20.4 million at an auction in London, England.
+- 1976: The Conference of Communist and Workers Parties of Europe convenes in East Berlin.
+- 1976: The Seychelles become independent from the United Kingdom.
+- 1974: Mikhail Baryshnikov defects from the Soviet Union to Canada while on tour with the Kirov Ballet.
+- 1974: Vice President Isabel Perón assumes powers and duties as Acting President of Argentina, while her husband President Juan Perón is terminally ill.
+- 1972: A Convair CV-580 and De Havilland Canada DHC-6 Twin Otter collide above Lake Winnebago near Appleton, Wisconsin, killing 13.
+- 1972: The United States Supreme Court rules in the case Furman v. Georgia that arbitrary and inconsistent imposition of the death penalty violates the Eighth and Fourteenth Amendments and constitutes cruel and unusual punishment.
+- 1971: Prior to re-entry (following a record-setting stay aboard the Soviet Union's Salyut 1 space station), the crew capsule of the Soyuz 11 spacecraft depressurizes, killing the three cosmonauts on board. Georgy Dobrovolsky, Vladislav Volkov and Viktor Patsayev are the first humans to die in space.
+- 1956: The Federal Aid Highway Act of 1956 is signed by U.S. President Dwight D. Eisenhower, officially creating the United States Interstate Highway System.
+- 1952: The first Miss Universe pageant is held. Armi Kuusela from Finland wins the title of Miss Universe 1952.
+- 1950: Korean War: U.S. President Harry S. Truman authorizes a sea blockade of Korea.
+- 1945: The Soviet Union annexes the Czechoslovak province of Carpathian Ruthenia.
+- 1927: The Bird of Paradise, a U.S. Army Air Corps Fokker tri-motor, completes the first transpacific flight, from the mainland United States to Hawaii.
+- 1922: France grants "one square kilometer" at Vimy Ridge "freely, and for all time, to the Government of Canada, the free use of the land exempt from all taxes".
+- 1916: British diplomat turned Irish nationalist Roger Casement is sentenced to death for his part in the Easter Rising.
+- 1915: The North Saskatchewan River flood of 1915 is the worst flood in Edmonton history.
+- 1889: Hyde Park and several other Illinois townships vote to be annexed by Chicago, forming the largest United States city in area and second largest in population at the time.
+- 1888: George Edward Gouraud records Handel's Israel in Egypt onto a phonograph cylinder, thought for many years to be the oldest known recording of music.
+- 1881: In Sudan, Muhammad Ahmad declares himself to be the Mahdi, the messianic redeemer of Islam.
+- 1880: France annexes Tahiti, renaming the independent Kingdom of Tahiti as "Etablissements de français de l'Océanie".
+- 1874: Greek politician Charilaos Trikoupis publishes a manifesto in the Athens daily Kairoi entitled "Who's to Blame?" leveling complaints against King George. Trikoupis is elected Prime Minister of Greece the next year.
+- 1864: At least 99 people, mostly German and Polish immigrants, are killed in Canada's worst railway disaster after a train fails to stop for an open drawbridge and plunges into the Rivière Richelieu near St-Hilaire, Quebec.
+- 1850: Autocephaly officially granted by the Ecumenical Patriarchate of Constantinople to the Church of Greece.
 
 Data from muffinlabs
-*(Updated at: 2025-06-28 01:50:27 UTC)*
+*(Updated at: 2025-06-29 02:04:36 UTC)*
 
 # 历史上的今天 
 
-- -  2016年：土耳其伊斯坦布尔·阿塔图尔克机场（IstanbulAtatürk）机场的恐怖袭击造成42人丧生，另外230多人受伤。
-- -  2012年：美国最高法院在《全国独立商业联合会诉塞贝利乌斯联合会》中维护《平价医疗法案》的合宪性。
-- -  2009年：洪都拉斯总统曼努埃尔·泽拉亚（Manuel Zelaya）因失败的要求举行全民公决而被当地军事政变罢免，以重写洪都拉斯宪法。这是2009年洪都拉斯宪法危机的开始。
-- -  2004年：伊拉克战争：联盟临时机构将主权权力交给伊拉克临时政府，结束了美国领导的国家统治。
-- -  2001年：SlobodanMilošević被引渡到海牙的ICT中进行审判。
-- -  1997年：Holyfield-Tyson II：迈克·泰森（Mike Tyson）在第三轮被取消资格，因为他咬了埃文德·霍利菲尔德（Evander Holyfield）的耳朵。
-- -  1989年：在科索沃战役600周年纪念日，SlobodanMilošević在历史悠久的战斗场所发表了Gazimestan演讲。
-- -  1987年：这是军事史上第一次，当伊拉克战机轰炸伊朗小镇萨达什特时，平民是针对化学攻击的。
-- -  1982年：Aeroflot 8641在白俄罗斯的Mazyr坠毁，炸死132人。
-- -  1981年：一枚强大的炸弹在德黑兰爆炸，杀死了73名伊斯兰共和党的官员。
-- -  1978年：美国最高法院，在加利福尼亚大学诉Bakke Bars配额系统中的摄政学院入学。
-- -  1976年：安哥拉法院在卢达审判中判处我们和英国雇佣军判处死刑和监狱条款。
-- -  1973年：为北爱尔兰议会举行选举，这将首次导致北爱尔兰的工会主义者与民族主义者之间的权力共享。
-- -  1969年：斯通沃尔骚乱始于纽约市，标志着同性恋权利运动的开始。
-- -1964：Malcolm X构成了非洲裔美国人团结的组织。
-- -  1956年：在波兹南，来自HCP工厂的工人去街头，引发了对波兰和欧洲的共产党政府的首次主要抗议活动之一。
-- -  1950年：朝鲜战争：朝鲜人民军在首尔国立大学医院大屠杀中杀死了近一千名医生，护士，住院平民和受伤的士兵。
-- -  1950年：朝鲜战争：朝鲜逃离首尔的难民挤满了他们的第五师，韩国部队炸毁了hangang桥，试图减慢朝鲜的进攻。那天晚些时候，这座城市倒下了。
-- -  1950年：朝鲜战争：涉嫌共产党同情者（60,000至200,000）在Bodo League Massacre处决。
-- -  1948年：拳击手迪克·特尔平（Dick Turpin）在伯明翰的维拉公园（Villa Park）击败了文斯·霍金斯（Vince Hawkins），成为现代第一个英国拳击冠军。
-- -  1948年：冷战：蒂托·斯大林（Tito-Stalin）的分裂导致南斯拉夫共产党联盟驱逐出森林。
-- -  1945年：波兰苏联盟军的民族团结政府是在V-E日之后一个月组成的。
-- -  1942年：第二次世界大战：纳粹德国开始对苏联的战略性夏季进攻，代号为Case Blue。
-- -  1940年：罗马尼亚塞德斯·贝萨拉比亚（Cedes Bessarabia）和北布科维纳（North Bukovina）面对最后通atum。
-- -  1936年：日本木偶状态在中国北部成立。
-- -  1926年：梅赛德斯·奔驰是由戈特利布·戴姆勒（Gottlieb Daimler）和卡尔·本茨（Karl Benz）合并了两家公司的。
-- -  1922年：爱尔兰内战始于自由州军队在都柏林四个法院的炮击。
-- -  1921年：塞尔维亚国王亚历山大一世（Alexander I I）宣布了塞族，克罗地亚和斯洛文尼斯王国的新宪法，此后称为维多瓦丹宪法。
-- -  1919年：《凡尔赛条约》已签署，结束了德国与第一次世界大战盟国之间的战争状况。
-- -  1917年：第一次世界大战：希腊加入了盟军。
+- -  2014年：伊拉克的伊斯兰国和黎凡特的自我决定在叙利亚和伊拉克北部。
+- -  2012年：DERECHO横跨美国东部，至少有22人死亡，数百万没有权力。
+- -  2007年：Apple Inc.发布了第一款手机，即iPhone。
+- -  2006年：Hamdan诉Rumsfeld：美国最高法院裁定乔治·W·布什总统在军事法庭中审判关塔那摩湾被拘留者的计划违反了美国和国际法。
+- -  2002年：韩国和朝鲜之间的海军冲突导致六名韩国水手死亡，并沉没了朝鲜船只。
+- -  1995年：Sampoong百货商店在韩国首尔Seocho区倒塌，杀死502人，受伤937。
+- -  1995年：航天飞机计划：STS-71 Mission（Atlantis）首次与俄罗斯空间站Mir进行码头。
+- -  1987年：文森特·梵高（Vincent Van Gogh）的画作《勒邦·德·特林奎尔（Le Pont de Trinquetaille）》在英格兰伦敦的一次拍卖会上以2040万美元的价格收购。
+- -  1976年：欧洲的共产党和工人聚会会议在东柏林召开。
+- -  1976年：塞舌尔与英国独立。
+- -  1974年：与基洛夫芭蕾舞团巡回演出时，米哈伊尔·巴里什尼科夫（Mikhail Baryshnikov）从苏联到加拿大的缺陷。
+- -  1974年：副总统伊莎贝尔·佩隆（IsabelPerón）担任阿根廷代理总统的权力和职责，而她的丈夫总统胡安·佩隆（JuanPerón）则患病。
+- -  1972年：COVAIR CV-580和De Havilland Canada DHC-6 Twin Otter碰撞在威斯康星州Appleton附近的Winnebago湖上方，杀死了13。
+- -  1972年：美国最高法院在案件中案中的裁定弗曼诉佐治亚州案，任意和不一致的死刑违反了第八次和第十四修正案，构成了残酷和不寻常的惩罚。
+- -  1971年：在重新进入之前（在苏联的Salyut 1空间站上进行了创纪录的住宿之后），Soyuz 11号航天器的船员胶囊降低了，杀死了船上的三个宇航员。Georgy Dobrovolsky，Vladislav Volkov和Viktor Patsayev是第一个在太空中死亡的人。
+- -  1956年：美国总统德怀特·D·艾森豪威尔（Dwight D. Eisenhower）签署了1956年的《联邦援助公路法》，正式创建了美国州际公路系统。
+- -  1952年：举行了第一个环球小姐选美大赛。来自芬兰的Armi Kuusela赢得了1952年环球小姐的头衔。
+- -  1950年：朝鲜战争：美国总统哈里·杜鲁门（Harry S. Truman）授权对韩国的封锁。
+- -  1945年：苏联吞并了卡尔Pathian Ruthenia的捷克斯洛伐克省。
+- -  1927年：美国陆军航空公司福克三分机天堂的鸟类鸟是从美国大陆到夏威夷的第一次移动飞行。
+- -  1922年：法国自由地向维米·里奇（Vimy Ridge）授予“一平方公里”，并一直向加拿大政府提供自由使用所有税收的土地。
+- -  1916年：英国外交官变成爱尔兰民族主义者罗杰·凯瑟门特（Roger Casement）因在复活节崛起而被判处死刑。
+- -  1915年：1915年的北萨斯喀彻温河洪水是埃德蒙顿历史上最严重的洪水。
+- -  1889年：海德公园（Hyde Park）和其他几个伊利诺伊州镇投票被芝加哥吞并，芝加哥是该地区最大的美国城市，当时是人口第二大。
+- -  1888年：乔治·爱德华·古劳德（George Edward Gouraud）在埃及录制汉德尔（Handel）的以色列录音片上的留声机缸，多年来认为是最古老的音乐录音。
+- -  1881年：在苏丹，穆罕默德·艾哈迈德（Muhammad Ahmad）宣布自己是伊斯兰教的弥赛亚救赎主Mahdi。
+- -  1880年：法国吞并大溪地，将大溪地的独立王国重命名为“ eTablesement defrançaisdel'océanie”。
+- -  1874年：希腊政治家Charilaos Trikoupis在《雅典每日kairoi》中出版了一份宣言，题为“谁应该责备？”对乔治国王的投诉。Trikoupis于第二年当选为希腊总理。
+- -  1864年：在火车未能停下露天的吊桥，并跌入魁北克省圣希利尔（St-Hilaire）的RivièreRichelieu，至少有99人在加拿大最严重的铁路灾难中被杀害，至少有99人在加拿大最严重的铁路灾难中丧生。
+- -  1850年：君士坦丁堡的普世教宗主正式授予希腊教堂的自动畸形。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-06-28 01:50:27 UTC）*
+*（更新于: 2025-06-29 02:04:36 UTC）*
