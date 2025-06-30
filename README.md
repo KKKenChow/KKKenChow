@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2014: The Islamic State of Iraq and the Levant self-declares its caliphate in Syria and northern Iraq.
-- 2012: A derecho sweeps across the eastern United States, leaving at least 22 people dead and millions without power.
-- 2007: Apple Inc. releases its first mobile phone, the iPhone.
-- 2006: Hamdan v. Rumsfeld: The U.S. Supreme Court rules that President George W. Bush's plan to try Guantanamo Bay detainees in military tribunals violates U.S. and international law.
-- 2002: Naval clashes between South Korea and North Korea lead to the death of six South Korean sailors and sinking of a North Korean vessel.
-- 1995: The Sampoong Department Store collapses in the Seocho District of Seoul, South Korea, killing 502 and injuring 937.
-- 1995: Space Shuttle program: STS-71 Mission (Atlantis) docks with the Russian space station Mir for the first time.
-- 1987: Vincent van Gogh's painting, the Le Pont de Trinquetaille, is bought for $20.4 million at an auction in London, England.
-- 1976: The Conference of Communist and Workers Parties of Europe convenes in East Berlin.
-- 1976: The Seychelles become independent from the United Kingdom.
-- 1974: Mikhail Baryshnikov defects from the Soviet Union to Canada while on tour with the Kirov Ballet.
-- 1974: Vice President Isabel Perón assumes powers and duties as Acting President of Argentina, while her husband President Juan Perón is terminally ill.
-- 1972: A Convair CV-580 and De Havilland Canada DHC-6 Twin Otter collide above Lake Winnebago near Appleton, Wisconsin, killing 13.
-- 1972: The United States Supreme Court rules in the case Furman v. Georgia that arbitrary and inconsistent imposition of the death penalty violates the Eighth and Fourteenth Amendments and constitutes cruel and unusual punishment.
-- 1971: Prior to re-entry (following a record-setting stay aboard the Soviet Union's Salyut 1 space station), the crew capsule of the Soyuz 11 spacecraft depressurizes, killing the three cosmonauts on board. Georgy Dobrovolsky, Vladislav Volkov and Viktor Patsayev are the first humans to die in space.
-- 1956: The Federal Aid Highway Act of 1956 is signed by U.S. President Dwight D. Eisenhower, officially creating the United States Interstate Highway System.
-- 1952: The first Miss Universe pageant is held. Armi Kuusela from Finland wins the title of Miss Universe 1952.
-- 1950: Korean War: U.S. President Harry S. Truman authorizes a sea blockade of Korea.
-- 1945: The Soviet Union annexes the Czechoslovak province of Carpathian Ruthenia.
-- 1927: The Bird of Paradise, a U.S. Army Air Corps Fokker tri-motor, completes the first transpacific flight, from the mainland United States to Hawaii.
-- 1922: France grants "one square kilometer" at Vimy Ridge "freely, and for all time, to the Government of Canada, the free use of the land exempt from all taxes".
-- 1916: British diplomat turned Irish nationalist Roger Casement is sentenced to death for his part in the Easter Rising.
-- 1915: The North Saskatchewan River flood of 1915 is the worst flood in Edmonton history.
-- 1889: Hyde Park and several other Illinois townships vote to be annexed by Chicago, forming the largest United States city in area and second largest in population at the time.
-- 1888: George Edward Gouraud records Handel's Israel in Egypt onto a phonograph cylinder, thought for many years to be the oldest known recording of music.
-- 1881: In Sudan, Muhammad Ahmad declares himself to be the Mahdi, the messianic redeemer of Islam.
-- 1880: France annexes Tahiti, renaming the independent Kingdom of Tahiti as "Etablissements de français de l'Océanie".
-- 1874: Greek politician Charilaos Trikoupis publishes a manifesto in the Athens daily Kairoi entitled "Who's to Blame?" leveling complaints against King George. Trikoupis is elected Prime Minister of Greece the next year.
-- 1864: At least 99 people, mostly German and Polish immigrants, are killed in Canada's worst railway disaster after a train fails to stop for an open drawbridge and plunges into the Rivière Richelieu near St-Hilaire, Quebec.
-- 1850: Autocephaly officially granted by the Ecumenical Patriarchate of Constantinople to the Church of Greece.
+- 2023: A Tajik citizen with ISIS connections, wanted in Tajikistan for murder and kidnapping, kills two people at Chișinău International Airport in Moldova, after being denied entry to the country.
+- 2021: The Tiger Fire ignites near Black Canyon City, Arizona, and goes on to burn 16,278 acres (6,587 ha) of land before being fully contained on July 30.
+- 2019: Donald Trump becomes the first sitting US President to visit the Democratic People's Republic of Korea (North Korea).
+- 2015: A Hercules C-130 military aircraft with 113 people on board crashes in a residential area in Medan, Indonesia, resulting in at least 116 deaths.
+- 2013: Protests begin around Egypt against President Mohamed Morsi and the ruling Freedom and Justice Party, leading to their overthrow during the 2013 Egyptian coup d'état.
+- 2013: Nineteen firefighters die controlling a wildfire near Yarnell, Arizona.
+- 2009: Yemenia Flight 626, an Airbus A310-300, crashes into the Indian Ocean near Comoros, killing 152 of the 153 people on board. A 14-year-old girl named Bahia Bakari survives the crash.
+- 2007: A Jeep Cherokee filled with propane canisters drives into the entrance of Glasgow Airport, Scotland in a failed terrorist attack. This was linked to the 2007 London car bombs that had taken place the day before.
+- 1994: During a test flight of an Airbus A330-300 at Toulouse-Blagnac Airport, the aircraft crashes killing all seven people on board.
+- 1993: Malta is officially subdivided into 68 local councils by the Local Councils Act.
+- 1990: East and West Germany merge their economies.
+- 1989: A coup d'état in Sudan deposes the democratically elected government of Prime Minister Sadiq al-Mahdi and President Ahmed al-Mirghani.
+- 1986: The U.S. Supreme Court rules in Bowers v. Hardwick that states can outlaw homosexual acts between consenting adults.
+- 1985: Thirty-nine American hostages from the hijacked TWA Flight 847 are freed in Beirut after being held for 17 days.
+- 1977: The Southeast Asia Treaty Organization disbands.
+- 1974: The Baltimore municipal strike of 1974 begins.
+- 1973: Concorde 001 intercepts the path of a total solar eclipse and follows the moon's shadow, experiencing the longest total eclipse observation.
+- 1972: The first leap second is added to the UTC time system.
+- 1971: The crew of the Soviet Soyuz 11 spacecraft are killed when their air supply escapes through a faulty valve.
+- 1968: Pope Paul VI issues the Credo of the People of God.
+- 1966: The National Organization for Women, the United States' largest feminist organization, is founded.
+- 1963: Ciaculli bombing: a car bomb, intended for Mafia boss Salvatore Greco, kills seven police officers and military personnel near Palermo.
+- 1960: Belgian Congo gains independence as Republic of the Congo (Léopoldville).
+- 1959: A United States Air Force F-100 Super Sabre from Kadena Air Base, Okinawa, crashes into a nearby elementary school, killing 11 students plus six residents from the local neighborhood.
+- 1956: A TWA Super Constellation and a United Airlines DC-7 collide above the Grand Canyon in Arizona and crash, killing all 128 on board both airliners.
+- 1953: The first Chevrolet Corvette rolls off the assembly line in Flint, Michigan.
+- 1944: World War II: The Battle of Cherbourg ends with the fall of the strategically valuable port to American forces.
+- 1937: The world's first emergency telephone number, 999, is introduced in London.
+- 1936: Emperor Haile Selassie of Abyssinia appeals for aid to the League of Nations against Italy's invasion of his country.
+- 1934: The Night of the Long Knives, Adolf Hitler's violent purge of his political rivals in Germany, takes place.
 
 Data from muffinlabs
-*(Updated at: 2025-06-29 02:04:36 UTC)*
+*(Updated at: 2025-06-30 01:59:42 UTC)*
 
 # 历史上的今天 
 
-- -  2014年：伊拉克的伊斯兰国和黎凡特的自我决定在叙利亚和伊拉克北部。
-- -  2012年：DERECHO横跨美国东部，至少有22人死亡，数百万没有权力。
-- -  2007年：Apple Inc.发布了第一款手机，即iPhone。
-- -  2006年：Hamdan诉Rumsfeld：美国最高法院裁定乔治·W·布什总统在军事法庭中审判关塔那摩湾被拘留者的计划违反了美国和国际法。
-- -  2002年：韩国和朝鲜之间的海军冲突导致六名韩国水手死亡，并沉没了朝鲜船只。
-- -  1995年：Sampoong百货商店在韩国首尔Seocho区倒塌，杀死502人，受伤937。
-- -  1995年：航天飞机计划：STS-71 Mission（Atlantis）首次与俄罗斯空间站Mir进行码头。
-- -  1987年：文森特·梵高（Vincent Van Gogh）的画作《勒邦·德·特林奎尔（Le Pont de Trinquetaille）》在英格兰伦敦的一次拍卖会上以2040万美元的价格收购。
-- -  1976年：欧洲的共产党和工人聚会会议在东柏林召开。
-- -  1976年：塞舌尔与英国独立。
-- -  1974年：与基洛夫芭蕾舞团巡回演出时，米哈伊尔·巴里什尼科夫（Mikhail Baryshnikov）从苏联到加拿大的缺陷。
-- -  1974年：副总统伊莎贝尔·佩隆（IsabelPerón）担任阿根廷代理总统的权力和职责，而她的丈夫总统胡安·佩隆（JuanPerón）则患病。
-- -  1972年：COVAIR CV-580和De Havilland Canada DHC-6 Twin Otter碰撞在威斯康星州Appleton附近的Winnebago湖上方，杀死了13。
-- -  1972年：美国最高法院在案件中案中的裁定弗曼诉佐治亚州案，任意和不一致的死刑违反了第八次和第十四修正案，构成了残酷和不寻常的惩罚。
-- -  1971年：在重新进入之前（在苏联的Salyut 1空间站上进行了创纪录的住宿之后），Soyuz 11号航天器的船员胶囊降低了，杀死了船上的三个宇航员。Georgy Dobrovolsky，Vladislav Volkov和Viktor Patsayev是第一个在太空中死亡的人。
-- -  1956年：美国总统德怀特·D·艾森豪威尔（Dwight D. Eisenhower）签署了1956年的《联邦援助公路法》，正式创建了美国州际公路系统。
-- -  1952年：举行了第一个环球小姐选美大赛。来自芬兰的Armi Kuusela赢得了1952年环球小姐的头衔。
-- -  1950年：朝鲜战争：美国总统哈里·杜鲁门（Harry S. Truman）授权对韩国的封锁。
-- -  1945年：苏联吞并了卡尔Pathian Ruthenia的捷克斯洛伐克省。
-- -  1927年：美国陆军航空公司福克三分机天堂的鸟类鸟是从美国大陆到夏威夷的第一次移动飞行。
-- -  1922年：法国自由地向维米·里奇（Vimy Ridge）授予“一平方公里”，并一直向加拿大政府提供自由使用所有税收的土地。
-- -  1916年：英国外交官变成爱尔兰民族主义者罗杰·凯瑟门特（Roger Casement）因在复活节崛起而被判处死刑。
-- -  1915年：1915年的北萨斯喀彻温河洪水是埃德蒙顿历史上最严重的洪水。
-- -  1889年：海德公园（Hyde Park）和其他几个伊利诺伊州镇投票被芝加哥吞并，芝加哥是该地区最大的美国城市，当时是人口第二大。
-- -  1888年：乔治·爱德华·古劳德（George Edward Gouraud）在埃及录制汉德尔（Handel）的以色列录音片上的留声机缸，多年来认为是最古老的音乐录音。
-- -  1881年：在苏丹，穆罕默德·艾哈迈德（Muhammad Ahmad）宣布自己是伊斯兰教的弥赛亚救赎主Mahdi。
-- -  1880年：法国吞并大溪地，将大溪地的独立王国重命名为“ eTablesement defrançaisdel'océanie”。
-- -  1874年：希腊政治家Charilaos Trikoupis在《雅典每日kairoi》中出版了一份宣言，题为“谁应该责备？”对乔治国王的投诉。Trikoupis于第二年当选为希腊总理。
-- -  1864年：在火车未能停下露天的吊桥，并跌入魁北克省圣希利尔（St-Hilaire）的RivièreRichelieu，至少有99人在加拿大最严重的铁路灾难中被杀害，至少有99人在加拿大最严重的铁路灾难中丧生。
-- -  1850年：君士坦丁堡的普世教宗主正式授予希腊教堂的自动畸形。
+- -  2023年：塔吉克公民与ISIS联系，在塔吉克斯坦因谋杀和绑架而通缉，在拒绝进入该国后，在摩尔多瓦的Chișinău国际机场杀死了两人。
+- -2021：老虎大火在亚利桑那州黑峡谷市附近点燃，并于7月30日完全遏制了16,278英亩（6,587公顷）的土地。
+- -  2019年：唐纳德·特朗普（Donald Trump）成为美国第一位访问大韩民国民众共和国（朝鲜）的首位现任总统。
+- -  2015年：一架Hercules C-130军用飞机在印度尼西亚梅丹的一家住宅区中有113人坠毁，导致至少116人死亡。
+- -  2013年：抗议活动始于埃及对穆罕默德·莫西总统和统治自由与正义党的抗议活动，导致他们在2013年埃及政变中推翻。
+- -  2013年：十九名消防员死亡，控制了亚利桑那州Yarnell附近的野火。
+- -  2009年：也门626号航班，空中客车A310-300，撞向科莫罗斯附近的印度洋，造成153人中的152人丧生。一个叫巴伊亚·巴卡里（Bahia Bakari）的14岁女孩幸存下来。
+- -  2007年：一辆吉普切诺基（Jeep Cherokee），里面装满了丙烷罐的驱动器，在苏格兰格拉斯哥机场的入口处发生了失败的恐怖袭击。这与前一天发生的2007年伦敦汽车炸弹有关。
+- -  1994年：在图卢兹 - 布拉格纳克机场的空中客车A330-300试飞期间，飞机坠毁杀死了船上的所有七人。
+- -  1993年：《地方议会法》正式将马耳他分为68个地方议会。
+- -  1990年：东德和西德合并了他们的经济。
+- -  1989年：苏丹的政变将民主选举的总理萨迪克·马赫迪（Sadiq al-Mahdi）和总统艾哈迈德·梅尔加尼（Ahmed Al-Mirghani）保存。
+- -  1986年：美国最高法院在Bowers诉Hardwick案中的规定，各州可以在同意成年人之间取消同性恋行为。
+- -  1985年：被劫持的TWA 847飞行中的39名美国人质在被拘留17天后在贝鲁特被释放。
+- -  1977年：东南亚条约组织解散。
+- -  1974年：1974年的巴尔的摩市政罢工开始。
+- -  1973年：协和001拦截了整个日食的路径，并遵循月球的阴影，经历了最长的日食观察。
+- -  1972年：第一个LEAP第二次添加到UTC时间系统中。
+- -  1971年：苏联11号航天器的机组人员在空气供应通过故障阀逃逸时被杀。
+- -  1968年：教皇保罗六世发行了上帝子民的信条。
+- -  1966年：美国最大的女权组织国家妇女组织成立。
+- -  1963年：Ciaculli炸弹袭击：一枚旨在为黑手党老板Salvatore Greco的汽车炸弹，杀死了巴勒莫附近的7名警察和军事人员。
+- -  1960年：比利时刚果成为刚果共和国（莱奥普维尔）的独立。
+- -  1959年：来自冲绳Kadena空军基地的美国空军F-100超级军刀撞上了附近的一所小学，杀死了11名学生，再加上当地社区的6名居民。
+- -  1956年：一个TWA超级星座和一家联合航空公司DC-7在亚利桑那州的大峡谷上方碰撞，并撞车，杀死了两架飞机上的所有128架。
+- -  1953年：第一批雪佛兰Corvette滚下密歇根州弗林特的装配线。
+- -  1944年：第二次世界大战：瑟堡战役以对美军的战略价值港口的沦陷而告终。
+- -  1937年：世界上第一个紧急电话号码999在伦敦引入。
+- -  1936年：阿比西尼亚的海尔·塞拉西（Haile Selassie）皇帝呼吁为国际联盟提供援助，以防止意大利入侵他的国家。
+- -  1934年：在长刀之夜，阿道夫·希特勒（Adolf Hitler）的暴力清除了他在德国的政治竞争对手的暴力清除。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-06-29 02:04:36 UTC）*
+*（更新于: 2025-06-30 01:59:42 UTC）*
