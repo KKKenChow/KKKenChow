@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: A Tajik citizen with ISIS connections, wanted in Tajikistan for murder and kidnapping, kills two people at Chișinău International Airport in Moldova, after being denied entry to the country.
-- 2021: The Tiger Fire ignites near Black Canyon City, Arizona, and goes on to burn 16,278 acres (6,587 ha) of land before being fully contained on July 30.
-- 2019: Donald Trump becomes the first sitting US President to visit the Democratic People's Republic of Korea (North Korea).
-- 2015: A Hercules C-130 military aircraft with 113 people on board crashes in a residential area in Medan, Indonesia, resulting in at least 116 deaths.
-- 2013: Protests begin around Egypt against President Mohamed Morsi and the ruling Freedom and Justice Party, leading to their overthrow during the 2013 Egyptian coup d'état.
-- 2013: Nineteen firefighters die controlling a wildfire near Yarnell, Arizona.
-- 2009: Yemenia Flight 626, an Airbus A310-300, crashes into the Indian Ocean near Comoros, killing 152 of the 153 people on board. A 14-year-old girl named Bahia Bakari survives the crash.
-- 2007: A Jeep Cherokee filled with propane canisters drives into the entrance of Glasgow Airport, Scotland in a failed terrorist attack. This was linked to the 2007 London car bombs that had taken place the day before.
-- 1994: During a test flight of an Airbus A330-300 at Toulouse-Blagnac Airport, the aircraft crashes killing all seven people on board.
-- 1993: Malta is officially subdivided into 68 local councils by the Local Councils Act.
-- 1990: East and West Germany merge their economies.
-- 1989: A coup d'état in Sudan deposes the democratically elected government of Prime Minister Sadiq al-Mahdi and President Ahmed al-Mirghani.
-- 1986: The U.S. Supreme Court rules in Bowers v. Hardwick that states can outlaw homosexual acts between consenting adults.
-- 1985: Thirty-nine American hostages from the hijacked TWA Flight 847 are freed in Beirut after being held for 17 days.
-- 1977: The Southeast Asia Treaty Organization disbands.
-- 1974: The Baltimore municipal strike of 1974 begins.
-- 1973: Concorde 001 intercepts the path of a total solar eclipse and follows the moon's shadow, experiencing the longest total eclipse observation.
-- 1972: The first leap second is added to the UTC time system.
-- 1971: The crew of the Soviet Soyuz 11 spacecraft are killed when their air supply escapes through a faulty valve.
-- 1968: Pope Paul VI issues the Credo of the People of God.
-- 1966: The National Organization for Women, the United States' largest feminist organization, is founded.
-- 1963: Ciaculli bombing: a car bomb, intended for Mafia boss Salvatore Greco, kills seven police officers and military personnel near Palermo.
-- 1960: Belgian Congo gains independence as Republic of the Congo (Léopoldville).
-- 1959: A United States Air Force F-100 Super Sabre from Kadena Air Base, Okinawa, crashes into a nearby elementary school, killing 11 students plus six residents from the local neighborhood.
-- 1956: A TWA Super Constellation and a United Airlines DC-7 collide above the Grand Canyon in Arizona and crash, killing all 128 on board both airliners.
-- 1953: The first Chevrolet Corvette rolls off the assembly line in Flint, Michigan.
-- 1944: World War II: The Battle of Cherbourg ends with the fall of the strategically valuable port to American forces.
-- 1937: The world's first emergency telephone number, 999, is introduced in London.
-- 1936: Emperor Haile Selassie of Abyssinia appeals for aid to the League of Nations against Italy's invasion of his country.
-- 1934: The Night of the Long Knives, Adolf Hitler's violent purge of his political rivals in Germany, takes place.
+- 2024: At the centennial ceremony of the Dominion of Newfoundland National War Memorial, the Commonwealth War Graves Commission allowed an unprecedented second Canadian Tomb of the Unknown Soldier. The Royal Newfoundland Regiment solder was entombed in the memorial at this ceremony.
+- 2020: The United States-Mexico-Canada Agreement replaces NAFTA.
+- 2013: Croatia becomes the 28th member of the European Union.
+- 2008: Riots erupt in Mongolia in response to allegations of fraud surrounding the 2008 legislative elections.
+- 2007: Smoking in England is banned in all public indoor spaces.
+- 2006: The first operation of Qinghai-Tibet Railway is conducted in China.
+- 2004: Saturn orbit insertion of Cassini-Huygens begins at 01:12 UTC and ends at 02:48 UTC.
+- 2003: Over 500,000 people protest against efforts to pass anti-sedition legislation in Hong Kong.
+- 2002: Bashkirian Airlines Flight 2937, a Tupolev Tu-154, and DHL Flight 611, a Boeing 757, collide in mid-air over Überlingen, southern Germany, killing all 71 on board both planes.
+- 2002: The International Criminal Court is established to prosecute individuals for genocide, crimes against humanity, war crimes and the crime of aggression.
+- 1999: The Scottish Parliament is officially opened by Elizabeth II on the day that legislative powers are officially transferred from the old Scottish Office in London to the new devolved Scottish Executive in Edinburgh. In Wales, the powers of the Welsh Secretary are transferred to the National Assembly.
+- 1997: Space Shuttle program: Space Shuttle Columbia is launched on STS-94, a re-flight of the prematurely-ended STS-83 mission with the same crew.
+- 1997: China resumes sovereignty over the city-state of Hong Kong, ending 156 years of British colonial rule. The handover ceremony is attended by British Prime Minister Tony Blair, Charles, Prince of Wales, Chinese President Jiang Zemin and U.S. Secretary of State Madeleine Albright.
+- 1991: The Finnish operator Radiolinja is launched as the world's first GSM network.
+- 1991: Cold War: The Warsaw Pact is officially dissolved at a meeting in Prague.
+- 1990: German reunification: East Germany accepts the Deutsche Mark as its currency, thus uniting the economies of East and West Germany.
+- 1987: The American radio station WFAN in New York City is launched as the world's first all-sports radio station.
+- 1984: The PG-13 rating is introduced by the MPAA.
+- 1983: The Ministry of State Security is established as China's principal intelligence agency
+- 1983: A North Korean Ilyushin Il-62M jet en route to Conakry Airport in Guinea crashes into the Fouta Djallon mountains in Guinea-Bissau, killing all 23 people on board.
+- 1980: "O Canada" officially becomes the national anthem of Canada.
+- 1979: Sony introduces the Walkman.
+- 1978: The Northern Territory in Australia is granted self-government.
+- 1976: Portugal grants autonomy to Madeira.
+- 1972: The first Gay pride march in England takes place.
+- 1968: Formal separation of the United Auto Workers from the AFL-CIO in the United States.
+- 1968: The Treaty on the Non-Proliferation of Nuclear Weapons is signed in Washington, D.C., London and Moscow by sixty-two countries.
+- 1968: The United States Central Intelligence Agency's Phoenix Program is officially established.
+- 1967: Merger Treaty: The European Community is formally created out of a merger between the Common Market, the European Coal and Steel Community, and the European Atomic Energy Commission.
+- 1966: The People's Liberation Army Rocket Force (The known as the 2nd Artillery Corps) is founded.
 
 Data from muffinlabs
-*(Updated at: 2025-06-30 01:59:42 UTC)*
+*(Updated at: 2025-07-01 02:05:30 UTC)*
 
 # 历史上的今天 
 
-- -  2023年：塔吉克公民与ISIS联系，在塔吉克斯坦因谋杀和绑架而通缉，在拒绝进入该国后，在摩尔多瓦的Chișinău国际机场杀死了两人。
-- -2021：老虎大火在亚利桑那州黑峡谷市附近点燃，并于7月30日完全遏制了16,278英亩（6,587公顷）的土地。
-- -  2019年：唐纳德·特朗普（Donald Trump）成为美国第一位访问大韩民国民众共和国（朝鲜）的首位现任总统。
-- -  2015年：一架Hercules C-130军用飞机在印度尼西亚梅丹的一家住宅区中有113人坠毁，导致至少116人死亡。
-- -  2013年：抗议活动始于埃及对穆罕默德·莫西总统和统治自由与正义党的抗议活动，导致他们在2013年埃及政变中推翻。
-- -  2013年：十九名消防员死亡，控制了亚利桑那州Yarnell附近的野火。
-- -  2009年：也门626号航班，空中客车A310-300，撞向科莫罗斯附近的印度洋，造成153人中的152人丧生。一个叫巴伊亚·巴卡里（Bahia Bakari）的14岁女孩幸存下来。
-- -  2007年：一辆吉普切诺基（Jeep Cherokee），里面装满了丙烷罐的驱动器，在苏格兰格拉斯哥机场的入口处发生了失败的恐怖袭击。这与前一天发生的2007年伦敦汽车炸弹有关。
-- -  1994年：在图卢兹 - 布拉格纳克机场的空中客车A330-300试飞期间，飞机坠毁杀死了船上的所有七人。
-- -  1993年：《地方议会法》正式将马耳他分为68个地方议会。
-- -  1990年：东德和西德合并了他们的经济。
-- -  1989年：苏丹的政变将民主选举的总理萨迪克·马赫迪（Sadiq al-Mahdi）和总统艾哈迈德·梅尔加尼（Ahmed Al-Mirghani）保存。
-- -  1986年：美国最高法院在Bowers诉Hardwick案中的规定，各州可以在同意成年人之间取消同性恋行为。
-- -  1985年：被劫持的TWA 847飞行中的39名美国人质在被拘留17天后在贝鲁特被释放。
-- -  1977年：东南亚条约组织解散。
-- -  1974年：1974年的巴尔的摩市政罢工开始。
-- -  1973年：协和001拦截了整个日食的路径，并遵循月球的阴影，经历了最长的日食观察。
-- -  1972年：第一个LEAP第二次添加到UTC时间系统中。
-- -  1971年：苏联11号航天器的机组人员在空气供应通过故障阀逃逸时被杀。
-- -  1968年：教皇保罗六世发行了上帝子民的信条。
-- -  1966年：美国最大的女权组织国家妇女组织成立。
-- -  1963年：Ciaculli炸弹袭击：一枚旨在为黑手党老板Salvatore Greco的汽车炸弹，杀死了巴勒莫附近的7名警察和军事人员。
-- -  1960年：比利时刚果成为刚果共和国（莱奥普维尔）的独立。
-- -  1959年：来自冲绳Kadena空军基地的美国空军F-100超级军刀撞上了附近的一所小学，杀死了11名学生，再加上当地社区的6名居民。
-- -  1956年：一个TWA超级星座和一家联合航空公司DC-7在亚利桑那州的大峡谷上方碰撞，并撞车，杀死了两架飞机上的所有128架。
-- -  1953年：第一批雪佛兰Corvette滚下密歇根州弗林特的装配线。
-- -  1944年：第二次世界大战：瑟堡战役以对美军的战略价值港口的沦陷而告终。
-- -  1937年：世界上第一个紧急电话号码999在伦敦引入。
-- -  1936年：阿比西尼亚的海尔·塞拉西（Haile Selassie）皇帝呼吁为国际联盟提供援助，以防止意大利入侵他的国家。
-- -  1934年：在长刀之夜，阿道夫·希特勒（Adolf Hitler）的暴力清除了他在德国的政治竞争对手的暴力清除。
+- -  2024年：在纽芬兰国家战争纪念馆统治的百年纪念仪式上，英联邦战争格雷夫斯委员会允许史无前例的加拿大第二加拿大坟墓。纽芬兰皇家团焊接在纪念馆中被埋葬在仪式上。
+- -  2020年：美国 - 墨西哥 - 加拿大协议取代了北美自由贸易协定。
+- -  2013年：克罗地亚成为欧盟的第28位成员。
+- -  2008年：蒙古人爆发了骚乱，以回应围绕2008年立法选举的欺诈指控。
+- -  2007年：在所有公共室内空间中禁止在英格兰吸烟。
+- -  2006年：青海西部铁路的第一次行动是在中国进行的。
+- -  2004年：Cassini-Huygens的土星轨道插入于01:12 UTC开始，并于02:48 UTC结束。
+- -  2003年：超过500,000人抗议在香港通过反隔行立法的努力。
+- -  2002年：Bashkirian航空公司2937航班，Tupolev Tu-154和DHL 611，波音757航班，在德国南部的überlingen上撞击，在空中碰撞，杀死了两架飞机上的所有71架。
+- -  2002年：建立国际刑事法院是为了起诉种族灭绝，危害人类罪，战争罪和侵略罪的人。
+- -  1999年：苏格兰议会在伊丽莎白二世在立法权正式从伦敦的旧苏格兰办公室正式转移到爱丁堡的新苏格兰高管时正式开放。在威尔士，威尔士秘书的权力被转移到国民议会。
+- -  1997年：航天飞机计划：哥伦比亚航天飞机哥伦比亚航天飞机于STS-94上发射，这是与同一名船员的过度终止的STS-83任务的重新飞行。
+- -  1997年：中国恢复了香港城市国家的主权，结束了156年的英国殖民统治。英国首相托尼·布莱尔（Tony Blair），查尔斯（Charles），威尔士亲王（Wales of Wales），中国总统江泽明（Jiang Zemin）和美国国务卿玛德琳·奥尔布赖特（Madeleine Albright）参加了切换仪式。
+- -  1991年：芬兰运营商Radiolinja被推出为世界上第一个GSM网络。
+- -  1991年：冷战：华沙条约在布拉格的一次会议上正式解散。
+- -  1990年：德国统一：东德接受德意志马克作为其货币，从而团结了东德和西德的经济体。
+- -  1987年：纽约市的美国广播电台WFAN被推出是世界上第一个全球广播电台。
+- -  1984年：MPAA引入了PG-13评级。
+- -  1983年：国家安全部是中国首席情报机构
+- -  1983年：前往几内亚的康纳克里机场的朝鲜ILYUSHIN IL-62M喷气式飞机撞上了几内亚 - 比索的Fouta Djallon山脉，杀死了所有23人。
+- -  1980年：“ O Canada”正式成为加拿大的国歌。
+- -  1979年：索尼介绍了步行者。
+- -  1978年：澳大利亚的北领地被授予自治。
+- -  1976年：葡萄牙授予马德拉岛的自治。
+- -  1972年：在英格兰举行了第一次同性恋骄傲游行。
+- -  1968年：美国与AFL-CIO在美国的正式分离。
+- -  1968年：六十二个国家在华盛顿特区，伦敦和莫斯科签署了《核武器不扩散条约》。
+- -  1968年：美国中央情报局的凤凰计划已正式建立。
+- -  1967年：合并条约：欧洲共同体是由共同市场，欧洲煤炭和钢铁界和欧洲原子能委员会之间的合并正式创建的。
+- -  1966年：建立了人民解放军火箭部队（被称为第二炮兵军）。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-06-30 01:59:42 UTC）*
+*（更新于: 2025-07-01 02:05:30 UTC）*
