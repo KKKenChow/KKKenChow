@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: A stampede during a religious event in Uttar Pradesh, India, leaves at least 121 people dead and 150 others injured.
-- 2013: A magnitude 6.1 earthquake strikes Aceh, Indonesia, killing at least 42 people and injuring 420 others.
-- 2013: The International Astronomical Union names Pluto's fourth and fifth moons, Kerberos and Styx.
-- 2010: The South Kivu tank truck explosion in the Democratic Republic of the Congo kills at least 230 people.
-- 2008: Colombian conflict: Íngrid Betancourt, a member of the Chamber of Representatives of Colombia, is released from captivity after being held for six and a half years by FARC.
-- 2005: The Live 8 benefit concerts takes place in the G8 states and in South Africa. More than 1,000 musicians perform and are broadcast on 182 television networks and 2,000 radio networks.
-- 2002: Steve Fossett becomes the first person to fly solo around the world nonstop in a balloon.
-- 2001: The AbioCor self-contained artificial heart is first implanted.
-- 2000: Vicente Fox Quesada is elected the first President of México from an opposition party, the Partido Acción Nacional, after more than 70 years of continuous rule by the Partido Revolucionario Institucional.
-- 1997: The Bank of Thailand floats the baht, triggering the Asian financial crisis.
-- 1994: USAir Flight 1016 crashes near Charlotte Douglas International Airport, killing 37 of the 57 people on board.
-- 1990: In the 1990 Mecca tunnel tragedy, 1,400 Muslim pilgrims are suffocated to death and trampled upon in a pedestrian tunnel leading to the holy city of Mecca.
-- 1988: Marcel Lefebvre and the four bishops he consecrated were excommunicated by the Holy See.
-- 1986: Aeroflot Flight 2306 crashes while attempting an emergency landing at Syktyvkar Airport in Syktyvkar, in present-day Komi Republic, Russia, killing 54 people.
-- 1986: Rodrigo Rojas and Carmen Gloria Quintana are burnt alive during a street demonstration against the dictatorship of General Augusto Pinochet in Chile.
-- 1976: End of South Vietnam; Communist North Vietnam annexes the former South Vietnam to form the unified Socialist Republic of Vietnam.
-- 1966: France conducts its first nuclear weapon test in the Pacific, on Moruroa Atoll.
-- 1964: Civil rights movement: U.S. President Lyndon B. Johnson signs the Civil Rights Act of 1964 meant to prohibit segregation in public places.
-- 1962: The first Walmart store, then known as Wal-Mart, opens for business in Rogers, Arkansas.
-- 1940: World War II: The SS Arandora Star is sunk by U-47 in the North Atlantic with the loss of over 800 lives, mostly civilians.
-- 1940: Indian independence leader Subhas Chandra Bose is arrested and detained in Calcutta.
-- 1937: Amelia Earhart and navigator Fred Noonan are last heard from over the Pacific Ocean while attempting to make the first equatorial round-the-world flight.
-- 1934: The Night of the Long Knives ends after three days of killings.
-- 1921: World War I: U.S. President Warren G. Harding signs the Knox-Porter Resolution formally ending the war between the United States and Germany.
-- 1900: Jean Sibelius' Finlandia receives its première performance in Helsinki with the Helsinki Philharmonic Society conducted by Robert Kajanus.
-- 1900: An airship designed and constructed by Count Ferdinand von Zeppelin of Germany made its first flight on Lake Constance near Friedrichshafen.
-- 1897: British-Italian engineer Guglielmo Marconi obtains a patent for radio in London.
-- 1890: The U.S. Congress passes the Sherman Antitrust Act.
-- 1881: Charles J. Guiteau shoots and fatally wounds U.S. President James A. Garfield (who will die of complications from his wounds on September 19).
-- 1871: Victor Emmanuel II of Italy enters Rome after having conquered it from the Papal States.
+- 2013: President of Egypt Mohamed Morsi is removed from office by the military after four days of protests all over the country calling for his resignation, to which he did not respond. The president of the Supreme Constitutional Court of Egypt, Adly Mansour, is declared acting president until further elections are held.
+- 1996: British Prime Minister John Major announced the Stone of Scone would be returned to Scotland.
+- 1988: The Fatih Sultan Mehmet Bridge in Istanbul, Turkey is completed, providing the second connection between the continents of Europe and Asia over the Bosphorus.
+- 1988: United States Navy warship USS Vincennes shoots down Iran Air Flight 655 over the Persian Gulf, killing all 290 people aboard.
+- 1979: U.S. President Jimmy Carter signs the first directive for secret aid to the opponents of the pro-Soviet regime in Kabul.
+- 1973: David Bowie retires his stage persona Ziggy Stardust with the surprise announcement that it is "the last show that we'll ever do" on the last day of the Ziggy Stardust Tour.
+- 1970: Dan-Air Flight 1903 crashes into the Les Agudes mountain in the Montseny Massif near the village of Arbúcies in Catalonia, Spain, killing all 112 people aboard.
+- 1970: The Troubles: The "Falls Curfew" begins in Belfast, Northern Ireland.
+- 1967: The Aden Emergency: The Battle of the Crater in which the British Argyll and Sutherland Highlanders retake the Crater district following the Arab Police mutiny.
+- 1952: The SS United States sets sail on her maiden voyage to Southampton. During the voyage, the ship takes the Blue Riband away from the RMS Queen Mary.
+- 1952: The Constitution of Puerto Rico is approved by the United States Congress.
+- 1944: World War II: The Minsk Offensive clears German troops from the city.
+- 1940: World War II: The Royal Navy attacks the French naval squadron in Algeria, to ensure that it will not fall under German control. Of the four French battleships present, one is sunk, two are damaged, and one escapes back to France.
+- 1938: United States President Franklin D. Roosevelt dedicates the Eternal Light Peace Memorial and lights the eternal flame at Gettysburg Battlefield.
+- 1938: World speed record for a steam locomotive is set in England, by the Mallard, which reaches a speed of 125.88 miles per hour (202.58 km/h).
+- 1913: Confederate veterans at the Great Reunion of 1913 reenact Pickett's Charge; upon reaching the high-water mark of the Confederacy they are met by the outstretched hands of friendship from Union survivors.
+- 1898: A Spanish squadron, led by Pascual Cervera y Topete, is defeated by an American squadron under William T. Sampson in the Battle of Santiago de Cuba.
+- 1890: Idaho is admitted as the 43rd U.S. state.
+- 1886: The New-York Tribune becomes the first newspaper to use a linotype machine, eliminating typesetting by hand.
+- 1886: Karl Benz officially unveils the Benz Patent-Motorwagen, the first purpose-built automobile.
+- 1884: Dow Jones & Company publishes its first stock average.
+- 1866: Austro-Prussian War is decided at the Battle of Königgrätz, enabling Prussia to exclude Austria from German affairs.
+- 1863: American Civil War: The final day of the Battle of Gettysburg culminates with Pickett's Charge.
+- 1852: Congress establishes the United States' 2nd mint in San Francisco.
+- 1849: France invades the Roman Republic and restores the Papal States.
+- 1848: Governor-General Peter von Scholten emancipates all remaining slaves in the Danish West Indies.
+- 1839: The first state normal school in the United States, the forerunner to today's Framingham State University, opens in Lexington, Massachusetts with three students.
+- 1819: The Bank for Savings in the City of New-York, the first savings bank in the United States, opens.
+- 1778: American Revolutionary War: The Iroquois, allied with Britain, killed 360 people in the Wyoming Valley massacre.
+- 1775: American Revolutionary War: George Washington takes command of the Continental Army at Cambridge, Massachusetts.
 
 Data from muffinlabs
-*(Updated at: 2025-07-02 01:54:22 UTC)*
+*(Updated at: 2025-07-03 01:54:41 UTC)*
 
 # 历史上的今天 
 
-- -  2024年：在印度北方邦举行的一次宗教活动中，一场踩踏事件，至少有121人死亡，另有150人受伤。
-- -  2013年：6.1级地震袭击了印度尼西亚的Aceh，杀死了至少42人，炸伤420人。
-- -  2013年：国际天文联盟将冥王星的第四和第五卫星称为Kerberos和Styx。
-- -  2010年：刚果民主共和国的南基沃克式卡车爆炸爆炸至少230人。
-- -  2008年：哥伦比亚冲突：哥伦比亚众议院成员的成员在哥伦比亚革命武装力量被拘留了六年半之后，被囚禁。
-- -  2005年：现场8次福利音乐会在G8州和南非举行。超过1,000名音乐家演出，并在182个电视网络和2,000个无线电网络上播出。
-- -  2002年：史蒂夫·福塞特（Steve Fossett）成为第一个在气球中不停地在世界上独自飞行的人。
-- -2001：阿布焦师自固定的人造心脏首先是植入的。
-- -  2000年：Vicente Fox Quesada被反对党党派AcciónNacional当选为墨西哥的第一任总统，经过Partido Revolucionario Instucional的70多年的连续统治。
-- -  1997年：泰国银行浮动泰铢，引发了亚洲金融危机。
-- -  1994年：夏洛特·道格拉斯国际机场附近的USAIR 1016航班撞车事故，造成了船上57人中的37人。
-- -  1990年：在1990年的麦加隧道悲剧中，1,400名穆斯林朝圣者被窒息而死，并在通往麦加圣城的行人隧道中践踏。
-- -  1988年：马塞尔（Marcel Lefebvre）和他奉献的四位主教被罗马教廷审流。
-- -  1986年：Aeroflot航班2306坠毁，试图在当今俄罗斯Komi Republic的Syktyvkar的Syktyvkar机场发生紧急降落时，造成54人丧生。
-- -  1986年：罗德里戈·罗哈斯（Rodrigo Rojas）和卡门·格洛里亚·金塔纳（Carmen Gloria Quintana）在一次街头示威游行中被烧毁，反对智利奥古斯托·皮诺切特将军的独裁统治。
-- -  1976年：南越南尽头；北越共产党吞并前南越，形成越南统一的社会主义共和国。
-- -  1966年：法国在莫罗阿环礁（Moruroa Atoll）的太平洋进行了首次核武器测试。
-- -  1964年：民权运动：美国总统林登·约翰逊（Lyndon B.
-- -  1962年：当时被称为沃尔玛的第一家沃尔玛商店在阿肯色州罗杰斯开业。
-- -  1940年：第二次世界大战：SS Arandora之星在北大西洋上被U-47沉没，丧生超过800人，主要是平民。
-- -  1940年：印度独立领导人Subhas Chandra Bose被捕并拘留在加尔各答。
-- -  1937年：阿米莉亚·埃哈特（Amelia Earhart）和导航员弗雷德·诺南（Fred Noonan）最后一次从太平洋上听到，同时试图进行第一次赤道赤道飞行。
-- -  1934年：长刀的夜晚在杀人三天后结束。
-- -  1921年：第一次世界大战：美国总统沃伦·H·哈丁（Warren G.
-- -  1900年：让·西贝利乌斯（Jean Sibelius）的芬兰（Finlandia）在赫尔辛基（Helsinki）的赫尔辛基爱乐学会（Helsinki Fellharmonic Society）在赫尔辛基（Robert Kajanus）进行了首要表现。
-- -  1900年：由德国伯爵·费迪南德·冯·齐柏林（Count Ferdinand von Zeppelin）设计和建造的飞艇在弗里德里希舍芬（Friedrichshafen）附近的康斯坦斯湖（Lake Constance）进行了首次飞行。
-- -  1897年：英国 - 意大利工程师Guglielmo Marconi获得了伦敦广播的专利。
-- -  1890年：美国国会通过了《谢尔曼反托拉斯法》。
-- -  1881年：查尔斯·J·吉托（Charles J. Guiteau）射击和致命伤害美国总统詹姆斯·A·加菲尔德（James A.
-- -  1871年：意大利的维克多·伊曼纽尔二世（Victor Emmanuel II）从教皇国家征服了罗马后进入罗马。
+- -  2013年：埃及总统穆罕默德·莫尔西（Mohamed Morsi）在全国各地抗议四天呼吁辞职之后，被军队撤职，他没有回应。埃及最高宪法法院的总统阿德利·曼苏尔（Adly Mansour）被宣布为代理总统，直到举行进一步的选举为止。
+- -  1996年：英国首相约翰·梅杰（John Major）宣布，斯科恩（Scone）的石头将返回苏格兰。
+- -  1988年：土耳其伊斯坦布尔的Fatih Sultan Mehmet Bridge已完成，为Bosphorus提供了欧洲和亚洲大陆之间的第二个联系。
+- -  1988年：美国海军军舰维森纳号号航空公司在波斯湾射击了伊朗空中航班655，杀死了所有290人。
+- -  1979年：美国总统吉米·卡特（Jimmy Carter）签署了第一个向喀布尔亲苏联政权反对者的秘密援助指令。
+- -  1973年：大卫·鲍伊（David Bowie）在Ziggy Stardust巡回演唱会的最后一天退休了他的舞台角色Ziggy Stardust，这是“我们将要做的最后一场演出”。
+- -  1970年：Dan-Air航班1903年撞上了西班牙加泰罗尼亚Arbúcies村附近Montseny Massif的Les Agudes山，杀死了所有112人。
+- -  1970年：麻烦：“瀑布宵禁”始于北爱尔兰的贝尔法斯特。
+- -  1967年：亚丁紧急情况：阿拉伯警察叛变之后，不列颠阿吉尔和萨瑟兰高地人重新夺回火山口区的火山口战役。
+- -  1952年：美国党卫军在她的首次航行到南安普敦时启航。在航行期间，这艘船将蓝色的肋骨从RMS皇后玛丽带走。
+- -  1952年：波多黎各宪法得到美国国会的批准。
+- -  1944年：第二次世界大战：明斯克进攻使德国军队从城市中清除了。
+- -  1940年：第二次世界大战：皇家海军袭击了阿尔及利亚的法国海军中队，以确保它不会受到德国的控制。在出席的四个法国战舰中，一个是沉没的，两人被损坏，一个逃回法国。
+- -  1938年：美国总统富兰克林·罗斯福（Franklin D.
+- -  1938年：蒸汽机车的世界速度记录是在英格兰的野鸭创下的，野鸭的速度为每小时125.88英里（202.58 km/h）。
+- -  1913年：在1913年重演皮克特（Pickett）的大团圆中，同盟国退伍军人；在达到同盟的高水分后，联盟幸存者伸出的友谊遇到了他们。
+- -  1898年：由帕斯卡尔·塞维拉·托普特（Pascual Cervera Y Topete）领导的西班牙中队在圣地亚哥·德·古巴（Santiago de Cuba）战役中被威廉·T·桑普森（William T. Sampson）的美国中队击败。
+- -  1890年：爱达荷州被接纳为美国第43个州。
+- -  1886年：《纽约论坛报》成为第一家使用Linotype机器的报纸，可以手工消除排版。
+- -  1886年：卡尔·本茨（Karl Benz）正式揭露了第一辆专用汽车的奔驰专利 - 摩托瓦根。
+- -  1884年：道琼斯与公司（Dow Jones＆Company）出版了其第一股平均值。
+- -  1866年：奥尔普鲁士战争是在科尼格格尔茨战役中决定的，使普鲁士能够将奥地利排除在德国事务之外。
+- -  1863年：美国内战：葛底斯堡战役的最后一天以皮克特的指控达到高潮。
+- -  1852年：国会在旧金山建立了美国的第二个薄荷。
+- -  1849年：法国入侵罗马共和国并恢复教皇国家。
+- -  1848年：总督彼得·冯·索尔滕（Peter von Scholten）在丹麦西印度群岛中解放了所有剩余的奴隶。
+- -  1839年：美国第一所州立师范大学，今天的弗雷明汉州立大学的先驱，在马萨诸塞州列克星敦开设了三名学生。
+- -  1819年：美国第一家储蓄银行纽约市的储蓄银行开放。
+- -  1778年：美国革命战争：与英国结盟的易洛魁人在怀俄明山谷大屠杀中杀死了360人。
+- -  1775年：美国革命战争：乔治·华盛顿（George Washington）指挥马萨诸塞州剑桥市的大陆军。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-07-02 01:54:22 UTC）*
+*（更新于: 2025-07-03 01:54:41 UTC）*
