@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Boris Johnson announces his resignation as leader of the Conservative Party following days of pressure from the Members of Parliament (MPs) during the July 2022 United Kingdom government crisis.
-- 2019: The United States women's national soccer team defeated the Netherlands 2-0 at the 2019 FIFA Women's World Cup Final in Lyon, France.
-- 2017: The Treaty on the Prohibition of Nuclear Weapons was adopted with 122 countries voting in favour.
-- 2016: Ex-US Army soldier Micah Xavier Johnson shoots fourteen policemen during an anti-police protest in downtown Dallas, Texas, killing five of them. He is subsequently killed by a robot-delivered bomb.
-- 2013: A De Havilland Otter air taxi crashes in Soldotna, Alaska, killing ten people.
-- 2012: At least 172 people are killed in a flash flood in the Krasnodar Krai region of Russia.
-- 2007: The first Live Earth benefit concert was held in 11 locations around the world.
-- 2006:  A shootout happens in Spiritwood, Canada, killing 2 Royal Canadian Mounted Police and wounding a 3rd officer.
-- 2005: A series of four explosions occurs on London's transport system, killing 56 people, including four suicide bombers, and injuring over 700 others.
-- 2003: NASA Opportunity rover, MER-B or Mars Exploration Rover-B, was launched into space aboard a Delta II rocket.
-- 1997: The Turkish Armed Forces withdraw from northern Iraq after assisting the Kurdistan Democratic Party in the Iraqi Kurdish Civil War.
-- 1992: The New York Court of Appeals rules that women have the same right as men to go topless in public.
-- 1991: Yugoslav Wars: The Brioni Agreement ends the ten-day independence war in Slovenia against the rest of the Socialist Federal Republic of Yugoslavia.
-- 1985: Boris Becker becomes the youngest male player ever to win Wimbledon at age 17.
-- 1983: Cold War: Samantha Smith, a US schoolgirl, flies to the Soviet Union at the invitation of Secretary General Yuri Andropov.
-- 1981: US President Ronald Reagan nominates Sandra Day O'Connor to become the first female member of the Supreme Court of the United States.
-- 1980: During the Lebanese Civil War, 83 Tiger militants are killed during what will be known as the Safra massacre.
-- 1980: Institution of sharia law in Iran.
-- 1978: The Solomon Islands becomes independent from the United Kingdom.
-- 1963: Buddhist crisis: Police commanded by Ngô Đình Nhu, brother and chief political adviser of South Vietnam President Ngo Dinh Diem, attacked a group of American journalists who were covering a protest.
-- 1962: Alitalia Flight 771 crashes in Junnar, Maharashtra, India, killing 94 people.
-- 1959: Venus occults the star Regulus. This rare event is used to determine the diameter of Venus and the structure of the Venusian atmosphere.
-- 1958: US President Dwight D. Eisenhower signs the Alaska Statehood Act into law.
-- 1953: Ernesto "Che" Guevara sets out on a trip through Bolivia, Peru, Ecuador, Panama, Costa Rica, Nicaragua, Honduras, and El Salvador.
-- 1952: The ocean liner SS United States passes Bishop Rock on her maiden voyage, breaking the transatlantic speed record to become the fastest passenger ship in the world.
-- 1946: Howard Hughes nearly dies when his XF-11 reconnaissance aircraft prototype crashes in a Beverly Hills neighborhood.
-- 1946: Mother Francesca S. Cabrini becomes the first American to be canonized.
-- 1944: World War II: Largest Banzai charge of the Pacific War at the Battle of Saipan.
-- 1941: The US occupation of Iceland replaces the UK's occupation.
-- 1937: The Peel Commission Report recommends the partition of Palestine, which was the first formal recommendation for partition in the history of Palestine.
+- 2014: The worst historical defeat of Brazil against the Germany with a result of 1-7 in the semi-finals of the 2014 FIFA World Cup that has been dubbed the Mineirazo.
+- 2014: Israel launches an offensive on Gaza amid rising tensions following the kidnapping and murder of three Israeli teenagers.
+- 2011: Space Shuttle Atlantis is launched in the final mission of the U.S. Space Shuttle program.
+- 2003: Sudan Airways Flight 139 crashes near Port Sudan Airport during an emergency landing attempt, killing 116 of the 117 people on board.
+- 1994: Space Shuttle Columbia is launched on an international science mission.
+- 1994: Kim Jong Il begins to assume supreme leadership of North Korea upon the death of his father, Kim Il Sung.
+- 1988: The Island Express train travelling from Bangalore to Kanyakumari derails on the Peruman bridge and falls into Ashtamudi Lake, Kerala in India killing 105 passengers and injuring over 200 more.
+- 1982: A failed assassination attempt against Iraqi president Saddam Hussein results in the Dujail Massacre over the next several months.
+- 1980: Aeroflot Flight 4225 crashes near Almaty International Airport in the then Kazakh Soviet Socialist Republic (present day Kazakhstan) killing all 166 people on board.
+- 1980: The inaugural 1980 State of Origin game is won by Queensland who defeat New South Wales 20-10 at Lang Park.
+- 1972: Israeli Mossad assassinate Palestinian writer Ghassan Kanafani.
+- 1970: Richard Nixon delivers a special congressional message enunciating Native American self-determination as official US Indian policy, leading to the Indian Self-Determination and Education Assistance Act of 1975.
+- 1968: The Chrysler wildcat strike begins in Detroit, Michigan.
+- 1966: King Mwambutsa IV Bangiriceng of Burundi is deposed by his son Prince Charles Ndizi.
+- 1965: Canadian Pacific Air Lines Flight 21 is destroyed by a bomb near 100 Mile House, Canada, killing 52.
+- 1962: Ne Win besieges and blows up the Rangoon University Student Union building to crush the Student Movement.
+- 1960: Francis Gary Powers is charged with espionage resulting from his flight over the Soviet Union.
+- 1948: The United States Air Force accepts its first female recruits into a program called the Women's Air Force (WAF).
+- 1947: Reports are broadcast that a UFO crash-landed in Roswell, New Mexico in what became known as the Roswell UFO incident.
+- 1937: Turkey, Iran, Iraq, and Afghanistan sign the Treaty of Saadabad.
+- 1933: The first rugby union test match between the Wallabies of Australia and the Springboks of South Africa is played at Newlands Stadium in Cape Town.
+- 1932: The Dow Jones Industrial Average reaches its lowest level of the Great Depression, closing at 41.22.
+- 1912: Henrique Mitchell de Paiva Couceiro leads an unsuccessful royalist attack against the First Portuguese Republic in Chaves.
+- 1898: The death of crime boss Soapy Smith, killed in the Shootout on Juneau Wharf, releases Skagway, Alaska from his iron grip.
+- 1892: St. John's, Newfoundland is devastated in the Great Fire of 1892.
+- 1889: The first issue of The Wall Street Journal is published.
+- 1879: Sailing ship USS Jeannette departs San Francisco carrying an ill-fated expedition to the North Pole.
+- 1876: The Hamburg massacre prior to the 1876 United States presidential election results in the deaths of six African-Americans of the Republican Party, along with one white assailant.
+- 1874: The Mounties begin their March West.
+- 1864: Ikedaya Incident: The Choshu Han shishi's planned Shinsengumi sabotage on Kyoto, Japan at Ikedaya.
 
 Data from muffinlabs
-*(Updated at: 2025-07-07 02:00:14 UTC)*
+*(Updated at: 2025-07-08 01:55:16 UTC)*
 
 # 历史上的今天 
 
-- -  2022年：鲍里斯·约翰逊（Boris Johnson）在2022年7月的英国政府危机期间宣布辞去国会议员（MPS）压力后的保守党领袖辞职。
-- -  2019年：美国女子国家足球队在法国里昂的2019年FIFA女子世界杯决赛中以2-0击败荷兰。
-- -  2017年：《禁止核武器的条约》采用了122个国家的赞成。
-- -  2016年：在德克萨斯州达拉斯市中心的反警察抗议活动中，前美国军队士兵米卡·泽维尔·约翰逊（Micah Xavier Johnson）枪杀14名警察，杀死了其中的五名。随后，他被机器人交付的炸弹杀死。
-- -  2013年：阿拉斯加索德纳（Soldotna）的De Havilland Otter Air出租车撞车造成10人丧生。
-- -  2012年：在俄罗斯的克拉斯诺达尔·克雷地区的山洪洪水中，至少有172人被杀。
-- -  2007年：第一场现场地球福利音乐会在世界各地的11个地点举行。
-- -  2006年：枪战发生在加拿大的Spiritwood，杀死了2名加拿大皇家骑警，并炸伤了一名第三名警官。
-- -  2005年：伦敦的运输系统发生了一系列四次爆炸，杀死了56人，其中包括四名自杀炸弹袭击者，另外700多人受伤。
-- -  2003年：NASA机会漫游车，MER-B或MARS Exploration Rover-B，被发射到Delta II火箭上的太空中。
-- -  1997年：土耳其武装部队在协助库尔德民主党参加伊拉克库尔德内战后退出伊拉克北部。
-- -  1992年：纽约上诉法院的规定，妇女与男性在公共场合裸照的权利相同。
-- -  1991年：南斯拉夫战争：布里昂协定结束了斯洛文尼亚为期十天的独立战争，针对南斯拉夫社会主义联邦共和国。
-- -  1985年：鲍里斯·贝克尔（Boris Becker）成为有史以来最年轻的男性球员，在17岁时赢得温网。
-- -  1983年：冷战：美国女学生萨曼莎·史密斯（Samantha Smith）在秘书长尤里·安德罗波夫（Yuri Andropov）的邀请下飞往苏联。
-- -  1981年：美国总统罗纳德·里根（Ronald Reagan）提名桑德拉·戴·奥康纳（Sandra Day O'Connor）成为美国最高法院的第一位女性成员。
-- -  1980年：在黎巴嫩内战期间，在被称为萨弗拉大屠杀期间杀害了83名老虎武装分子。
-- -  1980年：伊朗的伊斯兰教法机构。
-- -  1978年：所罗门群岛与英国独立。
-- -  1963年：佛教危机：南越南总统恩戈·丁·迪姆（Ngo ngo Dinh Diem）兄弟兼首席政治顾问恩格·恩·恩（Ngô）指挥的警察袭击了一群报道抗议活动的美国记者。
-- -  1962年：Alitalia 771航班在印度马哈拉施特拉邦的Junnar撞车，炸死94人。
-- -  1959年：维纳斯（Venus）神秘地统治了明星。这个罕见的事件用于确定金星的直径和金星大气的结构。
-- -  1958年：美国总统德怀特·D·艾森豪威尔（D.
-- -  1953年：Ernesto“ Che” Guevara出发穿越玻利维亚，秘鲁，厄瓜多尔，巴拿马，哥斯达黎加，尼加拉瓜，洪都拉斯和萨尔瓦多。
-- -  1952年：远洋班轮SS美国在她的处女航行中经过Bishop Rock，打破了跨大西洋速度记录，成为世界上最快的客船。
-- -  1946年：霍华德·休斯（Howard Hughes）在XF-11侦察飞机原型在比佛利山庄（Beverly Hills）附近坠毁时几乎死亡。
-- -  1946年：母亲弗朗西斯·S·卡布里尼（Francesca S.
-- -  1944年：第二次世界大战：塞班战役中最大的班扎伊对太平洋战争的指控。
-- -  1941年：美国对冰岛的占领取代了英国的职业。
-- -  1937年：皮尔委员会的报告建议将巴勒斯坦分开，这是巴勒斯坦历史上划分的第一个正式建议。
+- -  2014年：巴西对德国最严重的历史失败，在2014年FIFA世界杯半决赛中以1-7的成绩被称为Mineirazo。
+- -  2014年：以色列在绑架和谋杀三名以色列少年后的紧张局势上升，对加沙发动了进攻。
+- -  2011年：航天飞机亚特兰蒂斯（Atlantis）是在美国航天飞机计划的最后任务中启动的。
+- -  2003年：苏丹航空公司在苏丹港机场附近的139次撞车事故中撞车，杀死了船上117人中的116人。
+- -  1994年：航天飞机哥伦比亚航空公司是在国际科学任务上推出的。
+- -  1994年：金正日（Kim Jong Il）在父亲金·艾尔（Kim Il Sung）去世后开始担任朝鲜的最高领导。
+- -  1988年：从班加罗尔到佩鲁曼大桥上的坎亚库马里逃脱的岛快车火车，坠入印度喀拉拉邦的阿什塔穆迪湖，杀害了105名乘客，并造成200多人受伤。
+- -  1982年：对伊拉克总统萨达姆·侯赛因（Saddam Hussein）的暗杀企图失败了，在接下来的几个月中，杜哈尔大屠杀导致了杜哈尔大屠杀。
+- -  1980年：当时哈萨克苏维埃社会主义共和国（当今哈萨克斯坦）在阿拉米国际机场附近的Aeroflot 4225航班坠毁，杀死了所有166人。
+- -  1980年：昆士兰州赢得了1980年的首届原籍国游戏，后者在兰公园以20-10击败新南威尔士州。
+- -  1972年：以色列摩萨德暗杀巴勒斯坦作家Ghassan Kanafani。
+- -  1970年：理查德·尼克松（Richard Nixon）发表了一条特别的国会信息，说明了美国原住民自决，作为美国官方印度政策，从而导致了1975年的《印度自决与教育援助法》。
+- -  1968年：克莱斯勒野猫罢工始于密歇根州底特律。
+- -  1966年：布隆迪的姆万布萨国王IV Bangiriceng被他的儿子查尔斯·恩迪兹（Charles Ndizi）罢免。
+- -  1965年：加拿大太平洋航空​​公司21号航班被加拿大100英里家附近的炸弹摧毁，杀死了52。
+- -  1962年：NE赢得胜利并炸毁了仰光大学的学生会大楼，以粉碎学生运动。
+- -  1960年：弗朗西斯·加里·鲍尔斯（Francis Gary Powers）被指控由苏联飞行的间谍活动。
+- -  1948年：美国空军将其第一批女性新兵加入了一个名为“妇女空军”（WAF）的计划。
+- -  1947年：报道说，在新墨西哥州罗斯威尔的罗斯威尔不明飞行物事件中，在新墨西哥州罗斯威尔的不明飞行物撞车事件。
+- -  1937年：土耳其，伊朗，伊拉克和阿富汗签署了萨达巴德条约。
+- -  1933年：澳大利亚小袋鼠和南非跳羚之间的第一场橄榄球联盟测试比赛是在开普敦的纽兰兹体育场举行的。
+- -  1932年：道琼斯工业平均水平达到了大萧条的最低水平，闭上41.22。
+- -  1912年：Henrique Mitchell de Paiva Couceiro引发了对Chaves第一个葡萄牙共和国的未成功皇室袭击。
+- -  1898年：犯罪老板肥皂史密斯（Soapy Smith）死亡，在朱诺码头（Juneau Wharf）的枪战中丧生，从他的铁抓地力中释放出阿拉斯加的斯卡格韦（Skagway）。
+- -  1892年：纽芬兰的圣约翰在1892年的大火中遭受了破坏。
+- -  1889年：《华尔街日报》的第一期发表。
+- -  1879年：帆船Jeannette USS离开旧金山，带着命运不佳的探险到北极。
+- -  1876年：1876年美国总统大选之前的汉堡大屠杀导致共和党六名非裔美国人的死亡以及一名白人袭击者。
+- -  1874年：骑警们开始向西行进。
+- -  1864年：Ikedaya事件：Choshu Han Shishi计划的Shinsengumi Sabotage在日本京都的Ikedaya上。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-07-07 02:00:14 UTC）*
+*（更新于: 2025-07-08 01:55:16 UTC）*
