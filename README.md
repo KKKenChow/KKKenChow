@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2014: The worst historical defeat of Brazil against the Germany with a result of 1-7 in the semi-finals of the 2014 FIFA World Cup that has been dubbed the Mineirazo.
-- 2014: Israel launches an offensive on Gaza amid rising tensions following the kidnapping and murder of three Israeli teenagers.
-- 2011: Space Shuttle Atlantis is launched in the final mission of the U.S. Space Shuttle program.
-- 2003: Sudan Airways Flight 139 crashes near Port Sudan Airport during an emergency landing attempt, killing 116 of the 117 people on board.
-- 1994: Space Shuttle Columbia is launched on an international science mission.
-- 1994: Kim Jong Il begins to assume supreme leadership of North Korea upon the death of his father, Kim Il Sung.
-- 1988: The Island Express train travelling from Bangalore to Kanyakumari derails on the Peruman bridge and falls into Ashtamudi Lake, Kerala in India killing 105 passengers and injuring over 200 more.
-- 1982: A failed assassination attempt against Iraqi president Saddam Hussein results in the Dujail Massacre over the next several months.
-- 1980: Aeroflot Flight 4225 crashes near Almaty International Airport in the then Kazakh Soviet Socialist Republic (present day Kazakhstan) killing all 166 people on board.
-- 1980: The inaugural 1980 State of Origin game is won by Queensland who defeat New South Wales 20-10 at Lang Park.
-- 1972: Israeli Mossad assassinate Palestinian writer Ghassan Kanafani.
-- 1970: Richard Nixon delivers a special congressional message enunciating Native American self-determination as official US Indian policy, leading to the Indian Self-Determination and Education Assistance Act of 1975.
-- 1968: The Chrysler wildcat strike begins in Detroit, Michigan.
-- 1966: King Mwambutsa IV Bangiriceng of Burundi is deposed by his son Prince Charles Ndizi.
-- 1965: Canadian Pacific Air Lines Flight 21 is destroyed by a bomb near 100 Mile House, Canada, killing 52.
-- 1962: Ne Win besieges and blows up the Rangoon University Student Union building to crush the Student Movement.
-- 1960: Francis Gary Powers is charged with espionage resulting from his flight over the Soviet Union.
-- 1948: The United States Air Force accepts its first female recruits into a program called the Women's Air Force (WAF).
-- 1947: Reports are broadcast that a UFO crash-landed in Roswell, New Mexico in what became known as the Roswell UFO incident.
-- 1937: Turkey, Iran, Iraq, and Afghanistan sign the Treaty of Saadabad.
-- 1933: The first rugby union test match between the Wallabies of Australia and the Springboks of South Africa is played at Newlands Stadium in Cape Town.
-- 1932: The Dow Jones Industrial Average reaches its lowest level of the Great Depression, closing at 41.22.
-- 1912: Henrique Mitchell de Paiva Couceiro leads an unsuccessful royalist attack against the First Portuguese Republic in Chaves.
-- 1898: The death of crime boss Soapy Smith, killed in the Shootout on Juneau Wharf, releases Skagway, Alaska from his iron grip.
-- 1892: St. John's, Newfoundland is devastated in the Great Fire of 1892.
-- 1889: The first issue of The Wall Street Journal is published.
-- 1879: Sailing ship USS Jeannette departs San Francisco carrying an ill-fated expedition to the North Pole.
-- 1876: The Hamburg massacre prior to the 1876 United States presidential election results in the deaths of six African-Americans of the Republican Party, along with one white assailant.
-- 1874: The Mounties begin their March West.
-- 1864: Ikedaya Incident: The Choshu Han shishi's planned Shinsengumi sabotage on Kyoto, Japan at Ikedaya.
+- 2011: A rally takes place in Kuala Lumpur, Malaysia to call for fairer elections in the country.
+- 2011: South Sudan gains independence and secedes from Sudan.
+- 2006: One hundred and twenty-five people are killed when S7 Airlines Flight 778, an Airbus A310 passenger jet, veers off the runway while landing in wet conditions at Irkutsk Airport in Siberia.
+- 2004: The Senate Report on Iraqi WMD Intelligence is released by the United States Senate Select Committee on Intelligence, casting doubt on the rationale for the Iraq War.
+- 2002: The African Union is established in Addis Ababa, Ethiopia, replacing the Organisation of African Unity (OAU). The organization's first chairman is Thabo Mbeki, President of South Africa.
+- 1999: Days of student protests begin after Iranian police and hardliners attack a student dormitory at the University of Tehran.
+- 1997: A Fokker 100 from the Brazilian airline TAM launches engineer Fernando Caldeira de Moura Campos into 2,400 meters of free fall after an explosion that depressurized the aircraft.
+- 1995: The Navaly church bombing is carried out by the Sri Lanka Air Force killing 125 Tamil civilian refugees.
+- 1993: The Parliament of Canada passes the Nunavut Act leading to the 1999 creation of Nunavut, dividing the Northwest Territories into arctic (Inuit) and sub-arctic (Dene) lands based on a plebiscite.
+- 1986: The New Zealand Parliament passes the Homosexual Law Reform Act legalising homosexuality in New Zealand.
+- 1982: Pan Am Flight 759 crashes in Kenner, Louisiana, killing all 145 people on board and eight others on the ground.
+- 1979: A car bomb destroys a Renault motor car owned by "Nazi hunters" Serge and Beate Klarsfeld outside their home in France in an unsuccessful assassination attempt.
+- 1977: The Pinochet dictatorship in Chile organises the youth event of Acto de Chacarillas, a ritualised act reminiscent of Francoist Spain.
+- 1962: Starfish Prime tests the effects of a nuclear test at orbital altitudes.
+- 1961: Greece becomes the first member state to join the European Economic Community by signing the Athens Agreement, which was suspended in 1967 during the Greek junta.
+- 1958: A 7.8 Mw  strike-slip earthquake in Alaska causes a landslide that produces a megatsunami. The runup from the waves reached 525 m (1,722 ft) on the rim of Lituya Bay; five people were killed.
+- 1956: The 7.7 Mw  Amorgos earthquake shakes the Cyclades island group in the Aegean Sea with a maximum Mercalli intensity of IX (Violent). The shaking and the destructive tsunami that followed left fifty-three people dead. A damaging M7.2 aftershock occurred minutes after the mainshock.
+- 1955: The Russell-Einstein Manifesto calls for a reduction of the risk of nuclear warfare.
+- 1944: World War II: Continuation War: Finland wins the Battle of Tali-Ihantala, the largest battle ever fought in northern Europe. The Red Army withdraws its troops from Ihantala and digs into a defensive position, thus ending the Vyborg-Petrozavodsk Offensive.
+- 1944: World War II: American forces take Saipan, bringing the Japanese archipelago within range of B-29 raids, and causing the downfall of the Tojo government.
+- 1943: World War II: The Allied invasion of Sicily begins, leading to the downfall of Mussolini and forcing Hitler to break off the Battle of Kursk.
+- 1937: The silent film archives of Fox Film Corporation are destroyed by the 1937 Fox vault fire.
+- 1932: The state of São Paulo revolts against the Brazilian Federal Government, starting the Constitutionalist Revolution.
+- 1926: Chiang Kai-shek accepts the post of commander-in-chief of the National Revolutionary Army, marking the beginning of the Northern Expedition to unite China under the rule of the Nationalist government.
+- 1922: Johnny Weissmuller swims the 100 meters freestyle in 58.6 seconds breaking the world swimming record and the 'minute barrier'.
+- 1918: In Nashville, Tennessee, an inbound local train collides with an outbound express, killing 101 and injuring 171 people, making it the deadliest rail accident in United States history.
+- 1900: The Governor of Shanxi province in North China orders the execution of 45 foreign Christian missionaries and local church members, including children.
+- 1900: The Federation of Australia is given royal assent.
+- 1896: William Jennings Bryan delivers his Cross of Gold speech advocating bimetallism at the 1896 Democratic National Convention in Chicago.
+- 1893: Daniel Hale Williams, American heart surgeon, performs the first successful open-heart surgery in United States without anesthesia.
 
 Data from muffinlabs
-*(Updated at: 2025-07-08 01:55:16 UTC)*
+*(Updated at: 2025-07-09 01:56:29 UTC)*
 
 # 历史上的今天 
 
-- -  2014年：巴西对德国最严重的历史失败，在2014年FIFA世界杯半决赛中以1-7的成绩被称为Mineirazo。
-- -  2014年：以色列在绑架和谋杀三名以色列少年后的紧张局势上升，对加沙发动了进攻。
-- -  2011年：航天飞机亚特兰蒂斯（Atlantis）是在美国航天飞机计划的最后任务中启动的。
-- -  2003年：苏丹航空公司在苏丹港机场附近的139次撞车事故中撞车，杀死了船上117人中的116人。
-- -  1994年：航天飞机哥伦比亚航空公司是在国际科学任务上推出的。
-- -  1994年：金正日（Kim Jong Il）在父亲金·艾尔（Kim Il Sung）去世后开始担任朝鲜的最高领导。
-- -  1988年：从班加罗尔到佩鲁曼大桥上的坎亚库马里逃脱的岛快车火车，坠入印度喀拉拉邦的阿什塔穆迪湖，杀害了105名乘客，并造成200多人受伤。
-- -  1982年：对伊拉克总统萨达姆·侯赛因（Saddam Hussein）的暗杀企图失败了，在接下来的几个月中，杜哈尔大屠杀导致了杜哈尔大屠杀。
-- -  1980年：当时哈萨克苏维埃社会主义共和国（当今哈萨克斯坦）在阿拉米国际机场附近的Aeroflot 4225航班坠毁，杀死了所有166人。
-- -  1980年：昆士兰州赢得了1980年的首届原籍国游戏，后者在兰公园以20-10击败新南威尔士州。
-- -  1972年：以色列摩萨德暗杀巴勒斯坦作家Ghassan Kanafani。
-- -  1970年：理查德·尼克松（Richard Nixon）发表了一条特别的国会信息，说明了美国原住民自决，作为美国官方印度政策，从而导致了1975年的《印度自决与教育援助法》。
-- -  1968年：克莱斯勒野猫罢工始于密歇根州底特律。
-- -  1966年：布隆迪的姆万布萨国王IV Bangiriceng被他的儿子查尔斯·恩迪兹（Charles Ndizi）罢免。
-- -  1965年：加拿大太平洋航空​​公司21号航班被加拿大100英里家附近的炸弹摧毁，杀死了52。
-- -  1962年：NE赢得胜利并炸毁了仰光大学的学生会大楼，以粉碎学生运动。
-- -  1960年：弗朗西斯·加里·鲍尔斯（Francis Gary Powers）被指控由苏联飞行的间谍活动。
-- -  1948年：美国空军将其第一批女性新兵加入了一个名为“妇女空军”（WAF）的计划。
-- -  1947年：报道说，在新墨西哥州罗斯威尔的罗斯威尔不明飞行物事件中，在新墨西哥州罗斯威尔的不明飞行物撞车事件。
-- -  1937年：土耳其，伊朗，伊拉克和阿富汗签署了萨达巴德条约。
-- -  1933年：澳大利亚小袋鼠和南非跳羚之间的第一场橄榄球联盟测试比赛是在开普敦的纽兰兹体育场举行的。
-- -  1932年：道琼斯工业平均水平达到了大萧条的最低水平，闭上41.22。
-- -  1912年：Henrique Mitchell de Paiva Couceiro引发了对Chaves第一个葡萄牙共和国的未成功皇室袭击。
-- -  1898年：犯罪老板肥皂史密斯（Soapy Smith）死亡，在朱诺码头（Juneau Wharf）的枪战中丧生，从他的铁抓地力中释放出阿拉斯加的斯卡格韦（Skagway）。
-- -  1892年：纽芬兰的圣约翰在1892年的大火中遭受了破坏。
-- -  1889年：《华尔街日报》的第一期发表。
-- -  1879年：帆船Jeannette USS离开旧金山，带着命运不佳的探险到北极。
-- -  1876年：1876年美国总统大选之前的汉堡大屠杀导致共和党六名非裔美国人的死亡以及一名白人袭击者。
-- -  1874年：骑警们开始向西行进。
-- -  1864年：Ikedaya事件：Choshu Han Shishi计划的Shinsengumi Sabotage在日本京都的Ikedaya上。
+- -  2011年：一场集会在马来西亚吉隆坡举行，呼吁该国更公平的选举。
+- -  2011年：南苏丹获得独立，并从苏丹获得独立。
+- -  2006年：当S7航空公司778航班（空中客车A310乘客飞机）在西伯利亚的Irkutsk机场降落时，一百二十五人被杀。
+- -  2004年：美国参议院情报委员会发布了有关伊拉克WMD情报的参议院报告，对伊拉克战争的理由提出了怀疑。
+- -  2002年：非洲联盟是在埃塞俄比亚亚的斯亚贝巴建立的，取代了非洲团结组织（OAU）。该组织的第一任主席是南非总裁Thabo Mbeki。
+- -  1999年：学生抗议活动的日子是在伊朗警察和硬林人袭击德黑兰大学的学生宿舍之后开始的。
+- -  1997年：来自巴西航空公司TAM的Fokker 100 100发射工程师Fernando Caldeira de Moura Campos，在爆炸使飞机压抑后的爆炸后，跌入了2400米的自由跌落。
+- -  1995年：海军教堂轰炸是由斯里兰卡空军杀死125名泰米尔民用难民进行的。
+- -  1993年：加拿大议会通过了《努纳武特法案》，导致1999年的努纳武特创建，将西北领土分为基于全民投票的北极（因纽特人）和亚北极（dene）土地。
+- -  1986年：新西兰议会通过《同性恋法改革法案》使新西兰的同性恋合法化。
+- -  1982年：PAN AM 759撞车发生在路易斯安那州的肯纳，杀死了船上的所有145人，其他八人在地面上丧生。
+- -  1979年：一辆汽车炸弹摧毁了由“纳粹猎人”塞尔格（Serge）拥有的雷诺汽车，并击败了他们在法国家外的雷诺汽车，以一次失败的暗杀企图。
+- -  1977年：智利的皮诺切特独裁政权组织了青年活动，这是一种仪式化的仪式，让人联想到西班牙法国人。
+- -  1962年：海星Prime测试了轨道高度处核试验的影响。
+- -  1961年：希腊成为第一个通过签署雅典协议加入欧洲经济共同体的成员国，该协议于1967年在希腊军团期间被暂停。
+- -  1958年：阿拉斯加的7.8兆瓦滑移地震会引起产生巨木纳米的滑坡。在Lituya Bay的边缘，来自海浪的奔跑达到了525 m（1,722 ft）。五人被杀。
+- -  1956年：7.7 MW的Amorgos地震摇动了爱琴海的Cyclades Island集团，其最大默卡利强度为IX（暴力）。随之而来的摇晃和破坏性的海啸使五十三人死亡。损坏的M7.2发生在主震后几分钟。
+- -  1955年：罗素 - 因斯坦宣言要求降低核战的风险。
+- -  1944年：第二次世界大战：连续战争：芬兰赢得了塔利汉塔拉之战，这是北欧有史以来最大的战斗。红军从伊汉塔拉（Ihantala）撤军，并挖掘出一个防御阵地，从而结束了维堡 - 佩特罗萨沃德斯克（Vyborg-Petrozavodsk）的进攻。
+- -  1944年：第二次世界大战：美军将塞班岛带到B-29突袭范围内，并导致托霍政府的倒台。
+- -  1943年：第二次世界大战：盟军对西西里岛的入侵开始，导致墨索里尼的倒台，并迫使希特勒打破了库尔斯克战役。
+- -  1937年：福克斯电影公司的无声电影档案被1937年的福克斯金库火摧毁。
+- -  1932年：圣保罗国反对巴西联邦政府，开始了宪政革命。
+- -  1926年：清凯·希克（Chiang Kai-Shek）接受了国家革命军总司令的职位，标志着北方探险队在国民党政府统治下团结中国的开始。
+- -  1922年：约翰尼·魏斯穆勒（Johnny Weissmuller）在58.6秒内游泳了100米的自由泳，打破了世界游泳记录和“微小障碍”。
+- -  1918年：在田纳西州的纳什维尔，一艘入站火车与出站快车碰撞，杀死了101人，炸伤171人，使其成为美国历史上最致命的铁路事故。
+- -  1900年：中国山西省的州长下令执行45名外国基督教传教士和地方教会成员，包括儿童。
+- -  1900年：澳大利亚联合会获得皇家同意。
+- -  1896年：威廉·詹宁斯·布莱恩（William Jennings Bryan）在芝加哥举行的1896年民主党民族大会上发表了他的黄金演讲十字架。
+- -  1893年：美国心脏外科医生丹尼尔·黑尔·威廉姆斯（Daniel Hale Williams）在没有麻醉的情况下进行了第一次成功的开心手术。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-07-08 01:55:16 UTC）*
+*（更新于: 2025-07-09 01:56:29 UTC）*
