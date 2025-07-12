@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: Richard Branson becomes the first civilian to be launched into space via his Virgin Galactic spacecraft.
-- 2015: Joaquín "El Chapo" Guzmán escapes from the maximum security Altiplano prison in Mexico, his second escape.
-- 2011: Ninety-eight containers of explosives self-detonate killing 13 people in Zygi, Cyprus.
-- 2010: Spain defeats the Netherlands to win the 2010 FIFA World Cup in Johannesburg.
-- 2010: The Islamist militia group Al-Shabaab carries out multiple suicide bombings in Kampala, Uganda, killing 74 people and injuring 85 others.
-- 2006: Mumbai train bombings: 209 people  are killed in a series of bomb attacks in Mumbai, India.
-- 1995: Yugoslav Wars: Srebrenica massacre begins; lasts until 22 July.
-- 1991: Nigeria Airways Flight 2120 crashes in Jeddah, Saudi Arabia, killing all 261 passengers and crew on board.
-- 1990: Oka Crisis: First Nations land dispute in Quebec begins.
-- 1983: A TAME airline Boeing 737-200 crashes near Cuenca, Ecuador, killing all 119 passengers and crew on board.
-- 1982: The Italy National Football Team defeats West Germany at Santiago Bernabéu Stadium to capture the 1982 FIFA World Cup.
-- 1979: America's first space station, Skylab, is destroyed as it re-enters the Earth's atmosphere over the Indian Ocean.
-- 1978: Los Alfaques disaster: A truck carrying liquid gas crashes and explodes at a coastal campsite in Tarragona, Spain killing 216 tourists.
-- 1977: Martin Luther King Jr., assassinated in 1968, is awarded the Presidential Medal of Freedom.
-- 1973: Varig Flight 820 crashes near Paris on approach to Orly Airport, killing 123 of the 134 on board. In response, the FAA bans smoking in airplane lavatories.
-- 1972: The first game of the World Chess Championship 1972 between challenger Bobby Fischer and defending champion Boris Spassky starts.
-- 1971: The nationalization of all large copper mines in Chile is completed.
-- 1962: Project Apollo: At a press conference, NASA announces lunar orbit rendezvous as the means to land astronauts on the Moon, and return them to Earth.
-- 1962: First transatlantic satellite television transmission.
-- 1960: To Kill a Mockingbird by Harper Lee is first published, in the United States.
-- 1960: Congo Crisis: The State of Katanga breaks away from the Democratic Republic of the Congo.
-- 1960: France legislates for the independence of Dahomey (later Benin), Upper Volta (later Burkina Faso) and Niger.
-- 1957: Prince Karim Husseini Aga Khan IV inherits the office of Imamat as the 49th Imam of Shia Imami Ismai'li worldwide, after the death of Sir Sultan Mahommed Shah Aga Khan III.
-- 1950: Pakistan joins the International Monetary Fund and the International Bank.
-- 1947: The Exodus 1947 heads to Palestine from France.
-- 1943: World War II: Allied invasion of Sicily: German and Italian troops launch a counter-attack on Allied forces in Sicily.
-- 1943: Massacres of Poles in Volhynia and Eastern Galicia by the Ukrainian Insurgent Army within the Reichskommissariat Ukraine (Volhynia) peak.
-- 1941: The Northern Rhodesian Labour Party holds its first congress in Nkana.
-- 1940: World War II: Vichy France regime is formally established. Philippe Pétain becomes Chief of the French State.
-- 1936: The Triborough Bridge in New York City is opened to traffic.
+- 2013: Six people are killed and 200 injured in a French passenger train derailment in Brétigny-sur-Orge.
+- 2012: A tank truck explosion kills more than 100 people in Okobie, Nigeria.
+- 2012: Syrian Civil War: Government forces target the homes of rebels and activists in Tremseh and kill anywhere between 68 and 150 people.
+- 2007: U.S. Army Apache helicopters engage in airstrikes against armed insurgents in Baghdad, Iraq, where civilians are killed; footage from the cockpit is later leaked to the Internet.
+- 2006: The 2006 Lebanon War begins.
+- 2001: Space Shuttle program: Space Shuttle Atlantis is launched on mission STS-104, carrying the Quest Joint Airlock to the International Space Station.
+- 1998: The Ulster Volunteer Force attacked a house in Ballymoney, County Antrim, Northern Ireland with a petrol bomb, killing the Quinn brothers.
+- 1995: Chinese seismologists successfully predict the 1995 Myanmar-China earthquake, reducing the number of casualties to 11.
+- 1979: The island nation of Kiribati becomes independent from the United Kingdom.
+- 1975: São Tomé and Príncipe declare independence from Portugal.
+- 1973: A fire destroys the entire sixth floor of the National Personnel Records Center of the United States.
+- 1971: The Australian Aboriginal flag is flown for the first time.
+- 1967: Riots begin in Newark, New Jersey.
+- 1963: Pauline Reade, 16, disappears in Gorton, England, the first victim in the Moors murders.
+- 1961: ČSA Flight 511 crashes at Casablanca-Anfa Airport in Morocco, killing 72.
+- 1961: Indian city Pune floods due to failure of the Khadakwasla and Panshet dams, killing at least two thousand people.
+- 1960: Orlyonok, the main Young Pioneer camp of the Russian SFSR, is founded.
+- 1948: Israeli Prime Minister David Ben-Gurion orders the expulsion of Palestinians from the towns of Lod and Ramla.
+- 1943: World War II: Battle of Kursk: German and Soviet forces engage in the Battle of Prokhorovka, one of the largest armored engagements of all time.
+- 1920: The Soviet-Lithuanian Peace Treaty is signed, by which Soviet Russia recognizes the independence of Lithuania.
+- 1918: The Imperial Japanese Navy battleship Kawachi blows up at Shunan, western Honshu, Japan, killing at least 621.
+- 1917: The Bisbee Deportation occurs as vigilantes kidnap and deport nearly 1,300 striking miners and others from Bisbee, Arizona.
+- 1913: The Second Revolution breaks out against the Beiyang government, as Li Liejun proclaims Jiangxi independent from the Republic of China.
+- 1913: Serbian forces begin their siege of the Bulgarian city of Vidin; the siege is later called off when the war ends.
+- 1862: The Medal of Honor is authorized by the United States Congress.
+- 1812: The American Army of the Northwest briefly occupies the Upper Canadian settlement at what is now at Windsor, Ontario.
+- 1806: At the insistence of Napoleon, Bavaria, Baden, Württemberg and thirteen minor principalities leave the Holy Roman Empire and form the Confederation of the Rhine.
+- 1801: British ships inflict heavy damage on Spanish and French ships in the Second Battle of Algeciras.
+- 1799: Ranjit Singh conquers Lahore and becomes Maharaja of the Punjab (Sikh Empire).
+- 1790: The Civil Constitution of the Clergy is passed in France by the National Constituent Assembly.
 
 Data from muffinlabs
-*(Updated at: 2025-07-11 01:58:46 UTC)*
+*(Updated at: 2025-07-12 01:59:39 UTC)*
 
 # 历史上的今天 
 
-- -  2021年：理查德·布兰森（Richard Branson）成为第一个通过他的维珍银河航天器进入太空的平民。
-- -  2015年：Joaquín“ El Chapo”Guzmán从墨西哥的最高安全Altiplano监狱逃脱了他的第二次逃脱。
-- -  2011年：在塞浦路斯齐吉（Zygi）杀死13人的炸药自我探索的九十八个容器。
-- -  2010年：西班牙击败荷兰，赢得了约翰内斯堡的2010年FIFA世界杯。
-- -  2010年：伊斯兰民兵组织青年党在乌干达坎帕拉进行了多次自杀炸弹袭击，杀死了74人，炸伤85人。
-- -  2006年：孟买火车爆炸：在印度孟买的一系列炸弹袭击中，有209人被杀。
-- -  1995年：南斯拉夫战争：斯雷布雷尼卡大屠杀开始；持续到7月22日。
-- -  1991年：尼日利亚航空公司在沙特阿拉伯吉达（Jeddah）撞车2120号航班，杀死了所有261名乘客和船员。
-- -  1990年：OKA危机：魁北克的原住民土地争端开始。
-- -  1983年：厄瓜多尔昆卡附近的驯服航空公司波音737-200坠毁，杀死了所有119名乘客和机组人员。
-- -  1982年：意大利国家橄榄球队在圣地亚哥·贝尔纳布（SantiagoBernabéu）体育场击败西德，夺取了1982年FIFA世界杯。
-- -  1979年：美国第一个空间站Skylab被摧毁，因为它重新进入了地球上的印度洋大气层。
-- -  1978年：洛斯·阿尔法克斯（Los Alfaques）灾难：一辆载有液体气体崩溃的卡车在西班牙塔拉贡纳（Tarragona）的沿海营地爆炸，杀死了216名游客。
-- -  1977年：1968年被暗杀的马丁·路德·金（Martin Luther King Jr.）被授予总统自由勋章。
-- -  1973年：瓦利格（Varig）820航班在巴黎附近的奥利机场（Orly Airport）附近撞车，杀死了134名船上的123架。作为回应，FAA禁止在飞机厕所中吸烟。
-- -  1972年：挑战者鲍比·菲舍尔（Bobby Fischer）和卫冕冠军鲍里斯·斯帕斯基（Boris Spassky）在1972年世界国际象棋冠军的第一场比赛。
-- -  1971年：智利所有大型铜矿的国有化均已完成。
-- -  1962年：阿波罗计划：在新闻发布会上，美国宇航局宣布月球轨道会合会议，以此作为将宇航员登上月球的手段，并将其返回地球。
-- -  1962年：第一个跨大西洋卫星电视传输。
-- -  1960年：杀死哈珀·李（Harper Lee）的一只知更鸟，在美国首次出版。
-- -  1960年：刚果危机：卡坦加州脱离了刚果民主共和国。
-- -  1960年：法国立法是达霍米（后来的贝宁），上沃尔塔（后来的布基纳法索）和尼日尔的独立。
-- -  1957年：卡里姆·侯赛（Karim Husseini Aga Khan IV）王子在苏丹·马霍姆·玛霍姆·玛霍·阿加·阿加·汗（Shah Aga Khan Khan III）去世后，继承了伊玛玛特的办公室，成为全球什叶派·伊玛米·伊斯玛利（Shia Imami ismai'li）的第49 imam。
-- -  1950年：巴基斯坦加入了国际货币基金和国际银行。
-- -  1947年：出埃及记1947年从法国前往巴勒斯坦。
-- -  1943年：第二次世界大战：盟军入侵西西里岛：德国和意大利军队对西西里岛的盟军发动反击。
-- -  1943年：乌克兰岛乌克兰（Volhynia）山峰中乌克兰叛乱军（Volhyskommissariat）在沃利尼亚和加利西亚东部的两极大屠杀。
-- -  1941年：北罗得西亚工党在恩卡纳举行了首个国会。
-- -  1940年：第二次世界大战：维希法国政权正式建立。菲利普·佩坦（PhilippePétain）成为法国国家的负责人。
-- -  1936年：纽约市的Triborough大桥开放了交通。
+- -  2013年：在Brétigny-Sur-orge的法国客车出轨中，有6人被杀，200人受伤。
+- -  2012年：一辆坦克卡车爆炸在尼日利亚的Okobie杀死100多人。
+- -  2012年：叙利亚内战：政府军以叛军和激进分子的住所为目标，在68至150人之间杀死任何地方。
+- -  2007年：美国陆军阿帕奇直升机对伊拉克巴格达的武装叛乱分子进行空袭，那里的平民被杀。座舱的镜头后来被泄漏到互联网上。
+- -  2006年：2006年黎巴嫩战争开始。
+- -  2001年：航天飞机计划：航天飞机亚特兰蒂斯（Atlantis）在Mission STS-104上发射，将Quest Joint Airlock带到国际空间站。
+- -  1998年：阿尔斯特志愿者部队用汽油炸弹袭击了北爱尔兰阿特里姆郡巴利米尼的一所房子，杀死了奎因兄弟。
+- -  1995年：中国地震学家成功地预测了1995年缅甸 - 中国地震，将伤亡人数减少到11。
+- -  1979年：基里巴蒂（Kiribati）岛国脱离英国独立。
+- -  1975年：圣汤汤和普里尼普宣布脱离葡萄牙独立。
+- -  1973年：一场大火摧毁了美国国家人事记录中心的整个六楼。
+- -  1971年：澳大利亚原住民旗首次悬挂。
+- -  1967年：骚乱在新泽西州纽瓦克开始。
+- -  1963年：16岁的波琳·雷德（Pauline Reade）在英格兰的戈尔顿（Gorton）消失，这是摩尔人谋杀案中的第一批受害者。
+- -  1961年：čsa511航班在摩洛哥的卡萨布兰卡 - 安法机场坠毁，杀死了72。
+- -  1961年：由于Khadakwasla和Panshet大坝的失败，印度城市浦那洪水泛滥，至少杀死了至少两千人。
+- -  1960年：Orlyonok是俄罗斯SFSR的主要年轻先驱营地。
+- -  1948年：以色列总理戴维·本·古里翁（David Ben-Gurion）命令将巴勒斯坦人从洛德（Lod）和拉姆拉（Ramla）镇驱逐出境。
+- -  1943年：第二次世界大战：库尔斯克战役：德国和苏联部队参与了普罗克霍罗夫卡战役，这是有史以来最大的装甲接触之一。
+- -  1920年：签署了《苏联 - 利特图亚尼亚和平条约》，苏联俄罗斯承认立陶宛的独立性。
+- -  1918年：日本帝国海军战舰卡瓦奇（Kawachi）在日本西部洪顿（Shunan）炸毁了至少621人。
+- -  1917年：Bisbee被驱逐出境是因为绑架和驱逐了近1,300名罢工矿工，而其他人则从亚利桑那州比斯比（Bisbee）驱逐出境。
+- -  1913年：第二次革命爆发了反对贝阳政府，因为李·列洪（Li Liejun）宣称江西独立于中国共和国。
+- -  1913年：塞尔维亚部队开始围攻保加利亚城市维丁；战争结束时，围攻后来被取消。
+- -  1862年：美国国会授权荣誉勋章。
+- -  1812年：西北的美国军队短暂占据了现在在安大略省温莎的上层定居点。
+- -  1806年：在拿破仑，巴伐利亚，巴登，瓦尔滕伯格和13个未成年公国的坚持下，神圣的罗马帝国并形成了莱茵河的联盟。
+- -  1801年：英国在第二次阿尔基拉斯战役中对西班牙和法国船只造成了严重破坏。
+- -  1799年：兰吉特·辛格（Ranjit Singh）征服拉合尔（Lahore），成为旁遮普省（锡克教帝国）的大君王。
+- -  1790年：神职人员的民事宪法由国家制宪议会在法国通过。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-07-11 01:58:46 UTC）*
+*（更新于: 2025-07-12 01:59:39 UTC）*
