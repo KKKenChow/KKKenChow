@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2013: Six people are killed and 200 injured in a French passenger train derailment in Brétigny-sur-Orge.
-- 2012: A tank truck explosion kills more than 100 people in Okobie, Nigeria.
-- 2012: Syrian Civil War: Government forces target the homes of rebels and activists in Tremseh and kill anywhere between 68 and 150 people.
-- 2007: U.S. Army Apache helicopters engage in airstrikes against armed insurgents in Baghdad, Iraq, where civilians are killed; footage from the cockpit is later leaked to the Internet.
-- 2006: The 2006 Lebanon War begins.
-- 2001: Space Shuttle program: Space Shuttle Atlantis is launched on mission STS-104, carrying the Quest Joint Airlock to the International Space Station.
-- 1998: The Ulster Volunteer Force attacked a house in Ballymoney, County Antrim, Northern Ireland with a petrol bomb, killing the Quinn brothers.
-- 1995: Chinese seismologists successfully predict the 1995 Myanmar-China earthquake, reducing the number of casualties to 11.
-- 1979: The island nation of Kiribati becomes independent from the United Kingdom.
-- 1975: São Tomé and Príncipe declare independence from Portugal.
-- 1973: A fire destroys the entire sixth floor of the National Personnel Records Center of the United States.
-- 1971: The Australian Aboriginal flag is flown for the first time.
-- 1967: Riots begin in Newark, New Jersey.
-- 1963: Pauline Reade, 16, disappears in Gorton, England, the first victim in the Moors murders.
-- 1961: ČSA Flight 511 crashes at Casablanca-Anfa Airport in Morocco, killing 72.
-- 1961: Indian city Pune floods due to failure of the Khadakwasla and Panshet dams, killing at least two thousand people.
-- 1960: Orlyonok, the main Young Pioneer camp of the Russian SFSR, is founded.
-- 1948: Israeli Prime Minister David Ben-Gurion orders the expulsion of Palestinians from the towns of Lod and Ramla.
-- 1943: World War II: Battle of Kursk: German and Soviet forces engage in the Battle of Prokhorovka, one of the largest armored engagements of all time.
-- 1920: The Soviet-Lithuanian Peace Treaty is signed, by which Soviet Russia recognizes the independence of Lithuania.
-- 1918: The Imperial Japanese Navy battleship Kawachi blows up at Shunan, western Honshu, Japan, killing at least 621.
-- 1917: The Bisbee Deportation occurs as vigilantes kidnap and deport nearly 1,300 striking miners and others from Bisbee, Arizona.
-- 1913: The Second Revolution breaks out against the Beiyang government, as Li Liejun proclaims Jiangxi independent from the Republic of China.
-- 1913: Serbian forces begin their siege of the Bulgarian city of Vidin; the siege is later called off when the war ends.
-- 1862: The Medal of Honor is authorized by the United States Congress.
-- 1812: The American Army of the Northwest briefly occupies the Upper Canadian settlement at what is now at Windsor, Ontario.
-- 1806: At the insistence of Napoleon, Bavaria, Baden, Württemberg and thirteen minor principalities leave the Holy Roman Empire and form the Confederation of the Rhine.
-- 1801: British ships inflict heavy damage on Spanish and French ships in the Second Battle of Algeciras.
-- 1799: Ranjit Singh conquers Lahore and becomes Maharaja of the Punjab (Sikh Empire).
-- 1790: The Civil Constitution of the Clergy is passed in France by the National Constituent Assembly.
+- 2024: President of the United States Donald Trump is injured in an assassination attempt while speaking at an election campaign rally near Butler, Pennsylvania.
+- 2020: After a five-day search, the body of American actress and singer Naya Rivera is recovered from Lake Piru, where she drowned in California.
+- 2016: Prime Minister of the United Kingdom David Cameron resigns, and is succeeded by Theresa May.
+- 2014 - Germany wins the 2014 FIFA World Cup defeating Argentina in the final following a 1-0 win after extra time.[15]: None
+- 2013: Typhoon Soulik kills at least nine people and affects more than 160 million in East China and Taiwan.
+- 2011: United Nations Security Council Resolution 1999 is adopted, which admits South Sudan to member status of United Nations.
+- 2011: Mumbai is rocked by three bomb blasts during the evening rush hour, killing 26 and injuring 130.
+- 2008: Battle of Wanat begins when Taliban and al-Qaeda guerrillas attack US Army and Afghan National Army troops in Afghanistan. The U.S. deaths were, at that time, the most in a single battle since the beginning of operations in 2001.
+- 2003: French DGSE personnel abort an operation to rescue Íngrid Betancourt from FARC rebels in Colombia, causing a political scandal when details are leaked to the press.
+- 1995: Space Shuttle Discovery is launched on STS-70 to deploy the TDRS-7 satellite.
+- 1990: Lenin Peak disaster: a 6.4-magnitude earthquake in Afghanistan triggers an avalanche on Lenin Peak, killing 43 climbers in the deadliest mountaineering disaster in history.
+- 1985: Vice President George H. W. Bush becomes the Acting President for the day when President Ronald Reagan undergoes surgery to remove polyps from his colon.
+- 1985: The Live Aid benefit concert takes place in London and Philadelphia, as well as other venues such as Moscow and Sydney.
+- 1977: New York City: Amidst a period of financial and social turmoil experiences an electrical blackout lasting nearly 24 hours that leads to widespread fires and looting.
+- 1977: Somalia declares war on Ethiopia, starting the Ogaden War.
+- 1973: Watergate scandal: Alexander Butterfield reveals the existence of a secret Oval Office taping system to investigators for the Senate Watergate Committee.
+- 1962: In an unprecedented action, British Prime Minister Harold Macmillan dismisses seven members of his Cabinet, marking the effective end of the National Liberals as a distinct force within British politics.
+- 1956: The Dartmouth workshop is the first conference on artificial intelligence.
+- 1951: Vuoristorata, one of the oldest still-operating wooden roller coasters in Europe, is opened at the Linnanmäki amusement park in Helsinki, Finland.
+- 1941: World War II: Montenegrins begin the Trinaestojulski ustanak (Thirteenth of July Uprising), a popular revolt against the Axis powers.
+- 1930: The inaugural FIFA World Cup begins in Uruguay.
+- 1919: The British airship R34 lands in Norfolk, England, completing the first airship return journey across the Atlantic in 182 hours of flight.
+- 1913: The 1913 Romanian Army cholera outbreak during the Second Balkan War starts.
+- 1878: Treaty of Berlin: The European powers redraw the map of the Balkans. Serbia, Montenegro and Romania become completely independent of the Ottoman Empire.
+- 1863: American Civil War: The New York City draft riots begin three days of rioting which will later be regarded as the worst in United States history.
+- 1854: In the Battle of Guaymas, Mexico, General José María Yáñez stops the French invasion led by Count Gaston de Raousset-Boulbon.
+- 1849: The Charleston Workhouse Slave Rebellion began in Charleston, South Carolina, United States.
+- 1831: Regulamentul Organic, a quasi-constitutional organic law is adopted in Wallachia, one of the two Danubian Principalities that were to become the basis of Romania.
+- 1830: The General Assembly's Institution, now the Scottish Church College, one of the pioneering institutions that ushered the Bengali Renaissance, is founded by Alexander Duff and Raja Ram Mohan Roy, in Calcutta, India.
+- 1814: The Carabinieri, the national gendarmerie of Italy, is established.
 
 Data from muffinlabs
-*(Updated at: 2025-07-12 01:59:39 UTC)*
+*(Updated at: 2025-07-13 02:08:09 UTC)*
 
 # 历史上的今天 
 
-- -  2013年：在Brétigny-Sur-orge的法国客车出轨中，有6人被杀，200人受伤。
-- -  2012年：一辆坦克卡车爆炸在尼日利亚的Okobie杀死100多人。
-- -  2012年：叙利亚内战：政府军以叛军和激进分子的住所为目标，在68至150人之间杀死任何地方。
-- -  2007年：美国陆军阿帕奇直升机对伊拉克巴格达的武装叛乱分子进行空袭，那里的平民被杀。座舱的镜头后来被泄漏到互联网上。
-- -  2006年：2006年黎巴嫩战争开始。
-- -  2001年：航天飞机计划：航天飞机亚特兰蒂斯（Atlantis）在Mission STS-104上发射，将Quest Joint Airlock带到国际空间站。
-- -  1998年：阿尔斯特志愿者部队用汽油炸弹袭击了北爱尔兰阿特里姆郡巴利米尼的一所房子，杀死了奎因兄弟。
-- -  1995年：中国地震学家成功地预测了1995年缅甸 - 中国地震，将伤亡人数减少到11。
-- -  1979年：基里巴蒂（Kiribati）岛国脱离英国独立。
-- -  1975年：圣汤汤和普里尼普宣布脱离葡萄牙独立。
-- -  1973年：一场大火摧毁了美国国家人事记录中心的整个六楼。
-- -  1971年：澳大利亚原住民旗首次悬挂。
-- -  1967年：骚乱在新泽西州纽瓦克开始。
-- -  1963年：16岁的波琳·雷德（Pauline Reade）在英格兰的戈尔顿（Gorton）消失，这是摩尔人谋杀案中的第一批受害者。
-- -  1961年：čsa511航班在摩洛哥的卡萨布兰卡 - 安法机场坠毁，杀死了72。
-- -  1961年：由于Khadakwasla和Panshet大坝的失败，印度城市浦那洪水泛滥，至少杀死了至少两千人。
-- -  1960年：Orlyonok是俄罗斯SFSR的主要年轻先驱营地。
-- -  1948年：以色列总理戴维·本·古里翁（David Ben-Gurion）命令将巴勒斯坦人从洛德（Lod）和拉姆拉（Ramla）镇驱逐出境。
-- -  1943年：第二次世界大战：库尔斯克战役：德国和苏联部队参与了普罗克霍罗夫卡战役，这是有史以来最大的装甲接触之一。
-- -  1920年：签署了《苏联 - 利特图亚尼亚和平条约》，苏联俄罗斯承认立陶宛的独立性。
-- -  1918年：日本帝国海军战舰卡瓦奇（Kawachi）在日本西部洪顿（Shunan）炸毁了至少621人。
-- -  1917年：Bisbee被驱逐出境是因为绑架和驱逐了近1,300名罢工矿工，而其他人则从亚利桑那州比斯比（Bisbee）驱逐出境。
-- -  1913年：第二次革命爆发了反对贝阳政府，因为李·列洪（Li Liejun）宣称江西独立于中国共和国。
-- -  1913年：塞尔维亚部队开始围攻保加利亚城市维丁；战争结束时，围攻后来被取消。
-- -  1862年：美国国会授权荣誉勋章。
-- -  1812年：西北的美国军队短暂占据了现在在安大略省温莎的上层定居点。
-- -  1806年：在拿破仑，巴伐利亚，巴登，瓦尔滕伯格和13个未成年公国的坚持下，神圣的罗马帝国并形成了莱茵河的联盟。
-- -  1801年：英国在第二次阿尔基拉斯战役中对西班牙和法国船只造成了严重破坏。
-- -  1799年：兰吉特·辛格（Ranjit Singh）征服拉合尔（Lahore），成为旁遮普省（锡克教帝国）的大君王。
-- -  1790年：神职人员的民事宪法由国家制宪议会在法国通过。
+- -  2024年：美国总统唐纳德·特朗普（Donald Trump）在宾夕法尼亚州巴特勒（Butler）附近的选举运动集会上发表讲话时被暗杀。
+- -  2020年：经过五天的搜索，美国女演员和歌手纳亚·里维拉（Naya Rivera）的尸体被从皮鲁湖（Lake Piru）恢复，在那里她在加利福尼亚溺水。
+- -  2016年：英国总理戴维·卡梅隆（David Cameron）辞职，并由特蕾莎·梅（Theresa May）继承。
+- -  2014年 - 德国赢得了2014年FIFA世界杯，在加时赛后以1-0胜利之后的决赛中击败阿根廷。[15]：无
+- -  2013年：台风Soulik至少杀死了9人，并影响了中国和台湾的1.6亿多人。
+- -  2011年：采用了1999年联合国安理会决议，该决议已接纳南苏丹的成员地位。
+- -  2011年：孟买在晚上的高峰时段被三枚炸弹爆炸所震撼，杀死了26人，130人受伤。
+- -  2008年：瓦纳特战役始于塔利班和基地组织游击队在阿富汗袭击美国陆军和阿富汗国民军队。自2001年开始运营以来，当时的美国死亡是一场战斗中最多的一场战斗。
+- -  2003年：法国DGSE人员中止了一项从哥伦比亚的哥伦比亚革命武装力量叛军营救的行动，当细节泄露给媒体时，造成了政治丑闻。
+- -  1995年：航天飞机发现在STS-70上发射以部署TDRS-7卫星。
+- -  1990年：列宁峰灾难：阿富汗的6.4级地震触发了列宁峰的雪崩，在历史上最致命的登山灾难中杀死了43名登山者。
+- -  1985年：副总统乔治·H·W·布什（George H.
+- -  1985年：现场援助福利音乐会在伦敦和费城举行，以及莫斯科和悉尼等其他场所。
+- -  1977年：纽约市：在一段时期的财务和社会动荡中，电动停电持续了近24小时，导致大火和抢劫。
+- -  1977年：索马里宣布对埃塞俄比亚战争，开始了奥加登战争。
+- -  1973年：水门丑闻：亚历山大·巴特菲尔德（Alexander Butterfield）向参议院水门委员会的调查人员透露了一个秘密的椭圆形办公室录音系统。
+- -  1962年：在一个空前的行动中，英国首相哈罗德·麦克米伦（Harold Macmillan）驳回了内阁的七名成员，这标志着民族自由主义者的有效终结是英国政治中独特的力量。
+- -  1956年：达特茅斯（Dartmouth）研讨会是第一次人工智能会议。
+- -  1951年：Vuoristorata是欧洲最古老的仍在运营的木制过山车之一，在芬兰赫尔辛基的Linnanmäki游乐园开放。
+- -  1941年：第二次世界大战：黑山开始了Trinaestojulski Ustanak（7月13日起义），这是一场反对轴心力量的反抗。
+- -  1930年：首届FIFA世界杯始于乌拉圭。
+- -  1919年：英国飞艇R34在英格兰诺福克（Norfolk）着陆，在182个小时的飞行中完成了第一次跨大西洋的飞艇返回之旅。
+- -  1913年：1913年巴尔干战争开始的罗马尼亚军队霍乱疫情开始。
+- -  1878年：柏林条约：欧洲大国重新绘制了巴尔干地区的地图。塞尔维亚，黑山和罗马尼亚完全独立于奥斯曼帝国。
+- -  1863年：美国内战：纽约市草案骚乱开始了三天的骚乱，后来将被视为美国历史上最糟糕的骚乱。
+- -  1854年：在墨西哥瓜伊斯战役中，何塞·玛丽亚·雅内斯将军停止了由加斯顿·德·劳斯特伯爵伯爵领导的法国入侵。
+- -  1849年：查尔斯顿工作室奴隶叛乱始于美国南卡罗来纳州的查尔斯顿。
+- -  1831年：瓦拉奇亚（Wallachia）采用了准宪法有机法，这是有机法规，这是瓦拉奇亚（Wallachia），这是两个多巴尼亚公国之一，这是罗马尼亚的基础。
+- -  1830年：大会的机构，现为苏格兰教堂学院，是迎来孟加拉文艺复兴的开创性机构之一，是由亚历山大·达夫（Alexander Duff）和拉贾·拉姆·莫汉·罗伊（Raja Ram Mohan Roy）在印度加尔各答创立的。
+- -  1814年：建立了意大利国家宪兵Carabinieri。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-07-12 01:59:39 UTC）*
+*（更新于: 2025-07-13 02:08:09 UTC）*
