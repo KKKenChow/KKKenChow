@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2018: Scott S. Sheppard announces that his team has discovered a dozen irregular moons of Jupiter.
-- 2015: At least 120 people are killed and 130 injured by a suicide bombing in Diyala Governorate, Iraq.
-- 2014: Eric Garner is killed by police officer Daniel Pantaleo in New York City, after the latter put him in a prohibited chokehold while arresting him.
-- 2014: A French regional train on the Pau-Bayonne line crashes into a high-speed train near the town of Denguin, resulting in at least 25 injuries.
-- 2014: Malaysia Airlines Flight 17, a Boeing 777, crashes near the border of Ukraine and Russia after being shot down. All 298 people on board are killed.
-- 2007: TAM Airlines Flight 3054, an Airbus A320, crashes into a warehouse after landing too fast and missing the end of the São Paulo-Congonhas Airport runway, killing 199 people.
-- 2006: The 7.7 Mw  Pangandaran tsunami earthquake severely affects the Indonesian island of Java, killing 668 people, and leaving more than 9,000 injured.
-- 2001: Concorde is brought back into service nearly a year after the July 2000 crash.
-- 2000: During approach to Lok Nayak Jayaprakash Airport, Alliance Air Flight 7412 suddenly crashes into a residential neighborhood in Patna, India, killing 60 people.
-- 1998: A diplomatic conference adopts the Rome Statute of the International Criminal Court, establishing the permanent international court in The Hague, to prosecute individuals for genocide, crimes against humanity, war crimes, and the crime of aggression.
-- 1998: The 7.0 Mw  Papua New Guinea earthquake triggers a tsunami that destroys ten villages in Papua New Guinea, killing up to 2,700 people, and leaving several thousand injured.
-- 1997: After takeoff from Husein Sastranegara International Airport, Sempati Air Flight 304 crashes into a residential neighborhood in Bandung, killing 28 people.
-- 1996: TWA Flight 800: Off the coast of Long Island, New York, a Paris-bound TWA Boeing 747 explodes, killing all 230 on board.
-- 1989: Holy See-Poland relations are restored.
-- 1989: First flight of the B-2 Spirit Stealth Bomber.
-- 1985: Founding of the EUREKA Network by former head of states François Mitterrand (France) and Helmut Kohl (Germany).
-- 1984: The national drinking age in the United States was changed from 18 to 21.
-- 1981: A structural failure leads to the collapse of a walkway at the Hyatt Regency in Kansas City, Missouri, killing 114 people and injuring more than 200.
-- 1979: Nicaraguan dictator General Anastasio Somoza Debayle resigns and flees to Miami, Florida, United States.
-- 1976: The opening of the Summer Olympics in Montreal is marred by 25 African teams boycotting the games because of New Zealand's participation. Contrary to rulings by other international sports organizations, the IOC had declined to exclude New Zealand because of their participation in South African sporting events during apartheid.
-- 1976: East Timor is annexed and becomes the 27th province of Indonesia.
-- 1975: Apollo-Soyuz Test Project: An American Apollo and a Soviet Soyuz spacecraft dock with each other in orbit marking the first such link-up between spacecraft from the two nations.
-- 1973: King Mohammed Zahir Shah of Afghanistan, while having surgery in Italy, is deposed by his cousin Mohammed Daoud Khan.
-- 1968: Abdul Rahman Arif is overthrown and the Ba'ath Party is installed as the governing power in Iraq with Ahmed Hassan al-Bakr as the new Iraqi President.
-- 1962: Nuclear weapons testing: The "Small Boy" test shot Little Feller I becomes the last atmospheric test detonation at the Nevada National Security Site.
-- 1955: Disneyland is dedicated and opened by Walt Disney in Anaheim, California.
-- 1954: First Indochina War: Viet Minh troops successfully ambush the armoured French column 'G.M. 42' in the Battle of Chu Dreh Pass in the Central Highlands. It is the last battle of the war.
-- 1953: The largest number of United States midshipman casualties in a single event results from an aircraft crash in Florida, killing 44.
-- 1945: World War II: The main three leaders of the Allied nations, Winston Churchill, Harry S. Truman and Joseph Stalin, meet in the German city of Potsdam to decide the future of a defeated Germany.
-- 1944: World War II: At Sainte-Foy-de-Montgommery in Normandy, Field Marshal Erwin Rommel is seriously injured by Allied aircraft while returning to his headquarters.
+- 2019: A man sets fire to an anime studio in Fushimi-ku, Kyoto, Japan, killing 36 people and injuring dozens of others.
+- 2014: The Islamic State of Iraq and the Levant requires Christians to either accept dhimmi status, emigrate from ISIL lands, or be killed.
+- 2013: The Government of Detroit, with up to $20 billion in debt, files for the largest municipal bankruptcy in U.S. history.
+- 2012: At least seven people are killed and 32 others are injured after a bomb explodes on an Israeli tour bus at Burgas Airport, Bulgaria.
+- 2002: A Consolidated PB4Y-2 Privateer crashes near Estes Park, Colorado, killing both crew members.
+- 1996: Battle of Mullaitivu: The Liberation Tigers of Tamil Eelam capture the Sri Lanka Army's base, killing over 1,200 soldiers.
+- 1996: Storms provoke severe flooding on the Saguenay River, beginning one of Quebec's costliest natural disasters ever.
+- 1995: On the Caribbean island of Montserrat, the Soufrière Hills volcano erupts. Over the course of several years, it devastates the island, destroying the capital, forcing most of the population to flee.
+- 1994: Rwandan genocide: The Rwandan Patriotic Front takes control of Gisenyi and north western Rwanda, forcing the interim government into Zaire and ending the genocide.
+- 1994: The bombing of the Asociación Mutual Israelita Argentina (Argentine Jewish Community Center) in Buenos Aires kills 85 people (mostly Jewish) and injures 300.
+- 1992: A picture of Les Horribles Cernettes was taken, which became the first ever photo posted to the World Wide Web.
+- 1984: McDonald's massacre in San Ysidro, California: James Oliver Huberty kills 21 people and injures 19 others before being shot dead by police.
+- 1982: Two hundred sixty-eight Guatemalan campesinos ("peasants" or "country people") are slain in the Plan de Sánchez massacre.
+- 1981: A Canadair CL-44 and Sukhoi Su-15 collide in mid-air near Yerevan, Armenia, killing four.
+- 1979: A landslide occurs on the Iliwerung volcano in Indonesia, triggering a tsunami that kills over 530 and leaves 700 missing.
+- 1976: Nadia Comăneci becomes the first person in Olympic Games history to score a perfect 10 in gymnastics at the 1976 Summer Olympics.
+- 1970: An Antonov An-22 of the Soviet Air Forces crashes into the Atlantic Ocean, killing all 23 aboard.
+- 1968: Intel is founded in Mountain View, California.
+- 1966: A racially charged incident in a bar sparks the six-day Hough riots in Cleveland, Ohio; 1,700 Ohio National Guard troops intervene to restore order.
+- 1966: Human spaceflight: Gemini 10 is launched from Cape Kennedy on a 70-hour mission that includes docking with an orbiting Agena target vehicle.
+- 1944: World War II: Hideki Tōjō resigns as Prime Minister of Japan because of numerous setbacks in the war effort.
+- 1942: The Germans test fly the Messerschmitt Me 262 using its jet engines for the first time.
+- 1942: World War II: During the Beisfjord massacre in Norway, 15 Norwegian paramilitary guards help members of the SS to kill 288 political prisoners from Yugoslavia.
+- 1925: Adolf Hitler publishes Mein Kampf.
+- 1914: The U.S. Congress forms the Aviation Section, U.S. Signal Corps, giving official status to aircraft within the U.S. Army for the first time.
+- 1872: The Ballot Act 1872 in the United Kingdom introduced the requirement that parliamentary and local government elections be held by secret ballot.
+- 1870: The First Vatican Council decrees the dogma of papal infallibility.
+- 1863: American Civil War: Second Battle of Fort Wagner: One of the first formal African American military units, the 54th Massachusetts Volunteer Infantry, supported by several white regiments, attempts an unsuccessful assault on Confederate-held Battery Wagner.
+- 1862: First ascent of Dent Blanche, one of the highest summits in the Alps.
+- 1857: Louis Faidherbe, French governor of Senegal, arrives to relieve French forces at Kayes, effectively ending El Hajj Umar Tall's war against the French.
 
 Data from muffinlabs
-*(Updated at: 2025-07-17 02:00:38 UTC)*
+*(Updated at: 2025-07-18 02:02:27 UTC)*
 
 # 历史上的今天 
 
-- -  2018年：斯科特·S·谢泼德（Scott S. Sheppard）宣布，他的团队发现了十二个木星的卫星。
-- -  2015年：伊拉克迪亚拉省的自杀炸弹炸弹炸弹至少有120人丧生，130人丧生。
-- -  2014年：埃里克·加纳（Eric Garner）在纽约市被警察丹尼尔·潘塔莱（Daniel Pantaleo）杀死，后者在逮捕他的同时将他置于禁令。
-- -  2014年：Pau-Bayonne线上的法国地区火车撞上了Denguin镇附近的一辆高速火车，造成至少25次受伤。
-- -  2014年：马来西亚航空公司17号航班，波音777，在被击落后，在乌克兰和俄罗斯边界附近坠毁。船上的所有298人都被杀。
-- -  2007年：Tam Airlines 3054航班（Airbus A320）在降落太快并错过了圣保罗 -   - 康纳斯机场跑道的尽头，造成199人丧生，撞到了仓库。
-- -  2006年：7.7 MW Pangandaran海啸地震严重影响了印尼岛的爪哇岛，炸死了668人，并造成9,000多人受伤。
-- -  2001年：在2000年7月坠机事故发生近一年后，协和将重返服务。
-- -  2000年：在前往洛纳克·贾亚普拉卡什（Lok Nayak Jayaprakash）机场的途中，联盟航空7412突然坠入印度帕特纳（Patna）的一个住宅区，造成60人丧生。
-- -  1998年：一次外交会议采用了国际刑事法院的罗马法规，在海牙建立了永久国际法院，起诉个人罪名，危害人类罪，战争罪和侵略罪。
-- -  1998年：7.0 MW巴布亚新几内亚地震触发了一场海啸，该海啸摧毁了巴布亚新几内亚的十个村庄，造成多达2700人丧生，并造成数千人受伤。
-- -  1997年：从Husein Sastranegara国际机场起飞后，Sempati Air Flight 304坠毁到万隆的一个住宅区，炸死28人。
-- -  1996年：TWA 800航班：在纽约长岛的海岸附近，巴黎绑定的TWA波音747爆炸，杀死了所有230名。
-- -  1989年：恢复了马铃琴 - 帕洛兰关系。
-- -  1989年：B-2 Spirit Stealth Bomber的首次飞行。
-- -  1985年：前国家元首FrançoisMitterrand（法国）和Helmut Kohl（德国）创立了Eureka网络。
-- -  1984年：美国的全国饮酒年龄从18个变为21。
-- -  1981年：结构性失败导致密苏里州堪萨斯城凯悦酒店的人行道崩溃，造成114人丧生，并受伤200多人。
-- -  1979年：尼加拉瓜独裁者Anastasio Somoza Debayle辞职并逃往美国佛罗里达州迈阿密。
-- -  1976年：由于新西兰的参与，蒙特利尔夏季奥运会在蒙特利尔的开放遭到抵制。与其他国际体育组织的裁决相反，国际奥委会因在种族隔离期间参加南非体育赛事而拒绝排除新西兰。
-- -  1976年：东帝汶被吞并，成为印度尼西亚第27省。
-- -  1975年：阿波罗 - 空军测试项目：美国阿波罗和苏联的苏菜航天器码头彼此互相标记，标志着两国的航天器之间的第一个这种联系。
-- -  1973年：阿富汗国王穆罕默德·扎希尔·沙阿（Mohammed Zahir Shah）在意大利进行手术时被他的堂兄穆罕默德·多德·汗（Mohammed Daoud Khan）罢免。
-- -  1968年：阿卜杜勒·拉赫曼·阿里夫（Abdul Rahman Arif）被推翻，巴特（Ba'ath）派对被安装为伊拉克的统治权，艾哈迈德·哈桑·阿尔·巴克（Ahmed Hassan al-Bakr）担任新的伊拉克总统。
-- -  1962年：核武器测试：“小男孩”测试射击Little Feller I成为内华达州国家安全现场的最后一次大气测试。
-- -  1955年：迪斯尼乐园由沃尔特·迪斯尼（Walt Disney）在加利福尼亚州阿纳海姆（Anaheim）献身。
-- -  1954年：第一届印度支那战争：越南部队成功伏击了装甲的法国专栏'G.M.42'在中央高地的Chu Dreh战役中。这是战争的最后一场战斗。
-- -  1953年：在佛罗里达州的一次飞机坠机事件中，美国中部人员伤亡人数最多，造成44人丧生。
-- -  1945年：第二次世界大战：盟国的主要三个领导人温斯顿·丘吉尔（Winston Churchill），哈里·杜鲁门（Harry S.
-- -  1944年：第二次世界大战：在诺曼底的Sainte-foy-de-Montogery，菲尔德元帅埃尔文·隆美尔（Erwin Rommel）在返回总部时受到了盟军飞机的重伤。
+- -  2019年：一个男人向日本京都富岛库的动漫工作室起火，杀死了36人，并伤害了数十人。
+- -  2014年：伊拉克伊斯兰国和黎凡特国家要求基督徒接受Dhimmi地位，从伊黎伊斯兰国移民或被杀。
+- -  2013年：底特律政府，债务高达200亿美元，是美国历史上最大的市政破产的档案。
+- -  2012年：在保加利亚伯加斯机场的一辆以色列旅游巴士上炸弹爆炸后，至少有7人被杀，另有32人受伤。
+- -  2002年：科罗拉多州埃斯蒂斯公园附近的合并PB4Y-2私人撞车事故，杀死了两名机组人员。
+- -  1996年：穆拉蒂维战役：泰米尔·埃拉姆（Tamil Eelam）的解放老虎俘虏了斯里兰卡军队的基地，杀死了1200多名士兵。
+- -  1996年：暴风雨引起了萨盖尼河的严重洪水，开始了魁北克有史以来最昂贵的自然灾害之一。
+- -  1995年：在加勒比海蒙特塞拉特岛上，SoufrièreHills火山爆发。在几年的时间里，它破坏了该岛，破坏了首都，迫使大多数人口逃离。
+- -  1994年：卢旺达种族灭绝：卢旺达爱国阵线控制吉塞尼和卢旺达西北部，迫使临时政府进入扎伊尔并结束了种族灭绝。
+- -  1994年：布宜诺斯艾利斯（Buenos Aires）的阿斯科西亚岛互助以色列阿根廷（阿根廷犹太社区中心）轰炸了85人（主要是犹太人），受伤300。
+- -  1992年：拍摄了Les Horribles Cernettes的照片，这是有史以来第一张张贴在万维网上的照片。
+- -  1984年：加利福尼亚州圣伊西德罗的麦当劳大屠杀：詹姆斯·奥利弗·胡伯（James Oliver Huberty）杀死了21人，并炸伤了19人，然后被警察枪杀。
+- -  1982年：危地马拉坎皮西诺斯（“农民”或“乡下人”）被杀害了deSánchez大屠杀的计划。
+- -  1981年：Canadair CL-44和Sukhoi Su-15在亚美尼亚埃里万附近的空中碰撞，杀死了四人。
+- -  1979年：印度尼西亚的Iliwerung火山上发生了一条滑坡，引发了一场杀死530多人并丢失700人的海啸。
+- -  1976年：纳迪亚·康涅奇（NadiaComăneci）成为奥运会历史上第一个在1976年夏季奥运会上在体操比赛中获得完美10的人。
+- -  1970年：苏联空军的安东诺夫（Antonov An-22）撞向大西洋，杀死了全部23号。
+- -  1968年：英特尔建立在加利福尼亚州山景城。
+- -  1966年：酒吧里有种族指控的事件激发了俄亥俄州克利夫兰的为期六天的霍夫暴动；1,700俄亥俄国民警卫队介入以恢复秩序。
+- -  1966年：人类太空飞行：双子座10是从肯尼迪角（Cape Kennedy）发射的70小时任务，其中包括与绕线的Agena Target车辆对接。
+- -  1944年：第二次世界大战：HidekiTōjō辞去日本总理辞职，因为战争中有许多挫折。
+- -  1942年：德国人测试首次使用其喷气发动机飞行Messerschmitt ME 262。
+- -  1942年：第二次世界大战：在挪威的贝福乔德大屠杀期间，15名挪威准军事卫队帮助党卫军成员杀死来自南斯拉夫的288名政治犯。
+- -  1925年：阿道夫·希特勒（Adolf Hitler）出版了Mein Kampf。
+- -  1914年：美国国会构成了美国信号军航空部门，首次为美国陆军内的飞机官方身份。
+- -  1872年：1872年在英国进行的选票提出了以下要求，即通过秘密投票举行议会和地方政府选举。
+- -  1870年：第一个梵蒂冈委员会裁定教皇无误的教条。
+- -  1863年：美国内战：瓦格纳堡的第二战：第54届马萨诸塞州第54届非裔美国军事部队之一，在几个白人军团的支持下，企图对同盟国持有的炮台瓦格纳（Wagner）进行攻击。
+- -  1862年：登特·布兰奇（Dent Blanche）的首次上升，这是阿尔卑斯山最高的山顶之一。
+- -  1857年：塞内加尔法国州长路易斯·法德赫贝（Louis Faidherbe）到达法国部队在凯斯（Kayes），有效地结束了埃尔·霍吉·乌玛尔·塔（El Hajj Umar Tall）对法国人的战争。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-07-17 02:00:38 UTC）*
+*（更新于: 2025-07-18 02:02:27 UTC）*
