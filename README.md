@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: A man sets fire to an anime studio in Fushimi-ku, Kyoto, Japan, killing 36 people and injuring dozens of others.
-- 2014: The Islamic State of Iraq and the Levant requires Christians to either accept dhimmi status, emigrate from ISIL lands, or be killed.
-- 2013: The Government of Detroit, with up to $20 billion in debt, files for the largest municipal bankruptcy in U.S. history.
-- 2012: At least seven people are killed and 32 others are injured after a bomb explodes on an Israeli tour bus at Burgas Airport, Bulgaria.
-- 2002: A Consolidated PB4Y-2 Privateer crashes near Estes Park, Colorado, killing both crew members.
-- 1996: Battle of Mullaitivu: The Liberation Tigers of Tamil Eelam capture the Sri Lanka Army's base, killing over 1,200 soldiers.
-- 1996: Storms provoke severe flooding on the Saguenay River, beginning one of Quebec's costliest natural disasters ever.
-- 1995: On the Caribbean island of Montserrat, the Soufrière Hills volcano erupts. Over the course of several years, it devastates the island, destroying the capital, forcing most of the population to flee.
-- 1994: Rwandan genocide: The Rwandan Patriotic Front takes control of Gisenyi and north western Rwanda, forcing the interim government into Zaire and ending the genocide.
-- 1994: The bombing of the Asociación Mutual Israelita Argentina (Argentine Jewish Community Center) in Buenos Aires kills 85 people (mostly Jewish) and injures 300.
-- 1992: A picture of Les Horribles Cernettes was taken, which became the first ever photo posted to the World Wide Web.
-- 1984: McDonald's massacre in San Ysidro, California: James Oliver Huberty kills 21 people and injures 19 others before being shot dead by police.
-- 1982: Two hundred sixty-eight Guatemalan campesinos ("peasants" or "country people") are slain in the Plan de Sánchez massacre.
-- 1981: A Canadair CL-44 and Sukhoi Su-15 collide in mid-air near Yerevan, Armenia, killing four.
-- 1979: A landslide occurs on the Iliwerung volcano in Indonesia, triggering a tsunami that kills over 530 and leaves 700 missing.
-- 1976: Nadia Comăneci becomes the first person in Olympic Games history to score a perfect 10 in gymnastics at the 1976 Summer Olympics.
-- 1970: An Antonov An-22 of the Soviet Air Forces crashes into the Atlantic Ocean, killing all 23 aboard.
-- 1968: Intel is founded in Mountain View, California.
-- 1966: A racially charged incident in a bar sparks the six-day Hough riots in Cleveland, Ohio; 1,700 Ohio National Guard troops intervene to restore order.
-- 1966: Human spaceflight: Gemini 10 is launched from Cape Kennedy on a 70-hour mission that includes docking with an orbiting Agena target vehicle.
-- 1944: World War II: Hideki Tōjō resigns as Prime Minister of Japan because of numerous setbacks in the war effort.
-- 1942: The Germans test fly the Messerschmitt Me 262 using its jet engines for the first time.
-- 1942: World War II: During the Beisfjord massacre in Norway, 15 Norwegian paramilitary guards help members of the SS to kill 288 political prisoners from Yugoslavia.
-- 1925: Adolf Hitler publishes Mein Kampf.
-- 1914: The U.S. Congress forms the Aviation Section, U.S. Signal Corps, giving official status to aircraft within the U.S. Army for the first time.
-- 1872: The Ballot Act 1872 in the United Kingdom introduced the requirement that parliamentary and local government elections be held by secret ballot.
-- 1870: The First Vatican Council decrees the dogma of papal infallibility.
-- 1863: American Civil War: Second Battle of Fort Wagner: One of the first formal African American military units, the 54th Massachusetts Volunteer Infantry, supported by several white regiments, attempts an unsuccessful assault on Confederate-held Battery Wagner.
-- 1862: First ascent of Dent Blanche, one of the highest summits in the Alps.
-- 1857: Louis Faidherbe, French governor of Senegal, arrives to relieve French forces at Kayes, effectively ending El Hajj Umar Tall's war against the French.
+- 2024 ─ The International Court of Justice (ICJ) delivered a ruling stating that Israel should end its illegal occupation of the Palestinian territories. The ICJ identified that all member states of the UN are under an obligation not to recognize the occupation as legal nor "render aid or assistance" toward maintaining Israel's presence in the occupied territories.[16][17]: None
+- 2024 ─ A faulty software update by CrowdStrike, an American cybersecurity company, causes global computer outages.[15]: None
+- 2018: The Knesset passes the controversial Nationality Bill, which defines the State of Israel as the nation-state of the Jewish people.
+- 2014: Gunmen in Egypt's western desert province of New Valley Governorate attack a military checkpoint, killing at least 21 soldiers. Egypt reportedly declares a state of emergency on its border with Sudan.
+- 2012: Syrian civil war: The People's Protection Units (YPG) capture the city of Kobanî without resistance, starting the Rojava conflict in Northeast Syria.
+- 2011: Guinean President Alpha Condé survives an attempted assassination and coup d'état at his residence in Conakry.
+- 1997: The Troubles: The Provisional Irish Republican Army resumes a ceasefire to end their 25-year paramilitary campaign to end British rule in Northern Ireland.
+- 1992: A car bomb kills Judge Paolo Borsellino and five members of his escort.
+- 1989: United Airlines Flight 232 crashes in Sioux City, Iowa killing 111.
+- 1985: The Val di Stava dam collapses killing 268 people in Val di Stava, Italy.
+- 1983: The first three-dimensional reconstruction of a human head in a CT is published.
+- 1982: In one of the first militant attacks by Hezbollah, David S. Dodge, president of the American University of Beirut, is kidnapped.
+- 1981: In a private meeting with U.S. President Ronald Reagan, French President François Mitterrand reveals the existence of the Farewell Dossier, a collection of documents showing the Soviet Union had been stealing American technological research and development.
+- 1980: Opening of the Summer Olympics in Moscow.
+- 1979: The oil tanker SS Atlantic Empress collides with another oil tanker, causing the largest ever ship-borne oil spill.
+- 1979: The Sandinista rebels overthrow the government of the Somoza family in Nicaragua.
+- 1977: The world's first Global Positioning System (GPS) signal was transmitted from Navigation Technology Satellite 2 (NTS-2) and received at Rockwell Collins in Cedar Rapids, Iowa, at 12:41 a.m. Eastern time (ET).
+- 1976: Sagarmatha National Park in Nepal is created.
+- 1972: Dhofar Rebellion: British SAS units help the Omani government against Popular Front for the Liberation of Oman rebels in the Battle of Mirbat.
+- 1969: Chappaquiddick incident: U.S. Senator Ted Kennedy crashes his car into a tidal pond at Chappaquiddick Island, Massachusetts, killing his passenger Mary Jo Kopechne.
+- 1967: Piedmont Airlines Flight 22, a Piedmont Airlines Boeing 727-22 and a twin-engine Cessna 310 collided over Hendersonville, North Carolina, USA. Both aircraft were destroyed and all passengers and crew were killed, including John T. McNaughton, an advisor to Robert McNamara.
+- 1964: Vietnam War: At a rally in Saigon, South Vietnamese Prime Minister Nguyễn Khánh calls for expanding the war into North Vietnam.
+- 1963: Joe Walker flies a North American X-15 to a record altitude of 106,010 meters (347,800 feet) on X-15 Flight 90. Exceeding an altitude of 100 km, this flight qualifies as a human spaceflight under international convention.
+- 1961: Tunisia imposes a blockade on the French naval base at Bizerte; the French would capture the entire town four days later.
+- 1957: The largely autobiographical novel The Ordeal of Gilbert Pinfold by Evelyn Waugh was published.
+- 1952: Opening of the Summer Olympics in Helsinki, Finland.
+- 1947: Korean politician Lyuh Woon-hyung is assassinated.
+- 1947: Prime Minister of the shadow Burmese government, Bogyoke Aung San and eight others are assassinated.
+- 1943: World War II: Rome is heavily bombed by more than 500 Allied aircraft, inflicting thousands of casualties.
+- 1942: World War II: The Second Happy Time of Hitler's submarines comes to an end, as the increasingly effective American convoy system compels them to return to the central Atlantic.
 
 Data from muffinlabs
-*(Updated at: 2025-07-18 02:02:27 UTC)*
+*(Updated at: 2025-07-19 01:56:17 UTC)*
 
 # 历史上的今天 
 
-- -  2019年：一个男人向日本京都富岛库的动漫工作室起火，杀死了36人，并伤害了数十人。
-- -  2014年：伊拉克伊斯兰国和黎凡特国家要求基督徒接受Dhimmi地位，从伊黎伊斯兰国移民或被杀。
-- -  2013年：底特律政府，债务高达200亿美元，是美国历史上最大的市政破产的档案。
-- -  2012年：在保加利亚伯加斯机场的一辆以色列旅游巴士上炸弹爆炸后，至少有7人被杀，另有32人受伤。
-- -  2002年：科罗拉多州埃斯蒂斯公园附近的合并PB4Y-2私人撞车事故，杀死了两名机组人员。
-- -  1996年：穆拉蒂维战役：泰米尔·埃拉姆（Tamil Eelam）的解放老虎俘虏了斯里兰卡军队的基地，杀死了1200多名士兵。
-- -  1996年：暴风雨引起了萨盖尼河的严重洪水，开始了魁北克有史以来最昂贵的自然灾害之一。
-- -  1995年：在加勒比海蒙特塞拉特岛上，SoufrièreHills火山爆发。在几年的时间里，它破坏了该岛，破坏了首都，迫使大多数人口逃离。
-- -  1994年：卢旺达种族灭绝：卢旺达爱国阵线控制吉塞尼和卢旺达西北部，迫使临时政府进入扎伊尔并结束了种族灭绝。
-- -  1994年：布宜诺斯艾利斯（Buenos Aires）的阿斯科西亚岛互助以色列阿根廷（阿根廷犹太社区中心）轰炸了85人（主要是犹太人），受伤300。
-- -  1992年：拍摄了Les Horribles Cernettes的照片，这是有史以来第一张张贴在万维网上的照片。
-- -  1984年：加利福尼亚州圣伊西德罗的麦当劳大屠杀：詹姆斯·奥利弗·胡伯（James Oliver Huberty）杀死了21人，并炸伤了19人，然后被警察枪杀。
-- -  1982年：危地马拉坎皮西诺斯（“农民”或“乡下人”）被杀害了deSánchez大屠杀的计划。
-- -  1981年：Canadair CL-44和Sukhoi Su-15在亚美尼亚埃里万附近的空中碰撞，杀死了四人。
-- -  1979年：印度尼西亚的Iliwerung火山上发生了一条滑坡，引发了一场杀死530多人并丢失700人的海啸。
-- -  1976年：纳迪亚·康涅奇（NadiaComăneci）成为奥运会历史上第一个在1976年夏季奥运会上在体操比赛中获得完美10的人。
-- -  1970年：苏联空军的安东诺夫（Antonov An-22）撞向大西洋，杀死了全部23号。
-- -  1968年：英特尔建立在加利福尼亚州山景城。
-- -  1966年：酒吧里有种族指控的事件激发了俄亥俄州克利夫兰的为期六天的霍夫暴动；1,700俄亥俄国民警卫队介入以恢复秩序。
-- -  1966年：人类太空飞行：双子座10是从肯尼迪角（Cape Kennedy）发射的70小时任务，其中包括与绕线的Agena Target车辆对接。
-- -  1944年：第二次世界大战：HidekiTōjō辞去日本总理辞职，因为战争中有许多挫折。
-- -  1942年：德国人测试首次使用其喷气发动机飞行Messerschmitt ME 262。
-- -  1942年：第二次世界大战：在挪威的贝福乔德大屠杀期间，15名挪威准军事卫队帮助党卫军成员杀死来自南斯拉夫的288名政治犯。
-- -  1925年：阿道夫·希特勒（Adolf Hitler）出版了Mein Kampf。
-- -  1914年：美国国会构成了美国信号军航空部门，首次为美国陆军内的飞机官方身份。
-- -  1872年：1872年在英国进行的选票提出了以下要求，即通过秘密投票举行议会和地方政府选举。
-- -  1870年：第一个梵蒂冈委员会裁定教皇无误的教条。
-- -  1863年：美国内战：瓦格纳堡的第二战：第54届马萨诸塞州第54届非裔美国军事部队之一，在几个白人军团的支持下，企图对同盟国持有的炮台瓦格纳（Wagner）进行攻击。
-- -  1862年：登特·布兰奇（Dent Blanche）的首次上升，这是阿尔卑斯山最高的山顶之一。
-- -  1857年：塞内加尔法国州长路易斯·法德赫贝（Louis Faidherbe）到达法国部队在凯斯（Kayes），有效地结束了埃尔·霍吉·乌玛尔·塔（El Hajj Umar Tall）对法国人的战争。
+- -  2024  - 国际法院（ICJ）作出了一项裁决，称以色列应结束对巴勒斯坦领土的非法占领。国际法院确定，联合国的所有成员国都没有承认该职业是合法的，也不是“提供援助或援助”来维持以色列在被占领的领土上的存在。[16] [17]：没有
+- -2024  - 美国网络安全公司CrowdStrike的软件更新有故障，导致全球计算机中断。[15]：无
+- -  2018年：以色列议会通过了有争议的国籍法案，该法案将以色列国定义为犹太人的民族国家。
+- -  2014年：埃及西部沙漠省新山谷省的枪手袭击了军事检查站，杀死了至少21名士兵。据报道，埃及宣布与苏丹接壤的边界处于紧急状态。
+- -  2012年：叙利亚内战：人民保护部队（YPG）在没有抵抗的情况下占领了科巴尼市，开始了叙利亚东北部的罗哈瓦冲突。
+- -  2011年：几内亚总统阿尔法·康德（AlphaCondé）在他在康纳克里（Conakry）的住所中幸免于难。
+- -  1997年：麻烦：临时爱尔兰共和党恢复了停火，以结束他们25年的准军事运动，以结束北爱尔兰的英国统治。
+- -  1992年：一枚汽车炸弹杀死了Paolo Borsellino法官及其陪同人员的五名成员。
+- -  1989年：联合航空公司（United Airlines）在爱荷华州苏城（Sioux City）撞车232号航班杀害111。
+- -  1985年：Val di Stava大坝倒塌在意大利Val Di Stava杀死268人。
+- -  1983年：CT中人头的第一个三维重建。
+- -  1982年：在真主党的第一次激进袭击中，贝鲁特美国大学校长戴维·S·道奇（David S. Dodge）被绑架。
+- -  1981年：在与美国总统罗纳德·里根（Ronald Reagan）的一次私人会议上，法国总统弗朗索瓦·米特拉德（FrançoisMitterrand）透露了《告别档案》的存在，该文件的集合表明苏联一直在窃取美国的技术研究和发展。
+- -  1980年：莫斯科夏季奥运会的开幕。
+- -  1979年：油轮SS大西洋皇后与另一辆油轮碰撞，导致有史以来最大的船舶溢油。
+- -  1979年：Sandinista叛军推翻了尼加拉瓜Somoza家族的政府。
+- -  1977年：世界上第一个全球定位系统（GPS）信号是从导航技术卫星2（NTS-2）传输的，并于东部时间（ET）上午12:41在爱荷华州锡达拉皮兹的Rockwell Collins接收。
+- -  1976年：创建了尼泊尔的萨加玛莎国家公园。
+- -  1972年：DHOFAR叛乱：英国SAS单位帮助阿曼政府在米尔巴特战役中解放阿曼叛军的受欢迎阵线。
+- -  1969年：Chappaquiddick事件：美国参议员泰德·肯尼迪（Ted Kennedy）在马萨诸塞州的查帕奎迪克岛（Chappaquiddick）岛的一个潮汐池塘中撞车，杀死了他的乘客玛丽·乔·科佩奇（Mary Jo Kopechne）。
+- -  1967年：皮埃蒙特航空公司22号航班，皮埃蒙特航空公司波音727-22和一辆双引擎塞斯纳310在美国北卡罗来纳州亨德森维尔碰撞。两架飞机都被摧毁，所有乘客和船员都被杀害，包括罗伯特·麦克纳马拉（Robert McNamara）的顾问约翰·麦克诺顿（John T. McNaughton）。
+- -  1964年：越南战争：在西贡的一次集会上，越南总理nguyễnKhánh呼吁将战争扩展到北越。
+- -  1963年：乔·沃克（Joe Walker）在X-15飞行90航班上飞到北美X-15的高度为106,010米（347,800英尺）。超过100公里的高度，该航班在国际大会下有资格成为人类航天。
+- -  1961年：突尼斯对比泽特的法国海军基地施加了封锁；四天后，法国人将占领整个城镇。
+- -  1957年：伊芙琳·沃（Evelyn Waugh）的吉尔伯特·普尔德（Gilbert Pinfold）的磨难在很大程度上出版了。
+- -  1952年：芬兰赫尔辛基的夏季奥运会开幕。
+- -  1947年：韩国政客Lyuh Woon-Hyung被暗杀。
+- -  1947年：影子缅甸政府总理Bogyoke Aung San和其他八人被暗杀。
+- -  1943年：第二次世界大战：罗马遭到500多架盟军飞机的轰炸，造成数千人伤亡。
+- -  1942年：第二次世界大战：希特勒潜艇的第二个快乐时光逐渐结束，因为越来越有效的美国车队系统迫使他们返回中大西洋。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-07-18 02:02:27 UTC）*
+*（更新于: 2025-07-19 01:56:17 UTC）*
