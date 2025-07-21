@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: American businessman Jeff Bezos flies to space aboard New Shepard NS-16 operated by his private spaceflight company Blue Origin.
-- 2017: O. J. Simpson is granted parole to be released from prison after serving nine years of a 33-year sentence after being convicted of armed robbery in Las Vegas.
-- 2015: The United States and Cuba resume full diplomatic relations after five decades.
-- 2015: A huge explosion in the mostly Kurdish border town of Suruç, Turkey, targeting the Socialist Youth Associations Federation, kills at least 31 people and injures over 100.
-- 2013: Syrian civil war: The Battle of Ras al-Ayn ends with the expulsion of Islamist forces from the city by the People's Protection Units (YPG).
-- 2013: Seventeen government soldiers are killed in an attack by FARC revolutionaries in the Colombian department of Arauca.
-- 2012: Syrian civil war: The People's Protection Units (YPG) capture the cities of Amuda and Efrîn without resistance.
-- 2012: James Holmes opened fire at a movie theater in Aurora, Colorado, killing 12 and injuring 70 others.
-- 2005: The Civil Marriage Act legalizes same-sex marriage in Canada.
-- 1999: The Chinese Communist Party begins a persecution campaign against Falun Gong, arresting thousands nationwide.
-- 1997: The fully restored USS Constitution (a.k.a. Old Ironsides) celebrates its 200th birthday by setting sail for the first time in 116 years.
-- 1992: A Tupolev Tu-154 crashes during takeoff from Tbilisi International Airport, killing all 24 aboard and four more people on the ground.
-- 1992: Václav Havel resigns as president of Czechoslovakia.
-- 1989: Burma's ruling junta puts opposition leader Aung San Suu Kyi under house arrest.
-- 1985: The government of Aruba passes legislation to secede from the Netherlands Antilles.
-- 1982: Hyde Park and Regent's Park bombings: The Provisional IRA detonates two bombs in Hyde Park and Regent's Park in central London, killing eight soldiers, wounding forty-seven people, and leading to the deaths of seven horses.
-- 1981: Somali Airlines Flight 40 crashes in the Balad District of Somalia, killing 50 people.
-- 1977: Aeroflot Flight B-2 crashes after takeoff from Vilim Airport in the Sakha Republic, killing 39.
-- 1977: The Johnstown flood of 1977 kills 84 people and causes millions of dollars in damages.
-- 1977: The Central Intelligence Agency releases documents under the Freedom of Information Act revealing it had engaged in mind-control experiments.
-- 1976: The American Viking 1 lander successfully lands on Mars.
-- 1974: Turkish invasion of Cyprus: Forces from Turkey invade Cyprus after a coup d'état, organised by the dictator of Greece, against president Makarios.
-- 1969: A cease fire is announced between Honduras and El Salvador, six days after the beginning of the "Football War".
-- 1969: Apollo program: Apollo 11's crew successfully makes the first human landing on the Moon in the Sea of Tranquility. Americans Neil Armstrong and Buzz Aldrin become the first humans to walk on the Moon six and a half hours later.
-- 1968: The first International Special Olympics Summer Games are held at Soldier Field in Chicago, with about 1,000 athletes with intellectual disabilities.
-- 1964: Vietnam War: Viet Cong forces attack the capital of Định Tường Province, Cái Bè, killing 11 South Vietnamese military personnel and 40 civilians (30 of whom are children).
-- 1961: French military forces break the Tunisian siege of Bizerte.
-- 1960: The Polaris missile is successfully launched from a submarine, the USS George Washington, for the first time.
-- 1960: Ceylon (now Sri Lanka) elects Sirimavo Bandaranaike Prime Minister, the world's first elected female head of government.
-- 1954: Germany: Otto John, head of West Germany's secret service, defects to East Germany.
+- 2024: US President Joe Biden announces he will no longer seek a second term and withdraws from the 2024 election.
+- 2023: The Barbenheimer phenomenon begins as two major motion pictures, Greta Gerwig's fantasy comedy Barbie and Christopher Nolan's epic biographical thriller Oppenheimer, are released in theaters on the same day and audiences, instead of creating a rivalry between the extremely dissimilar films, instead attend and praise both as an informal, surreal double feature.
+- 2019: Yuen Long attack or "721 incident" in Hong Kong. Triad members indiscriminately beat civilians returning from protests while police failed to take action.
+- 2012: Erden Eruç completes the first solo human-powered circumnavigation of the world.
+- 2011: NASA's Space Shuttle program ends with the landing of Space Shuttle Atlantis on mission STS-135 at NASA's Kennedy Space Center.
+- 2010: President Barack Obama signs the Dodd-Frank Wall Street Reform and Consumer Protection Act.
+- 2008: Ram Baran Yadav is declared the first President of Nepal.
+- 2005: Four attempted bomb attacks by Islamist extremists disrupt part of London's public transport system.
+- 2001: At the conclusion of a fireworks display on Okura Beach in Akashi, Hyōgo, Japan, 11 people are killed and more than 120 are injured when a pedestrian footbridge connecting the beach to JR Asagiri Station becomes overcrowded and people leaving the event fall down in a domino effect.
+- 1995: Third Taiwan Strait Crisis: The People's Liberation Army begins firing missiles into the waters north of Taiwan.
+- 1990: Taiwan's military police forces mainland Chinese illegal immigrants into sealed holds of a fishing boat Min Ping Yu No. 5540 for repatriation to Fujian, causing 25 people to die from suffocation.
+- 1983: The world's lowest temperature in an inhabited location is recorded at Vostok Station, Antarctica at −89.2 °C (−128.6 °F).
+- 1979: Jay Silverheels, a Mohawk actor, becomes the first Native American to have a star commemorated in the Hollywood Walk of Fame.
+- 1977: The start of the four-day-long Libyan-Egyptian War.
+- 1976: Christopher Ewart-Biggs, the British ambassador to the Republic of Ireland, is assassinated by the Provisional IRA.
+- 1973: In Lillehammer, Norway, Mossad agents kill a waiter whom they mistakenly thought was involved in the 1972 Munich Olympics Massacre.
+- 1972: The Troubles: Bloody Friday: The Provisional IRA detonate 22 bombs in central Belfast, Northern Ireland, United Kingdom in the space of 80 minutes, killing nine and injuring 130.
+- 1970: After 11 years of construction, the Aswan High Dam in Egypt is completed.
+- 1969: Apollo program: At 02:56 UTC, astronaut Neil Armstrong becomes the first person to walk on the Moon, followed 19 minutes later by Edwin "Buzz" Aldrin.
+- 1964: A series of racial riots break out in Singapore. In the next six weeks, 23 die with 454 others injured.
+- 1961: Alaska Airlines Flight 779 crashes near Shemya Air Force Base in Shemya, Alaska killing six.
+- 1961: Mercury program: Mercury-Redstone 4 Mission: Gus Grissom piloting Liberty Bell 7 becomes the second American to go into space (in a suborbital mission).
+- 1960: Sirimavo Bandaranaike is elected Prime Minister of Sri Lanka, becoming the world's first female head of government
+- 1959: Elijah Jerry "Pumpsie" Green becomes the first African-American to play for the Boston Red Sox, the last team to integrate. He came in as a pinch runner for Vic Wertz and stayed in as shortstop in a 2-1 loss to the Chicago White Sox.
+- 1959: NS Savannah, the first nuclear-powered cargo-passenger ship, is launched as a showcase for Dwight D. Eisenhower's "Atoms for Peace" initiative.
+- 1954: First Indochina War: The Geneva Conference partitions Vietnam into North Vietnam and South Vietnam.
+- 1952: The 7.3 Mw  Kern County earthquake strikes Southern California with a maximum Mercalli intensity of XI (Extreme), killing 12 and injuring hundreds.
+- 1951: Canadian Pacific Air Lines Flight 3505 disappears while flying from Vancouver to Tokyo. The aircraft and its 37 occupants are never found.
+- 1949: The United States Senate ratifies the North Atlantic Treaty.
+- 1944: World War II: Claus von Stauffenberg and four fellow conspirators are executed for the July 20 plot to assassinate Adolf Hitler.
 
 Data from muffinlabs
-*(Updated at: 2025-07-20 02:09:45 UTC)*
+*(Updated at: 2025-07-21 02:07:01 UTC)*
 
 # 历史上的今天 
 
-- -2021：美国商人杰夫·贝佐斯（Jeff Bezos）飞往新的Shepard NS-16上的太空，由他的私人太空飞行公司Blue Origin运营。
-- -  2017年：O。J。Simpson被判处假释后被判入狱，该被判处33年徒刑后，在拉斯维加斯被定罪了33年。
-- -  2015年：五十年后，美国和古巴恢复了完整的外交关系。
-- -  2015年：针对社会主义青年协会联合会的主要是库尔德边境小镇苏鲁讯的巨大爆炸，至少造成31人丧生，并受伤超过100人。
-- -  2013年：叙利亚内战：拉斯·艾恩（Ras al-Ayn）战役以人民保护部队（YPG）从城市驱逐伊斯兰力量而告终。
-- -  2013年：哥伦比亚哥伦比亚哥伦比亚哥伦比亚局局长在阿劳卡哥伦比亚局的袭击中杀害了17名政府士兵。
-- -  2012年：叙利亚内战：人民保护单位（YPG）占据了阿米达和埃弗兰的城市而没有抵抗。
-- -  2012年：詹姆斯·霍姆斯（James Holmes）在科罗拉多州奥罗拉（Aurora）的一个电影院开火，杀死了12人，炸伤70人。
-- -  2005年：《民事婚姻法》在加拿大合法化了同性婚姻。
-- -  1999年：中国共产党开始了针对法轮功的迫害运动，在全国范围内逮捕了数千人。
-- -  1997年：完全恢复的USS宪法（又名Old Ironsides）通过在116年内首次启动航行来庆祝其200岁生日。
-- -  1992年：从第比利斯国际机场起飞期间，Tupolev Tu-154坠毁，杀死了全部24人，并在地面上又有4人。
-- -  1992年：VáclavHavel辞去了捷克斯洛伐克总裁。
-- -  1989年：缅甸的统治职务使反对派领导人昂山·基伊（Aung San Suu Kyi）被捕。
-- -  1985年：阿鲁巴政府通过立法使荷兰安特列斯群岛脱离。
-- -  1982年：海德公园和摄政公园爆炸案：临时IRA在伦敦市中心的海德公园和摄政公园爆炸了两枚炸弹，杀死了八名士兵，炸伤了47人，并导致七匹马死亡。
-- -  1981年：索马里航空公司40航班在索马里的巴拉德地区撞车，造成50人丧生。
-- -  1977年：Aeroflot B-2从萨卡共和国的维利姆机场起飞后坠毁，造成39人丧生。
-- -  1977年：1977年的约翰斯敦洪水造成84人丧生，并造成数百万美元的损害赔偿。
-- -  1977年：中央情报局根据《信息自由法》发布了文件，揭示了其参与了心理控制实验。
-- -  1976年：美国维京人1 Lander成功地降落在火星上。
-- -  1974年：土耳其对塞浦路斯的入侵：由希腊独裁者对马卡里奥斯总统组织的政变，来自土耳其的部队入侵塞浦路斯。
-- -  1969年：“足球战争”开始六天后，洪都拉斯和萨尔瓦多之间宣布了停火大火。
-- -  1969年：阿波罗计划：阿波罗11的船员成功地使第一个人类登陆在宁静的海洋中。美国人尼尔·阿姆斯特朗（Neil Armstrong）和巴斯·奥尔德林（Buzz Aldrin）成为六个半小时后在月球上行走的人。
-- -  1968年：第一次国际特奥会夏季运动会在芝加哥的士兵场举行，约有1000名智力障碍运动员。
-- -  1964年：越南战争：越南部队袭击了CáiBè省首都，杀死了11名南越南军事人员和40名平民（其中30名是儿童）。
-- -  1961年：法国军队打破了突尼斯的围困。
-- -  1960年：北极星导弹首次从潜艇乔治·华盛顿号航空公司成功发射。
-- -  1960年：锡兰（现为斯里兰卡）选举西里马沃·班达拉纳（Sirimavo Bandaranaike）总理，这是世界上第一位当选的女性政府负责人。
-- -  1954年：德国：西德特勤局负责人奥托·约翰（Otto John）叛逃到东德。
+- -  2024年：美国总统乔·拜登（Joe Biden）宣布，他将不再寻求第二任期，而是退出2024年大选。
+- -2023：Barbenheimer现象以两张主要电影开始，Greta Gerwig的幻想喜剧芭比和克里斯托弗·诺兰（Christopher Nolan）的史诗般的传记惊悚片Oppenheimer在同一天和听众中在剧院中发行，而不是在竞争中创造出极为异常的电影，而是在竞争中扮演了一项竞争，而是赞美了一项象征性的双重性。
+- -2019：元日的Yuen Long攻击或“ 721事件”。三合会成员不加区别地击败了抗议活动的平民，而警察未能采取行动。
+- -  2012年：ErdenEruç完成了世界上第一个由人类驱动的独奏环境。
+- -  2011年：NASA的航天飞机计划以Atlantis在NASA肯尼迪航天中心的Mission STS-135上的降落而结束。
+- -  2010年：总统巴拉克·奥巴马（Barack Obama）签署了《多德 - 弗兰克华尔街改革与消费者保护法》。
+- -  2008年：拉姆·巴兰·亚达夫（Ram Baran Yadav）被宣布为尼泊尔的第一任总统。
+- -  2005年：伊斯兰极端主义者的四次炸弹袭击破坏了伦敦公共交通系统的一部分。
+- -  2001年：在日本hyōgo阿卡西的Okura Beach举行的烟花表演结束时，当将海滩连接到JR Asagiri站的行人行人桥与JR Asagiri站相连时，有11人被杀死，有120多人受伤，并且人们在多米诺骨牌效应中掉下了赛事。
+- -  1995年：第三台台湾海峡危机：人民解放军开始向台湾以北的水域发射导弹。
+- -  1990年：台湾军事警察部队大陆中国非法移民进入密封的渔船最小ping yu第5540号，以遣返福建，导致25人死于窒息。
+- -  1983年：居住地的世界最低温度记录在南极洲的沃斯托克站（Vostok Station），以-89.2°C（-128.6°F）记录。
+- -  1979年：莫霍克族演员杰伊·西尔弗海尔斯（Jay Silverheels）成为第一个在好莱坞名人之旅中纪念明星的美国原住民。
+- -  1977年：为期四天的利比亚 - 埃及战争的开始。
+- -  1976年：英国驻爱尔兰共和国大使克里斯托弗·埃瓦特·比格斯（Christopher Ewart-Biggs）被临时IRA暗杀。
+- -  1973年：在挪威的利勒哈默尔（Lillehammer），摩萨德特工杀死了一位他们错误地认为参与1972年慕尼黑奥运会大屠杀的服务员。
+- -  1972年：麻烦：血腥的星期五：临时IRA在贝尔法斯特中部，北爱尔兰，英国爆炸了22枚炸弹，在80分钟的空间中，杀死了9人，炸伤130。
+- -  1970年：经过11年的建设，埃及的Aswan High大坝完成了。
+- -  1969年：阿波罗计划：在02：56 UTC，宇航员尼尔·阿姆斯特朗（Neil Armstrong）成为第一个在月球上行走的人，随后19分钟后，埃德温（Edwin）“嗡嗡声”·奥尔德林（Edwin“ Buzz” Aldrin）。
+- -  1964年：一系列种族暴动在新加坡爆发。在接下来的六周中，23人死亡，有454人受伤。
+- -  1961年：阿拉斯加航空公司779航班在阿拉斯加谢米亚（Shemya）的Shemya空军基地附近坠毁，杀死了六人。
+- -  1961年：水星计划：水星 - 雷德斯通4任务：Gus Grissom驾驶Liberty Bell 7成为第二个进入太空的美国人（在轨道下任务中）。
+- -  1960年：Sirimavo Bandaranaike当选为斯里兰卡总理，成为世界上第一位女性政府负责人
+- -  1959年：以利亚·杰里（Elijah Jerry）“ Pumpsie” Green成为第一位为波士顿红袜队（Boston Red Sox）效力的非裔美国人，这是最后一支融合的球队。他是维克·沃兹（Vic Wertz）的捏赛跑者，并以2-1输给了芝加哥白袜队（Chicago White Sox）。
+- -  1959年：第一艘核动力货船NS Savannah是为Dwight D. Eisenhower的“ Atoms for Peace for Peace”倡议发射的。
+- -  1954年：第一届印度支那战争：日内瓦会议将越南划分到北越北部和越南。
+- -  1952年：7.3兆瓦的克尔县地震袭击了南加州，最大的Mercalli强度为XI（极端），杀死了12人，数百人受伤。
+- -  1951年：加拿大太平洋航空公司3505航班从温哥华飞往东京时消失了。从未找到飞机及其37名乘员。
+- -  1949年：美国参议院批准了《北大西洋条约》。
+- -  1944年：第二次世界大战：克劳斯·冯·斯塔芬伯格（Claus von Stauffenberg）和四名同谋者被处决，以暗杀阿道夫·希特勒（Adolf Hitler）。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-07-20 02:09:45 UTC）*
+*（更新于: 2025-07-21 02:07:01 UTC）*
