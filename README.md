@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2018: A wildfire in East Attica kills at least 102 people. It’s the deadliest wildfire in the history of Greece.
-- 2015: NASA announces discovery of Kepler-452b by the Kepler space telescope.
-- 2014: TransAsia Airways Flight 222 crashes in Xixi village near Huxi, Penghu, during approach to Penghu Airport. Forty-eight of the 58 people on board are killed and five more people on the ground are injured.
-- 2012: The Solar storm of 2012 was an unusually large coronal mass ejection that was emitted by the Sun which barely missed the Earth by nine days. If it hit, it would have caused up to US$2.6 trillion in damages to electrical equipment worldwide.
-- 2011: A high-speed train rear-ends another on a viaduct on the Yongtaiwen railway line in Wenzhou, Zhejiang province, China, resulting in 40 deaths.
-- 2005: Three bombs explode in the Naama Bay area of Sharm El Sheikh, Egypt, killing 88 people.
-- 1999: Space Shuttle Columbia launches on STS-93, with Eileen Collins becoming the first female space shuttle commander. The shuttle also carried and deployed the Chandra X-ray Observatory.
-- 1999: ANA Flight 61 is hijacked in Tokyo, Japan by Yuji Nishizawa.
-- 1997: Digital Equipment Corporation files antitrust charges against chipmaker Intel.
-- 1995: Comet Hale-Bopp is discovered; it becomes visible to the naked eye on Earth nearly a year later.
-- 1993: China Northwest Airlines Flight 2119 crashes during takeoff from Yinchuan Xihuayuan Airport in Yinchuan, Ningxia, China, killing 55 people.
-- 1992: Abkhazia declares independence from Georgia.
-- 1992: A Vatican commission, led by Cardinal Joseph Ratzinger, establishes that limiting certain rights of homosexual people and non-married couples is not equivalent to discrimination on grounds of race or gender.
-- 1988: General Ne Win, effective ruler of Burma since 1962, resigns after pro-democracy protests.
-- 1983: Gimli Glider: Air Canada Flight 143 runs out of fuel and makes a deadstick landing at Gimli, Manitoba.
-- 1983: Thirteen Sri Lanka Army soldiers are killed after a deadly ambush by the militant Liberation Tigers of Tamil Eelam.
-- 1982: Outside Santa Clarita, California, actor Vic Morrow and two children are killed when a helicopter crashes onto them while shooting a scene from Twilight Zone: The Movie.
-- 1980: Phạm Tuân becomes the first Vietnamese citizen and the first Asian in space when he flies aboard the Soyuz 37 mission as an Intercosmos Research Cosmonaut.
-- 1974: The Greek military junta collapses, and former Prime Minister Konstantinos Karamanlis is invited to lead the new government, beginning Greece's metapolitefsi era.
-- 1972: The United States launches Landsat 1, the first Earth-resources satellite.
-- 1970: Qaboos bin Said al Said becomes Sultan of Oman after overthrowing his father, Said bin Taimur initiating massive reforms, modernization programs and end to a decade long civil war.
-- 1968: The only successful hijacking of an El Al aircraft takes place when a Boeing 707 carrying ten crew and 38 passengers is taken over by three members of the Popular Front for the Liberation of Palestine. The aircraft was en route from Rome, to Lod, Israel.
-- 1968: Glenville shootout: In Cleveland, Ohio, a violent shootout between a Black Militant organization and the Cleveland Police Department occurs. During the shootout, a riot begins and lasts for five days.
-- 1967: Detroit Riots: In Detroit, one of the worst riots in United States history begins on 12th Street in the predominantly African American inner city. It ultimately kills 43 people, injures 342 and burns about 1,400 buildings.
-- 1962: Jackie Robinson becomes the first African American to be inducted into the National Baseball Hall of Fame.
-- 1962: The International Agreement on the Neutrality of Laos is signed.
-- 1962: Telstar relays the first publicly transmitted, live trans-Atlantic television program, featuring Walter Cronkite.
-- 1961: The Sandinista National Liberation Front is founded in Nicaragua.
-- 1952: General Muhammad Naguib leads the Free Officers Movement (formed by Gamal Abdel Nasser, the real power behind the coup) in overthrowing King Farouk of Egypt.
-- 1945: The post-war legal processes against Philippe Pétain begin.
+- 2024: A Saurya Airlines Bombardier CRJ200 crashes during takeoff from Tribhuvan International Airport in Kathmandu, Nepal killing 18.
+- 2019: Boris Johnson becomes Prime Minister of the United Kingdom after defeating Jeremy Hunt in a leadership contest, succeeding Theresa May.
+- 2014: Air Algérie Flight 5017 loses contact with air traffic controllers 50 minutes after takeoff. It was travelling between Ouagadougou, Burkina Faso and Algiers. The wreckage is later found in Mali. All 116 people on board are killed.
+- 2013: Santiago de Compostela derailment: A high-speed train derails in Spain rounding a curve with an 80 km/h (50 mph) speed limit at 190 km/h (120 mph), killing 78 passengers.
+- 2012: Syrian civil war: The People's Protection Units (YPG) capture the city of Girkê Legê.
+- 2009: Aria Air Flight 1525 crashes at Mashhad International Airport, killing 16.
+- 2001: The Bandaranaike Airport attack is carried out by 14 Tamil Tiger commandos. Eleven civilian and military aircraft are destroyed and 15 are damaged. All 14 commandos are shot dead, while seven soldiers from the Sri Lanka Air Force are killed. In addition, three civilians and an engineer die. This incident slowed the Sri Lankan economy.
+- 1999: Air Fiji flight 121 crashes while en route to Nadi, Fiji, killing all 17 people on board.
+- 1998: Russell Eugene Weston Jr. bursts into the United States Capitol and opens fire killing two police officers. He is later ruled to be incompetent to stand trial.
+- 1987: Hulda Crooks, at 91 years of age, climbed Mt. Fuji. Crooks became the oldest person to climb Japan's highest peak.
+- 1987: US supertanker SS Bridgeton collides with mines laid by IRGC causing a 43-square-meter dent in the body of the oil tanker.
+- 1983: George Brett playing for the Kansas City Royals against the New York Yankees, has a game-winning home run nullified in the "Pine Tar Incident".
+- 1983: The Black July anti-Tamil riots begin in Sri Lanka, killing between 400 and 3,000. Black July is generally regarded as the beginning of the Sri Lankan Civil War.
+- 1982: Heavy rain causes a mudslide that destroys a bridge at Nagasaki, Japan, killing 299.
+- 1980: The Quietly Confident Quartet of Australia wins the men's 4 x 100 metre medley relay at the Moscow Olympics, the only time the United States has not won the event at Olympic level.
+- 1977: End of a four-day-long Libyan-Egyptian War.
+- 1974: Watergate scandal: The United States Supreme Court unanimously ruled that President Richard Nixon did not have the authority to withhold subpoenaed White House tapes and they order him to surrender the tapes to the Watergate special prosecutor.
+- 1969: Apollo program: Apollo 11 splashes down safely in the Pacific Ocean.
+- 1967: During an official state visit to Canada, French President Charles de Gaulle declares to a crowd of over 100,000 in Montreal: Vive le Québec libre! ("Long live free Quebec!"); the statement angered the Canadian government and many Anglophone Canadians.
+- 1966: Michael Pelkey makes the first BASE jump from El Capitan along with Brian Schubert. Both came out with broken bones. BASE jumping has now been banned from El Cap.
+- 1963: The ship Bluenose II was launched in Lunenburg, Nova Scotia. The schooner is a major Canadian symbol.
+- 1959: At the opening of the American National Exhibition in Moscow, U.S. Vice President Richard Nixon and Soviet Premier Nikita Khrushchev have a "Kitchen Debate".
+- 1950: Cape Canaveral Air Force Station begins operations with the launch of a Bumper rocket.
+- 1943: World War II: Operation Gomorrah begins: British and Canadian aeroplanes bomb Hamburg by night, and American planes bomb the city by day. By the end of the operation in November, 9,000 tons of explosives will have killed more than 30,000 people and destroyed 280,000 buildings.
+- 1935: The Dust Bowl heat wave reaches its peak, sending temperatures to 109 °F (43 °C) in Chicago and 104 °F (40 °C) in Milwaukee.
+- 1929: The Kellogg-Briand Pact, renouncing war as an instrument of foreign policy, goes into effect (it is first signed in Paris on August 27, 1928, by most leading world powers).
+- 1927: The Menin Gate war memorial is unveiled at Ypres.
+- 1924: Themistoklis Sofoulis becomes Prime Minister of Greece.
+- 1923: The Treaty of Lausanne, settling the boundaries of modern Turkey, is signed in Switzerland by Greece, Bulgaria and other countries that fought in World War I.
+- 1922: The draft of the British Mandate of Palestine was formally confirmed by the Council of the League of Nations; it came into effect on 26 September 1923.
 
 Data from muffinlabs
-*(Updated at: 2025-07-23 02:02:22 UTC)*
+*(Updated at: 2025-07-24 02:01:22 UTC)*
 
 # 历史上的今天 
 
-- -  2018年：东阿提卡（East Attica）的野火至少杀死102人。这是希腊历史上最致命的野火。
-- -  2015年：NASA宣布Kepler Space望远镜发现Kepler-452B。
-- -  2014年：在前往彭古机场的途中，彭吉附近Xixi村的Transasia Airways 222撞车。船上58人中有48人被杀，地面上有5人受伤。
-- -  2012年：2012年的太阳风暴是一场异常大的冠状质量喷射，太阳散发出来，几乎没有错过9天的地球。如果打击，它将造成全球电气设备的2.6万亿美元损失。
-- -  2011年：一辆高速火车在中国省省省温州的Yongtaiwen铁路线上的高架桥上进行了另一端，导致40人死亡。
-- -  2005年：三枚炸弹在埃及的沙姆·埃尔·谢赫（Sharm El Sheikh）的纳马湾地区爆炸，炸死88人。
-- -  1999年：航天飞机哥伦比亚在STS-93上推出，艾琳·柯林斯（Eileen Collins）成为第一位女性航天飞机指挥官。班车还携带并部署了钱德拉X射线天文台。
-- -  1999年：ANA 61航班在日本东京被Yuji Nishizawa劫持。
-- -  1997年：数字设备公司对芯片制造商Intel提出反托拉斯的费用。
-- -  1995年：发现了黑尔 - 波普彗星；将近一年后，它在地球上的肉眼变得可见。
-- -  1993年：中国西北航空公司2119航班在中国宁克万的Yinchuan Xihuayuan机场起飞期间坠毁，造成55人丧生。
-- -  1992年：阿布哈兹（Abhazia）宣布从佐治亚州独立。
-- -  1992年：由红衣主教约瑟夫·拉辛格（Joseph Ratzinger）领导的梵蒂冈委员会确定，限制同性恋者和非婚夫夫妇的某些权利并不等于基于种族或性别的歧视。
-- -  1988年：自1962年以来，缅甸有效统治者NE Win将军在亲民主抗议活动后辞职。
-- -  1983年：Gimli Glider：加拿大航空143号航空公司的燃料耗尽，并在曼尼托巴省的Gimli降落了降落。
-- -  1983年：泰米尔·埃拉姆（Tamil Eelam）的激进解放老虎在致命的伏击中杀害了13名斯里兰卡军士兵。
-- -  1982年：在加利福尼亚州圣克拉丽塔之外，演员维克·莫罗（Vic Morrow）和两个直升机从暮光区拍摄场景时撞到他们时被杀。
-- -  1980年：phạmtuân成为第一个越南公民，也是太空中的第一个亚洲人，当时他乘坐Soyuz 37任务作为Intercosmos研究Cosmonaut。
-- -  1974年：希腊军政府崩溃，前总理康斯坦丁斯·卡拉曼利斯（Konstantinos Karamanlis）被邀请领导新政府，开始了希腊的Metapolitefsi时代。
-- -  1972年：美国推出了Landsat 1，这是第一批地球资源卫星。
-- -  1970年：Qaboos bin说，艾尔说，在推翻父亲之后，艾尔说成为阿曼的苏丹。
-- -  1968年：唯一成功劫持了一架El Al飞机，这是一架波音707名载有10名船员和38名乘客的飞机，由三名受欢迎的阵线成员接管了巴勒斯坦的解放。飞机是从罗马到以色列洛德的途中的。
-- -  1968年：格伦维尔枪战：在俄亥俄州的克利夫兰，一个黑人武装组织与克利夫兰警察局之间的暴力枪战发生。在枪战期间，骚乱开始并持续五天。
-- -  1967年：底特律骚乱：在底特律，美国历史上最糟糕的骚乱之一始于非裔美国人内城的第12街。它最终杀死了43人，受伤342人，烧毁了约1,400座建筑物。
-- -  1962年：杰基·罗宾逊（Jackie Robinson）成为第一个入选全国棒球名人堂的非洲裔美国人。
-- -  1962年：签署了关于老挝中立的国际协议。
-- -  1962年：Telstar传递了第一个公开传播的现场跨大西洋电视节目，其中包括Walter Cronkite。
-- -  1961年：桑迪斯塔民族解放阵线建立在尼加拉瓜。
-- -  1952年：穆罕默德·纳吉布将军领导着自由官员运动（由Gamal Abdel Nasser，政变背后的真正力量组成），推翻了埃及的Farouk国王Farouk。
-- -  1945年：战后针对菲利普·佩坦（PhilippePétain）的法律程序开始。
+- -  2024年：萨里亚航空公司庞巴迪CRJ200在从尼泊尔加德满都的特里布万国际机场起飞时坠毁，杀害18。
+- -  2019年：鲍里斯·约翰逊（Boris Johnson）在领导竞赛中击败杰里米·亨特（Jeremy Hunt）后成为英国总理，接替特蕾莎·梅（Theresa May）。
+- -  2014年：起飞后50分钟，AirAlgérie航班5017失去与空中交通管制员的联系。它在瓦加杜古，布基纳法索和阿尔及尔之间旅行。残骸后来在马里发现。船上的所有116人都被杀。
+- -  2013年：圣地亚哥costela脱轨：在西班牙，高速火车出轨，在190 km/h（120 mph）时以80 km/h（50 mph）的速度极限（50 mph）速度限制，杀死78名乘客。
+- -  2012年：叙利亚内战：人民保护单位（YPG）占领了吉尔克·莱格市（GirkêLegê）。
+- -  2009年：Aria Air Flight 1525在Mashhad国际机场坠毁，造成16起。
+- -  2001年：Bandaranaike机场袭击是由14个泰米尔虎突击队进行的。十架平民和军用飞机被摧毁，15架被损坏。所有14个突击队都被枪杀，而来自斯里兰卡空军的7名士兵被杀。此外，三名平民和一名工程师死亡。这一事件减慢了斯里兰卡的经济。
+- -  1999年：斐济航空121号航班在前往斐济纳迪（Nadi）的途中撞车，杀死了船上的所有17人。
+- -  1998年：小罗素·尤金·韦斯顿（Russell Eugene Weston Jr.后来，他被裁定无能接受审判。
+- -  1987年：赫尔达·克鲁克斯（Hulda Crooks），91岁，攀登了富士山。骗子成为攀登日本最高峰的最古老的人。
+- -  1987年：美国超级储备员SS Bridgeton与IRGC铺设的矿山相撞，在油轮的体内造成43平方米的凹痕。
+- -  1983年：乔治·布雷特（George Brett）效力于堪萨斯城皇家队（Kansas City Royals）对阵纽约洋基队（New York Yankees），在“ Pine Tar事件”中赢得了胜利的本垒打。
+- -  1983年：黑色7月反塔米尔暴动始于斯里兰卡，杀死了400至3,000。布莱克七月通常被视为斯里兰卡内战的开始。
+- -  1982年：大雨导致泥石流在日本长崎摧毁了一座桥，杀死了299。
+- -  1980年：澳大利亚悄悄自信的四重奏在莫斯科奥运会上赢得了男子4 x 100米混合接力赛，这是美国唯一没有在奥运会上赢得该赛事的时间。
+- -  1977年：为期四天的利比亚 - 埃及战争结束。
+- -  1974年：水门丑闻：美国最高法院一致裁定，理查德·尼克松（Richard Nixon）总统无权扣留传票给白宫录音带，他们命令他将录音带交给水门特殊检察官。
+- -  1969年：阿波罗计划：阿波罗11号在太平洋中安全地溅落。
+- -  1967年：在对加拿大进行正式访问期间，法国总统查尔斯·戴高勒（Charles de Gaulle）在蒙特利尔宣布超过100,000人：Vive leQuébecLibre！（“魁北克免费现场直播！”）；该声明激怒了加拿大政府和许多英语加拿大人。
+- -  1966年：迈克尔·佩尔基（Michael Pelkey）与布莱恩·舒伯特（Brian Schubert）一起从El Capitan脱颖而出。两者都骨折了。现在，基地跳跃已被El Cap禁止。
+- -  1963年：Bluenose II船是在新斯科舍省Lunenburg发射的。大篷车是加拿大的主要符号。
+- -  1959年：在莫斯科举行的美国国家展览会上，美国副总统理查德·尼克松（Richard Nixon）和苏联总理尼基塔·赫鲁晓夫（Nikita Khrushchev）进行了“厨房辩论”。
+- -  1950年：Cape Canaveral Air Force Station通过发射保险杠开始运营。
+- -  1943年：第二次世界大战：Gomorrah行动开始：英国和加拿大飞机炸弹汉堡到夜间，美国飞机白天轰炸了这座城市。到11月的行动结束时，有9,000吨炸药将杀死30,000多人，并摧毁了280,000座建筑物。
+- -  1935年：除尘碗热浪达到峰值，在芝加哥将温度降低到109°F（43°C），密尔沃基的104°F（40°C）。
+- -  1929年：凯洛格·布里安德（Kellogg-Briand）的契约是一项外交政策工具，生效（最早于1928年8月27日在巴黎签署，由大多数领先的世界大国签署）。
+- -  1927年：Menin Gate War Memorial在Ypres揭幕。
+- -  1924年：Themistoklis Sofoulis成为希腊总理。
+- -  1923年：洛桑条约定居于现代土耳其的边界，由希腊，保加利亚和其他在第一次世界大战中作战的国家在瑞士签署。
+- -  1922年：国际联盟理事会正式确认了英国授权的巴勒斯坦授权草案；它于1923年9月26日生效。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-07-23 02:02:22 UTC）*
+*（更新于: 2025-07-24 02:01:22 UTC）*
