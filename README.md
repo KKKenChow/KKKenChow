@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Catastrophic floods devastate Eastern Kentucky, resulting in 45 fatalities and causing damage to thousands of homes and businesses.
-- 2018: Australian Wendy Tuck becomes the first female skipper to win the Clipper Round the World Yacht Race.
-- 2017: Prime Minister of Pakistan, Nawaz Sharif was disqualified from office for life by Supreme Court of Pakistan after finding him guilty of corruption charges.
-- 2011: While flying from Seoul, South Korea to Shanghai, China, Asiana Airlines Flight 991 develops an in-flight fire in the cargo hold. The Boeing 747-400F freighter attempts to divert to Jeju International Airport, but crashes into the sea South-West of Jeju island, killing both crew members on board.
-- 2010: Airblue Flight 202 crashes into the Margalla Hills north of Islamabad, Pakistan, killing all 152 people aboard. It is the deadliest aviation accident in Pakistan history and the first involving an Airbus A321.
-- 2005: The Provisional Irish Republican Army calls an end to its thirty-year-long armed campaign against British rule in Northern Ireland.
-- 2002: Pulkovo Aviation Enterprise Flight 9560 crashes after takeoff from Sheremetyevo International Airport in Moscow, Russia, killing 14 of the 16 people on board.
-- 2002: Nine coal miners trapped in the flooded Quecreek Mine in Somerset County, Pennsylvania, are rescued after 77 hours underground.
-- 2001: Australian Ian Thorpe becomes the first swimmer to win six gold medals at a single World Championship meeting.
-- 1996: The remains of a prehistoric man are discovered near Kennewick, Washington. Such remains will be known as the Kennewick Man.
-- 1984: Olympic Games: Games of the XXIII Olympiad: The summer Olympics were opened in Los Angeles.
-- 1976: The Tangshan earthquake measuring between 7.8 and 8.2 moment magnitude flattens Tangshan in the People's Republic of China, killing 242,769 and injuring 164,851.
-- 1974: Spetsgruppa A, Russia's elite special force, was formed.
-- 1973: Summer Jam at Watkins Glen: Nearly 600,000 people attend a rock festival at the Watkins Glen International Raceway.
-- 1965: Vietnam War: U.S. President Lyndon B. Johnson announces his order to increase the number of United States troops in South Vietnam from 75,000 to 125,000.
-- 1962: Beginning of the 8th World Festival of Youth and Students
-- 1960: The German Volkswagen Act comes into force.
-- 1957: Heavy rain and a mudslide in Isahaya, western Kyushu, Japan, kills 992.
-- 1945: A U.S. Army B-25 bomber crashes into the 79th floor of the Empire State Building killing 14 and injuring 26.
-- 1943: World War II: Operation Gomorrah: The Royal Air Force bombs Hamburg, Germany causing a firestorm that kills 42,000 German civilians.
-- 1942: World War II: Soviet leader Joseph Stalin issues Order No. 227. In response to alarming German advances, all those who retreat or otherwise leave their positions without orders to do so are to be tried in a military court, with punishment ranging from duty in a shtrafbat battalion, imprisonment in a Gulag, or execution.
-- 1939: The Sutton Hoo helmet is discovered.
-- 1938: Hawaii Clipper disappears between Guam and Manila as the first loss of an airliner in trans-Pacific China Clipper service.
-- 1935: First flight of the Boeing B-17 Flying Fortress.
-- 1932: U.S. President Herbert Hoover orders the United States Army to forcibly evict the "Bonus Army" of World War I veterans gathered in Washington, D.C.
-- 1917: The Silent Parade takes place in New York City, in protest against murders, lynchings, and other violence directed towards African Americans.
-- 1915: The United States begins a 19-year occupation of Haiti.
-- 1914: In the culmination of the July Crisis, Austria-Hungary declares war on Serbia, igniting World War I.
-- 1911: The Australasian Antarctic Expedition began as the SY Aurora departed London.
-- 1896: The city of Miami is incorporated.
+- 2024: 3 children are stabbed to death and 10 other people injured at a dance studio in Southport, England. This incident, coupled with widespread online misinformation, leads to various racially-motivated riots across the UK.
+- 2021: The International Space Station temporarily spins out of control, moving the ISS 45 degrees out of attitude, following an engine malfunction of Russian module Nauka.
+- 2019: The 2019 Altamira prison riot between rival Brazilian drug gangs leaves 62 dead.
+- 2015: The first piece of suspected debris from Malaysia Airlines Flight 370 is discovered on Réunion Island.
+- 2013: Two passenger trains collide in the Swiss municipality of Granges-près-Marnand near Lausanne injuring 25 people.
+- 2010: An overloaded passenger ferry capsizes on the Kasai River in Bandundu Province, Democratic Republic of the Congo, resulting in at least 80 deaths.
+- 2005: Astronomers announce their discovery of the dwarf planet Eris.
+- 1996: The child protection portion of the Communications Decency Act is struck down by a U.S. federal court as too broad.
+- 1993: The Supreme Court of Israel acquits alleged Nazi death camp guard John Demjanjuk of all charges and he is set free.
+- 1987: Prime Minister of India Rajiv Gandhi and President of Sri Lanka J. R. Jayewardene sign the Indo-Sri Lanka Accord on ethnic issues.
+- 1987: British Prime Minister Margaret Thatcher and President of France François Mitterrand sign the agreement to build a tunnel under the English Channel (Channel Tunnel).
+- 1985: Space Shuttle Challenger launches on STS-51-F. The shuttle ends up in a lower orbit then planned due to an engine failure during ascent.
+- 1981: After impeachment on June 21, Abolhassan Banisadr flees with Massoud Rajavi to Paris, in an Iranian Air Force Boeing 707, piloted by Colonel Behzad Moezzi, to form the National Council of Resistance of Iran.
+- 1981: A worldwide television audience of around 750 million people watch the wedding of Charles, Prince of Wales, and Lady Diana Spencer at St Paul's Cathedral in London.
+- 1980: Iran adopts a new "holy" flag after the Islamic Revolution.
+- 1976: In New York City, David Berkowitz (a.k.a. the "Son of Sam") kills one person and seriously wounds another in the first of a series of attacks.
+- 1973: Driver Roger Williamson is killed during the Dutch Grand Prix, after a suspected tire failure causes his car to pitch into the barriers at high speed.
+- 1973: Greeks vote to abolish the monarchy, beginning the first period of the Metapolitefsi.
+- 1972: Two Avianca Douglas DC-3 airliners collide over Colombia, killing 38.
+- 1967: During the fourth day of celebrating its 400th anniversary, the city of Caracas, Venezuela is shaken by an earthquake, leaving approximately 500 dead.
+- 1967: Vietnam War: Off the coast of North Vietnam the USS Forrestal catches on fire in the worst U.S. naval disaster since World War II, killing 134.
+- 1965: Vietnam War: The first 4,000 101st Airborne Division paratroopers arrive in Vietnam, landing at Cam Ranh Bay.
+- 1959: First United States Congress elections in Hawaii as a state of the Union.
+- 1958: U.S. President Dwight D. Eisenhower signs into law the National Aeronautics and Space Act, which creates the National Aeronautics and Space Administration (NASA).
+- 1957: Tonight Starring Jack Paar premieres on NBC with Jack Paar beginning the modern day talk show.
+- 1957: The International Atomic Energy Agency is established.
+- 1950: Korean War: After four days, the No Gun Ri Massacre ends when the US Army 7th Cavalry Regiment is withdrawn.
+- 1948: Olympic Games: The Games of the XIV Olympiad: After a hiatus of 12 years caused by World War II, the first Summer Olympics to be held since the 1936 Summer Olympics in Berlin, open in London.
+- 1945: The BBC Light Programme radio station is launched for mainstream light entertainment and music.
+- 1937: Tongzhou mutiny: In Tongzhou, China, the East Hebei Army attacks Japanese troops and civilians.
 
 Data from muffinlabs
-*(Updated at: 2025-07-28 02:08:01 UTC)*
+*(Updated at: 2025-07-29 02:19:23 UTC)*
 
 # 历史上的今天 
 
-- -2022：灾难性洪水破坏了肯塔基州东部，造成45人死亡，并损害了成千上万的房屋和企业。
-- -  2018年：澳大利亚人温迪·塔克（Australian Wendy Tuck）成为第一位赢得世界游艇比赛快船队的女队。
-- -  2017年：巴基斯坦总理纳瓦兹·谢里夫（Nawaz Sharif）被巴基斯坦最高法院取消了终身任务的资格。
-- -  2011年：从韩国首尔飞往中国上海时，亚洲航空公司991航班在货运中造成了飞行中的火灾。波音747-400F货轮试图转移到济州国际机场，但撞向济州岛西南部的海洋，杀死了船上的两名船员。
-- -  2010年：Airblue 202航班撞上了巴基斯坦伊斯兰堡以北的玛格拉山，杀死了所有152人。这是巴基斯坦历史上最致命的航空事故，也是第一次涉及空中客车A321的事故。
-- -  2005年：临时爱尔兰共和党军队呼吁结束其为期三十年的武装运动，反对北爱尔兰的英国统治。
-- -  2002年：从俄罗斯莫斯科的Sheremetyevo国际机场起飞后，Pulkovo Aviation Enterprise企业9560航班坠毁，造成16人中的14人丧生。
-- -  2002年：在宾夕法尼亚州萨默塞特郡被洪水淹没的Quecreek矿中，有9名煤矿工人在地下77小时后被救出。
-- -  2001年：澳大利亚人伊恩·索普（Ian Thorpe）成为第一位在一次世界锦标赛会议上赢得六枚金牌的游泳者。
-- -  1996年：在华盛顿肯纳威克附近发现了一个史前人的遗体。这样的遗体将被称为肯纳威克人。
-- -  1984年：奥林匹克运动会：XXIII奥林匹克运动会的游戏：夏季奥运会在洛杉矶开业。
-- -  1976年：丹山（Tangshan）地震在7.8至8.2矩量之间的尺寸在中华人民共和国触及汤山（Tangshan），造成242,769人丧生，164,851人受伤。
-- -  1974年：俄罗斯精英特殊部队Spetsgruppa A。
-- -  1973年：沃特金斯·格伦（Watkins Glen）的夏季果酱：将近60万人参加了沃特金斯格伦国际赛道的摇滚音乐节。
-- -  1965年：越南战争：美国总统林登·约翰逊（Lyndon B. Johnson）宣布命令将南越南部部队的数量从75,000增加到125,000。
-- -  1962年：第八届青年和学生节的开始
-- -  1960年：德国大众法案生效。
-- -  1957年：日本西部西部的伊萨亚亚的大雨和泥石流杀死992。
-- -  1945年：一名美国陆军B-25轰炸机坠毁进入帝国大厦79楼，杀死14人，受伤26。
-- -  1943年：第二次世界大战：戈莫拉行动：皇家空军炸弹炸弹，德国汉堡造成杀死42,000名德国平民的大火。
-- -  1942年：第二次世界大战：苏联领导人约瑟夫·斯大林（Joseph Stalin）发出了第227号命令。为了回应令人震惊的德国进步，所有撤退或以其他方式离开自己的职位的人都将在军事法庭上进行审判，并在shtrafbat Battalion营的职责中受到惩罚。
-- -  1939年：发现了萨顿河头盔。
-- -  1938年：夏威夷快船在关岛和马尼拉之间消失了，这是跨太平洋中国快船服务公司第一次失去一架客机。
-- -  1935年：波音B-17飞行堡垒的首次飞行。
-- -  1932年：美国总统赫伯特·胡佛（Herbert Hoover）命令美国陆军强行驱逐一场第一次世界大战的“奖金军”，聚集在华盛顿特区。
-- -  1917年：沉默的游行在纽约市举行，以抗议谋杀，私刑和其他针对非裔美国人的暴力。
-- -  1915年：美国开始对海地进行19年的占领。
-- -  1914年：在七月危机的高潮中，奥地利 - 匈牙利宣布对塞尔维亚战争，点燃了第一次世界大战。
-- -  1911年：澳大利亚南极探险队始于SY Aurora离开伦敦。
-- -  1896年：迈阿密市已成立。
+- -2024：3名儿童被刺死，其他10人在英格兰绍斯波特的一个舞蹈室受伤。这一事件加上广泛的在线错误信息，导致整个英国各种种族动机的暴动。
+- -2021：国际空间站暂时失控，在俄罗斯模块Nauka的发动机故障之后，将ISS 45度移出态度。
+- -  2019年：2019年竞争对手巴西毒品团伙之间的阿尔塔米拉监狱暴动造成62人死亡。
+- -  2015年：在Réunion岛发现了马来西亚航空370航班的第一块可疑碎片。
+- -  2013年：两辆客运火车在洛桑附近的瑞士市瑞士城市碰撞，洛桑附近的25人受伤。
+- -  2010年：刚果民主共和国的班杜省的Kasai河上倾覆的乘客渡轮超载，至少造成80人死亡。
+- -  2005年：天文学家宣布发现矮星埃里斯。
+- -  1996年：《通信典型法案》的儿童保护部分被美国联邦法院驳回了太广泛。
+- -  1993年：以色列最高法院宣称纳粹死亡营的后卫约翰·丹朱克（John Demjanjuk）所有指控，他被释放。
+- -  1987年：印度总理拉吉夫·甘地（Rajiv Gandhi）和斯里兰卡（Sri Lanka J. R.
+- -  1987年：英国首相玛格丽特·撒切尔（Margaret Thatcher）和法国弗朗索瓦·米特拉德（FrançoisMitterrand）的总统签署了在英国频道（Channel Dunnel）下建造隧道的协议。
+- -  1985年：航天飞机挑战者在STS-51-F上推出。由于发动机上升期间的发动机故障，航天飞机最终置于较低的轨道上。
+- -  1981年：在6月21日弹each之后，阿伯哈桑·班尼萨德（Abolhassan Banisadr）与马苏德·拉贾维（Massoud Rajavi）逃往巴黎，在伊朗空军波音707中，由贝扎德·莫伊兹（Behzad Moezzi）驾驶的伊朗空军707，成立了伊朗抵抗运动。
+- -  1981年：大约有7.5亿人的全球电视观众观看了伦敦的圣保罗大教堂的查尔斯，威尔士亲王和戴安娜·斯宾塞夫人的婚礼。
+- -  1980年：伊朗在伊斯兰革命之后采用了新的“神圣”旗帜。
+- -  1976年：在纽约市，戴维·伯科维茨（David Berkowitz）（又名“山姆之子”）在一系列袭击中杀死了一个人，并严重伤口另一个人。
+- -  1973年：驾驶员罗杰·威廉姆森（Roger Williamson）在荷兰大奖赛中被杀害，此前怀疑轮胎故障使他的汽车高速驶入障碍物。
+- -  1973年：希腊人投票决定废除君主制，开始了Metapolitefsi的第一阶段。
+- -  1972年：两架Avianca Douglas DC-3客机在哥伦比亚碰撞，杀死了38。
+- -  1967年：在庆祝成立400周年的第四天，委内瑞拉加拉加斯市被地震动摇，大约有500人死亡。
+- -  1967年：越南战争：在北越海岸的福雷斯塔尔航空公司在第二次世界大战以来最严重的美国海军灾难中着火，造成134人丧生。
+- -  1965年：越南战争：第4,000座空降派伞兵到达越南，降落在Cam Ranh Bay。
+- -  1959年：在夏威夷举行的第一美国国会选举是联盟的状态。
+- -  1958年：美国总统德怀特·D·艾森豪威尔（D.
+- -  1957年：由杰克·帕尔（Jack Paar）主演的今晚在NBC上首映，杰克·帕尔（Jack Paar）开始了现代脱口秀节目。
+- -  1957年：建立了国际原子能局。
+- -  1950年：朝鲜战争：四天后，当美国陆军第七骑兵团被撤回时，无枪RI大屠杀结束了。
+- -  1948年：奥林匹克运动会：XIV奥林匹克运动会的奥运会：在第二次世界大战造成的12年休假之后，这是自1936年夏季奥运会在柏林举行的第一次夏季奥运会，于是在伦敦开放。
+- -  1945年：BBC Light Program电台是为主流娱乐和音乐推出的。
+- -  1937年：汤佐·叛军：在中国汤茂，东赫比军队袭击日本军队和平民。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-07-28 02:08:01 UTC）*
+*（更新于: 2025-07-29 02:19:23 UTC）*
