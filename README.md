@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2014: At least 146 people were killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.
-- 2005: Air France Flight 358 lands at Toronto Pearson International Airport and runs off the runway, causing the plane to burst into flames, leaving 12 injuries and no fatalities.
-- 1999: The Gaisal train disaster claims 285 lives in Assam, India.
-- 1991:  Space Shuttle Atlantis is launched on STS-43 to deploy the TDRS-5 satellite.
-- 1990: Iraq invades Kuwait, eventually leading to the Gulf War.
-- 1989: A massacre is carried out by an Indian Peace Keeping Force in Sri Lanka killing 64 ethnic Tamil civilians.
-- 1989: Pakistan is re-admitted to the Commonwealth of Nations after having restored democracy for the first time since 1972.
-- 1985: Delta Air Lines Flight 191, a Lockheed L-1011 TriStar, crashes at Dallas/Fort Worth International Airport killing 137.
-- 1982: The Helsinki Metro, the first rapid transit system of Finland, is opened to the general public.
-- 1980: A bomb explodes at the railway station in Bologna, Italy, killing 85 people and wounding more than 200.
-- 1973: A flash fire kills 50 people at the Summerland amusement centre at Douglas, Isle of Man.
-- 1968: An earthquake hits Casiguran, Aurora, Philippines killing more than 270 people and wounding 261.
-- 1947: A British South American Airways Avro Lancastrian airliner crashes into a mountain during a flight from Buenos Aires, Argentina to Santiago, Chile. The wreckage would not be found until 1998.
-- 1945: World War II: End of the Potsdam Conference.
-- 1944: World War II: The largest trade convoy of the world wars arrives safely in the Western Approaches.
-- 1944: ASNOM: Birth of the Socialist Republic of Macedonia, celebrated as Day of the Republic in North Macedonia.
-- 1943: World War II: The Motor Torpedo Boat PT-109 is rammed by the Japanese destroyer Amagiri and sinks. Lt. John F. Kennedy, future U.S. president, saves all but two of his crew.
-- 1943: The Holocaust: Jewish prisoners stage a revolt at Treblinka, one of the deadliest of Nazi death camps where approximately 900,000 persons were murdered in less than 18 months.
-- 1939: Albert Einstein and Leo Szilard write a letter to Franklin D. Roosevelt, urging him to begin the Manhattan Project to develop a nuclear weapon.
-- 1937: The Marihuana Tax Act of 1937 is passed in America, the effect of which is to render marijuana and all its by-products illegal.
-- 1934: Reichskanzler Adolf Hitler becomes Führer of Germany following the death of President Paul von Hindenburg.
-- 1932: The positron (antiparticle of the electron) is discovered by Carl D. Anderson.
-- 1923: Vice President Calvin Coolidge becomes U.S. President upon the death of President Warren G. Harding.
-- 1922: A typhoon hits Shantou, Republic of China, killing more than 50,000 people.
-- 1918: The first general strike in Canadian history takes place in Vancouver.
-- 1916: World War I: Austrian sabotage causes the sinking of the Italian battleship Leonardo da Vinci in Taranto.
-- 1914: The German occupation of Luxembourg during World War I begins.
-- 1903: The Ilinden-Preobrazhenie Uprising against the Ottoman Empire begins.
-- 1897: Anglo-Afghan War: The Siege of Malakand ends when a relief column is able to reach the British garrison in the Malakand states.
-- 1873: The Clay Street Hill Railroad begins operating the first cable car in San Francisco's famous cable car system.
+- 2023: Worst floods hit major parts of Slovenia.
+- 2019: Twenty-three people are killed and 22 injured in a mass shooting in El Paso, Texas.
+- 2019: Six hundred protesters, including opposition leader Lyubov Sobol, are arrested in an election protest in Moscow, Russia.
+- 2018: Two burka-clad men kill 29 people and injure more than 80 in a suicide attack on a Shia mosque in eastern Afghanistan.
+- 2014: The genocide of Yazidis by ISIL begins.
+- 2014: A 6.1 magnitude earthquake kills at least 617 people and injures more than 2,400 in Yunnan, China.
+- 2010: Widespread rioting erupts in Karachi, Pakistan, after the assassination of a local politician, leaving at least 85 dead and at least 17 billion Pakistani rupees (US$200 million) in damage.
+- 2007: Former deputy director of the Chilean secret police Raúl Iturriaga is captured after having been on the run following a conviction for kidnapping.
+- 2005: President of Mauritania Maaouya Ould Sid'Ahmed Taya is overthrown in a military coup while attending the funeral of King Fahd in Saudi Arabia.
+- 2004: The pedestal of the Statue of Liberty reopens after being closed since the September 11 attacks.
+- 1997: The tallest free-standing structure in the Southern Hemisphere, Sky Tower in downtown Auckland, New Zealand, opens after two-and-a-half years of construction.
+- 1997: Oued El-Had and Mezouara massacre in Algeria: A total of 116 villagers killed, 40 in Oued El-Had and 76 in Mezouara.
+- 1981: Senegalese opposition parties, under the leadership of Mamadou Dia, launch the Antiimperialist Action Front - Suxxali Reew Mi.
+- 1977: Tandy Corporation announces the TRS-80, one of the world's first mass-produced personal computers.
+- 1975: A privately chartered Boeing 707 strikes a mountain peak and crashes near Agadir, Morocco, killing 188.
+- 1972: The United States Senate ratifies the Anti-Ballistic Missile Treaty.
+- 1960: Niger gains independence from France.
+- 1959: Portugal's state police force PIDE fires upon striking workers in Bissau, Portuguese Guinea, killing over 50 people.
+- 1958: The world's first nuclear submarine, the USS Nautilus, becomes the first vessel to complete a submerged transit of the geographical North Pole.
+- 1949: The Basketball Association of America and the National Basketball League finalize the merger that would create the National Basketball Association.
+- 1948: Whittaker Chambers accuses Alger Hiss of being a communist and a spy for the Soviet Union.
+- 1946: Santa Claus Land, the world's first themed amusement park, opens in Santa Claus, Indiana, United States.
+- 1940: World War II: Italian forces begin the invasion of British Somaliland.
+- 1936: A fire wipes out Kursha-2 in the Meshchera Lowlands, Ryazan Oblast, Russia, killing 1,200 and leaving only 20 survivors.
+- 1936: Jesse Owens wins the 100 metre dash, defeating Ralph Metcalfe, at the Berlin Olympics.
+- 1921: Major League Baseball Commissioner Kenesaw Mountain Landis confirms the ban of the eight Chicago Black Sox, the day after they were acquitted by a Chicago court.
+- 1914: World War I: Germany declares war against France, while Romania declares its neutrality.
+- 1907: Judge Kenesaw Mountain Landis fines Standard Oil of Indiana a record $29.4 million for illegal rebating to freight carriers; the conviction and fine are later reversed on appeal.
+- 1903: Macedonian rebels in Kruševo proclaim the Kruševo Republic, which exists for only ten days before Ottoman Turks lay waste to the town.
+- 1900: The Firestone Tire and Rubber Company is founded.
 
 Data from muffinlabs
-*(Updated at: 2025-08-02 01:57:58 UTC)*
+*(Updated at: 2025-08-03 02:12:26 UTC)*
 
 # 历史上的今天 
 
-- -  2014年：在中国江苏的昆山的一次工厂爆炸中，至少有146人丧生，有114人受伤。
-- -  2005年：法国航空公司358架在多伦多皮尔逊国际机场的土地，逃离跑道，导致飞机爆炸起来，炸毁了12次伤害，没有死亡。
-- -  1999年：盖萨尔火车灾难声称285居住在印度阿萨姆邦。
-- -  1991年：Atlantis航天飞机在STS-43上发射以部署TDRS-5卫星。
-- -  1990年：伊拉克入侵科威特，最终导致了海湾战争。
-- -  1989年：斯里兰卡的印度维持和平部队杀死64名泰米尔民兵。
-- -  1989年：自1972年以来首次恢复了民主之后，巴基斯坦重新加入了国家联邦。
-- -  1985年：洛克希德（Lockheed）L-1011特里斯塔尔（Tristar）的三角洲航空公司航班191号航班在达拉斯/沃思堡国际机场坠毁，杀死137。
-- -  1982年：芬兰第一个快速运输系统赫尔辛基地铁向公众开放。
-- -  1980年：一枚炸弹在意大利博洛尼亚的火车站爆炸，炸死85人，炸伤200多人。
-- -  1973年：在马恩岛道格拉斯（Douglas）的萨默兰娱乐中心（Summerland Umusement Centre）造成50人丧生。
-- -  1968年：一场地震袭击了菲律宾奥罗拉（Aurora）的Casiguran，炸死270多人，受伤261人。
-- -  1947年：英属南美航空公司Avro Lancastrian客机在从阿根廷布宜诺斯艾利斯飞往智利圣地亚哥的飞机中坠毁进入山上。直到1998年才能找到残骸。
-- -  1945年：第二次世界大战：波茨坦会议结束。
-- -  1944年：第二次世界大战：世界大战最大的贸易车队安全地以西方的方式到来。
-- -  1944年：Asnom：马其顿社会主义共和国的诞生，被庆祝为马其顿北部共和国日。
-- -  1943年：第二次世界大战：电动鱼雷船PT-109被日本驱逐舰Amagiri撞击。未来的美国总统约翰·肯尼迪中尉挽救了他的两名船员。
-- -  1943年：大屠杀：犹太囚犯在特雷布林卡（Treblinka）起义，这是纳粹死亡营地中最致命的死亡营之一，大约有90万人在不到18个月的时间内被谋杀。
-- -  1939年：阿尔伯特·爱因斯坦（Albert Einstein）和狮子座（Leo Szilard）写信给富兰克林·罗斯福（Franklin D. Roosevelt），敦促他开始曼哈顿项目开发核武器。
-- -  1937年：1937年的《大麻税法》在美国通过，其作用是使大麻及其所有副产品非法。
-- -  1934年：保罗·冯·辛登堡总统去世后，帝国帝国汉兹勒·阿道夫·希特勒成为德国的福勒。
-- -  1932年：卡尔·D·安德森（Carl D.
-- -  1923年：副总统加尔文·柯立芝（Calvin Coolidge）在沃伦·哈丁（Warren G. Harding）总统去世后成为美国总统。
-- -  1922年：一个台风袭击了中华民国的山图，炸死了50,000多人。
-- -  1918年：加拿大历史上的第一次大罢工是在温哥华举行的。
-- -  1916年：第一次世界大战：奥地利的破坏性导致意大利战舰莱昂纳多·达·芬奇（Leonardo da Vinci）在塔兰托（Taranto）下沉。
-- -  1914年：第一次世界大战期间的德国占领卢森堡。
-- -  1903年：与奥斯曼帝国的Ilinden-Preobrazhenie起义开始。
-- -  1897年：盎格鲁 - 阿富汗战争：马拉坎的围困在救济专栏能够到达马拉坎德州的英国驻军时结束。
-- -  1873年：克莱街山铁路（Clay Street Hill Railroad）开始在旧金山著名的缆车系统中操作第一辆缆车。
+- -2023：最严重的洪水袭击了斯洛文尼亚的主要部分。
+- -  2019年：在德克萨斯州埃尔帕索的一次大规模枪击事件中，有23人丧生，22人受伤。
+- -  2019年：包括反对派领导人Lyubov Sobol在内的600名抗议者在俄罗斯莫斯科的选举抗议活动中被捕。
+- -2018：两名穿着布尔卡的男子在对阿富汗东部的什叶派清真寺的自杀式袭击中炸死29人，并炸伤80多人。
+- -  2014年：伊黎伊斯兰国的种族灭绝开始。
+- -  2014年：中国云南的6.1级地震杀死至少617人，造成2,400多人伤害。
+- -  2010年：一名当地政治家被暗杀后，巴基斯坦卡拉奇爆发了广泛的骚乱，至少造成85人死亡，至少170亿巴基斯坦卢比（2亿美元）造成了损失。
+- -  2007年：智利秘密警察劳尔·伊图里亚加（RaúlIturriaga）的前副局长在被定罪绑架后被俘虏。
+- -  2005年：毛里塔尼亚·莫里亚（Mauritania Maaouya）的总统在参加沙特阿拉伯国王法赫德（King Fahd）的葬礼时，在军事政变中被推翻。
+- -  2004年：自9月11日袭击以来关闭后，自由女神像的基座重新开放。
+- -  1997年：南半球最高的独立式结构，新西兰奥克兰市中心的天塔，经过两年半的建设。
+- -  1997年：阿尔及利亚的Oued El-Had和Mezouara大屠杀：总共116名村民在Oued El-Had中丧生，40名村民在Mezouara中被杀了76名。
+- -  1981年：塞内加尔反对党在马马杜·迪亚（Mamadou Dia）的领导下，发起了反帝国主义行动阵线-Suxxali Reew Mi。
+- -  1977年：Tandy Corporation宣布TRS-80，这是世界上第一批批量生产的个人计算机之一。
+- -  1975年：私人特许波音707袭击了山峰，摩洛哥阿加迪尔附近撞车，杀死了188。
+- -  1972年：美国参议院批准了反焊接导弹条约。
+- -  1960年：尼日尔从法国获得独立。
+- -  1959年：葡萄牙州警察部队在葡萄牙几内亚比索（Bissau）的罢工工人开火，炸死50多人。
+- -  1958年：世界上第一款核潜艇nautilus号成为第一艘完成地理北极淹没过境的船只。
+- -  1949年：美国篮球协会和国家篮球联盟最终确定了将创建国家篮球协会的合并。
+- -  1948年：惠特克·钱伯斯（Whittaker Chambers）指责阿尔格（Alger Hiss）是共产党人和苏联的间谍。
+- -  1946年：圣诞老人土地是世界上第一个主题游乐园，在美国印第安纳州圣诞老人开放。
+- -  1940年：第二次世界大战：意大利军队开始入侵英国索马里兰。
+- -  1936年：一场大火在俄罗斯的瑞扎·曼（Meshchera Lowlands），瑞扎（Ryazan）的Meshchera Lowlands中擦除了Kursha-2，杀死了1,200人，只剩下20个幸存者。
+- -  1936年：杰西·欧文斯（Jesse Owens）在柏林奥运会上赢得了100米的破折号，击败了拉尔夫·梅特卡夫（Ralph Metcalfe）。
+- -  1921年：美国职业棒球大联盟专员Kenesaw Mountain Landis证实了八芝加哥黑袜队的禁令，这是芝加哥法院无罪的第二天。
+- -  1914年：第一次世界大战：德国宣布对法国的战争，而罗马尼亚宣布其中立。
+- -  1907年：肯尼索山（Kenesaw Mountain Landis）法官罚款印第安纳州的标准石油，创造了2,940万美元的非法退还货运机构；定罪和罚款后来在上诉中被扭转。
+- -  1903年：克鲁什沃（Kruševo）的马其顿叛乱分子宣布克鲁什沃共和国（KruševoRepublic），该共和国仅在奥斯曼帝国土耳其人（Othoman Turks）浪费到该镇之前就存在了十天。
+- -  1900年：凡士通轮胎和橡胶公司成立。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-08-02 01:57:58 UTC）*
+*（更新于: 2025-08-03 02:12:26 UTC）*
