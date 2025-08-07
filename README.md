@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2015: A suicide bomb attack kills at least 15 people at a mosque in the Saudi city of Abha.
-- 2012: NASA's Curiosity rover lands on the surface of Mars.
-- 2011: War in Afghanistan: A United States military helicopter is shot down, killing 30 American special forces members and a working dog, seven Afghan soldiers, and one Afghan civilian. It was the deadliest single event for the United States in the War in Afghanistan.
-- 2010: Flash floods across a large part of Jammu and Kashmir, India, damages 71 towns and kills at least 255 people.
-- 2008: A military junta led by Mohamed Ould Abdel Aziz stages a coup d'état in Mauritania, overthrowing president Sidi Ould Cheikh Abdallahi.
-- 2001: Erwadi fire incident: Twenty-eight mentally ill persons tied to a chain are burnt to death at a faith based institution at Erwadi, Tamil Nadu.
-- 1997: Korean Air Flight 801 crashed at Nimitz Hill, Guam, killing 229 of the 254 people on board.
-- 1996: NASA announces that the ALH 84001 meteorite, thought to originate from Mars, contains evidence of primitive life-forms.
-- 1991: Takako Doi, chair of the Social Democratic Party, becomes Japan's first female speaker of the House of Representatives.
-- 1991: Tim Berners-Lee releases files describing his idea for the World Wide Web. WWW makes its first appearance as a publicly available service on the Internet.
-- 1990: Gulf War: The United Nations Security Council orders a global trade embargo against Iraq in response to Iraq's invasion of Kuwait.
-- 1986: A low-pressure system that redeveloped off the New South Wales coast dumps a record 328 millimeters (13 inches) of rain in a day on Sydney, New South Wales, Australia.
-- 1965: US President Lyndon B. Johnson signs the Voting Rights Act of 1965 into law.
-- 1962: Jamaica becomes independent from the United Kingdom.
-- 1960: Cuban Revolution: Cuba nationalizes American and foreign-owned property in the nation.
-- 1958: Law of Permanent Defense of Democracy, outlawing the Communist Party of Chile and banning 26,650 persons from the electoral lists, is repealed in Chile.
-- 1956: After going bankrupt in 1955, the American broadcaster DuMont Television Network makes its final broadcast, a boxing match from St. Nicholas Arena in New York in the Boxing from St. Nicholas Arena series.
-- 1945: World War II: Hiroshima, Japan is devastated when the atomic bomb "Little Boy" is dropped by the United States B-29 Enola Gay. Around 70,000 people are killed instantly, and some tens of thousands die in subsequent years from burns and radiation poisoning.
-- 1944: The Warsaw Uprising occurs on August 1. It is brutally suppressed and all able-bodied men in Kraków are detained afterwards to prevent a similar uprising, the Kraków Uprising, that was planned but never carried out.
-- 1942: Queen Wilhelmina of the Netherlands becomes the first reigning queen to address a joint session of the United States Congress.
-- 1940: Estonia is annexed by the Soviet Union.
-- 1926: First public screening using the Vitaphone process
-- 1926: Gertrude Ederle becomes the first woman to swim across the English Channel.
-- 1917: World War I: Battle of Mărășești between the Romanian and German armies begins.
-- 1915: World War I: Battle of Sari Bair: The Allies mount a diversionary attack timed to coincide with a major Allied landing of reinforcements at Suvla Bay.
-- 1914: World War I: Serbia declares war on Germany; Austria declares war on Russia.
-- 1914: World War I: U-boat campaign: Two days after the United Kingdom had declared war on Germany over the German invasion of Belgium, ten German U-boats leave their base in Heligoland to attack Royal Navy warships in the North Sea.
-- 1901: Kiowa land in Oklahoma is opened for white settlement, effectively dissolving the contiguous reservation.
-- 1890: At Auburn Prison in New York, murderer William Kemmler becomes the first person to be executed by electric chair.
-- 1870: Franco-Prussian War: The Battle of Wörth results in a decisive German victory.
+- 2020: Air India Express Flight 1344 overshoots the runway at Calicut International Airport in the Malappuram district of Kerala, India, and crashes, killing 21 of the 190 people on board.
+- 2008: The start of the Russo-Georgian War over the territory of South Ossetia.
+- 2007: At AT&T Park, Barry Bonds hits his 756th career home run to surpass Hank Aaron's 33-year-old record.
+- 1999: The Chechnya-based Islamic International Brigade invades neighboring Dagestan.
+- 1998: Bombings at United States embassies in Dar es Salaam, Tanzania and Nairobi, Kenya kill approximately 212 people.
+- 1997: Fine Air Flight 101 crashes after takeoff from Miami International Airport, killing five people.
+- 1997: Space Shuttle Program: The Space Shuttle Discovery launches on STS-85 from the Kennedy Space Center in Cape Canaveral, Florida.
+- 1995: The Chilean government declares state of emergency in the southern half of the country in response to an event of intense, cold, wind, rain and snowfall known as the White Earthquake.
+- 1993: Ada Deer, a Menominee activist, is sworn in as the head of the Bureau of Indian Affairs.
+- 1990: First American soldiers arrive in Saudi Arabia as part of the Gulf War.
+- 1989: U.S. Congressman Mickey Leland (D-TX) and 15 others die in a plane crash in Ethiopia.
+- 1987: Cold War: Lynne Cox becomes the first person to swim from the United States to the Soviet Union, crossing the Bering Strait from Little Diomede Island in Alaska to Big Diomede in the Soviet Union.
+- 1985: Takao Doi, Mamoru Mohri and Chiaki Mukai are chosen to be Japan's first astronauts.
+- 1981: The Washington Star ceases all operations after 128 years of publication.
+- 1978: U.S. President Jimmy Carter declares a federal emergency at Love Canal due to toxic waste that had been disposed of negligently.
+- 1976: Viking program: Viking 2 enters orbit around Mars.
+- 1974: Philippe Petit performs a high wire act between the twin towers of the World Trade Center 1,368 feet (417 m) in the air.
+- 1970: California judge Harold Haley is taken hostage in his courtroom and killed during an effort to free George Jackson from police custody.
+- 1969: Richard Nixon appoints Luis R. Bruce, a Mohawk-Oglala Sioux and co-founder of the National Congress of American Indians, as the new commissioner of the Bureau of Indian Affairs.
+- 1964: Vietnam War: The U.S. Congress passes the Gulf of Tonkin Resolution giving U.S. President Lyndon B. Johnson broad war powers to deal with North Vietnamese attacks on American forces.
+- 1962: Canadian-born American pharmacologist Frances Oldham Kelsey is awarded the U.S. President's Award for Distinguished Federal Civilian Service for her refusal to authorize thalidomide.
+- 1960: Ivory Coast becomes independent from France.
+- 1959: Explorer program: Explorer 6 launches from the Atlantic Missile Range in Cape Canaveral, Florida.
+- 1947: The Bombay Municipal Corporation formally takes over the Bombay Electric Supply and Transport (BEST).
+- 1947: Thor Heyerdahl's balsa wood raft, the Kon-Tiki, smashes into the reef at Raroia in the Tuamotu Islands after a 101-day, 7,000 kilometres (4,300 mi) journey across the Pacific Ocean in an attempt to prove that pre-historic peoples could have traveled from South America.
+- 1946: The government of the Soviet Union presented a note to its Turkish counterparts which refuted the latter's sovereignty over the Turkish Straits, thus beginning the Turkish Straits crisis.
+- 1944: IBM dedicates the first program-controlled calculator, the Automatic Sequence Controlled Calculator (known best as the Harvard Mark I).
+- 1942: World War II: The Battle of Guadalcanal begins as the United States Marines initiate the first American offensive of the war with landings on Guadalcanal and Tulagi in the Solomon Islands.
+- 1933: The Kingdom of Iraq slaughters over 3,000 Assyrians in the village of Simele. This date is recognized as Martyrs Day or National Day of Mourning by the Assyrian community in memory of the Simele massacre.
+- 1930: The last confirmed lynching of black people in the Northern United States occurs in Marion, Indiana; two men, Thomas Shipp and Abram Smith, are killed.
 
 Data from muffinlabs
-*(Updated at: 2025-08-06 02:04:54 UTC)*
+*(Updated at: 2025-08-07 02:05:20 UTC)*
 
 # 历史上的今天 
 
-- -  2015年：自杀炸弹袭击在沙特市阿巴（Abha）的一座清真寺中杀死了至少15人。
-- -  2012年：NASA的好奇心漫游者降落在火星表面。
-- -  2011年：在阿富汗战争：一架美国军用直升机被击落，杀死了30名美国特种部队成员和一只工作犬，七名阿富汗士兵和一名阿富汗平民。这是美国在阿富汗战争中最致命的单一事件。
-- -  2010年：印度查mu和克什米尔大部分地区的山洪泛滥，损害了71个城镇，并杀死了至少255人。
-- -  2008年：由穆罕默德·奥尔德·阿齐兹（Mohamed Ould Abdel Aziz）领导的军政府在毛里塔尼亚举行了政变，推翻了总统西迪·奥尔·奥尔·阿卜杜拉（Cheikh Abdallahi）。
-- -  2001年：Erwadi Fire事件：与链条捆绑的28名精神病患者在泰米尔纳德邦Erwadi的信仰机构中被烧死。
-- -  1997年：韩国航空801号航班在关岛的尼米兹山坠毁，杀死了254人中的229人。
-- -  1996年：NASA宣布ALH 84001陨石（被认为是火星）包含原始生命形式的证据。
-- -  1991年：社会民主党主席高科·多伊（Takako Doi）成为日本的第一位女性发言人。
-- -  1991年：蒂姆·伯纳斯·李（Tim Berners-Lee）释放了描述他对万维网的想法的文件。www在Internet上首次出现作为公开服务。
-- -  1990年：海湾战争：联合国安理会为伊拉克入侵科威特而命令针对伊拉克的全球贸易禁运。
-- -  1986年：一种低压系统，在新南威尔士海岸重新开发，每天在澳大利亚新南威尔士州悉尼的一天中，降雨328毫米（13英寸）。
-- -  1965年：美国总统林登·约翰逊（Lyndon B. Johnson）签署了1965年的《投票权法》。
-- -  1962年：牙买加独立于英国。
-- -  1960年：古巴革命：古巴将美国和外国拥有的财产国有化。
-- -  1958年：民主永久辩护的法律，禁止智利共产党，禁止26,650人进入选举名单，以智利废除。
-- -  1956年：在1955年破产之后，美国广播公司杜蒙特电视台（Dumont Television Network）制作了最后的广播，这是一场来自纽约圣尼古拉斯体育馆（St. Nicholas Arena）的拳击比赛，该拳击由圣尼古拉斯体育馆（St. Nicholas Arena）系列拳击。
-- -  1945年：第二次世界大战：日本广岛（Hiroshima）遭受了原子弹“小男孩”的毁灭性，美国B-29 Enola Gay丢弃了。大约有70,000人立即被杀，随后几年死于烧伤和辐射中毒。
-- -  1944年：华沙起义发生在8月1日。它被残酷地压制，随后被克拉科夫的所有健全的男人被拘留，以防止类似的起义，即克拉科夫起义，但计划但从未进行过。
-- -  1942年：荷兰的皇后威廉·米纳（Queen Wilhelmina）成为第一个在美国国会联合会议上讲话的皇后。
-- -  1940年：爱沙尼亚被苏联吞并。
-- -  1926年：使用Vitaphone过程进行首次公开筛查
-- -  1926年：格特鲁德·埃德勒（Gertrude Ederle）成为第一个穿越英语频道的女人。
-- -  1917年：第一次世界大战：罗马尼亚军队和德国军队之间的玛丽尔·埃奇特战役开始。
-- -  1915年：第一次世界大战：萨里·贝尔（Sari Bair）战役：盟友进行了一次转移攻击，与苏夫拉湾（Suvla Bay）的重大增援部队相吻合。
-- -  1914年：第一次世界大战：塞尔维亚对德国宣战；奥地利向俄罗斯宣战。
-- -  1914年：第一次世界大战：U型船运动：英国宣布对德国入侵比利时战争两天后，十艘德国U型船离开了他们的基地，他们在赫利戈兰德（Heligoland）袭击了北海的皇家海军军舰。
-- -  1901年：俄克拉荷马州的基奥瓦（Kiowa）土地开放供白色定居点，有效地解散了连续的保留。
-- -  1890年：在纽约的奥本监狱，凶手威廉·凯姆勒（William Kemmler）成为第一个被电椅执行的人。
-- -  1870年：佛朗哥战争：沃思之战导致了决定性的德国胜利。
+- -  2020年：印度航空公司1344号航班在印度喀拉拉邦马拉普拉姆区的卡利卡特国际机场的跑道上超过了跑道，造成了190人中有21人。
+- -  2008年：鲁斯索 - 格鲁吉亚战争在南奥塞梯领土上的开始。
+- -  2007年：在AT＆T公园，巴里·邦德斯（Barry Bonds）击中了他的第756次职业本垒打，超过了汉克·亚伦（Hank Aaron）的33岁纪录。
+- -  1999年：总部位于车臣的伊斯兰国际旅入侵了邻近的达格斯坦。
+- -  1998年：美国大使馆在达累斯萨拉姆，坦桑尼亚和内罗毕的炸弹袭击，肯尼亚炸死约212人。
+- -  1997年：从迈阿密国际机场起飞后，罚款101航班坠毁，造成5人丧生。
+- -  1997年：航天飞机计划：航天飞机发现从佛罗里达州卡纳维拉尔开普省的肯尼迪航天中心在STS-85上推出。
+- -  1995年：智利政府宣布该国南部的紧急状态，以应对强烈，寒冷，风，降雨和降雪被称为白地震。
+- -  1993年：Menominee活动家Ada Deer宣誓就任印度事务局负责人。
+- -  1990年：作为海湾战争的一部分，美国第一士兵到达沙特阿拉伯。
+- -  1989年：美国国会议员米奇·利兰德（D-TX）和15人在埃塞俄比亚的一次飞机失事中死亡。
+- -  1987年：冷战：林恩·考克斯（Lynne Cox）成为第一个从美国游泳到苏联的人，穿越了从阿拉斯加的小迪奥梅德岛到苏联的大迪奥梅德的白令海峡。
+- -  1985年：Takao Doi，Mamoru Mohri和Chiaki Mukai被选为日本的第一批宇航员。
+- -  1981年：在出版了128年后，华盛顿之星停止了所有行动。
+- -  1978年：美国总统吉米·卡特（Jimmy Carter）宣布在洛夫运河的联邦紧急情况下，由于被疏忽处置的有毒废物。
+- -  1976年：维京计划：维京人2进入火星周围的轨道。
+- -  1974年：菲利普·佩蒂特（Philippe Petit）在空中1,368英尺（417 m）的世界贸易中心的双子塔之间进行了一项高电线。
+- -  1970年：加利福尼亚州法官哈罗德·海利（Harold Haley）在法庭上被劫为人质，并在努力使乔治·杰克逊（George Jackson）从警察拘留中丧生。
+- -  1969年：理查德·尼克松（Richard Nixon）任命莫霍克·奥格拉拉·苏（Mohawk-Oglala Sioux）和美国印第安人国民大会的联合创始人路易斯·布鲁斯（Luis R. Bruce）为印度事务局的新专员。
+- -  1964年：越南战争：美国国会通过了托金湾的决议，赋予美国总统林登·约翰逊（Lyndon B.
+- -  1962年：出生于加拿大的美国药物学家弗朗西斯·奥尔德姆·凯尔西（Frances Oldham Kelsey）因拒绝授权沙利度胺而被授予美国总统杰出联邦民用服务奖。
+- -  1960年：象牙海岸变得独立于法国。
+- -  1959年：Explorer计划：Explorer 6从佛罗里达州Cape Canaveral的大西洋导弹系列发射。
+- -  1947年：孟买市政公司正式接管了孟买电气供应和运输（最佳）。
+- -  1947年：托尔·海尔达尔（Thor Heyerdahl）的巴尔萨木筏（Kon-tiki），kon-tiki，在经过101天的7,000公里（4,300英里）的旅程之后，在Tuamotu群岛的Raroia砸碎了礁石，试图证明前史上人们可能会从南美国旅行。
+- -  1946年：苏联政府向土耳其同行提出了一份纸条，该纸条驳斥了后者对土耳其海峡的主权，因此开始了土耳其海峡危机。
+- -  1944年：IBM专用第一个程序控制的计算器，即自动序列控制的计算器（最佳称为哈佛大学i）。
+- -  1942年：第二次世界大战：瓜达尔卡纳尔战役开始时，美国海军陆战队发起了第一次美国战争的攻势，在所罗门群岛上瓜达尔卡纳尔和图拉吉的登陆。
+- -  1933年：伊拉克王国在西米尔村屠杀了3,000多名亚述人。这个日期被亚述社区被认为是烈士日或哀悼的国庆日，以纪念西米尔大屠杀。
+- -  1930年：美国北部的黑人最后确认私刑发生在印第安纳州的马里恩；两名男子托马斯·希普（Thomas Shipp）和艾布拉姆·史密斯（Abram Smith）被杀。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-08-06 02:04:54 UTC）*
+*（更新于: 2025-08-07 02:05:20 UTC）*
