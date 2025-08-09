@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Nobel laureate Muhammad Yunus takes oath as Chief Adviser to form an interim government in Bangladesh.
-- 2023: Hawaii wildfires: Seventeen thousand acres of land are burned and at least 101 people are killed, with two others missing, when a series of wildfires break out on the island of Maui in Hawaii.
-- 2022: The Federal Bureau of Investigation (FBI) executes a search warrant at former president Donald Trump's residence in Mar-a-Lago, Palm Beach, Florida.
-- 2019: An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills five people.
-- 2016: Terrorists attack a government hospital in Quetta, Pakistan with a suicide blast and shooting, killing between 70 and 94 people, and injuring around 130 others.
-- 2015: Eight people are killed in a shooting in Harris County, Texas.
-- 2013: A suicide bombing at a funeral in the Pakistani city of Quetta kills at least 31 people.
-- 2010: China Floods: A mudslide in Zhugqu County, Gansu, China, kills more than 1,400 people.
-- 2009: A Eurocopter AS350 Écureuil and Piper PA-32R collide over the Hudson River, killing nine people.
-- 2008: The 29th modern summer Olympic Games took place in Beijing, China until August 24.
-- 2008: A EuroCity express train en route from Kraków, Poland to Prague, Czech Republic strikes a part of a motorway bridge that had fallen onto the railroad track near Studénka railway station in the Czech Republic and derails, killing eight people and injuring 64 others.
-- 2007: Space Shuttle program: STS-118 Mission: Endeavor takes off on a mission to the International Space Station.
-- 2007: An EF2 tornado touches down in Kings County and Richmond County, New York, the most powerful tornado in New York to date and the first in Brooklyn since 1889.
-- 2004: A tour bus belonging to the Dave Matthews Band dumps approximately 800 pounds of human waste onto a boat full of passengers.
-- 2001: Albanian rebels ambush a convoy of the Army of the Republic of Macedonia near Tetovo, killing 10 soldiers.
-- 2000: Confederate submarine H.L. Hunley is raised to the surface after 136 years on the ocean floor and 30 years after its discovery by undersea explorer E. Lee Spence.
-- 1998: Iranian consulate in Mazar-i-Sharif, Afghanistan is raided by Taliban leading to the deaths of ten Iranian diplomats and a journalist.
-- 1993: The 7.8 Mw  Guam earthquake shakes the island with a maximum Mercalli intensity of IX (Violent), causing around $250 million in damage and injuring up to 71 people.
-- 1991: The Warsaw radio mast, then the tallest construction ever built, collapses.
-- 1990: Iraq occupies Kuwait and the state is annexed to Iraq. This would lead to the Gulf War shortly afterward.
-- 1989: Space Shuttle program: STS-28 Mission: Space Shuttle Columbia takes off on a secret five-day military mission.
-- 1988: The first night baseball game in the history of Chicago's Wrigley Field (game was rained out in the fourth inning).
-- 1988: The 8888 Uprising begins in Rangoon (Yangon), Burma (Myanmar). Led by students, hundreds of thousands join in nationwide protests against the one-party regime. On September 18, the demonstrations end in a military crackdown, killing thousands.
-- 1974: President Richard Nixon, in a nationwide television address, announces his resignation from the office of the President of the United States effective noon the next day.
-- 1973: Kim Dae-jung, a South Korean politician and later president of South Korea, is kidnapped.
-- 1969: At a zebra crossing in London, photographer Iain Macmillan takes the iconic photo that becomes the cover image of the Beatles' album Abbey Road.
-- 1967: The Association of Southeast Asian Nations (ASEAN) is founded by Indonesia, Malaysia, the Philippines, Singapore and Thailand.
-- 1963: The Zimbabwe African National Union (ZANU), the current ruling party of Zimbabwe, is formed by a split from the Zimbabwe African People's Union.
-- 1963: Great Train Robbery: In England, a gang of 15 train robbers steal £2.6 million in bank notes.
-- 1956: Marcinelle mining disaster in Belgium. 262 coal miners, including a substantial number of Italian migrant workers, were killed in one of the largest mining accidents in Belgian history.
+- 2024: Voepass Linhas Aéreas Flight 2283 crashes near Vinhedo, São Paulo, killing all 62 people on board.
+- 2021: The Tampere light rail officially starts operating.
+- 2014: Michael Brown, an 18-year-old African American male in Ferguson, Missouri, is shot and killed by a Ferguson police officer after reportedly assaulting the officer and attempting to steal his weapon, sparking protests and unrest in the city.
+- 2013: Gunmen open fire at a Sunni mosque in the city of Quetta killing at least ten people and injuring 30.
+- 2012: Shannon Eastin becomes the first woman to officiate an NFL game.
+- 2007: Air Moorea Flight 1121 crashes after takeoff from Moorea Airport in French Polynesia, killing all 20 people on board.
+- 2006: At least 21 suspected terrorists are arrested in the 2006 transatlantic aircraft plot that happened in the United Kingdom. The arrests are made in London, Birmingham, and High Wycombe in an overnight operation.
+- 1999: Russian President Boris Yeltsin fires his Prime Minister, Sergei Stepashin, and for the fourth time fires his entire cabinet.
+- 1995: Aviateca Flight 901 crashes into the San Vicente volcano in El Salvador, killing all 65 people on board.
+- 1993: The Liberal Democratic Party of Japan loses a 38-year hold on national leadership.
+- 1991: The Italian prosecuting magistrate Antonino Scopelliti is murdered by the 'Ndrangheta on behalf of the Sicilian Mafia while preparing the government's case in the final appeal of the Maxi Trial.
+- 1974: As a direct result of the Watergate scandal, Richard Nixon becomes the first President of the United States to resign from office. Vice President Gerald Ford becomes president.
+- 1973: Mars 7 is launched from the USSR.
+- 1971: The Troubles: In Northern Ireland, the British authorities launch Operation Demetrius. The operation involves the mass arrest and internment without trial of individuals suspected of being affiliated with the Irish Republican Army (PIRA). Mass riots follow, and thousands of people flee or are forced out of their homes.
+- 1970: LANSA Flight 502 crashes after takeoff from Alejandro Velasco Astete International Airport in Cusco, Peru, killing 99 of the 100 people on board, as well as two people on the ground.
+- 1969: Tate-LaBianca murders: Followers of Charles Manson murder pregnant actress Sharon Tate (wife of Roman Polanski), coffee heiress Abigail Folger, Polish actor Wojciech Frykowski, men's hairstylist Jay Sebring and recent high-school graduate Steven Parent.
+- 1965: Singapore is expelled from Malaysia.
+- 1960: South Kasai secedes from the Congo.
+- 1945: The Red Army invades Japanese-occupied Manchuria.
+- 1945: World War II: Nagasaki is devastated when an atomic bomb, Fat Man, is dropped by the United States B-29 Bockscar. Thirty-five thousand people are killed outright, including 23,200-28,200 Japanese war workers, 2,000 Korean forced workers, and 150 Japanese soldiers.
+- 1944: World War II: Continuation War: The Vyborg-Petrozavodsk Offensive, the largest offensive launched by Soviet Union against Finland during the Second World War, ends to a strategic stalemate. Both Finnish and Soviet troops at the Finnish front dug to defensive positions, and the front remains stable until the end of the war.
+- 1944: The United States Forest Service and the Wartime Advertising Council release posters featuring Smokey Bear for the first time.
+- 1942: Dmitri Shostakovich's 7th symphony premiers in a besieged Leningrad.
+- 1942: World War II: Battle of Savo Island: Allied naval forces protecting their amphibious forces during the initial stages of the Battle of Guadalcanal are surprised and defeated by an Imperial Japanese Navy cruiser force.
+- 1936: Summer Olympics: Jesse Owens wins his fourth gold medal at the games.
+- 1925: A train robbery takes place in Kakori, near Lucknow, India, by the Indian independence revolutionaries, against the British government.
+- 1907: The first Boy Scout encampment concludes at Brownsea Island in southern England.
+- 1902: Edward VII and Alexandra of Denmark are crowned King and Queen of the United Kingdom of Great Britain and Ireland.
+- 1897: The first International Congress of Mathematicians is held in Zürich, Switzerland.
+- 1892: Thomas Edison receives a patent for a two-way telegraph.
 
 Data from muffinlabs
-*(Updated at: 2025-08-08 02:04:50 UTC)*
+*(Updated at: 2025-08-09 01:53:55 UTC)*
 
 # 历史上的今天 
 
-- -  2024年：诺贝尔奖获得者穆罕默德·尤努斯（Muhammad Yunus）宣誓就任孟加拉国临时政府的首席顾问。
-- -2023：夏威夷野火：烧毁了一千万英亩的土地，至少有101人被杀，另外两人失踪，当时一系列野火在夏威夷的毛伊岛爆发。
-- -  2022年：联邦调查局（FBI）在佛罗里达州棕榈滩的玛拉·拉戈（Mar-A-Lago）的前总统唐纳德·特朗普（Donald Trump）的住所中执行搜查令。
-- -  2019年：俄罗斯Nyonoksa的州中央海军测试范围的爆炸爆炸炸死了五人。
-- -  2016年：恐怖分子袭击了巴基斯坦奎达的一家政府医院，自杀，枪击，造成70至94人丧生，造成130人受伤。
-- -  2015年：在德克萨斯州哈里斯县的一次枪击事件中，有八人丧生。
-- -  2013年：在巴基斯坦城市的葬礼上进行的自杀炸弹袭击至少31人。
-- -  2010年：中国洪水：中国甘努克县的泥石流造成1,400多人丧生。
-- -  2009年：Eurocopter As350écureuil和Piper PA-32R碰撞在哈德逊河上，杀死了9人。
-- -  2008年：第29届现代夏季奥运会在中国北京举行，直到8月24日。
-- -  2008年：从波兰克拉科夫到布拉格到布拉格的欧洲特快火车，捷克共和国袭击了一座高速公路桥的一部分，该桥已落在捷克共和国Studénka火车站附近的铁轨上，造成了八人，炸死了八人，并受伤了64人。
-- -  2007年：航天飞机计划：STS-118任务：Endeavor起飞到国际空间站的任务。
-- -  2007年：一辆EF2龙卷风在金斯县和纽约的里士满县降落，迄今为止是纽约最强大的龙卷风，是1889年以来在布鲁克林的第一场龙卷风。
-- -  2004年：属于戴夫·马修斯乐队的旅游巴士将大约800磅的人类废物转储到充满乘客的船上。
-- -  2001年：阿尔巴尼亚叛军在特托沃附近的马其顿共和国陆军的车队伏击，杀死了10名士兵。
-- -  2000年：136年在海底，在海底探险家E. Lee Spence发现后30年后，同盟国海底亨利（H.L. Hunley）被抬高到地面。
-- -  1998年：阿富汗马扎尔·萨里夫（Mazar-i-Sharif）的伊朗领事馆受到塔利班的突袭，导致十名伊朗外交官和一名记者死亡。
-- -  1993年：7.8兆瓦关岛地震以最高的IX（暴力）强度摇动了岛屿，造成了约2.5亿美元的损失，并造成了多达71人的伤害。
-- -  1991年：华沙无线电桅杆，当时是有史以来最高的建筑，倒塌了。
-- -  1990年：伊拉克占领科威特，该州已吞并至伊拉克。此后不久，这将导致海湾战争。
-- -  1989年：航天飞机计划：STS-28任务：哥伦比亚航天飞机搭乘了一个秘密的为期五天的军事任务。
-- -  1988年：芝加哥箭牌球场历史上的第一场夜间棒球比赛（比赛在第四局下雨了）。
-- -  1988年：8888起义始于缅甸仰光（仰光）（缅甸）。在学生的带领下，成千上万的人参加了针对一党政权的全国性抗议活动。9月18日，示威活动以军事镇压结束，杀死了数千人。
-- -  1974年：总统理查德·尼克松（Richard Nixon）在全国电视台的讲话中宣布，第二天中午从美国总统办公室辞职。
-- -  1973年：韩国政治家，后来的韩国总统金·达（Kim Dae-Jung）被绑架。
-- -  1969年：在伦敦的斑马十字路口，摄影师Iain Macmillan拍摄了标志性的照片，成为甲壳虫乐队专辑Abbey Road的封面图片。
-- -  1967年：东南亚国家协会（东盟）由印度尼西亚，马来西亚，菲律宾，新加坡和泰国建立。
-- -  1963年：津巴布韦现任统治党津巴布韦非洲国家联盟（Zanu）是由津巴布韦非洲人民联盟的分裂组成的。
-- -  1963年：大型火车抢劫：在英格兰，有15架火车抢劫犯的团伙窃取了260万英镑的钞票。
-- -  1956年：比利时的Marcinelle采矿灾难。在比利时历史上最大的采矿事故之一中，有262名煤矿工人，包括大量意大利移民工人，被杀。
+- -2024：VoepassLinhasAéreas2283航班在圣保罗Vinhedo附近撞车，杀死了所有62人。
+- -2021：坦佩雷轻轨正式开始运行。
+- -  2014年：迈克尔·布朗（Michael Brown）是密苏里州弗格森（Ferguson）的一名18岁的非洲裔美国男性，在据报道袭击该警察并试图偷走他的武器，引发抗议活动和动荡的城市后，被弗格森警官枪杀。
+- -  2013年：枪手在奎达市的逊尼派清真寺开火，杀死了至少十人，炸伤30人。
+- -  2012年：香农·伊斯汀（Shannon Eastin）成为第一位主持NFL比赛的女性。
+- -  2007年：从法国波利尼西亚的Moorea机场起飞后，航空Moorea航班1121航班坠毁，杀死了所有20人。
+- -  2006年：2006年在英国发生的2006年跨大西洋飞机阴谋中，至少有21名涉嫌恐怖分子被捕。这些逮捕是在伦敦，伯明翰和高维科姆进行过夜行动进行的。
+- -  1999年：俄罗斯总统鲍里斯·叶利钦（Boris Yeltsin）解雇了他的总理谢尔盖·斯蒂芬（Sergei Stepashin），这是第四次发射他的整个内阁。
+- -  1995年：Aviateca 901航班撞上了萨尔瓦多的圣维森特火山，杀死了所有65人。
+- -  1993年：日本自由民主党在国家领导层失去了38年的持有。
+- -  1991年：意大利检察官安东尼诺·斯科佩利蒂（Antonino Scopelliti）在西西里黑手党（Sicilian Mafia）谋杀了'ndrangheta，同时在最终的上诉审判中准备了政府的案子。
+- -  1974年：作为水门丑闻的直接结果，理查德·尼克松（Richard Nixon）成为美国第一位辞职的总统。副总统杰拉尔德·福特（Gerald Ford）成为总统。
+- -  1973年：火星7是从苏联推出的。
+- -  1971年：麻烦：在北爱尔兰，英国当局启动了Demetrius行动。该行动涉及大规模逮捕和实习，而无需审判涉嫌与爱尔兰共和党（PIRA）隶属的个人。大规模骚乱随之而来，成千上万的人逃离或被迫离开家。
+- -  1970年：兰萨502航班从秘鲁库斯科的亚历杭德罗·韦拉斯科（Alejandro Velasco）撤离后坠毁，炸死了船上100人中的99人，以及地面上的两个人。
+- -  1969年：泰特·拉比安卡（Tate-Labianca）谋杀案：查尔斯·曼森（Charles Manson）谋杀怀孕的女演员沙龙·泰特（Sharon Tate）的追随者，罗马·波兰斯基（Roman Polanski）的妻子，咖啡女继承人阿比盖尔·福尔格（Abigail Folger），波兰演员沃伊奇奇·弗里科夫斯基（Wojciech Frykowski），男士发型师杰伊·塞布林（Jay Sebring）和最近的高中生毕业生史蒂文·史蒂芬（Steven Pronfent）。
+- -  1965年：新加坡被马来西亚开除。
+- -  1960年：南卡赛（South Kasai）脱离刚果。
+- -  1945年：红军入侵日本人的满洲。
+- -  1945年：第二次世界大战：长崎（Nagasaki）被美国B-29 Bockscar掉落的原子炸弹，胖子时遭到破坏。3.5万人被彻底杀害，包括23,200-28200名日本战争工人，2,000名韩国强迫工人和150名日本士兵。
+- -  1944年：第二次世界大战：连续战争：维堡 - 佩特罗萨沃德斯克（Vyborg-Petrozavodsk）的进攻，这是第二次世界大战期间苏联对芬兰发起的最大进攻，结束了战略僵局。芬兰和苏联的部队都在芬兰前部挖到防守位置，前部一直保持稳定，直到战争结束。
+- -  1944年：美国森林服务局和战时广告委员会的发行海报首次发行Smokey Bear。
+- -  1942年：德米特里·肖斯塔科维奇（Dmitri Shostakovich）在被围困的列宁格勒（Leningrad）中的第七次交响曲总理。
+- -  1942年：第二次世界大战：萨沃岛战役：在瓜达尔卡纳尔战役的最初阶段保护其两栖力部队的盟军海军军队被日本帝国海军巡洋舰部队感到惊讶和击败。
+- -  1936年：夏季奥运会：杰西·欧文斯（Jesse Owens）在奥运会上赢得了他的第四枚金牌。
+- -  1925年：火车抢劫案发生在印度独立革命者对英国政府的印度独立革命者附近的卡科里（Kakori）。
+- -  1907年：第一个童子军营地在英格兰南部的布朗西岛结束。
+- -  1902年：丹麦的爱德华七世和亚历山德拉是英国和爱尔兰英国的国王和王后。
+- -  1897年：第一届国际数学家大会在瑞士苏黎世举行。
+- -  1892年：托马斯·爱迪生（Thomas Edison）获得了双向电报的专利。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-08-08 02:04:50 UTC）*
+*（更新于: 2025-08-09 01:53:55 UTC）*
