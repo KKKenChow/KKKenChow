@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: Six people, five victims and the perpetrator are killed in  Keyham, Plymouth in the worst mass shooting in the UK since 2010.
-- 2018: Thirty-nine civilians, including a dozen children, are killed in an explosion at a weapons depot in Sarmada, Syria.
-- 2017: The Unite the Right rally occurs in Charlottesville, Virginia, leading to the deaths of 3 and injuring nearly 50 more.
-- 2016: Syrian civil war: The Syrian Democratic Forces (SDF) capture the city of Manbij from the Islamic State of Iraq and the Levant (ISIL).
-- 2015: At least two massive explosions kill 173 people and injure nearly 800 more in Tianjin, China.
-- 2000: The Russian Navy submarine Kursk explodes and sinks in the Barents Sea during a military exercise, killing her entire 118-man crew.
-- 1994: Major League Baseball players go on strike, eventually forcing the cancellation of the 1994 World Series.
-- 1992: Canada, Mexico and the United States announce completion of negotiations for the North American Free Trade Agreement (NAFTA).
-- 1990: Sue, the largest and most complete Tyrannosaurus rex skeleton found to date, is discovered by Sue Hendrickson in South Dakota.
-- 1985: Japan Air Lines Flight 123 crashes into Osutaka ridge in Gunma Prefecture, Japan, killing 520, to become the worst single-plane air disaster.
-- 1984: An infamous brawl takes place at the Atlanta-Fulton County Stadium between the Atlanta Braves and San Diego Padres.
-- 1981: The IBM Personal Computer is released.
-- 1977: The Sri Lanka Riots: Targeting the minority Sri Lankan Tamils, begin, less than a month after the United National Party came to power. Over 300 Tamils are killed.
-- 1977: The first free flight of the Space Shuttle Enterprise.
-- 1976: Between 1,000 and 3,500 Palestinians are killed in the Tel al-Zaatar massacre, one of the bloodiest events of the Lebanese Civil War.
-- 1969: Violence erupts after the Apprentice Boys of Derry march in Derry, Northern Ireland, resulting in a three-day communal riot known as the Battle of the Bogside.
-- 1964: South Africa is banned from the Olympic Games due to the country's racist policies.
-- 1960: Echo 1A, NASA's first successful communications satellite, is launched.
-- 1953: The 7.2 Ms  Ionian earthquake shakes the southern Ionian Islands with a maximum Mercalli intensity of X (Extreme). Between 445 and 800 people are killed.
-- 1953: First thermonuclear bomb test: The Soviet atomic bomb project continues with the detonation of "RDS-6s" (Joe 4) using a "layered" scheme.
-- 1952: The Night of the Murdered Poets: Thirteen prominent Jewish intellectuals are murdered in Moscow, Russia, Soviet Union.
-- 1950: Korean War: Bloody Gulch massacre: Seventy-five American POWs are massacred by the North Korean Army.
-- 1948: Between 15 and 150 unarmed members of the Khudai Khidmatgar movement are killed by Pakistani police.
-- 1944: Alençon is liberated by General Philippe Leclerc de Hauteclocque, the first city in France to be liberated from the Nazis by French forces.
-- 1944: Nazi German troops end the week-long Wola massacre, during which time at least 40,000 people are killed indiscriminately or in mass executions.
-- 1944: Waffen-SS troops massacre 560 people in Sant'Anna di Stazzema.
-- 1914: World War I: The Battle of Halen a.k.a. Battle of the Silver Helmets a clash between large Belgian and German cavalry formations at Halen, Belgium.
-- 1914: World War I: The United Kingdom and the British Empire declare war on Austria-Hungary.
-- 1898: The Hawaiian flag is lowered from ʻIolani Palace in an elaborate annexation ceremony and replaced with the flag of the United States to signify the transfer of sovereignty from the Republic of Hawaii to the United States where it is formally recognized as Hawaii.
-- 1883: The last quagga dies at the Natura Artis Magistra, a zoo in Amsterdam, Netherlands.
+- 2020: Israel-United Arab Emirates relations are formally established.
+- 2015: At least 76 people are killed and 212 others are wounded in a truck bombing in Baghdad, Iraq.
+- 2014: A Cessna Citation Excel crashes in Santos, São Paulo, Brazil killing all seven people aboard, including Brazilian Socialist Party presidential candidate Eduardo Campos.
+- 2008: Russo-Georgian War: Russian units occupy the Georgian city of Gori.
+- 2004: One hundred fifty-six Congolese Tutsi refugees are massacred at the Gatumba refugee camp in Burundi.
+- 1990: A mainland Chinese fishing boat Min Ping Yu No. 5202 is hit by a Taiwanese naval vessel and sinks in a repatriation operation of mainland Chinese immigrants, resulting in 21 deaths. This is the second tragedy less than a month after Min Ping Yu No. 5540 incident.
+- 1978: One hundred fifty Palestinians in Beirut are killed in a terrorist attack during the second phase of the Lebanese Civil War.
+- 1977: Members of the British National Front (NF) clash with anti-NF demonstrators in Lewisham, London, resulting in 214 arrests and at least 111 injuries.
+- 1973: Aviaco Flight 118 crashes on approach to A Coruña Airport in A Coruña, Spain, killing all 85 people on the plane and one other one the ground.
+- 1969: The Apollo 11 astronauts enjoy a ticker-tape parade in New York City. That evening, at a state dinner in Los Angeles, they are awarded the Presidential Medal of Freedom by U.S. President Richard Nixon.
+- 1968: Alexandros Panagoulis attempts to assassinate the Greek dictator Colonel Georgios Papadopoulos in Varkiza, Athens.
+- 1967: Two young women became the first fatal victims of grizzly bear attacks in the 57-year history of Montana's Glacier National Park in separate incidents.
+- 1964: Peter Allen and Gwynne Evans are hanged for the murder of John Alan West becoming the last people executed in the United Kingdom.
+- 1961: Cold War: East Germany closes the border between the eastern and western sectors of Berlin to thwart its inhabitants' attempts to escape to the West, and construction of the Berlin Wall is started. The day is known as Barbed Wire Sunday.
+- 1960: The Central African Republic declares independence from France.
+- 1954: Radio Pakistan broadcasts the "Qaumī Tarāna", the national anthem of Pakistan for the first time.
+- 1944: World War II: German troops begin the pillage and razing of Anogeia in Crete that would continue until September 5.
+- 1942: Major General Eugene Reybold of the U.S. Army Corps of Engineers authorizes the construction of facilities that would house the "Development of Substitute Materials" project, better known as the Manhattan Project.
+- 1937: Second Sino-Japanese War: The Battle of Shanghai begins.
+- 1920: Polish-Soviet War: The Battle of Warsaw begins and will last till August 25. The Red Army is defeated.
+- 1918: Bayerische Motoren Werke AG (BMW) established as a public company in Germany.
+- 1918: Women enlist in the United States Marine Corps for the first time. Opha May Johnson is the first woman to enlist.
+- 1913: First production in the UK of stainless steel by Harry Brearley.
+- 1906: The all black infantrymen of the U.S. Army's 25th Infantry Regiment are accused of killing a white bartender and wounding a white police officer in Brownsville, Texas, despite exculpatory evidence; all are later dishonorably discharged. (Their records were later restored to reflect honorable discharges but there were no financial settlements.)
+- 1905: Norwegians vote to end the union with Sweden.
+- 1900: The steamer Deutschland of Hamburg America Lines set a new record for the eastward passage when it docked on Plymouth, England, five days, 11 hours and 45 minutes after sailing from New York, breaking by three hours, six minutes its previous mark in its maiden voyage in July.
+- 1898: Carl Gustav Witt discovers 433 Eros, the first near-Earth asteroid to be found.
+- 1898: Spanish-American War: Spanish and American forces engage in a mock battle for Manila, after which the Spanish commander surrendered in order to keep the city out of Filipino rebel hands.
+- 1889: William Gray of Hartford, Connecticut is granted United States Patent Number 408,709 for "Coin-controlled apparatus for telephones."
+- 1868: The 8.5-9.0 Mw  Arica earthquake struck southern Peru with a maximum Mercalli intensity of XI (Extreme), causing 25,000+ deaths and a destructive basin wide tsunami that affected Hawaii and New Zealand.
 
 Data from muffinlabs
-*(Updated at: 2025-08-12 01:53:05 UTC)*
+*(Updated at: 2025-08-13 01:55:15 UTC)*
 
 # 历史上的今天 
 
-- -  2021年：自2010年以来，在英国最糟糕的大规模枪击事件中，六人，五名受害者和肇事者在普利茅斯的凯厄姆被杀。
-- -  2018年：在叙利亚萨尔马达（Sarmada）的武器仓库的爆炸中，有39名平民，包括十几名儿童。
-- -  2017年：联合右集会发生在弗吉尼亚州夏洛茨维尔，导致3人死亡，造成近50人受伤。
-- -  2016年：叙利亚内战：叙利亚民主力量（SDF）从伊拉克伊斯兰国和黎凡特（ISIL）中占领了曼比吉市。
-- -  2015年：中国天津至少两次大规模爆炸炸死173人，造成近800人的伤害。
-- -  2000年：俄罗斯海军潜艇库尔斯克（Kursk）在军事演习中爆炸和下沉，杀死了她的整个118名船员。
-- -  1994年：美国职业棒球大联盟球员罢工，最终迫使取消1994年世界大赛。
-- -  1992年：加拿大，墨西哥和美国宣布完成《北美自由贸易协定》（NAFTA）的谈判。
-- -  1990年：苏（Sue）是迄今为止发现的最大，最完整的霸王龙骨骼，是由南达科他州的苏·亨德里克森（Sue Hendrickson）发现的。
-- -  1985年：日本航空公司123号航班坠毁到日本冈马县的Osutaka Ridge，杀死了520，成为最糟糕的单平面空气灾难。
-- -  1984年：臭名昭著的斗殴发生在亚特兰大勇士队和圣地亚哥帕德雷斯之间的亚特兰大 - 富顿县体育场。
-- -  1981年：IBM个人计算机已发布。
-- -  1977年：斯里兰卡暴动：针对少数斯里兰卡泰米尔人，在联合民族党上台不到一个月后开始。超过300个泰米尔人被杀。
-- -  1977年：航天飞机企业的第一次免费飞行。
-- -  1976年：在黎巴嫩内战中最血腥的事件之一的Tel al-Zaatar大屠杀中，有1,000至3,500名巴勒斯坦人被杀。
-- -  1969年：暴力发生在北爱尔兰德里的德里·马克（Derry March）的学徒男孩之后，导致了为期三天的公共暴动，称为《沼泽战役》。
-- -  1964年：由于该国的种族主义政策，南非被禁止参加奥运会。
-- -  1960年：NASA首款成功的通信卫星Echo 1A被推出。
-- -  1953年：7.2女士爱奥尼亚地震摇动了南部爱奥尼亚群岛，其最大默塞利强度为x（极端）。在445至800人之间被杀。
-- -  1953年：第一次热核炸弹测试：苏联原子弹项目继续使用“分层”方案爆炸“ RDS-6S”（JOE 4）。
-- -  1952年：被谋杀的诗人之夜：十三名著名的犹太知识分子在俄罗斯，苏联被谋杀。
-- -  1950年：朝鲜战争：血腥的峡谷大屠杀：北朝鲜军队屠杀了75个美国战俘。
-- -  1948年：在15至150名非武装成员之间，Khudai Khidmatgar运动被巴基斯坦警察杀死。
-- -  1944年：Alençon由菲利普·莱克莱克·德·豪特克洛克（Philippe Leclerc de Hauteclocque）将军解放，这是法国第一个被法国军队从纳粹释放的城市。
-- -  1944年：纳粹德国军队结束了为期一周的沃拉大屠杀，在此期间，至少有40,000人被徒劳地杀害或大规模处决。
-- -  1944年：瓦芬-SS部队大屠杀560人在圣安娜·迪·斯塔泽玛（Sant'anna di Stazzema）。
-- -  1914年：第一次世界大战：哈伦（Halen）的战役又名银头盔之战，比利时海伦（Halen）大型比利时和德国骑兵队之间发生冲突。
-- -  1914年：第一次世界大战：英国和大英帝国宣布对奥地利 - 匈牙利的战争。
-- -  1898年：夏威夷国旗在一个精心制作的吞并仪式上从伊奥拉尼宫降低，并由美国的旗帜取代，以表示从夏威夷共和国转移到正式被公认为夏威夷的主权转移。
-- -  1883年：最后一个Quagga死于荷兰阿姆斯特丹的动物园Natura Artis Magistra。
+- -  2020年：以色列联合的阿拉伯阿拉伯关系正式建立。
+- -  2015年：在伊拉克巴格达的一次卡车爆炸案中，至少有76人被杀，另外212人受伤。
+- -  2014年：巴西圣保罗桑托斯的塞斯纳引用Excel撞车事故，杀死了所有七个人，包括巴西社会主义党总统候选人爱德华多·坎波斯（Eduardo Campos）。
+- -  2008年：鲁斯索 - 格鲁吉亚战争：俄罗斯单位占据了格鲁吉亚城市戈里。
+- -  2004年：在布隆迪的盖塔姆巴难民营被屠杀了一百五十六个刚果的图西难民。
+- -  1990年：一艘中国大陆渔船最小的Ping Yu No. 5202遭到台湾海军船只的袭击，并在中国大陆移民的一次遣返行动中被击中，造成21人死亡。这是第一次悲剧，不到一个月的ping yu第5540号事件发生后一个月。
+- -  1978年：在黎巴嫩内战的第二阶段，贝鲁特的一百五十巴勒斯坦人在恐怖袭击中被杀。
+- -  1977年：英国国民阵线（NF）与伦敦刘易舍姆的反NF示威者的冲突，导致214人被捕和至少111人受伤。
+- -  1973年：阿维亚科（Aviaco）航班118航班在西班牙科鲁尼亚（Coruña）的科鲁尼亚机场（CoruñaAirport）撞上，杀死了飞机上的所有85人，另一人杀死了地面。
+- -  1969年：阿波罗11号宇航员在纽约市享受了一场手提录像带游行。那天晚上，在洛杉矶举行的州晚宴上，美国总统理查德·尼克松（Richard Nixon）将其授予了总统自由勋章。
+- -  1968年：亚历山德罗斯·帕纳古利斯（Alexandros Panagoulis）试图暗杀雅典瓦基扎（Varkiza）的希腊独裁者乔治斯·帕帕多洛斯（Georgios Papadopoulos）。
+- -  1967年：两名年轻妇女成为蒙大拿州冰川国家公园57年历史上灰熊袭击的第一批致命受害者。
+- -  1964年：彼得·艾伦（Peter Allen）和格温·埃文斯（Gwynne Evans）因谋杀约翰·艾伦·韦斯特（John Alan West）而被绞死成为英国最后处决的人。
+- -  1961年：冷战：东德关闭了柏林东部和西部地区之间的边界，以阻止其居民逃到西方的企图，并开始建造柏林墙。这一天被称为刺钢丝周日。
+- -  1960年：中非共和国宣布脱离法国独立。
+- -  1954年：巴基斯坦电台首次播放了巴基斯坦国歌“QaumīTarāna”。
+- -  1944年：第二次世界大战：德国军队开始在克里特岛的掠夺和掠夺，这将持续到9月5日。
+- -  1942年：美国陆军工程兵团的尤金·雷波尔德少将授权建设设施，这些设施将容纳“替代材料的开发”项目，即曼哈顿项目。
+- -  1937年：第二次中日战争：上海战役开始。
+- -  1920年：波兰苏维特战争：华沙战役开始，将持续到8月25日。红军被击败。
+- -  1918年：Bayerische Motoren Werke AG（BMW）在德国成立了一家上市公司。
+- -  1918年：妇女第一次入伍。Opha May Johnson是第一个入伍的女人。
+- -  1913年：哈里·布雷利（Harry Brearley）在英国的不锈钢制作。
+- -  1906年：美国陆军第25步兵团的全黑步兵被指控杀害了一名白人调酒师，并在德克萨斯州布朗斯维尔的一名白人警察炸伤了德克萨斯州布朗斯维尔的一名警官。以后所有这些都不可分散。（后来恢复了他们的记录以反映光荣的排放，但没有财务解决。）
+- -  1905年：挪威人投票结束与瑞典的联盟。
+- -  1900年：汉堡美国线路的蒸笼Deutschland在从纽约航行后的五天零11小时45分钟，在英格兰普利茅斯停靠时，为东方通道创造了新的记录，在7月在少女航行中闯入了三个小时，六分钟，六分钟。
+- -  1898年：卡尔·古斯塔夫·维特（Carl Gustav Witt）发现了433个爱神，这是第一个近地小行星。
+- -  1898年：西班牙裔美国人战争：西班牙和美军与马尼拉进行了嘲笑之战，此后，西班牙指挥官投降了，以使这座城市远离菲律宾叛军的手。
+- -  1889年：康涅狄格州哈特福德的威廉·格雷（William Gray）被授予美国专利编号408,709，用于“电话控制的电话”。
+- -  1868年：8.5-9.0 MW Arica地震袭击了秘鲁南部，最大的Mercalli强度为XI（极端），造成25,000多人的死亡和影响夏威夷和新西兰的破坏性盆地宽阔的海啸。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-08-12 01:53:05 UTC）*
+*（更新于: 2025-08-13 01:55:15 UTC）*
