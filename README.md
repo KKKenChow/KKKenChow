@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: A bomb explodes at a wedding in Kabul killing 63 people and leaving 182 injured.
-- 2017: Barcelona attacks: A van is driven into pedestrians in La Rambla, killing 14 and injuring at least 100.
-- 2015: A bomb explodes near the Erawan Shrine in Bangkok, Thailand, killing at least 19 people and injuring 123 others.
-- 2009: An accident at the Sayano-Shushenskaya Dam in Khakassia, Russia, kills 75 and shuts down the hydroelectric power station, leading to widespread power failure in the local area.
-- 2008: American swimmer Michael Phelps becomes the first person to win eight gold medals at one Olympic Games.
-- 2005: Over 500 bombs are set off by terrorists at 300 locations in 63 out of the 64 districts of Bangladesh.
-- 2005: The first forced evacuation of settlers, as part of Israeli disengagement from Gaza, starts.
-- 2004: The National Assembly of Serbia unanimously adopts new state symbols for Serbia: Bože pravde becomes the new anthem and the coat of arms is adopted for the whole country.
-- 1999: The 7.6 Mw  İzmit earthquake shakes northwestern Turkey with a maximum Mercalli intensity of IX (Violent), leaving 17,118-17,127 dead and 43,953-50,000 injured.
-- 1998: Lewinsky scandal: US President Bill Clinton admits in taped testimony that he had an "improper physical relationship" with White House intern Monica Lewinsky; later that same day he admits before the nation that he "misled people" about the relationship.
-- 1991: Strathfield massacre: In Sydney, New South Wales, Australia, taxi driver Wade Frankum shoots seven people and injures six others before turning the gun on himself.
-- 1988: President of Pakistan Muhammad Zia-ul-Haq and U.S. Ambassador Arnold Raphel are killed in a plane crash.
-- 1985: The 1985-86 Hormel strike begins in Austin, Minnesota.
-- 1978: Double Eagle II becomes first balloon to cross the Atlantic Ocean when it lands in Miserey, France near Paris, 137 hours after leaving Presque Isle, Maine.
-- 1977: The Soviet icebreaker Arktika becomes the first surface ship to reach the North Pole.
-- 1976: A magnitude 7.9 earthquake hits off the coast of Mindanao, Philippines, triggering a destructive tsunami, killing between 5,000 and 8,000 people and leaving more than 90,000 homeless.
-- 1970: Soviet Union Venera program: Venera 7 launched. It will become the first spacecraft to successfully transmit data from the surface of another planet (Venus).
-- 1969: Category 5 Hurricane Camille hits the U.S. Gulf Coast, killing 256 and causing $1.42 billion in damage.
-- 1962: Peter Fechter is shot and bleeds to death while trying to cross the new Berlin Wall.
-- 1960: Aeroflot Flight 036 crashes in Soviet Ukraine, killing 34.
-- 1959: Quake Lake is formed by the magnitude 7.2 1959 Hebgen Lake earthquake near Hebgen Lake in Montana.
-- 1958: Pioneer 0, America's first attempt at lunar orbit, is launched using the first Thor-Able rocket and fails. Notable as one of the first attempted launches beyond Earth orbit by any country.
-- 1955: Hurricane Diane made landfall near Wilmington, North Carolina, and it went on to cause major floods and kill more than 184 people.
-- 1953: First meeting of Narcotics Anonymous takes place, in Southern California.
-- 1949: Matsukawa derailment: Unknown saboteurs cause a passenger train to derail and overturn in Fukushima Prefecture, Japan, killing three crew members and igniting a political firestorm between the Japanese Communist Party and the government of Occupied Japan that will eventually lead to the Japanese Red Purge.
-- 1949: The 6.7 Ms  Karlıova earthquake shakes eastern Turkey with a maximum Mercalli intensity of X (Extreme), leaving 320-450 dead.
-- 1947: The Radcliffe Line, the border between the Dominions of India and Pakistan, is revealed.
-- 1945: Evacuation of Manchukuo: At Talitzou by the Sino-Korean border, Puyi, then the Kangde Emperor of Manchukuo, formally renounces the imperial throne, dissolves the state, and cedes its territory to the Republic of China.
-- 1945: The novella Animal Farm by George Orwell is first published.
-- 1945: Sukarno and Mohammad Hatta proclaim the independence of Indonesia, igniting the Indonesian National Revolution against the Dutch Empire.
+- 2019: One hundred activists, officials, and other concerned citizens in Iceland hold a funeral for Okjökull glacier, which has completely melted after having once covered six square miles (15.5 km2).
+- 2017: The first terrorist attack ever sentenced as a crime in Finland kills two and injures eight.
+- 2011: A terrorist attack on Israel's Highway 12 near the Egyptian border kills 16 and injures 40.
+- 2008: War of Afghanistan: The Uzbin Valley ambush occurs.
+- 2008: The President of Pakistan, Pervez Musharraf, resigns under threat of impeachment.
+- 2005: A massive power blackout hits the Indonesian island of Java; affecting almost 100 million people, it is one of the largest and most widespread power outages in history.
+- 2003: One-year-old Zachary Turner is murdered in Newfoundland by his mother, who was awarded custody despite facing trial for the murder of Zachary's father. The case was documented in the film Dear Zachary and led to reform of Canada's bail laws.
+- 1993: American International Airways Flight 808 crashes at Leeward Point Field at Guantanamo Bay Naval Base in Guantánamo Bay, Cuba, injuring the three crew members.
+- 1989: Leading presidential hopeful Luis Carlos Galán is assassinated near Bogotá in Colombia.
+- 1983: Hurricane Alicia hits the Texas coast, killing 21 people and causing over US$1 billion in damage (1983 dollars).
+- 1977: Steve Biko is arrested at a police roadblock under Terrorism Act No. 83 of 1967 in King William's Town, South Africa. He later dies from injuries sustained during this arrest, bringing attention to South Africa's apartheid policies.
+- 1976: The Soviet Union’s robotic probe Luna 24 successfully lands on the Moon.
+- 1976: The Korean axe murder incident in Panmunjom results in the deaths of two US Army officers.
+- 1973: Aeroflot Flight A-13 crashes after takeoff from Baku-Bina International Airport in Azerbaijan, killing 56 people and injuring eight.
+- 1971: Vietnam War: Australia and New Zealand decide to withdraw their troops from Vietnam.
+- 1966: Vietnam War: The Battle of Long Tan ensues after a patrol from the 6th Battalion, Royal Australian Regiment clashes with a Viet Cong force in Phước Tuy Province.
+- 1965: Vietnam War: Operation Starlite begins: United States Marines destroy a Viet Cong stronghold on the Van Tuong peninsula in the first major American ground battle of the war.
+- 1963: Civil rights movement: James Meredith becomes the first African American to graduate from the University of Mississippi.
+- 1958: Brojen Das from Bangladesh swims across the English Channel in a competition as the first Bengali and the first Asian to do so, placing first among the 39 competitors.
+- 1958: Vladimir Nabokov's controversial novel Lolita is published in the United States.
+- 1950: Julien Lahaut, the chairman of the Communist Party of Belgium, is assassinated. The Party newspaper blames royalists and Rexists.
+- 1949: 1949 Kemi strike: Two protesters die in the scuffle between the police and the strikers' protest procession in Kemi, Finland.
+- 1945: Soviet-Japanese War: Battle of Shumshu: Soviet forces land at Takeda Beach on Shumshu Island and launch the Battle of Shumshu; the Soviet Union’s Invasion of the Kuril Islands commences.
+- 1945: Sukarno takes office as the first president of Indonesia, following the country's declaration of independence the previous day.
+- 1940: World War II: The Hardest Day air battle, part of the Battle of Britain, takes place. At that point, it is the largest aerial engagement in history with heavy losses sustained on both sides.
+- 1938: The Thousand Islands Bridge, connecting New York, United States, with Ontario, Canada, over the Saint Lawrence River, is dedicated by U.S. President Franklin D. Roosevelt.
+- 1937: A lightning strike starts the Blackwater Fire of 1937 in Shoshone National Forest, killing 15 firefighters within three days and prompting the United States Forest Service to develop their smokejumper program.
+- 1933: The Volksempfänger is first presented to the German public at a radio exhibition; the presiding Nazi Minister of Propaganda, Joseph Goebbels, delivers an accompanying speech heralding the radio as the ‘eighth great power’.
+- 1923: The first British Track and Field championships for women are held in London, Great Britain.
+- 1920: The Nineteenth Amendment to the United States Constitution is ratified, guaranteeing women's suffrage.
 
 Data from muffinlabs
-*(Updated at: 2025-08-17 02:01:39 UTC)*
+*(Updated at: 2025-08-18 02:02:30 UTC)*
 
 # 历史上的今天 
 
-- -  2019年：炸弹在喀布尔的一次婚礼上爆炸，炸死63人，并造成182人受伤。
-- -  2017年：巴塞罗那袭击：一辆面包车被驾驶到拉兰布拉的行人，杀死了14人，至少受伤100人。
-- -  2015年：一枚炸弹在泰国曼谷的Erawan神社附近爆炸，杀死了至少19人，炸伤123人。
-- -  2009年：在俄罗斯卡卡西亚的Sayano-Shushenskaya大坝发生事故，杀死了75人并关闭了水力发电站，导致当地广泛的电力故障。
-- -  2008年：美国游泳运动员迈克尔·菲尔普斯（Michael Phelps）成为第一个在奥运会上赢得八枚金牌的人。
-- -  2005年：在孟加拉国64个地区的63个地点，恐怖分子在300个地点爆发了超过500枚炸弹。
-- -  2005年：作为以色列与加沙脱离接触的一部分，定居者的第一个强迫撤离开始。
-- -  2004年：塞尔维亚国民议会一致通过塞尔维亚采用新的州符号：BožePravde成为了新的国歌，整个国家都采用了徽章。
-- -  1999年：7.6 MWİzmit地震摇动了西北土耳其，其最大默塞利强度为IX（暴力），造成17,118-17,127死亡和43,953-50,000人受伤。
-- -  1998年：莱温斯基丑闻：美国总统比尔·克林顿（Bill Clinton）在录音证词中承认他与白宫实习生莫妮卡·莱温斯基（Monica Lewinsky）有着“不当的身体关系”；同一天晚些时候，他在国家面前承认，他“误导了人们”有关这种关系。
-- -  1991年：斯特拉特菲尔德大屠杀：在澳大利亚新南威尔士州悉尼，出租车司机韦德·弗兰克姆（Wade Frankum）射击了七人，并在开枪之前炸伤了六人。
-- -  1988年：巴基斯坦穆罕默德Zia-ul-Haq总统和美国大使阿诺德·拉弗尔（Arnold Raphel）在一次飞机失事中被杀。
-- -  1985年：1985  -  86年的Hormel罢工始于明尼苏达州奥斯汀。
-- -  1978年：双鹰二世成为第一个越过大西洋的气球，当它降落在法国米里里（Miserey）附近，离开缅因州的普雷斯克岛（Presque Isle）。
-- -  1977年：苏联破冰船Arktika成为第一艘到达北极的地面船。
-- -  1976年：7.9级地震袭击了菲律宾棉兰老岛的沿海，引发了破坏性的海啸，造成5,000至8,000人丧生，并使90,000多人无家可归。
-- -  1970年：苏联Venera计划：Venera 7推出。它将成为第一个成功从另一个行星（金星）表面传输数据的航天器。
-- -  1969年：5类Camille袭击了美国墨西哥湾沿岸，造成256人造成14.2亿美元的损失。
-- -  1962年：彼得·菲希特（Peter Fechter）在试图越过新的柏林墙时被枪杀，流血致死。
-- -  1960年：Aeroflot飞行036在苏联乌克兰坠毁，杀害34。
-- -  1959年：地震湖是由蒙大拿州赫布根湖附近的7.2 1959年赫布根湖地震形成的。
-- -  1958年：Pioneer 0是美国第一次尝试Lunar Orbit，是使用第一个可托thor-able Rocket发射的。值得注意的是，任何国家都超越地球轨道。
-- -  1955年：黛安飓风在北卡罗来纳州威尔明顿附近登陆，并继续造成重大洪水并杀死184多人。
-- -  1953年：匿名的麻醉品第一次会议在南加州举行。
-- -  1949年：松开始的脱轨：未知的破坏者导致旅客列车在日本福岛县脱轨和颠覆，杀死了三名船员，并点燃了日本共产党与占领的日本政府之间的政治大火，最终将导致日本的红色吹扫。
-- -  1949年：6.7女士卡洛娃（Karlıova）地震摇动土耳其东部土耳其，其最大Mercalli强度为X（极端），使320-450死亡。
-- -  1947年：Radcliffe Line是印度和巴基斯坦统治之间的边界。
-- -  1945年：Manchukuo的撤离：在塔利祖（Puyi），当时的曼奇库（Manchukuo）皇帝（Kangde）在塔利兹（Talitzou），正式放弃了帝国王位，解散了国家，并将其领土割让给了中国共和国。
-- -  1945年：乔治·奥威尔（George Orwell）的中篇小说农场首次出版。
-- -  1945年：苏卡诺（Sukarno）和穆罕默德·哈塔（Mohammad Hatta）宣称印度尼西亚的独立性，激发了印尼民族革命，反对荷兰帝国。
+- -  2019年：冰岛的一百名激进分子，官员和其他有关公民为Okjökull冰川举行了葬礼，在曾经覆盖了六平方英里（15.5 km2）之后，该葬礼就完全融化了。
+- -  2017年：有史以来第一次被判处芬兰犯罪的恐怖袭击杀死了两人，炸伤八人。
+- -  2011年：恐怖袭击以色列在埃及边境附近的12号高速公路杀死16人，受伤40。
+- -  2008年：阿富汗战争：乌兹宾谷伏击发生。
+- -  2008年：巴基斯坦总统Pervez Musharraf在弹each的威胁下辞职。
+- -  2005年：巨大的力量停电袭击了印尼岛的爪哇岛；它影响了近1亿人，它是历史上最大，最广泛的停电之一。
+- -  2003年：一岁的扎卡里·特纳（Zachary Turner）在纽芬兰被母亲谋杀，尽管他因谋杀扎卡里的父亲而受到审判，但他的母亲被判处拘留。该案在电影中记录在《亲爱的扎卡里》中，并改革了加拿大的保释法。
+- -  1993年：美国国际航空公司808航班在古巴关塔那摩海军基地的Leeward Point Field发生撞车事故，炸伤了三名机组人员。
+- -  1989年：领先的总统有希望的路易斯·卡洛斯·加恩（Luis CarlosGalán）在哥伦比亚波哥大附近被暗杀。
+- -  1983年：艾丽西亚飓风袭击了德克萨斯州海岸，造成21人丧生，造成超过10亿美元的损失（1983年美元）。
+- -  1977年：1967年第83号《恐怖主义法》在南非国王镇的第83号恐怖主义法案中被捕。后来，他因在这次逮捕期间受伤而死亡，引起了人们对南非种族隔离政策的关注。
+- -  1976年：苏联的机器人探针露娜（Luna）24成功降落在月球上。
+- -  1976年：Panmunjom中的朝鲜斧头谋杀事件导致两名美国陆军官员死亡。
+- -  1973年：Aeroflot A-13航班从阿塞拜疆的Baku-Bina国际机场起飞后坠毁，炸死56人，炸伤8人。
+- -  1971年：越南战争：澳大利亚和新西兰决定从越南撤出部队。
+- -  1966年：越南战争：第六营的巡逻队之后，朗谭之战随之而来，澳大利亚皇家团与PhướCTuy省的越南部队发生冲突。
+- -  1965年：越南战争：Starlite行动开始：美国海军陆战队在美国战争的第一场主要地面大战中摧毁了范·廷半岛上的越共据点。
+- -  1963年：民权运动：詹姆斯·梅雷迪思（James Meredith）成为第一个从密西西比大学毕业的非裔美国人。
+- -  1958年：来自孟加拉国的Brojen Das在比赛中是第一个孟加拉语和第一个这样做的亚洲人，在英国频道中游泳，在39名竞争者中排名第一。
+- -  1958年：弗拉基米尔·纳博科夫（Vladimir Nabokov）有争议的小说洛丽塔（Lolita）在美国出版。
+- -  1950年：比利时共产党主席朱利安·拉哈特（Julien Lahaut）被暗杀。党的报纸归咎于保皇党和雷克斯主义者。
+- -  1949年：1949年，凯米（Kemi）罢工：两名抗议者死于芬兰凯米（Kemi）的警察与前锋抗议游行之间的混战。
+- -  1945年：苏联 - 日本战争：舒姆舒战役：苏联部队降落在舒姆舒岛的武田海滩，并发动了舒姆舒战役；苏联入侵库里群岛开始。
+- -  1945年：苏卡诺（Sukarno）在前一天宣布独立之后，担任印度尼西亚第一任总统。
+- -  1940年：第二次世界大战：最艰难的一日空战是英国战役的一部分。到那时，它是历史上最大的空中参与，双方都遭受了巨大的损失。
+- -  1938年：美国总统富兰克林·罗斯福（Franklin D.
+- -  1937年：一次雷击开始了1937年在肖肖尼国家森林（Shoshone National Forest）的黑水大火，在三天内杀死了15名消防员，并促使美国森林服务局开发了他们的Smokejumper计划。
+- -  1933年：Volksempfänger首次在广播展览会上向德国公众展示；纳粹宣传部长约瑟夫·戈伯尔斯（Joseph Goebbels）发表的演讲预示着电台作为“第八大国”。
+- -  1923年：英国妇女的第一个英国田径锦标赛在英国伦敦举行。
+- -  1920年：批准了《美国宪法》第十九修正案，保证妇女选举权。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-08-17 02:01:39 UTC）*
+*（更新于: 2025-08-18 02:02:30 UTC）*
