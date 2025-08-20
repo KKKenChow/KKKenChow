@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: One hundred activists, officials, and other concerned citizens in Iceland hold a funeral for Okjökull glacier, which has completely melted after having once covered six square miles (15.5 km2).
-- 2017: The first terrorist attack ever sentenced as a crime in Finland kills two and injures eight.
-- 2011: A terrorist attack on Israel's Highway 12 near the Egyptian border kills 16 and injures 40.
-- 2008: War of Afghanistan: The Uzbin Valley ambush occurs.
-- 2008: The President of Pakistan, Pervez Musharraf, resigns under threat of impeachment.
-- 2005: A massive power blackout hits the Indonesian island of Java; affecting almost 100 million people, it is one of the largest and most widespread power outages in history.
-- 2003: One-year-old Zachary Turner is murdered in Newfoundland by his mother, who was awarded custody despite facing trial for the murder of Zachary's father. The case was documented in the film Dear Zachary and led to reform of Canada's bail laws.
-- 1993: American International Airways Flight 808 crashes at Leeward Point Field at Guantanamo Bay Naval Base in Guantánamo Bay, Cuba, injuring the three crew members.
-- 1989: Leading presidential hopeful Luis Carlos Galán is assassinated near Bogotá in Colombia.
-- 1983: Hurricane Alicia hits the Texas coast, killing 21 people and causing over US$1 billion in damage (1983 dollars).
-- 1977: Steve Biko is arrested at a police roadblock under Terrorism Act No. 83 of 1967 in King William's Town, South Africa. He later dies from injuries sustained during this arrest, bringing attention to South Africa's apartheid policies.
-- 1976: The Soviet Union’s robotic probe Luna 24 successfully lands on the Moon.
-- 1976: The Korean axe murder incident in Panmunjom results in the deaths of two US Army officers.
-- 1973: Aeroflot Flight A-13 crashes after takeoff from Baku-Bina International Airport in Azerbaijan, killing 56 people and injuring eight.
-- 1971: Vietnam War: Australia and New Zealand decide to withdraw their troops from Vietnam.
-- 1966: Vietnam War: The Battle of Long Tan ensues after a patrol from the 6th Battalion, Royal Australian Regiment clashes with a Viet Cong force in Phước Tuy Province.
-- 1965: Vietnam War: Operation Starlite begins: United States Marines destroy a Viet Cong stronghold on the Van Tuong peninsula in the first major American ground battle of the war.
-- 1963: Civil rights movement: James Meredith becomes the first African American to graduate from the University of Mississippi.
-- 1958: Brojen Das from Bangladesh swims across the English Channel in a competition as the first Bengali and the first Asian to do so, placing first among the 39 competitors.
-- 1958: Vladimir Nabokov's controversial novel Lolita is published in the United States.
-- 1950: Julien Lahaut, the chairman of the Communist Party of Belgium, is assassinated. The Party newspaper blames royalists and Rexists.
-- 1949: 1949 Kemi strike: Two protesters die in the scuffle between the police and the strikers' protest procession in Kemi, Finland.
-- 1945: Soviet-Japanese War: Battle of Shumshu: Soviet forces land at Takeda Beach on Shumshu Island and launch the Battle of Shumshu; the Soviet Union’s Invasion of the Kuril Islands commences.
-- 1945: Sukarno takes office as the first president of Indonesia, following the country's declaration of independence the previous day.
-- 1940: World War II: The Hardest Day air battle, part of the Battle of Britain, takes place. At that point, it is the largest aerial engagement in history with heavy losses sustained on both sides.
-- 1938: The Thousand Islands Bridge, connecting New York, United States, with Ontario, Canada, over the Saint Lawrence River, is dedicated by U.S. President Franklin D. Roosevelt.
-- 1937: A lightning strike starts the Blackwater Fire of 1937 in Shoshone National Forest, killing 15 firefighters within three days and prompting the United States Forest Service to develop their smokejumper program.
-- 1933: The Volksempfänger is first presented to the German public at a radio exhibition; the presiding Nazi Minister of Propaganda, Joseph Goebbels, delivers an accompanying speech heralding the radio as the ‘eighth great power’.
-- 1923: The first British Track and Field championships for women are held in London, Great Britain.
-- 1920: The Nineteenth Amendment to the United States Constitution is ratified, guaranteeing women's suffrage.
+- 2020: Joe Biden gives his acceptance speech virtually for the 2020 Democratic presidential nomination at the 2020 Democratic National Convention.
+- 2016: Fifty-four people are killed when a suicide bomber detonates himself at a Kurdish wedding party in Gaziantep, Turkey.
+- 2014: Seventy-two people are killed in Japan's Hiroshima Prefecture by a series of landslides caused by a month's worth of rain that fell in one day.
+- 2012: A prison riot in the Venezuelan capital, Caracas, kills at least 20 people.
+- 2011: First Air Flight 6560 was a scheduled domestic flight connecting Yellowknife Airport, Canada and Resolute Bay, Canada. The Boeing 737-210C crashed into terrain 1 mile from the runway, catching fire. Of the 15 people on board, 12 perished while 3 survived with severe injuries.
+- 2008: Spanair Flight 5022, from Madrid, Spain to Gran Canaria, skids off the runway and crashes at Barajas Airport. Of the 172 people on board, 146 die immediately, and eight more later die of injuries sustained in the crash.
+- 2007: China Airlines Flight 120 catches fire and explodes after landing at Naha Airport in Okinawa, Japan.
+- 2006: Sri Lankan Civil War: Sri Lankan Tamil politician and former MP S. Sivamaharajah is shot dead at his home in Tellippalai.
+- 2002: A group of Iraqis opposed to the regime of Saddam Hussein take over the Iraqi embassy in Berlin, Germany for five hours before releasing their hostages and surrendering.
+- 1998: U.S. embassy bombings: The United States launches cruise missile attacks against alleged al-Qaeda camps in Afghanistan and a suspected chemical weapons plant in Sudan in retaliation for the August 7 bombings of American embassies in Kenya and Tanzania.
+- 1998: The Supreme Court of Canada rules that Quebec cannot legally secede from Canada without the federal government's approval.
+- 1997: Souhane massacre in Algeria; over 60 people are killed and 15 kidnapped.
+- 1995: The Firozabad rail disaster kills 358 people in Firozabad, India.
+- 1992: In India, Meitei language (officially known as Manipuri language) was included in the scheduled languages' list and made one of the official languages of the Indian Government.
+- 1991: Estonia, occupied by and incorporated into the Soviet Union in 1940, issues a decision on the re-establishment of independence on the basis of legal continuity of its pre-occupation statehood.
+- 1991: Dissolution of the Soviet Union, August Coup: More than 100,000 people rally outside the Soviet Union's parliament building protesting the coup aiming to depose President Mikhail Gorbachev.
+- 1989: The pleasure boat Marchioness sinks on the River Thames following a collision. Fifty-one people are killed.
+- 1988: The Troubles: Eight British soldiers are killed and 28 wounded when their bus is hit by an IRA roadside bomb in Ballygawley, County Tyrone.
+- 1988: Iran-Iraq War: A ceasefire is agreed after almost eight years of war.
+- 1988: "Black Saturday" of the Yellowstone fire in Yellowstone National Park
+- 1986: In Edmond, Oklahoma, U.S. Postal employee Patrick Sherrill guns down 14 of his co-workers and then commits suicide.
+- 1977: Voyager program: NASA launches the Voyager 2 spacecraft.
+- 1975: ČSA Flight 540 crashes on approach to Damascus International Airport in Damascus, Syria, killing 126 people.
+- 1975: Viking program: NASA launches the Viking 1 planetary probe toward Mars.
+- 1968: Cold War: Warsaw Pact troops invade Czechoslovakia, crushing the Prague Spring. East German participation is limited to a few specialists due to memories of the recent war. Only Albania and Romania refuse to participate.
+- 1962: The NS Savannah, the world's first nuclear-powered civilian ship, embarks on its maiden voyage.
+- 1960: Senegal breaks from the Mali Federation, declaring its independence.
+- 1955: Battle of Philippeville: In Morocco, a force of Berbers from the Atlas Mountains region of Algeria raid two rural settlements and kill 77 French nationals.
+- 1949: Hungary adopts the Hungarian Constitution of 1949 and becomes a People's Republic.
+- 1948: Soviet Consul General in New York, Jacob M. Lomakin is expelled by the United States, due to the Kasenkina Case.
 
 Data from muffinlabs
-*(Updated at: 2025-08-18 02:02:30 UTC)*
+*(Updated at: 2025-08-20 01:47:54 UTC)*
 
 # 历史上的今天 
 
-- -  2019年：冰岛的一百名激进分子，官员和其他有关公民为Okjökull冰川举行了葬礼，在曾经覆盖了六平方英里（15.5 km2）之后，该葬礼就完全融化了。
-- -  2017年：有史以来第一次被判处芬兰犯罪的恐怖袭击杀死了两人，炸伤八人。
-- -  2011年：恐怖袭击以色列在埃及边境附近的12号高速公路杀死16人，受伤40。
-- -  2008年：阿富汗战争：乌兹宾谷伏击发生。
-- -  2008年：巴基斯坦总统Pervez Musharraf在弹each的威胁下辞职。
-- -  2005年：巨大的力量停电袭击了印尼岛的爪哇岛；它影响了近1亿人，它是历史上最大，最广泛的停电之一。
-- -  2003年：一岁的扎卡里·特纳（Zachary Turner）在纽芬兰被母亲谋杀，尽管他因谋杀扎卡里的父亲而受到审判，但他的母亲被判处拘留。该案在电影中记录在《亲爱的扎卡里》中，并改革了加拿大的保释法。
-- -  1993年：美国国际航空公司808航班在古巴关塔那摩海军基地的Leeward Point Field发生撞车事故，炸伤了三名机组人员。
-- -  1989年：领先的总统有希望的路易斯·卡洛斯·加恩（Luis CarlosGalán）在哥伦比亚波哥大附近被暗杀。
-- -  1983年：艾丽西亚飓风袭击了德克萨斯州海岸，造成21人丧生，造成超过10亿美元的损失（1983年美元）。
-- -  1977年：1967年第83号《恐怖主义法》在南非国王镇的第83号恐怖主义法案中被捕。后来，他因在这次逮捕期间受伤而死亡，引起了人们对南非种族隔离政策的关注。
-- -  1976年：苏联的机器人探针露娜（Luna）24成功降落在月球上。
-- -  1976年：Panmunjom中的朝鲜斧头谋杀事件导致两名美国陆军官员死亡。
-- -  1973年：Aeroflot A-13航班从阿塞拜疆的Baku-Bina国际机场起飞后坠毁，炸死56人，炸伤8人。
-- -  1971年：越南战争：澳大利亚和新西兰决定从越南撤出部队。
-- -  1966年：越南战争：第六营的巡逻队之后，朗谭之战随之而来，澳大利亚皇家团与PhướCTuy省的越南部队发生冲突。
-- -  1965年：越南战争：Starlite行动开始：美国海军陆战队在美国战争的第一场主要地面大战中摧毁了范·廷半岛上的越共据点。
-- -  1963年：民权运动：詹姆斯·梅雷迪思（James Meredith）成为第一个从密西西比大学毕业的非裔美国人。
-- -  1958年：来自孟加拉国的Brojen Das在比赛中是第一个孟加拉语和第一个这样做的亚洲人，在英国频道中游泳，在39名竞争者中排名第一。
-- -  1958年：弗拉基米尔·纳博科夫（Vladimir Nabokov）有争议的小说洛丽塔（Lolita）在美国出版。
-- -  1950年：比利时共产党主席朱利安·拉哈特（Julien Lahaut）被暗杀。党的报纸归咎于保皇党和雷克斯主义者。
-- -  1949年：1949年，凯米（Kemi）罢工：两名抗议者死于芬兰凯米（Kemi）的警察与前锋抗议游行之间的混战。
-- -  1945年：苏联 - 日本战争：舒姆舒战役：苏联部队降落在舒姆舒岛的武田海滩，并发动了舒姆舒战役；苏联入侵库里群岛开始。
-- -  1945年：苏卡诺（Sukarno）在前一天宣布独立之后，担任印度尼西亚第一任总统。
-- -  1940年：第二次世界大战：最艰难的一日空战是英国战役的一部分。到那时，它是历史上最大的空中参与，双方都遭受了巨大的损失。
-- -  1938年：美国总统富兰克林·罗斯福（Franklin D.
-- -  1937年：一次雷击开始了1937年在肖肖尼国家森林（Shoshone National Forest）的黑水大火，在三天内杀死了15名消防员，并促使美国森林服务局开发了他们的Smokejumper计划。
-- -  1933年：Volksempfänger首次在广播展览会上向德国公众展示；纳粹宣传部长约瑟夫·戈伯尔斯（Joseph Goebbels）发表的演讲预示着电台作为“第八大国”。
-- -  1923年：英国妇女的第一个英国田径锦标赛在英国伦敦举行。
-- -  1920年：批准了《美国宪法》第十九修正案，保证妇女选举权。
+- -  2020年：乔·拜登（Joe Biden）实际上在2020年民主党民族大会上为2020年民主党总统提名发表了他的接受演讲。
+- -  2016年：当自杀炸弹袭击者在土耳其Gaziantep的库尔德婚礼派对上引爆自己时，有54人被杀。
+- -  2014年：在日本的广岛县被一系列滑坡造成的一系列降雨造成的降雨造成的一系列滑坡在日本的广岛县丧生。
+- -  2012年：委内瑞拉首都加拉加斯的监狱骚乱至少杀死了20人。
+- -  2011年：第一次航空航班6560是连接加拿大耶洛奈夫机场和加拿大坚定湾的预定国内航班。波音737-210C撞向距跑道1英里的地形，着火了。在船上的15人中，有12人丧生，而3人遭受了严重伤害。
+- -  2008年：从西班牙马德里到格兰加那利岛的速度5022航班，从跑道上滑行，在巴拉哈斯机场坠毁。在船上的172人中，有146人立即死亡，另外8人死于坠机事故中受伤。
+- -  2007年：中国航空公司120航班在日本冲绳的NAHA机场降落后袭击并爆炸。
+- -  2006年：斯里兰卡内战：斯里兰卡泰米尔人政治家和前国会议员S. Sivamaharajah在他在Tellippalai的家中被枪杀。
+- -  2002年：一群伊拉克人反对萨达姆·侯赛因政权接管伊拉克大使馆在德国的伊拉克大使馆持续了五个小时，然后才释放人质并投降。
+- -  1998年：美国大使馆爆炸案：美国发动了针对涉嫌在阿富汗基地组织营地的巡航导弹袭击，并在苏丹涉嫌涉嫌化学武器工厂，以报复8月7日在肯尼亚和坦桑尼亚的美国大使馆的爆炸案。
+- -  1998年：加拿大最高法院的规定，未经联邦政府批准，魁北克不能合法从加拿大分离。
+- -  1997年：阿尔及利亚的苏哈恩大屠杀；超过60人被杀，绑架了15人。
+- -  1995年：印度Firozabad的Firozabad铁路灾难杀死了358人。
+- -  1992年：在印度，Meitei语言（正式称为Manipuri语言）被包括在计划的语言列表中，并成为印度政府的官方语言之一。
+- -  1991年：爱沙尼亚（Estonia）于1940年被占领并纳入苏联，根据其占领的法律连续性决定重新建立独立的决定。
+- -  1991年：苏联解散，八月政变：超过100,000人集会在苏联议会大楼之外抗议旨在罢免米哈伊尔·戈尔巴乔夫的政变。
+- -  1989年：碰撞后，游船行军沉入泰晤士河上。五十一个人被杀。
+- -  1988年：麻烦：八名英国士兵在泰隆郡巴利加利的IRA路边炸弹袭击时被杀，28人受伤。
+- -  1988年：伊朗 - 伊拉克战争：战争近八年后，一致了停火。
+- -  1988年：黄石国家公园的黄石大火的“黑色星期六”
+- -  1986年：在俄克拉荷马州的埃德蒙（Edmond），美国邮政员工帕特里克·谢里尔（Patrick Sherrill）枪支击倒了14名同事，然后自杀。
+- -  1977年：Voyager计划：NASA推出了Voyager 2航天器。
+- -  1975年：ČSA航班540撞车撞车前往叙利亚大马士革的大马士革国际机场的撞车事故，造成126人丧生。
+- -  1975年：维京计划：NASA向火星推出了Viking 1行星探测器。
+- -  1968年：冷战：华沙公约部队入侵捷克斯洛伐克，粉碎布拉格春天。由于对最近战争的记忆，东德的参与仅限于一些专家。只有阿尔巴尼亚和罗马尼亚拒绝参加。
+- -  1962年：世界上第一艘核动力民用船NS萨凡纳（NS Savannah）踏上了首次航行。
+- -  1960年：塞内加尔从马里联合会宣布独立。
+- -  1955年：菲利普维尔战役：在摩洛哥，阿尔及利亚阿特拉斯山区地区的一支柏柏尔人袭击了两个农村定居点，并杀死了77名法国国民。
+- -  1949年：匈牙利采用了1949年的匈牙利宪法，并成为人民共和国。
+- -  1948年：苏联领事在纽约，雅各布·洛马金（Jacob M. Lomakin）因卡森基纳案被美国开除。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-08-18 02:02:30 UTC）*
+*（更新于: 2025-08-20 01:47:54 UTC）*
