@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2020: Joe Biden gives his acceptance speech virtually for the 2020 Democratic presidential nomination at the 2020 Democratic National Convention.
-- 2016: Fifty-four people are killed when a suicide bomber detonates himself at a Kurdish wedding party in Gaziantep, Turkey.
-- 2014: Seventy-two people are killed in Japan's Hiroshima Prefecture by a series of landslides caused by a month's worth of rain that fell in one day.
-- 2012: A prison riot in the Venezuelan capital, Caracas, kills at least 20 people.
-- 2011: First Air Flight 6560 was a scheduled domestic flight connecting Yellowknife Airport, Canada and Resolute Bay, Canada. The Boeing 737-210C crashed into terrain 1 mile from the runway, catching fire. Of the 15 people on board, 12 perished while 3 survived with severe injuries.
-- 2008: Spanair Flight 5022, from Madrid, Spain to Gran Canaria, skids off the runway and crashes at Barajas Airport. Of the 172 people on board, 146 die immediately, and eight more later die of injuries sustained in the crash.
-- 2007: China Airlines Flight 120 catches fire and explodes after landing at Naha Airport in Okinawa, Japan.
-- 2006: Sri Lankan Civil War: Sri Lankan Tamil politician and former MP S. Sivamaharajah is shot dead at his home in Tellippalai.
-- 2002: A group of Iraqis opposed to the regime of Saddam Hussein take over the Iraqi embassy in Berlin, Germany for five hours before releasing their hostages and surrendering.
-- 1998: U.S. embassy bombings: The United States launches cruise missile attacks against alleged al-Qaeda camps in Afghanistan and a suspected chemical weapons plant in Sudan in retaliation for the August 7 bombings of American embassies in Kenya and Tanzania.
-- 1998: The Supreme Court of Canada rules that Quebec cannot legally secede from Canada without the federal government's approval.
-- 1997: Souhane massacre in Algeria; over 60 people are killed and 15 kidnapped.
-- 1995: The Firozabad rail disaster kills 358 people in Firozabad, India.
-- 1992: In India, Meitei language (officially known as Manipuri language) was included in the scheduled languages' list and made one of the official languages of the Indian Government.
-- 1991: Estonia, occupied by and incorporated into the Soviet Union in 1940, issues a decision on the re-establishment of independence on the basis of legal continuity of its pre-occupation statehood.
-- 1991: Dissolution of the Soviet Union, August Coup: More than 100,000 people rally outside the Soviet Union's parliament building protesting the coup aiming to depose President Mikhail Gorbachev.
-- 1989: The pleasure boat Marchioness sinks on the River Thames following a collision. Fifty-one people are killed.
-- 1988: The Troubles: Eight British soldiers are killed and 28 wounded when their bus is hit by an IRA roadside bomb in Ballygawley, County Tyrone.
-- 1988: Iran-Iraq War: A ceasefire is agreed after almost eight years of war.
-- 1988: "Black Saturday" of the Yellowstone fire in Yellowstone National Park
-- 1986: In Edmond, Oklahoma, U.S. Postal employee Patrick Sherrill guns down 14 of his co-workers and then commits suicide.
-- 1977: Voyager program: NASA launches the Voyager 2 spacecraft.
-- 1975: ČSA Flight 540 crashes on approach to Damascus International Airport in Damascus, Syria, killing 126 people.
-- 1975: Viking program: NASA launches the Viking 1 planetary probe toward Mars.
-- 1968: Cold War: Warsaw Pact troops invade Czechoslovakia, crushing the Prague Spring. East German participation is limited to a few specialists due to memories of the recent war. Only Albania and Romania refuse to participate.
-- 1962: The NS Savannah, the world's first nuclear-powered civilian ship, embarks on its maiden voyage.
-- 1960: Senegal breaks from the Mali Federation, declaring its independence.
-- 1955: Battle of Philippeville: In Morocco, a force of Berbers from the Atlas Mountains region of Algeria raid two rural settlements and kill 77 French nationals.
-- 1949: Hungary adopts the Hungarian Constitution of 1949 and becomes a People's Republic.
-- 1948: Soviet Consul General in New York, Jacob M. Lomakin is expelled by the United States, due to the Kasenkina Case.
+- 2017: A solar eclipse traverses the continental United States.
+- 2013: Hundreds of people are reported killed by chemical attacks in the Ghouta region of Syria.
+- 2000: American golfer Tiger Woods wins the 82nd PGA Championship and becomes the first golfer since Ben Hogan in 1953 to win three majors in a calendar year.
+- 1995: Atlantic Southeast Airlines Flight 529, an Embraer EMB 120 Brasilia, attempts to divert to West Georgia Regional Airport after the left engine fails, but the aircraft crashes in Carroll County near Carrollton, Georgia, killing nine of the 29 people on board.
+- 1994: Royal Air Maroc Flight 630 crashes in Douar Izounine, Morocco, killing all 44 people on board.
+- 1993: NASA loses contact with the Mars Observer spacecraft.
+- 1991: Coup attempt against Mikhail Gorbachev collapses.
+- 1991: Latvia declares renewal of its full independence after its occupation by the Soviet Union since 1940.
+- 1988: The 6.9 Mw  Nepal earthquake shakes the Nepal-India border with a maximum Mercalli intensity of VIII (Severe), leaving 709-1,450 people killed and thousands injured.
+- 1986: Carbon dioxide gas erupts from volcanic Lake Nyos in Cameroon, killing up to 1,800 people within a 20-kilometre (12 mi) range.
+- 1983: Philippine opposition leader Benigno Aquino Jr. is assassinated at Manila International Airport (now renamed Ninoy Aquino International Airport in his honor).
+- 1982: Lebanese Civil War: The first troops of a multinational force lands in Beirut to oversee the Palestine Liberation Organization's withdrawal from Lebanon.
+- 1971: A bomb exploded in the Liberal Party campaign rally in Plaza Miranda, Manila, Philippines with several anti-Marcos political candidates injured.
+- 1968: James Anderson Jr. posthumously receives the first Medal of Honor to be awarded to an African American U.S. Marine.
+- 1968: Cold War: Nicolae Ceaușescu, leader of the Socialist Republic of Romania, publicly condemns the Soviet-led Warsaw Pact invasion of Czechoslovakia, encouraging the Romanian population to arm itself against possible Soviet reprisals.
+- 1965: The Socialist Republic of Romania is proclaimed, following the adoption of a new constitution.
+- 1963: Xá Lợi Pagoda raids: The Army of the Republic of Vietnam Special Forces loyal to Ngô Đình Nhu, brother of President Ngo Dinh Diem, vandalizes Buddhist pagodas across the country, arresting thousands and leaving an estimated hundreds dead.
+- 1959: United States President Dwight D. Eisenhower signs an executive order proclaiming Hawaii the 50th state of the union. Hawaii's admission is currently commemorated by Hawaii Admission Day.
+- 1957: The Soviet Union successfully conducts a long-range test flight of the R-7 Semyorka, the first intercontinental ballistic missile.
+- 1945: Physicist Harry Daghlian is fatally irradiated in a criticality accident during an experiment with the Demon core at Los Alamos National Laboratory.
+- 1944: World War II: Canadian and Polish units capture the strategically important town of Falaise, Calvados, France.
+- 1944: Dumbarton Oaks Conference, prelude to the United Nations, begins.
+- 1942: World War II: The Guadalcanal Campaign: American forces defeat an attack by Imperial Japanese Army soldiers in the Battle of the Tenaru.
+- 1918: World War I: The Second Battle of the Somme begins.
+- 1914: World War I: The Battle of Charleroi, a successful German attack across the River Sambre that pre-empted a French offensive in the same area.
+- 1911: The Mona Lisa is stolen by Vincenzo Peruggia, a Louvre employee.
+- 1901: Six hundred American school teachers, Thomasites, arrived in Manila on the USAT Thomas.
+- 1888: The first successful adding machine in the United States is patented by William Seward Burroughs.
+- 1883: An F5 tornado strikes Rochester, Minnesota, leading to the creation of the Mayo Clinic.
+- 1879: The locals of Knock, County Mayo, Ireland report their having seen an apparition of the Virgin Mary. The apparition is later named “Our Lady of Knock” and the spot transformed into a Catholic pilgrimage site.
 
 Data from muffinlabs
-*(Updated at: 2025-08-20 01:47:54 UTC)*
+*(Updated at: 2025-08-21 01:46:39 UTC)*
 
 # 历史上的今天 
 
-- -  2020年：乔·拜登（Joe Biden）实际上在2020年民主党民族大会上为2020年民主党总统提名发表了他的接受演讲。
-- -  2016年：当自杀炸弹袭击者在土耳其Gaziantep的库尔德婚礼派对上引爆自己时，有54人被杀。
-- -  2014年：在日本的广岛县被一系列滑坡造成的一系列降雨造成的降雨造成的一系列滑坡在日本的广岛县丧生。
-- -  2012年：委内瑞拉首都加拉加斯的监狱骚乱至少杀死了20人。
-- -  2011年：第一次航空航班6560是连接加拿大耶洛奈夫机场和加拿大坚定湾的预定国内航班。波音737-210C撞向距跑道1英里的地形，着火了。在船上的15人中，有12人丧生，而3人遭受了严重伤害。
-- -  2008年：从西班牙马德里到格兰加那利岛的速度5022航班，从跑道上滑行，在巴拉哈斯机场坠毁。在船上的172人中，有146人立即死亡，另外8人死于坠机事故中受伤。
-- -  2007年：中国航空公司120航班在日本冲绳的NAHA机场降落后袭击并爆炸。
-- -  2006年：斯里兰卡内战：斯里兰卡泰米尔人政治家和前国会议员S. Sivamaharajah在他在Tellippalai的家中被枪杀。
-- -  2002年：一群伊拉克人反对萨达姆·侯赛因政权接管伊拉克大使馆在德国的伊拉克大使馆持续了五个小时，然后才释放人质并投降。
-- -  1998年：美国大使馆爆炸案：美国发动了针对涉嫌在阿富汗基地组织营地的巡航导弹袭击，并在苏丹涉嫌涉嫌化学武器工厂，以报复8月7日在肯尼亚和坦桑尼亚的美国大使馆的爆炸案。
-- -  1998年：加拿大最高法院的规定，未经联邦政府批准，魁北克不能合法从加拿大分离。
-- -  1997年：阿尔及利亚的苏哈恩大屠杀；超过60人被杀，绑架了15人。
-- -  1995年：印度Firozabad的Firozabad铁路灾难杀死了358人。
-- -  1992年：在印度，Meitei语言（正式称为Manipuri语言）被包括在计划的语言列表中，并成为印度政府的官方语言之一。
-- -  1991年：爱沙尼亚（Estonia）于1940年被占领并纳入苏联，根据其占领的法律连续性决定重新建立独立的决定。
-- -  1991年：苏联解散，八月政变：超过100,000人集会在苏联议会大楼之外抗议旨在罢免米哈伊尔·戈尔巴乔夫的政变。
-- -  1989年：碰撞后，游船行军沉入泰晤士河上。五十一个人被杀。
-- -  1988年：麻烦：八名英国士兵在泰隆郡巴利加利的IRA路边炸弹袭击时被杀，28人受伤。
-- -  1988年：伊朗 - 伊拉克战争：战争近八年后，一致了停火。
-- -  1988年：黄石国家公园的黄石大火的“黑色星期六”
-- -  1986年：在俄克拉荷马州的埃德蒙（Edmond），美国邮政员工帕特里克·谢里尔（Patrick Sherrill）枪支击倒了14名同事，然后自杀。
-- -  1977年：Voyager计划：NASA推出了Voyager 2航天器。
-- -  1975年：ČSA航班540撞车撞车前往叙利亚大马士革的大马士革国际机场的撞车事故，造成126人丧生。
-- -  1975年：维京计划：NASA向火星推出了Viking 1行星探测器。
-- -  1968年：冷战：华沙公约部队入侵捷克斯洛伐克，粉碎布拉格春天。由于对最近战争的记忆，东德的参与仅限于一些专家。只有阿尔巴尼亚和罗马尼亚拒绝参加。
-- -  1962年：世界上第一艘核动力民用船NS萨凡纳（NS Savannah）踏上了首次航行。
-- -  1960年：塞内加尔从马里联合会宣布独立。
-- -  1955年：菲利普维尔战役：在摩洛哥，阿尔及利亚阿特拉斯山区地区的一支柏柏尔人袭击了两个农村定居点，并杀死了77名法国国民。
-- -  1949年：匈牙利采用了1949年的匈牙利宪法，并成为人民共和国。
-- -  1948年：苏联领事在纽约，雅各布·洛马金（Jacob M. Lomakin）因卡森基纳案被美国开除。
+- -  2017年：日食遍历美国大陆。
+- -  2013年：据报道，数百人在叙利亚的古塔地区被化学攻击杀害。
+- -  2000年：美国高尔夫球手伍兹（American Golfer Tiger Woods）赢得了第82届PGA冠军，并成为自1953年本·霍根（Ben Hogan）以来第一位在一个日历年中赢得三名专业的高尔夫球手。
+- -  1995年：大西洋东南航空529号航空公司120巴西利亚（Brasilia），左发动机发生故障后，试图转移到西乔治亚地区机场，但飞机在乔治亚州卡罗尔顿附近的卡罗尔县坠毁，造成29人丧生船上的29人。
+- -  1994年：摩洛哥杜阿伊祖宁（Douar Izounine）的皇家航空Maroc 630撞车事故，杀死了所有44名船上的人。
+- -1993：NASA失去了与火星观察员航天器的接触。
+- -1991：米哈伊尔·戈尔巴乔夫（Mikhail Gorbachev）的政变崩溃。
+- -  1991年：拉脱维亚自1940年以来苏联占领后宣布其全部独立性。
+- -  1988年：6.9兆瓦的尼泊尔地震摇动了尼泊尔 - 印度边界，最大的Mercalli强度为VIII（严重），造成709-1,450人丧生，数千人受伤。
+- -  1986年：喀麦隆火山湖NYO爆发二氧化碳气体，在20公里（12英里）范围内杀死了多达1,800人。
+- -  1983年：菲律宾反对派领导人贝尼尼奥·阿基诺（Benigno Aquino Jr.
+- -  1982年：黎巴嫩内战：贝鲁特跨国部队的第一部队负责监督巴勒斯坦解放组织从黎巴嫩撤离。
+- -  1971年：在菲律宾马尼拉市米兰达广场的自由党运动集会上爆炸了一枚炸弹，几名反马尔科斯政治候选人受伤。
+- -  1968年：小詹姆斯·安德森（James Anderson Jr.
+- -  1968年：冷战：罗马尼亚社会主义共和国领导人尼古拉·库埃斯库（Nicolae Ceaușescu）公开谴责苏联领导的华沙条约入侵捷克斯洛伐克，鼓励罗马尼亚人民对可能的苏联报复进行武装。
+- -  1965年：在采用新宪法之后，宣布罗马尼亚社会主义共和国。
+- -  1963年：Xálợi宝塔突袭：越南共和国的军队忠于恩格·迪姆·迪姆（Ngo Dinh Diem）总统兄弟恩格·恩·诺（Ngô`nhNhu），破坏了全国各地的佛教宝塔，逮捕了数千人，造成数百人死亡。
+- -  1959年：美国总统德怀特·D·艾森豪威尔（D.目前，夏威夷的入场日在夏威夷入学日纪念。
+- -  1957年：苏联成功地进行了R-7 Semyorka的远程测试飞行，这是第一枚洲际弹道导弹。
+- -  1945年：物理学家哈里·达格里安（Harry Daghlian）在洛斯阿拉莫斯国家实验室（Los Alamos National Laboratory）的恶魔核心实验中，在一次重大事故中致命地辐照。
+- -  1944年：第二次世界大战：加拿大和波兰单位占领了法国卡尔瓦多斯的战略性重要的小镇。
+- -  1944年：联合国前奏的邓巴顿·奥克斯（Dumbarton Oaks）会议开始。
+- -  1942年：第二次世界大战：瓜达尔卡纳尔战役：美军在田纳鲁战役中击败了日本陆军士兵的袭击。
+- -  1918年：第一次世界大战：第二次索姆之战开始。
+- -  1914年：第一次世界大战：夏勒罗战役，这是一场在河水中成功的德国袭击，在同一地区抢占法国攻势。
+- -  1911年：莫娜·丽莎（Mona Lisa）被卢浮宫雇员Vincenzo Peruggia偷走了。
+- -  1901年：六百名美国学校老师，托马斯（Thomasites），乘坐托马斯（Usat Thomas）到达马尼拉。
+- -  1888年：威廉·塞沃德·伯劳斯（William Seward Burroughs）在美国获得了第一台成功的添加机。
+- -  1883年：明尼苏达州罗切斯特（Rochester）的F5龙卷风袭击，导致了梅奥诊所的创建。
+- -  1879年：爱尔兰梅奥县的敲门当地人报告说，他们看到了圣母玛利亚的幻影。幻影后来被命名为“敲门夫人”，该地点变成了天主教朝圣地。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-08-20 01:47:54 UTC）*
+*（更新于: 2025-08-21 01:46:39 UTC）*
