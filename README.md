@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: 2022 Phoenix shooting: A man opens fire on pedestrians outside of a hotel in Phoenix, Arizona, resulting in the deaths of 3 people, including the perpetrator.
-- 2017: China-India border standoff: China and India both pull their troops out of Doklam, putting an end to a two-month-long stalemate over China's construction of a road in disputed territory.
-- 2016: The first experimental mission of ISRO's Scramjet Engine towards the realisation of an Air Breathing Propulsion System is successfully conducted from Satish Dhawan Space Centre SHAR, Sriharikota.
-- 2009: NASA's Space Shuttle Discovery launches on STS-128.
-- 2003: In "one of the most complicated and bizarre crimes in the annals of the FBI", Brian Wells dies after becoming involved in a complex plot involving a bank robbery, a scavenger hunt, and a homemade explosive device.
-- 1999: The Russian space mission Soyuz TM-29 reaches completion, ending nearly 10 years of continuous occupation on the space station Mir as it approaches the end of its life.
-- 1998: Second Congo War: Loyalist troops backed by Angolan and Zimbabwean forces repulse the RCD and Rwandan offensive on Kinshasa.
-- 1998: Pakistan's National Assembly passes a constitutional amendment to make the "Qur'an and Sunnah" the "supreme law" but the bill is defeated in the Senate.
-- 1996: Chicago Seven defendant David Dellinger, antiwar activist Bradford Lyttle, Civil Rights Movement historian Randy Kryn, and eight others are arrested by the Federal Protective Service while protesting in a demonstration at the Kluczynski Federal Building in downtown Chicago during that year's Democratic National Convention.
-- 1993: A Tajikistan Airlines Yakovlev Yak-40 crashes during takeoff from Khorog Airport in Tajikistan, killing 82.
-- 1993: The autonomous Croatian Community of Herzeg-Bosnia in Bosnia and Herzegovina is transformed into the Croatian Republic of Herzeg-Bosnia.
-- 1993: Singaporean presidential election: Former Deputy Prime Minister Ong Teng Cheong is elected President of Singapore. Although it is the first presidential election to be determined by popular vote, the allowed candidates consist only of Ong and a reluctant whom the government had asked to run to confer upon the election the semblance of an opposition.
-- 1993: NASA's Galileo probe performs a flyby of the asteroid 243 Ida. Astronomers later discover a moon, the first known asteroid moon, in pictures from the flyby and name it Dactyl.
-- 1990: An F5 tornado strikes the Illinois cities of Plainfield and Joliet, killing 29 people.
-- 1990: Gulf War: Iraq declares Kuwait to be its newest province.
-- 1988: Ramstein air show disaster: Three aircraft of the Frecce Tricolori demonstration team collide and the wreckage falls into the crowd. Seventy-five are killed and 346 seriously injured.
-- 1973: Norrmalmstorg robbery: Stockholm police secure the surrenders of hostage-takers Jan-Erik Olsson and Clark Olofsson, defusing the Norrmalmstorg hostage crisis. The behaviours of the hostages later give rise to the term Stockholm syndrome.
-- 1968: Police and protesters clash during 1968 Democratic National Convention protests as protesters chant "The whole world is watching".
-- 1964: The Philadelphia race riot begins.
-- 1963: March on Washington for Jobs and Freedom: Rev. Dr. Martin Luther King Jr. gives his I Have a Dream speech.
-- 1957: U.S. Senator Strom Thurmond begins a filibuster to prevent the United States Senate from voting on the Civil Rights Act of 1957; he stopped speaking 24 hours and 18 minutes later, the longest filibuster ever conducted by a single Senator.
-- 1955: Black teenager Emmett Till is lynched in Mississippi for whistling at a white woman, galvanizing the nascent civil rights movement.
-- 1946: The Workers' Party of North Korea, predecessor of the ruling Workers' Party of Korea, is founded at a congress held in Pyongyang, North Korea.
-- 1944: World War II: Marseille and Toulon are liberated.
-- 1943: Denmark in World War II: German authorities demand that Danish authorities crack down on acts of resistance. The next day, martial law is imposed on Denmark.
-- 1937: Toyota Motors becomes an independent company.
-- 1936: Nazi Germany begins its mass arrests of Jehovah's Witnesses, who are interned in concentration camps.
-- 1924: The Georgian opposition stages the August Uprising against the Soviet Union.
-- 1921: Russian Civil War: The Red Army dissolves the Makhnovshchina after driving the Revolutionary Insurgent Army out of Ukraine.
-- 1917: Ten suffragists, members of the Silent Sentinels, are arrested while picketing the White House in favor of women's suffrage in the United States.
+- 2022: Russo-Ukrainian War: Ukraine begins its southern counteroffensive in the Kherson Oblast, eventually culminating in the liberation of the city of Kherson.
+- 2020: 2020 Women's FA Community Shield.
+- 2012: The XIV Paralympic Games open in London, England, United Kingdom.
+- 2012: At least 26 Chinese miners are killed and 21 missing after a blast in the Xiaojiawan coal mine, located at Panzhihua, Sichuan Province.
+- 2005: Hurricane Katrina devastates much of the U.S. Gulf Coast from Louisiana to the Florida Panhandle, killing up to 1,836 people and causing $125 billion in damage.
+- 2003: Sayed Ayatollah Mohammed Baqir al-Hakim, the Shia Muslim leader in Iraq, is assassinated in a terrorist bombing, along with nearly 100 worshippers as they leave a mosque in Najaf.
+- 2001: Four people are killed when Binter Mediterráneo Flight 8261 crashes into the N-340 highway near Málaga Airport.
+- 1998: Eighty people are killed when Cubana de Aviación Flight 389 crashes during a rejected takeoff from the Old Mariscal Sucre International Airport in Quito, Ecuador.
+- 1997: At least 98 villagers are killed by the Armed Islamic Group of Algeria GIA in the Rais massacre, Algeria.
+- 1997: Netflix is launched as an internet DVD rental service.
+- 1996: Vnukovo Airlines Flight 2801, a Tupolev Tu-154, crashes into a mountain on the Arctic island of Spitsbergen, killing all 141 aboard.
+- 1991: Libero Grassi, an Italian businessman from Palermo, is killed by the Sicilian Mafia after taking a solitary stand against their extortion demands.
+- 1991: Supreme Soviet of the Soviet Union suspends all activities of the Soviet Communist Party.
+- 1987: Odaeyang mass suicide: Thirty-three individuals linked to a religious cult are found dead in the attic of a cafeteria in Yongin, South Korea. Investigators attribute their deaths to a murder-suicide pact.
+- 1982:  Meitnerium, a synthetic chemical element with the atomic number 109, is first synthesized at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany.
+- 1975: El Tacnazo:  Francisco Morales Bermúdez, Peruvian Prime Minister carries out a coup d'état in the city of Tacna, forcing the sitting President of Peru, Juan Velasco Alvarado, to resign and assuming his place as the new President.
+- 1970: Chicano Moratorium against the Vietnam War, East Los Angeles, California. Police riot kills three people, including journalist Rubén Salazar.
+- 1966: Leading Egyptian thinker Sayyid Qutb is executed for plotting the assassination of President Gamal Abdel Nasser.
+- 1966: The Beatles perform their last concert before paying fans at Candlestick Park in San Francisco.
+- 1965: The Gemini V spacecraft returns to Earth, landing in the Atlantic Ocean.
+- 1960: Air France Flight 343 crashes on approach to Yoff Airport in Senegal, killing all 63 aboard.
+- 1958: United States Air Force Academy opens in Colorado Springs, Colorado.
+- 1952: American experimental composer John Cage's 4’33” premieres at Maverick Concert Hall, played by American pianist David Tudor.
+- 1950: Korean War: British Commonwealth Forces Korea arrives to bolster the US presence.
+- 1949: Soviet atomic bomb project: The Soviet Union tests its first atomic bomb, known as First Lightning or Joe 1, at Semipalatinsk, Kazakhstan.
+- 1948: Northwest Airlines Flight 421 crashes in Fountain City, Wisconsin, killing all 37 aboard.
+- 1944: World War II:  Slovak National Uprising takes place as 60,000 Slovak troops turn against the Nazis.
+- 1943: World War II: German-occupied Denmark scuttles most of its navy; Germany dissolves the Danish government.
+- 1941: World War II: Tallinn, the capital of Estonia, is occupied by Nazi Germany following an occupation by the Soviet Union.
+- 1930: The last 36 remaining inhabitants of St Kilda are voluntarily evacuated to other parts of Scotland.
 
 Data from muffinlabs
-*(Updated at: 2025-08-28 01:44:09 UTC)*
+*(Updated at: 2025-08-29 01:44:11 UTC)*
 
 # 历史上的今天 
 
-- -2022：2022凤凰枪击：一名男子在亚利桑那州凤凰城的一家酒店外面向行人开火，导致3人死亡，包括肇事者。
-- -  2017年：中国印度边境僵局：中国和印度都将他们的部队从多克拉姆（Doklam）撤出，结束了一个为期两个月的僵局，因为中国在有争议的领土上建造了一条道路。
-- -  2016年：ISRO的Scramjet发动机的第一个实验任务成功地从Sriharikota的Satish Dhawan太空中心Shars成功地进行了空气呼吸推进系统。
-- -  2009年：NASA的航天飞机发现在STS-128上推出。
-- -  2003年：在“联邦调查局史上最复杂，最奇怪的犯罪之一”中，布莱恩·威尔斯（Brian Wells）在参与了涉及银行抢劫，寻宝游戏和自制爆炸装置的复杂情节之后去世。
-- -  1999年：俄罗斯太空任务Soyuz TM-29达到了完成，在米尔（Mir）临近生命的终结时，在空间站Mir上的持续占领将近10年。
-- -  1998年：第二刚果战争：由安哥拉和津巴布韦部队支持的忠诚派军队对金沙萨的RCD和卢旺达进攻击退。
-- -  1998年：巴基斯坦国民议会通过了一项宪法修正案，使“古兰经”和“圣训”“最高法”，但该法案在参议院被击败。
-- -  1996年：芝加哥七名被告戴维·戴林格（David Dellinger），反战激进主义者布拉德福德·莱特特尔（Bradford Lyttle），民权运动历史学家兰迪·克里恩（Randy Kryn）和另外八人被联邦保护局逮捕，同时在那年芝加哥的克鲁辛斯基联邦大楼举行的示威活动中，在芝加哥市中心的一年中，在那年的民主党民族大会上。
-- -  1993年：塔吉克斯坦航空公司Yakovlev Yak-40在从塔吉克斯坦的Khorog机场起飞时坠毁，造成82人丧生。
-- -  1993年：波斯尼亚和黑塞哥维那的Herzeg-Bosnia的自主克罗地亚社区被转变为克罗地亚的黑泽 - 波斯尼亚共和国。
-- -  1993年：新加坡总统大选：前副总理昂宁（Ong Teng Cheong）当选为新加坡总统。尽管这是第一次由普选投票决定的总统大选，但允许的候选人仅由ONG和一个勉强的人组成，而政府要求竞选反对派的外表。
-- -  1993年：NASA的伽利略探测器进行了小行星243 IDA的飞行。天文学家后来在飞比（Flyby）的图片中发现了月亮，这是第一个已知的小行星月亮，并将其命名为dactyl。
-- -  1990年：F5龙卷风袭击了普莱恩菲尔德和乔利埃特的伊利诺伊州城市，炸死29人。
-- -  1990年：海湾战争：伊拉克宣布科威特是其最新省。
-- -  1988年：拉姆斯坦航空表演灾难：三架Frecce Tricolori示威团队的飞机碰撞，残骸落入了人群中。七十五被杀，346人受重伤。
-- -  1973年：Norrmalmstorg抢劫：斯德哥尔摩警察局确保了人质卫星Jan-Erik Olsson和Clark Olofsson的投降，破坏了Norrmalmstorg人质危机。人质的行为后来引起了斯德哥尔摩综合征一词。
-- -  1968年：1968年，警察和抗议者在1968年民主党全国代表大会上发生冲突，抗议者喊着“全世界在注视”。
-- -  1964年：费城种族骚乱开始。
-- -  1963年：在华盛顿进行工作和自由的三月：小马丁·路德·金（Martin Luther King Jr.）牧师发表了我的梦想演讲。
-- -  1957年：美国参议员斯特罗姆·瑟蒙德（Strom Thurmond）开始了诉讼，以防止美国参议院对1957年的《民权法》进行投票；他停止了24小时零18分钟后的讲话，这是一位参议员有史以来最长的表现。
-- -  1955年：黑人少年艾米特·蒂尔（Emmett Till）因对一名白人妇女的吹口哨而被私刑，使新生的民权运动煽动。
-- -  1946年：朝鲜执政工人党的前任朝鲜工人党是在朝鲜平壤举行的国会的。
-- -  1944年：第二次世界大战：马赛和图伦被解放了。
-- -  1943年：第二次世界大战中的丹麦：德国当局要求丹麦当局对抗抵抗行为。第二天，武术在丹麦施加。
-- -  1937年：丰田汽车成为一家独立公司。
-- -  1936年：纳粹德国开始大规模逮捕耶和华见证人，后者在集中营。
-- -  1924年：格鲁吉亚的反对派在八月起反对苏联的起义。
-- -  1921年：俄罗斯内战：红军在将革命叛乱军带出乌克兰后解散了马克诺夫什基纳。
-- -  1917年：十名参权分子，沉默的哨兵成员在纠察白宫，以支持美国妇女选举权的同时被捕。
+- -  2022年：鲁斯索 - 乌克兰战争：乌克兰开始在赫尔森州的南方反击，最终在霍森市解放时达到了最终。
+- -  2020年：2020年女子足总社区盾牌。
+- -  2012年：XIV残奥会在英国英国伦敦开放。
+- -  2012年：在位于四川省潘吉瓦阿的小米煤矿爆炸后，至少有26名中国矿工被杀，21名失踪。
+- -  2005年：卡特里娜飓风从路易斯安那州到佛罗里达潘汉德尔（Panhandle）摧毁了美国墨西哥湾沿岸的大部分地区，造成了多达1,836人的造成人数，造成了1250亿美元的损失。
+- -  2003年：伊拉克什叶派穆斯林领导人的赛义德·阿亚图拉·穆罕默德·巴基尔·哈基姆（Sayed Ayatollah Mohammed Baqir Al-Hakim）在恐怖爆炸案中被暗杀，以及近100名崇拜者在纳贾夫（Najaf）离开清真寺。
+- -  2001年：当BinterMediterráneo8261航班撞上Málaga机场附近的N-340高速公路时，有四人被杀。
+- -  1998年：当Cubana deAviación389航班在厄瓜多尔Quito的旧Mariscal Sucre国际机场的一次拒绝起飞时，八十人丧生。
+- -  1997年：至少有98名村民在阿尔及利亚Rais大屠杀中被武装的阿尔及利亚·吉亚（Algeria Gia）武装的伊斯兰群体杀害。
+- -  1997年：Netflix作为Internet DVD租赁服务推出。
+- -  1996年：vnukovo航空公司2801航班（Tupolev tu-154）坠毁在北极斯皮斯伯根（Spitsbergen）北极岛上的一座山上，杀死了全部141号船。
+- -  1991年：来自巴勒莫的意大利商人利比罗·格拉西（Libero Grassi）在反对勒索要求的孤独立场后被西西里黑手党杀害。
+- -  1991年：苏联最高苏联暂停了苏联共产党的所有活动。
+- -  1987年：奥达扬（Odaeyang）大规模自杀：与宗教邪教有关的三十三个人被发现死于韩国杨金的自助餐厅的阁楼。调查人员将他们的死亡归因于谋杀谋杀案。
+- -  1982年：Meitnerium是一种原子数109的合成化学元件，首先是在德国达姆施塔特（Darmstadt）的Gesellschaftfürschwerionenforschung上合成的。
+- -  1975年：埃尔·塔克纳佐（El Tacnazo）：秘鲁总理弗朗西斯科·莫拉莱斯·贝尔穆德斯（Francisco MoralesBermúdez）在塔克纳（Tacna）市举行了政变，迫使秘鲁现任主席胡安·韦拉斯科·阿尔瓦拉多（Juan Velasco Alvarado）辞职并担任新总统的地位。
+- -  1970年：加利福尼亚州东洛杉矶的奇卡诺暂停越南战争。警方暴动杀死了三人，包括记者鲁本·萨拉萨尔（RubénSalazar）。
+- -  1966年：领先的埃及思想家赛义德·库特布（Sayyid Qutb）被处决，以策划加游戏总统阿卜杜勒·纳赛尔（Gamal Abdel Nasser）的暗杀。
+- -  1966年：甲壳虫乐队表演了他们的最后一场音乐会，然后在旧金山的烛台公园付给球迷。
+- -  1965年：Gemini V航天器返回地球，降落在大西洋。
+- -  1960年：法国航班343航班在驶向塞内加尔的Yoff机场的临近时撞车，杀死了所有63号。
+- -  1958年：美国空军学院在科罗拉多州科罗拉多斯普林斯开业。
+- -  1952年：美国实验作曲家约翰·凯奇（John Cage）的4’33“在美国钢琴家大卫·厄尔（David Dudor）饰演的小牛音乐厅首映。
+- -  1950年：朝鲜战争：英联邦部队韩国抵达美国的存在。
+- -  1949年：苏联原子弹项目：苏联测试其在哈萨克斯坦Semipalatinsk的第一枚原子弹，被称为第一雷电或乔1。
+- -  1948年：西北航空公司421航班在威斯康星州的喷泉市撞车，杀死了所有37号。
+- -  1944年：第二次世界大战：斯洛伐克民族起义发生在60,000个斯洛伐克军队对付纳粹。
+- -  1943年：第二次世界大战：德国占领的丹麦大部分海军；德国解散了丹麦政府。
+- -  1941年：第二次世界大战：爱沙尼亚首府塔林在苏联占领后被纳粹德国占领。
+- -  1930年：圣基尔达的最后36名居民自愿撤离到苏格兰其他地区。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-08-28 01:44:09 UTC）*
+*（更新于: 2025-08-29 01:44:11 UTC）*
