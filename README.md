@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: At least 129 inmates are killed and 59 more injured in an attempted prison break at Makala Prison in Kinshasa, Democratic Republic of the Congo.
-- 2024: A suicide bombing in Kabul, Afghanistan, kills 6 people and injures 13.
-- 2024: Four people are killed in a mass shooting targeting homeless people on a Chicago Transit Authority train in Forest Park, Illinois, United States.
-- 2023: India's first solar observation mission: The Indian Space Research Organisation (ISRO) successfully launches Aditya-L1 from Satish Dhawan space centre.
-- 2022: Eighteen people are killed and 23 others are injured by a suicide bombing at a Sunni mosque in Herat, Afghanistan.
-- 2019: The dive boat MV Conception catches fire and sinks near Santa Cruz Island, killing 34.
-- 2019: Hurricane Dorian, a category 5 hurricane, devastates the Bahamas, killing at least five.
-- 2018: National Museum of Brazil fire, A massive fire destroys most of the Paço de São Cristóvão, which houses the National Museum of Brazil, in Rio de Janeiro. The museum holds important archaeοlogical and anthropological objects, including the remains of the Luzia Woman, Marajoara vases and Egyptian mummies.
-- 2013: The Eastern span replacement of the San Francisco-Oakland Bay Bridge opens at 10:15 pm at a cost of $6.4 billion, after the 1989 Loma Prieta earthquake damaged the old span.
-- 2010: Israel-Palestinian conflict: the 2010 Israeli-Palestinian peace talks are launched by the United States.
-- 2009: The Andhra Pradesh, India helicopter crash occurred near Rudrakonda Hill, 40 nautical miles (74 km) from Kurnool, Andhra Pradesh, India. Fatalities included Y. S. Rajasekhara Reddy, the Chief Minister of the Indian state of Andhra Pradesh.
-- 2008: Google launches its Google Chrome web browser.
-- 1998: The UN's International Criminal Tribunal for Rwanda finds Jean-Paul Akayesu, the former mayor of a small town in Rwanda, guilty of nine counts of genocide.
-- 1998: Swissair Flight 111 crashes near Peggy's Cove, Nova Scotia; all 229 people on board are killed.
-- 1992: The 7.7 Mw  Nicaragua earthquake affected the west coast of Nicaragua. With a .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Ms-Mw disparity of half a unit, this tsunami earthquake triggered a tsunami that caused most of the damage and casualties, with at least 116 killed. Typical runup heights were 3-8 meters (9.8-26.2 ft).
-- 1990: Transnistria is unilaterally proclaimed a Soviet republic; the Soviet president Mikhail Gorbachev declares the decision null and void.
-- 1987: In Moscow, the trial begins for 19-year-old pilot Mathias Rust, who flew his Cessna airplane into Red Square in May.
-- 1985: Sri Lankan Civil War: Sri Lankan Tamil politicians and former MPs M. Alalasundaram and V. Dharmalingam are shot dead.
-- 1984: Seven people are shot and killed and 12 wounded in the Milperra massacre, a shootout between the rival motorcycle gangs Bandidos and Comancheros in Sydney, Australia.
-- 1970: Aeroflot Flight 3630, a Tupolev Tu-124 en route from southern Russia to Lithuania, crashes after the pilots lost control of the aircraft at cruise altitude between Rostov-on-Don Airport and Vilnius Airport, on the second leg of the flight; all 37 passengers and crew are killed.
-- 1970: NASA announces the cancellation of two Apollo missions to the Moon, Apollo 15 (the designation is re-used by a later mission), and Apollo 19.
-- 1968: Operation OAU begins during the Nigerian Civil War.
-- 1963: CBS Evening News becomes U.S. network television's first half-hour weeknight news broadcast, when the show is lengthened from 15 to 30 minutes.
-- 1960: The first election of the Tibetan Parliament-in-Exile. The Tibetan community observes this date as Democracy Day.
-- 1958: A USAF RC-130 is shot down by fighters over Armenia when it strays into Soviet airspace while conducting a sigint mission. All crew members are killed.
-- 1957: President Ngô Đình Diệm of South Vietnam becomes the first foreign head of state to make a state visit to Australia.
-- 1946: The Interim Government of India is formed, headed by Jawaharlal Nehru as vice president with the powers of a Prime Minister.
-- 1945: Communist leader Ho Chi Minh proclaimed the Democratic Republic of Vietnam after the end of the Nguyễn dynasty.
-- 1945: World War II: The Japanese Instrument of Surrender is signed by Japan and the major warring powers aboard the battleship USS Missouri in Tokyo Bay.
-- 1944: The last execution of a Finn in Finland takes place when soldier Olavi Laiho is executed by shooting in Oulu.
+- 2017: North Korea conducts its sixth and most powerful nuclear test.
+- 2016: The U.S. and China, together responsible for 40% of the world's carbon emissions, both formally ratify the Paris global climate agreement.
+- 2010: After taking off from Dubai International Airport, UPS Airlines Flight 6 develops an in-flight fire in the cargo hold and crashes near Nad Al Sheba, killing both crew members on board.
+- 2004: Beslan school siege results in over 330 fatalities, including 186 children.
+- 2001: In Belfast, Protestant loyalists begin a picket of Holy Cross, a Catholic primary school for girls.
+- 1997: Vietnam Airlines Flight 815 (Tupolev Tu-134) crashes on approach into Phnom Penh airport, killing 64.
+- 1989: Varig Flight 254 crashes in the Amazon rainforest near São José do Xingu in Brazil, killing 12.
+- 1989: Cubana de Aviación Flight 9046 crashes into a residential area of Havana shortly after takeoff from José Martí International Airport, killing 150.
+- 1987: In a coup d'état in Burundi, President Jean-Baptiste Bagaza is deposed by Major Pierre Buyoya.
+- 1981: The Convention on the Elimination of All Forms of Discrimination Against Women, an international bill of rights for women, is instituted by the United Nations.
+- 1978: During the Rhodesian Bush War a group of ZIPRA guerrillas shot down civilian Vickers Viscount aircraft (Air Rhodesia Flight 825) with a Soviet-made SAM Strela-2; of 56 passengers and crew 38 people died in crash, 10 were massacred by the guerrillas at the site.
+- 1976: Viking program: The American Viking 2 spacecraft lands at Utopia Planitia on Mars.
+- 1971: Qatar becomes an independent state.
+- 1967: Dagen H in Sweden: Traffic changes from driving on the left to driving on the right overnight.
+- 1954: The People's Liberation Army begins shelling the Republic of China-controlled islands of Quemoy, starting the First Taiwan Strait Crisis.
+- 1950: "Nino" Farina becomes the first Formula One Drivers' champion after winning the 1950 Italian Grand Prix.
+- 1945: A three-day celebration begins in China, following the Victory over Japan Day on September 2.
+- 1944: Holocaust: Diarist Anne Frank and her family are placed on the last transport train from the Westerbork transit camp to the Auschwitz concentration camp, arriving three days later.
+- 1943: World War II: British and Canadian troops land on the Italian mainland. On the same day, Walter Bedell Smith and Giuseppe Castellano sign the Armistice of Cassibile, although it is not announced for another five days.
+- 1942: World War II: In response to news of its coming liquidation, Dov Lopatyn leads an uprising in the Ghetto of Lakhva (present-day Belarus).
+- 1941: The Holocaust: Karl Fritzsch, deputy camp commandant of the Auschwitz concentration camp, experiments with the use of Zyklon B in the gassing of Soviet POWs.
+- 1939: World War II: The United Kingdom and France begin a naval blockade of Germany that lasts until the end of the war. This also marks the beginning of the Battle of the Atlantic.
+- 1939: World War II: France, the United Kingdom, New Zealand and Australia declare war on Germany after the invasion of Poland, forming the Allied nations. The Viceroy of India also declares war, but without consulting the provincial legislatures.
+- 1935: Sir Malcolm Campbell reaches a speed of 304.331 miles per hour on the Bonneville Salt Flats in Utah, becoming the first person to drive an automobile over 300 mph.
+- 1933: Yevgeniy Abalakov is the first man to reach the highest point in the Soviet Union, Communism Peak (now called Ismoil Somoni Peak and situated in Tajikistan) (7495 m).
+- 1925: USS Shenandoah, the United States' first American-built rigid airship, was destroyed in a squall line over Noble County, Ohio. Fourteen of her 42-man crew perished, including her commander, Zachary Lansdowne.
+- 1916: World War I: Leefe Robinson destroys the German airship Schütte-Lanz SL 11 over Cuffley, north of London; the first German airship to be shot down on British soil.
+- 1914: World War I: Start of the Battle of Grand Couronné, a German assault against French positions on high ground near the city of Nancy.
+- 1914: French composer Albéric Magnard is killed defending his estate against invading German soldiers.
+- 1914: William, Prince of Albania leaves the country after just six months due to opposition to his rule.
 
 Data from muffinlabs
-*(Updated at: 2025-09-02 01:45:51 UTC)*
+*(Updated at: 2025-09-03 01:38:37 UTC)*
 
 # 历史上的今天 
 
-- -  2024年：在刚果民主共和国金沙萨的马卡拉监狱的一次囚犯中，至少有129名囚犯丧生，59人受伤。
-- -  2024年：阿富汗喀布尔的自杀炸弹炸弹炸死6人，受伤13。
-- -2024：在美国伊利诺伊州森林公园的芝加哥运输管理局火车上，针对无家可归者的大规模枪击中，有四人被杀。
-- -  2023年：印度的第一个太阳观测任务：印度太空研究组织（ISRO）成功地从Satish Dhawan太空中心推出了Aditya-L1。
-- -2022：18人被杀，另外23人在阿富汗赫拉特的逊尼派清真寺发生自杀炸弹袭击。
-- -  2019年：潜水船MV的概念在圣克鲁斯岛附近捕捉和下沉，杀死了34。
-- -  2019年：多利安飓风，5级飓风摧毁了巴哈马，至少杀死了五人。
-- -  2018年：巴西国家博物馆（National Museum of Brazil Fire），一场大火摧毁了大部分的Paçode圣克里斯托瓦（PaçodeCristóvão），该博物馆位于里约热内卢（Rio de Janeiro）的巴西国家博物馆。博物馆拥有重要的考古学和人类学对象，包括卢齐亚妇女的遗体，马拉乔拉花瓶和埃及木乃伊。
-- -  2013年：旧金山 - 奥克兰湾桥的东部跨度更换于1989年洛马·普埃塔（Loma Prieta）地震损害旧范围后，于10:15 pm开放，成本为64亿美元。
-- -  2010年：以色列 - 巴勒斯坦冲突：2010年以色列 - 帕勒斯坦和平谈判是由美国发起的。
-- -  2009年：印度安得拉邦（Andhra Pradesh）的直升机撞车事故发生在距印度安得拉邦（Andhra Pradesh）库尔努尔（Kurnool）40海里（74公里）的Rudrakonda Hill附近。死亡包括印度安得拉邦首席部长Y. S. Rajasekhara Reddy。
-- -  2008年：Google推出了其Google Chrome Web浏览器。
-- -  1998年：联合国卢旺达的国际刑事法庭发现，卢旺达一名小镇的前市长让·帕尔·阿卡耶苏（Jean-Paul Akayesu）犯有九项种族灭绝罪。
-- -  1998年：瑞士航班在新斯科舍省佩吉湾附近的瑞士航班111号坠毁；船上的所有229人都被杀。
-- -  1992年：7.7 MW尼加拉瓜地震影响了尼加拉瓜的西海岸。使用.mw-parser-output .tooltip点缀{边界底：1px点缀；光标：Help} MS-MW半单位的差距，这场海啸地震触发了一场海啸，触发了大多数损害和伤害，至少造成116人丧生。典型的运行高度为3-8米（9.8-26.2英尺）。
-- -  1990年：跨性别者单方面被宣布为苏联共和国；苏联总统米哈伊尔·戈尔巴乔夫（Mikhail Gorbachev）宣布该决定无效。
-- -  1987年：在莫斯科，审判开始了19岁的飞行员马蒂亚斯·鲁斯特（Mathias Rust），后者于5月将塞斯纳飞机飞往红色广场。
-- -  1985年：斯里兰卡内战：斯里兰卡泰米尔人政客和前国会议员M. Alalasundaram和V. Dharmalingam被枪杀。
-- -  1984年：在米尔珀拉大屠杀中，有7人被枪杀，12人受伤，这是澳大利亚悉尼的竞争对手摩托车帮派班多斯和科马切罗斯之间的枪战。
-- -  1970年：从俄罗斯南部到立陶宛的途中，Aeroflot 3630航班是Tupolev Tu-124，在飞行员失去了飞机上的飞机上的飞机，迪恩机场和维尔纽斯机场之间的飞机上失去了控制飞机的控制权；所有37名乘客和船员都被杀。
-- -  1970年：NASA宣布取消了两个阿波罗（Apollo）15号阿波罗任务（Apollo 15）（该指定是由后来的任务重新使用的）和阿波罗（Apollo）19。
-- -  1968年：OAU行动在尼日利亚内战期间开始。
-- -  1963年：CBS晚间新闻成为美国网络电视台的第一个半小时的周末新闻广播，当时该节目从15分钟延长到30分钟。
-- -  1960年：藏族议会在流亡的第一次选举。藏族社区将这个日期视为民主日。
-- -  1958年：USAF RC-130在执行Sigint任务时陷入苏联领空时被战斗机击落。所有机组人员都被杀。
-- -  1957年：越南南部的恩格·恩·迪米（Ngô`nhDiệm）成为第一个对澳大利亚进行国事访问的外国国家元首。
-- -  1946年：印度临时政府由贾瓦哈拉尔·尼赫鲁（Jawaharlal Nehru）领导，担任总理权力。
-- -  1945年：共产党领导人胡志明（Ho Chi Minh）宣布在Nguyễn王朝结束后越南民主共和国。
-- -  1945年：第二次世界大战：日本投降工具由日本签署，在东京湾密苏里州号航空母舰上的主要交战权力。
-- -  1944年：芬兰的最后一次执行芬兰是在士兵奥拉维·莱霍（Olavi Laiho）通过在奥卢（Oulu）射击执行的。
+- -  2017年：朝鲜进行了第六和最强大的核试验。
+- -  2016年：美国和中国共同负责全球40％的碳排放，都正式批准了《巴黎全球气候协定》。
+- -  2010年：从迪拜国际机场起飞后，UPS Airlines 6航班在货运中造成了机上大火，并在Nad Al Sheba附近撞车，杀死了两名机组人员。
+- -  2004年：Beslan School攻城造成330多人死亡，其中包括186名儿童。
+- -  2001年：在贝尔法斯特，新教徒忠诚主义者开始了一个天主教小学圣十字的纠察队。
+- -  1997年：越南航空公司815航班（Tupolev Tu-134）撞向金边机场，造成64人撞车。
+- -  1989年：瓦利格（Varig）254架在巴西圣何塞（SãoJosédo）附近的亚马逊雨林中撞车，杀死了12。
+- -  1989年：Cubana deAviación9046航班从何塞·马蒂国际机场起飞后不久，撞车到哈瓦那的一个住宅区，造成150人丧生。
+- -  1987年：在布隆迪的政变中，总统让·巴蒂斯特·巴巴扎（Jean-Baptiste Bagaza）被少校皮埃尔·布洛亚（Pierre Buyoya）罢免。
+- -  1981年：联合国制定了《关于消除各种形式的妇女歧视公约》，这是国际权利法案。
+- -  1978年：在罗得西亚的布什战争期间，一群Zipra游击队击落了平民维克斯子爵飞机（Air Rhodesia航班825航班），苏联制造的Sam Strela-2；在56名乘客和机组人员中，有38人在撞车事故中死亡，其中10人在现场被游击队屠杀。
+- -  1976年：维京计划：美国维京人2号航天器在火星上的乌托邦计划。
+- -  1971年：卡塔尔成为一个独立国家。
+- -  1967年：瑞典的Dagen H：从左侧开车到右边驾驶的交通变化过夜。
+- -  1954年：人民解放军开始炮击中国共和国控制的奎莫伊岛，开始了第一次台湾海峡危机。
+- -  1950年：“ Nino” Farina在赢得1950年意大利大奖赛后成为第一方程式车手的冠军。
+- -  1945年：9月2日在日本胜利之后，在中国开始了为期三天的庆祝活动。
+- -  1944年：大屠杀：日记家安妮·弗兰克（Anne Frank）和她的家人被安置在三天后到达奥斯威辛集中营训练营到奥斯威辛集中营营地的最后一列运输火车上，三天后到达。
+- -  1943年：第二次世界大战：英国和加拿大军队降落在意大利大陆上。同一天，沃尔特·贝德尔·史密斯（Walter Bedell Smith）和朱塞佩·卡斯特拉诺（Giuseppe Castellano）签署了卡西比尔（Cassibile）的停战，尽管五天没有宣布。
+- -  1942年：第二次世界大战：为了回应其即将到来的清算新闻，Dov Lopatyn领导着Lakhva贫民窟的起义（当今的白俄罗斯）。
+- -  1941年：大屠杀：奥斯威辛集中营的副校长卡尔·弗里茨奇（Karl Fritzsch），在苏联伪装的毒气中使用Zyklon B进行了实验。
+- -  1939年：第二次世界大战：英国和法国开始了对德国的海军封锁，持续到战争结束。这也标志着大西洋战役的开始。
+- -  1939年：第二次世界大战：法国，英国，新西兰和澳大利亚在入侵波兰后对德国宣战，形成了盟国。印度总督也宣战，但没有咨询省级立法机构。
+- -  1935年：马尔科姆·坎贝尔爵士（Malcolm Campbell）在犹他州的Bonneville Salt Flats上达到304.331英里的速度，成为第一个驾驶超过300英里 /小时的汽车的人。
+- -  1933年：Yevgeniy Abalakov是第一个达到苏联最高点的人，共产主义峰（现在称为Ismoil Somoni Peak，位于塔吉克斯坦）（7495 m）。
+- -  1925年：美国第一个美国建造的僵化的飞艇雪兰多亚号号航空母舰在俄亥俄州诺布尔县的一条镇压线上被摧毁。她的42名人员中有14名丧生，包括她的指挥官Zachary Lansdowne。
+- -  1916年：第一次世界大战：莱夫·罗宾逊（Leefe Robinson）在伦敦以北的库夫利（Cuffley）上摧毁了德国飞艇Schütte-Lanz SL 11；德国第一艘飞艇在英国土地上被击落。
+- -  1914年：第一次世界大战：大堡垒战役的开始，这是德国对南希市附近法国位置的攻击。
+- -  1914年：法国作曲家阿尔贝里克·马格纳德（AlbéricAgnard）被杀，捍卫自己的遗产免受入侵德国士兵的身份。
+- -  1914年：威廉（William），阿尔巴尼亚王子（Albania of Albania）在仅六个月后离开该国，因为他反对他的统治。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-09-02 01:45:51 UTC）*
+*（更新于: 2025-09-03 01:38:37 UTC）*
