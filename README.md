@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2017: North Korea conducts its sixth and most powerful nuclear test.
-- 2016: The U.S. and China, together responsible for 40% of the world's carbon emissions, both formally ratify the Paris global climate agreement.
-- 2010: After taking off from Dubai International Airport, UPS Airlines Flight 6 develops an in-flight fire in the cargo hold and crashes near Nad Al Sheba, killing both crew members on board.
-- 2004: Beslan school siege results in over 330 fatalities, including 186 children.
-- 2001: In Belfast, Protestant loyalists begin a picket of Holy Cross, a Catholic primary school for girls.
-- 1997: Vietnam Airlines Flight 815 (Tupolev Tu-134) crashes on approach into Phnom Penh airport, killing 64.
-- 1989: Varig Flight 254 crashes in the Amazon rainforest near São José do Xingu in Brazil, killing 12.
-- 1989: Cubana de Aviación Flight 9046 crashes into a residential area of Havana shortly after takeoff from José Martí International Airport, killing 150.
-- 1987: In a coup d'état in Burundi, President Jean-Baptiste Bagaza is deposed by Major Pierre Buyoya.
-- 1981: The Convention on the Elimination of All Forms of Discrimination Against Women, an international bill of rights for women, is instituted by the United Nations.
-- 1978: During the Rhodesian Bush War a group of ZIPRA guerrillas shot down civilian Vickers Viscount aircraft (Air Rhodesia Flight 825) with a Soviet-made SAM Strela-2; of 56 passengers and crew 38 people died in crash, 10 were massacred by the guerrillas at the site.
-- 1976: Viking program: The American Viking 2 spacecraft lands at Utopia Planitia on Mars.
-- 1971: Qatar becomes an independent state.
-- 1967: Dagen H in Sweden: Traffic changes from driving on the left to driving on the right overnight.
-- 1954: The People's Liberation Army begins shelling the Republic of China-controlled islands of Quemoy, starting the First Taiwan Strait Crisis.
-- 1950: "Nino" Farina becomes the first Formula One Drivers' champion after winning the 1950 Italian Grand Prix.
-- 1945: A three-day celebration begins in China, following the Victory over Japan Day on September 2.
-- 1944: Holocaust: Diarist Anne Frank and her family are placed on the last transport train from the Westerbork transit camp to the Auschwitz concentration camp, arriving three days later.
-- 1943: World War II: British and Canadian troops land on the Italian mainland. On the same day, Walter Bedell Smith and Giuseppe Castellano sign the Armistice of Cassibile, although it is not announced for another five days.
-- 1942: World War II: In response to news of its coming liquidation, Dov Lopatyn leads an uprising in the Ghetto of Lakhva (present-day Belarus).
-- 1941: The Holocaust: Karl Fritzsch, deputy camp commandant of the Auschwitz concentration camp, experiments with the use of Zyklon B in the gassing of Soviet POWs.
-- 1939: World War II: The United Kingdom and France begin a naval blockade of Germany that lasts until the end of the war. This also marks the beginning of the Battle of the Atlantic.
-- 1939: World War II: France, the United Kingdom, New Zealand and Australia declare war on Germany after the invasion of Poland, forming the Allied nations. The Viceroy of India also declares war, but without consulting the provincial legislatures.
-- 1935: Sir Malcolm Campbell reaches a speed of 304.331 miles per hour on the Bonneville Salt Flats in Utah, becoming the first person to drive an automobile over 300 mph.
-- 1933: Yevgeniy Abalakov is the first man to reach the highest point in the Soviet Union, Communism Peak (now called Ismoil Somoni Peak and situated in Tajikistan) (7495 m).
-- 1925: USS Shenandoah, the United States' first American-built rigid airship, was destroyed in a squall line over Noble County, Ohio. Fourteen of her 42-man crew perished, including her commander, Zachary Lansdowne.
-- 1916: World War I: Leefe Robinson destroys the German airship Schütte-Lanz SL 11 over Cuffley, north of London; the first German airship to be shot down on British soil.
-- 1914: World War I: Start of the Battle of Grand Couronné, a German assault against French positions on high ground near the city of Nancy.
-- 1914: French composer Albéric Magnard is killed defending his estate against invading German soldiers.
-- 1914: William, Prince of Albania leaves the country after just six months due to opposition to his rule.
+- 2024: A 14-year-old gunman kills four people and injures seven in a mass shooting at Apalachee High School near Winder, Georgia.
+- 2022: Ten people are killed and 15 are injured in a stabbing spree in 13 locations on the James Smith Cree Nation and in Weldon, Saskatchewan.
+- 2020: Pope Benedict XVI becomes the longest-lived pope, 93 years, four months, 16 days, surpassing Pope Leo XIII, who died in 1903.
+- 2007: Three terrorists suspected to be a part of Al-Qaeda are arrested in Germany after allegedly planning attacks on both the Frankfurt International airport and US military installations.
+- 2002: The Oakland Athletics win their 20th consecutive game, an American League record, until the Cleveland Indians surpassed it in 2017.
+- 2001: Tokyo DisneySea opens to the public as part of the Tokyo Disney Resort in Urayasu, Chiba, Japan.
+- 1998: Google is founded by Larry Page and Sergey Brin, two PhD students at Stanford University.
+- 1989: In Leipzig, East Germany, the first of weekly demonstration for the legalisation of opposition groups and democratic reforms takes place.
+- 1985: The discovery of Buckminsterfullerene, the first fullerene molecule of carbon.
+- 1977: The Golden Dragon massacre takes place in San Francisco.
+- 1975: The Sinai Interim Agreement relating to the Arab-Israeli conflict is signed.
+- 1972: The Price Is Right premieres on CBS. It currently is the longest running game show on American television.
+- 1972: Mark Spitz becomes the first competitor to win seven medals at a single Olympic Games.
+- 1971: Alaska Airlines Flight 1866 crashes near Juneau, Alaska, killing all 111 people on board.
+- 1970: Salvador Allende is elected President of Chile.
+- 1967: Vietnam War: Operation Swift begins when U.S. Marines engage the North Vietnamese in battle in the Que Son Valley.
+- 1964: Scotland's Forth Road Bridge near Edinburgh officially opens.
+- 1963: Swissair Flight 306 crashes near Dürrenäsch, Switzerland, killing all 80 people on board.
+- 1957: American Civil Rights Movement: Little Rock Crisis: The governor of Arkansas calls out the National Guard to prevent African American students from enrolling in Little Rock Central High School, resulting in the lawsuit Cooper v. Aaron the following year.
+- 1951: The first live transcontinental television broadcast takes place in San Francisco, United States, from the Japanese Peace Treaty Conference.
+- 1950: Darlington Raceway is the site of the inaugural Southern 500, the first 500-mile NASCAR race.
+- 1949: Paul Robeson performs a second concert in Peekskill, New York eight days after the Peekskill riots.
+- 1948: Queen Wilhelmina of the Netherlands abdicates for health reasons.
+- 1944: World War II: Finland exits from the war with Soviet Union.
+- 1944: World War II: The British 11th Armoured Division liberates the Belgian city of Antwerp.
+- 1941: World War II: A German submarine makes the first attack of the war against a United States warship, the USS Greer.
+- 1939: World War II: William J. Murphy commands the first Royal Air Force attack on Germany.
+- 1936: Spanish Civil War: Largo Caballero forms a war cabinet to direct the republican war effort.
+- 1923: Maiden flight of the first U.S. airship, the USS Shenandoah.
+- 1919: Mustafa Kemal Atatürk, who founded the Republic of Turkey, gathers a congress in Sivas to make decisions as to the future of Anatolia and Thrace.
 
 Data from muffinlabs
-*(Updated at: 2025-09-03 01:38:37 UTC)*
+*(Updated at: 2025-09-04 01:39:22 UTC)*
 
 # 历史上的今天 
 
-- -  2017年：朝鲜进行了第六和最强大的核试验。
-- -  2016年：美国和中国共同负责全球40％的碳排放，都正式批准了《巴黎全球气候协定》。
-- -  2010年：从迪拜国际机场起飞后，UPS Airlines 6航班在货运中造成了机上大火，并在Nad Al Sheba附近撞车，杀死了两名机组人员。
-- -  2004年：Beslan School攻城造成330多人死亡，其中包括186名儿童。
-- -  2001年：在贝尔法斯特，新教徒忠诚主义者开始了一个天主教小学圣十字的纠察队。
-- -  1997年：越南航空公司815航班（Tupolev Tu-134）撞向金边机场，造成64人撞车。
-- -  1989年：瓦利格（Varig）254架在巴西圣何塞（SãoJosédo）附近的亚马逊雨林中撞车，杀死了12。
-- -  1989年：Cubana deAviación9046航班从何塞·马蒂国际机场起飞后不久，撞车到哈瓦那的一个住宅区，造成150人丧生。
-- -  1987年：在布隆迪的政变中，总统让·巴蒂斯特·巴巴扎（Jean-Baptiste Bagaza）被少校皮埃尔·布洛亚（Pierre Buyoya）罢免。
-- -  1981年：联合国制定了《关于消除各种形式的妇女歧视公约》，这是国际权利法案。
-- -  1978年：在罗得西亚的布什战争期间，一群Zipra游击队击落了平民维克斯子爵飞机（Air Rhodesia航班825航班），苏联制造的Sam Strela-2；在56名乘客和机组人员中，有38人在撞车事故中死亡，其中10人在现场被游击队屠杀。
-- -  1976年：维京计划：美国维京人2号航天器在火星上的乌托邦计划。
-- -  1971年：卡塔尔成为一个独立国家。
-- -  1967年：瑞典的Dagen H：从左侧开车到右边驾驶的交通变化过夜。
-- -  1954年：人民解放军开始炮击中国共和国控制的奎莫伊岛，开始了第一次台湾海峡危机。
-- -  1950年：“ Nino” Farina在赢得1950年意大利大奖赛后成为第一方程式车手的冠军。
-- -  1945年：9月2日在日本胜利之后，在中国开始了为期三天的庆祝活动。
-- -  1944年：大屠杀：日记家安妮·弗兰克（Anne Frank）和她的家人被安置在三天后到达奥斯威辛集中营训练营到奥斯威辛集中营营地的最后一列运输火车上，三天后到达。
-- -  1943年：第二次世界大战：英国和加拿大军队降落在意大利大陆上。同一天，沃尔特·贝德尔·史密斯（Walter Bedell Smith）和朱塞佩·卡斯特拉诺（Giuseppe Castellano）签署了卡西比尔（Cassibile）的停战，尽管五天没有宣布。
-- -  1942年：第二次世界大战：为了回应其即将到来的清算新闻，Dov Lopatyn领导着Lakhva贫民窟的起义（当今的白俄罗斯）。
-- -  1941年：大屠杀：奥斯威辛集中营的副校长卡尔·弗里茨奇（Karl Fritzsch），在苏联伪装的毒气中使用Zyklon B进行了实验。
-- -  1939年：第二次世界大战：英国和法国开始了对德国的海军封锁，持续到战争结束。这也标志着大西洋战役的开始。
-- -  1939年：第二次世界大战：法国，英国，新西兰和澳大利亚在入侵波兰后对德国宣战，形成了盟国。印度总督也宣战，但没有咨询省级立法机构。
-- -  1935年：马尔科姆·坎贝尔爵士（Malcolm Campbell）在犹他州的Bonneville Salt Flats上达到304.331英里的速度，成为第一个驾驶超过300英里 /小时的汽车的人。
-- -  1933年：Yevgeniy Abalakov是第一个达到苏联最高点的人，共产主义峰（现在称为Ismoil Somoni Peak，位于塔吉克斯坦）（7495 m）。
-- -  1925年：美国第一个美国建造的僵化的飞艇雪兰多亚号号航空母舰在俄亥俄州诺布尔县的一条镇压线上被摧毁。她的42名人员中有14名丧生，包括她的指挥官Zachary Lansdowne。
-- -  1916年：第一次世界大战：莱夫·罗宾逊（Leefe Robinson）在伦敦以北的库夫利（Cuffley）上摧毁了德国飞艇Schütte-Lanz SL 11；德国第一艘飞艇在英国土地上被击落。
-- -  1914年：第一次世界大战：大堡垒战役的开始，这是德国对南希市附近法国位置的攻击。
-- -  1914年：法国作曲家阿尔贝里克·马格纳德（AlbéricAgnard）被杀，捍卫自己的遗产免受入侵德国士兵的身份。
-- -  1914年：威廉（William），阿尔巴尼亚王子（Albania of Albania）在仅六个月后离开该国，因为他反对他的统治。
+- -  2024年：一名14岁的枪手在佐治亚州温德附近的Apalachee High School的一次大规模枪击中杀死了四人，并炸伤7人。
+- -2022：在詹姆斯·史密斯（James Smith Cree）国家和萨斯喀彻温省的韦尔登（James Smith Cree Nation）和萨斯喀彻温省的韦尔登（James Smith Cree Nation）的13个地点，有15人被杀，15人受伤。
+- -  2020年：教皇本尼迪克特十六世成为寿命最长的教皇，93年，四个月零16天，超过了1903年去世的教皇利奥十三世。
+- -  2007年：三名涉嫌涉嫌涉嫌对法兰克福国际机场和美国军事设施袭击的恐怖分子被捕。
+- -  2002年：奥克兰田径队连续第20场赢得了美国联赛的纪录，直到克利夫兰印第安人在2017年超过比赛。
+- -  2001年：东京迪斯尼（Tokyo Disneysea）作为日本千叶乌拉亚苏（Urayasu）的东京迪士尼度假村（Tokyo Disney Resort）的一部分向公众开放。
+- -  1998年：Google由斯坦福大学的两名博士生Larry Page和Sergey Brin创立。
+- -  1989年：在东德的莱比锡，发生了针对反对派团体和民主改革合法化的每周一次示威活动。
+- -  1985年：发现Buckminsterfullerene是碳的第一个富勒烯分子。
+- -  1977年：金龙大屠杀发生在旧金山。
+- -  1975年：与阿拉伯 - 以色列冲突有关的西奈临时协议已签署。
+- -  1972年：价格正确在CBS上首映。目前，它是美国电视上运行时间最长的游戏节目。
+- -  1972年：马克·斯皮兹（Mark Spitz）成为第一个在一次奥运会上赢得7枚奖牌的竞争对手。
+- -  1971年：阿拉斯加航空公司的1866年航班在阿拉斯加朱诺附近撞车，杀死了所有111人。
+- -  1970年：萨尔瓦多·阿伦德（Salvador Allende）当选智利总统。
+- -  1967年：越南战争：Swift行动开始时，当美国海军陆战队与北越的北越山谷的战斗中。
+- -  1964年：苏格兰附近的苏格兰的福特路桥正式开放。
+- -  1963年：瑞士杜伦雷施附近的瑞士航空306号撞车，杀死了船上的所有80人。
+- -  1957年：美国民权运动：小石城危机：阿肯色州州长呼吁国民警卫队防止非洲裔美国学生在小石城中央高中入学，导致诉讼Cooper诉Aaron诉Aaron案。
+- -  1951年：第一台现场直射电视广播是在日本和平条约会议上在美国旧金山举行的。
+- -  1950年：达灵顿赛道是首届南部500号首届NASCAR比赛的场所。
+- -  1949年：Paul Robeson在Peekskill Riots八天后在纽约的Peekskill举行了第二场音乐会。
+- -  1948年：出于健康原因，荷兰的威廉皇后（Queen Wilhelmina）退位。
+- -  1944年：第二次世界大战：芬兰从与苏联战争中退出。
+- -  1944年：第二次世界大战：英国第11装甲师解放了比利时城市安特卫普。
+- -  1941年：第二次世界大战：一艘德国潜艇袭击了对美国军舰的战争，格里尔号。
+- -  1939年：第二次世界大战：威廉·J·墨菲（William J. Murphy）指挥第一次对德国的皇家空军攻击。
+- -  1936年：西班牙内战：Largo Caballero构成了指导共和党战争努力的战争柜。
+- -  1923年：美国第一艘飞艇的少女飞行，雪兰多厄号。
+- -  1919年：建立土耳其共和国的穆斯塔法·凯马尔·阿塔图尔克（MustafaKemalAtatürk）在西瓦斯（Sivas）召集国会议会，就安纳托利亚和塔拉斯的未来做出决定。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-09-03 01:38:37 UTC）*
+*（更新于: 2025-09-04 01:39:22 UTC）*
