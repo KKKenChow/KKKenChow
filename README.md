@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: A 14-year-old gunman kills four people and injures seven in a mass shooting at Apalachee High School near Winder, Georgia.
-- 2022: Ten people are killed and 15 are injured in a stabbing spree in 13 locations on the James Smith Cree Nation and in Weldon, Saskatchewan.
-- 2020: Pope Benedict XVI becomes the longest-lived pope, 93 years, four months, 16 days, surpassing Pope Leo XIII, who died in 1903.
-- 2007: Three terrorists suspected to be a part of Al-Qaeda are arrested in Germany after allegedly planning attacks on both the Frankfurt International airport and US military installations.
-- 2002: The Oakland Athletics win their 20th consecutive game, an American League record, until the Cleveland Indians surpassed it in 2017.
-- 2001: Tokyo DisneySea opens to the public as part of the Tokyo Disney Resort in Urayasu, Chiba, Japan.
-- 1998: Google is founded by Larry Page and Sergey Brin, two PhD students at Stanford University.
-- 1989: In Leipzig, East Germany, the first of weekly demonstration for the legalisation of opposition groups and democratic reforms takes place.
-- 1985: The discovery of Buckminsterfullerene, the first fullerene molecule of carbon.
-- 1977: The Golden Dragon massacre takes place in San Francisco.
-- 1975: The Sinai Interim Agreement relating to the Arab-Israeli conflict is signed.
-- 1972: The Price Is Right premieres on CBS. It currently is the longest running game show on American television.
-- 1972: Mark Spitz becomes the first competitor to win seven medals at a single Olympic Games.
-- 1971: Alaska Airlines Flight 1866 crashes near Juneau, Alaska, killing all 111 people on board.
-- 1970: Salvador Allende is elected President of Chile.
-- 1967: Vietnam War: Operation Swift begins when U.S. Marines engage the North Vietnamese in battle in the Que Son Valley.
-- 1964: Scotland's Forth Road Bridge near Edinburgh officially opens.
-- 1963: Swissair Flight 306 crashes near Dürrenäsch, Switzerland, killing all 80 people on board.
-- 1957: American Civil Rights Movement: Little Rock Crisis: The governor of Arkansas calls out the National Guard to prevent African American students from enrolling in Little Rock Central High School, resulting in the lawsuit Cooper v. Aaron the following year.
-- 1951: The first live transcontinental television broadcast takes place in San Francisco, United States, from the Japanese Peace Treaty Conference.
-- 1950: Darlington Raceway is the site of the inaugural Southern 500, the first 500-mile NASCAR race.
-- 1949: Paul Robeson performs a second concert in Peekskill, New York eight days after the Peekskill riots.
-- 1948: Queen Wilhelmina of the Netherlands abdicates for health reasons.
-- 1944: World War II: Finland exits from the war with Soviet Union.
-- 1944: World War II: The British 11th Armoured Division liberates the Belgian city of Antwerp.
-- 1941: World War II: A German submarine makes the first attack of the war against a United States warship, the USS Greer.
-- 1939: World War II: William J. Murphy commands the first Royal Air Force attack on Germany.
-- 1936: Spanish Civil War: Largo Caballero forms a war cabinet to direct the republican war effort.
-- 1923: Maiden flight of the first U.S. airship, the USS Shenandoah.
-- 1919: Mustafa Kemal Atatürk, who founded the Republic of Turkey, gathers a congress in Sivas to make decisions as to the future of Anatolia and Thrace.
+- 2022: At least 93 people die and 25 are missing after a magnitude 6.8 earthquake strikes Sichuan, China.
+- 2022: Liz Truss is declared the winner of the UK Conservative Party leadership election, beating Rishi Sunak
+- 2021: The President of Guinea, Alpha Condé is captured by armed forces during a coup d'état.
+- 2012: An accidental explosion at a Turkish Army ammunition store in Afyon, western Turkey kills 25 soldiers and wounds four others.
+- 2005: Mandala Airlines Flight 091 crashes after takeoff from Polonia International Airport in Medan, Indonesia, killing 149.
+- 1996: Hurricane Fran makes landfall near Cape Fear, North Carolina as a Category 3 storm with 115 mph sustained winds. Fran caused over $3 billion in damage and killed 27 people.
+- 1991: The current international treaty defending indigenous peoples, Indigenous and Tribal Peoples Convention, 1989, comes into force.
+- 1990: Sri Lankan Civil War: Sri Lankan Army soldiers slaughter 158 civilians.
+- 1986: Pan Am Flight 73 from Mumbai, India with 358 people on board is hijacked at Karachi International Airport.
+- 1984: Western Australia becomes the last Australian state to abolish capital punishment.
+- 1984: STS-41-D: The Space Shuttle Discovery lands after its maiden voyage.
+- 1981: The first women arrive at what becomes Greenham Common Women's Peace Camp in the UK.
+- 1980: The Gotthard Road Tunnel opens in Switzerland as the world's longest highway tunnel at 10.14 miles (16.32 km) stretching from Göschenen to Airolo.
+- 1978: Camp David Accords: Menachem Begin and Anwar Sadat begin peace discussions at Camp David, Maryland.
+- 1977: Voyager Program: NASA launches the Voyager 1 spacecraft.
+- 1975: Sacramento, California: Lynette Fromme attempts to assassinate U.S. President Gerald Ford.
+- 1972: Munich massacre: A Palestinian terrorist group called "Black September" attacks and takes hostage 11 Israeli athletes at the Munich Olympic Games. Two die in the attack and nine are murdered the following day.
+- 1970: Vietnam War: Operation Jefferson Glenn begins: The United States 101st Airborne Division and the South Vietnamese 1st Infantry Division initiate a new operation in Thừa Thiên-Huế Province.
+- 1969: Mỹ Lai Massacre: U.S. Army Lieutenant William Calley is charged with six specifications of premeditated murder for the death of 109 Vietnamese civilians in My Lai.
+- 1960: Muhammad Ali (then known as Cassius Clay) wins the gold medal in the light heavyweight boxing competition at the Olympic Games in Rome.
+- 1960: Poet Léopold Sédar Senghor is the first elected President of Senegal.
+- 1957: Cuban Revolution: Fulgencio Batista bombs the revolt in Cienfuegos.
+- 1954: KLM Flight 633 crashes into the River Shannon in Shannon, County Clare, Ireland, killing 28.
+- 1948: In France, Robert Schuman becomes President of the Council while being Foreign minister; as such, he is the negotiator of the major treaties of the end of World War II.
+- 1945: Iva Toguri D'Aquino, a Japanese American suspected of being wartime radio propagandist Tokyo Rose, is arrested in Yokohama.
+- 1945: Cold War: Igor Gouzenko, a Soviet Union embassy clerk, defects to Canada, exposing Soviet espionage in North America, signalling the beginning of the Cold War.
+- 1944: Belgium, Netherlands and Luxembourg constitute Benelux.
+- 1943: World War II: The 503rd Parachute Infantry Regiment lands and occupies Lae Nadzab Airport, near Lae in the Salamaua-Lae campaign.
+- 1942: World War II: Japanese high command orders withdrawal at Milne Bay, the first major Japanese defeat in land warfare during the Pacific War.
+- 1941: Whole territory of Estonia is occupied by Nazi Germany.
 
 Data from muffinlabs
-*(Updated at: 2025-09-04 01:39:22 UTC)*
+*(Updated at: 2025-09-05 01:41:46 UTC)*
 
 # 历史上的今天 
 
-- -  2024年：一名14岁的枪手在佐治亚州温德附近的Apalachee High School的一次大规模枪击中杀死了四人，并炸伤7人。
-- -2022：在詹姆斯·史密斯（James Smith Cree）国家和萨斯喀彻温省的韦尔登（James Smith Cree Nation）和萨斯喀彻温省的韦尔登（James Smith Cree Nation）的13个地点，有15人被杀，15人受伤。
-- -  2020年：教皇本尼迪克特十六世成为寿命最长的教皇，93年，四个月零16天，超过了1903年去世的教皇利奥十三世。
-- -  2007年：三名涉嫌涉嫌涉嫌对法兰克福国际机场和美国军事设施袭击的恐怖分子被捕。
-- -  2002年：奥克兰田径队连续第20场赢得了美国联赛的纪录，直到克利夫兰印第安人在2017年超过比赛。
-- -  2001年：东京迪斯尼（Tokyo Disneysea）作为日本千叶乌拉亚苏（Urayasu）的东京迪士尼度假村（Tokyo Disney Resort）的一部分向公众开放。
-- -  1998年：Google由斯坦福大学的两名博士生Larry Page和Sergey Brin创立。
-- -  1989年：在东德的莱比锡，发生了针对反对派团体和民主改革合法化的每周一次示威活动。
-- -  1985年：发现Buckminsterfullerene是碳的第一个富勒烯分子。
-- -  1977年：金龙大屠杀发生在旧金山。
-- -  1975年：与阿拉伯 - 以色列冲突有关的西奈临时协议已签署。
-- -  1972年：价格正确在CBS上首映。目前，它是美国电视上运行时间最长的游戏节目。
-- -  1972年：马克·斯皮兹（Mark Spitz）成为第一个在一次奥运会上赢得7枚奖牌的竞争对手。
-- -  1971年：阿拉斯加航空公司的1866年航班在阿拉斯加朱诺附近撞车，杀死了所有111人。
-- -  1970年：萨尔瓦多·阿伦德（Salvador Allende）当选智利总统。
-- -  1967年：越南战争：Swift行动开始时，当美国海军陆战队与北越的北越山谷的战斗中。
-- -  1964年：苏格兰附近的苏格兰的福特路桥正式开放。
-- -  1963年：瑞士杜伦雷施附近的瑞士航空306号撞车，杀死了船上的所有80人。
-- -  1957年：美国民权运动：小石城危机：阿肯色州州长呼吁国民警卫队防止非洲裔美国学生在小石城中央高中入学，导致诉讼Cooper诉Aaron诉Aaron案。
-- -  1951年：第一台现场直射电视广播是在日本和平条约会议上在美国旧金山举行的。
-- -  1950年：达灵顿赛道是首届南部500号首届NASCAR比赛的场所。
-- -  1949年：Paul Robeson在Peekskill Riots八天后在纽约的Peekskill举行了第二场音乐会。
-- -  1948年：出于健康原因，荷兰的威廉皇后（Queen Wilhelmina）退位。
-- -  1944年：第二次世界大战：芬兰从与苏联战争中退出。
-- -  1944年：第二次世界大战：英国第11装甲师解放了比利时城市安特卫普。
-- -  1941年：第二次世界大战：一艘德国潜艇袭击了对美国军舰的战争，格里尔号。
-- -  1939年：第二次世界大战：威廉·J·墨菲（William J. Murphy）指挥第一次对德国的皇家空军攻击。
-- -  1936年：西班牙内战：Largo Caballero构成了指导共和党战争努力的战争柜。
-- -  1923年：美国第一艘飞艇的少女飞行，雪兰多厄号。
-- -  1919年：建立土耳其共和国的穆斯塔法·凯马尔·阿塔图尔克（MustafaKemalAtatürk）在西瓦斯（Sivas）召集国会议会，就安纳托利亚和塔拉斯的未来做出决定。
+- -2022：在幅度6.8地震袭击中国四川，至少有93人死亡，25人失踪。
+- -  2022年：利兹·特鲁斯（Liz Truss）被宣布为英国保守党领导选举的获胜者，击败了Rishi Sunak
+- -2021：几内亚总统阿尔法·康奈（AlphaCondé）在政变期间被武装部队俘虏。
+- -  2012年：西部土耳其的一家土耳其军队弹药商店的意外爆炸，杀死了25名士兵，并伤口另外四名。
+- -  2005年：从印度尼西亚梅丹的波罗尼亚国际机场起飞后，曼陀罗航空公司091航班坠毁，造成149人丧生。
+- -  1996年：Fran飓风在北卡罗来纳州的Cape Fear附近登陆，为3类风暴，持续的风速为115英里 /小时。弗兰（Fran）造成了超过30亿美元的损失，并杀死了27人。
+- -  1991年：1989年，捍卫土著人民，土著人民和部落人民公约的当前国际条约生效。
+- -  1990年：斯里兰卡内战：斯里兰卡军队士兵屠杀了158名平民。
+- -  1986年：来自印度孟买的PAN AM 73航班在卡拉奇国际机场被劫持了358人。
+- -  1984年：西澳大利亚州成为废除死刑的最后一个国家。
+- -  1984年：STS-41-D：航天飞机发现在其处女航程后降落。
+- -  1981年：第一批妇女到达英国格林汉姆普通妇女和平营地。
+- -  1980年：Gotthard Road隧道在瑞士开放，是世界上最长的高速公路隧道，从Göschenen到Airolo，延伸到10.14英里（16.32公里）。
+- -  1978年：大卫营协定：Menachem Begin，Anwar Sadat在马里兰州的David Camp开始了和平讨论。
+- -  1977年：Voyager计划：NASA推出了Voyager 1航天器。
+- -  1975年：加利福尼亚州萨克拉曼多：Lynette Fromme试图暗杀美国总统杰拉尔德·福特。
+- -  1972年：慕尼黑大屠杀：一个名为“黑色九月”的巴勒斯坦恐怖组织，并在慕尼黑奥运会上夺取了11名以色列运动员。第二天，有两人在袭击中丧生，九人被谋杀。
+- -  1970年：越南战争：杰斐逊·格伦（Jefferson Glenn）行动开始：美国第101空降师和南越第一步兵师在Thừathiên-huế省开始了一项新的行动。
+- -  1969年：麦莱大屠杀：美国陆军中尉威廉·卡利（William Calley）被控以六项预谋谋杀规格，因为我的莱（Lai）在109名越南平民死亡。
+- -  1960年：穆罕默德·阿里（Muhammad Ali）（当时称为卡修斯·克莱（Cassius Clay））在罗马奥运会上轻量级拳击比赛中赢得了金牌。
+- -  1960年：诗人莱奥普尔德·塞达尔·桑格（LéopoldSédarSenghor）是塞内加尔第一位当选总统。
+- -  1957年：古巴革命：Fulgencio Batista炸毁了Cienfuegos的起义。
+- -  1954年：KLM 633航班撞上爱尔兰克莱尔郡香农的香农河，杀死了28。
+- -  1948年：在法国，罗伯特·舒曼（Robert Schuman）担任外交大臣时成为理事会主席。因此，他是第二次世界大战结束的主要条约的谈判者。
+- -  1945年：日裔美国人伊瓦·托格里·德·阿基诺（Iva Toguri D'Aquino）在横滨被捕。
+- -  1945年：冷战：苏联大使馆文员伊戈尔·古岑科（Igor Gouzenko）叛逃到加拿大，在北美暴露了苏联的间谍活动，标志着冷战的开始。
+- -  1944年：比利时，荷兰和卢森堡构成了贝内克斯。
+- -  1943年：第二次世界大战：第503降落伞步兵团的土地，占据了萨拉莫阿拉运动的莱附近的莱·纳德扎布机场。
+- -  1942年：第二次世界大战：日本高指挥令在太平洋战争期间在陆地战中的第一次主要日本击败米尔恩湾撤军。
+- -  1941年：爱沙尼亚的整个领土被纳粹德国占领。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-09-04 01:39:22 UTC）*
+*（更新于: 2025-09-05 01:41:46 UTC）*
