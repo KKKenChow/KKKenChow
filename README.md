@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Death of Queen Elizabeth II: King Charles III is formally proclaimed as monarch at a meeting of the Accession Council in St James's Palace.
-- 2017: Hurricane Irma makes landfall on Cudjoe Key, Florida as a Category 4, after causing catastrophic damage throughout the Caribbean. Irma resulted in 134 deaths and $77.2 billion (2017 USD) in damage.
-- 2008: The Large Hadron Collider at CERN, described as the biggest scientific experiment in history, is powered up in Geneva, Switzerland.
-- 2007: Former Prime Minister of Pakistan Nawaz Sharif returns to Pakistan after seven years in exile, following a military coup in October 1999.
-- 2002: Switzerland, traditionally a neutral country, becomes a full member of the United Nations.
-- 2001: During his appearance on the British TV game show Who Wants to be a Millionaire?, contestant Charles Ingram reaches the £1 million top prize, but it was later revealed that he had cheated to the top prize by listening to coughs from his wife and another contestant.
-- 2001: Antônio da Costa Santos, mayor of Campinas, Brazil is assassinated.
-- 2000: Operation Barras successfully frees six British soldiers held captive for over two weeks and contributes to the end of the Sierra Leone Civil War.
-- 1977: Hamida Djandoubi, convicted of torture and murder, is the last person to be executed by guillotine in France.
-- 1976: A British Airways Hawker Siddeley Trident and an Inex-Adria DC-9 collide near Zagreb, Yugoslavia, killing 176.
-- 1974: Guinea-Bissau gains independence from Portugal.
-- 1967: The people of Gibraltar vote to remain a British dependency rather than becoming part of Spain.
-- 1961: In the Italian Grand Prix, a crash causes the death of German Formula One driver Wolfgang von Trips and 15 spectators who are hit by his Ferrari, the deadliest accident in F1 history.
-- 1960: At the Summer Olympics in Rome, Abebe Bikila becomes the first sub-Saharan African to win a gold medal, winning the marathon in bare feet.
-- 1943: World War II: In the course of Operation Achse, German troops begin their occupation of Rome.
-- 1942: World War II: The British Army carries out an amphibious landing on Madagascar to re-launch Allied offensive operations in the Madagascar Campaign.
-- 1939: World War II: The Canadian declaration of war on Germany receives royal assent.
-- 1939: World War II: The submarine HMS Oxley is mistakenly sunk by the submarine HMS Triton near Norway and becomes the Royal Navy's first loss of a submarine in the war.
-- 1937: Nine nations attend the Nyon Conference to address international piracy in the Mediterranean Sea.
-- 1936: First World Individual Motorcycle Speedway Championship, Held at London's (England) Wembley Stadium
-- 1932: The New York City Subway's third competing subway system, the municipally-owned IND, is opened.
-- 1919: The Republic of German-Austria signs the Treaty of Saint-Germain-en-Laye, ceding significant territories to Italy, Yugoslavia, and Czechoslovakia.
-- 1918: Russian Civil War: The Red Army captures Kazan.
-- 1898: Empress Elisabeth of Austria is assassinated by Luigi Lucheni.
-- 1897: Lattimer massacre: A sheriff's posse kills 19 unarmed striking immigrant miners in Lattimer, Pennsylvania, United States.
-- 1858: George Mary Searle discovers the asteroid 55 Pandora.
-- 1846: Elias Howe is granted a patent for the sewing machine.
-- 1813: The United States defeats a British Fleet at the Battle of Lake Erie during the War of 1812.
-- 1798: At the Battle of St. George's Caye, British Honduras defeats Spain.
-- 1776: American Revolutionary War: Nathan Hale volunteers to spy for the Continental Army.
+- 2024: Hurricane Francine impacts the Gulf of Mexico, as a Category 2 hurricane.
+- 2023: The Libyan city of Derna experiences catastrophic floods after Storm Daniel causes two dams to collapse, killing over 11,300 people.
+- 2015: A crane collapses onto the Masjid al-Haram mosque in Saudi Arabia, killing 111 people and injuring 394 others.
+- 2012: The U.S. embassy in Benghazi, Libya is attacked, resulting in four deaths.
+- 2012: A total of 315 people are killed in two garment factory fires in Pakistan.
+- 2011: A dedication ceremony is held at the United States National September 11 Memorial on the 10th anniversary of the September 11 attacks in New York City, and the memorial opens to family members.
+- 2008: A major Channel Tunnel fire breaks out on a freight train, resulting in the closure of part of the tunnel for six months.
+- 2007: Russia tests the largest conventional weapon ever, the Father of All Bombs.
+- 2001: The September 11 attacks, a series of coordinated terrorist attacks killing 2,977 people using four aircraft hijacked by 19 members of al-Qaeda. Two aircraft crash into the World Trade Center in New York City, a third crashes into The Pentagon in Arlington County, Virginia, and a fourth into a field near Shanksville, Pennsylvania.
+- 1997: After a nationwide referendum, Scotland votes to establish a devolved parliament within the United Kingdom.
+- 1997: Kurkse tragedy: Fourteen Estonian soldiers of the Baltic Battalion are drowned or die of hypothermia during a training exercise in the Kurkse Strait.
+- 1997: NASA's Mars Global Surveyor reaches Mars.
+- 1995: The first game of the PCA World Chess Championship 1995, pitting incumbent champion Garry Kasparov against challenger Viswanathan Anand, takes place on the 107th floor of the World Trade Center's South Tower in New York City.
+- 1991: Continental Express Flight 2574 crashes in Colorado County, Texas, near Eagle Lake, killing 11 passengers and three crew.
+- 1990: A Faucett Boeing 727 disappears in the Atlantic Ocean while being flown from Malta to Peru.
+- 1989: Hungary announces that the East German refugees who had been housed in temporary camps were free to leave for West Germany.
+- 1985: Moimenta-Alcafache train crash, the worst railway accident to occur in Portugal.
+- 1982: The international forces that were guaranteeing the safety of Palestinian refugees following Israel's 1982 Invasion of Lebanon leave Beirut. Five days later, several thousand refugees are massacred in the Sabra and Shatila refugee camps by Phalange forces.
+- 1980: A new constitution of Chile is established under the influence of then Chilean dictator Augusto Pinochet, which is subject to controversy in Chile today.
+- 1976: A bomb planted by a Croatian terrorist, Zvonko Bušić, is found at New York's Grand Central Terminal; one NYPD officer is killed trying to defuse it.
+- 1974: Eastern Air Lines Flight 212 crashes in Charlotte, North Carolina, killing 69 passengers and two crew.
+- 1973: JAT Airways Flight 769 crashes into the Maganik mountain range while on approach to Titograd Airport, killing 35 passengers and six crew.
+- 1973: A coup in Chile, headed by General Augusto Pinochet, topples the democratically elected president Salvador Allende.
+- 1972: The San Francisco Bay Area Rapid Transit system begins passenger service.
+- 1971: The Egyptian Constitution becomes official.
+- 1970: The Dawson's Field hijackers release 88 of their hostages. The remaining hostages, mostly Jews and Israeli citizens, are held until September 25.
+- 1968: John Eliot Gardiner conducts Monteverdi's Vespro della Beata Vergine with the Monteverdi Choir at the Proms.
+- 1968: Air France Flight 1611 crashes off Nice, France, killing 89 passengers and six crew.
+- 1967: China's People's Liberation Army (PLA) launched an attack on Indian posts at Nathu La, Sikkim, India, which resulted in military clashes.
+- 1965: Indo-Pakistani War: The Indian Army captures the town of Burki, just southeast of Lahore.
 
 Data from muffinlabs
-*(Updated at: 2025-09-10 01:40:03 UTC)*
+*(Updated at: 2025-09-11 01:42:40 UTC)*
 
 # 历史上的今天 
 
-- -  2022年：伊丽莎白二世女王的死亡：查尔斯三世国王在圣詹姆斯宫的登记委员会会议上正式宣布为君主。
-- -  2017年：飓风Irma在整个加勒比海造成灾难性损害后，在佛罗里达州的Cudjoe Key登陆。Irma造成134人死亡和772亿美元（2017年USD）造成的损失。
-- -  2008年：CERN的大型强子对撞机被描述为历史上最大的科学实验，它在瑞士日内瓦提供了动力。
-- -  2007年：1999年10月发生军事政变，巴基斯坦前总理纳瓦兹·谢里夫（Nawaz Sharif）在流亡七年后返回巴基斯坦。
-- -  2002年：瑞士传统上是一个中立的国家，成为联合国的正式成员。
-- -  2001年：在他参加英国电视游戏节目中，他想成为百万富翁？参赛者查尔斯·英格拉姆（Charles Ingram）获得了100万英镑的最高奖项，但后来透露，他通过听取妻子和另一位参赛者的咳嗽来欺骗了最高奖项。
-- -  2001年：巴西坎皮纳斯市市长AntônioDaCosta Santos被暗杀。
-- -  2000年：巴拉斯行动成功地释放了六名英国士兵被俘虏了两周以上，并为塞拉利昂内战的结束做出了贡献。
-- -  1977年：哈米达·德扬多比（Hamida Djandoubi）被判犯有酷刑和谋杀罪，是法国断头台执行的最后一个人。
-- -  1976年：英国航空公司霍克·肖德利·特里尼特（Siddeley Trident）和南斯拉夫萨格勒布附近的Inex-Adria DC-9碰撞，杀死176。
-- -  1974年：几内亚 - 比索（Guinea-Bissau）从葡萄牙获得独立。
-- -  1967年：直布罗陀的人民投票是成为英国依赖，而不是成为西班牙的一部分。
-- -  1961年：在意大利大奖赛中，坠机事故导致德国一级方程式赛车司机Wolfgang von Trips和15名观众被他的法拉利（Ferrari）击中，这是F1历史上最致命的事故。
-- -  1960年：在罗马举行的夏季奥运会上，abebe Bikila成为第一个赢得金牌的撒哈拉以南非洲人，赤脚赢得了马拉松比赛。
-- -  1943年：第二次世界大战：在阿克斯行动中，德国军队开始占领罗马。
-- -  1942年：第二次世界大战：英国军队在马达加斯加进行了两栖降落，以重新推出马达加斯加竞选活动的盟军进攻行动。
-- -  1939年：第二次世界大战：《加拿大对德国战争宣言》获得了皇家同意。
-- -  1939年：第二次世界大战：HMS Oxley潜艇被挪威附近的HMS Triton误认为，成为皇家海军在战争中的首次损失。
-- -  1937年：九个国家参加了NYON会议，讲解地中海的国际盗版。
-- -  1936年：第一世界个人摩托车赛车锦标赛，在伦敦（英国）温布利体育场举行
-- -  1932年：纽约市地铁的第三次竞争地铁系统，即市政拥有的IND，已开业。
-- -  1919年：德国 - 圣经共和国签署了《圣日耳曼 - 埃莱》条约，割让了意大利，南斯拉夫和捷克斯洛伐克的重要领土。
-- -  1918年：俄罗斯内战：红军俘获了喀山。
-- -  1898年：奥地利的伊丽莎白皇后被路易吉·卢切尼（Luigi Lucheni）暗杀。
-- -  1897年：格子大屠杀：警长的posse在美国宾夕法尼亚州的拉蒂默尔杀死了19名无武装的罢工移民矿工。
-- -  1858年：乔治·玛丽·塞尔（George Mary Searle）发现了小行星55潘多拉（Pandora）。
-- -  1846年：埃里亚斯·豪（Elias Howe）获得了缝纫机的专利。
-- -  1813年：在1812年战争期间，美国在伊利湖战役中击败了英国舰队。
-- -  1798年：在圣乔治·卡耶战役中，英国洪都拉斯击败了西班牙。
-- -  1776年：美国革命战争：内森·黑尔（Nathan Hale）志愿者监视大陆军。
+- -  2024年：飓风法兰汀（Francine）将墨西哥湾影响为2类飓风。
+- -  2023年：利比亚市德尔纳市经历了灾难性的洪水，丹尼尔导致两个大坝倒塌，造成11,300多人丧生。
+- -  2015年：一架起重机倒塌在沙特阿拉伯的清真寺al-Haram清真寺上，炸死111人，炸伤394人。
+- -  2012年：美国驻班加西大使馆遭到袭击，导致四人死亡。
+- -  2012年：在巴基斯坦的两次服装工厂大火中，共有315人丧生。
+- -  2011年：9月11日在美国国家纪念馆举行了奉献仪式，该纪念馆于9月11日在纽约市袭击10周年，纪念馆向家人开放。
+- -  2008年：一条主要的频道隧道大火在货运火车上爆发，导致部分隧道关闭了六个月。
+- -  2007年：俄罗斯测试了有史以来最大的常规武器，是所有炸弹的父亲。
+- -  2001年：9月11日的袭击是一系列协调的恐怖袭击，杀害了2,977人，被4架飞机劫持了基地组织的19名成员。两架飞机撞上了纽约市的世界贸易中心，第三次撞车撞向弗吉尼亚州阿灵顿县的五角大楼，第四次进入宾夕法尼亚州香斯维尔附近的田野。
+- -  1997年：在全国范围内的全民投票之后，苏格兰投票决定在英国建立一个权威的议会。
+- -  1997年：库尔克（Kurkse）悲剧：波罗的海营的十四名爱沙尼亚士兵在库克斯海峡的训练练习中被淹死或死于体温过低。
+- -  1997年：NASA的火星全球测量师到达火星。
+- -  1995年：1995年PCA世界国际象棋锦标赛的第一场比赛是在现任冠军Garry Kasparov对抗挑战者Viswanathan Anand的比赛，在世界贸易中心南部纽约市的South Tower的107楼举行。
+- -  1991年：在德克萨斯州科罗拉多县，大陆航空公司2574号撞车事故，伊格尔湖附近，杀死11名乘客和3名船员。
+- -  1990年：从马耳他飞往秘鲁时，大西洋中的福克特波音727在大西洋中消失。
+- -  1989年：匈牙利宣布，曾在临时营地中安置的东德难民可以自由前往西德。
+- -  1985年：Moimenta-Alcafache火车撞车事故，这是葡萄牙发生的最严重的铁路事故。
+- -  1982年：在以色列1982年入侵黎巴嫩贝鲁特之后，保证巴勒斯坦难民安全的国际军队。五天后，萨布拉（Sabra）和沙蒂拉（Shatila）难民营屠杀了数千名难民。
+- -  1980年：在当时的智利独裁者奥古斯托·皮诺切特（Augusto Pinochet）的影响下建立了一项新的智利宪法，这在今天的智利有争议。
+- -  1976年：在纽约大中央航站楼发现了克罗地亚恐怖分子ZvonkoBušić种植的炸弹；一名纽约警察局官员试图降解它。
+- -  1974年：东部航空公司212号航班在北卡罗来纳州夏洛特撞车，杀死了69名乘客和两名船员。
+- -  1973年：JAT Airways 769航班在前往Titograd机场的路上撞向Maganik山脉，杀死了35名乘客和6名船员。
+- -  1973年：由奥古斯托·皮诺切（Augusto Pinochet）将军率领的智利政变顶上民主选举的总统萨尔瓦多·阿伦德（Salvador Allende）。
+- -  1972年：旧金山湾区快速运输系统开始客运服务。
+- -  1971年：埃及宪法成为正式的。
+- -  1970年：道森的劫持劫机者发行了88人的人质。其余人质（主要是犹太人和以色列公民）一直持续到9月25日。
+- -  1968年：约翰·艾略特·加德纳（John Eliot Gardiner）在舞会上与蒙特维尔迪合唱团（Monteverdi Choir）一起指挥蒙特维尔迪（Monteverdi）的Vespro Della Beata Vergine。
+- -  1968年：法国航班1611航班坠毁，法国，杀死了89名乘客和6名船员。
+- -  1967年：中国人民解放军（PLA）在印度锡金的纳索·洛（Nathu La）发动了袭击，这导致了军事冲突。
+- -  1965年：印度 - 巴基斯坦战争：印度军队占领了拉合尔东南部的伯基镇。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-09-10 01:40:03 UTC）*
+*（更新于: 2025-09-11 01:42:40 UTC）*
