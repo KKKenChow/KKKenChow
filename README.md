@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Hurricane Francine impacts the Gulf of Mexico, as a Category 2 hurricane.
-- 2023: The Libyan city of Derna experiences catastrophic floods after Storm Daniel causes two dams to collapse, killing over 11,300 people.
-- 2015: A crane collapses onto the Masjid al-Haram mosque in Saudi Arabia, killing 111 people and injuring 394 others.
-- 2012: The U.S. embassy in Benghazi, Libya is attacked, resulting in four deaths.
-- 2012: A total of 315 people are killed in two garment factory fires in Pakistan.
-- 2011: A dedication ceremony is held at the United States National September 11 Memorial on the 10th anniversary of the September 11 attacks in New York City, and the memorial opens to family members.
-- 2008: A major Channel Tunnel fire breaks out on a freight train, resulting in the closure of part of the tunnel for six months.
-- 2007: Russia tests the largest conventional weapon ever, the Father of All Bombs.
-- 2001: The September 11 attacks, a series of coordinated terrorist attacks killing 2,977 people using four aircraft hijacked by 19 members of al-Qaeda. Two aircraft crash into the World Trade Center in New York City, a third crashes into The Pentagon in Arlington County, Virginia, and a fourth into a field near Shanksville, Pennsylvania.
-- 1997: After a nationwide referendum, Scotland votes to establish a devolved parliament within the United Kingdom.
-- 1997: Kurkse tragedy: Fourteen Estonian soldiers of the Baltic Battalion are drowned or die of hypothermia during a training exercise in the Kurkse Strait.
-- 1997: NASA's Mars Global Surveyor reaches Mars.
-- 1995: The first game of the PCA World Chess Championship 1995, pitting incumbent champion Garry Kasparov against challenger Viswanathan Anand, takes place on the 107th floor of the World Trade Center's South Tower in New York City.
-- 1991: Continental Express Flight 2574 crashes in Colorado County, Texas, near Eagle Lake, killing 11 passengers and three crew.
-- 1990: A Faucett Boeing 727 disappears in the Atlantic Ocean while being flown from Malta to Peru.
-- 1989: Hungary announces that the East German refugees who had been housed in temporary camps were free to leave for West Germany.
-- 1985: Moimenta-Alcafache train crash, the worst railway accident to occur in Portugal.
-- 1982: The international forces that were guaranteeing the safety of Palestinian refugees following Israel's 1982 Invasion of Lebanon leave Beirut. Five days later, several thousand refugees are massacred in the Sabra and Shatila refugee camps by Phalange forces.
-- 1980: A new constitution of Chile is established under the influence of then Chilean dictator Augusto Pinochet, which is subject to controversy in Chile today.
-- 1976: A bomb planted by a Croatian terrorist, Zvonko Bušić, is found at New York's Grand Central Terminal; one NYPD officer is killed trying to defuse it.
-- 1974: Eastern Air Lines Flight 212 crashes in Charlotte, North Carolina, killing 69 passengers and two crew.
-- 1973: JAT Airways Flight 769 crashes into the Maganik mountain range while on approach to Titograd Airport, killing 35 passengers and six crew.
-- 1973: A coup in Chile, headed by General Augusto Pinochet, topples the democratically elected president Salvador Allende.
-- 1972: The San Francisco Bay Area Rapid Transit system begins passenger service.
-- 1971: The Egyptian Constitution becomes official.
-- 1970: The Dawson's Field hijackers release 88 of their hostages. The remaining hostages, mostly Jews and Israeli citizens, are held until September 25.
-- 1968: John Eliot Gardiner conducts Monteverdi's Vespro della Beata Vergine with the Monteverdi Choir at the Proms.
-- 1968: Air France Flight 1611 crashes off Nice, France, killing 89 passengers and six crew.
-- 1967: China's People's Liberation Army (PLA) launched an attack on Indian posts at Nathu La, Sikkim, India, which resulted in military clashes.
-- 1965: Indo-Pakistani War: The Indian Army captures the town of Burki, just southeast of Lahore.
+- 2021: Siberian Light Aviation Flight 51 crashes short of the runway at Kazachinskoye Airport, killing four.
+- 2014: Synagogue Church building collapse saw the deaths of 115 people and several injured, in the Church run by Nigeria's, T. B. Joshua.
+- 2013: NASA confirms that its Voyager 1 probe has become the first manmade object to enter interstellar space.
+- 2012: Petropavlovsk-Kamchatsky Air Flight 251 crashes on approach to Palana Airport, killing 10 and injuring four.
+- 2008: The 2008 Chatsworth train collision in Los Angeles between a Metrolink commuter train and a Union Pacific freight train kills 25 people.
+- 2007: Two earthquakes measuring 8.4 and 7.9 on the Richter Scale hits the Indonesian island of Sumatra, killing 25 people and injuring 161.
+- 2007: Former Philippine President Joseph Estrada is convicted of plunder.
+- 2005: Israeli-Palestinian conflict: the Israeli disengagement from Gaza is completed, leaving some 2,530 homes demolished.
+- 2003: Typhoon Maemi, the strongest recorded typhoon to strike South Korea, made landfall near Busan.
+- 2003: Iraq War: In Fallujah, U.S. forces mistakenly shoot and kill eight Iraqi police officers.
+- 2003: The United Nations lifts sanctions against Libya after that country agreed to accept responsibility and recompense the families of victims in the 1988 bombing of Pan Am Flight 103.
+- 2001: Ansett Australia, Australia's first commercial interstate airline, collapses due to increased strain on the international airline industry, leaving 10,000 people unemployed.
+- 1994: Frank Eugene Corder fatally crashes a single-engine Cessna 150 into the White House's south lawn, striking the West wing. There were no other casualties.
+- 1993: NASA launches Space Shuttle Discovery on STS-51.
+- 1992: Abimael Guzmán, leader of the Shining Path, is captured by Peruvian special forces; shortly thereafter the rest of Shining Path's leadership fell as well.
+- 1992: NASA launches Space Shuttle Endeavour on STS-47 which marked the 50th shuttle mission. On board are Mae Carol Jemison, the first African-American woman in space, Mamoru Mohri, the first Japanese citizen to fly in a US spaceship, and Mark Lee and Jan Davis, the first married couple in space.
+- 1991: NASA launches Space Shuttle Discovery on STS-48 to deploy the Upper Atmosphere Research Satellite.
+- 1990: The Red Cross organizations of mainland China and Taiwan sign Kinmen Agreement on repatriation of illegal immigrants and criminal suspects after two days of talks in Kinmen, Fujian Province in response to the two tragedies in repatriation in the previous two months. It is the first agreement reached by private organizations across the Taiwan Strait.
+- 1990: The two German states and the Four Powers sign the Treaty on the Final Settlement with Respect to Germany in Moscow, paving the way for German reunification.
+- 1988: Hurricane Gilbert devastates Jamaica; it turns towards Mexico's Yucatán Peninsula two days later, causing an estimated $5 billion in damage.
+- 1984: Dwight Gooden sets the baseball record for strikeouts in a season by a rookie with 276, previously set by Herb Score with 246 in 1954. Gooden's 276 strikeouts that season, pitched in 218 innings, set the current record.
+- 1983: The USSR vetoes a United Nations Security Council Resolution deploring the Soviet destruction of Korean Air Lines Flight 007.
+- 1983: A Wells Fargo depot in West Hartford, Connecticut, United States, is robbed of approximately US$7 million by Los Macheteros.
+- 1980: The 43rd government of Turkey is overthrown in a coup d'état led by General Kenan Evren.
+- 1977: South African anti-apartheid activist Steve Biko dies in police custody.
+- 1974: Emperor Haile Selassie of Ethiopia, 'Messiah' of the Rastafari movement, is deposed following a military coup by the Derg, ending a reign of 58 years.
+- 1970: Dawson's Field hijackings: Popular Front for the Liberation of Palestine terrorists blow up three hijacked airliners in Zarqa, Jordan, continuing to hold the passengers hostage in various undisclosed locations in Amman.
+- 1969: Philippine Air Lines Flight 158 crashes in Antipolo, near Manila International Airport in the Philippines, killing 45 people.
+- 1966: Gemini 11, the penultimate mission of NASA's Gemini program, and the current human altitude record holder (except for the Apollo lunar missions).
+- 1962: US President John F. Kennedy delivers his "We choose to go to the Moon" speech at Rice University.
 
 Data from muffinlabs
-*(Updated at: 2025-09-11 01:42:40 UTC)*
+*(Updated at: 2025-09-12 01:38:20 UTC)*
 
 # 历史上的今天 
 
-- -  2024年：飓风法兰汀（Francine）将墨西哥湾影响为2类飓风。
-- -  2023年：利比亚市德尔纳市经历了灾难性的洪水，丹尼尔导致两个大坝倒塌，造成11,300多人丧生。
-- -  2015年：一架起重机倒塌在沙特阿拉伯的清真寺al-Haram清真寺上，炸死111人，炸伤394人。
-- -  2012年：美国驻班加西大使馆遭到袭击，导致四人死亡。
-- -  2012年：在巴基斯坦的两次服装工厂大火中，共有315人丧生。
-- -  2011年：9月11日在美国国家纪念馆举行了奉献仪式，该纪念馆于9月11日在纽约市袭击10周年，纪念馆向家人开放。
-- -  2008年：一条主要的频道隧道大火在货运火车上爆发，导致部分隧道关闭了六个月。
-- -  2007年：俄罗斯测试了有史以来最大的常规武器，是所有炸弹的父亲。
-- -  2001年：9月11日的袭击是一系列协调的恐怖袭击，杀害了2,977人，被4架飞机劫持了基地组织的19名成员。两架飞机撞上了纽约市的世界贸易中心，第三次撞车撞向弗吉尼亚州阿灵顿县的五角大楼，第四次进入宾夕法尼亚州香斯维尔附近的田野。
-- -  1997年：在全国范围内的全民投票之后，苏格兰投票决定在英国建立一个权威的议会。
-- -  1997年：库尔克（Kurkse）悲剧：波罗的海营的十四名爱沙尼亚士兵在库克斯海峡的训练练习中被淹死或死于体温过低。
-- -  1997年：NASA的火星全球测量师到达火星。
-- -  1995年：1995年PCA世界国际象棋锦标赛的第一场比赛是在现任冠军Garry Kasparov对抗挑战者Viswanathan Anand的比赛，在世界贸易中心南部纽约市的South Tower的107楼举行。
-- -  1991年：在德克萨斯州科罗拉多县，大陆航空公司2574号撞车事故，伊格尔湖附近，杀死11名乘客和3名船员。
-- -  1990年：从马耳他飞往秘鲁时，大西洋中的福克特波音727在大西洋中消失。
-- -  1989年：匈牙利宣布，曾在临时营地中安置的东德难民可以自由前往西德。
-- -  1985年：Moimenta-Alcafache火车撞车事故，这是葡萄牙发生的最严重的铁路事故。
-- -  1982年：在以色列1982年入侵黎巴嫩贝鲁特之后，保证巴勒斯坦难民安全的国际军队。五天后，萨布拉（Sabra）和沙蒂拉（Shatila）难民营屠杀了数千名难民。
-- -  1980年：在当时的智利独裁者奥古斯托·皮诺切特（Augusto Pinochet）的影响下建立了一项新的智利宪法，这在今天的智利有争议。
-- -  1976年：在纽约大中央航站楼发现了克罗地亚恐怖分子ZvonkoBušić种植的炸弹；一名纽约警察局官员试图降解它。
-- -  1974年：东部航空公司212号航班在北卡罗来纳州夏洛特撞车，杀死了69名乘客和两名船员。
-- -  1973年：JAT Airways 769航班在前往Titograd机场的路上撞向Maganik山脉，杀死了35名乘客和6名船员。
-- -  1973年：由奥古斯托·皮诺切（Augusto Pinochet）将军率领的智利政变顶上民主选举的总统萨尔瓦多·阿伦德（Salvador Allende）。
-- -  1972年：旧金山湾区快速运输系统开始客运服务。
-- -  1971年：埃及宪法成为正式的。
-- -  1970年：道森的劫持劫机者发行了88人的人质。其余人质（主要是犹太人和以色列公民）一直持续到9月25日。
-- -  1968年：约翰·艾略特·加德纳（John Eliot Gardiner）在舞会上与蒙特维尔迪合唱团（Monteverdi Choir）一起指挥蒙特维尔迪（Monteverdi）的Vespro Della Beata Vergine。
-- -  1968年：法国航班1611航班坠毁，法国，杀死了89名乘客和6名船员。
-- -  1967年：中国人民解放军（PLA）在印度锡金的纳索·洛（Nathu La）发动了袭击，这导致了军事冲突。
-- -  1965年：印度 - 巴基斯坦战争：印度军队占领了拉合尔东南部的伯基镇。
+- -2021：西伯利亚光线航空51号航班在卡扎辛斯科机场的跑道没有撞车的情况下撞车，杀死了四人。
+- -  2014年：犹太教堂教堂大楼的崩溃造成了115人死亡和几名受伤的死亡，在由尼日利亚的教堂T. B. Joshua经营的教堂中。
+- -  2013年：NASA确认其Voyager 1探测已成为第一个进入星际空间的人造物体。
+- -  2012年：Petropavlovsk-Kamchatsky Air Flight 251撞车前往Palana机场，造成10人造成伤害，四人受伤。
+- -  2008年：2008年在洛杉矶的Cathsworth火车碰撞，在Metrolink通勤火车和联合太平洋货运火车之间造成25人丧生。
+- -  2007年：里奇特量表上的两次地震为8.4和7.9，袭击了苏门答腊岛，杀死了25人，受伤161人。
+- -  2007年：前菲律宾总统约瑟夫·埃斯特拉达（Joseph Estrada）被定罪。
+- -  2005年：以色列 - 巴勒斯坦冲突：以色列与加沙的脱离接触已完成，约有2,530所房屋被拆除。
+- -  2003年：台风梅米（Maemi）是最强的台风袭击韩国的台风，在釜山附近登陆。
+- -  2003年：伊拉克战争：在Fallujah，美军错误地射击并杀死了八名伊拉克警察。
+- -  2003年：联合国在该国同意承担责任和报酬后，对利比亚进行了对利比亚的制裁。
+- -  2001年：澳大利亚第一个商业州际航空公司安塞特·澳大利亚（Ansett Australia）由于对国际航空业的压力增加而崩溃，造成10,000人失业。
+- -  1994年：弗兰克·尤金·科德（Frank Eugene Corder）致命地将单引擎塞斯纳（Cessna）150撞到了白宫的南草坪，袭击了西翼。没有其他伤亡。
+- -  1993年：NASA在STS-51上推出了航天飞机发现。
+- -  1992年：闪亮道路的领导人阿比马尔·古兹曼（AbimaelGuzmán）被秘鲁特种部队捕获；此后不久，Shining Path的其余领导层也下降了。
+- -  1992年：NASA在STS-47上推出了航天飞机努力，标志着第50班车任务。船上的是梅·卡罗尔·杰米森（Mae Carol Jemison），他是太空中的第一位非裔美国妇女，马莫鲁·莫里（Mamoru Mohri），他是第一位在美国宇宙飞船飞行的日本公民，马克·李（Mark Lee）和扬·戴维斯（Mark Lee）和扬·戴维斯（Jan Davis），这是太空中的第一对已婚夫妇。
+- -  1991年：NASA在STS-48上推出了航天飞机发现，以部署高层大气研究卫星。
+- -  1990年：中国大陆和台湾的红十字会签署了金门签署了关于非法移民和犯罪嫌疑人的协议，经过两天的会谈，以回应前两个月遣返的两次悲剧。这是台湾海峡私人组织达成的第一个协议。
+- -  1990年：两个德国国家和四项权力在莫斯科的德国关于德国的最终解决方案签署了条约，为德国统一铺平了道路。
+- -  1988年：吉尔伯特飓风破坏牙买加；两天后，它转向墨西哥的尤卡坦半岛，估计造成50亿美元的损失。
+- -  1984年：德怀特·古登（Dwight Gooden）在一个赛季中以276的成绩创造了一个赛季的棒球纪录，此前由赫伯（Herb）得分在1954年以246的成绩创下。古登（Gooden）当时的276个三振出局，在218局中获得了218局，创造了当前的纪录。
+- -  1983年：苏联否决联合国安理会的决议，使苏联毁灭了韩国航空公司007航班。
+- -  1983年：美国康涅狄格州西哈特福德的富国银行仓库被Los Macheteros抢走了约700万美元。
+- -  1980年：土耳其第43届政府由肯南·埃夫伦将军领导的政变被推翻。
+- -  1977年：南非反种族隔离活动家史蒂夫·比科（Steve Biko）死于警方拘留。
+- -  1974年：埃塞俄比亚的海尔·塞拉西（Haile Selassie）是拉斯塔法里运动的“弥赛亚”，在德格（Derg）发生军事政变后被撤销，结束了58年的统治。
+- -  1970年：道森野外劫机：巴勒斯坦恐怖分子解放的流行阵线炸毁了约旦扎尔卡的三架被劫持的客机，继续将乘客人质置于安曼的各个未公开的地点。
+- -  1969年：菲律宾航空公司在菲律宾马尼拉国际机场附近的安提托洛（Antipolo）撞车158撞车，造成45人丧生。
+- -  1966年：Gemini 11，NASA双子座计划的倒数第二个任务，以及当前的人类高度记录持有人（Apollo Lunar任务除外）。
+- -  1962年：美国总统约翰·肯尼迪（John F. Kennedy）在赖斯大学发表了他的“我们选择去月球”演讲。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-09-11 01:42:40 UTC）*
+*（更新于: 2025-09-12 01:38:20 UTC）*
