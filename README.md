@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: Siberian Light Aviation Flight 51 crashes short of the runway at Kazachinskoye Airport, killing four.
-- 2014: Synagogue Church building collapse saw the deaths of 115 people and several injured, in the Church run by Nigeria's, T. B. Joshua.
-- 2013: NASA confirms that its Voyager 1 probe has become the first manmade object to enter interstellar space.
-- 2012: Petropavlovsk-Kamchatsky Air Flight 251 crashes on approach to Palana Airport, killing 10 and injuring four.
-- 2008: The 2008 Chatsworth train collision in Los Angeles between a Metrolink commuter train and a Union Pacific freight train kills 25 people.
-- 2007: Two earthquakes measuring 8.4 and 7.9 on the Richter Scale hits the Indonesian island of Sumatra, killing 25 people and injuring 161.
-- 2007: Former Philippine President Joseph Estrada is convicted of plunder.
-- 2005: Israeli-Palestinian conflict: the Israeli disengagement from Gaza is completed, leaving some 2,530 homes demolished.
-- 2003: Typhoon Maemi, the strongest recorded typhoon to strike South Korea, made landfall near Busan.
-- 2003: Iraq War: In Fallujah, U.S. forces mistakenly shoot and kill eight Iraqi police officers.
-- 2003: The United Nations lifts sanctions against Libya after that country agreed to accept responsibility and recompense the families of victims in the 1988 bombing of Pan Am Flight 103.
-- 2001: Ansett Australia, Australia's first commercial interstate airline, collapses due to increased strain on the international airline industry, leaving 10,000 people unemployed.
-- 1994: Frank Eugene Corder fatally crashes a single-engine Cessna 150 into the White House's south lawn, striking the West wing. There were no other casualties.
-- 1993: NASA launches Space Shuttle Discovery on STS-51.
-- 1992: Abimael Guzmán, leader of the Shining Path, is captured by Peruvian special forces; shortly thereafter the rest of Shining Path's leadership fell as well.
-- 1992: NASA launches Space Shuttle Endeavour on STS-47 which marked the 50th shuttle mission. On board are Mae Carol Jemison, the first African-American woman in space, Mamoru Mohri, the first Japanese citizen to fly in a US spaceship, and Mark Lee and Jan Davis, the first married couple in space.
-- 1991: NASA launches Space Shuttle Discovery on STS-48 to deploy the Upper Atmosphere Research Satellite.
-- 1990: The Red Cross organizations of mainland China and Taiwan sign Kinmen Agreement on repatriation of illegal immigrants and criminal suspects after two days of talks in Kinmen, Fujian Province in response to the two tragedies in repatriation in the previous two months. It is the first agreement reached by private organizations across the Taiwan Strait.
-- 1990: The two German states and the Four Powers sign the Treaty on the Final Settlement with Respect to Germany in Moscow, paving the way for German reunification.
-- 1988: Hurricane Gilbert devastates Jamaica; it turns towards Mexico's Yucatán Peninsula two days later, causing an estimated $5 billion in damage.
-- 1984: Dwight Gooden sets the baseball record for strikeouts in a season by a rookie with 276, previously set by Herb Score with 246 in 1954. Gooden's 276 strikeouts that season, pitched in 218 innings, set the current record.
-- 1983: The USSR vetoes a United Nations Security Council Resolution deploring the Soviet destruction of Korean Air Lines Flight 007.
-- 1983: A Wells Fargo depot in West Hartford, Connecticut, United States, is robbed of approximately US$7 million by Los Macheteros.
-- 1980: The 43rd government of Turkey is overthrown in a coup d'état led by General Kenan Evren.
-- 1977: South African anti-apartheid activist Steve Biko dies in police custody.
-- 1974: Emperor Haile Selassie of Ethiopia, 'Messiah' of the Rastafari movement, is deposed following a military coup by the Derg, ending a reign of 58 years.
-- 1970: Dawson's Field hijackings: Popular Front for the Liberation of Palestine terrorists blow up three hijacked airliners in Zarqa, Jordan, continuing to hold the passengers hostage in various undisclosed locations in Amman.
-- 1969: Philippine Air Lines Flight 158 crashes in Antipolo, near Manila International Airport in the Philippines, killing 45 people.
-- 1966: Gemini 11, the penultimate mission of NASA's Gemini program, and the current human altitude record holder (except for the Apollo lunar missions).
-- 1962: US President John F. Kennedy delivers his "We choose to go to the Moon" speech at Rice University.
+- 2013: Taliban insurgents attack the United States consulate in Herat, Afghanistan, with two members of the Afghan National Police reported dead and about 20 civilians injured.
+- 2008: Delhi, India, is hit by a series of bomb blasts, resulting in 30 deaths and 130 injuries.
+- 2007: The McLaren F1 team are found guilty of possessing confidential information from the Ferrari team, fined $100 million, and excluded from the constructors' championship standings.
+- 2007: The Declaration on the Rights of Indigenous Peoples is adopted by the United Nations General Assembly.
+- 2001: Civilian aircraft traffic resumes in the United States after the September 11 attacks.
+- 1997: A German Air Force Tupolev Tu-154 and a United States Air Force Lockheed C-141 Starlifter collide in mid-air near Namibia, killing 33.
+- 1993: Israeli Prime Minister Yitzhak Rabin shakes hands with Palestine Liberation Organization chairman Yasser Arafat at the White House after signing the Oslo Accords granting limited Palestinian autonomy.
+- 1989: Largest anti-Apartheid march in South Africa, led by Desmond Tutu.
+- 1988: Hurricane Gilbert is the strongest recorded hurricane in the Western Hemisphere, later replaced by Hurricane Wilma in 2005 (based on barometric pressure).
+- 1987: Goiânia accident: A radioactive object is stolen from an abandoned hospital in Goiânia, Brazil, contaminating many people in the following weeks and causing some to die from radiation poisoning.
+- 1986: A magnitude 6.0 earthquake strikes Kalamata, Greece with a maximum Modified Mercalli intensity of X (Extreme), killing at least 20 and causing heavy damage in the city.
+- 1985: Super Mario Bros. is released in Japan for the NES, which starts the Super Mario series of platforming games.
+- 1982: Spantax Flight 995 crashes at Málaga Airport during a rejected takeoff, killing 50 of the 394 people on board.
+- 1979: South Africa grants independence to the "homeland" of Venda (not recognised outside South Africa).
+- 1971: Chairman Mao Zedong's second in command and successor Marshal Lin Biao flees China after the failure of an alleged coup. His plane crashes in Mongolia, killing all aboard.
+- 1971: State police and National Guardsmen storm New York's Attica Prison to quell a prison revolt, which claimed 43 lives.
+- 1968: Cold War: Albania leaves the Warsaw Pact.
+- 1964: Martin Luther King Jr. addresses a crowd of 20,000 West Berliners on Sunday, in Waldbühne.
+- 1964: South Vietnamese Generals Lâm Văn Phát and Dương Văn Đức fail in a coup attempt against General Nguyễn Khánh.
+- 1962: An appeals court orders the University of Mississippi to admit James Meredith, the first African-American student admitted to the segregated university.
+- 1956: The dike around the Dutch polder East Flevoland is closed.
+- 1956: The IBM 305 RAMAC is introduced, the first commercial computer to use disk storage.
+- 1953: Nikita Khrushchev is appointed General Secretary of the Communist Party of the Soviet Union.
+- 1948: Margaret Chase Smith is elected United States senator, and becomes the first woman to serve in both the U.S. House of Representatives and the United States Senate.
+- 1948: Deputy Prime Minister of India Vallabhbhai Patel orders the Army to move into Hyderabad to integrate it with the Indian Union.
+- 1944: World War II: Start of the Battle of Meligalas between the Greek Resistance forces of the Greek People's Liberation Army (ELAS) and the collaborationist security battalions.
+- 1942: World War II: Second day of the Battle of Edson's Ridge in the Guadalcanal Campaign. U.S. Marines successfully defeat attacks by the Japanese with heavy losses for the Japanese forces.
+- 1933: Elizabeth McCombs becomes the first woman elected to the New Zealand Parliament.
+- 1923: Following a military coup in Spain, Miguel Primo de Rivera takes over, setting up a dictatorship.
+- 1922: The final act of the Greco-Turkish War, the Great Fire of Smyrna, commences.
 
 Data from muffinlabs
-*(Updated at: 2025-09-12 01:38:20 UTC)*
+*(Updated at: 2025-09-13 01:27:11 UTC)*
 
 # 历史上的今天 
 
-- -2021：西伯利亚光线航空51号航班在卡扎辛斯科机场的跑道没有撞车的情况下撞车，杀死了四人。
-- -  2014年：犹太教堂教堂大楼的崩溃造成了115人死亡和几名受伤的死亡，在由尼日利亚的教堂T. B. Joshua经营的教堂中。
-- -  2013年：NASA确认其Voyager 1探测已成为第一个进入星际空间的人造物体。
-- -  2012年：Petropavlovsk-Kamchatsky Air Flight 251撞车前往Palana机场，造成10人造成伤害，四人受伤。
-- -  2008年：2008年在洛杉矶的Cathsworth火车碰撞，在Metrolink通勤火车和联合太平洋货运火车之间造成25人丧生。
-- -  2007年：里奇特量表上的两次地震为8.4和7.9，袭击了苏门答腊岛，杀死了25人，受伤161人。
-- -  2007年：前菲律宾总统约瑟夫·埃斯特拉达（Joseph Estrada）被定罪。
-- -  2005年：以色列 - 巴勒斯坦冲突：以色列与加沙的脱离接触已完成，约有2,530所房屋被拆除。
-- -  2003年：台风梅米（Maemi）是最强的台风袭击韩国的台风，在釜山附近登陆。
-- -  2003年：伊拉克战争：在Fallujah，美军错误地射击并杀死了八名伊拉克警察。
-- -  2003年：联合国在该国同意承担责任和报酬后，对利比亚进行了对利比亚的制裁。
-- -  2001年：澳大利亚第一个商业州际航空公司安塞特·澳大利亚（Ansett Australia）由于对国际航空业的压力增加而崩溃，造成10,000人失业。
-- -  1994年：弗兰克·尤金·科德（Frank Eugene Corder）致命地将单引擎塞斯纳（Cessna）150撞到了白宫的南草坪，袭击了西翼。没有其他伤亡。
-- -  1993年：NASA在STS-51上推出了航天飞机发现。
-- -  1992年：闪亮道路的领导人阿比马尔·古兹曼（AbimaelGuzmán）被秘鲁特种部队捕获；此后不久，Shining Path的其余领导层也下降了。
-- -  1992年：NASA在STS-47上推出了航天飞机努力，标志着第50班车任务。船上的是梅·卡罗尔·杰米森（Mae Carol Jemison），他是太空中的第一位非裔美国妇女，马莫鲁·莫里（Mamoru Mohri），他是第一位在美国宇宙飞船飞行的日本公民，马克·李（Mark Lee）和扬·戴维斯（Mark Lee）和扬·戴维斯（Jan Davis），这是太空中的第一对已婚夫妇。
-- -  1991年：NASA在STS-48上推出了航天飞机发现，以部署高层大气研究卫星。
-- -  1990年：中国大陆和台湾的红十字会签署了金门签署了关于非法移民和犯罪嫌疑人的协议，经过两天的会谈，以回应前两个月遣返的两次悲剧。这是台湾海峡私人组织达成的第一个协议。
-- -  1990年：两个德国国家和四项权力在莫斯科的德国关于德国的最终解决方案签署了条约，为德国统一铺平了道路。
-- -  1988年：吉尔伯特飓风破坏牙买加；两天后，它转向墨西哥的尤卡坦半岛，估计造成50亿美元的损失。
-- -  1984年：德怀特·古登（Dwight Gooden）在一个赛季中以276的成绩创造了一个赛季的棒球纪录，此前由赫伯（Herb）得分在1954年以246的成绩创下。古登（Gooden）当时的276个三振出局，在218局中获得了218局，创造了当前的纪录。
-- -  1983年：苏联否决联合国安理会的决议，使苏联毁灭了韩国航空公司007航班。
-- -  1983年：美国康涅狄格州西哈特福德的富国银行仓库被Los Macheteros抢走了约700万美元。
-- -  1980年：土耳其第43届政府由肯南·埃夫伦将军领导的政变被推翻。
-- -  1977年：南非反种族隔离活动家史蒂夫·比科（Steve Biko）死于警方拘留。
-- -  1974年：埃塞俄比亚的海尔·塞拉西（Haile Selassie）是拉斯塔法里运动的“弥赛亚”，在德格（Derg）发生军事政变后被撤销，结束了58年的统治。
-- -  1970年：道森野外劫机：巴勒斯坦恐怖分子解放的流行阵线炸毁了约旦扎尔卡的三架被劫持的客机，继续将乘客人质置于安曼的各个未公开的地点。
-- -  1969年：菲律宾航空公司在菲律宾马尼拉国际机场附近的安提托洛（Antipolo）撞车158撞车，造成45人丧生。
-- -  1966年：Gemini 11，NASA双子座计划的倒数第二个任务，以及当前的人类高度记录持有人（Apollo Lunar任务除外）。
-- -  1962年：美国总统约翰·肯尼迪（John F. Kennedy）在赖斯大学发表了他的“我们选择去月球”演讲。
+- -  2013年：塔利班叛乱分子在阿富汗赫拉特袭击美国领事馆，两名阿富汗国家警察报告死亡，约有20名平民受伤。
+- -  2008年：印度德里，遭到一系列炸弹爆炸的袭击，导致30人死亡和130人受伤。
+- -  2007年：迈凯轮F1团队被判犯有法拉利团队的机密信息，罚款1亿美元，并被排除在建筑商的冠军赛中。
+- -  2007年：联合国大会采用了土著人民权利宣言。
+- -  2001年：9月11日袭击后，民用飞机交通在美国恢复。
+- -  1997年：德国空军Tupolev TU-154和美国空军洛克希德C-141 Starlifter在纳米比亚附近的空中碰撞，杀死了33。
+- -  1993年：以色列总理叶扎克·拉宾（Yitzhak Rabin）与巴勒斯坦解放组织董事长Yasser Arafat在白宫签署了授予有限巴勒斯坦自治权的奥斯陆协议后，在白宫握手。
+- -  1989年：南非最大的反种族隔离游行，由戴斯蒙德·图图（Desmond Tutu）领导。
+- -  1988年：吉尔伯特飓风是西半球记录最强的飓风，后来在2005年被飓风威尔玛（Wilma）取代（基于气压压力）。
+- -  1987年：Goiânia事故：一个放射性物体被偷走了巴西Goiânia的一家废弃医院，在接下来的几周内污染了许多人，并导致一些人死于辐射中毒。
+- -  1986年：6.0级地震袭击了卡拉马塔，希腊，最大修饰的梅尔卡利强度为x（极端），杀死至少20次，并在城市造成了巨大的破坏。
+- -  1985年：超级马里奥兄弟（Super Mario Bros.）在日本发行了NES，该NES启动了Super Mario系列平台游戏。
+- -  1982年：Spantax 995航班在拒绝起飞时在Málaga机场撞车，造成394人中有50人丧生。
+- -  1979年：南非将独立授予范达的“国土”（在南非以外未公认）。
+- -  1971年：毛泽东董事长第二次指挥和继任者林·比奥元帅在涉嫌政变失败后逃离了中国。他的飞机在蒙古坠毁，杀死了所有的飞机。
+- -  1971年：州警察和国民警卫队袭击了纽约的阿提卡监狱，以平息监狱起义，夺取了43人的生命。
+- -  1968年：冷战：阿尔巴尼亚离开华沙条约。
+- -  1964年：小马丁·路德·金（Martin Luther King Jr.
+- -  1964年：南越将军lâmVănphát和dươngVngvănc失败了，反对NguyễnKhánh将军的政变。
+- -  1962年：上诉法院命令密西西比大学承认詹姆斯·梅雷迪思（James Meredith），这是第一位接受隔离大学的非裔美国人学生。
+- -  1956年：荷兰polder猫东弗洛沃兰（East Flevoland）周围的堤防被关闭。
+- -  1956年：引入了IBM 305 RAMAC，这是第一台使用磁盘存储的商用计算机。
+- -  1953年：尼基塔·赫鲁晓夫（Nikita Khrushchev）被任命为苏联共产党秘书长。
+- -  1948年：玛格丽特·蔡斯·史密斯（Margaret Chase Smith）当选为美国参议员，并成为美国众议院和美国参议院首位任职的妇女。
+- -  1948年：印度副总理Vallabhbhai Patel命令军队搬进海得拉巴，将其与印度联盟融合在一起。
+- -  1944年：第二次世界大战：梅利加拉斯战役的开始，希腊人民解放军（ELAS）和合作主义者的安全营之间的希腊抵抗力量之间。
+- -  1942年：第二次世界大战：瓜达尔卡纳尔战役中埃德森山脊战役的第二天。美国海军陆战队成功击败日本部队的日本人击败日本人。
+- -  1933年：伊丽莎白·麦考姆斯（Elizabeth McCombs）成为新西兰议会的第一位女性。
+- -  1923年：在西班牙发生军事政变之后，米格尔·普里奥·德维拉（Miguel Primo de Rivera）接管了独裁统治。
+- -  1922年：希腊 - 土耳其战争的最后一幕，士麦那的大火开始。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-09-12 01:38:20 UTC）*
+*（更新于: 2025-09-13 01:27:11 UTC）*
