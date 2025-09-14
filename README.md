@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2013: Taliban insurgents attack the United States consulate in Herat, Afghanistan, with two members of the Afghan National Police reported dead and about 20 civilians injured.
-- 2008: Delhi, India, is hit by a series of bomb blasts, resulting in 30 deaths and 130 injuries.
-- 2007: The McLaren F1 team are found guilty of possessing confidential information from the Ferrari team, fined $100 million, and excluded from the constructors' championship standings.
-- 2007: The Declaration on the Rights of Indigenous Peoples is adopted by the United Nations General Assembly.
-- 2001: Civilian aircraft traffic resumes in the United States after the September 11 attacks.
-- 1997: A German Air Force Tupolev Tu-154 and a United States Air Force Lockheed C-141 Starlifter collide in mid-air near Namibia, killing 33.
-- 1993: Israeli Prime Minister Yitzhak Rabin shakes hands with Palestine Liberation Organization chairman Yasser Arafat at the White House after signing the Oslo Accords granting limited Palestinian autonomy.
-- 1989: Largest anti-Apartheid march in South Africa, led by Desmond Tutu.
-- 1988: Hurricane Gilbert is the strongest recorded hurricane in the Western Hemisphere, later replaced by Hurricane Wilma in 2005 (based on barometric pressure).
-- 1987: Goiânia accident: A radioactive object is stolen from an abandoned hospital in Goiânia, Brazil, contaminating many people in the following weeks and causing some to die from radiation poisoning.
-- 1986: A magnitude 6.0 earthquake strikes Kalamata, Greece with a maximum Modified Mercalli intensity of X (Extreme), killing at least 20 and causing heavy damage in the city.
-- 1985: Super Mario Bros. is released in Japan for the NES, which starts the Super Mario series of platforming games.
-- 1982: Spantax Flight 995 crashes at Málaga Airport during a rejected takeoff, killing 50 of the 394 people on board.
-- 1979: South Africa grants independence to the "homeland" of Venda (not recognised outside South Africa).
-- 1971: Chairman Mao Zedong's second in command and successor Marshal Lin Biao flees China after the failure of an alleged coup. His plane crashes in Mongolia, killing all aboard.
-- 1971: State police and National Guardsmen storm New York's Attica Prison to quell a prison revolt, which claimed 43 lives.
-- 1968: Cold War: Albania leaves the Warsaw Pact.
-- 1964: Martin Luther King Jr. addresses a crowd of 20,000 West Berliners on Sunday, in Waldbühne.
-- 1964: South Vietnamese Generals Lâm Văn Phát and Dương Văn Đức fail in a coup attempt against General Nguyễn Khánh.
-- 1962: An appeals court orders the University of Mississippi to admit James Meredith, the first African-American student admitted to the segregated university.
-- 1956: The dike around the Dutch polder East Flevoland is closed.
-- 1956: The IBM 305 RAMAC is introduced, the first commercial computer to use disk storage.
-- 1953: Nikita Khrushchev is appointed General Secretary of the Communist Party of the Soviet Union.
-- 1948: Margaret Chase Smith is elected United States senator, and becomes the first woman to serve in both the U.S. House of Representatives and the United States Senate.
-- 1948: Deputy Prime Minister of India Vallabhbhai Patel orders the Army to move into Hyderabad to integrate it with the Indian Union.
-- 1944: World War II: Start of the Battle of Meligalas between the Greek Resistance forces of the Greek People's Liberation Army (ELAS) and the collaborationist security battalions.
-- 1942: World War II: Second day of the Battle of Edson's Ridge in the Guadalcanal Campaign. U.S. Marines successfully defeat attacks by the Japanese with heavy losses for the Japanese forces.
-- 1933: Elizabeth McCombs becomes the first woman elected to the New Zealand Parliament.
-- 1923: Following a military coup in Spain, Miguel Primo de Rivera takes over, setting up a dictatorship.
-- 1922: The final act of the Greco-Turkish War, the Great Fire of Smyrna, commences.
+- 2022: Death of Queen Elizabeth II: The Queen's coffin is taken from Buckingham Palace, placed on a gun carriage of The King's Troop Royal Horse Artillery and moved in a procession to Westminster Hall for her lying in state over the next four days with the queue of mourners stretching for miles along the River Thames.
+- 2019: Yemen's Houthi rebels claim responsibility for an attack on Saudi Arabian oil facilities.
+- 2015: The first observation of gravitational waves is made, announced by the LIGO and Virgo collaborations on 11 February 2016.
+- 2008: Aeroflot Flight 821, a Boeing 737-500, crashes into a section of the Trans-Siberian Railway while on approach to Perm International Airport, in Perm, Russia, killing all 88 people on board.
+- 2007: prelude to the 2008 financial crisis: Northern Rock bank experiences the first bank run in the United Kingdom in 150 years.
+- 2003: Bissau-Guinean President Kumba Ialá is ousted from power in a bloodless military coup led by General Veríssimo Correia Seabra.
+- 2003: In a referendum, Estonia approves joining the European Union.
+- 2002: Total Linhas Aéreas Flight 5561 crashes near Paranapanema, Brazil, killing both pilots on board.
+- 2001: Historic National Prayer Service held at Washington National Cathedral for victims of the September 11 attacks. A similar service is held in Canada on Parliament Hill, the largest vigil ever held in the nation's capital.
+- 2000: Microsoft releases Windows Me.
+- 1999: Kiribati, Nauru and Tonga join the United Nations.
+- 1998: Telecommunications companies MCI Communications and WorldCom complete their $37 billion merger to form MCI WorldCom.
+- 1997: Eighty-one killed as five bogies of the Ahmedabad-Howrah Express plunge into a river in Bilaspur district of Madhya Pradesh, India.
+- 1994: The rest of the Major League Baseball season is canceled because of a strike.
+- 1993: Lufthansa Flight 2904, an Airbus A320, crashes into an embankment after overshooting the runway at Okęcie International Airport (now Warsaw Chopin Airport), killing two people.
+- 1992: The Constitutional Court of Bosnia and Herzegovina declares the breakaway Croatian Republic of Herzeg-Bosnia to be illegal.
+- 1989: The Standard Gravure shooting where Joseph T. Wesbecker, a 47-year-old pressman, killed eight people and injured 12 people at his former workplace, Standard Gravure, before committing suicide.
+- 1985: Penang Bridge, the longest bridge in Malaysia, connecting the island of Penang to the mainland, opens to traffic.
+- 1984: Joe Kittinger becomes the first person to fly a gas balloon alone across the Atlantic Ocean.
+- 1982: President-elect of Lebanon Bachir Gemayel is assassinated.
+- 1979: Afghan leader Nur Muhammad Taraki is assassinated upon the order of Hafizullah Amin, who becomes the new General Secretary of the People's Democratic Party.
+- 1975: The first American saint, Elizabeth Ann Seton, is canonized by Pope Paul VI.
+- 1960: Congo Crisis: Mobutu Sese Seko seizes power in a military coup, suspending parliament and the constitution.
+- 1960: The Organization of Petroleum Exporting Countries (OPEC) is founded.
+- 1958: The first two German post-war rockets, designed by the German engineer Ernst Mohr, reach the upper atmosphere.
+- 1954: In a top secret nuclear test, a Soviet Tu-4 bomber drops a 40 kiloton atomic weapon just north of Totskoye village.
+- 1948: The Indian Army captures the city of Aurangabad as part of Operation Polo.
+- 1944: World War II: Maastricht becomes the first Dutch city to be liberated by allied forces.
+- 1943: World War II: The Wehrmacht starts a three-day retaliatory operation targeting several Greek villages in the region of Viannos, whose death toll would eventually exceed 500 persons.
+- 1940: Ip massacre: The Hungarian Army, supported by local Hungarians, kill 158 Romanian civilians in Ip, Sălaj, a village in Northern Transylvania, an act of ethnic cleansing.
 
 Data from muffinlabs
-*(Updated at: 2025-09-13 01:27:11 UTC)*
+*(Updated at: 2025-09-14 01:46:18 UTC)*
 
 # 历史上的今天 
 
-- -  2013年：塔利班叛乱分子在阿富汗赫拉特袭击美国领事馆，两名阿富汗国家警察报告死亡，约有20名平民受伤。
-- -  2008年：印度德里，遭到一系列炸弹爆炸的袭击，导致30人死亡和130人受伤。
-- -  2007年：迈凯轮F1团队被判犯有法拉利团队的机密信息，罚款1亿美元，并被排除在建筑商的冠军赛中。
-- -  2007年：联合国大会采用了土著人民权利宣言。
-- -  2001年：9月11日袭击后，民用飞机交通在美国恢复。
-- -  1997年：德国空军Tupolev TU-154和美国空军洛克希德C-141 Starlifter在纳米比亚附近的空中碰撞，杀死了33。
-- -  1993年：以色列总理叶扎克·拉宾（Yitzhak Rabin）与巴勒斯坦解放组织董事长Yasser Arafat在白宫签署了授予有限巴勒斯坦自治权的奥斯陆协议后，在白宫握手。
-- -  1989年：南非最大的反种族隔离游行，由戴斯蒙德·图图（Desmond Tutu）领导。
-- -  1988年：吉尔伯特飓风是西半球记录最强的飓风，后来在2005年被飓风威尔玛（Wilma）取代（基于气压压力）。
-- -  1987年：Goiânia事故：一个放射性物体被偷走了巴西Goiânia的一家废弃医院，在接下来的几周内污染了许多人，并导致一些人死于辐射中毒。
-- -  1986年：6.0级地震袭击了卡拉马塔，希腊，最大修饰的梅尔卡利强度为x（极端），杀死至少20次，并在城市造成了巨大的破坏。
-- -  1985年：超级马里奥兄弟（Super Mario Bros.）在日本发行了NES，该NES启动了Super Mario系列平台游戏。
-- -  1982年：Spantax 995航班在拒绝起飞时在Málaga机场撞车，造成394人中有50人丧生。
-- -  1979年：南非将独立授予范达的“国土”（在南非以外未公认）。
-- -  1971年：毛泽东董事长第二次指挥和继任者林·比奥元帅在涉嫌政变失败后逃离了中国。他的飞机在蒙古坠毁，杀死了所有的飞机。
-- -  1971年：州警察和国民警卫队袭击了纽约的阿提卡监狱，以平息监狱起义，夺取了43人的生命。
-- -  1968年：冷战：阿尔巴尼亚离开华沙条约。
-- -  1964年：小马丁·路德·金（Martin Luther King Jr.
-- -  1964年：南越将军lâmVănphát和dươngVngvănc失败了，反对NguyễnKhánh将军的政变。
-- -  1962年：上诉法院命令密西西比大学承认詹姆斯·梅雷迪思（James Meredith），这是第一位接受隔离大学的非裔美国人学生。
-- -  1956年：荷兰polder猫东弗洛沃兰（East Flevoland）周围的堤防被关闭。
-- -  1956年：引入了IBM 305 RAMAC，这是第一台使用磁盘存储的商用计算机。
-- -  1953年：尼基塔·赫鲁晓夫（Nikita Khrushchev）被任命为苏联共产党秘书长。
-- -  1948年：玛格丽特·蔡斯·史密斯（Margaret Chase Smith）当选为美国参议员，并成为美国众议院和美国参议院首位任职的妇女。
-- -  1948年：印度副总理Vallabhbhai Patel命令军队搬进海得拉巴，将其与印度联盟融合在一起。
-- -  1944年：第二次世界大战：梅利加拉斯战役的开始，希腊人民解放军（ELAS）和合作主义者的安全营之间的希腊抵抗力量之间。
-- -  1942年：第二次世界大战：瓜达尔卡纳尔战役中埃德森山脊战役的第二天。美国海军陆战队成功击败日本部队的日本人击败日本人。
-- -  1933年：伊丽莎白·麦考姆斯（Elizabeth McCombs）成为新西兰议会的第一位女性。
-- -  1923年：在西班牙发生军事政变之后，米格尔·普里奥·德维拉（Miguel Primo de Rivera）接管了独裁统治。
-- -  1922年：希腊 - 土耳其战争的最后一幕，士麦那的大火开始。
+- -  2022年：伊丽莎白二世女王的死亡：女王的棺材是从白金汉宫拿走的，放在国王部队的皇家马炮兵的枪托架上，并在游行队伍前往威斯敏斯特大厅，在接下来的四天里，她躺在州，在哀悼者的排队中，沿着河流的thames河流延伸了英里。
+- -  2019年：也门的胡塞叛军声称对沙特阿拉伯石油设施袭击的责任。
+- -  2015年：Ligo和处女座合作于2016年2月11日宣布，对引力波进行了首次观察。
+- -  2008年：波音737-500的Aeroflot航班821航班在前往俄罗斯的珀普斯国际机场的临近时撞到了跨西伯利亚铁路的一部分，杀死了船上的所有88人。
+- -  2007年：2008年金融危机的前奏：北部岩石银行经历了150年来在英国的第一家银行经营。
+- -  2003年：Bissau-Guinean总统KumbaIalá被韦斯西莫·科里亚·西布拉（VeríssimoCorreiaSeabra）将军带来的无流血军事政变被驱逐出权力。
+- -  2003年：在全民公决中，爱沙尼亚批准加入欧盟。
+- -  2002年：巴西Paranapanema附近的LinhasAéreas5561撞车撞车，杀死了船上的两名飞行员。
+- -  2001年：9月11日袭击的受害者在华盛顿国家大教堂举行的历史悠久的国家祈祷局。在加拿大在国会山（Parliament Hill）举行了类似的服务，这是该国首都有史以来最大的守夜活动。
+- -2000：Microsoft发布Windows ME。
+- -  1999年：基里巴蒂，瑙鲁和汤加加入联合国。
+- -  1998年：电信公司MCI Communications和WorldCom完成了370亿美元的合并，以组成MCI WorldCom。
+- -  1997年：八十一个被杀死，因为艾哈迈达巴德·霍拉（Ahmedab​​ad-Howrah Express）的五个转向架撞到了印度中央邦比拉斯普尔（Bilaspur）地区的一条河中。
+- -  1994年：由于罢工，美国职棒大联盟的其余部分被取消。
+- -  1993年：空中客车A320航班2904号航班在Okęcie国际机场（现为华沙肖邦机场）的跑道上方撞车后，撞向了路堤，炸死了两个人。
+- -  1992年：波斯尼亚和黑塞哥维那宪法法院宣布脱离克罗地亚黑泽 -   - 波斯尼亚的脱节是非法的。
+- -  1989年：47岁的新闻工作者约瑟夫·韦斯贝克（Joseph T. Wesbecker）在他以前的工作场所标准格拉特（Standard Gravure）杀死了8人，在杀害自杀之前，约瑟夫·韦斯贝克（Joseph T.
+- -  1985年：马来西亚最长的桥梁槟城桥，将槟城岛与大陆连接起来，通向交通。
+- -  1984年：乔·基廷格（Joe Kitterer）成为第一个独自飞过大西洋的气球的人。
+- -  1982年：黎巴嫩巴希尔·盖耶尔（Bachir Gemayel）当选总统被暗杀。
+- -  1979年：阿富汗领导人努尔·穆罕默德·塔拉基（Nur Muhammad Taraki）因哈菲苏拉·阿明（Hafizullah Amin）的命令而被暗杀，后者成为人民民主党的新秘书长。
+- -  1975年：第一位美国圣人伊丽莎白·安·塞顿（Elizabeth Ann Seton）被教皇保罗六世（Paul Vi）封为。
+- -  1960年：刚果危机：蒙博托·塞斯·塞科（Mobutu Sese Seko）在军事政变中夺取了权力，暂停了议会和宪法。
+- -  1960年：石油出口国（OPEC）的组织成立。
+- -  1958年：由德国工程师恩斯特·莫尔（Ernst Mohr）设计的前两枚德国战后火箭弹到达高层氛围。
+- -  1954年：在最高机密的核试验中，苏联TU-4轰炸机在Totskoye Village以北掉落了40千座原子武器。
+- -  1948年：作为马球行动的一部分，印度军队占领了奥兰加巴德市。
+- -  1944年：第二次世界大战：马斯特里赫特成为第一个被盟军解放的荷兰城市。
+- -  1943年：第二次世界大战：WEHRMACHT开始了为期三天的报复行动，针对Viannos地区的几个希腊村庄，其死亡人数最终将超过500人。
+- -  1940年：IP大屠杀：匈牙利军队在当地匈牙利人的支持下，在IP中杀死158名罗马尼亚平民，Sălaj，北特兰西瓦尼亚的一个村庄，这是一种种族清洗行为。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-09-13 01:27:11 UTC）*
+*（更新于: 2025-09-14 01:46:18 UTC）*
