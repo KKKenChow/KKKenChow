@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Death of Queen Elizabeth II: The Queen's coffin is taken from Buckingham Palace, placed on a gun carriage of The King's Troop Royal Horse Artillery and moved in a procession to Westminster Hall for her lying in state over the next four days with the queue of mourners stretching for miles along the River Thames.
-- 2019: Yemen's Houthi rebels claim responsibility for an attack on Saudi Arabian oil facilities.
-- 2015: The first observation of gravitational waves is made, announced by the LIGO and Virgo collaborations on 11 February 2016.
-- 2008: Aeroflot Flight 821, a Boeing 737-500, crashes into a section of the Trans-Siberian Railway while on approach to Perm International Airport, in Perm, Russia, killing all 88 people on board.
-- 2007: prelude to the 2008 financial crisis: Northern Rock bank experiences the first bank run in the United Kingdom in 150 years.
-- 2003: Bissau-Guinean President Kumba Ialá is ousted from power in a bloodless military coup led by General Veríssimo Correia Seabra.
-- 2003: In a referendum, Estonia approves joining the European Union.
-- 2002: Total Linhas Aéreas Flight 5561 crashes near Paranapanema, Brazil, killing both pilots on board.
-- 2001: Historic National Prayer Service held at Washington National Cathedral for victims of the September 11 attacks. A similar service is held in Canada on Parliament Hill, the largest vigil ever held in the nation's capital.
-- 2000: Microsoft releases Windows Me.
-- 1999: Kiribati, Nauru and Tonga join the United Nations.
-- 1998: Telecommunications companies MCI Communications and WorldCom complete their $37 billion merger to form MCI WorldCom.
-- 1997: Eighty-one killed as five bogies of the Ahmedabad-Howrah Express plunge into a river in Bilaspur district of Madhya Pradesh, India.
-- 1994: The rest of the Major League Baseball season is canceled because of a strike.
-- 1993: Lufthansa Flight 2904, an Airbus A320, crashes into an embankment after overshooting the runway at Okęcie International Airport (now Warsaw Chopin Airport), killing two people.
-- 1992: The Constitutional Court of Bosnia and Herzegovina declares the breakaway Croatian Republic of Herzeg-Bosnia to be illegal.
-- 1989: The Standard Gravure shooting where Joseph T. Wesbecker, a 47-year-old pressman, killed eight people and injured 12 people at his former workplace, Standard Gravure, before committing suicide.
-- 1985: Penang Bridge, the longest bridge in Malaysia, connecting the island of Penang to the mainland, opens to traffic.
-- 1984: Joe Kittinger becomes the first person to fly a gas balloon alone across the Atlantic Ocean.
-- 1982: President-elect of Lebanon Bachir Gemayel is assassinated.
-- 1979: Afghan leader Nur Muhammad Taraki is assassinated upon the order of Hafizullah Amin, who becomes the new General Secretary of the People's Democratic Party.
-- 1975: The first American saint, Elizabeth Ann Seton, is canonized by Pope Paul VI.
-- 1960: Congo Crisis: Mobutu Sese Seko seizes power in a military coup, suspending parliament and the constitution.
-- 1960: The Organization of Petroleum Exporting Countries (OPEC) is founded.
-- 1958: The first two German post-war rockets, designed by the German engineer Ernst Mohr, reach the upper atmosphere.
-- 1954: In a top secret nuclear test, a Soviet Tu-4 bomber drops a 40 kiloton atomic weapon just north of Totskoye village.
-- 1948: The Indian Army captures the city of Aurangabad as part of Operation Polo.
-- 1944: World War II: Maastricht becomes the first Dutch city to be liberated by allied forces.
-- 1943: World War II: The Wehrmacht starts a three-day retaliatory operation targeting several Greek villages in the region of Viannos, whose death toll would eventually exceed 500 persons.
-- 1940: Ip massacre: The Hungarian Army, supported by local Hungarians, kill 158 Romanian civilians in Ip, Sălaj, a village in Northern Transylvania, an act of ethnic cleansing.
+- 2020: Signing of the Bahrain-Israel normalization agreement occurs in Washington, D.C., normalizing relations between Israel and two Arab nations, the United Arab Emirates and Bahrain.
+- 2017: The Parsons Green bombing takes place in London.
+- 2011: Four miners are killed in the Gleision Colliery mining accident in the Swansea Valley, Wales, UK.
+- 2008: Lehman Brothers files for Chapter 11 bankruptcy, the largest bankruptcy filing in U.S. history.
+- 2004: National Hockey League commissioner Gary Bettman announces lockout of the players' union and cessation of operations by the NHL head office.
+- 2001: During a CART race at the Lausitzring in Germany, former Formula One driver Alex Zanardi suffers a heavy accident resulting in him losing both his legs.
+- 1995: Malaysia Airlines Flight 2133 crashes at Tawau Airport in Malaysia, killing 34.
+- 1983: Israeli premier Menachem Begin resigns.
+- 1981: The John Bull becomes the oldest operable steam locomotive in the world when the Smithsonian Institution operates it under its own power outside Washington, D.C.
+- 1981: The Senate Judiciary Committee unanimously approves Sandra Day O'Connor to become the first female justice of the Supreme Court of the United States.
+- 1978: At the Superdome in New Orleans, Muhammad Ali outpoints Leon Spinks in a rematch to become the first boxer to win the world heavyweight title three times.
+- 1975: The French department of "Corse" (the entire island of Corsica) is divided into two: Haute-Corse (Upper Corsica) and Corse-du-Sud (Southern Corsica).
+- 1974: Air Vietnam Flight 706 is hijacked, then crashes while attempting to land with 75 on board.
+- 1972: A Scandinavian Airlines System domestic flight from Gothenburg to Stockholm is hijacked and flown to Malmö Bulltofta Airport.
+- 1971: The first Greenpeace ship departs from Vancouver to protest against the upcoming Cannikin nuclear weapon test in Alaska.
+- 1968: The Soviet Zond 5 spaceship is launched, becoming the first spacecraft to fly around the Moon and re-enter the Earth's atmosphere.
+- 1966: U.S. President Lyndon B. Johnson, responding to a sniper attack at the University of Texas at Austin, writes a letter to Congress urging the enactment of gun control legislation.
+- 1963: Baptist Church bombing: Four children are killed in the bombing of an African-American church in Birmingham, Alabama, United States.
+- 1962: The Soviet ship Poltava heads toward Cuba, one of the events that sets into motion the Cuban Missile Crisis.
+- 1959: Nikita Khrushchev becomes the first Soviet leader to visit the United States.
+- 1958: A Central Railroad of New Jersey commuter train runs through an open drawbridge at the Newark Bay, killing 48.
+- 1954: Marilyn Monroe's iconic skirt scene is shot during filming for The Seven Year Itch.
+- 1952: The United Nations cedes Eritrea to Ethiopia.
+- 1950: Korean War: The U.S. X Corps lands at Inchon.
+- 1948: The F-86 Sabre sets the world aircraft speed record at 671 miles per hour (1,080 km/h).
+- 1948: The Indian Army captures the towns of Jalna, Latur, Mominabad, Surriapet and Narkatpalli as part of Operation Polo.
+- 1947: Typhoon Kathleen hits the Kantō region, in Japan killing around 1,000-2,000 people.
+- 1945: A hurricane strikes southern Florida and the Bahamas, destroying 366 airplanes and 25 blimps at Naval Air Station Richmond.
+- 1944: The Battle of Peleliu begins as the United States Marine Corps' 1st Marine Division and the United States Army's 81st Infantry Division hit White and Orange beaches under heavy fire from Japanese infantry and artillery.
+- 1944: Franklin D. Roosevelt and Winston Churchill meet in Quebec as part of the Octagon Conference to discuss strategy.
 
 Data from muffinlabs
-*(Updated at: 2025-09-14 01:46:18 UTC)*
+*(Updated at: 2025-09-15 01:48:00 UTC)*
 
 # 历史上的今天 
 
-- -  2022年：伊丽莎白二世女王的死亡：女王的棺材是从白金汉宫拿走的，放在国王部队的皇家马炮兵的枪托架上，并在游行队伍前往威斯敏斯特大厅，在接下来的四天里，她躺在州，在哀悼者的排队中，沿着河流的thames河流延伸了英里。
-- -  2019年：也门的胡塞叛军声称对沙特阿拉伯石油设施袭击的责任。
-- -  2015年：Ligo和处女座合作于2016年2月11日宣布，对引力波进行了首次观察。
-- -  2008年：波音737-500的Aeroflot航班821航班在前往俄罗斯的珀普斯国际机场的临近时撞到了跨西伯利亚铁路的一部分，杀死了船上的所有88人。
-- -  2007年：2008年金融危机的前奏：北部岩石银行经历了150年来在英国的第一家银行经营。
-- -  2003年：Bissau-Guinean总统KumbaIalá被韦斯西莫·科里亚·西布拉（VeríssimoCorreiaSeabra）将军带来的无流血军事政变被驱逐出权力。
-- -  2003年：在全民公决中，爱沙尼亚批准加入欧盟。
-- -  2002年：巴西Paranapanema附近的LinhasAéreas5561撞车撞车，杀死了船上的两名飞行员。
-- -  2001年：9月11日袭击的受害者在华盛顿国家大教堂举行的历史悠久的国家祈祷局。在加拿大在国会山（Parliament Hill）举行了类似的服务，这是该国首都有史以来最大的守夜活动。
-- -2000：Microsoft发布Windows ME。
-- -  1999年：基里巴蒂，瑙鲁和汤加加入联合国。
-- -  1998年：电信公司MCI Communications和WorldCom完成了370亿美元的合并，以组成MCI WorldCom。
-- -  1997年：八十一个被杀死，因为艾哈迈达巴德·霍拉（Ahmedab​​ad-Howrah Express）的五个转向架撞到了印度中央邦比拉斯普尔（Bilaspur）地区的一条河中。
-- -  1994年：由于罢工，美国职棒大联盟的其余部分被取消。
-- -  1993年：空中客车A320航班2904号航班在Okęcie国际机场（现为华沙肖邦机场）的跑道上方撞车后，撞向了路堤，炸死了两个人。
-- -  1992年：波斯尼亚和黑塞哥维那宪法法院宣布脱离克罗地亚黑泽 -   - 波斯尼亚的脱节是非法的。
-- -  1989年：47岁的新闻工作者约瑟夫·韦斯贝克（Joseph T. Wesbecker）在他以前的工作场所标准格拉特（Standard Gravure）杀死了8人，在杀害自杀之前，约瑟夫·韦斯贝克（Joseph T.
-- -  1985年：马来西亚最长的桥梁槟城桥，将槟城岛与大陆连接起来，通向交通。
-- -  1984年：乔·基廷格（Joe Kitterer）成为第一个独自飞过大西洋的气球的人。
-- -  1982年：黎巴嫩巴希尔·盖耶尔（Bachir Gemayel）当选总统被暗杀。
-- -  1979年：阿富汗领导人努尔·穆罕默德·塔拉基（Nur Muhammad Taraki）因哈菲苏拉·阿明（Hafizullah Amin）的命令而被暗杀，后者成为人民民主党的新秘书长。
-- -  1975年：第一位美国圣人伊丽莎白·安·塞顿（Elizabeth Ann Seton）被教皇保罗六世（Paul Vi）封为。
-- -  1960年：刚果危机：蒙博托·塞斯·塞科（Mobutu Sese Seko）在军事政变中夺取了权力，暂停了议会和宪法。
-- -  1960年：石油出口国（OPEC）的组织成立。
-- -  1958年：由德国工程师恩斯特·莫尔（Ernst Mohr）设计的前两枚德国战后火箭弹到达高层氛围。
-- -  1954年：在最高机密的核试验中，苏联TU-4轰炸机在Totskoye Village以北掉落了40千座原子武器。
-- -  1948年：作为马球行动的一部分，印度军队占领了奥兰加巴德市。
-- -  1944年：第二次世界大战：马斯特里赫特成为第一个被盟军解放的荷兰城市。
-- -  1943年：第二次世界大战：WEHRMACHT开始了为期三天的报复行动，针对Viannos地区的几个希腊村庄，其死亡人数最终将超过500人。
-- -  1940年：IP大屠杀：匈牙利军队在当地匈牙利人的支持下，在IP中杀死158名罗马尼亚平民，Sălaj，北特兰西瓦尼亚的一个村庄，这是一种种族清洗行为。
+- -  2020年：签署《巴林与以色列的标准化协议》在华盛顿特区发生，以色列与两个阿拉伯国家，阿拉伯联合酋长国和巴林之间的正常关系。
+- -  2017年：帕森斯绿色轰炸发生在伦敦。
+- -  2011年：在英国威尔士斯旺西谷的Gleision煤矿矿业事故中，四名矿工被杀。
+- -  2008年：雷曼兄弟（Lehman Brothers）申请第11章破产，这是美国历史上最大的破产申请。
+- -  2004年：国家曲棍球联盟专员加里·贝特曼（Gary Bettman）宣布锁定球员联盟和NHL总部停止运营。
+- -  2001年：在德国洛西茨林（Lausitzring）的一次购物车比赛中，前一级方程式赛车司机亚历克斯·扎纳尔迪（Alex Zanardi）发生了一次严重的事故，导致他失去了双腿。
+- -  1995年：马来西亚航空公司2133航班在马来西亚塔沃机场撞车，造成34人丧生。
+- -  1983年：以色列总理梅纳切姆开始辞职。
+- -  1981年：约翰·布尔（John Bull）成为世界上最古老的可操作蒸汽机车，当时史密森学会（Smithsonian Institution）在华盛顿特区以外的权力下运营自己的力量。
+- -  1981年：参议院司法委员会一致批准桑德拉·戴·奥康纳（Sandra Day O'Connor）成为美国最高法院的第一位女性大法官。
+- -  1978年：在新奥尔良的Superdome，穆罕默德·阿里（Muhammad Ali）在一次重赛中成为第一个赢得世界重量级冠军的拳击手的重赛人。
+- -  1975年：法国“ Corse”部（整个科西嘉岛）分为两个：高级科尔斯（上科西嘉岛）和Corse-Du-Sud（南科西嘉岛）。
+- -  1974年：越南航空706航班被劫持，然后在试图以75板上降落的同时坠毁。
+- -  1972年：从哥德堡到斯德哥尔摩的斯堪的纳维亚航空系统的国内飞行被劫持并飞往马尔默·布尔托夫塔机场。
+- -  1971年：第一艘绿色和平组织从温哥华出发，抗议即将在阿拉斯加举行的Cannikin核武器测试。
+- -  1968年：苏联Zond 5太空飞船被推出，成为第一个在月球上飞行并重新进入地球大气层的航天器。
+- -  1966年：美国总统林登·约翰逊（Lyndon B. Johnson）回应了德克萨斯大学奥斯汀分校的狙击手袭击，并向国会写了一封信，敦促制定枪支管制立法。
+- -  1963年：浸信会教堂轰炸：四个孩子在美国阿拉巴马州伯明翰的一座非裔美国人教堂炸死。
+- -  1962年：苏联船Poltava前往古巴，这是一场活动，使古巴导弹危机引发。
+- -  1959年：尼基塔·赫鲁晓夫（Nikita Khrushchev）成为第一位访问美国的苏联领导人。
+- -  1958年：新泽西通勤火车的中央铁路穿过纽瓦克湾的一个开放式吊桥，造成48人丧生。
+- -  1954年：玛丽莲·梦露（Marilyn Monroe）的标志性裙子场景是在拍摄七年痒的过程中拍摄的。
+- -  1952年：联合国塞德斯·厄立特里亚（Cedes Eritrea）到埃塞俄比亚。
+- -  1950年：朝鲜战争：美国X军团降落在Inchon。
+- -  1948年：F-86军刀将世界飞机速度记录定为每小时671英里（1,080 km/h）。
+- -  1948年：印度军队作为Polo行动的一部分，占领了Jalna，Latur，Mominabad，Surriape​​t和Narkatpalli的城镇。
+- -  1947年：台风凯瑟琳（Kathleen）袭击了日本的坎特地区，炸死约1,000-2,000人。
+- -  1945年：一场飓风袭击了佛罗里达州南部和巴哈马，在里士满海军航空站摧毁了366架飞机和25架飞机。
+- -  1944年：佩莱利战役开始时，美国海军陆战队的第一海军陆战队和美国陆军的第81步兵师在日本步兵和炮兵的重火下击中了白色和橙色海滩。
+- -  1944年：富兰克林·罗斯福（Franklin D.
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-09-14 01:46:18 UTC）*
+*（更新于: 2025-09-15 01:48:00 UTC）*
