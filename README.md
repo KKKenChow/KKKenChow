@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2020: Signing of the Bahrain-Israel normalization agreement occurs in Washington, D.C., normalizing relations between Israel and two Arab nations, the United Arab Emirates and Bahrain.
-- 2017: The Parsons Green bombing takes place in London.
-- 2011: Four miners are killed in the Gleision Colliery mining accident in the Swansea Valley, Wales, UK.
-- 2008: Lehman Brothers files for Chapter 11 bankruptcy, the largest bankruptcy filing in U.S. history.
-- 2004: National Hockey League commissioner Gary Bettman announces lockout of the players' union and cessation of operations by the NHL head office.
-- 2001: During a CART race at the Lausitzring in Germany, former Formula One driver Alex Zanardi suffers a heavy accident resulting in him losing both his legs.
-- 1995: Malaysia Airlines Flight 2133 crashes at Tawau Airport in Malaysia, killing 34.
-- 1983: Israeli premier Menachem Begin resigns.
-- 1981: The John Bull becomes the oldest operable steam locomotive in the world when the Smithsonian Institution operates it under its own power outside Washington, D.C.
-- 1981: The Senate Judiciary Committee unanimously approves Sandra Day O'Connor to become the first female justice of the Supreme Court of the United States.
-- 1978: At the Superdome in New Orleans, Muhammad Ali outpoints Leon Spinks in a rematch to become the first boxer to win the world heavyweight title three times.
-- 1975: The French department of "Corse" (the entire island of Corsica) is divided into two: Haute-Corse (Upper Corsica) and Corse-du-Sud (Southern Corsica).
-- 1974: Air Vietnam Flight 706 is hijacked, then crashes while attempting to land with 75 on board.
-- 1972: A Scandinavian Airlines System domestic flight from Gothenburg to Stockholm is hijacked and flown to Malmö Bulltofta Airport.
-- 1971: The first Greenpeace ship departs from Vancouver to protest against the upcoming Cannikin nuclear weapon test in Alaska.
-- 1968: The Soviet Zond 5 spaceship is launched, becoming the first spacecraft to fly around the Moon and re-enter the Earth's atmosphere.
-- 1966: U.S. President Lyndon B. Johnson, responding to a sniper attack at the University of Texas at Austin, writes a letter to Congress urging the enactment of gun control legislation.
-- 1963: Baptist Church bombing: Four children are killed in the bombing of an African-American church in Birmingham, Alabama, United States.
-- 1962: The Soviet ship Poltava heads toward Cuba, one of the events that sets into motion the Cuban Missile Crisis.
-- 1959: Nikita Khrushchev becomes the first Soviet leader to visit the United States.
-- 1958: A Central Railroad of New Jersey commuter train runs through an open drawbridge at the Newark Bay, killing 48.
-- 1954: Marilyn Monroe's iconic skirt scene is shot during filming for The Seven Year Itch.
-- 1952: The United Nations cedes Eritrea to Ethiopia.
-- 1950: Korean War: The U.S. X Corps lands at Inchon.
-- 1948: The F-86 Sabre sets the world aircraft speed record at 671 miles per hour (1,080 km/h).
-- 1948: The Indian Army captures the towns of Jalna, Latur, Mominabad, Surriapet and Narkatpalli as part of Operation Polo.
-- 1947: Typhoon Kathleen hits the Kantō region, in Japan killing around 1,000-2,000 people.
-- 1945: A hurricane strikes southern Florida and the Bahamas, destroying 366 airplanes and 25 blimps at Naval Air Station Richmond.
-- 1944: The Battle of Peleliu begins as the United States Marine Corps' 1st Marine Division and the United States Army's 81st Infantry Division hit White and Orange beaches under heavy fire from Japanese infantry and artillery.
-- 1944: Franklin D. Roosevelt and Winston Churchill meet in Quebec as part of the Octagon Conference to discuss strategy.
+- 2022: The death of Mahsa Amini occurred, which sparked worldwide protests.
+- 2022: During the Let Yet Kone massacre, the Burmese military kills 13 villagers, including eight children, after attacking a school in Sagaing Region, Myanmar.
+- 2021: A 6.0 Mw  earthquake strikes Lu County, Sichuan, China, killing three and injuring more than 88.
+- 2019: Five months before the COVID-19 stock market crash, an overnight spike in lending rates in the United States prompts the Federal Reserve to conduct operations in the repo market.
+- 2015: A 8.3 Mw  earthquake strikes the Chilean city of Illapel, killing 15 people, injuring at least 34, leaving at least six missing, and causing extensive damage. One person also dies in Argentina.
+- 2014: The Islamic State of Iraq and the Levant launches its Kobani offensive against Syrian-Kurdish forces.
+- 2013: A gunman kills twelve people at the Washington Navy Yard in Washington, D.C.
+- 2007: Security guards working for Blackwater Worldwide shoot and kill 17 Iraqis in Nisour Square, Baghdad.
+- 2007: One-Two-Go Airlines Flight 269 carrying 130 crew and passengers crashes in Thailand, killing 90 people.
+- 2005: The Camorra organized crime boss Paolo Di Lauro is arrested in Naples, Italy.
+- 2004: Hurricane Ivan makes landfall in Gulf Shores, Alabama as a Category 3 hurricane.
+- 1996: Space Shuttle Atlantis is launched on STS-79 to dock to the Russian space station Mir.
+- 1994: The British government lifts the broadcasting ban imposed against members of Sinn Féin and Irish paramilitary groups in 1988.
+- 1992: Black Wednesday: The British pound is forced out of the European Exchange Rate Mechanism by currency speculators and is forced to devalue against the German mark.
+- 1992: The trial of the deposed Panamanian dictator Manuel Noriega ends in the United States with a 40-year sentence for drug trafficking and money laundering.
+- 1990: The railroad between the People's Republic of China and Kazakhstan is completed at Dostyk, adding a sizable link to the concept of the Eurasian Land Bridge.
+- 1987: The Montreal Protocol is signed to protect the ozone layer from depletion.
+- 1982: Lebanon War: The Sabra and Shatila massacre in Lebanon takes place.
+- 1979: Eight people escape from East Germany to the west in a homemade hot air balloon.
+- 1978: The 7.4 Mw  Tabas earthquake affects the city of Tabas, Iran with a maximum Mercalli intensity of IX (Violent). At least 15,000 people are killed.
+- 1976: Armenian champion swimmer Shavarsh Karapetyan saves 20 people from a trolleybus that had fallen into a Yerevan reservoir.
+- 1975: The first prototype of the Mikoyan MiG-31 interceptor makes its maiden flight.
+- 1975: Cape Verde, Mozambique, and São Tomé and Príncipe join the United Nations.
+- 1975: Papua New Guinea gains independence from Australia.
+- 1970: King Hussein of Jordan declares war against the Palestine Liberation Organization, the conflict came to be known as Black September.
+- 1966: The Metropolitan Opera House opens at Lincoln Center in New York City with the world premiere of Samuel Barber's opera Antony and Cleopatra.
+- 1963: Malaysia is formed from the Federation of Malaya, Singapore, North Borneo (Sabah) and Sarawak. However, Singapore is soon expelled from this new country.
+- 1961: Pakistan establishes its Space and Upper Atmosphere Research Commission with Abdus Salam as its head.
+- 1961: Typhoon Nancy, with possibly the strongest winds ever measured in a tropical cyclone, makes landfall in Osaka, Japan, killing 173 people.
+- 1961: The United States National Hurricane Research Project drops eight cylinders of silver iodide into the eyewall of Hurricane Esther. Wind speed reduces by 10%, giving rise to Project Stormfury.
 
 Data from muffinlabs
-*(Updated at: 2025-09-15 01:48:00 UTC)*
+*(Updated at: 2025-09-16 01:39:46 UTC)*
 
 # 历史上的今天 
 
-- -  2020年：签署《巴林与以色列的标准化协议》在华盛顿特区发生，以色列与两个阿拉伯国家，阿拉伯联合酋长国和巴林之间的正常关系。
-- -  2017年：帕森斯绿色轰炸发生在伦敦。
-- -  2011年：在英国威尔士斯旺西谷的Gleision煤矿矿业事故中，四名矿工被杀。
-- -  2008年：雷曼兄弟（Lehman Brothers）申请第11章破产，这是美国历史上最大的破产申请。
-- -  2004年：国家曲棍球联盟专员加里·贝特曼（Gary Bettman）宣布锁定球员联盟和NHL总部停止运营。
-- -  2001年：在德国洛西茨林（Lausitzring）的一次购物车比赛中，前一级方程式赛车司机亚历克斯·扎纳尔迪（Alex Zanardi）发生了一次严重的事故，导致他失去了双腿。
-- -  1995年：马来西亚航空公司2133航班在马来西亚塔沃机场撞车，造成34人丧生。
-- -  1983年：以色列总理梅纳切姆开始辞职。
-- -  1981年：约翰·布尔（John Bull）成为世界上最古老的可操作蒸汽机车，当时史密森学会（Smithsonian Institution）在华盛顿特区以外的权力下运营自己的力量。
-- -  1981年：参议院司法委员会一致批准桑德拉·戴·奥康纳（Sandra Day O'Connor）成为美国最高法院的第一位女性大法官。
-- -  1978年：在新奥尔良的Superdome，穆罕默德·阿里（Muhammad Ali）在一次重赛中成为第一个赢得世界重量级冠军的拳击手的重赛人。
-- -  1975年：法国“ Corse”部（整个科西嘉岛）分为两个：高级科尔斯（上科西嘉岛）和Corse-Du-Sud（南科西嘉岛）。
-- -  1974年：越南航空706航班被劫持，然后在试图以75板上降落的同时坠毁。
-- -  1972年：从哥德堡到斯德哥尔摩的斯堪的纳维亚航空系统的国内飞行被劫持并飞往马尔默·布尔托夫塔机场。
-- -  1971年：第一艘绿色和平组织从温哥华出发，抗议即将在阿拉斯加举行的Cannikin核武器测试。
-- -  1968年：苏联Zond 5太空飞船被推出，成为第一个在月球上飞行并重新进入地球大气层的航天器。
-- -  1966年：美国总统林登·约翰逊（Lyndon B. Johnson）回应了德克萨斯大学奥斯汀分校的狙击手袭击，并向国会写了一封信，敦促制定枪支管制立法。
-- -  1963年：浸信会教堂轰炸：四个孩子在美国阿拉巴马州伯明翰的一座非裔美国人教堂炸死。
-- -  1962年：苏联船Poltava前往古巴，这是一场活动，使古巴导弹危机引发。
-- -  1959年：尼基塔·赫鲁晓夫（Nikita Khrushchev）成为第一位访问美国的苏联领导人。
-- -  1958年：新泽西通勤火车的中央铁路穿过纽瓦克湾的一个开放式吊桥，造成48人丧生。
-- -  1954年：玛丽莲·梦露（Marilyn Monroe）的标志性裙子场景是在拍摄七年痒的过程中拍摄的。
-- -  1952年：联合国塞德斯·厄立特里亚（Cedes Eritrea）到埃塞俄比亚。
-- -  1950年：朝鲜战争：美国X军团降落在Inchon。
-- -  1948年：F-86军刀将世界飞机速度记录定为每小时671英里（1,080 km/h）。
-- -  1948年：印度军队作为Polo行动的一部分，占领了Jalna，Latur，Mominabad，Surriape​​t和Narkatpalli的城镇。
-- -  1947年：台风凯瑟琳（Kathleen）袭击了日本的坎特地区，炸死约1,000-2,000人。
-- -  1945年：一场飓风袭击了佛罗里达州南部和巴哈马，在里士满海军航空站摧毁了366架飞机和25架飞机。
-- -  1944年：佩莱利战役开始时，美国海军陆战队的第一海军陆战队和美国陆军的第81步兵师在日本步兵和炮兵的重火下击中了白色和橙色海滩。
-- -  1944年：富兰克林·罗斯福（Franklin D.
+- -2022：Mahsa Amini的死亡发生，引发了全球抗议活动。
+- -  2022年：在迄今为止的Kone大屠杀期间，缅甸军事杀害了13名村民，其中包括8个孩子，在缅甸萨甘地区的一所学校袭击了一所学校。
+- -2021：中国四川卢县的6.0 MW地震袭击，杀死了三人，炸伤88人。
+- -2019：在COVID-19股市崩溃之前的五个月，美国贷款率的一夜之间促使美联储在回购市场进行运营。
+- -  2015年：8.3 MW地震袭击了智利城市Illapel，炸死15人，至少34人受伤，至少造成6人失踪，并造成严重损失。一个人也在阿根廷去世。
+- -  2014年：伊拉克伊斯兰国和黎凡特国家对叙利亚 - 库尔德部队发动了攻势。
+- -  2013年：一名枪手在华盛顿特区的华盛顿海军院子杀死了十二人。
+- -  2007年：在巴格达尼苏广场（Nisour Square）的黑水全球拍摄，杀死17个伊拉克人的保安人员。
+- -  2007年：一二号航空公司269航班在泰国载有130名机组人员和乘客撞车，造成90人丧生。
+- -  2005年：卡莫拉有组织的犯罪老板保罗·杜罗（Paolo di Lauro）在意大利那不勒斯被捕。
+- -  2004年：伊万飓风在阿拉巴马州海湾海岸登陆为第三类飓风。
+- -  1996年：航天飞机亚特兰蒂斯（Atlantis）在STS-79上发射，将其停靠到俄罗斯空间站Mir。
+- -  1994年：1988年，英国政府取消了针对辛恩·费因和爱尔兰准军事团体成员的广播禁令。
+- -  1992年：黑色星期三：英镑被货币投机者赶出了欧洲汇率机制，被迫贬值德国商标。
+- -  1992年：被罢免的巴拿马独裁者曼努埃尔·诺里亚加（Manuel Noriega）的审判在美国结束，因贩毒和洗钱而判处40年徒刑。
+- -  1990年：中华人民共和国与哈萨克斯坦之间的铁路在多斯蒂克完成，并增加了与欧亚陆桥概念的相当大联系。
+- -  1987年：签署了蒙特利尔方案以保护臭氧层免受耗竭。
+- -  1982年：黎巴嫩战争：黎巴嫩的萨布拉和沙蒂拉大屠杀。
+- -  1979年：八个人在一个自制的热气球中从东德逃到西部。
+- -  1978年：7.4 MW TABAS地震影响了伊朗塔巴斯市，其最大默卡利强度为IX（暴力）。至少有15,000人被杀。
+- -  1976年：亚美尼亚冠军游泳运动员Shavarsh Karapetyan从落入埃里万水库的手推车中拯救了20人。
+- -  1975年：Mikoyan Mig-31拦截器的第一个原型进行了处女作。
+- -  1975年：佛得角，莫桑比克和圣汤姆和普里尼普加入联合国。
+- -  1975年：巴布亚新几内亚从澳大利亚获得独立。
+- -  1970年：约旦国王侯赛因国王宣布针对巴勒斯坦解放组织的战争，冲突被称为黑色九月。
+- -  1966年：大都会歌剧院在纽约市的林肯中心开业，塞缪尔·巴伯（Samuel Barber）的歌剧安东尼（Antony）和克里奥帕特拉（Cleopatra）全球首映。
+- -  1963年：马来西亚是由马来亚，新加坡，北婆罗洲（沙巴）和砂拉越的联合会形成的。但是，新加坡很快被这个新国家驱逐出境。
+- -  1961年：巴基斯坦以阿卜杜勒·萨拉姆（Abdus Salam）为主管建立了其空间和上层气氛研究委员会。
+- -  1961年：台风南希（Nancy）可能是有史以来在热带气旋中测得最强的风，在日本大阪登陆，造成173人丧生。
+- -  1961年：美国国家飓风研究项目将八个碘化银的圆柱体放入飓风以斯帖飓风。风速降低了10％，引起了暴风雨。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-09-15 01:48:00 UTC）*
+*（更新于: 2025-09-16 01:39:46 UTC）*
