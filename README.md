@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2016: The 2016 Uri attack in Jammu and Kashmir, India by terrorist group Jaish-e-Mohammed results in the deaths of nineteen Indian Army soldiers and all four attackers.
-- 2015: Two security personnel, 17 worshippers in a mosque, and 13 militants are killed during a Tehrik-i-Taliban Pakistan attack on a Pakistan Air Force base on the outskirts of Peshawar.
-- 2014: Scotland votes against independence from the United Kingdom, by 55% to 45%.
-- 2011: The 2011 Sikkim earthquake is felt across northeastern India, Nepal, Bhutan, Bangladesh and southern Tibet.
-- 2007: Buddhist monks join anti-government protesters in Myanmar, starting what some call the Saffron Revolution.
-- 2001: First mailing of anthrax letters from Trenton, New Jersey in the 2001 anthrax attacks.
-- 1997: The Anti-Personnel Mine Ban Convention is adopted.
-- 1997: United States media magnate Ted Turner donates US$1 billion to the United Nations.
-- 1992: An explosion rocks Giant Mine at the height of a labor dispute, killing nine replacement workers in Yellowknife, Canada.
-- 1990: Liechtenstein becomes a member of the United Nations.
-- 1988: General Henri Namphy, president of Haiti, is ousted from power in a coup d'état led by General Prosper Avril.
-- 1988: The 8888 Uprising in Myanmar comes to an end.
-- 1984: Joe Kittinger completes the first solo balloon crossing of the Atlantic.
-- 1981: The Assemblée Nationale votes to abolish capital punishment in France.
-- 1980: Soyuz 38 carries two cosmonauts (including one Cuban) to the Salyut 6 space station.
-- 1977: Voyager I takes the first distant photograph of the Earth and the Moon together.
-- 1974: Hurricane Fifi strikes Honduras with 110 mph winds, killing 5,000 people.
-- 1973: The Bahamas, East Germany and West Germany are admitted to the United Nations.
-- 1964: The wedding of Constantine II of Greece and Princess Anne-Marie of Denmark takes place in Athens.
-- 1962: Aeroflot Flight 213 crashes into a mountain near Chersky Airport, killing 32 people.
-- 1962: Burundi, Jamaica, Rwanda and Trinidad and Tobago are admitted to the United Nations.
-- 1961: U.N. Secretary-General Dag Hammarskjöld dies in an air crash while attempting to negotiate peace in the Katanga region of the Democratic Republic of the Congo.
-- 1960: Fidel Castro arrives in New York City as the head of the Cuban delegation to the United Nations.
-- 1954: Finnish president J. K. Paasikivi becomes the first Western head of state to be awarded the highest honor of the Soviet Union, the Order of Lenin.
-- 1948: Margaret Chase Smith of Maine becomes the first woman elected to the United States Senate without completing another senator's term.
-- 1948: Operation Polo is terminated after the Indian Army accepts the surrender of the army of Hyderabad.
-- 1947: The National Security Act reorganizes the United States government's military and intelligence services.
-- 1945: General Douglas MacArthur moves his general headquarters from Manila to Tokyo.
-- 1944: World War II: The Battle of Arracourt begins.
-- 1944: World War II: Operation Market Garden results in the liberation of Eindhoven.
+- 2023: Azerbaijan launches a military offensive against the Republic of Artsakh in the Nagorno-Karabakh region; this leads to the flight of the Armenian population.
+- 2022: A strong earthquake kills 2 and injures over 30 in Mexico's state of Michoacán.
+- 2022: The state funeral of Queen Elizabeth II of the United Kingdom is held at Westminster Abbey, London.
+- 2021: The Cumbre Vieja volcano, on the island of La Palma in the Canary Islands, erupts. The eruption lasts for almost three months, ending on December 13.
+- 2019: A drone strike by the United States kills 30 civilian farmers in Afghanistan.
+- 2017: The 2017 Puebla earthquake strikes Mexico, causing 370 deaths and over 6,000 injuries, as well as extensive damage.
+- 2016: In the wake of a manhunt, the suspect in a series of bombings in New York and New Jersey is apprehended after a shootout with police.
+- 2011: Mariano Rivera of the New York Yankees surpasses Trevor Hoffman to become Major League Baseball's all-time career saves leader with 602.
+- 2010: The leaking oil well in the Deepwater Horizon oil spill is sealed.
+- 2008: A Learjet 60 carrying musicians Travis Barker and Adam "DJ AM" Goldstein crashes during a rejected takeoff from Colombia Metropolitan Airport in West Columbia, South Carolina, killing four of the six people on board. Barker and Goldstein both survive.
+- 2006: The Thai army stages a coup. The Constitution is revoked and martial law is declared.
+- 1997: The Guelb El-Kebir massacre in Algeria kills 53 people.
+- 1995: The Washington Post and The New York Times publish the Unabomber Manifesto.
+- 1991: Ötzi the Iceman is discovered in the Alps on the border between Italy and Austria.
+- 1989: A bomb destroys UTA Flight 772 in mid-air above the Tùnùrù Desert, Niger, killing all 170 passengers and crew.
+- 1985: Tipper Gore and other political wives form the Parents Music Resource Center as Frank Zappa, John Denver, and other musicians testify at U.S. Congressional hearings on obscenity in rock music.
+- 1985: A strong earthquake kills thousands and destroys about 400 buildings in Mexico City.
+- 1983: Saint Kitts and Nevis gains its independence.
+- 1982: Scott Fahlman posts the first documented emoticons :-) and :-( on the Carnegie Mellon University bulletin board system.
+- 1978: The Solomon Islands join the United Nations.
+- 1976: Two Imperial Iranian Air Force F-4 Phantom II jets fly out to investigate an unidentified flying object.
+- 1976: Turkish Airlines Flight 452 hits the Taurus Mountains, outskirt of Karatepe, Turkey, killing all 154 passengers and crew.
+- 1970: Kostas Georgakis, a Greek student of geology, sets himself ablaze in Matteotti Square in Genoa, Italy, as a protest against the dictatorial regime of Georgios Papadopoulos.
+- 1970: Michael Eavis hosts the first Glastonbury Festival.
+- 1960: Indian Prime Minister Jawaharlal Nehru and Pakistani President Ayub Khan sign the Indus Waters Treaty for the control and management of the Indus, Chenab, Jhelum, Ravi, Sutlej and Beas rivers.
+- 1950: Korean War: An attack by North Korean forces was repelled at the Battle of Nam River.
+- 1946: The Council of Europe is founded following a speech by Winston Churchill at the University of Zurich.
+- 1944: World War II: The Moscow Armistice between Finland and the Soviet Union is signed, which officially ended the Continuation War.
+- 1944: World War II: The Battle of Hürtgen Forest begins. It will become the second-longest individual battle that the U.S. Army has ever fought.
+- 1940: World War II: Witold Pilecki is voluntarily captured and sent to Auschwitz concentration camp to gather and smuggle out information for the resistance movement.
 
 Data from muffinlabs
-*(Updated at: 2025-09-18 01:39:48 UTC)*
+*(Updated at: 2025-09-19 01:42:35 UTC)*
 
 # 历史上的今天 
 
-- -  2016年：恐怖组织Jaish-e-Mohammed在印度在查mu和克什米尔举行的2016年URI袭击导致了十九名印度陆军士兵和所有四名攻击者的死亡。
-- -  2015年：两名安全人员，17名清真寺的崇拜者和13名武装分子在巴基斯坦在白沙瓦郊区的巴基斯坦空军基地的袭击中被杀。
-- -  2014年：苏格兰对脱离英国的独立投票，下降了55％至45％。
-- -  2011年：在印度东北部，尼泊尔，不丹，孟加拉国和西藏南部的2011年锡金地震中。
-- -  2007年：佛教僧侣与缅甸的反政府抗议者一起开始，开始了一些人所谓的藏红花革命。
-- -  2001年：2001年炭疽病攻击中，新泽西州特伦顿的炭疽信件首次邮寄。
-- -  1997年：采用了反人工矿山禁令公约。
-- -  1997年：美国媒体大亨特德·特纳（Ted Turner）向联合国捐赠了10亿美元。
-- -  1992年：爆炸岩石在劳力争端的高峰期间巨大的矿山，杀死了加拿大耶洛克奈夫的九名替代工人。
-- -  1990年：列支敦士登成为联合国的成员。
-- -  1988年：海地总统亨利·纳姆普将军在由普罗普·艾维利将军带领的政变中被驱逐出权力。
-- -  1988年：缅甸的8888起义即将结束。
-- -  1984年：乔·基廷格（Joe Kitterer）完成了大西洋的第一个独奏气球交叉。
-- -  1981年：大会国家投票决定废除法国的死刑。
-- -  1980年：Soyuz 38载有两个宇航员（包括一个古巴）到Salyut 6空间站。
-- -  1977年：旅行者我一起拍摄了地球和月亮的第一张遥远照片。
-- -  1974年：Fifi飓风以110英里 /小时的风袭击洪都拉斯，造成5,000人丧生。
-- -  1973年：巴哈马，东德和西德被联合国接纳。
-- -  1964年：希腊的君士坦丁二世和丹麦公主的安妮·玛丽（Anne-Marie）的婚礼在雅典举行。
-- -  1962年：Aeroflot 213航班坠毁进入切尔斯基机场附近的一座山，炸死32人。
-- -  1962年：布隆迪，牙买加，卢旺达和特立尼达和多巴哥被接纳为联合国。
-- -  1961年：联合国秘书长达格·哈马尔斯科德（Hammarskjöld）在试图谈判刚果民主共和国卡坦加（Katanga）地区的和平时死于空气崩溃。
-- -  1960年：菲德尔·卡斯特罗（Fidel Castro）作为古巴代表团的负责人到达纽约市。
-- -  1954年：芬兰总统帕西基维（J. K. Paasikivi）成为第一个被授予苏联列宁勋章最高荣誉的西方国家元首。
-- -  1948年：缅因州的玛格丽特·蔡斯·史密斯（Margaret Chase Smith）成为第一位当选美国参议院的妇女，而没有完成另一位参议员的任期。
-- -  1948年：印度军队接受海得拉巴军队的投降后，马球行动被终止。
-- -  1947年：《国家安全法》重组了美国政府的军事和情报部门。
-- -  1945年：道格拉斯·麦克阿瑟（Douglas MacArthur）将军将他的总部从马尼拉移至东京。
-- -  1944年：第二次世界大战：阿拉索特战役开始。
-- -  1944年：第二次世界大战：市场花园行动花园导致埃因霍温解放。
+- -  2023年：阿塞拜疆在纳戈尔诺 - 卡拉巴赫地区针对阿萨赫共和国发动了军事进攻；这导致亚美尼亚人口的飞行。
+- -  2022年：强烈的地震杀死2人，墨西哥米摩坎州的30多人受伤。
+- -  2022年：英国伊丽莎白二世女王的葬礼在伦敦的威斯敏斯特大教堂举行。
+- -2021：在加那利群岛的拉帕尔玛岛上的Cumbre Vieja火山爆发。喷发持续了将近三个月，结束于12月13日。
+- -  2019年：美国的无人机罢工杀死了阿富汗的30名民用农民。
+- -  2017年：2017年普韦布拉地震袭击了墨西哥，造成370人死亡和6,000多人的伤害，并造成严重伤害。
+- -  2016年：在一次搜捕之后，纽约和新泽西州发生的一系列爆炸案中的嫌疑人在与警察发生枪战后被逮捕。
+- -  2011年：纽约洋基队的马里亚诺·里维拉（Mariano Rivera）超过特雷弗·霍夫曼（Trevor Hoffman），成为美国职业棒球大联盟（Major League）的历史职业生涯拯救领导者602。
+- -  2010年：深水地平线油漏油中的泄漏油井已密封。
+- -  2008年：一名Learjet 60运载音乐家Travis Barker和Adam“ DJ AM” Goldstein在拒绝从南卡罗来纳州西哥伦比亚的哥伦比亚大都会机场起飞时撞车，杀死了船上六人中的四人中的四人。Barker和Goldstein都能生存。
+- -  2006年：泰国军队举行政变。宪法被撤销，并宣布戒严。
+- -  1997年：阿尔及利亚的圭尔El-Kebir大屠杀杀死了53人。
+- -  1995年：《华盛顿邮报》和《纽约时报》出版了《联合国宣言》。
+- -  1991年：Ötzi冰人在意大利和奥地利之间边界的阿尔卑斯山发现。
+- -  1989年：一枚炸弹在尼日尔的Tùnùrù沙漠上方的空中摧毁了UTA 772航班，杀死了所有170名乘客和机组人员。
+- -  1985年：牛皮纸和其他政治妻子构成了父母音乐资源中心，弗兰克·扎帕（Frank Zappa），约翰·丹佛（John Denver）和其他音乐家在美国国会关于摇滚音乐中淫秽的听证会上作证。
+- -  1985年：强烈的地震杀死了数千人，并在墨西哥城摧毁了约400座建筑物。
+- -  1983年：圣基茨和尼维斯获得了独立性。
+- -  1982年：斯科特·法赫曼（Scott Fahlman）在卡内基·梅隆大学公告板系统中发布了第一个记录的表情符号:-)和:-(。
+- -  1978年：所罗门群岛加入联合国。
+- -  1976年：两名伊朗帝国空军F-4 Phantom II飞机飞出来调查一个身份不明的飞行物体。
+- -  1976年：土耳其航空公司452航班撞上了金牛座山脉，土耳其郊区，土耳其郊外，杀害了所有154名乘客和船员。
+- -  1970年：希腊地质学生科斯塔斯·乔治基斯（Kostas Georgakis）使自己在意大利热那亚的Matteotti广场上火，以抗议乔治斯·帕帕多普洛斯（Georgios Papadopoulos）的独裁政权。
+- -  1970年：迈克尔·埃维斯（Michael Eavis）举办了第一个格拉斯顿伯里（Glastonbury）节。
+- -  1960年：印度总理贾瓦哈拉尔·尼赫鲁（Jawaharlal Nehru）和巴基斯坦总统阿尤布·汗（Ayub Khan）签署了印度水域条约，以控制和管理印度河，Chenab，Jhelum，Jhelum，Ravi，Sutlej和Beas Rivers。
+- -  1950年：朝鲜战争：朝鲜部队的袭击在南河战役中被击退。
+- -  1946年：欧洲理事会是在苏黎世大学的温斯顿·丘吉尔（Winston Churchill）演讲之后成立的。
+- -  1944年：第二次世界大战：芬兰与苏联之间的莫斯科停战被签署，正式结束了连续战争。
+- -  1944年：第二次世界大战：赫特根森林之战开始。它将成为美国陆军有史以来第二长的个人战斗。
+- -  1940年：第二次世界大战：Witold Pilecki被自愿捕获并被送往奥斯威辛集中营，以收集和走私信息以进行抵抗运动。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-09-18 01:39:48 UTC）*
+*（更新于: 2025-09-19 01:42:35 UTC）*
