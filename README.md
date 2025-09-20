@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: Azerbaijan launches a military offensive against the Republic of Artsakh in the Nagorno-Karabakh region; this leads to the flight of the Armenian population.
-- 2022: A strong earthquake kills 2 and injures over 30 in Mexico's state of Michoacán.
-- 2022: The state funeral of Queen Elizabeth II of the United Kingdom is held at Westminster Abbey, London.
-- 2021: The Cumbre Vieja volcano, on the island of La Palma in the Canary Islands, erupts. The eruption lasts for almost three months, ending on December 13.
-- 2019: A drone strike by the United States kills 30 civilian farmers in Afghanistan.
-- 2017: The 2017 Puebla earthquake strikes Mexico, causing 370 deaths and over 6,000 injuries, as well as extensive damage.
-- 2016: In the wake of a manhunt, the suspect in a series of bombings in New York and New Jersey is apprehended after a shootout with police.
-- 2011: Mariano Rivera of the New York Yankees surpasses Trevor Hoffman to become Major League Baseball's all-time career saves leader with 602.
-- 2010: The leaking oil well in the Deepwater Horizon oil spill is sealed.
-- 2008: A Learjet 60 carrying musicians Travis Barker and Adam "DJ AM" Goldstein crashes during a rejected takeoff from Colombia Metropolitan Airport in West Columbia, South Carolina, killing four of the six people on board. Barker and Goldstein both survive.
-- 2006: The Thai army stages a coup. The Constitution is revoked and martial law is declared.
-- 1997: The Guelb El-Kebir massacre in Algeria kills 53 people.
-- 1995: The Washington Post and The New York Times publish the Unabomber Manifesto.
-- 1991: Ötzi the Iceman is discovered in the Alps on the border between Italy and Austria.
-- 1989: A bomb destroys UTA Flight 772 in mid-air above the Tùnùrù Desert, Niger, killing all 170 passengers and crew.
-- 1985: Tipper Gore and other political wives form the Parents Music Resource Center as Frank Zappa, John Denver, and other musicians testify at U.S. Congressional hearings on obscenity in rock music.
-- 1985: A strong earthquake kills thousands and destroys about 400 buildings in Mexico City.
-- 1983: Saint Kitts and Nevis gains its independence.
-- 1982: Scott Fahlman posts the first documented emoticons :-) and :-( on the Carnegie Mellon University bulletin board system.
-- 1978: The Solomon Islands join the United Nations.
-- 1976: Two Imperial Iranian Air Force F-4 Phantom II jets fly out to investigate an unidentified flying object.
-- 1976: Turkish Airlines Flight 452 hits the Taurus Mountains, outskirt of Karatepe, Turkey, killing all 154 passengers and crew.
-- 1970: Kostas Georgakis, a Greek student of geology, sets himself ablaze in Matteotti Square in Genoa, Italy, as a protest against the dictatorial regime of Georgios Papadopoulos.
-- 1970: Michael Eavis hosts the first Glastonbury Festival.
-- 1960: Indian Prime Minister Jawaharlal Nehru and Pakistani President Ayub Khan sign the Indus Waters Treaty for the control and management of the Indus, Chenab, Jhelum, Ravi, Sutlej and Beas rivers.
-- 1950: Korean War: An attack by North Korean forces was repelled at the Battle of Nam River.
-- 1946: The Council of Europe is founded following a speech by Winston Churchill at the University of Zurich.
-- 1944: World War II: The Moscow Armistice between Finland and the Soviet Union is signed, which officially ended the Continuation War.
-- 1944: World War II: The Battle of Hürtgen Forest begins. It will become the second-longest individual battle that the U.S. Army has ever fought.
-- 1940: World War II: Witold Pilecki is voluntarily captured and sent to Auschwitz concentration camp to gather and smuggle out information for the resistance movement.
+- 2019: Roughly four million people, mostly students, demonstrate across the world to address climate change. Sixteen-year-old Greta Thunberg from Sweden leads the demonstration in New York City.
+- 2018: At least 161 people die after a ferry capsizes close to the pier on Ukara Island in Lake Victoria, Tanzania.
+- 2017: Hurricane Maria makes landfall in Puerto Rico as a powerful Category 4 hurricane, resulting in 2,975 deaths, US$90 billion in damage, and a major humanitarian crisis.
+- 2011: The United States military ends its "don't ask, don't tell" policy, allowing gay men and women to serve openly for the first time.
+- 2008: A dump truck full of explosives detonates in front of the Marriott hotel in Islamabad, Pakistan, killing 54 people and injuring 266 others.
+- 2007: Between 15,000 and 20,000 protesters march on Jena, Louisiana, United States, in support of six black youths who had been convicted of assaulting a white classmate.
+- 2003: Civil unrest in the Maldives breaks out after a prisoner is killed by guards.
+- 2001: In an address to a joint session of Congress and the American people, U.S. President George W. Bush declares a "War on Terror".
+- 2000: The United Kingdom's MI6 Secret Intelligence Service building is attacked by individuals using a Russian-built RPG-22 anti-tank missile.
+- 1990: South Ossetia declares its independence from Georgia.
+- 1989: USAir Flight 5050 crashes into Bowery Bay during a rejected takeoff from LaGuardia Airport, killing two people.
+- 1984: A suicide bomber in a car attacks the U.S. embassy in Beirut, Lebanon, killing twenty-two people.
+- 1982: NFL season: American football players in the National Football League begin a 57-day strike.
+- 1979: A French-supported coup d'état in the Central African Empire overthrows Emperor Bokassa I.
+- 1977: Vietnam is admitted to the United Nations.
+- 1973: Singer Jim Croce, songwriter and musician Maury Muehleisen and four others die when their light aircraft crashes shortly after takeoff from Natchitoches Regional Airport in Louisiana.
+- 1973: Billie Jean King beats Bobby Riggs in the Battle of the Sexes tennis match at the Houston Astrodome.
+- 1971: Having weakened after making landfall in Nicaragua the previous day, Hurricane Irene regains enough strength to be renamed Hurricane Olivia, making it the first known hurricane to cross from the Atlantic Ocean into the Pacific.
+- 1967: The Cunard Liner Queen Elizabeth 2 is launched in Clydebank, Scotland.
+- 1965: Following the Battle of Burki, the Indian Army captures Dograi in during the Indo-Pakistani War of 1965.
+- 1962: James Meredith, an African American, is temporarily barred from entering the University of Mississippi.
+- 1961: Greek general Konstantinos Dovas becomes Prime Minister of Greece.
+- 1955: The Treaty on Relations between the USSR and the GDR is signed.
+- 1954: The Moomin comics, created by Tove Jansson and Lars Jansson, is published internationally in the London newspaper The Evening News.
+- 1946: Six days after a referendum, King Christian X of Denmark annuls the declaration of independence of the Faroe Islands.
+- 1946: The first Cannes Film Festival is held, having been delayed for seven years due to World War II.
+- 1941: The Holocaust in Lithuania: Lithuanian Nazis and local police begin a mass execution of 403 Jews in Nemenčinė.
+- 1920: Irish War of Independence: British police known as "Black and Tans" burn the town of Balbriggan and kill two local men in revenge for an IRA assassination.
+- 1911: The White Star Line's RMS Olympic collides with the British warship HMS Hawke.
+- 1893: Charles Duryea and his brother road-test the first American-made gasoline-powered automobile.
 
 Data from muffinlabs
-*(Updated at: 2025-09-19 01:42:35 UTC)*
+*(Updated at: 2025-09-20 01:37:41 UTC)*
 
 # 历史上的今天 
 
-- -  2023年：阿塞拜疆在纳戈尔诺 - 卡拉巴赫地区针对阿萨赫共和国发动了军事进攻；这导致亚美尼亚人口的飞行。
-- -  2022年：强烈的地震杀死2人，墨西哥米摩坎州的30多人受伤。
-- -  2022年：英国伊丽莎白二世女王的葬礼在伦敦的威斯敏斯特大教堂举行。
-- -2021：在加那利群岛的拉帕尔玛岛上的Cumbre Vieja火山爆发。喷发持续了将近三个月，结束于12月13日。
-- -  2019年：美国的无人机罢工杀死了阿富汗的30名民用农民。
-- -  2017年：2017年普韦布拉地震袭击了墨西哥，造成370人死亡和6,000多人的伤害，并造成严重伤害。
-- -  2016年：在一次搜捕之后，纽约和新泽西州发生的一系列爆炸案中的嫌疑人在与警察发生枪战后被逮捕。
-- -  2011年：纽约洋基队的马里亚诺·里维拉（Mariano Rivera）超过特雷弗·霍夫曼（Trevor Hoffman），成为美国职业棒球大联盟（Major League）的历史职业生涯拯救领导者602。
-- -  2010年：深水地平线油漏油中的泄漏油井已密封。
-- -  2008年：一名Learjet 60运载音乐家Travis Barker和Adam“ DJ AM” Goldstein在拒绝从南卡罗来纳州西哥伦比亚的哥伦比亚大都会机场起飞时撞车，杀死了船上六人中的四人中的四人。Barker和Goldstein都能生存。
-- -  2006年：泰国军队举行政变。宪法被撤销，并宣布戒严。
-- -  1997年：阿尔及利亚的圭尔El-Kebir大屠杀杀死了53人。
-- -  1995年：《华盛顿邮报》和《纽约时报》出版了《联合国宣言》。
-- -  1991年：Ötzi冰人在意大利和奥地利之间边界的阿尔卑斯山发现。
-- -  1989年：一枚炸弹在尼日尔的Tùnùrù沙漠上方的空中摧毁了UTA 772航班，杀死了所有170名乘客和机组人员。
-- -  1985年：牛皮纸和其他政治妻子构成了父母音乐资源中心，弗兰克·扎帕（Frank Zappa），约翰·丹佛（John Denver）和其他音乐家在美国国会关于摇滚音乐中淫秽的听证会上作证。
-- -  1985年：强烈的地震杀死了数千人，并在墨西哥城摧毁了约400座建筑物。
-- -  1983年：圣基茨和尼维斯获得了独立性。
-- -  1982年：斯科特·法赫曼（Scott Fahlman）在卡内基·梅隆大学公告板系统中发布了第一个记录的表情符号:-)和:-(。
-- -  1978年：所罗门群岛加入联合国。
-- -  1976年：两名伊朗帝国空军F-4 Phantom II飞机飞出来调查一个身份不明的飞行物体。
-- -  1976年：土耳其航空公司452航班撞上了金牛座山脉，土耳其郊区，土耳其郊外，杀害了所有154名乘客和船员。
-- -  1970年：希腊地质学生科斯塔斯·乔治基斯（Kostas Georgakis）使自己在意大利热那亚的Matteotti广场上火，以抗议乔治斯·帕帕多普洛斯（Georgios Papadopoulos）的独裁政权。
-- -  1970年：迈克尔·埃维斯（Michael Eavis）举办了第一个格拉斯顿伯里（Glastonbury）节。
-- -  1960年：印度总理贾瓦哈拉尔·尼赫鲁（Jawaharlal Nehru）和巴基斯坦总统阿尤布·汗（Ayub Khan）签署了印度水域条约，以控制和管理印度河，Chenab，Jhelum，Jhelum，Ravi，Sutlej和Beas Rivers。
-- -  1950年：朝鲜战争：朝鲜部队的袭击在南河战役中被击退。
-- -  1946年：欧洲理事会是在苏黎世大学的温斯顿·丘吉尔（Winston Churchill）演讲之后成立的。
-- -  1944年：第二次世界大战：芬兰与苏联之间的莫斯科停战被签署，正式结束了连续战争。
-- -  1944年：第二次世界大战：赫特根森林之战开始。它将成为美国陆军有史以来第二长的个人战斗。
-- -  1940年：第二次世界大战：Witold Pilecki被自愿捕获并被送往奥斯威辛集中营，以收集和走私信息以进行抵抗运动。
+- -  2019年：大约有400万人（大多数是学生）在全球范围内展示以应对气候变化。来自瑞典的16岁的格雷塔·敦伯格（Greta Thunberg）在纽约市领导示威。
+- -  2018年：在坦桑尼亚维多利亚湖的Ukara岛附近的渡轮倾斜后，至少有161人死亡。
+- -  2017年：玛丽亚飓风将波多黎各的登陆为4级飓风，导致2,975人死亡，900亿美元的损失和重大的人道主义危机。
+- -  2011年：美国军方结束了其“不要问，不要说出”政策，允许男女第一次公开服务。
+- -  2008年：一辆装满炸药的自卸车在巴基斯坦伊斯兰堡的万豪酒店前面引爆，炸死54人，炸伤266人。
+- -  2007年：15,000至20,000名抗议者在美国路易斯安那州耶拿（Jena）游行，以支持六名黑人青年，他们因殴打白人同学而被定罪。
+- -  2003年：马尔代夫的内乱在被警卫杀害后爆发。
+- -  2001年：在国会和美国人民联席会议的讲话中，美国总统乔治·W·布什（George W. Bush）宣布了“反恐战争”。
+- -  2000年：英国的MI6秘密情报服务大楼遭到使用俄罗斯制造的RPG-22反坦克导弹的个人攻击。
+- -  1990年：南奥塞梯宣布其独立于佐治亚州。
+- -  1989年：USAIR 5050航班在拒绝从拉瓜迪亚机场起飞时撞向鲍里湾，造成两人丧生。
+- -  1984年：一辆汽车中的自杀炸弹袭击者袭击了美国驻黎巴嫩贝鲁特大使馆，炸死了22人。
+- -  1982年：NFL赛季：国家足球联赛的美国足球运动员开始了57天的罢工。
+- -  1979年：中非帝国的法国支持的政变推翻了Bokassa I.
+- -  1977年：越南被联合国录取。
+- -  1973年：歌手吉姆·克罗斯（Jim Croce），词曲作者兼音乐家莫里·穆勒森（Maury Muehleisen）和其他四个飞机在从路易斯安那州的Natchitoches地区机场起飞后不久，他们的轻型飞机坠毁。
+- -  1973年：比利·让·金（Billie Jean King）在休斯顿天文舞台的性别网球比赛中击败了鲍比·里格斯（Bobby Riggs）。
+- -  1971年：前一天在尼加拉瓜登陆后，艾琳飓风恢复了足够的力量，可以重命名奥利维亚飓风，这使其成为第一个已知的飓风从大西洋越过太平洋。
+- -  1967年：Cunard Liner Queen Elizabeth 2在苏格兰克莱德班克（Clydebank）推出。
+- -  1965年：在伯基战役之后，印度军队在1965年的印度 - 巴基斯坦战争期间占领了多格莱。
+- -  1962年：非裔美国人詹姆斯·梅雷迪思（James Meredith）暂时被禁止进入密西西比大学。
+- -  1961年：希腊将军Konstantinos Dovas成为希腊总理。
+- -  1955年：苏联与GDR之间的关系条约已签署。
+- -  1954年：由托夫·詹森（Tove Jansson）和拉尔斯·詹森（Lars Jansson）创作的穆林漫画在伦敦报纸《晚报》上发表。
+- -  1946年：公投后六天，丹麦·阿纳尔斯的克里斯蒂安·X国王宣布了法罗群岛的独立宣言。
+- -  1946年：由于第二次世界大战，举办了第一个戛纳电影节，已延迟了七年。
+- -  1941年：立陶宛的大屠杀：立陶宛纳粹和当地警察在Nemenčinė开始大规模执行403名犹太人。
+- -  1920年：爱尔兰独立战争：英国警察被称为“黑人和坦斯”烧毁了巴尔布里格镇，并杀死了两名当地人，以报复IRA被暗杀。
+- -  1911年：白星线的RMS奥林匹克与英国军舰HMS Hawke碰撞。
+- -  1893年：查尔斯·杜里亚（Charles Duryea）和他的兄弟道路测试是美国制造的汽油驱动汽车的第一家。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-09-19 01:42:35 UTC）*
+*（更新于: 2025-09-20 01:37:41 UTC）*
