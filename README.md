@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: Roughly four million people, mostly students, demonstrate across the world to address climate change. Sixteen-year-old Greta Thunberg from Sweden leads the demonstration in New York City.
-- 2018: At least 161 people die after a ferry capsizes close to the pier on Ukara Island in Lake Victoria, Tanzania.
-- 2017: Hurricane Maria makes landfall in Puerto Rico as a powerful Category 4 hurricane, resulting in 2,975 deaths, US$90 billion in damage, and a major humanitarian crisis.
-- 2011: The United States military ends its "don't ask, don't tell" policy, allowing gay men and women to serve openly for the first time.
-- 2008: A dump truck full of explosives detonates in front of the Marriott hotel in Islamabad, Pakistan, killing 54 people and injuring 266 others.
-- 2007: Between 15,000 and 20,000 protesters march on Jena, Louisiana, United States, in support of six black youths who had been convicted of assaulting a white classmate.
-- 2003: Civil unrest in the Maldives breaks out after a prisoner is killed by guards.
-- 2001: In an address to a joint session of Congress and the American people, U.S. President George W. Bush declares a "War on Terror".
-- 2000: The United Kingdom's MI6 Secret Intelligence Service building is attacked by individuals using a Russian-built RPG-22 anti-tank missile.
-- 1990: South Ossetia declares its independence from Georgia.
-- 1989: USAir Flight 5050 crashes into Bowery Bay during a rejected takeoff from LaGuardia Airport, killing two people.
-- 1984: A suicide bomber in a car attacks the U.S. embassy in Beirut, Lebanon, killing twenty-two people.
-- 1982: NFL season: American football players in the National Football League begin a 57-day strike.
-- 1979: A French-supported coup d'état in the Central African Empire overthrows Emperor Bokassa I.
-- 1977: Vietnam is admitted to the United Nations.
-- 1973: Singer Jim Croce, songwriter and musician Maury Muehleisen and four others die when their light aircraft crashes shortly after takeoff from Natchitoches Regional Airport in Louisiana.
-- 1973: Billie Jean King beats Bobby Riggs in the Battle of the Sexes tennis match at the Houston Astrodome.
-- 1971: Having weakened after making landfall in Nicaragua the previous day, Hurricane Irene regains enough strength to be renamed Hurricane Olivia, making it the first known hurricane to cross from the Atlantic Ocean into the Pacific.
-- 1967: The Cunard Liner Queen Elizabeth 2 is launched in Clydebank, Scotland.
-- 1965: Following the Battle of Burki, the Indian Army captures Dograi in during the Indo-Pakistani War of 1965.
-- 1962: James Meredith, an African American, is temporarily barred from entering the University of Mississippi.
-- 1961: Greek general Konstantinos Dovas becomes Prime Minister of Greece.
-- 1955: The Treaty on Relations between the USSR and the GDR is signed.
-- 1954: The Moomin comics, created by Tove Jansson and Lars Jansson, is published internationally in the London newspaper The Evening News.
-- 1946: Six days after a referendum, King Christian X of Denmark annuls the declaration of independence of the Faroe Islands.
-- 1946: The first Cannes Film Festival is held, having been delayed for seven years due to World War II.
-- 1941: The Holocaust in Lithuania: Lithuanian Nazis and local police begin a mass execution of 403 Jews in Nemenčinė.
-- 1920: Irish War of Independence: British police known as "Black and Tans" burn the town of Balbriggan and kill two local men in revenge for an IRA assassination.
-- 1911: The White Star Line's RMS Olympic collides with the British warship HMS Hawke.
-- 1893: Charles Duryea and his brother road-test the first American-made gasoline-powered automobile.
+- 2019: A 5.6 Mw earthquake shakes the Albanian port of Durrës. Forty-nine people are injured in the capital, Tirana.
+- 2018: LGBT rights activist Zak Kostopoulos is beaten to death on a busy street in Athens
+- 2015: Adventist Health System agreed to pay $118.7 million to settle allegations of fraud. It was the largest a hospital network has ever paid.
+- 2013: Al-Shabaab Islamic militants attack the Westgate shopping mall in Kenya, killing at least 67 people.
+- 2012: Three Egyptian militants open fire on a group of Israeli soldiers in a southern Israel cross-border attack.
+- 2003: The Galileo spacecraft is terminated by sending it into Jupiter's atmosphere.
+- 2001: Ross Parker is murdered in Peterborough, England, by a gang of ten British Pakistani youths.
+- 2001: America: A Tribute to Heroes is broadcast by over 35 network and cable channels, raising over $200 million for the victims of the September 11 attacks.
+- 1999: The Chi-Chi earthquake occurs in central Taiwan, leaving about 2,400 people dead.
+- 1997: St. Olaf's Church, a stone church from the 16th century in Tyrvää, Finland, is burnt down by a burglar.
+- 1996: The Defense of Marriage Act is passed by the United States Congress.
+- 1993: A Transair Georgian Airlines Tu-134 is shot down by a missile in the Black Sea near Sokhumi, Georgia.
+- 1993: Russian President Boris Yeltsin triggers a constitutional crisis when he suspends parliament and scraps the constitution.
+- 1991: Armenia gains independence from the Soviet Union.
+- 1984: Brunei joins the United Nations.
+- 1981: Sandra Day O'Connor is unanimously approved by the U.S. Senate as the first female Supreme Court justice.
+- 1981: Belize is granted full independence from the United Kingdom.
+- 1976: Seychelles joins the United Nations.
+- 1976: Orlando Letelier is assassinated in Washington, D.C., at the order of Augusto Pinochet.
+- 1972: Philippine President Ferdinand Marcos begins authoritarian rule by declaring martial law.
+- 1971: Bahrain, Bhutan and Qatar join the United Nations.
+- 1969: Mexicana de Aviación Flight 801, a Boeing 727-100 passenger plane, crashes during a landing attempt in Mexico City, killing 27 of the 118 occupants.
+- 1965: The Gambia, Maldives and Singapore are admitted as members of the United Nations.
+- 1964: The North American XB-70 Valkyrie, the world's fastest bomber, makes its maiden flight from Palmdale, California.
+- 1964: Malta gains independence from the United Kingdom, but remains in the Commonwealth.
+- 1957: Pamir, a four-masted barque, was shipwrecked and sank off the Azores during Hurricane Carrie.
+- 1953: Lieutenant No Kum-sok, a North Korean pilot, defects to South Korea with his jet fighter.
+- 1942: The Boeing B-29 Superfortress makes its maiden flight.
+- 1942: The Holocaust in Poland: At the end of Yom Kippur, Germans order Jews to permanently move from Konstantynów to Biała Podlaska.
+- 1942: The Holocaust in Ukraine: In Dunaivtsi, Ukraine, Nazis murder 2,588 Jews.
 
 Data from muffinlabs
-*(Updated at: 2025-09-20 01:37:41 UTC)*
+*(Updated at: 2025-09-21 01:49:12 UTC)*
 
 # 历史上的今天 
 
-- -  2019年：大约有400万人（大多数是学生）在全球范围内展示以应对气候变化。来自瑞典的16岁的格雷塔·敦伯格（Greta Thunberg）在纽约市领导示威。
-- -  2018年：在坦桑尼亚维多利亚湖的Ukara岛附近的渡轮倾斜后，至少有161人死亡。
-- -  2017年：玛丽亚飓风将波多黎各的登陆为4级飓风，导致2,975人死亡，900亿美元的损失和重大的人道主义危机。
-- -  2011年：美国军方结束了其“不要问，不要说出”政策，允许男女第一次公开服务。
-- -  2008年：一辆装满炸药的自卸车在巴基斯坦伊斯兰堡的万豪酒店前面引爆，炸死54人，炸伤266人。
-- -  2007年：15,000至20,000名抗议者在美国路易斯安那州耶拿（Jena）游行，以支持六名黑人青年，他们因殴打白人同学而被定罪。
-- -  2003年：马尔代夫的内乱在被警卫杀害后爆发。
-- -  2001年：在国会和美国人民联席会议的讲话中，美国总统乔治·W·布什（George W. Bush）宣布了“反恐战争”。
-- -  2000年：英国的MI6秘密情报服务大楼遭到使用俄罗斯制造的RPG-22反坦克导弹的个人攻击。
-- -  1990年：南奥塞梯宣布其独立于佐治亚州。
-- -  1989年：USAIR 5050航班在拒绝从拉瓜迪亚机场起飞时撞向鲍里湾，造成两人丧生。
-- -  1984年：一辆汽车中的自杀炸弹袭击者袭击了美国驻黎巴嫩贝鲁特大使馆，炸死了22人。
-- -  1982年：NFL赛季：国家足球联赛的美国足球运动员开始了57天的罢工。
-- -  1979年：中非帝国的法国支持的政变推翻了Bokassa I.
-- -  1977年：越南被联合国录取。
-- -  1973年：歌手吉姆·克罗斯（Jim Croce），词曲作者兼音乐家莫里·穆勒森（Maury Muehleisen）和其他四个飞机在从路易斯安那州的Natchitoches地区机场起飞后不久，他们的轻型飞机坠毁。
-- -  1973年：比利·让·金（Billie Jean King）在休斯顿天文舞台的性别网球比赛中击败了鲍比·里格斯（Bobby Riggs）。
-- -  1971年：前一天在尼加拉瓜登陆后，艾琳飓风恢复了足够的力量，可以重命名奥利维亚飓风，这使其成为第一个已知的飓风从大西洋越过太平洋。
-- -  1967年：Cunard Liner Queen Elizabeth 2在苏格兰克莱德班克（Clydebank）推出。
-- -  1965年：在伯基战役之后，印度军队在1965年的印度 - 巴基斯坦战争期间占领了多格莱。
-- -  1962年：非裔美国人詹姆斯·梅雷迪思（James Meredith）暂时被禁止进入密西西比大学。
-- -  1961年：希腊将军Konstantinos Dovas成为希腊总理。
-- -  1955年：苏联与GDR之间的关系条约已签署。
-- -  1954年：由托夫·詹森（Tove Jansson）和拉尔斯·詹森（Lars Jansson）创作的穆林漫画在伦敦报纸《晚报》上发表。
-- -  1946年：公投后六天，丹麦·阿纳尔斯的克里斯蒂安·X国王宣布了法罗群岛的独立宣言。
-- -  1946年：由于第二次世界大战，举办了第一个戛纳电影节，已延迟了七年。
-- -  1941年：立陶宛的大屠杀：立陶宛纳粹和当地警察在Nemenčinė开始大规模执行403名犹太人。
-- -  1920年：爱尔兰独立战争：英国警察被称为“黑人和坦斯”烧毁了巴尔布里格镇，并杀死了两名当地人，以报复IRA被暗杀。
-- -  1911年：白星线的RMS奥林匹克与英国军舰HMS Hawke碰撞。
-- -  1893年：查尔斯·杜里亚（Charles Duryea）和他的兄弟道路测试是美国制造的汽油驱动汽车的第一家。
+- -  2019年：5.6 MW地震摇动了阿尔巴尼亚港口杜勒斯港。首都提拉娜（Tirana）受伤了49人。
+- -  2018年：LGBT权利活动家Zak Kostopoulos在雅典的一条繁忙街上被殴打致死
+- -  2015年：复临卫生系统同意支付1.187亿美元以解决欺诈指控。这是医院网络有史以来最大的支付。
+- -  2013年：青年党伊斯兰武装分子袭击了肯尼亚的韦斯特盖特购物中心，杀死了至少67人。
+- -  2012年：三名埃及武装分子在以色列南部的跨境袭击中向一群以色列士兵开火。
+- -  2003年：伽利略航天器是通过将其发送到木星大气中而终止的。
+- -  2001年：罗斯·帕克（Ross Parker）在英格兰彼得伯勒（Peterborough）被一个十个不列颠巴基斯坦青年组成的帮派谋杀。
+- -  2001年：美国：对英雄的致敬是由超过35个网络和有线频道播出的，为9月11日袭击的受害者筹集了超过2亿美元。
+- -  1999年：Chi-Chi地震发生在台湾中部，造成2400人死亡。
+- -  1997年：圣奥拉夫教堂是芬兰蒂尔瓦市16世纪的一座石教堂，被盗贼烧毁了。
+- -  1996年：美国国会通过了《婚姻辩护法》。
+- -  1993年：佐治亚州的跨雷航空TU-134被佐治亚州Sokhumi附近的黑海的一枚导弹击落。
+- -  1993年：俄罗斯总统鲍里斯·叶利钦（Boris Yeltsin）暂停议会并削减宪法时，触发了宪法危机。
+- -  1991年：亚美尼亚从苏联获得独立。
+- -  1984年：文莱加入联合国。
+- -  1981年：桑德拉·戴·奥康纳（Sandra Day O'Connor）被美国参议院一致批准为第一位女性最高法院大法官。
+- -  1981年：伯利兹被完全独立于英国。
+- -  1976年：塞舌尔加入了联合国。
+- -  1976年：奥兰多·皮诺切特（Augusto Pinochet）的命令在华盛顿特区被暗杀。
+- -  1972年：菲律宾总统费迪南德·马科斯（Ferdinand Marcos）通过宣布戒严令开始了威权统治。
+- -  1971年：巴林，不丹和卡塔尔加入了联合国。
+- -  1969年：波音727-100的乘客飞机801航班墨西哥人DeAviación航班在墨西哥城的一次着陆尝试中坠毁，杀死了118名乘员中的27名。
+- -  1965年：冈比亚，马尔代夫和新加坡被接纳为联合国成员。
+- -  1964年：世界上最快的轰炸机北美XB-70 Valkyrie从加利福尼亚州的Palmdale飞行。
+- -  1964年：马耳他获得了脱离英国的独立性，但仍留在英联邦。
+- -  1957年：帕米尔（Pamir）是一个四桅的巴尔克（Barque），在飓风嘉莉（Carrie）飓风期间被沉船并沉没了亚速尔群岛（Azores）。
+- -  1953年：朝鲜飞行员库姆 - 苏克（Kum-Sok）中尉与他的喷气式战斗机陷入韩国。
+- -  1942年：波音B-29 Superfortress进行了处女飞行。
+- -  1942年：波兰的大屠杀：德国人Yom Kippur的尽头，命令犹太人从Konstantynów永久移动到BiałaPodlaska。
+- -  1942年：乌克兰的大屠杀：纳粹乌克兰的杜纳夫西谋杀案2,588个犹太人。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-09-20 01:37:41 UTC）*
+*（更新于: 2025-09-21 01:49:12 UTC）*
