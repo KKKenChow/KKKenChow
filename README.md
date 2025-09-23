@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Anura Kumara Dissanayake is elected as the 9th President Of Sri Lanka.
-- 2013: At least 75 people are killed in a suicide bombing at a Christian church in Peshawar, Pakistan.
-- 2006: Twenty-three people were killed in a maglev train collision in Lathen, Germany.
-- 1995: The Nagerkovil school bombing is carried out by the Sri Lanka Air Force in which at least 34 die, most of them ethnic Tamil schoolchildren.
-- 1995: An E-3B AWACS crashes outside Elmendorf Air Force Base, Alaska after multiple bird strikes to two of the four engines soon after takeoff; all 24 on board are killed.
-- 1993: A Transair Georgian Airlines Tu-154 is shot down by a missile in Sukhumi, Georgia.
-- 1993: A barge strikes a railroad bridge near Mobile, Alabama, causing the deadliest train wreck in Amtrak history. Forty-seven passengers are killed.
-- 1991: The Dead Sea Scrolls are made available to the public for the first time.
-- 1981: During a military exercise, a Turkish Air Force Northrop F-5 crashes in Babaeski as a result of pilot error, killing one crew member and also 65 soldiers on the ground.
-- 1980: Iraq invades Iran, sparking the nearly eight year Iran-Iraq War.
-- 1979: A bright flash, resembling the detonation of a nuclear weapon, is observed near the Prince Edward Islands. Its cause is never determined.
-- 1976: Red Dye No. 4 is banned by the US Food and Drug Administration after it is discovered that it causes tumors in the bladders of dogs.
-- 1975: Sara Jane Moore tries to assassinate U.S. President Gerald Ford, but is foiled by the Secret Service.
-- 1966: Twenty-four people are killed when Ansett-ANA Flight 149 crashes in Winton, Queensland, Australia.
-- 1965: The Indo-Pakistani War of 1965 between India and Pakistan over Kashmir ends after the United Nations calls for a ceasefire.
-- 1960: The Sudanese Republic is renamed Mali after the withdrawal of Senegal from the Mali Federation.
-- 1957: In Haiti, François Duvalier is elected president.
-- 1953: The Four Level Interchange, first stack interchange in the world opened in Los Angeles.
-- 1948: Israeli-Palestine conflict: The All-Palestine Government is established by the Arab League.
-- 1948: Gail Halvorsen officially starts parachuting candy to children as part of the Berlin Airlift.
-- 1941: The Holocaust in Ukraine: On the Jewish New Year Day, the German SS murders 6,000 Jews in Vinnytsia, Ukraine. Those are the survivors of the previous killings that took place a few days earlier in which about 24,000 Jews were executed.
-- 1939: World War II: A joint German-Soviet military parade in Brest-Litovsk is held to celebrate the successful invasion of Poland.
-- 1934: The Gresford disaster in Wales kills 266 miners and rescuers.
-- 1919: The steel strike of 1919, led by the Amalgamated Association of Iron and Steel Workers, begins in Pennsylvania before spreading across the United States.
-- 1914: A German submarine sinks three British cruisers over a seventy-minute period, killing almost 1,500 sailors.
-- 1910: The Duke of York's Picture House opens in Brighton, now the oldest continually operating cinema in Britain.
-- 1896: Queen Victoria surpasses her grandfather King George III as the longest reigning monarch in British history (later surpassed by her great-great-granddaughter Elizabeth II on 9 September 2015).
-- 1892: A locomotive shunting falls into a hole in the ground, leading to the burial of the locomotive.
-- 1891: The first hydropower plant of Finland is commissioned along the Tammerkoski rapids in Tampere, Pirkanmaa.
-- 1885: Lord Randolph Churchill makes a speech in Ulster in opposition to the Irish Home Rule movement.
+- 2024: Israel launches airstrikes against Hezbollah targets in Lebanon, killing more than 490 people.
+- 2022: Voting begins in the five-day sham annexation referendums in Russian-occupied Ukraine, leading to Russian annexation of Donetsk, Kherson, Luhansk and Zaporizhzhia oblasts.
+- 2020: A grand jury in Kentucky declines to indict three police officers for the shooting death of Breonna Taylor in a drug raid gone wrong, leading to nationwide protests in the U.S.
+- 2019: Twenty people die on the first of two days of rioting in Papua and West Papua over an alleged racist incident.
+- 2013: Twenty-five people are killed after Typhoon Usagi passes Hong Kong and China.
+- 2010: Teresa Lewis becomes the first woman to be executed by the U.S. state of Virginia since 1912, and the first woman in the state to be executed by lethal injection.
+- 2008: Matti Saari kills ten people at a school in Finland before committing suicide.
+- 2004: Over 3,000 people die in Haiti after Hurricane Jeanne produces massive flooding and mudslides.
+- 1999: Qantas Flight 1 overrun a runway in Bangkok during a storm, causing minor injuries to some passengers.
+- 1983: Gulf Air Flight 771 is destroyed by a bomb, killing all 112 people on board.
+- 1973: Argentine general election: Juan Perón returns to power in Argentina.
+- 1967: Seven people die, 46 people are injured, and more than 150 boats capsize when a squall hit Lake Michigan during Michigan's first coho salmon sport fishing season.
+- 1964: Typhoon Wilda, one of the strongest typhoons to ever strike Japan, makes landfall, causing at least 30 fatalities and sinking at least 64 ships.
+- 1962: Flying Tiger Line Flight 923, a Lockheed L-1049H Super Constellation registered as N6923C, ditched into the Atlantic Ocean killing 28 out the 76 occupants onboard. The remaining 48 were rescued six hours later.
+- 1961: U.S. President John F. Kennedy nominates African American civil rights lawyer Thurgood Marshall to the Court of Appeals for the Second Circuit, although pro-segregation Southern senators manage to delay his confirmation until September 11, 1962.
+- 1957: Little Rock schools integration crisis: President Dwight D. Eisenhower sends the 101st Airborne Division to Little Rock, Arkansas, and federalizes the Arkansas National Guard, ordering both to support the integration of Little Rock Central High School.
+- 1956: A tropical storm originating in the eastern Pacific Ocean passes into the Gulf of Mexico and is upgraded and named Hurricane Flossy just hours before striking the Gulf Coast and causing 15 deaths and an estimated USD$24.8 million in damages.
+- 1955: An all-white jury in Mississippi finds Roy Bryant and J. W. Milam not guilty in the torture-murder of 14-year-old African American boy Emmett Till.
+- 1952: After being accused of financial improprieties, Senator Richard Nixon delivers his "Checkers speech" nationwide on television and radio, defending his actions and successfully salvaging his nomination as the Republican candidate for Vice President.
+- 1951: George VI, king of the United Kingdom, has his left lung removed in an operation after a malignant tumour was found.
+- 1950: Korean War: The Battle of Hill 282 is the first US friendly-fire incident on British military personnel since World War II.
+- 1947: A magnitude 6.9 earthquake strikes South Khorasan in Iran, killing over 500 people.
+- 1942: World War II: The Matanikau action on Guadalcanal begins: U.S. Marines attack Japanese units along the Matanikau River.
+- 1932: Saudi National Day: Crown Prince (later king) Faisal of Saudi Arabia, on behalf of Ibn Saud, proclaims the unification of the Kingdom of Saudi Arabia, the current iteration of the Third Saudi State.
+- 1920: The Louisiana hurricane dissipated over Kansas after forcing around 4,500 people to evacuate and causing $1.45 million in damages.
+- 1918: World War I: The Battle of Haifa takes place in present-day Israel, part of the Ottoman Empire at that time.
+- 1913: The United Mine Workers of America launch a strike which eventually escalated into the Colorado Coalfield War.
+- 1905: Norway and Sweden sign the Karlstad Treaty, peacefully dissolving the Union between the two countries.
+- 1899: The American Asiatic Squadron destroys a Filipino battery at the Battle of Olongapo.
+- 1884: On the night of 23-24 September, the steamship Arctique runs aground near Cape Virgenes leading to the discovery of nearby placer gold, beginning the Tierra del Fuego gold rush.
 
 Data from muffinlabs
-*(Updated at: 2025-09-22 01:49:22 UTC)*
+*(Updated at: 2025-09-23 01:40:28 UTC)*
 
 # 历史上的今天 
 
-- -  2024年：阿努拉·库马拉·迪斯纳亚克（Anura Kumara Dissanayake）当选为斯里兰卡的第9任总统。
-- -  2013年：在巴基斯坦白沙瓦的一座基督教教堂的自杀炸弹袭击中，至少有75人被杀。
-- -  2006年：在德国Lathen的麦格勒夫火车碰撞中被杀了23人。
-- -  1995年：纳格科维尔学校轰炸是由斯里兰卡空军进行的，其中至少有34人死亡，其中大多数是泰米尔人泰米尔人的学童。
-- -  1995年：一辆E-3B AWACS坠毁在阿拉斯加的Elmendorf空军基地外面，在起飞后不久对四个发动机中的两辆发动机中的两辆击中。船上的所有24人都被杀。
-- -  1993年：佐治亚州Sukhumi的一枚导弹击落了一家Transair Georgian Airlines TU-154。
-- -  1993年：一艘驳船袭击了阿拉巴马州莫比尔附近的一座铁路桥，导致Amtrak历史上最致命的火车残骸。四十七名乘客被杀。
-- -1991：第一次向公众提供死海卷轴。
-- -  1981年：在一次军事演习中，由于飞行员错误的结果，土耳其空军诺斯罗普F-5在巴巴斯基坠毁，杀死了一名机组人员，也杀死了65名士兵。
-- -  1980年：伊拉克入侵伊朗，引发了将近八年的伊朗 - 伊拉克战争。
-- -  1979年：在爱德华王子群岛附近观察到明亮的闪光，类似于核武器的爆炸。它的原因永远不会确定。
-- -  1976年：美国食品药品监督管理局（Un Unio No.4）被发现在狗的膀胱中引起肿瘤后，被美国食品和药物管理局禁止。
-- -  1975年：萨拉·简·摩尔（Sara Jane Moore）试图暗杀美国总统杰拉尔德·福特（Gerald Ford），但被特勤局挫败。
-- -  1966年：当Ansett-Ana 149坠毁在澳大利亚昆士兰州的温顿撞车时，有24人被杀。
-- -  1965年：联合国呼吁停火之后，印度和巴基斯坦在克什米尔结束的印度和巴基斯坦之间的印度 - 巴基斯坦战争结束了。
-- -  1960年：塞内加尔从马里联合会撤离后，苏丹共和国更名为马里。
-- -  1957年：在海地，弗朗索瓦·杜瓦利尔（FrançoisDuvalier）当选总统。
-- -  1953年：四级交换，世界上的第一个堆栈交换在洛杉矶开业。
-- -  1948年：以色列 - 巴勒斯坦冲突：全加勒斯坦政府是由阿拉伯联盟建立的。
-- -  1948年：作为柏林空运的一部分，盖尔·哈尔沃森（Gail Halvorsen）正式开始向儿童跳伞。
-- -  1941年：乌克兰的大屠杀：在犹太新年，德国党卫军在乌克兰的文尼特西亚谋杀了6,000名犹太人。这些是几天前发生的先前杀人事件的幸存者，大约有24,000名犹太人被处决。
-- -  1939年：第二次世界大战：举行了在布雷斯特 - 莱托夫斯克举行的德国苏联军事游行，以庆祝成功入侵波兰。
-- -  1934年：威尔士的格雷斯福德灾难杀死了266名矿工和救援人员。
-- -  1919年：由钢铁工人合并协会领导的1919年的钢铁罢工始于宾夕法尼亚州，然后遍及美国。
-- -  1914年：一艘德国潜艇在70分钟的时间内沉没了三名英国巡洋舰，杀死了近1,500名水手。
-- -  1910年：约克公爵的图片屋在布莱顿开业，现在是英国不断经营的最古老的电影院。
-- -  1896年：维多利亚女王超过了她的祖父乔治三世（George III），成为英国历史上最长的君主（后来在2015年9月9日她的曾曾孙女伊丽莎白二世（Elizabeth II）超越了她的曾曾孙女伊丽莎白二世）。
-- -  1892年：机车分流落入地面的一个洞中，导致机车埋葬。
-- -  1891年：芬兰的第一家水力发电厂是在皮尔坎马坦佩尔（Tampere）的Tammerkoski急流沿岸进行了委托的。
-- -  1885年：伦道夫·丘吉尔勋爵（Lord Randolph Churchill）在阿尔斯特（Ulster）反对爱尔兰家庭统治运动。
+- -  2024年：以色列对黎巴嫩的真主党目标发动了空袭，造成490多人丧生。
+- -  2022年：投票始于俄罗斯占领的乌克兰为期五天的假吞并全民公决，导致俄罗斯吞并顿涅茨克，霍森，卢汉斯克和扎波里兹希亚的持久性。
+- -  2020年：肯塔基州的一个大陪审团拒绝起诉三名警察，因为毒品袭击中枪杀了布雷娜·泰勒（Breonna Taylor）的死亡，导致美国在美国抗议
+- -  2019年：在巴布亚和西巴布亚发生骚乱的第一天，有20人死于涉嫌种族主义事件。
+- -  2013年：台风Usagi通过香港和中国后，有25人被杀。
+- -  2010年：特雷莎·刘易斯（Teresa Lewis）自1912年以来成为美国第一位由弗吉尼亚州处决的妇女，也是该州第一位被致命注射处决的妇女。
+- -  2008年：马蒂·萨里（Matti Saari）在自杀之前在芬兰的一所学校中杀死了十人。
+- -  2004年：飓风珍妮（Jeanne）造成巨大的洪水和泥石流后，超过3,000人在海地死亡。
+- -  1999年：澳航1号航班在暴风雨期间越过曼谷的一条跑道，对一些乘客造成轻伤。
+- -  1983年：海湾航空771被炸弹摧毁，杀死了船上的所有112人。
+- -  1973年：阿根廷大选：胡安·佩隆（JuanPerón）返回阿根廷的权力。
+- -  1967年：当密歇根州第一个Coho鲑鱼运动钓鱼季期间，一名大危险击中密歇根湖时，有7人死亡，46人受伤，超过150艘船倾斜。
+- -  1964年：台风荒野（Wilda）是有史以来最强大的台风之一，袭击日本，登陆，造成至少30人死亡，至少下沉了64艘船。
+- -  1962年：洛克希德（Lockheed）L-1049H，登记为N6923C的洛克希德（Lockheed）L-1049H，飞行到大西洋的洛克希德（Lockheed）L-1049H，杀死了28名船上的76名乘员。六个小时后，其余48名被救出。
+- -  1961年：美国总统约翰·肯尼迪（John F. Kennedy）提名非裔美国人民权律师瑟古德·马歇尔（Thurgood Marshall）向第二巡回上诉法院提名，尽管南方参议员成功地将其确认延迟到1962年9月11日。
+- -  1957年：小岩石学校一体化危机：总统德怀特·D·艾森豪威尔（Dwight D. Eisenhower）将第101空降师派往阿肯色州的小石城，并联邦政府阿肯色国民警卫队（Arkansas Candledize）命令支持小石城中央高中的一体化。
+- -  1956年：一场源自东太平洋的热带风暴进入墨西哥湾，并在袭击墨西哥湾海岸并造成15人死亡和估计2480万美元的损害损失之前，被升级并命名为飓风牙线。
+- -  1955年：密西西比州的全白陪审团发现罗伊·布莱恩特（Roy Bryant）和J. W. Milam在14岁的非洲裔美国男孩艾米特（Emmett Till）的酷刑中无罪。
+- -  1952年：在被指控财务不当之后，参议员理查德·尼克松（Richard Nixon）在电视和广播中发表了他的“ Checkers演讲”，捍卫了他的行动，并成功地挽救了他作为副总统共和党候选人的提名。
+- -  1951年：联合王国国王乔治六世在发现恶性肿瘤后的手术中移走了左肺。
+- -  1950年：朝鲜战争：282山战役是自第二次世界大战以来对英国军事人员的第一次美国友好射击事件。
+- -  1947年：6.9级地震袭击了伊朗的南霍拉桑，炸死了500多人。
+- -  1942年：第二次世界大战：瓜达尔卡纳尔岛的马塔尼考（Matanikau）行动开始：美国海军陆战队沿着马塔尼考河（Matanikau River）袭击日本单位。
+- -  1932年：沙特国庆日：沙特阿拉伯的王储（后来的国王）代表伊本·沙特（Ibn Saud），宣布统一沙特阿拉伯王国，这是沙特第三个州的当前迭代。
+- -  1920年：路易斯安那州飓风在迫使4,500人撤离并造成145万美元的赔偿金后消散了堪萨斯州。
+- -  1918年：第一次世界大战：海法战役发生在当今以色列，当时是奥斯曼帝国的一部分。
+- -  1913年：美国联合矿业工人发动了一场罢工，最终升级为科罗拉多煤田战争。
+- -  1905年：挪威和瑞典签署了《卡尔斯塔德条约》，和平地解散了两国之间的联盟。
+- -  1899年：美国亚洲中队在奥隆加波战役中摧毁了菲律宾炮台。
+- -  1884年：9月23日至24日晚上，轮船北极克在维尔格尼斯角（Cape Virgenes）附近搁浅，导致附近的Placer Gold发现，开始了Tierra del Fuego Gold Rush。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-09-22 01:49:22 UTC）*
+*（更新于: 2025-09-23 01:40:28 UTC）*
