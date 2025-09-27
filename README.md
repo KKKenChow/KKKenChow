@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Hurricane Helene makes landfall in Perry, Florida as a Category 4 hurricane, killing over 250 people, causing US$78.7 billion in damage and becoming the deadliest hurricane in the mainland United States since Katrina.
-- 2022: A mass shooting occurs at a school in Izhevsk, Udmurtia, Russia, resulting in the deaths of 18 people, including 11 children.
-- 2014: A mass kidnapping occurs in Iguala, Mexico.
-- 2010: The Philippine Bar exam bombing occurred near the De La Salle University in Taft Avenue, Manila injuring 47 people.
-- 2009: Typhoon Ketsana hits the Philippines, China, Vietnam, Cambodia, Laos and Thailand, causing 700 fatalities.
-- 2002: The overcrowded Senegalese ferry, MV Le Joola, capsizes off the coast of the Gambia killing more than 1,000.
-- 2000: The MS Express Samina sinks off Paros in the Aegean Sea killing 80 passengers.
-- 2000: Anti-globalization protests in Prague (some 20,000 protesters) turn violent during the IMF and World Bank summits.
-- 1997: An earthquake strikes the Italian regions of Umbria and the Marche, causing part of the Basilica of St. Francis at Assisi to collapse.
-- 1997: A Garuda Indonesia Airbus A300 crashes near Medan airport, killing 234.
-- 1994: A Yakovlev Yak-40 crashes into a river near Vanavara, Russia, killing 24.
-- 1992: A Nigerian Air Force Lockheed C-130 Hercules crashes in Ejigbo, Lagos, killing 159.
-- 1984: The United Kingdom and China agree to a transfer of sovereignty over Hong Kong, to take place in 1997.
-- 1983: Soyuz 7K-ST No. 16L, intended to launch a crew to the Salyut 7 space station, explodes on the launch pad. The launch escape system is activated before the Soyuz-U rocket explodes, saving the crew.
-- 1983: Soviet Air Force officer Stanislav Petrov identifies a report of an incoming nuclear missile as a computer error and not an American first strike, thus preventing nuclear war.
-- 1980: A terrorist bombing at the Oktoberfest in Munich, Germany, kills 13 people and injures 213 others.
-- 1978: Air Caribbean Flight 309 crashes in Residencial Las Casas in San Juan, Puerto Rico, killing six.
-- 1960: In Chicago, the first televised debate takes place between presidential candidates Richard M. Nixon and John F. Kennedy.
-- 1959: Typhoon Vera, the strongest typhoon to hit Japan in recorded history, makes landfall, killing 4,580 people and leaving nearly 1.6 million others homeless.
-- 1954: The Japanese rail ferry Tōya Maru sinks during a typhoon in the Tsugaru Strait, Japan, killing 1,172.
-- 1953: Rationing of sugar in the United Kingdom ends.
-- 1950: Korean War: United Nations troops recapture Seoul from North Korean forces.
-- 1942: Holocaust: Senior SS official August Frank issues a memorandum detailing how Jews should be "evacuated".
-- 1936: Spanish Civil War: Lluis Companys reshuffles the Generalitat de Catalunya, with the marxist POUM and anarcho-syndicalist CNT joining the government.
-- 1933: As gangster Machine Gun Kelly surrenders to the FBI, he shouts out, "Don't shoot, G-Men!", which becomes a nickname for FBI agents.
-- 1923: The German government calls off the passive resistance to the French and Belgian occupation of the Ruhr.
-- 1918: World War I: The Meuse-Argonne Offensive began which would last until the total surrender of German forces.
-- 1917: World War I: The Battle of Polygon Wood begins.
-- 1914: The United States Federal Trade Commission is established by the Federal Trade Commission Act.
-- 1907: Four months after the 1907 Imperial Conference, New Zealand and Newfoundland are promoted from colonies to dominions within the British Empire.
+- 2020: Second Nagorno-Karabakh War: Azerbaijan launches an offensive against the self-proclaimed Republic of Artsakh in the Nagorno-Karabakh region, inhabited predominantly by ethnic Armenians.
+- 2019: Over two million people participated in worldwide strikes to protest climate change across 2,400 locations worldwide.
+- 2014: 63 people are killed in an eruption of Mount Ontake in Japan.
+- 2012: In Minneapolis, a gunman shoots seven citizens, killing five and then himself.
+- 2008: CNSA astronaut Zhai Zhigang becomes the first Chinese person to perform a spacewalk.
+- 2007: NASA launches the Dawn probe to the asteroid belt.
+- 2003: The SMART-1 satellite is launched.
+- 2001: In Switzerland, a gunman shoots 18 citizens, killing 14 and then himself.
+- 1998: The Google internet search engine retroactively claims this date as its birthday.
+- 1996: Confusion on a tanker ship results in the Julie N oil spill in Portland, Maine.
+- 1996: The Battle of Kabul ends in a Taliban victory; an Islamic Emirate of Afghanistan is established.
+- 1993: The Sukhumi massacre takes place in Abkhazia.
+- 1992: Palestinian prisoners went on a 15-day hunger strike.
+- 1988: The National League for Democracy is formed by Aung San Suu Kyi and others to fight dictatorship in Myanmar.
+- 1977: Japan Airlines Flight 715 crashes on approach to Sultan Abdul Aziz Shah Airport in Subang, Malaysia, killing 34 of the 79 people on board.
+- 1975: The last use of capital punishment in Spain sparks worldwide protests.
+- 1973: Texas International Airlines Flight 655 crashes into the Black Fork Mountain Wilderness near Mena, Arkansas, killing all 11 people on board.
+- 1964: The British TSR-2 aircraft XR219 makes its maiden flight.
+- 1962: Rachel Carson's book Silent Spring is published, inspiring an environmental movement and the creation of the U.S. Environmental Protection Agency.
+- 1962: The Yemen Arab Republic is established.
+- 1959: Typhoon Vera kills nearly 5,000 people in Japan.
+- 1956: USAF Captain Milburn G. Apt becomes the first person to exceed Mach 3. Shortly thereafter, the Bell X-2 goes out of control and Captain Apt is killed.
+- 1949: Zeng Liansong's design is chosen as the flag of the People's Republic of China.
+- 1944: World War II: The Kassel Mission results in the largest loss by a USAAF group on any mission during the war.
+- 1942: World War II: Last day of the Matanikau action on Guadalcanal as United States Marines barely escape after being surrounded by Japanese forces.
+- 1941: The SS Patrick Henry is launched, becoming the first of more than 2,700 Liberty ships.
+- 1941: World War II: The Greek National Liberation Front is established with Georgios Siantos as acting leader.
+- 1940: World War II: The Tripartite Pact is signed in Berlin by Germany, Japan and Italy.
+- 1938: The ocean liner Queen Elizabeth is launched in Glasgow.
+- 1930: Bobby Jones wins the (pre-Masters) Grand Slam of golf.
 
 Data from muffinlabs
-*(Updated at: 2025-09-26 01:41:47 UTC)*
+*(Updated at: 2025-09-27 01:37:33 UTC)*
 
 # 历史上的今天 
 
-- -  2024年：海伦飓风在佛罗里达州的佩里登陆为4级飓风，造成250多人丧生，造成787亿美元的损失，并成为自卡特里娜飓风以来大陆上最致命的飓风。
-- -  2022年：大规模枪击发生在俄罗斯Udmurtia的Izhevsk的一所学校，导致18人死亡，其中包括11名儿童。
-- -  2014年：墨西哥伊瓜拉（Iguala）发生大规模绑架。
-- -  2010年：菲律宾律师考试炸弹爆炸发生在马尼拉塔夫脱大街的德拉萨尔大学附近，炸伤47人。
-- -  2009年：台风凯萨纳（Ketsana）击中菲律宾，中国，越南，柬埔寨，老挝和泰国，造成700人死亡。
-- -  2002年：MV Le Joola的人满为患的塞内加尔渡轮倾斜了冈比亚海岸，杀死了1000多人。
-- -  2000年：MS Express Samina在爱琴海的帕罗斯（Paros）下沉，杀死了80名乘客。
-- -  2000年：在国际货币基金组织和世界银行峰会期间，布拉格（约有20,000名抗议者）在布拉格（约有20,000名抗议者）进行反全球化抗议活动。
-- -  1997年：地震袭击了翁布里亚和马尔赫的意大利地区，导致阿西西圣弗朗西斯大教堂的一部分崩溃。
-- -  1997年：印度尼西亚Airbus A300坠毁在梅丹机场附近，造成234人坠毁。
-- -  1994年：Yakovlev Yak-40坠毁在俄罗斯Vanavara附近的一条河中，杀死了24人。
-- -  1992年：尼日利亚空军洛克希德C-130大力神在拉各斯的埃吉博（Ejigbo）坠毁，杀死了159。
-- -  1984年：1997年，英国和中国同意将主权转移到香港上。
-- -  1983年：SOYUZ 7K-ST No. 16L，旨在在发射台上爆炸到Salyut 7空间站。在Soyuz-U火箭爆炸之前，激活了发射逃逸系统，从而节省了船员。
-- -  1983年：苏联空军官员斯坦尼斯拉夫·彼得罗夫（Stanislav Petrov）将传入的核导弹视为计算机错误，而不是美国的第一次罢工，从而防止了核战争。
-- -  1980年：德国慕尼黑慕尼黑啤酒节的恐怖轰炸炸死13人，炸伤213人。
-- -  1978年：加勒比航空309航班在波多黎各圣胡安的驻地拉斯卡萨斯（Las Casas）坠毁，杀死了六人。
-- -  1960年：在芝加哥，第一次电视转播的辩论是在总统候选人理查德·尼克松和约翰·肯尼迪之间进行的。
-- -  1959年：台风维拉（Vera）是在录制的历史上袭击日本的最强台风，造成登陆，造成4,580人丧生，并使近160万人无家可归。
-- -  1954年：日本铁路渡轮马鲁（TōyaMaru）在日本Tsugaru海峡的台风中下沉，杀死了1,172。
-- -  1953年：英国糖的配给结束了。
-- -  1950年：朝鲜战争：联合国军队从朝鲜部队夺回首尔。
-- -  1942年：大屠杀：SS官员August Frank发行了一份备忘录，详细介绍了犹太人应该如何“撤离”。
-- -  1936年：西班牙内战：LLUIS公司改组了Catalunya的Generalitat de Catalunya，Marxist Poum和Anarcho-Syndicalist CNT加入了政府。
-- -  1933年：当黑帮机枪凯利（Gangster Machine Gun）向联邦调查局（FBI）投降时，他大喊：“不要射击，G-Men！”，这成为联邦调查局特工的昵称。
-- -  1923年：德国政府取消了对法国和比利时对鲁尔的占领的被动抵抗。
-- -  1918年：第一次世界大战：穆斯 - 阿贡的进攻开始，这将持续到德军的总投降为止。
-- -  1917年：第一次世界大战：多边形伍德之战开始。
-- -  1914年：美国联邦贸易委员会由《联邦贸易委员会法》建立。
-- -  1907年：在1907年帝国会议之后的四个月，新西兰和纽芬兰从殖民地晋升为大英帝国内部的统治。
+- -  2020年：第二纳戈尔诺 - 卡拉巴赫战争：阿塞拜疆对纳戈尔诺 - 卡拉巴克地区的自称为阿尔萨克的自称为阿尔萨赫地区的攻势，主要由亚美尼亚人族裔居住。
+- -  2019年：超过200万人参加了全世界的罢工，以抗议全球2400个地点的气候变化。
+- -  2014年：日本的山上山爆发中有63人被杀。
+- -  2012年：在明尼阿波利斯，一名枪手射击了七名公民，杀死了五名，然后杀死了他。
+- -  2008年：CNSA宇航员Zhai Zhigang成为第一个进行太空行走的中国人。
+- -  2007年：NASA向小行星带发射了黎明探测器。
+- -2003：SMART-1卫星已启动。
+- -  2001年：在瑞士，一名枪手射击18名公民，杀死14人，然后杀死他本人。
+- -  1998年：Google Internet搜索引擎追溯地声称该日期是其生日。
+- -  1996年：油轮船上的混乱导致缅因州波特兰的朱莉N漏油事件。
+- -  1996年：喀布尔战役以塔利班的胜利结束；建立了一个阿富汗的伊斯兰酋长国。
+- -  1993年：Sukhumi大屠杀发生在阿布哈兹。
+- -  1992年：巴勒斯坦囚犯进行了15天的绝食。
+- -  1988年：国家民主联盟由昂山·基伊（Aung San Suu Kyi）和其他人组成，以与缅甸的独裁统治作斗争。
+- -  1977年：日本航空公司715航班在马来西亚Subang的苏丹Abdul Aziz Shah机场撞车时坠毁，杀死了船上79人中的34人。
+- -  1975年：西班牙的最后使用死刑在全球范围内引发抗议活动。
+- -  1973年：德克萨斯州国际航空公司655航班撞上阿肯色州梅纳附近的黑叉山荒野，杀死了所有11人。
+- -  1964年：英国TSR-2飞机XR219进行了处女飞行。
+- -  1962年：雷切尔·卡森（Rachel Carson）的书《寂静的春天》（Silent Spring）出版，启发了环境运动和美国环境保护局的创建。
+- -  1962年：也门阿拉伯共和国建立了。
+- -  1959年：台风维拉在日本杀死了近5,000人。
+- -  1956年：美国空军上尉Milburn G. Apt成为第一个超过3马赫的人。此后不久，贝尔X-2失控了，APT上尉被杀。
+- -  1949年：Zeng Liansong的设计被选为中华人民共和国的旗帜。
+- -  1944年：第二次世界大战：Kassel任务在战争期间因任何任务而造成了USAAF集团的最大损失。
+- -  1942年：第二次世界大战：Matanikau对瓜达尔卡纳尔岛行动的最后一天，在被日军包围后，美国海军陆战队几乎没有逃脱。
+- -  1941年：党卫军帕特里克·亨利（Patrick Henry）被推出，成为2700多艘自由船中的第一个。
+- -  1941年：第二次世界大战：希腊民族解放阵线是由乔治斯·西安托斯（Georgios Siantos）作为代理领袖建立的。
+- -  1940年：第二次世界大战：三方公约由德国，日本和意大利在柏林签署。
+- -  1938年：伊丽莎白女王伊丽莎白是在格拉斯哥推出的。
+- -  1930年：鲍比·琼斯（Bobby Jones）赢得了高尔夫球（Masters）的大满贯。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-09-26 01:41:47 UTC）*
+*（更新于: 2025-09-27 01:37:33 UTC）*
