@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2011: In the Mekong River massacre, two Chinese cargo boats are hijacked and 13 crew members murdered.
-- 2000: Mass demonstrations in Serbia force the resignation of Slobodan Milošević.
-- 1999: The Ladbroke Grove rail crash in West London kills 31 people.
-- 1994: Swiss police find the bodies of 48 members of the Order of the Solar Temple, who had died in a cult mass murder-suicide.
-- 1991: An Indonesian Air Force C-130 crash kills 135 people.
-- 1990: After 150 years The Herald newspaper in Melbourne, Australia, is published for the last time as a separate newspaper.
-- 1988: A Chilean opposition coalition defeats Augusto Pinochet in his re-election attempt.
-- 1986: Mordechai Vanunu's story in The Sunday Times reveals Israel's secret nuclear weapons.
-- 1984: Marc Garneau becomes the first Canadian in space.
-- 1982: Tylenol products are recalled after bottles in Chicago laced with cyanide cause seven deaths.
-- 1974: Bombs planted by the PIRA in pubs in Guildford kill four British soldiers and one civilian.
-- 1970: The British Trade Commissioner, James Cross, is kidnapped by members of the Front de libération du Québec, triggering the October Crisis in Canada.
-- 1970: The Public Broadcasting Service (PBS) is founded.
-- 1968: A Northern Ireland Civil Rights Association march in Derry is violently suppressed by police.
-- 1966: A reactor at the Enrico Fermi Nuclear Generating Station near Detroit suffers a partial meltdown.
-- 1963: The United States suspends the Commercial Import Program in response to repression of the Buddhist majority by the regime of President Ngo Dinh Diem.
-- 1962: The first Beatles single "Love Me Do" is released in Britain.
-- 1962: The first of the James Bond film series, based on the novels by Ian Fleming, Dr. No, is released in Britain.
-- 1947: President Truman makes the first televised Oval Office address.
-- 1945: A six-month strike by Hollywood set decorators turns into a bloody riot at the gates of the Warner Brothers studio.
-- 1944: The Provisional Government of the French Republic enfranchises women.
-- 1943: World War II: Pacific Theater: Ninety-eight American POWs are executed by Japanese forces on Wake Island.
-- 1938: Holocaust: In Nazi Germany, Jews' passports are invalidated.
-- 1936: The Jarrow March sets off for London.
-- 1931: Clyde Edward Pangborn and Hugh Herndon,Jr. make the first nonstop flight across the Pacific Ocean in the plane Miss Veedol.
-- 1930: British airship R101 crashes in France en route to India on its maiden voyage killing 48 people.
-- 1921: The World Series is the first to be broadcast on radio.
-- 1914: World War I: An aircraft successfully destroys another aircraft with gunfire for the first time.
-- 1911: The Kowloon-Canton Railway commences service.
-- 1910: In a revolution in Portugal the monarchy is overthrown and a republic is declared.
+- 2022: Annie Ernaux is awarded the Nobel Prize in Literature.
+- 2018: The United States Senate confirms Brett Kavanaugh as a Supreme Court Associate Justice, ending a contentious confirmation process.
+- 2010: Instagram, a mainstream photo-sharing application, is founded.
+- 2007: Jason Lewis completes the first human-powered circumnavigation of the Earth.
+- 1995: The first planet orbiting another sun, 51 Pegasi b, is discovered.
+- 1990: Space Shuttle Discovery is launched on STS-41, and deploys the Ulysses space probe to study the Sun's polar regions.
+- 1987: Fiji becomes a republic.
+- 1985: Police constable Keith Blakelock is murdered as riots erupt in the Broadwater Farm suburb of London.
+- 1981: NLM CityHopper Flight 431 crashes in Moerdijk after taking off from Rotterdam The Hague Airport in the Netherlands, killing all 17 people on board.
+- 1981: Egyptian President Anwar Sadat is murdered by Islamic extremists.
+- 1979: Pope John Paul II becomes the first pontiff to visit the White House.
+- 1977: The first prototype of the Mikoyan MiG-29, designated 9-01, makes its maiden flight.
+- 1976: Dozens are killed by Thai police and right-wing paramilitaries in the Thammasat University massacre; afterwards, the Seni Pramoj government is toppled in a military coup led by Sangad Chaloryu.
+- 1976: Premier Hua Guofeng arrests the Gang of Four, ending the Cultural Revolution in China.
+- 1976: Cubana de Aviación Flight 455 is destroyed by two bombs, placed on board by an anti-Castro militant group.
+- 1973: Egypt and Syria launch coordinated attacks against Israel, beginning the Yom Kippur War.
+- 1944: World War II: Units of the 1st Czechoslovak Army Corps enter Czechoslovakia during the Battle of the Dukla Pass.
+- 1943: World War II: Thirteen civilians are burnt alive by a paramilitary group in Crete during the Nazi occupation of Greece.
+- 1942: World War II: American troops force the Japanese from their positions east of the Matanikau River during the Battle of Guadalcanal.
+- 1939: World War II: The Battle of Kock is the final combat of the September Campaign in Poland.
+- 1934: Revolution of 1934: The President of the autonomous government of Catalonia, Lluís Companys, proclaims the Catalan State with the support of the Worker's Alliance.
+- 1927: Opening of The Jazz Singer, the first prominent "talkie" movie.
+- 1923: The Turkish National Movement enters Constantinople.
+- 1920: Ukrainian War of Independence: The Starobilsk agreement is signed by representatives of the Ukrainian Soviet Socialist Republic and the Makhnovshchina.
+- 1915: World War I: Entente forces land in Thessaloniki, to open the Macedonian front against the Central Powers.
+- 1915: World War I: Combined Austro-Hungarian and German Central Powers, reinforced by the recently joined Bulgaria launched a new offensive against Serbia under command of August von Mackensen .
+- 1910: Eleftherios Venizelos is elected Prime Minister of Greece for the first of seven times.
+- 1908: The Bosnian crisis erupts when Austria-Hungary formally annexes Bosnia and Herzegovina.
+- 1903: The High Court of Australia sits for the first time.
+- 1898: Phi Mu Alpha Sinfonia, the largest American music fraternity, is founded at the New England Conservatory of Music.
 
 Data from muffinlabs
-*(Updated at: 2025-10-05 01:49:36 UTC)*
+*(Updated at: 2025-10-06 01:42:48 UTC)*
 
 # 历史上的今天 
 
-- -  2011年：在湄公河大屠杀中，两艘中国货船被劫持，13名船员被谋杀。
-- -  2000年：塞尔维亚强加的大规模示威活动辞职。
-- -  1999年：西伦敦的拉德布罗克树林撞车事故杀死了31人。
-- -  1994年：瑞士警察发现了48位太阳能寺庙成员的尸体，他们死于一个邪教的大规模谋杀自杀。
-- -  1991年：印尼空军C-130撞车事故造成135人丧生。
-- -  1990年：150年后，澳大利亚墨尔本的《先驱报》上次出版作为单独的报纸。
-- -  1988年：智利反对派联盟在连任企图中击败了奥古斯托·皮诺切特（Augusto Pinochet）。
-- -  1986年：《星期日泰晤士报》在《星期日泰晤士报》上的故事揭示了以色列的秘密核武器。
-- -  1984年：马克·加诺（Marc Garneau）成为太空中的第一个加拿大人。
-- -  1982年：在芝加哥与氰化物系列的瓶子造成7人死亡后，对泰诺产物进行了召回。
-- -  1974年：皮拉（Pira）在吉尔福德（Guildford）的酒吧种植的炸弹杀死了四名英国士兵和一名平民。
-- -  1970年：英国贸易专员詹姆斯·克罗斯（James Cross）被魁北克省前部的成员绑架，引发了加拿大十月的危机。
-- -  1970年：建立了公共广播服务（PBS）。
-- -  1968年：北爱尔兰民权协会在德里（Derry）游行被警察猛烈压制。
-- -  1966年：底特律附近的Enrico Fermi核发电站的反应堆遭受了部分崩溃。
-- -  1963年：美国通过非政府组织DINH DIEM政权镇压佛教多数派，暂停了商业进口计划。
-- -  1962年：第一张甲壳虫乐队单曲“ Love Me Do”在英国发行。
-- -  1962年：根据伊恩·弗莱明（Ian Fleming）的小说，诺·诺（No Dr. No）的小说是在英国发行的。
-- -  1947年：杜鲁门总统发表了第一个电视转播的椭圆形办公室地址。
-- -  1945年：好莱坞布景装饰商的六个月罢工在华纳兄弟工作室的大门中变成了血腥的骚乱。
-- -  1944年：法兰西共和国的临时政府占领了妇女。
-- -  1943年：第二次世界大战：太平洋剧院：九十八名美国战俘由威克岛的日军执行。
-- -  1938年：大屠杀：在纳粹德国，犹太人的护照无效。
-- -  1936年：贾罗（Jarrow March）出发前往伦敦。
-- -  1931年：克莱德·爱德华·庞格（Clyde Edward Pangborn）和休·赫恩登（Hugh Herndon）在飞机上的第一次不间断的飞行中，维多尔小姐。
-- -  1930年：英国飞艇R101在法国坠毁，在其处女航行中杀死48人。
-- -  1921年：世界大赛是第一个在广播中播放的人。
-- -  1914年：第一次世界大战：一架飞机首次成功用枪声摧毁了另一架飞机。
-- -  1911年：九龙 - 坎顿铁路开始服务。
-- -  1910年：在葡萄牙的一场革命中，君主制被推翻，并宣布共和国。
+- -2022：安妮·厄纳（Annie Ernaux）被授予诺贝尔文学奖。
+- -  2018年：美国参议院确认布雷特·卡瓦诺（Brett Kavanaugh）为最高法院副法官，结束了有争议的确认程序。
+- -  2010年：Instagram是主流照片共享应用程序。
+- -  2007年：杰森·刘易斯（Jason Lewis）完成了地球上第一个人类驱动的环游。
+- -  1995年：发现了第一个绕着另一个太阳51 Pegasi B的行星。
+- -  1990年：航天飞机发现是在STS-41上启动的，并部署了尤利西斯航天器探测器来研究太阳的极地地区。
+- -  1987年：斐济成为共和国。
+- -  1985年：警察警员基思·布拉克洛克（Keith Blakelock）被谋杀，随着伦敦的布罗德沃特农场郊区爆发暴动。
+- -  1981年：NLM CityHopper 431航班从荷兰的鹿特丹起飞后在Moerdijk撞车，炸死了所有17人。
+- -  1981年：埃及总统安瓦尔·萨达特（Anwar Sadat）被伊斯兰极端分子谋杀。
+- -  1979年：教皇约翰·保罗二世成为第一个参观白宫的教皇。
+- -  1977年：指定为9-01的Mikoyan Mig-29的第一个原型进行了处女作。
+- -  1976年：在塔马萨特大学大屠杀中，数十名被泰国警察和右翼准军事人员杀害；之后，Seni Pramoj政府以由Sangad Chaloryu领导的军事政变推翻了。
+- -  1976年：首屈一指的华·戈芬（Wua Guofeng）逮捕了四人一组，结束了中国的文化大革命。
+- -  1976年：CubanadeAviación航班455被两枚炸弹摧毁，由一个反卡斯特罗武装组织放置在船上。
+- -  1973年：埃及和叙利亚开始对以色列的协调攻击，开始了赎罪日战争。
+- -  1944年：第二次世界大战：第一捷克斯洛伐克军队的单位在杜克拉山口战中进入捷克斯洛伐克。
+- -  1943年：第二次世界大战：纳粹占领希腊期间，克里特岛的准军事团体烧毁了十三名平民。
+- -  1942年：第二次世界大战：美军在瓜达尔卡纳尔战役期间将日本人从马塔尼考河以东的位置迫使日本人。
+- -  1939年：第二次世界大战：库克战役是9月在波兰战役的最后战斗。
+- -  1934年：1934年的革命：加泰罗尼亚自治政府的总统莱卢斯（Lluís）公司在工人联盟的支持下宣布加泰罗尼亚国家。
+- -  1927年：爵士歌手的开幕，这是第一部著名的“谈话”电影。
+- -  1923年：土耳其民族运动进入君士坦丁堡。
+- -  1920年：乌克兰独立战争：《星际博览会协议》由乌克兰苏联社会主义共和国和Makhnovshchina的代表签署。
+- -  1915年：第一次世界大战：塞塔洛尼基（Thessaloniki）的共同武力打开马其顿阵线对中央大国。
+- -  1915年：第一次世界大战：由最近加入的保加利亚加强的奥匈帝国和德国中央大国，在奥古斯特·冯·麦肯森（August von Mackensen）的指挥下发动了针对塞尔维亚的新进攻。
+- -  1910年：Eleftherios Venizelos在七次中当选为希腊总理。
+- -  1908年：当奥地利 - 匈牙利正式吞并波斯尼亚和黑塞哥维那时，波斯尼亚危机爆发。
+- -  1903年：澳大利亚高等法院首次坐。
+- -  1898年：美国最大的音乐兄弟会Phi Mu Alpha Sinfonia建立在新英格兰音乐学院。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-10-05 01:49:36 UTC）*
+*（更新于: 2025-10-06 01:42:48 UTC）*
