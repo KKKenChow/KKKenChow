@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Annie Ernaux is awarded the Nobel Prize in Literature.
-- 2018: The United States Senate confirms Brett Kavanaugh as a Supreme Court Associate Justice, ending a contentious confirmation process.
-- 2010: Instagram, a mainstream photo-sharing application, is founded.
-- 2007: Jason Lewis completes the first human-powered circumnavigation of the Earth.
-- 1995: The first planet orbiting another sun, 51 Pegasi b, is discovered.
-- 1990: Space Shuttle Discovery is launched on STS-41, and deploys the Ulysses space probe to study the Sun's polar regions.
-- 1987: Fiji becomes a republic.
-- 1985: Police constable Keith Blakelock is murdered as riots erupt in the Broadwater Farm suburb of London.
-- 1981: NLM CityHopper Flight 431 crashes in Moerdijk after taking off from Rotterdam The Hague Airport in the Netherlands, killing all 17 people on board.
-- 1981: Egyptian President Anwar Sadat is murdered by Islamic extremists.
-- 1979: Pope John Paul II becomes the first pontiff to visit the White House.
-- 1977: The first prototype of the Mikoyan MiG-29, designated 9-01, makes its maiden flight.
-- 1976: Dozens are killed by Thai police and right-wing paramilitaries in the Thammasat University massacre; afterwards, the Seni Pramoj government is toppled in a military coup led by Sangad Chaloryu.
-- 1976: Premier Hua Guofeng arrests the Gang of Four, ending the Cultural Revolution in China.
-- 1976: Cubana de Aviación Flight 455 is destroyed by two bombs, placed on board by an anti-Castro militant group.
-- 1973: Egypt and Syria launch coordinated attacks against Israel, beginning the Yom Kippur War.
-- 1944: World War II: Units of the 1st Czechoslovak Army Corps enter Czechoslovakia during the Battle of the Dukla Pass.
-- 1943: World War II: Thirteen civilians are burnt alive by a paramilitary group in Crete during the Nazi occupation of Greece.
-- 1942: World War II: American troops force the Japanese from their positions east of the Matanikau River during the Battle of Guadalcanal.
-- 1939: World War II: The Battle of Kock is the final combat of the September Campaign in Poland.
-- 1934: Revolution of 1934: The President of the autonomous government of Catalonia, Lluís Companys, proclaims the Catalan State with the support of the Worker's Alliance.
-- 1927: Opening of The Jazz Singer, the first prominent "talkie" movie.
-- 1923: The Turkish National Movement enters Constantinople.
-- 1920: Ukrainian War of Independence: The Starobilsk agreement is signed by representatives of the Ukrainian Soviet Socialist Republic and the Makhnovshchina.
-- 1915: World War I: Entente forces land in Thessaloniki, to open the Macedonian front against the Central Powers.
-- 1915: World War I: Combined Austro-Hungarian and German Central Powers, reinforced by the recently joined Bulgaria launched a new offensive against Serbia under command of August von Mackensen .
-- 1910: Eleftherios Venizelos is elected Prime Minister of Greece for the first of seven times.
-- 1908: The Bosnian crisis erupts when Austria-Hungary formally annexes Bosnia and Herzegovina.
-- 1903: The High Court of Australia sits for the first time.
-- 1898: Phi Mu Alpha Sinfonia, the largest American music fraternity, is founded at the New England Conservatory of Music.
+- 2023: Hamas and several other Palestinian militant groups launch an attack into Israel, which results in the deaths of around 1,200, mostly civilians, and taking more than 240 hostages, including civilians and soldiers. The attack initiated the Gaza war and the larger Middle Eastern crisis.
+- 2022: Ales Bialiatski, along with two organisations, Memorial & Center for Civil Liberties, are awarded the Nobel Peace Prize.
+- 2022: 10 people die and 8 are injured in an explosion at petrol station in Creeslough.
+- 2016: In the wake of Hurricane Matthew, the death toll rises to over 800.
+- 2008: Qantas Flight 72 experiences an in-flight upset near Learmonth, Victoria, Australia, injuring 112.
+- 2008: Asteroid 2008 TC3 impacts the Earth over Sudan, the first time an asteroid impact is detected prior to its entry into Earth's atmosphere.
+- 2004: Three bombs explode at Taba and Nuweiba in the Sinai Peninsula, Egypt, killing 34.
+- 2002: The Space Shuttle Atlantis launches on STS-112 to continue assembly of the International Space Station.
+- 2001: The U.S. invasion of Afghanistan begins with an air assault and covert operations on the ground, starting the longest war in American history.
+- 2000: Israeli-Palestinian conflict: Hezbollah militants capture three Israeli Defense Force soldiers in a cross-border raid.
+- 1998: Matthew Shepard, a gay student at the University of Wyoming, is found tied to a fence after being savagely beaten by two young adults in Laramie, Wyoming. He dies five days later.
+- 1996: Fox News Channel begins broadcasting.
+- 1993: The flood of '93 ends at St. Louis, Missouri, 103 days after it began, as the Mississippi River falls below flood stage.
+- 1991: Croatian War of Independence: Bombing of the Banski Dvori in Zagreb, Croatia.
+- 1988: A hunter discovers three gray whales trapped under the ice near Alaska; the situation becomes a multinational effort to free the whales.
+- 1987: Sikh nationalists declare the independence of Khalistan from India; it is not internationally recognized.
+- 1985: Four men from the Palestine Liberation Front hijack the MS Achille Lauro off the coast of Egypt.
+- 1985: The Mameyes landslide kills almost 200 people in Puerto Rico.
+- 1979: Swissair Flight 316 crashes at Ellinikon International Airport in Athens, Greece, killing 14.
+- 1978: Aeroflot Flight 1080 crashes after takeoff from Koltsovo International Airport, killing 38.
+- 1977: The Fourth Soviet Constitution is adopted.
+- 1963: Buddhist crisis: Amid worsening relations, outspoken South Vietnamese First Lady Madame Ngo Dinh Nhu arrives in the US for a speaking tour, continuing a flurry of attacks on the Kennedy administration.
+- 1963: President Kennedy signs the ratification of the Partial Nuclear Test Ban Treaty.
+- 1961: A Douglas Dakota IV operated by Derby Aviation (later renamed to British Midland International) crashes in Canigou, France, killing 34 people.
+- 1959: The Soviet probe Luna 3 transmits the first-ever photographs of the far side of the Moon.
+- 1958: The U.S. crewed space-flight project is renamed to Project Mercury.
+- 1958: The 1958 Pakistani coup d'état inaugurates a prolonged period of military rule.
+- 1950: Mother Teresa establishes the Missionaries of Charity.
+- 1949: The communist German Democratic Republic (East Germany) is formed.
+- 1944: World War II: The Sonderkommando Revolt in Auschwitz was an uprising of prisoners (especially the Sonderkommando) at the Auschwitz concentration camp, they burnt down Crematorium IV.
 
 Data from muffinlabs
-*(Updated at: 2025-10-06 01:42:48 UTC)*
+*(Updated at: 2025-10-07 01:40:37 UTC)*
 
 # 历史上的今天 
 
-- -2022：安妮·厄纳（Annie Ernaux）被授予诺贝尔文学奖。
-- -  2018年：美国参议院确认布雷特·卡瓦诺（Brett Kavanaugh）为最高法院副法官，结束了有争议的确认程序。
-- -  2010年：Instagram是主流照片共享应用程序。
-- -  2007年：杰森·刘易斯（Jason Lewis）完成了地球上第一个人类驱动的环游。
-- -  1995年：发现了第一个绕着另一个太阳51 Pegasi B的行星。
-- -  1990年：航天飞机发现是在STS-41上启动的，并部署了尤利西斯航天器探测器来研究太阳的极地地区。
-- -  1987年：斐济成为共和国。
-- -  1985年：警察警员基思·布拉克洛克（Keith Blakelock）被谋杀，随着伦敦的布罗德沃特农场郊区爆发暴动。
-- -  1981年：NLM CityHopper 431航班从荷兰的鹿特丹起飞后在Moerdijk撞车，炸死了所有17人。
-- -  1981年：埃及总统安瓦尔·萨达特（Anwar Sadat）被伊斯兰极端分子谋杀。
-- -  1979年：教皇约翰·保罗二世成为第一个参观白宫的教皇。
-- -  1977年：指定为9-01的Mikoyan Mig-29的第一个原型进行了处女作。
-- -  1976年：在塔马萨特大学大屠杀中，数十名被泰国警察和右翼准军事人员杀害；之后，Seni Pramoj政府以由Sangad Chaloryu领导的军事政变推翻了。
-- -  1976年：首屈一指的华·戈芬（Wua Guofeng）逮捕了四人一组，结束了中国的文化大革命。
-- -  1976年：CubanadeAviación航班455被两枚炸弹摧毁，由一个反卡斯特罗武装组织放置在船上。
-- -  1973年：埃及和叙利亚开始对以色列的协调攻击，开始了赎罪日战争。
-- -  1944年：第二次世界大战：第一捷克斯洛伐克军队的单位在杜克拉山口战中进入捷克斯洛伐克。
-- -  1943年：第二次世界大战：纳粹占领希腊期间，克里特岛的准军事团体烧毁了十三名平民。
-- -  1942年：第二次世界大战：美军在瓜达尔卡纳尔战役期间将日本人从马塔尼考河以东的位置迫使日本人。
-- -  1939年：第二次世界大战：库克战役是9月在波兰战役的最后战斗。
-- -  1934年：1934年的革命：加泰罗尼亚自治政府的总统莱卢斯（Lluís）公司在工人联盟的支持下宣布加泰罗尼亚国家。
-- -  1927年：爵士歌手的开幕，这是第一部著名的“谈话”电影。
-- -  1923年：土耳其民族运动进入君士坦丁堡。
-- -  1920年：乌克兰独立战争：《星际博览会协议》由乌克兰苏联社会主义共和国和Makhnovshchina的代表签署。
-- -  1915年：第一次世界大战：塞塔洛尼基（Thessaloniki）的共同武力打开马其顿阵线对中央大国。
-- -  1915年：第一次世界大战：由最近加入的保加利亚加强的奥匈帝国和德国中央大国，在奥古斯特·冯·麦肯森（August von Mackensen）的指挥下发动了针对塞尔维亚的新进攻。
-- -  1910年：Eleftherios Venizelos在七次中当选为希腊总理。
-- -  1908年：当奥地利 - 匈牙利正式吞并波斯尼亚和黑塞哥维那时，波斯尼亚危机爆发。
-- -  1903年：澳大利亚高等法院首次坐。
-- -  1898年：美国最大的音乐兄弟会Phi Mu Alpha Sinfonia建立在新英格兰音乐学院。
+- - 2023年：哈马斯和其他几个巴勒斯坦武装组织对以色列发动袭击，导致约1,200人死亡，其中大部分是平民，并劫持了240多名人质，其中包括平民和士兵。这次袭击引发了加沙战争和更大的中东危机。
+- - 2022 年：阿莱斯·比亚利亚茨基 (Ales Bialiatski) 与公民自由纪念中心和公民自由中心这两个组织一起荣获诺贝尔和平奖。
+- - 2022 年：克里斯洛加油站发生爆炸，造成 10 人死亡、8 人受伤。
+- - 2016 年：飓风马修过后，死亡人数上升至 800 多人。
+- - 2008 年：澳洲航空 72 号航班在澳大利亚维多利亚州利尔蒙斯附近发生飞行事故，造成 112 人受伤。
+- - 2008 年：小行星 2008 TC3 在苏丹上空撞击地球，这是小行星在进入地球大气层之前首次检测到撞击。
+- - 2004年：埃及西奈半岛塔巴和努韦巴发生三枚炸弹爆炸，造成34人死亡。
+- - 2002 年：亚特兰蒂斯号航天飞机搭乘 STS-112 升空，继续组装国际空间站。
+- - 2001年：美国入侵阿富汗，以空中袭击和地面秘密行动开始，拉开了美国历史上最长的战争的序幕。
+- - 2000 年：以色列-巴勒斯坦冲突：真主党武装分子在一次跨境袭击中俘获了三名以色列国防军士兵。
+- - 1998 年：怀俄明州大学的同性恋学生马修·谢泼德 (Matthew Shepard) 在怀俄明州拉勒米遭到两名年轻人的野蛮殴打后被发现绑在栅栏上。五天后他去世了。
+- - 1996 年：福克斯新闻频道开始播出。
+- - 1993 年：93 年洪水在开始 103 天后在密苏里州圣路易斯结束，密西西比河水位降至洪水位以下。
+- - 1991 年：克罗地亚独立战争：克罗地亚萨格勒布 Banski Dvori 爆炸事件。
+- - 1988 年：一名猎人在阿拉斯加附近的冰层下发现了三头灰鲸；情况变成了多国努力释放鲸鱼。
+- - 1987年：锡克民族主义者宣布哈利斯坦脱离印度独立；它没有得到国际认可。
+- - 1985 年：巴勒斯坦解放阵线的四名男子在埃及海岸劫持了 MS Achille Lauro 号。
+- - 1985 年：波多黎各 Mameyes 山体滑坡造成近 200 人死亡。
+- - 1979 年：瑞士航空 316 号航班在希腊雅典埃利尼康国际机场坠毁，造成 14 人死亡。
+- - 1978 年：俄罗斯航空公司 1080 号航班从科利佐沃国际机场起飞后坠毁，造成 38 人死亡。
+- - 1977年：第四部苏联宪法获得通过。
+- - 1963 年：佛教危机：在关系恶化的背景下，直言不讳的南越第一夫人吴庭如抵达美国进行巡回演讲，继续对肯尼迪政府进行一系列攻击。
+- - 1963 年：肯尼迪总统签署批准《部分禁止核试验条约》。
+- - 1961 年：德比航空公司（后更名为英国米德兰国际航空公司）运营的一架道格拉斯·达科他 IV 在法国卡尼古坠毁，造成 34 人死亡。
+- - 1959 年：苏联月球 3 号探测器发射了第一张月球背面的照片。
+- - 1958 年：美国载人航天项目更名为“水星计划”。
+- - 1958 年：1958 年巴基斯坦政变开启了长期的军事统治。
+- - 1950 年：特蕾莎修女创立仁爱传教修女会。
+- - 1949年：共产主义德意志民主共和国（东德）成立。
+- - 1944年：第二次世界大战：奥斯威辛特遣队起义是奥斯威辛集中营囚犯（特别是特遣队）的起义，他们烧毁了第四号火葬场。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-10-06 01:42:48 UTC）*
+*（更新于: 2025-10-07 01:40:37 UTC）*
