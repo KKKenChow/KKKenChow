@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Ben S. Bernanke, Douglas W. Diamond and Philip H. Dybvig are jointly awarded the Nobel Memorial Prize in Economic Sciences.
-- 2018: The National Fire and Rescue Administration is founded, replacing the China Fire Services [zh] and the People's Armed Police Forestry Corps [zh] as China's primary firefighting agency.
-- 2018: Hurricane Michael makes landfall in the Florida Panhandle as a catastrophic Category 5 hurricane. It kills 57 people in the United States, 45 in Florida, and causes an estimated $25.1 billion in damage.
-- 2015: Twin bomb blasts in the Turkish capital Ankara kill 109 and injure 500+.
-- 2010: The Netherlands Antilles are dissolved as a country.
-- 2009: Armenia and Turkey sign the Zurich Protocols, intended to normalize relations. However, they are never ratified by either side.
-- 2007: Sheikh Muszaphar Shukor becomes the first Malaysian in space on board Soyuz TMA-11.
-- 2002: Iraq War: The United States Congress approves the Authorization for Use of Military Force Against Iraq Resolution of 2002.
-- 1998: A Lignes Aériennes Congolaises jetliner is shot down by rebels in Kindu, Democratic Republic of the Congo, killing 41 people.
-- 1997: Austral Líneas Aéreas Flight 2553 crashes and explodes in Uruguay, killing 74.
-- 1986: A 5.7 Mw  San Salvador earthquake shakes El Salvador, killing 1,500.
-- 1985: US Navy aircraft intercept an Egyptian airliner carrying the perpetrators of the Achille Lauro hijacking, and force it to land in Italy.
-- 1980: The Farabundo Martí National Liberation Front is founded in El Salvador.
-- 1980: The 7.1 Mw  El Asnam earthquake shakes northern Algeria, killing 2,633 and injuring 8,369.
-- 1979: The Olkiluoto Nuclear Power Plant began operations in Eurajoki, Satakunta, Finland.
-- 1975: Papua New Guinea joins the United Nations.
-- 1973: U.S. Vice President Spiro Agnew resigns after being charged with evasion of federal income tax.
-- 1971: Aeroflot Flight 773 is destroyed by a bomb over Moscow Oblast, killing 25.
-- 1970: Canada's October Crisis escalates when Quebec Vice Premier Pierre Laporte is kidnapped by members of the Front de libération du Québec.
-- 1970: Fiji becomes independent.
-- 1969: King Crimson releases their debut album, In the Court of the Crimson King.
-- 1967: The Outer Space Treaty comes into force.
-- 1964: The Tokyo Summer Olympics opening ceremony is the first to be relayed live by satellites.
-- 1963: The Partial Nuclear Test Ban Treaty comes into effect.
-- 1963: France cedes control of the Bizerte naval base to Tunisia.
-- 1957: The Windscale fire results in Britain's worst nuclear accident.
-- 1957: U.S. President Dwight D. Eisenhower apologizes to Ghanaian finance minister Komla Agbeli Gbedemah after he is refused service in a Delaware restaurant.
-- 1954: The Minister of Foreign Affairs of the Sultanate of Muscat, Neil Innes, sends a signal to the Sultanate's forces, accompanied with oil explorers, to penetrate Fahud, marking the beginning of Jebel Akhdar War.
-- 1945: The Double Tenth Agreement is signed by the Communist Party and the Kuomintang about the future of China.
-- 1938: Abiding by the Munich Agreement, Czechoslovakia completes its withdrawal from the Sudetenland.
+- 2018: Soyuz MS-10, launching an intended crew for the ISS, suffers an in-flight abort. The crew lands safely.
+- 2013: A migrant boat sinks in the Channel of Sicily, with at least 359 people drowning.
+- 2002: A bomb attack in a Myyrmanni shopping mall in Vantaa, Finland kills seven.
+- 2001: The Polaroid Corporation files for federal bankruptcy protection.
+- 2000: NASA launches STS-92, the 100th Space Shuttle mission.
+- 1999: Air Botswana pilot Chris Phatswe steals an ATR 42 from Sir Seretse Khama International Airport and later crashes it into two other aircraft at the airport, killing himself.
+- 1991: Prof. Anita Hill delivers her televised testimony concerning sexual harassment during the Clarence Thomas Supreme Court nomination.
+- 1987: Start of Operation Pawan by Indian forces in Sri Lanka. Thousands of civilians, insurgents, soldiers die.
+- 1987: The AIDS Memorial Quilt is first displayed during the Second National March on Washington for Lesbian and Gay Rights.
+- 1986: Ronald Reagan and Mikhail Gorbachev meet in Iceland to continue discussions about scaling back IRBM arsenals in Europe.
+- 1984: Aeroflot Flight 3352 crashes into maintenance vehicles upon landing in Omsk, Russia, killing 178.
+- 1984: Aboard the Space Shuttle Challenger, astronaut Kathryn D. Sullivan becomes the first American woman to perform a space walk.
+- 1976: George Washington is posthumously promoted to the grade of General of the Armies.
+- 1968: NASA launches Apollo 7, the first successful crewed Apollo mission.
+- 1962: The Second Vatican Council becomes the first ecumenical council of the Roman Catholic Church in 92 years.
+- 1958: NASA launches Pioneer 1, its first space probe, although it fails to achieve a stable orbit.
+- 1954: In accord with the 1954 Geneva Conference, French troops complete their withdrawal from North Vietnam.
+- 1950: CBS's field-sequential color system for television is the first to be licensed for broadcast by the U.S. Federal Communications Commission.
+- 1944: The Tuvan People's Republic is annexed by the Soviet Union.
+- 1942: World War II: Off Guadalcanal, United States Navy ships intercept and defeat a Japanese force.
+- 1941: Beginning of the National Liberation War of Macedonia.
+- 1937: The Duke and Duchess of Windsor tour Nazi Germany for 12 days and meet Adolf Hitler on 22 October.
+- 1918: The 7.1 .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Mw San Fermín earthquake shakes Puerto Rico. The quake and resulting tsunami kill up to 116 people.
+- 1912: First Balkan War: The day after the Battle of Sarantaporo, Greek troops liberate the city of Kozani.
+- 1910: Piloted by Arch Hoxsey, Theodore Roosevelt becomes the first U.S. president to fly in an airplane.
+- 1906: San Francisco sparks a diplomatic crisis between the United States and Japan by ordering segregated schools for Japanese students.
+- 1899: The Second Boer War erupts in South Africa between the British-ruled Cape Colony, and the Boer-ruled Transvaal and Orange Free State.
+- 1890: In Washington, D.C., the Daughters of the American Revolution is founded.
+- 1865: Hundreds of black men and women march in Jamaica, starting the Morant Bay rebellion.
+- 1862: American Civil War: Confederate troops conduct a raid on Chambersburg, Pennsylvania.
 
 Data from muffinlabs
-*(Updated at: 2025-10-10 01:42:17 UTC)*
+*(Updated at: 2025-10-11 01:37:50 UTC)*
 
 # 历史上的今天 
 
-- - 2022 年：本·S·伯南克 (Ben S. Bernanke)、道格拉斯·W·戴蒙德 (Douglas W. Diamond) 和菲利普·H·戴布维格 (Philip H. Dybvig) 共同荣获诺贝尔经济学奖。
-- - 2018 年：国家消防救援总局成立，取代中国消防总队[zh]和武警林业总队[zh]，成为中国主要消防机构。
-- - 2018 年：飓风迈克尔在佛罗里达狭长地带登陆，为 5 级灾难性飓风。它在美国造成 57 人死亡，其中佛罗里达州有 45 人死亡，并造成估计 251 亿美元的损失。
-- - 2015 年：土耳其首都安卡拉发生两枚炸弹爆炸，造成 109 人死亡、500 多人受伤。
-- - 2010 年：荷属安的列斯群岛作为一个国家解体。
-- - 2009年：亚美尼亚和土耳其签署《苏黎世议定书》，旨在实现关系正常化。然而，它们从未得到任何一方的批准。
-- - 2007 年：Sheikh Muszaphar Shukor 成为第一位搭乘联盟号 TMA-11 进入太空的马来西亚人。
-- - 2002 年：伊拉克战争：美国国会批准 2002 年授权对伊拉克使用武力决议。
-- - 1998 年：一架刚果航空公司喷气式飞机在刚果民主共和国金杜被叛军击落，造成 41 人死亡。
-- - 1997 年：南方航空公司 2553 号航班在乌拉圭坠毁并爆炸，造成 74 人死亡。
-- - 1986 年：圣萨尔瓦多发生 5.7 Mw 地震，造成 1,500 人死亡。
-- - 1985 年：美国海军飞机拦截了一架载有阿奇莱·劳罗劫持者的埃及客机，并迫使其降落在意大利。
-- - 1980 年：法拉本多·马蒂民族解放阵线在萨尔瓦多成立。
-- - 1980 年：阿尔及利亚北部发生 7.1 Mw El Asnam 地震，造成 2,633 人死亡、8,369 人受伤。
-- - 1979 年：奥尔基洛托核电站在芬兰萨塔昆塔的 Eurajoki 开始运营。
-- - 1975 年：巴布亚新几内亚加入联合国。
-- - 1973 年：美国副总统斯皮罗·阿格纽在被指控逃税后辞职。
-- - 1971 年：俄罗斯航空公司 773 号航班在莫斯科州上空被一枚炸弹摧毁，造成 25 人死亡。
-- - 1970 年：魁北克副总理皮埃尔·拉波特被魁北克解放阵线成员绑架，加拿大十月危机升级。
-- - 1970 年：斐济独立。
-- - 1969 年：King Crimson 发行首张专辑《In the Court of the Crimson King》。
-- - 1967 年：《外层空间条约》生效。
-- - 1964年：东京夏季奥运会开幕式首次通过卫星直播。
-- - 1963年：《部分禁止核试验条约》生效。
-- - 1963 年：法国将比塞大海军基地的控制权割让给突尼斯。
-- - 1957 年：Windscale 火灾导致英国最严重的核事故。
-- - 1957 年：美国总统德怀特·D·艾森豪威尔 (Dwight D. Eisenhower) 在特拉华州一家餐厅被拒绝提供服务后，向加纳财政部长科姆拉·阿格贝利·格贝德玛 (Komla Agbeli Gbedemah) 道歉。
-- - 1954 年：马斯喀特苏丹国外交部长尼尔·英尼斯向苏丹国军队发出信号，在石油勘探者的陪同下渗透法胡德，标志着杰贝尔·阿赫达尔战争的开始。
-- - 1945年：共产党和国民党签署关于中国未来的双十协议。
-- - 1938年：捷克斯洛伐克根据《慕尼黑协定》完成从苏台德地区的撤军。
+- - 2018 年：联盟号 MS-10 计划向国际空间站发射宇航员，但在飞行中中止。机组人员安全着陆。
+- - 2013年：一艘移民船在西西里海峡沉没，至少有359人溺水。
+- - 2002 年：芬兰万塔 Myyrmanni 购物中心发生炸弹袭击，造成 7 人死亡。
+- - 2001 年：宝丽来公司申请联邦破产保护。
+- - 2000 年：NASA 发射 STS-92，这是第 100 次航天飞机任务。
+- - 1999 年：博茨瓦纳航空公司飞行员 Chris Phatswe 从塞雷茨·卡马爵士国际机场偷走了一架 ATR 42，随后将其撞向机场的另外两架飞机，导致其身亡。
+- - 1991 年：安妮塔·希尔教授在克拉伦斯·托马斯最高法院提名期间就性骚扰问题发表电视证词。
+- - 1987 年：印度军队在斯里兰卡开始实施 Pawan 行动。数以千计的平民、叛乱分子和士兵死亡。
+- - 1987 年：艾滋病纪念被子在华盛顿第二次全国男女同性恋权利大游行期间首次展出。
+- - 1986 年：罗纳德·里根和米哈伊尔·戈尔巴乔夫在冰岛会面，继续讨论削减欧洲中程弹道导弹武器库的问题。
+- - 1984 年：俄罗斯航空公司 3352 号航班在俄罗斯鄂木斯克降落时撞上维修车辆，造成 178 人死亡。
+- - 1984 年：宇航员凯瑟琳·D·沙利文 (Kathryn D. Sullivan) 登上挑战者号航天飞机，成为第一位进行太空行走的美国女性。
+- - 1976 年：乔治·华盛顿被追授为陆军上将。
+- - 1968 年：美国宇航局发射阿波罗 7 号，这是首次成功的阿波罗载人任务。
+- - 1962年：梵蒂冈第二次大公会议成为罗马天主教会92年来的第一次普世大公会议。
+- - 1958 年：美国宇航局发射了它的第一个太空探测器先锋 1 号，尽管它未能达到稳定的轨道。
+- - 1954年：根据1954年日内瓦会议，法国军队完成从北越的撤军。
+- - 1950 年：CBS 的场序制彩色电视系统是第一个获得美国联邦通信委员会广播许可的系统。
+- - 1944年：图瓦人民共和国被苏联吞并。
+- - 1942 年：第二次世界大战：瓜达尔卡纳尔岛附近，美国海军舰艇拦截并击败了一支日本军队。
+- - 1941 年：马其顿民族解放战争开始。
+- - 1937 年：温莎公爵和公爵夫人游览纳粹德国 12 天，并于 10 月 22 日会见阿道夫·希特勒。
+- - 1918 年：7.1 .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Mw San Fermín 地震震动了波多黎各。地震和引发的海啸导致多达 116 人死亡。
+- - 1912 年：第一次巴尔干战争：萨兰塔波罗战役后的第二天，希腊军队解放了科扎尼市。
+- - 1910 年：西奥多·罗斯福在阿奇·霍克西 (Arch Hoxsey) 的驾驶下成为第一位驾驶飞机的美国总统。
+- - 1906 年：旧金山下令对日本学生实行隔离学校，引发了美国和日本之间的外交危机。
+- - 1899 年：英国统治的开普殖民地与布尔统治的德兰士瓦和奥兰治自由邦之间爆发了第二次布尔战争。
+- - 1890 年：美国革命之女组织在华盛顿特区成立。
+- - 1865 年：数百名黑人男女在牙买加游行，发起莫兰特湾叛乱。
+- - 1862 年：美国内战：南方联盟军队对宾夕法尼亚州钱伯斯堡进行突袭。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-10-10 01:42:17 UTC）*
+*（更新于: 2025-10-11 01:37:50 UTC）*
