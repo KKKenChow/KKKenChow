@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: Members of Parliament met at the House of Lords to discuss the United Kingdom's Brexit deal, this was the first Saturday sitting in Parliament since 3 April 1982 during the Falklands War.
-- 2013: One hundred and five people are injured in a train crash in Buenos Aires.
-- 2012: A bomb explosion kills eight people and injures 110 more in Lebanon.
-- 2005: Hurricane Wilma becomes the most intense Atlantic hurricane on record with a minimum pressure of 882 mb.
-- 2005: Saddam Hussein goes on trial in Baghdad for crimes against humanity.
-- 2004: Thirteen people are killed when Corporate Airlines Flight 5966 crashes in Adair County, Missouri, while on approach to Kirksville Regional Airport.
-- 2003: Mother Teresa is beatified by Pope John Paul II.
-- 2001: SIEV X, an Indonesian fishing boat en route to Christmas Island, carrying over 400 migrants, sinks in international waters with the loss of 353 people.
-- 1989: The convictions of the Guildford Four are quashed by the Court of Appeal of England and Wales, after they had spent 15 years in prison.
-- 1988: The British government imposes a broadcasting ban on television and radio interviews with members of Sinn Féin and eleven Irish republican and Ulster loyalist paramilitary groups.
-- 1987: Black Monday: The Dow Jones Industrial Average falls by 22%, 508 points.
-- 1987: The United States Navy conducts Operation Nimble Archer, an attack on two Iranian oil platforms in the Persian Gulf.
-- 1986: The president of Mozambique and a prominent leader of FRELIMO, along with 33 others, die when their aircraft crashes into the Lebombo Mountains.
-- 1974: Niue becomes a self-governing colony of New Zealand.
-- 1973: President Nixon rejects an Appeals Court decision that he turn over the Watergate tapes.
-- 1960: The United States imposes a near-total trade embargo against Cuba.
-- 1956: The Soviet Union and Japan sign a Joint Declaration, officially ending the state of war between the two countries that had existed since August 1945.
-- 1955: The General Assembly of the European Broadcasting Union approves the staging of the first Eurovision Song Contest.
-- 1953: Ray Bradbury's Fahrenheit 451 is published.
-- 1950: Iran becomes the first country to accept technical assistance from the United States under the Point Four Program.
-- 1950: Korean War: The Battle of Pyongyang ends in a United Nations victory. Hours later, the Chinese Army begins crossing the border into Korea.
-- 1950: China defeats the Tibetan Army at Chambo.
-- 1944: A coup is launched against Juan Federico Ponce Vaides, beginning the ten-year Guatemalan Revolution.
-- 1944: United States forces land in the Philippines.
-- 1943: Streptomycin, the first antibiotic remedy for tuberculosis, is isolated by researchers at Rutgers University.
-- 1943: The cargo vessel Sinfra is attacked by Allied aircraft at Crete and sunk. Two thousand and ninety-eight Italian prisoners of war drown with it.
-- 1936: New York World-Telegram reporter Herbert Ekins won a race against two other New York newspaper journalists to travel around the world on commercial airline flights. He accomplished the feat in 18 ½ days. His opponents were New York Evening Journal reporter Dorothy Kilgallen, who finished in second place, and New York Times reporter Leo Kieran.
-- 1935: The League of Nations places economic sanctions on Italy for its invasion of Ethiopia.
-- 1922: British Conservative MPs vote to terminate the coalition government with the Liberal Party.
-- 1921: The Portuguese Prime Minister and several officials are murdered in the Bloody Night coup.
+- 2022: Liz Truss steps down as British Prime Minister and leader of the Conservative Party amid the country's political crisis, serving for the least time of any British Prime Minister [49 days].
+- 2017: Syrian civil war: The Syrian Democratic Forces (SDF) declare victory in the Raqqa campaign.
+- 2011: Libyan Crisis: Rebel forces capture Libyan dictator Muammar Gaddafi and his son Mutassim in his hometown of Sirte and kill him shortly thereafter, ending the first Libyan civil war.
+- 2005: The general conference of the United Nations Educational, Scientific and Cultural Organization (UNESCO) passes the Convention on the Protection and Promotion of the Diversity of Cultural Expressions.
+- 2003: The Sloan Great Wall, once the largest cosmic structures known to humanity, is discovered by students at Princeton University.
+- 2002: Top Gear, the revived popular British TV motoring magazine, premieres on BBC.
+- 1995: Space Shuttle Columbia launches on STS-73.
+- 1991: A massive firestorm breaks out in the hills of Oakland and Berkeley, California killing 25 people and destroying more than 3,000 homes, apartments and condominiums.
+- 1991: A 6.8 Mw earthquake strikes the Uttarkashi region of India, killing more than 1,000 people.
+- 1986: Aeroflot Flight 6502 crashes while landing at Kuibyshev Airport (now Kuromoch International Airport) in Kuibyshev (now present-day Samara, Russia), killing 70 people.
+- 1982: During the UEFA Cup match between FC Spartak Moscow and HFC Haarlem, 66 people are crushed to death in the Luzhniki disaster.
+- 1981: Two police officers and a Brink's armored car guard are killed during an armed robbery carried out by members of the Black Liberation Army and Weather Underground in Nanuet, New York.
+- 1977: A plane carrying the rock band Lynyrd Skynyrd crashes in woodland in Mississippi, United States. Six people, including three band members, are killed.
+- 1976: The Luling-Destrehan Ferry MV George Prince is struck by the Norwegian freighter SS Frosta while crossing the Mississippi River in St. Charles Parish, Louisiana. Seventy-eight passengers and crew die, and only 18 people aboard the ferry survive.
+- 1973: The Sydney Opera House is opened by Elizabeth II after 14 years of construction.
+- 1973: Watergate scandal: "Saturday Night Massacre": United States President Richard Nixon fires U.S. Attorney General Elliot Richardson and Deputy Attorney General William Ruckelshaus after they refuse to fire special prosecutor Archibald Cox, who is finally fired by Solicitor General Robert Bork.
+- 1962: China launches simultaneous offensives in Ladakh and across the McMahon Line, igniting the Sino-Indian War.
+- 1961: The Soviet Navy performs the first armed test of a submarine-launched ballistic missile, launching an R-13 from a Golf-class submarine.
+- 1952: The Governor of Kenya Evelyn Baring declares a state of emergency and begins arresting hundreds of suspected leaders of the Mau Mau Uprising.
+- 1951: The "Johnny Bright incident" occurs during a football game between the Drake Bulldogs and Oklahoma A&M Aggies.
+- 1948: A KLM Lockheed L-049 Constellation crashes on approach to Glasgow Prestwick Airport, killing 40.
+- 1947: Cold War: The House Un-American Activities Committee begins its investigation into Communist infiltration of the Hollywood film industry, resulting in a blacklist that prevents some from working in the industry for years.
+- 1944: American general Douglas MacArthur fulfills his promise to return to the Philippines when he comes ashore during the Battle of Leyte.
+- 1944: Liquefied natural gas leaks from storage tanks in Cleveland and then explodes, leveling 30 blocks and killing 130 people.
+- 1944: World War II: The Soviet Red Army and Yugoslav Partisans liberate Belgrade.
+- 1941: World War II: Thousands of civilians in German-occupied Serbia are murdered in the Kragujevac massacre.
+- 1935: The Long March, a mammoth retreat undertaken by the armed forces of the Chinese Communist Party a year prior, ends.
+- 1910: British ocean liner RMS Olympic is launched.
+- 1904: Chile and Bolivia sign the Treaty of Peace and Friendship, delimiting the border between the two countries.
+- 1883: Peru and Chile sign the Treaty of Ancón, by which the Tarapacá province is ceded to the latter, bringing an end to Peru's involvement in the War of the Pacific.
 
 Data from muffinlabs
-*(Updated at: 2025-10-19 01:54:32 UTC)*
+*(Updated at: 2025-10-20 01:51:57 UTC)*
 
 # 历史上的今天 
 
-- - 2019 年：议会议员在上议院开会讨论英国脱欧协议，这是自 1982 年 4 月 3 日福克兰战争期间以来第一个周六在议会开会。
-- - 2013 年：布宜诺斯艾利斯发生火车相撞事故，造成 105 人受伤。
-- - 2012 年：黎巴嫩发生炸弹爆炸，造成 8 人死亡、110 人受伤。
-- - 2005 年：飓风威尔玛成为有记录以来最强烈的大西洋飓风，最小压力为 882 mb。
-- - 2005 年：萨达姆·侯赛因因反人类罪在巴格达接受审判。
-- - 2004 年：企业航空公司 5966 号航班在密苏里州亚代尔县飞往柯克斯维尔地区机场时坠毁，造成 13 人死亡。
-- - 2003年：特蕾莎修女被教皇约翰·保罗二世册封为真福。
-- - 2001 年：载有 400 多名移民前往圣诞岛的印度尼西亚渔船 SIEV X 在国际水域沉没，造成 353 人死亡。
-- - 1989 年：吉尔福德四人组在监狱服刑 15 年后，英格兰和威尔士上诉法院撤销了对他们的定罪。
-- - 1988 年：英国政府禁止电视和电台采访新芬党和 11 个爱尔兰共和派和北爱尔兰效忠准军事团体的成员。
-- - 1987 年：黑色星期一：道琼斯工业平均指数下跌 22%，即 508 点。
-- - 1987 年：美国海军实施“敏捷弓箭手”行动，攻击波斯湾的两个伊朗石油平台。
-- - 1986 年：莫桑比克总统和解放阵线的一位杰出领导人以及其他 33 人在他们的飞机坠入莱邦博山脉时丧生。
-- - 1974 年：纽埃成为新西兰的自治殖民地。
-- - 1973 年：尼克松总统拒绝上诉法院要求他交出水门事件录音带的裁决。
-- - 1960年：美国对古巴实施近乎全面的贸易禁运。
-- - 1956年：苏联和日本签署联合声明，正式结束两国自1945年8月以来一直存在的战争状态。
-- - 1955年：欧洲广播联盟大会批准举办第一届欧洲歌唱大赛。
-- - 1953 年：雷·布拉德伯里 (Ray Bradbury) 的《华氏 451》出版。
-- - 1950年：伊朗成为第一个接受美国“第四点计划”技术援助的国家。
-- - 1950 年：朝鲜战争：平壤战役以联合国胜利而告终。几小时后，中国军队开始越过边境进入朝鲜。
-- - 1950年：中国在昌博击败西藏军队。
-- - 1944 年：针对胡安·费德里科·庞塞·韦德斯发动政变，开始了为期十年的危地马拉革命。
-- - 1944 年：美国军队登陆菲律宾。
-- - 1943 年：罗格斯大学的研究人员分离出链霉素，这是第一种治疗结核病的抗生素。
-- - 1943 年：辛弗拉号货船在克里特岛遭到盟军飞机袭击并沉没。两千零九十八名意大利战俘被淹死。
-- - 1936 年：《纽约世界电讯报》记者赫伯特·埃金斯 (Herbert Ekins) 与另外两名纽约报纸记者竞争，赢得了乘坐商业航班环游世界的比赛。他只用了 18.5 天就完成了这一壮举。他的对手是获得第二名的《纽约晚报》记者多萝西·基尔加伦和《纽约时报》记者利奥·基兰。
-- - 1935 年：国际联盟因意大利入侵埃塞俄比亚而对其实施经济制裁。
-- - 1922年：英国保守党议员投票决定终止与自由党的联合政府。
-- - 1921 年：葡萄牙首相和几名官员在血腥之夜政变中被谋杀。
+- - 2022 年：在英国政治危机中，利兹·特拉斯辞去英国首相和保守党领袖职务，成为英国首相中任职时间最短的[49 天]。
+- - 2017年：叙利亚内战：叙利亚民主力量（SDF）宣布拉卡战役取得胜利。
+- - 2011年：利比亚危机：叛军在利比亚独裁者穆阿迈尔·卡扎菲及其儿子穆塔西姆的家乡苏尔特抓获并不久后将其杀害，结束了第一次利比亚内战。
+- - 2005年：联合国教育、科学及文化组织（教科文组织）大会通过《保护和促进文化表现形式多样性公约》。
+- - 2003 年：普林斯顿大学的学生发现了曾经人类已知最大的宇宙结构——斯隆长城。
+- - 2002 年：《Top Gear》，重新流行的英国电视汽车杂志，在 BBC 首播。
+- - 1995 年：哥伦比亚号航天飞机搭载 STS-73 发射升空。
+- - 1991 年：加利福尼亚州奥克兰和伯克利山区爆发一场大火，造成 25 人死亡，3,000 多所房屋、公寓和公寓被毁。
+- - 1991 年：印度 Uttarkashi 地区发生 6.8 Mw 地震，造成 1,000 多人死亡。
+- - 1986 年：俄罗斯航空公司 6502 号航班在降落在古比雪夫（现为俄罗斯萨马拉）的古比雪夫机场（现为库罗莫奇国际机场）时坠毁，造成 70 人死亡。
+- - 1982年：在莫斯科斯巴达克队与哈勒姆队的欧洲联盟杯比赛中，卢日尼基灾难导致66人被压死。
+- - 1981 年：黑人解放军和 Weather Underground 成员在纽约纳努埃特实施武装抢劫，两名警察和一名布林克装甲车警卫被杀。
+- - 1977 年：一架载有摇滚乐队 Lynyrd Skynyrd 的飞机在美国密西西比州的林地坠毁。六人死亡，其中包括三名乐队成员。
+- - 1976 年：Luling-Destrehan 渡轮 MV George Prince 在穿越路易斯安那州圣查尔斯教区的密西西比河时被挪威货船 SS Frosta 撞毁。78 名乘客和船员死亡，渡轮上只有 18 人幸存。
+- - 1973 年：经过 14 年的建设，伊丽莎白二世 (Elizabeth II) 开放了悉尼歌剧院 (Sydney Opera House)。
+- - 1973年：水门事件：“周六晚大屠杀”：美国总统理查德·尼克松在拒绝解雇特别检察官阿奇博尔德·考克斯后解雇了美国司法部长埃利奥特·理查森和副司法部长威廉·鲁克斯豪斯，后者最终被副检察长罗伯特·博克解雇。
+- - 1962年：中国同时向拉达克和麦克马洪线发起进攻，引发了中印战争。
+- - 1961 年：苏联海军首次进行潜射弹道导弹武装试验，从高尔夫级潜艇上发射了一枚 R-13。
+- - 1952 年：肯尼亚总督伊芙琳·巴林 (Evelyn Baring) 宣布进入紧急状态，并开始逮捕数百名毛毛起义的嫌疑领导人。
+- - 1951 年：“约翰尼·布莱特事件”发生在德雷克斗牛犬队和俄克拉荷马州 A&M Aggies 队之间的一场橄榄球比赛中。
+- - 1948 年：一架荷航洛克希德 L-049 Constellation 飞机在飞往格拉斯哥普雷斯蒂克机场时坠毁，造成 40 人死亡。
+- - 1947 年：冷战：众议院非美活动委员会开始调查共产党对好莱坞电影业的渗透，并制定了一份黑名单，禁止一些人在该行业工作多年。
+- - 1944年：美国将军道格拉斯·麦克阿瑟在莱特岛战役中登陆菲律宾，履行了返回菲律宾的承诺。
+- - 1944 年：克利夫兰的液化天然气储罐发生泄漏，随后发生爆炸，导致 30 座街区夷为平地，造成 130 人死亡。
+- - 1944 年：第二次世界大战：苏联红军和南斯拉夫游击队解放贝尔格莱德。
+- - 1941 年：第二次世界大战：德国占领的塞尔维亚数千名平民在克拉古耶瓦茨大屠杀中被杀害。
+- - 1935年：一年前中国共产党军队进行的一次大规模撤退长征结束。
+- - 1910 年：英国远洋客轮 RMS Olympic 下水。
+- - 1904年：智利和玻利维亚签署和平友好条约，划定两国边界。
+- - 1883 年：秘鲁和智利签署《安孔条约》，将塔拉帕卡省割让给智利，结束了秘鲁对太平洋战争的卷入。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-10-19 01:54:32 UTC）*
+*（更新于: 2025-10-20 01:51:57 UTC）*
