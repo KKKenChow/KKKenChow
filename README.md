@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: A shooting occurs on the set of the film Rust, in which actor Alec Baldwin discharged a prop weapon which had been loaded, killing the director of photography, Halyna Hutchins, and injuring director Joel Souza.
-- 2019: In Canada, the 2019 Canadian federal election ends, resulting in incumbent Prime Minister Justin Trudeau remaining in office, albeit with the Liberal Party in a minority government.
-- 2019: Thirty people are killed in a fiery bus crash in western Democratic Republic of the Congo.
-- 2011: Iraq War: President Barack Obama announces that the withdrawal of United States troops from Iraq will be complete by the end of the year.
-- 2005: Images of the dwarf planet Eris are taken and subsequently used in documenting its discovery.
-- 1994: In Seoul, South Korea, 32 people are killed when a span of the Seongsu Bridge collapses.
-- 1994: North Korea and the United States sign an Agreed Framework that requires North Korea to stop its nuclear weapons program and agree to inspections.
-- 1989: In Honduras, 131 people are killed when a Boeing 727 crashes on approach to Toncontín International Airport near the nation's capital Tegucigalpa.
-- 1987: The Jaffna hospital massacre is carried out by Indian peacekeeping forces in Sri Lanka, killing 70 Tamil patients, doctors and nurses.
-- 1986: In Lebanon, pro-Iran kidnappers claim to have abducted American writer Edward Tracy (he is released in August 1991).
-- 1984: Niki Lauda claims his third and final Formula One Drivers' Championship Title by half a point ahead of McLaren team-mate Alain Prost at the Portuguese Grand Prix.
-- 1983: The metre is defined as the distance light travels in a vacuum in 1/299,792,458 of a second.
-- 1981: Andreas Papandreou becomes Prime Minister of Greece, ending an almost 50-year-long system of power dominated by conservative forces.
-- 1979: Moshe Dayan resigns from the Israeli government because of strong disagreements with Prime Minister Menachem Begin over policy towards the Arabs.
-- 1978: Australian civilian pilot Frederick Valentich vanishes over the Bass Strait south of Melbourne, after reporting contact with an unidentified aircraft.
-- 1973: Fred Dryer of the Los Angeles Rams becomes the first player in NFL history to score two safeties in the same game.
-- 1971: A gas explosion kills 22 people at a shopping centre near Glasgow, Scotland.
-- 1969: The 1969 Somali coup d'état establishes a Marxist-Leninist administration.
-- 1967: The National Mobilization Committee to End the War in Vietnam organizes a march of fifty thousand people from the Lincoln Memorial to the Pentagon.
-- 1966: A colliery spoil tip slips onto houses and a school in the village of Aberfan in Wales, killing 144 people, 116 of whom were schoolchildren.
-- 1965: Comet Ikeya-Seki approaches perihelion, passing 450,000 kilometers (279,617 miles) from the sun.
-- 1959: President Dwight D. Eisenhower approves the transfer of all US Army space-related activities to NASA, including most of the Army Ballistic Missile Agency.
-- 1959: In New York City, the Solomon R. Guggenheim Museum opens to the public.
-- 1956: The Mau Mau Uprising in Kenya is defeated.
-- 1950: Korean War: Heavy fighting begins between British and Australian forces and North Koreans during the Battle of Yongju.
-- 1945: In the 1945 French legislative election French women vote for the first time.
-- 1944: World War II: The city of Aachen falls to American forces after three weeks of fighting, the first German city to fall to the Allies.
-- 1944: World War II: The Nemmersdorf massacre against German civilians takes place.
-- 1944: World War II: The first kamikaze attack damages HMAS Australia as the Battle of Leyte Gulf begins.
-- 1943: World War II: The Provisional Government of Free India is formally established in Japanese-occupied Singapore.
+- 2019: Same-sex marriage is legalised, and abortion is decriminalised in Northern Ireland as a result of the Northern Ireland Assembly not being restored.
+- 2014: Michael Zehaf-Bibeau attacks the Parliament of Canada, killing a soldier and injuring three other people.
+- 2013: The Australian Capital Territory becomes the first Australian jurisdiction to legalize same-sex marriage with the Marriage Equality (Same Sex) Act 2013.
+- 2012: Cyclist Lance Armstrong is formally stripped of his seven Tour de France titles after being charged for doping.
+- 2008: India launches its first uncrewed lunar probe mission Chandrayaan-1.
+- 2007: A raid on Anuradhapura Air Force Base is carried out by 21 Tamil Tiger commandos, with all except one dying in this attack. Eight Sri Lanka Air Force planes are destroyed and ten damaged.
+- 2006: A Panama Canal expansion proposal is approved by 77.8% of voters in a national referendum.
+- 2005: Bellview Airlines Flight 210 crashes in Nigeria, killing all 117 people on board.
+- 2005: Tropical Storm Alpha forms in the Atlantic Basin, making the 2005 Atlantic hurricane season the most active Atlantic hurricane season until surpassed by the 2020 season.
+- 1999: Maurice Papon, an official in the Vichy government during World War II, is jailed for crimes against humanity.
+- 1997: Danish fugitive Steen Christensen kills two police officers, Chief Constable Eero Holsti and Senior Constable Antero Palo, in Ullanlinna, Helsinki, Finland during his prison escape.
+- 1992: Space Shuttle Columbia launches on STS-52 to deploy the LAGEOS-2 satellite and microgravity experiments.
+- 1987: John Adams' opera Nixon in China premiered at the Houston Grand Opera.
+- 1983: Two correctional officers are killed by inmates at the United States Penitentiary in Marion, Illinois. The incident inspires the Supermax model of prisons.
+- 1981: The US Federal Labor Relations Authority votes to decertify the Professional Air Traffic Controllers Organization (PATCO) for its strike the previous August.
+- 1975: The Soviet uncrewed space mission Venera 9 lands on Venus.
+- 1964: Jean-Paul Sartre is awarded the Nobel Prize in Literature, though he does not accept the prize.
+- 1963: A BAC One-Eleven prototype airliner crashes in UK with the loss of all on board.
+- 1962: Cuban Missile Crisis: President Kennedy, after internal counsel from Dwight D. Eisenhower, announces that American reconnaissance planes have discovered Soviet nuclear weapons in Cuba, and that he has ordered a naval "quarantine" of the Communist nation.
+- 1946: Over twenty-two hundred engineers and technicians from eastern Germany are forced to relocate to the Soviet Union, along with their families and equipment.
+- 1943: World War II: In the second firestorm raid on Germany, the British Royal Air Force conducts an air raid on the town of Kassel, killing 10,000 and rendering 150,000 homeless.
+- 1941: World War II: French resistance member Guy Môquet and 29 other hostages are executed by the Germans in retaliation for the death of a German officer.
+- 1936: Dod Orsborne, captain of the Girl Pat is convicted of its theft and imprisoned, having caused a media sensation when it went missing.
+- 1934: In East Liverpool, Ohio, FBI agents shoot and kill notorious bank robber Pretty Boy Floyd.
+- 1923: The royalist Leonardopoulos-Gargalidis coup d'état attempt fails in Greece, discrediting the monarchy and paving the way for the establishment of the Second Hellenic Republic.
+- 1910: Hawley Harvey Crippen (the first felon to be arrested with the help of radio) is convicted of poisoning his wife.
+- 1907: A run on the stock of the Knickerbocker Trust Company sets events in motion that will spark the Panic of 1907.
+- 1895: In Paris an express train derails after overrunning the buffer stop, crossing almost 30 metres (100 ft) of concourse before crashing through a wall and falling 10 metres (33 ft) to the road below.
+- 1884: The International Meridian Conference designates the Royal Observatory, Greenwich as the world's prime meridian.
+- 1883: The Metropolitan Opera House in New York City opens with a performance of Charles Gounod's Faust.
 
 Data from muffinlabs
-*(Updated at: 2025-10-21 01:46:04 UTC)*
+*(Updated at: 2025-10-22 01:48:56 UTC)*
 
 # 历史上的今天 
 
-- - 2021 年：电影《铁锈》片场发生枪击事件，演员亚历克·鲍德温使用一把已上膛的道具武器开枪，导致摄影指导哈利娜·哈钦斯死亡，导演乔尔·苏扎受伤。
-- - 2019年：在加拿大，2019年加拿大联邦选举结束，现任总理贾斯汀·特鲁多继续留任，尽管自由党在少数政府中。
-- - 2019 年：刚果民主共和国西部发生一起公交车火灾，造成 30 人死亡。
-- - 2011年：伊拉克战争：美国总统巴拉克·奥巴马宣布美国军队将于年底前完成从伊拉克的撤军。
-- - 2005 年：拍摄了矮行星阋神星的图像，并随后用于记录其发现。
-- - 1994 年：韩国首尔圣水大桥垮塌，造成 32 人死亡。
-- - 1994年：朝鲜和美国签署框架协议，要求朝鲜停止其核武器计划并同意进行检查。
-- - 1989 年：在洪都拉斯，一架波音 727 飞机在飞往该国首都特古西加尔巴附近的通孔廷国际机场时坠毁，造成 131 人死亡。
-- - 1987年：印度驻斯里兰卡维和部队实施贾夫纳医院大屠杀，造成70名泰米尔病人、医生和护士死亡。
-- - 1986 年：在黎巴嫩，亲伊朗绑架者声称绑架了美国作家爱德华·特雷西（Edward Tracy）（他于 1991 年 8 月获释）。
-- - 1984 年：尼基·劳达 (Niki Lauda) 在葡萄牙大奖赛上领先迈凯伦队友阿兰·普罗斯特 (Alain Prost) 半分，夺得他的第三个也是最后一个一级方程式车手冠军头衔。
-- - 1983 年：米被定义为光在真空中以 1/299,792,458 秒传播的距离。
-- - 1981 年：安德烈亚斯·帕潘德里欧 (Andreas Papandreou) 就任希腊总理，结束了近 50 年的保守势力主导的权力体系。
-- - 1979 年：摩西·达扬（Moshe Dayan）因与总理梅纳赫姆·贝京（Menachem Begin）在阿拉伯人政策上存在强烈分歧而辞去以色列政府职务。
-- - 1978 年：澳大利亚民用飞行员 Frederick Valentich 在报告与一架身份不明的飞机发生接触后在墨尔本以南的巴斯海峡上空失踪。
-- - 1973 年：洛杉矶公羊队的 Fred Dryer 成为 NFL 历史上第一位在同一场比赛中获得两次安全得分的球员。
-- - 1971 年：苏格兰格拉斯哥附近的一家购物中心发生瓦斯爆炸，造成 22 人死亡。
-- - 1969 年：1969 年索马里政变建立了马克思列宁主义政府。
-- - 1967 年：结束越南战争全国动员委员会组织了五万人从林肯纪念堂到五角大楼的游行。
-- - 1966 年：威尔士阿伯凡村的煤矿弃土滑倒在房屋和学校上，造成 144 人死亡，其中 116 人是学童。
-- - 1965 年：Ikeya-Seki 彗星接近近日点，距离太阳 450,000 公里（279,617 英里）。
-- - 1959 年：德怀特·D·艾森豪威尔总统批准将美国陆军所有与太空相关的活动移交给 NASA，其中包括陆军弹道导弹机构的大部分活动。
-- - 1959 年：在纽约市，所罗门·R·古根海姆博物馆向公众开放。
-- - 1956 年：肯尼亚毛毛起义被击败。
-- - 1950 年：朝鲜战争：在龙州战役期间，英国和澳大利亚军队与朝鲜人之间开始激烈战斗。
-- - 1945年：在1945年的法国立法选举中，法国妇女首次投票。
-- - 1944 年：第二次世界大战：经过三周的战斗，亚琛市落入美军之手，这是第一个落入盟军手中的德国城市。
-- - 1944 年：第二次世界大战：发生了针对德国平民的内默斯多夫大屠杀。
-- - 1944 年：第二次世界大战：莱特湾战役开始时，第一次神风特攻队袭击对澳大利亚皇家海军造成损害。
-- - 1943 年：第二次世界大战：自由印度临时政府在日占新加坡正式成立。
+- - 2019年：由于北爱尔兰议会未能恢复，北爱尔兰同性婚姻合法化，堕胎合法化。
+- - 2014 年：Michael Zehaf-Bibeau 袭击加拿大议会，造成一名士兵死亡，另外三人受伤。
+- - 2013 年：通过《2013 年婚姻平等（同性）法》，澳大利亚首都特区成为澳大利亚第一个同性婚姻合法化的司法管辖区。
+- - 2012 年：自行车手兰斯·阿姆斯特朗 (Lance Armstrong) 在被指控服用兴奋剂后，被正式剥夺了他的七次环法自行车赛冠军头衔。
+- - 2008 年：印度发射了第一个无人月球探测器任务 Chandrayaan-1。
+- - 2007 年：21 名泰米尔猛虎突击队突击队对阿努拉德普勒空军基地进行了一次突袭，除了一名突击队员外，其他人都在这次袭击中丧生。八架斯里兰卡空军飞机被摧毁，十架受损。
+- - 2006年：巴拿马运河扩建提案在全国公投中获得77.8%的选民支持。
+- - 2005 年：贝尔维尤航空公司 210 号航班在尼日利亚坠毁，机上 117 人全部遇难。
+- - 2005 年：热带风暴阿尔法在大西洋盆地形成，使 2005 年大西洋飓风季节成为最活跃的大西洋飓风季节，直至 2020 年飓风季节超过。
+- - 1999 年：二战期间维希政府官员莫里斯·帕蓬 (Maurice Papon) 因反人类罪入狱。
+- - 1997 年：丹麦逃犯斯蒂恩·克里斯滕森 (Steen Christensen) 在芬兰赫尔辛基乌兰林纳越狱期间杀害了两名警察：警察局长埃罗·霍尔斯蒂 (Eero Holsti) 和高级警察安特罗·帕洛 (Antero Palo)。
+- - 1992 年：哥伦比亚号航天飞机搭载 STS-52 发射升空，部署 LAGEOS-2 卫星和微重力实验。
+- - 1987年：约翰·亚当斯的歌剧《尼克松在中国》在休斯敦大歌剧院首演。
+- - 1983 年：伊利诺伊州马里恩美国监狱的两名狱警被囚犯杀害。这一事件启发了超级监狱模型。
+- - 1981 年：美国联邦劳工关系管理局投票决定取消专业空中交通管制员组织 (PATCO) 的认证，原因是该组织在去年 8 月进行了罢工。
+- - 1975 年：苏联无人驾驶太空任务金星 9 号登陆金星。
+- - 1964年：让·保罗·萨特被授予诺贝尔文学奖，但他本人并未接受该奖项。
+- - 1963 年：一架 BAC 1-11 原型客机在英国坠毁，机上人员全部罹难。
+- - 1962年：古巴导弹危机：肯尼迪总统在德怀特·D·艾森豪威尔的内部顾问后宣布，美国侦察机在古巴发现了苏联核武器，并下令对这个共产主义国家进行海军“隔离”。
+- - 1946 年：超过 2200 名来自德国东部的工程师和技术人员及其家人和设备被迫迁移到苏联。
+- - 1943 年：第二次世界大战：在对德国的第二次猛烈袭击中，英国皇家空军对卡塞尔镇进行了空袭，造成 10,000 人死亡，150,000 人无家可归。
+- - 1941 年：第二次世界大战：法国抵抗运动成员 Guy Môquet 和其他 29 名人质被德国人处决，以报复一名德国军官的死亡。
+- - 1936 年：“女孩帕特”号船长多德·奥斯本 (Dod Orsborne) 因盗窃该船而被判入狱，该船失踪后引起了媒体轰动。
+- - 1934 年：在俄亥俄州东利物浦，联邦调查局探员射杀了臭名昭著的银行抢劫犯漂亮男孩弗洛伊德。
+- - 1923年：保皇党莱昂纳多普洛斯-加尔加利迪斯政变在希腊失败，君主制名声扫地，为希腊第二共和国的建立铺平了道路。
+- - 1910 年：霍利·哈维·克里彭（Hawley Harvey Crippen）（第一个借助无线电被捕的重罪犯）因毒害妻子而被定罪。
+- - 1907 年：尼克博克信托公司 (Knickerbocker Trust Company) 的股票挤兑引发了一系列事件，引发了 1907 年的恐慌。
+- - 1895 年：在巴黎，一列特快列车冲出缓冲站后脱轨，穿过近 30 米（100 英尺）的大厅，然后撞上墙壁，从 10 米（33 英尺）的高度坠落到下面的道路上。
+- - 1884 年：国际子午线会议指定格林威治皇家天文台为世界本初子午线。
+- - 1883 年：纽约大都会歌剧院以查尔斯·古诺的《浮士德》的演出开幕。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-10-21 01:46:04 UTC）*
+*（更新于: 2025-10-22 01:48:56 UTC）*
