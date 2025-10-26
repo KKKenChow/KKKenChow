@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: A mass shooting occurs in two locations in Lewiston, Maine. 18 people are killed and 13 more injured.
-- 2010: A magnitude 7.8 earthquake strikes off Indonesia's Mentawai Islands, triggering a tsunami that kills at least 400 people.
-- 2010: Mount Merapi in Indonesia begins a month-long series of violent eruptions that kill 353 people and cause the evacuation of another 350,000 people.
-- 2009: The October 2009 Baghdad bombings kill 155 and wound at least 721.
-- 2001: Microsoft releases Windows XP, which becomes one of Microsoft's most successful operating systems.
-- 1999: A Learjet 35 crashes in Mina near Aberdeen, South Dakota, killing all six people on board, including PGA golfer Payne Stewart and golf course designer Bruce Borland.
-- 1997: After a civil war, Denis Sassou Nguesso proclaims himself President of the Republic of the Congo.
-- 1995: A commuter train slams into a school bus in Fox River Grove, Illinois, killing seven students.
-- 1990: The Kazakh Soviet Socialist Republic declares its sovereignty from the Soviet Union.
-- 1983: The United States and its Caribbean allies invade Grenada, six days after Prime Minister Maurice Bishop and several of his supporters are executed in a coup d'état.
-- 1980: Proceedings on the Hague Convention on the Civil Aspects of International Child Abduction conclude.
-- 1973: Egypt and Israel accept United Nations Security Council Resolution 339.
-- 1971: The People's Republic of China replaces the Republic of China at the United Nations.
-- 1968: A Fairchild F-27 crashes into Moose Mountain while on approach to Lebanon Municipal Airport in Lebanon, New Hampshire, killing 32 people.
-- 1962: Cuban Missile Crisis: Adlai Stevenson shows the United Nations Security Council reconnaissance photographs of Soviet ballistic missiles in Cuba.
-- 1949: The Battle of Guningtou in the Taiwan Strait begins.
-- 1945: Fifty years of Japanese administration of Taiwan formally ends when the Republic of China assumes control.
-- 1944: World War II: The final attempt of the Imperial Japanese Navy to win the war climaxes at the Battle of Leyte Gulf.
-- 1944: World War II: The USS Tang under Richard O'Kane (the top American submarine ace of the war) is sunk by the ship's own malfunctioning torpedo.
-- 1944: World War II: Heinrich Himmler orders a crackdown on the Edelweiss Pirates, a loosely organized youth culture in Nazi Germany that had assisted army deserters and others to hide from the Third Reich.
-- 1940: Benjamin O. Davis Sr. is named the first African American general in the United States Army.
-- 1932: George Lansbury became the leader of the opposition British Labour Party.
-- 1927: The Italian luxury liner SS Principessa Mafalda sinks off the coast of Brazil, killing 314.
-- 1924: The Zinoviev letter, which Zinoviev himself denied writing, is published in the Daily Mail; the Labour party would later blame this letter for the Conservatives' landslide election win four days later.
-- 1920: After 74 days on hunger strike in Brixton Prison, England, the Sinn Féin Lord Mayor of Cork, Terence MacSwiney dies.
-- 1917: Old Style date of the October Revolution in Russia.
-- 1911: The Xinhai Revolution spreads to Guangzhou, where the Qing general Fengshan is assassinated by the Chinese Assassination Corps.
-- 1875: Pyotr Ilyich Tchaikovsky's Piano Concerto No. 1 in B♭ minor, Op. 23 premieres in Boston, Massachusetts, with Benjamin Johnson Lang as conductor and Hans von Bülow as soloist.
-- 1868: The Uspenski Cathedral, designed by Aleksey Gornostayev, is inaugurated in Helsinki, Finland.
-- 1861: The Toronto Stock Exchange is created.
+- 2015: A 7.5 magnitude earthquake strikes in the Hindu Kush mountain range in South Asia, killing 399 people and leaving 2,536 people injured.
+- 2012: Microsoft made a public release of Windows 8 and made it available on new PCs.
+- 2004: Rockstar Games releases Grand Theft Auto: San Andreas for the PlayStation 2 in North America, which sold 12 million units for the PS2, becoming the console's best-selling video game.
+- 2003: The Cedar Fire, the third-largest wildfire in California history, kills 15 people, consumes 250,000 acres (1,000 km2), and destroys 2,200 homes around San Diego.
+- 2002: Approximately 50 Chechen terrorists and 150 hostages die when Russian special forces troops storm a theater building in Moscow, which had been occupied by the terrorists during a musical performance three days before.
+- 2001: The United States passes the USA PATRIOT Act into law.
+- 2000: A wave of protests forces Robert Guéï to step down as president after the Ivorian presidential election.
+- 1999: The United Kingdom's House of Lords votes to end the right of most hereditary peers to vote in Britain's upper chamber of Parliament.
+- 1995: An avalanche hits the Icelandic village of Flateyri, destroying 29 homes and burying 45 people, and killing 20.
+- 1995: Mossad agents assassinate Palestinian Islamic Jihad leader Fathi Shaqaqi in his hotel in Malta.
+- 1994: Jordan and Israel sign a peace treaty.
+- 1991: Three months after the end of the Ten-Day War, the last soldier of the Yugoslav People's Army leaves the territory of the Republic of Slovenia.
+- 1989: China Airlines Flight 204 crashes after takeoff from Hualien Airport in Taiwan, killing all 54 people on board.
+- 1985: The Australian government returns ownership of Uluru to the local Pitjantjatjara Aboriginals.
+- 1979: Park Chung Hee, President of South Korea, is assassinated by Korean CIA head Kim Jae-gyu.
+- 1977: Ali Maow Maalin, the last natural case of smallpox, develops a rash in Somalia. The WHO and the CDC consider this date to be the anniversary of the eradication of smallpox, the most spectacular success of vaccination.
+- 1968: Space Race: The Soyuz 3 mission achieves the first Soviet space rendezvous.
+- 1967: Mohammad Reza Pahlavi crowns himself Emperor of Iran.
+- 1958: Pan American Airways makes the first commercial flight of the Boeing 707 from New York City to Paris.
+- 1956: Hungarian Revolution: In the towns of Mosonmagyaróvár and Esztergom, Hungarian secret police forces massacre civilians. As rebel strongholds in Budapest hold, fighting spreads throughout the country.
+- 1955: Ngô Đình Diệm proclaims himself as President of the newly created Republic of Vietnam.
+- 1955: After the last Allied troops have left the country, and following the provisions of the Austrian Independence Treaty, Austria declares that it will never join a military alliance.
+- 1947: Partition of India: The Maharaja of Kashmir and Jammu signs the Instrument of Accession with India, beginning the Indo-Pakistani War of 1947-1948 and the Kashmir conflict.
+- 1944: World War II: The Battle of Leyte Gulf ends with an overwhelming American victory.
+- 1942: World War II: In the Battle of the Santa Cruz Islands during the Guadalcanal Campaign, one U.S. aircraft carrier is sunk and another carrier is heavily damaged, while two Japanese carriers and one cruiser are heavily damaged.
+- 1937: Nazi Germany begins expulsions of 18,000 Polish Jews.
+- 1936: The first electric generator at Hoover Dam goes into full operation.
+- 1918: World War I: Erich Ludendorff, quartermaster-general of the Imperial German Army, is dismissed by Kaiser Wilhelm II for refusing to cooperate in peace negotiations.
+- 1917: World War I: Brazil declares war on the Central Powers.
+- 1912: First Balkan War: The Ottomans lose the cities of Thessaloniki and Skopje.
 
 Data from muffinlabs
-*(Updated at: 2025-10-25 01:42:23 UTC)*
+*(Updated at: 2025-10-26 01:50:54 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：缅因州刘易斯顿的两个地点发生大规模枪击事件。造成18人死亡、13人受伤。
-- - 2010 年：印度尼西亚明打威群岛发生 7.8 级地震，引发海啸，造成至少 400 人死亡。
-- - 2010 年：印度尼西亚默拉皮火山开始了长达一个月的系列猛烈喷发，造成 353 人死亡，并导致另外 35 万人疏散。
-- - 2009 年：2009 年 10 月的巴格达爆炸事件造成 155 人死亡，至少 721 人受伤。
-- - 2001 年：Microsoft 发布Windows XP，成为Microsoft 最成功的操作系统之一。
-- - 1999 年：一架里尔 35 飞机在南达科他州阿伯丁附近的米纳坠毁，机上六人全部遇难，其中包括 PGA 高尔夫球手佩恩·斯图尔特和高尔夫球场设计师布鲁斯·博兰。
-- - 1997 年：内战结束后，丹尼斯·萨苏·恩格索宣布自己为刚果共和国总统。
-- - 1995 年：一列通勤火车在伊利诺伊州福克斯河格罗夫撞上一辆校车，造成七名学生死亡。
-- - 1990年：哈萨克斯坦苏维埃社会主义共和国宣布脱离苏联主权。
-- - 1983 年：总理莫里斯·毕晓普及其几名支持者在政变中被处决六天后，美国及其加勒比盟友入侵格林纳达。
-- - 1980 年：《国际儿童诱拐民事问题海牙公约》诉讼程序结束。
-- - 1973 年：埃及和以色列接受联合国安理会第 339 号决议。
-- - 1971年：中华人民共和国在联合国取代中华民国。
-- - 1968 年：一架 Fairchild F-27 在飞往新罕布什尔州黎巴嫩的黎巴嫩市政机场时坠入穆斯山，造成 32 人死亡。
-- - 1962 年：古巴导弹危机：阿德莱·史蒂文森向联合国安理会展示苏联在古巴弹道导弹的侦察照片。
-- - 1949年：台湾海峡古宁头海战爆发。
-- - 1945 年：中华民国接管台湾后，日本对台湾五十年的统治正式结束。
-- - 1944 年：第二次世界大战：日本帝国海军为赢得莱特湾海战的战争高潮所做的最后尝试。
-- - 1944 年：第二次世界大战：理查德·奥凯恩（Richard O'Kane）（美国顶级潜艇王牌）领导的唐号航空母舰被自身故障的鱼雷击沉。
-- - 1944 年：第二次世界大战：海因里希·希姆莱下令镇压雪绒花海盗，这是纳粹德国组织松散的青年文化，曾帮助逃兵和其他人躲避第三帝国。
-- - 1940 年：老本杰明·O·戴维斯 (Benjamin O. Davis Sr.) 被任命为美国陆军第一位非裔美国将军。
-- - 1932 年：乔治·兰斯伯里成为反对党英国工党领袖。
-- - 1927 年：意大利豪华游轮 SS Principessa Mafalda 在巴西海岸沉没，造成 314 人死亡。
-- - 1924年：季诺维也夫的信在《每日邮报》上发表，季诺维也夫本人否认这封信是他写的；四天后，工党将保守党在选举中取得压倒性胜利归咎于这封信。
-- - 1920 年：在英国布里克斯顿监狱绝食 74 天后，新芬党科克市市长特伦斯·麦克斯威尼 (Terence MacSwiney) 去世。
-- - 1917 年：俄罗斯十月革命的旧式日期。
-- - 1911年：辛亥革命蔓延到广州，清军将领凤山被中国刺杀队刺杀。
-- - 1875 年：彼得·伊里奇·柴可夫斯基 B♭ 小调第一钢琴协奏曲，作品。23日在马萨诸塞州波士顿首演，由本杰明·约翰逊·朗担任指挥，汉斯·冯·比洛担任独奏家。
-- - 1868 年：由阿列克谢·戈尔诺斯塔耶夫 (Aleksey Gornostayev) 设计的乌斯别斯基大教堂 (Uspenski Cathedral) 在芬兰赫尔辛基落成。
-- - 1861 年：多伦多证券交易所成立。
+- - 2015年：南亚兴都库什山脉发生7.5级地震，造成399人死亡、2,536人受伤。
+- - 2012 年：微软公开发布 Windows 8 并在新 PC 上提供。
+- - 2004 年：Rockstar Games 在北美发布了 PlayStation 2 版《侠盗猎车手：圣安地列斯》，该游戏在 PS2 上售出了 1200 万份，成为该游戏机上最畅销的视频游戏。
+- - 2003 年：雪松火灾是加州历史上第三大野火，造成 15 人死亡，吞噬了 250,000 英亩（1,000 平方公里）土地，并摧毁了圣地亚哥周围的 2,200 所房屋。
+- - 2002年：俄罗斯特种部队袭击了莫斯科的一座剧院大楼，造成大约50名车臣恐怖分子和150名人质死亡，该剧院三天前在一场音乐表演中被恐怖分子占领。
+- - 2001 年：美国通过《美国爱国者法案》成为法律。
+- - 2000年：科特迪瓦总统选举后，一波抗议浪潮迫使罗伯特·盖伊辞去总统职务。
+- - 1999 年：英国上议院投票终止大多数世袭贵族在英国议会上院投票的权利。
+- - 1995 年：一场雪崩袭击了冰岛的弗拉泰里村，摧毁了 29 所房屋，埋葬了 45 人，并造成 20 人死亡。
+- - 1995 年：摩萨德特工在马耳他的酒店刺杀巴勒斯坦伊斯兰圣战组织领导人法蒂·沙卡奇。
+- - 1994年：约旦和以色列签署和平条约。
+- - 1991年：十日战争结束三个月后，南斯拉夫人民军最后一名士兵离开斯洛文尼亚共和国领土。
+- - 1989年：中华航空204号航班从台湾花莲机场起飞后坠毁，机上54人全部遇难。
+- - 1985 年：澳大利亚政府将乌鲁鲁的所有权归还给当地 Pitjantjatjara 原住民。
+- - 1979年：韩国总统朴正熙被韩国中央情报局局长金载奎刺杀。
+- - 1977 年：最后一个自然天花病例 Ali Maow Maalin 在索马里出现皮疹。世界卫生组织和疾病预防控制中心认为这一天是消灭天花的周年纪念日，这是疫苗接种最引人注目的成功。
+- - 1968 年：太空竞赛：联盟 3 号任务实现了苏联首次太空交会。
+- - 1967 年：穆罕默德·礼萨·巴列维加冕为伊朗皇帝。
+- - 1958 年：泛美航空公司首次使用波音 707 进行从纽约飞往巴黎的商业飞行。
+- - 1956 年：匈牙利革命：在莫雄马扎尔古堡和埃斯泰尔戈姆镇，匈牙利秘密警察部队屠杀平民。随着叛军在布达佩斯的据点占据，战斗蔓延到全国各地。
+- - 1955 年：吴庭艳宣布自己为新成立的越南共和国总统。
+- - 1955年：在最后一支盟军离开该国后，根据《奥地利独立条约》的规定，奥地利宣布永远不会加入军事联盟。
+- - 1947 年：印度分治：克什米尔和查谟大君与印度签署加入书，开始 1947-1948 年印巴战争和克什米尔冲突。
+- - 1944 年：第二次世界大战：莱特湾海战以美国压倒性胜利而结束。
+- - 1942年：第二次世界大战：在瓜达尔卡纳尔岛战役期间的圣克鲁斯群岛海战中，一艘美国航空母舰被击沉，另一艘航空母舰严重受损，而日本两艘航空母舰和一艘巡洋舰也严重受损。
+- - 1937 年：纳粹德国开始驱逐 18,000 名波兰犹太人。
+- - 1936 年：胡佛水坝的第一台发电机全面投入运行。
+- - 1918 年：第一次世界大战：德意志帝国陆军军需将军埃里希·鲁登道夫因拒绝在和平谈判中合作而被德皇威廉二世解雇。
+- - 1917 年：第一次世界大战：巴西向同盟国宣战。
+- - 1912 年：第一次巴尔干战争：奥斯曼帝国失去塞萨洛尼基和斯科普里城市。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-10-25 01:42:23 UTC）*
+*（更新于: 2025-10-26 01:50:54 UTC）*
