@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2015: A 7.5 magnitude earthquake strikes in the Hindu Kush mountain range in South Asia, killing 399 people and leaving 2,536 people injured.
-- 2012: Microsoft made a public release of Windows 8 and made it available on new PCs.
-- 2004: Rockstar Games releases Grand Theft Auto: San Andreas for the PlayStation 2 in North America, which sold 12 million units for the PS2, becoming the console's best-selling video game.
-- 2003: The Cedar Fire, the third-largest wildfire in California history, kills 15 people, consumes 250,000 acres (1,000 km2), and destroys 2,200 homes around San Diego.
-- 2002: Approximately 50 Chechen terrorists and 150 hostages die when Russian special forces troops storm a theater building in Moscow, which had been occupied by the terrorists during a musical performance three days before.
-- 2001: The United States passes the USA PATRIOT Act into law.
-- 2000: A wave of protests forces Robert Guéï to step down as president after the Ivorian presidential election.
-- 1999: The United Kingdom's House of Lords votes to end the right of most hereditary peers to vote in Britain's upper chamber of Parliament.
-- 1995: An avalanche hits the Icelandic village of Flateyri, destroying 29 homes and burying 45 people, and killing 20.
-- 1995: Mossad agents assassinate Palestinian Islamic Jihad leader Fathi Shaqaqi in his hotel in Malta.
-- 1994: Jordan and Israel sign a peace treaty.
-- 1991: Three months after the end of the Ten-Day War, the last soldier of the Yugoslav People's Army leaves the territory of the Republic of Slovenia.
-- 1989: China Airlines Flight 204 crashes after takeoff from Hualien Airport in Taiwan, killing all 54 people on board.
-- 1985: The Australian government returns ownership of Uluru to the local Pitjantjatjara Aboriginals.
-- 1979: Park Chung Hee, President of South Korea, is assassinated by Korean CIA head Kim Jae-gyu.
-- 1977: Ali Maow Maalin, the last natural case of smallpox, develops a rash in Somalia. The WHO and the CDC consider this date to be the anniversary of the eradication of smallpox, the most spectacular success of vaccination.
-- 1968: Space Race: The Soyuz 3 mission achieves the first Soviet space rendezvous.
-- 1967: Mohammad Reza Pahlavi crowns himself Emperor of Iran.
-- 1958: Pan American Airways makes the first commercial flight of the Boeing 707 from New York City to Paris.
-- 1956: Hungarian Revolution: In the towns of Mosonmagyaróvár and Esztergom, Hungarian secret police forces massacre civilians. As rebel strongholds in Budapest hold, fighting spreads throughout the country.
-- 1955: Ngô Đình Diệm proclaims himself as President of the newly created Republic of Vietnam.
-- 1955: After the last Allied troops have left the country, and following the provisions of the Austrian Independence Treaty, Austria declares that it will never join a military alliance.
-- 1947: Partition of India: The Maharaja of Kashmir and Jammu signs the Instrument of Accession with India, beginning the Indo-Pakistani War of 1947-1948 and the Kashmir conflict.
-- 1944: World War II: The Battle of Leyte Gulf ends with an overwhelming American victory.
-- 1942: World War II: In the Battle of the Santa Cruz Islands during the Guadalcanal Campaign, one U.S. aircraft carrier is sunk and another carrier is heavily damaged, while two Japanese carriers and one cruiser are heavily damaged.
-- 1937: Nazi Germany begins expulsions of 18,000 Polish Jews.
-- 1936: The first electric generator at Hoover Dam goes into full operation.
-- 1918: World War I: Erich Ludendorff, quartermaster-general of the Imperial German Army, is dismissed by Kaiser Wilhelm II for refusing to cooperate in peace negotiations.
-- 1917: World War I: Brazil declares war on the Central Powers.
-- 1912: First Balkan War: The Ottomans lose the cities of Thessaloniki and Skopje.
+- 2019: Islamic State of Iraq and the Levant founder and leader Abu Bakr al-Baghdadi kills himself and three children by detonating a suicide vest during the U.S. military Barisha raid in northwestern Syria.
+- 2018: Leicester City F.C. owner Vichai Srivaddhanaprabha dies in a helicopter crash along with four others after a Premier League match against West Ham United at the King Power Stadium in Leicester, England.
+- 2018: A gunman opens fire on a Pittsburgh synagogue killing eleven and injuring six, including four police officers.
+- 2017: Catalonia declares independence from Spain.
+- 2014: Britain withdraws from Afghanistan at the end of Operation Herrick, after 12 years four months and seven days.
+- 1999: Gunmen open fire in the Armenian Parliament, killing the Prime Minister and seven others.
+- 1997: The 1997 Asian financial crisis causes a crash in the Dow Jones Industrial Average.
+- 1994: Gliese 229B is the first Substellar Mass Object to be unquestionably identified.
+- 1993: Widerøe Flight 744 crashes in Overhalla Municipality, Norway, killing six people.
+- 1992: United States Navy radioman Allen R. Schindler, Jr. is murdered by shipmate Terry M. Helvey for being gay, precipitating debate about gays in the military that results in the United States' "Don't ask, don't tell" military policy.
+- 1991: Turkmenistan achieves independence from the Soviet Union.
+- 1988: Cold War: Ronald Reagan suspends construction of the new U.S. Embassy in Moscow due to Soviet listening devices in the building structure.
+- 1986: The British government suddenly deregulates financial markets, leading to a total restructuring of the way in which they operate in the country, in an event now referred to as the Big Bang.
+- 1981: Cold War: The Soviet submarine S-363 runs aground on the east coast of Sweden.
+- 1979: Saint Vincent and the Grenadines gains its independence from the United Kingdom.
+- 1971: The Democratic Republic of the Congo is renamed Zaire.
+- 1964: Ronald Reagan delivers a speech on behalf of the Republican candidate for president, Barry Goldwater. The speech launches his political career and comes to be known as "A Time for Choosing".
+- 1962: By refusing to agree to the firing of a nuclear torpedo at a US warship, Vasily Arkhipov averts nuclear war.
+- 1962: Major Rudolf Anderson of the United States Air Force becomes the only direct human casualty of the Cuban Missile Crisis when his U-2 reconnaissance airplane is shot down over Cuba by a Soviet-supplied surface-to-air missile.
+- 1961: NASA tests the first Saturn I rocket in Mission Saturn-Apollo 1.
+- 1958: Iskander Mirza, the first President of Pakistan, is deposed by General Ayub Khan, who had been appointed the enforcer of martial law by Mirza 20 days earlier.
+- 1954: Benjamin O. Davis, Jr. becomes the first African-American general in the United States Air Force.
+- 1948: Ecological disaster in Donora, Pennsylvania.
+- 1944: World War II: German forces capture Banská Bystrica during Slovak National Uprising thus bringing it to an end.
+- 1936: Mrs. Wallis Simpson obtains her divorce, which would eventually allow her to marry King Edward VIII of the United Kingdom, thus forcing his abdication from the throne.
+- 1930: Ratifications exchanged in London for the first London Naval Treaty go into effect immediately, further limiting the expensive naval arms race among its five signatories.
+- 1924: The Uzbek SSR is founded in the Soviet Union.
+- 1922: A referendum in Rhodesia rejects the country's annexation to the South African Union.
+- 1919: The Fourth Regional Congress of Peasants, Workers and Insurgents is held by the Makhnovshchina at Oleksandrivsk.
+- 1916: Negus Mikael, marching on the Ethiopian capital in support of his son Emperor Iyasu V, is defeated by Fitawrari Habte Giyorgis, securing the throne for Empress Zewditu I.
 
 Data from muffinlabs
-*(Updated at: 2025-10-26 01:50:54 UTC)*
+*(Updated at: 2025-10-27 01:55:02 UTC)*
 
 # 历史上的今天 
 
-- - 2015年：南亚兴都库什山脉发生7.5级地震，造成399人死亡、2,536人受伤。
-- - 2012 年：微软公开发布 Windows 8 并在新 PC 上提供。
-- - 2004 年：Rockstar Games 在北美发布了 PlayStation 2 版《侠盗猎车手：圣安地列斯》，该游戏在 PS2 上售出了 1200 万份，成为该游戏机上最畅销的视频游戏。
-- - 2003 年：雪松火灾是加州历史上第三大野火，造成 15 人死亡，吞噬了 250,000 英亩（1,000 平方公里）土地，并摧毁了圣地亚哥周围的 2,200 所房屋。
-- - 2002年：俄罗斯特种部队袭击了莫斯科的一座剧院大楼，造成大约50名车臣恐怖分子和150名人质死亡，该剧院三天前在一场音乐表演中被恐怖分子占领。
-- - 2001 年：美国通过《美国爱国者法案》成为法律。
-- - 2000年：科特迪瓦总统选举后，一波抗议浪潮迫使罗伯特·盖伊辞去总统职务。
-- - 1999 年：英国上议院投票终止大多数世袭贵族在英国议会上院投票的权利。
-- - 1995 年：一场雪崩袭击了冰岛的弗拉泰里村，摧毁了 29 所房屋，埋葬了 45 人，并造成 20 人死亡。
-- - 1995 年：摩萨德特工在马耳他的酒店刺杀巴勒斯坦伊斯兰圣战组织领导人法蒂·沙卡奇。
-- - 1994年：约旦和以色列签署和平条约。
-- - 1991年：十日战争结束三个月后，南斯拉夫人民军最后一名士兵离开斯洛文尼亚共和国领土。
-- - 1989年：中华航空204号航班从台湾花莲机场起飞后坠毁，机上54人全部遇难。
-- - 1985 年：澳大利亚政府将乌鲁鲁的所有权归还给当地 Pitjantjatjara 原住民。
-- - 1979年：韩国总统朴正熙被韩国中央情报局局长金载奎刺杀。
-- - 1977 年：最后一个自然天花病例 Ali Maow Maalin 在索马里出现皮疹。世界卫生组织和疾病预防控制中心认为这一天是消灭天花的周年纪念日，这是疫苗接种最引人注目的成功。
-- - 1968 年：太空竞赛：联盟 3 号任务实现了苏联首次太空交会。
-- - 1967 年：穆罕默德·礼萨·巴列维加冕为伊朗皇帝。
-- - 1958 年：泛美航空公司首次使用波音 707 进行从纽约飞往巴黎的商业飞行。
-- - 1956 年：匈牙利革命：在莫雄马扎尔古堡和埃斯泰尔戈姆镇，匈牙利秘密警察部队屠杀平民。随着叛军在布达佩斯的据点占据，战斗蔓延到全国各地。
-- - 1955 年：吴庭艳宣布自己为新成立的越南共和国总统。
-- - 1955年：在最后一支盟军离开该国后，根据《奥地利独立条约》的规定，奥地利宣布永远不会加入军事联盟。
-- - 1947 年：印度分治：克什米尔和查谟大君与印度签署加入书，开始 1947-1948 年印巴战争和克什米尔冲突。
-- - 1944 年：第二次世界大战：莱特湾海战以美国压倒性胜利而结束。
-- - 1942年：第二次世界大战：在瓜达尔卡纳尔岛战役期间的圣克鲁斯群岛海战中，一艘美国航空母舰被击沉，另一艘航空母舰严重受损，而日本两艘航空母舰和一艘巡洋舰也严重受损。
-- - 1937 年：纳粹德国开始驱逐 18,000 名波兰犹太人。
-- - 1936 年：胡佛水坝的第一台发电机全面投入运行。
-- - 1918 年：第一次世界大战：德意志帝国陆军军需将军埃里希·鲁登道夫因拒绝在和平谈判中合作而被德皇威廉二世解雇。
-- - 1917 年：第一次世界大战：巴西向同盟国宣战。
-- - 1912 年：第一次巴尔干战争：奥斯曼帝国失去塞萨洛尼基和斯科普里城市。
+- - 2019 年：伊拉克和黎凡特伊斯兰国创始人兼领导人阿布·贝克尔·巴格达迪在美军对叙利亚西北部巴里沙的突袭中引爆自杀背心，导致自己和三名儿童死亡。
+- - 2018：莱斯特城足球俱乐部在英格兰莱斯特王权球场对阵西汉姆联的英超比赛结束后，球队老板维猜·斯里瓦塔那布拉帕 (Vichai Srivaddhanaprabha) 与其他四人一起在直升机失事中丧生。
+- - 2018 年：一名枪手向匹兹堡犹太教堂开枪，造成 11 人死亡、6 人受伤，其中包括 4 名警察。
+- - 2017年：加泰罗尼亚宣布从西班牙独立。
+- - 2014 年：英国在赫里克行动结束后从阿富汗撤军，历时 12 年零 7 天。
+- - 1999年：枪手在亚美尼亚议会开枪，杀死总理和其他七人。
+- - 1997年：1997年的亚洲金融危机导致道琼斯工业平均指数崩盘。
+- - 1994 年：Gliese 229B 是第一个被毫无疑问地识别出来的亚恒星质量天体。
+- - 1993 年：Widerøe 744 航班在挪威奥弗哈拉市坠毁，造成六人死亡。
+- - 1992 年：美国海军无线电员小艾伦·R·辛德勒 (Allen R. Schindler, Jr.) 因同性恋而被同船船员特里·M·赫尔维 (Terry M. Helvey) 谋杀，引发了关于军队中同性恋的争论，最终导致了美国“不问、不说”的军事政策。
+- - 1991年：土库曼斯坦从苏联独立。
+- - 1988 年：冷战：罗纳德·里根因建筑结构中安装了苏联监听装置而暂停了美国驻莫斯科新大使馆的建设。
+- - 1986 年：英国政府突然放松对金融市场的管制，导致金融市场在该国的运作方式发生彻底重组，这一事件现在被称为“大爆炸”。
+- - 1981 年：冷战：苏联潜艇 S-363 在瑞典东海岸搁浅。
+- - 1979 年：圣文森特和格林纳丁斯从英国独立。
+- - 1971年：刚果民主共和国更名为扎伊尔。
+- - 1964 年：罗纳德·里根代表共和党总统候选人巴里·戈德华特发表演讲。这次演讲开启了他的政治生涯，被称为“选择的时刻”。
+- - 1962 年：瓦西里·阿尔希波夫拒绝同意向美国军舰发射核鱼雷，从而避免了核战争。
+- - 1962 年：美国空军少校鲁道夫·安德森 (Rudolf Anderson) 驾驶的 U-2 侦察机在古巴上空被苏联提供的地对空导弹击落，成为古巴导弹危机中唯一的直接人员伤亡。
+- - 1961 年：NASA 在土星-阿波罗 1 号任务中测试了第一枚土星 I 火箭。
+- - 1958 年：巴基斯坦第一任总统伊斯坎德尔·米尔扎 (Iskander Mirza) 被阿尤布·汗 (Ayub Khan) 将军废黜，后者在 20 天前被米尔扎任命为戒严令执行者。
+- - 1954 年：小本杰明·O·戴维斯 (Benjamin O. Davis, Jr.) 成为美国空军第一位非裔美国将军。
+- - 1948 年：宾夕法尼亚州多诺拉发生生态灾难。
+- - 1944 年：第二次世界大战：德军在斯洛伐克民族起义期间占领了班斯卡·比斯特里察，从而结束了起义。
+- - 1936 年：沃利斯·辛普森夫人离婚，最终她嫁给了英国国王爱德华八世，从而迫使他退位。
+- - 1930 年：在伦敦交换的第一份伦敦海军条约的批准书立即生效，进一步限制了五个签署国之间昂贵的海军军备竞赛。
+- - 1924年：乌兹别克苏维埃社会主义共和国在苏联成立。
+- - 1922 年：罗得西亚举行全民公投，拒绝将该国并入南非联盟。
+- - 1919年：马赫诺运动在奥列克桑德里夫斯克召开了第四次农民、工人和起义者地区代表大会。
+- - 1916 年：内格斯·米凯尔 (Negus Mikael) 向埃塞俄比亚首都进军，支持其儿子伊亚苏五世皇帝 (Emperor Iyasu V)，但被菲塔瓦里·哈布特·吉约吉斯 (Fitawrari Habte Giyorgis) 击败，为皇后祖迪图一世 (Zewditu I) 保住了王位。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-10-26 01:50:54 UTC）*
+*（更新于: 2025-10-27 01:55:02 UTC）*
