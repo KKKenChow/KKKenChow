@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: Islamic State of Iraq and the Levant founder and leader Abu Bakr al-Baghdadi kills himself and three children by detonating a suicide vest during the U.S. military Barisha raid in northwestern Syria.
-- 2018: Leicester City F.C. owner Vichai Srivaddhanaprabha dies in a helicopter crash along with four others after a Premier League match against West Ham United at the King Power Stadium in Leicester, England.
-- 2018: A gunman opens fire on a Pittsburgh synagogue killing eleven and injuring six, including four police officers.
-- 2017: Catalonia declares independence from Spain.
-- 2014: Britain withdraws from Afghanistan at the end of Operation Herrick, after 12 years four months and seven days.
-- 1999: Gunmen open fire in the Armenian Parliament, killing the Prime Minister and seven others.
-- 1997: The 1997 Asian financial crisis causes a crash in the Dow Jones Industrial Average.
-- 1994: Gliese 229B is the first Substellar Mass Object to be unquestionably identified.
-- 1993: Widerøe Flight 744 crashes in Overhalla Municipality, Norway, killing six people.
-- 1992: United States Navy radioman Allen R. Schindler, Jr. is murdered by shipmate Terry M. Helvey for being gay, precipitating debate about gays in the military that results in the United States' "Don't ask, don't tell" military policy.
-- 1991: Turkmenistan achieves independence from the Soviet Union.
-- 1988: Cold War: Ronald Reagan suspends construction of the new U.S. Embassy in Moscow due to Soviet listening devices in the building structure.
-- 1986: The British government suddenly deregulates financial markets, leading to a total restructuring of the way in which they operate in the country, in an event now referred to as the Big Bang.
-- 1981: Cold War: The Soviet submarine S-363 runs aground on the east coast of Sweden.
-- 1979: Saint Vincent and the Grenadines gains its independence from the United Kingdom.
-- 1971: The Democratic Republic of the Congo is renamed Zaire.
-- 1964: Ronald Reagan delivers a speech on behalf of the Republican candidate for president, Barry Goldwater. The speech launches his political career and comes to be known as "A Time for Choosing".
-- 1962: By refusing to agree to the firing of a nuclear torpedo at a US warship, Vasily Arkhipov averts nuclear war.
-- 1962: Major Rudolf Anderson of the United States Air Force becomes the only direct human casualty of the Cuban Missile Crisis when his U-2 reconnaissance airplane is shot down over Cuba by a Soviet-supplied surface-to-air missile.
-- 1961: NASA tests the first Saturn I rocket in Mission Saturn-Apollo 1.
-- 1958: Iskander Mirza, the first President of Pakistan, is deposed by General Ayub Khan, who had been appointed the enforcer of martial law by Mirza 20 days earlier.
-- 1954: Benjamin O. Davis, Jr. becomes the first African-American general in the United States Air Force.
+- 2023: The 2023 Rugby World Cup final is held at the Stade de France in Saint-Denis, France. It saw South Africa defeat New Zealand 11 to 12, claiming their fourth Webb Ellis Cup, becoming the first nation to do so.
+- 2018: Jair Bolsonaro is elected president of Brazil with 57 million votes, with Workers' Party candidate Fernando Haddad as the runner-up. It is the first time in 16 years that a Workers' Party candidate is not elected president.
+- 2014: A rocket carrying NASA's Cygnus CRS Orb-3 resupply mission to the International Space Station explodes seconds after taking off from the Mid-Atlantic Regional Spaceport in Wallops Island, Virginia.
+- 2013: Five people are killed and 38 are injured after a car crashes into barriers at Tiananmen Square in China.
+- 2009: US President Barack Obama signs the Matthew Shepard and James Byrd Jr. Hate Crimes Prevention Act.
+- 2009: NASA successfully launches the Ares I-X mission, the only rocket launch for its short-lived Constellation program.
+- 2009: The 28 October 2009 Peshawar bombing kills 117 and wounds 213.
+- 2007: Cristina Fernández de Kirchner becomes the first directly elected female President of Argentina.
+- 2006: A funeral service takes place at the Bykivnia graves for Ukrainians who were killed by the Soviet secret police.
+- 1995: The Baku Metro fire sees 289 people killed and 270 injured.
+- 1990: Georgia holds its only free election under Soviet rule.
+- 1989: Aloha Island Air Flight 1712, a Twin Otter 300, crashed into terrain at night in Hawaii killing all 20 occupants onboard.
+- 1982: The Spanish general election begins fourteen years of rule by the Spanish Socialist Workers' Party.
+- 1971: Prospero becomes the only British satellite to be launched by a British rocket.
+- 1965: Pope Paul VI promulgates Nostra aetate, by which the Roman Catholic Church officially recognizes the legitimacy of non-Christian faiths.
+- 1962: The Cuban Missile Crisis ends and Premier Nikita Khrushchev orders the removal of Soviet missiles from Cuba.
+- 1958: John XXIII is elected Pope.
+- 1954: Aeroflot Flight 136 crashes near Krasnoyarsk, killing 19.
+- 1956: Hungarian Revolution: A de facto ceasefire comes into effect between armed revolutionaries and Soviet troops, who begin to withdraw from Budapest. Communist officials and facilities come under attack by revolutionaries.
+- 1949: An Air France Lockheed Constellation crashes in the Azores, killing all 48 people on board.
 - 1948: Ecological disaster in Donora, Pennsylvania.
-- 1944: World War II: German forces capture Banská Bystrica during Slovak National Uprising thus bringing it to an end.
-- 1936: Mrs. Wallis Simpson obtains her divorce, which would eventually allow her to marry King Edward VIII of the United Kingdom, thus forcing his abdication from the throne.
-- 1930: Ratifications exchanged in London for the first London Naval Treaty go into effect immediately, further limiting the expensive naval arms race among its five signatories.
-- 1924: The Uzbek SSR is founded in the Soviet Union.
-- 1922: A referendum in Rhodesia rejects the country's annexation to the South African Union.
-- 1919: The Fourth Regional Congress of Peasants, Workers and Insurgents is held by the Makhnovshchina at Oleksandrivsk.
-- 1916: Negus Mikael, marching on the Ethiopian capital in support of his son Emperor Iyasu V, is defeated by Fitawrari Habte Giyorgis, securing the throne for Empress Zewditu I.
+- 1948: Paul Hermann Müller is awarded the Nobel Prize in Physiology or Medicine for his discovery of the insecticidal properties of DDT.
+- 1942: The Alaska Highway first connects Alaska to the North American railway network at Dawson Creek in Canada.
+- 1940: World War II: Greece rejects Italy's ultimatum. Italy invades Greece through Albania a few hours later.
+- 1928: Indonesia Raya, now the national anthem of Indonesia, is first played during the Second Indonesian Youth Congress.
+- 1922: Italian fascists led by Benito Mussolini march on Rome and take over the Italian government.
+- 1919: The U.S. Congress passes the Volstead Act over President Woodrow Wilson's veto, paving the way for Prohibition to begin the following January.
+- 1918: World War I: Czech politicians peacefully take over the city of Prague, thus establishing the First Czechoslovak Republic.
+- 1918: World War I: A new Polish government in western Galicia is established, triggering the Polish-Ukrainian War.
+- 1893: Pyotr Tchaikovsky's Symphony No. 6 in B Minor, Pathétique receives its première performance only nine days before the composer's death.
 
 Data from muffinlabs
-*(Updated at: 2025-10-27 01:55:02 UTC)*
+*(Updated at: 2025-10-28 01:44:57 UTC)*
 
 # 历史上的今天 
 
-- - 2019 年：伊拉克和黎凡特伊斯兰国创始人兼领导人阿布·贝克尔·巴格达迪在美军对叙利亚西北部巴里沙的突袭中引爆自杀背心，导致自己和三名儿童死亡。
-- - 2018：莱斯特城足球俱乐部在英格兰莱斯特王权球场对阵西汉姆联的英超比赛结束后，球队老板维猜·斯里瓦塔那布拉帕 (Vichai Srivaddhanaprabha) 与其他四人一起在直升机失事中丧生。
-- - 2018 年：一名枪手向匹兹堡犹太教堂开枪，造成 11 人死亡、6 人受伤，其中包括 4 名警察。
-- - 2017年：加泰罗尼亚宣布从西班牙独立。
-- - 2014 年：英国在赫里克行动结束后从阿富汗撤军，历时 12 年零 7 天。
-- - 1999年：枪手在亚美尼亚议会开枪，杀死总理和其他七人。
-- - 1997年：1997年的亚洲金融危机导致道琼斯工业平均指数崩盘。
-- - 1994 年：Gliese 229B 是第一个被毫无疑问地识别出来的亚恒星质量天体。
-- - 1993 年：Widerøe 744 航班在挪威奥弗哈拉市坠毁，造成六人死亡。
-- - 1992 年：美国海军无线电员小艾伦·R·辛德勒 (Allen R. Schindler, Jr.) 因同性恋而被同船船员特里·M·赫尔维 (Terry M. Helvey) 谋杀，引发了关于军队中同性恋的争论，最终导致了美国“不问、不说”的军事政策。
-- - 1991年：土库曼斯坦从苏联独立。
-- - 1988 年：冷战：罗纳德·里根因建筑结构中安装了苏联监听装置而暂停了美国驻莫斯科新大使馆的建设。
-- - 1986 年：英国政府突然放松对金融市场的管制，导致金融市场在该国的运作方式发生彻底重组，这一事件现在被称为“大爆炸”。
-- - 1981 年：冷战：苏联潜艇 S-363 在瑞典东海岸搁浅。
-- - 1979 年：圣文森特和格林纳丁斯从英国独立。
-- - 1971年：刚果民主共和国更名为扎伊尔。
-- - 1964 年：罗纳德·里根代表共和党总统候选人巴里·戈德华特发表演讲。这次演讲开启了他的政治生涯，被称为“选择的时刻”。
-- - 1962 年：瓦西里·阿尔希波夫拒绝同意向美国军舰发射核鱼雷，从而避免了核战争。
-- - 1962 年：美国空军少校鲁道夫·安德森 (Rudolf Anderson) 驾驶的 U-2 侦察机在古巴上空被苏联提供的地对空导弹击落，成为古巴导弹危机中唯一的直接人员伤亡。
-- - 1961 年：NASA 在土星-阿波罗 1 号任务中测试了第一枚土星 I 火箭。
-- - 1958 年：巴基斯坦第一任总统伊斯坎德尔·米尔扎 (Iskander Mirza) 被阿尤布·汗 (Ayub Khan) 将军废黜，后者在 20 天前被米尔扎任命为戒严令执行者。
-- - 1954 年：小本杰明·O·戴维斯 (Benjamin O. Davis, Jr.) 成为美国空军第一位非裔美国将军。
+- - 2023年：2023年橄榄球世界杯决赛在法国圣但尼的法兰西体育场举行。南非以 11 比 12 击败新西兰，第四次夺得韦伯·埃利斯杯，成为第一个获得此殊荣的国家。
+- - 2018年：雅伊尔·博尔索纳罗以5700万张选票当选巴西总统，工人党候选人费尔南多·哈达德位居第二。这是16年来第一次工人党候选人未能当选总统。
+- - 2014 年：一枚运载 NASA 天鹅座 CRS Orb-3 向国际空间站补给任务的火箭从弗吉尼亚州瓦洛普斯岛的大西洋中部地区航天港起飞几秒钟后爆炸。
+- - 2013年：中国天安门广场一辆汽车撞上护栏，造成5人死亡、38人受伤。
+- - 2009 年：美国总统巴拉克·奥巴马签署《马修·谢泼德和小詹姆斯·伯德仇恨犯罪预防法案》。
+- - 2009 年：NASA 成功发射了战神 I-X 任务，这是其短暂的星座计划的唯一一次火箭发射。
+- - 2009 年：2009 年 10 月 28 日白沙瓦爆炸事件造成 117 人死亡、213 人受伤。
+- - 2007 年：克里斯蒂娜·费尔南德斯·德基什内尔成为阿根廷第一位直接选举产生的女总统。
+- - 2006 年：在比基夫尼亚墓地为被苏联秘密警察杀害的乌克兰人举行葬礼。
+- - 1995 年：巴库地铁火灾导致 289 人死亡、270 人受伤。
+- - 1990 年：格鲁吉亚举行苏联统治下唯一一次自由选举。
+- - 1989 年：阿罗哈岛航空 1712 号航班，一架双水獭 300，夜间在夏威夷坠毁，机上 20 名乘客全部遇难。
+- - 1982年：西班牙大选开始了西班牙社会主义工人党十四年的统治。
+- - 1971 年：普洛斯彼罗成为唯一一颗由英国火箭发射的英国卫星。
+- - 1965年：教皇保罗六世颁布Nostra aetate，罗马天主教会正式承认非基督教信仰的合法性。
+- - 1962 年：古巴导弹危机结束，总理尼基塔·赫鲁晓夫下令从古巴撤走苏联导弹。
+- - 1958 年：约翰二十三世当选教皇。
+- - 1954 年：俄罗斯航空公司 136 号航班在克拉斯诺亚尔斯克附近坠毁，造成 19 人死亡。
+- - 1956 年：匈牙利革命：武装革命者与苏联军队之间事实上的停火生效，苏联军队开始从布达佩斯撤军。共产党官员和设施受到革命者的攻击。
+- - 1949 年：法航洛克希德星座号飞机在亚速尔群岛坠毁，机上 48 人全部遇难。
 - - 1948 年：宾夕法尼亚州多诺拉发生生态灾难。
-- - 1944 年：第二次世界大战：德军在斯洛伐克民族起义期间占领了班斯卡·比斯特里察，从而结束了起义。
-- - 1936 年：沃利斯·辛普森夫人离婚，最终她嫁给了英国国王爱德华八世，从而迫使他退位。
-- - 1930 年：在伦敦交换的第一份伦敦海军条约的批准书立即生效，进一步限制了五个签署国之间昂贵的海军军备竞赛。
-- - 1924年：乌兹别克苏维埃社会主义共和国在苏联成立。
-- - 1922 年：罗得西亚举行全民公投，拒绝将该国并入南非联盟。
-- - 1919年：马赫诺运动在奥列克桑德里夫斯克召开了第四次农民、工人和起义者地区代表大会。
-- - 1916 年：内格斯·米凯尔 (Negus Mikael) 向埃塞俄比亚首都进军，支持其儿子伊亚苏五世皇帝 (Emperor Iyasu V)，但被菲塔瓦里·哈布特·吉约吉斯 (Fitawrari Habte Giyorgis) 击败，为皇后祖迪图一世 (Zewditu I) 保住了王位。
+- - 1948 年：Paul Hermann Müller 因发现 DDT 的杀虫特性而荣获诺贝尔生理学或医学奖。
+- - 1942 年：阿拉斯加高速公路首次将阿拉斯加与位于加拿大道森溪的北美铁路网连接起来。
+- - 1940 年：第二次世界大战：希腊拒绝意大利的最后通牒。几个小时后，意大利通过阿尔巴尼亚入侵希腊。
+- - 1928 年：印度尼西亚拉雅（现为印度尼西亚国歌）在第二届印度尼西亚青年代表大会期间首次奏响。
+- - 1922年：贝尼托·墨索里尼领导的意大利法西斯进军罗马并接管意大利政府。
+- - 1919 年：美国国会不顾伍德罗·威尔逊总统的否决，通过了《沃尔斯特德法案》，为次年 1 月开始实施禁酒令铺平了道路。
+- - 1918年：第一次世界大战：捷克政治家和平占领布拉格市，从而建立了捷克斯洛伐克第一共和国。
+- - 1918年：第一次世界大战：加利西亚西部的波兰新政府成立，引发波乌战争。
+- - 1893 年：彼得·柴可夫斯基的 B 小调第六交响曲《悲怆》在作曲家去世前九天首演。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-10-27 01:55:02 UTC）*
+*（更新于: 2025-10-28 01:44:57 UTC）*
