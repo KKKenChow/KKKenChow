@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: The 2023 Rugby World Cup final is held at the Stade de France in Saint-Denis, France. It saw South Africa defeat New Zealand 11 to 12, claiming their fourth Webb Ellis Cup, becoming the first nation to do so.
-- 2018: Jair Bolsonaro is elected president of Brazil with 57 million votes, with Workers' Party candidate Fernando Haddad as the runner-up. It is the first time in 16 years that a Workers' Party candidate is not elected president.
-- 2014: A rocket carrying NASA's Cygnus CRS Orb-3 resupply mission to the International Space Station explodes seconds after taking off from the Mid-Atlantic Regional Spaceport in Wallops Island, Virginia.
-- 2013: Five people are killed and 38 are injured after a car crashes into barriers at Tiananmen Square in China.
-- 2009: US President Barack Obama signs the Matthew Shepard and James Byrd Jr. Hate Crimes Prevention Act.
-- 2009: NASA successfully launches the Ares I-X mission, the only rocket launch for its short-lived Constellation program.
-- 2009: The 28 October 2009 Peshawar bombing kills 117 and wounds 213.
-- 2007: Cristina Fernández de Kirchner becomes the first directly elected female President of Argentina.
-- 2006: A funeral service takes place at the Bykivnia graves for Ukrainians who were killed by the Soviet secret police.
-- 1995: The Baku Metro fire sees 289 people killed and 270 injured.
-- 1990: Georgia holds its only free election under Soviet rule.
-- 1989: Aloha Island Air Flight 1712, a Twin Otter 300, crashed into terrain at night in Hawaii killing all 20 occupants onboard.
-- 1982: The Spanish general election begins fourteen years of rule by the Spanish Socialist Workers' Party.
-- 1971: Prospero becomes the only British satellite to be launched by a British rocket.
-- 1965: Pope Paul VI promulgates Nostra aetate, by which the Roman Catholic Church officially recognizes the legitimacy of non-Christian faiths.
-- 1962: The Cuban Missile Crisis ends and Premier Nikita Khrushchev orders the removal of Soviet missiles from Cuba.
-- 1958: John XXIII is elected Pope.
-- 1954: Aeroflot Flight 136 crashes near Krasnoyarsk, killing 19.
-- 1956: Hungarian Revolution: A de facto ceasefire comes into effect between armed revolutionaries and Soviet troops, who begin to withdraw from Budapest. Communist officials and facilities come under attack by revolutionaries.
-- 1949: An Air France Lockheed Constellation crashes in the Azores, killing all 48 people on board.
-- 1948: Ecological disaster in Donora, Pennsylvania.
-- 1948: Paul Hermann Müller is awarded the Nobel Prize in Physiology or Medicine for his discovery of the insecticidal properties of DDT.
-- 1942: The Alaska Highway first connects Alaska to the North American railway network at Dawson Creek in Canada.
-- 1940: World War II: Greece rejects Italy's ultimatum. Italy invades Greece through Albania a few hours later.
-- 1928: Indonesia Raya, now the national anthem of Indonesia, is first played during the Second Indonesian Youth Congress.
-- 1922: Italian fascists led by Benito Mussolini march on Rome and take over the Italian government.
-- 1919: The U.S. Congress passes the Volstead Act over President Woodrow Wilson's veto, paving the way for Prohibition to begin the following January.
-- 1918: World War I: Czech politicians peacefully take over the city of Prague, thus establishing the First Czechoslovak Republic.
-- 1918: World War I: A new Polish government in western Galicia is established, triggering the Polish-Ukrainian War.
-- 1893: Pyotr Tchaikovsky's Symphony No. 6 in B Minor, Pathétique receives its première performance only nine days before the composer's death.
+- 2022: At least 100 people are killed and over 300 are injured by a double car bombing in Mogadishu, Somalia.
+- 2022: At least 156 die at a crowd crush during a Halloween celebration in Itaewon district, Seoul, South Korea.
+- 2020: Jeremy Corbyn, Leader of the Labour Party and of the Opposition in the United Kingdom is suspended from the Labour Party following his response to findings from the EHRC on the issue of antisemitism within the party.
+- 2018: A Boeing 737 MAX plane crashes after taking off from Jakarta, Indonesia killing 189 people on board.
+- 2015: China announces the end of its one-child policy after 35 years.
+- 2014: A mud slide; the 2014 Badulla landslide, in south-central Sri Lanka, kills at least 16 people, and leaves hundreds of people missing.
+- 2012: Hurricane Sandy hits the east coast of the United States, killing hundreds, while leaving nearly $70 billion in damages and causing major power outages.
+- 2008: A pair of deadly earthquakes hits Baluchistan, Pakistan, killing 215.
+- 2008: Delta Air Lines merges with Northwest Airlines, creating the world's largest airline and reducing the number of US legacy carriers to five.
+- 2006: ADC Airlines Flight 053 crashes after takeoff from Nnamdi Azikiwe International Airport in Abuja, Nigeria killing 96 people and injuring nine.
+- 2005: Bombings in Delhi, India kill 67 and injure over 200 people.
+- 2004: The Arabic-language news network Al Jazeera broadcasts an excerpt from a 2004 Osama bin Laden video in which the terrorist leader first admits direct responsibility for the September 11, 2001 attacks and references the 2004 U.S. presidential election.
+- 2002: A fire destroys a luxurious department store in Ho Chi Minh City, where 1,500 people are shopping. More than 60 people die and over 100 are unaccounted for in the deadliest peacetime disaster in Vietnam.
+- 1999: A large cyclone devastates Odisha, India.
+- 1998: The Gothenburg discothèque fire in Sweden kills 63 and injures over 200.
+- 1998: Hurricane Mitch, the second deadliest Atlantic hurricane in history, makes landfall in Honduras.
+- 1998: ATSC HDTV broadcasting in the United States is inaugurated with the launch of the STS-95 space shuttle mission.
+- 1998: Space Shuttle Discovery blasts off on STS-95 with 77-year-old John Glenn on board, making him the oldest person to go into space at that time.
+- 1998: In South Africa, the Truth and Reconciliation Commission presents its report, which condemns both sides for committing atrocities.
+- 1994: Francisco Martin Duran fires over two dozen shots at the White House; he is later convicted of trying to kill U.S. President Bill Clinton.
+- 1991: The American Galileo spacecraft makes its closest approach to 951 Gaspra, becoming the first probe to visit an asteroid.
+- 1986: British Prime Minister Margaret Thatcher opens the last stretch of the M25 motorway.
+- 1985: Major General Samuel K. Doe is announced as the winner of the first multi-party election in Liberia.
+- 1980: Demonstration flight of a secretly modified C-130 for an Iran hostage crisis rescue attempt ends in a crash landing at Eglin Air Force Base's Duke Field, Florida, leading to the cancellation of Operation Credible Sport.
+- 1972: The three surviving perpetrators of the Munich massacre are released from prison in exchange for the hostages of the hijacked Lufthansa Flight 615.
+- 1969: The first-ever computer-to-computer link is established on ARPANET, the precursor to the Internet.
+- 1967: Montreal's World Fair, Expo 67, closes with over 50 million visitors.
+- 1964: Biggest jewel heist; involving the Star of India in the American Museum of Natural History in New York City by Murph the Surf and gang.
+- 1964: The United Republic of Tanganyika and Zanzibar is renamed to the United Republic of Tanzania.
+- 1960: An airplane carrying the Cal Poly football team crashes on takeoff in Toledo, Ohio.
 
 Data from muffinlabs
-*(Updated at: 2025-10-28 01:44:57 UTC)*
+*(Updated at: 2025-10-29 01:51:29 UTC)*
 
 # 历史上的今天 
 
-- - 2023年：2023年橄榄球世界杯决赛在法国圣但尼的法兰西体育场举行。南非以 11 比 12 击败新西兰，第四次夺得韦伯·埃利斯杯，成为第一个获得此殊荣的国家。
-- - 2018年：雅伊尔·博尔索纳罗以5700万张选票当选巴西总统，工人党候选人费尔南多·哈达德位居第二。这是16年来第一次工人党候选人未能当选总统。
-- - 2014 年：一枚运载 NASA 天鹅座 CRS Orb-3 向国际空间站补给任务的火箭从弗吉尼亚州瓦洛普斯岛的大西洋中部地区航天港起飞几秒钟后爆炸。
-- - 2013年：中国天安门广场一辆汽车撞上护栏，造成5人死亡、38人受伤。
-- - 2009 年：美国总统巴拉克·奥巴马签署《马修·谢泼德和小詹姆斯·伯德仇恨犯罪预防法案》。
-- - 2009 年：NASA 成功发射了战神 I-X 任务，这是其短暂的星座计划的唯一一次火箭发射。
-- - 2009 年：2009 年 10 月 28 日白沙瓦爆炸事件造成 117 人死亡、213 人受伤。
-- - 2007 年：克里斯蒂娜·费尔南德斯·德基什内尔成为阿根廷第一位直接选举产生的女总统。
-- - 2006 年：在比基夫尼亚墓地为被苏联秘密警察杀害的乌克兰人举行葬礼。
-- - 1995 年：巴库地铁火灾导致 289 人死亡、270 人受伤。
-- - 1990 年：格鲁吉亚举行苏联统治下唯一一次自由选举。
-- - 1989 年：阿罗哈岛航空 1712 号航班，一架双水獭 300，夜间在夏威夷坠毁，机上 20 名乘客全部遇难。
-- - 1982年：西班牙大选开始了西班牙社会主义工人党十四年的统治。
-- - 1971 年：普洛斯彼罗成为唯一一颗由英国火箭发射的英国卫星。
-- - 1965年：教皇保罗六世颁布Nostra aetate，罗马天主教会正式承认非基督教信仰的合法性。
-- - 1962 年：古巴导弹危机结束，总理尼基塔·赫鲁晓夫下令从古巴撤走苏联导弹。
-- - 1958 年：约翰二十三世当选教皇。
-- - 1954 年：俄罗斯航空公司 136 号航班在克拉斯诺亚尔斯克附近坠毁，造成 19 人死亡。
-- - 1956 年：匈牙利革命：武装革命者与苏联军队之间事实上的停火生效，苏联军队开始从布达佩斯撤军。共产党官员和设施受到革命者的攻击。
-- - 1949 年：法航洛克希德星座号飞机在亚速尔群岛坠毁，机上 48 人全部遇难。
-- - 1948 年：宾夕法尼亚州多诺拉发生生态灾难。
-- - 1948 年：Paul Hermann Müller 因发现 DDT 的杀虫特性而荣获诺贝尔生理学或医学奖。
-- - 1942 年：阿拉斯加高速公路首次将阿拉斯加与位于加拿大道森溪的北美铁路网连接起来。
-- - 1940 年：第二次世界大战：希腊拒绝意大利的最后通牒。几个小时后，意大利通过阿尔巴尼亚入侵希腊。
-- - 1928 年：印度尼西亚拉雅（现为印度尼西亚国歌）在第二届印度尼西亚青年代表大会期间首次奏响。
-- - 1922年：贝尼托·墨索里尼领导的意大利法西斯进军罗马并接管意大利政府。
-- - 1919 年：美国国会不顾伍德罗·威尔逊总统的否决，通过了《沃尔斯特德法案》，为次年 1 月开始实施禁酒令铺平了道路。
-- - 1918年：第一次世界大战：捷克政治家和平占领布拉格市，从而建立了捷克斯洛伐克第一共和国。
-- - 1918年：第一次世界大战：加利西亚西部的波兰新政府成立，引发波乌战争。
-- - 1893 年：彼得·柴可夫斯基的 B 小调第六交响曲《悲怆》在作曲家去世前九天首演。
+- - 2022 年：索马里摩加迪沙发生双汽车爆炸事件，造成至少 100 人死亡、300 多人受伤。
+- - 2022 年：韩国首尔梨泰院区万圣节庆祝活动期间，人群拥挤造成至少 156 人死亡。
+- - 2020 年：英国工党和反对党领袖杰里米·科尔宾 (Jeremy Corbyn) 对 EHRC 关于党内反犹太主义问题的调查结果作出回应后，被停职。
+- - 2018 年：一架波音 737 MAX 飞机从印度尼西亚雅加达起飞后坠毁，机上 189 人丧生。
+- - 2015年：中国宣布结束35年后的独生子女政策。
+- - 2014年：泥石流；2014 年斯里兰卡中南部巴杜拉山体滑坡造成至少 16 人死亡，数百人失踪。
+- - 2012 年：桑迪飓风袭击美国东海岸，造成数百人死亡，造成近 700 亿美元的损失，并造成严重停电。
+- - 2008 年：巴基斯坦俾路支省发生两次致命地震，造成 215 人死亡。
+- - 2008 年：达美航空与西北航空合并，创建了世界上最大的航空公司，并将美国传统航空公司的数量减少到五家。
+- - 2006 年：ADC 航空公司 053 号航班从尼日利亚阿布贾纳姆迪·阿齐基韦国际机场起飞后坠毁，造成 96 人死亡、9 人受伤。
+- - 2005 年：印度德里发生爆炸事件，造成 67 人死亡、200 多人受伤。
+- - 2004 年：阿拉伯语新闻网络半岛电视台播放了 2004 年奥萨马·本·拉登视频的节选，其中恐怖分子头目首次承认对 2001 年 9 月 11 日的袭击负有直接责任，并提到了 2004 年美国总统选举。
+- - 2002 年：一场火灾烧毁了胡志明市一家豪华百货商店，当时有 1,500 人正在那里购物。在越南和平时期最严重的灾难中，已有 60 多人死亡，100 多人下落不明。
+- - 1999 年：一场大型旋风摧毁了印度奥里萨邦。
+- - 1998 年：瑞典哥德堡迪斯科舞厅火灾造成 63 人死亡、200 多人受伤。
+- - 1998 年：历史上第二致命的大西洋飓风米奇在洪都拉斯登陆。
+- - 1998 年：随着 STS-95 航天飞机任务的发射，美国 ATSC 高清电视广播正式启动。
+- - 1998 年：发现号航天飞机搭乘 STS-95 升空，机上载有 77 岁的约翰·格伦，这使他成为当时进入太空最年长的人。
+- - 1998年：在南非，真相与和解委员会提出报告，谴责双方犯下的暴行。
+- - 1994 年：弗朗西斯科·马丁·杜兰向白宫开了两打以上的枪；他后来因试图刺杀美国总统比尔·克林顿而被定罪。
+- - 1991 年：美国伽利略号宇宙飞船最接近 951 Gaspra，成为第一个访问小行星的探测器。
+- - 1986 年：英国首相玛格丽特·撒切尔开通了 M25 高速公路的最后一段。
+- - 1985 年：塞缪尔·多伊少将被宣布为利比里亚第一次多党选举的获胜者。
+- - 1980 年：一架秘密改装的 C-130 为伊朗人质危机营救而进行的演示飞行最终在佛罗里达州杜克机场埃格林空军基地迫降，导致“可信体育行动”被取消。
+- - 1972 年：慕尼黑大屠杀的三名幸存肇事者被释放出狱，以换取被劫持的汉莎航空 615 航班的人质。
+- - 1969 年：第一个计算机到计算机的链接在阿帕网（互联网的前身）上建立。
+- - 1967 年：第 67 届蒙特利尔世界博览会闭幕，吸引了超过 5000 万游客。
+- - 1964 年：最大的珠宝抢劫案；冲浪者墨菲和帮派在纽约美国自然历史博物馆展出了印度之星号。
+- - 1964年：坦噶尼喀和桑给巴尔联合共和国更名为坦桑尼亚联合共和国。
+- - 1960 年：一架载有加州保利橄榄球队的飞机在俄亥俄州托莱多起飞时坠毁。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-10-28 01:44:57 UTC）*
+*（更新于: 2025-10-29 01:51:29 UTC）*
