@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2020: Berlin Brandenburg Airport opens its doors after nearly 10 years of delays due to construction issues and project corruption.
-- 2017: A truck drives into a crowd in Lower Manhattan, New York City, killing eight people.
-- 2015: Metrojet Flight 9268 is bombed over the northern Sinai Peninsula, killing all 224 people on board.
-- 2014: During a test flight, the VSS Enterprise, a Virgin Galactic experimental spaceflight test vehicle, suffers a catastrophic in-flight breakup and crashes in the Mojave Desert, California.
-- 2011: The global population of humans reaches seven billion. This day is now recognized by the United Nations as the Day of Seven Billion.
-- 2003: Mahathir Mohamad resigns as Prime Minister of Malaysia and is replaced by Deputy Prime Minister Abdullah Ahmad Badawi, marking an end to Mahathir's 22 years in power.
-- 2002: A federal grand jury in Houston, Texas indicts former Enron chief financial officer Andrew Fastow on 78 counts of wire fraud, money laundering, conspiracy and obstruction of justice related to the collapse of his ex-employer.
-- 2000: Singapore Airlines Flight 006 crashes on takeoff from Taipei, killing 83.
-- 2000: Soyuz TM-31 launches, carrying the first resident crew to the International Space Station. The ISS has been crewed continuously since then.
-- 1999: EgyptAir Flight 990 crashes into the Atlantic Ocean near Nantucket, killing all 217 people on board.
-- 1999: Yachtsman Jesse Martin returns to Melbourne after 11 months of circumnavigating the world, solo, non-stop and unassisted.
-- 1998: Iraq disarmament crisis begins: Iraq announces it would no longer cooperate with United Nations weapons inspectors.
-- 1996: TAM Transportes Aéreos Regionais Flight 402 crashes in São Paulo, Brazil, killing 99 people.
-- 1994: American Eagle Flight 4184 crashes near Roselawn, Indiana killing all 68 people on board.
-- 1984: Indian Prime Minister Indira Gandhi is assassinated by two Sikh security guards. Riots break out in New Delhi and other cities and around 3,000 Sikhs are killed.
-- 1979: Western Airlines Flight 2605 crashes on landing in Mexico City, killing 73 people.
-- 1973: Mountjoy Prison helicopter escape. Three Provisional Irish Republican Army members escape from Mountjoy Prison, Dublin aboard a hijacked helicopter that landed in the exercise yard.
-- 1968: Vietnam War October surprise: Citing progress with the Paris peace talks, US President Lyndon B. Johnson announces to the nation that he has ordered a complete cessation of "all air, naval, and artillery bombardment of North Vietnam" effective November 1.
-- 1963: Indiana State Fairgrounds Coliseum gas explosion: A gas explosion at the Indiana State Fairgrounds Coliseum in Indianapolis kills 81 people and injures another 400 during an ice show.
-- 1961: In the Soviet Union, Joseph Stalin's body is removed from Lenin's Mausoleum, also known as the Lenin Tomb.
-- 1956: Hungarian Revolution of 1956: A Revolutionary Headquarters is established in Hungary. Following Imre Nagy's announcement of October 30, banned non-Communist political parties are reformed, and the MDP is replaced by the MSZMP.  József Mindszenty is released from prison. The Soviet Politburo makes the decision to crush the Revolution.
-- 1956: Suez Crisis: The United Kingdom and France begin bombing Egypt to force the reopening of the Suez Canal.
-- 1943: World War II: An F4U Corsair accomplishes the first successful radar-guided interception by a United States Navy or Marine Corps aircraft.
-- 1941: World War II: The destroyer USS Reuben James is torpedoed by a German U-boat near Iceland, killing more than 100 U.S. Navy sailors. It is the first U.S. Navy vessel sunk by enemy action in WWII.
-- 1941: After 14 years of work, Mount Rushmore is completed.
-- 1940: World War II: The Battle of Britain ends, causing Germany to abandon Operation Sea Lion.
-- 1938: Great Depression: In an effort to restore investor confidence, the New York Stock Exchange unveils a fifteen-point program aimed to upgrade protection for the investing public.
-- 1924: World Savings Day is announced in Milan, Italy by the Members of the Association at the 1st International Savings Bank Congress (World Society of Savings Banks).
-- 1923: The first of 160 consecutive days of 100° Fahrenheit at Marble Bar, Western Australia.
-- 1922: Benito Mussolini is made Prime Minister of Italy.
+- 2024: A concrete canopy collapses at the Novi Sad railway station, killing 14 people and injuring 3.
+- 2012: A fuel tank truck crashes and explodes in the Saudi Arabian capital Riyadh, killing 26 people and injuring 135.
+- 2011: Mario Draghi succeeds Jean-Claude Trichet and becomes the third president of the European Central Bank.
+- 2009: An Ilyushin Il-76 crashes near the Mir mine after takeoff from Mirny Airport in Yakutia, killing all 11 aboard.
+- 2001: Turkey, Australia, and Canada agree to commit troops to the invasion of Afghanistan.
+- 2000: Serbia and Montenegro joins the United Nations.
+- 2000: Chhattisgarh officially becomes the 26th state of India, formed from sixteen districts of eastern Madhya Pradesh.
+- 1993: The Maastricht Treaty takes effect, formally establishing the European Union.
+- 1991: President of the Chechen Republic Dzhokhar Dudayev declares sovereignty of the Chechen Republic of Ichkeria from the Russian Federation.
+- 1987: British Rail Class 43 (HST) hits the record speed of 238 km/h for rail vehicles with on-board fuel to generate electricity for traction motors.
+- 1984: After the assassination of Indira Gandhi, Prime Minister of India on 31 October 1984, by two of her Sikh bodyguards, anti-Sikh riots erupt.
+- 1982: Honda becomes the first Asian automobile company to produce cars in the United States with the opening of its factory in Marysville, Ohio; a Honda Accord is the first car produced there.
+- 1981: Antigua and Barbuda gains independence from the United Kingdom.
+- 1979: Griselda Álvarez becomes the first female governor of a state of Mexico.
+- 1979: In Bolivia, Colonel Alberto Natusch executes a bloody coup d'état against the constitutional government of Wálter Guevara.
+- 1976: Burundian president Michel Micombero is deposed in a bloodless military coup d'état by deputy Jean-Baptiste Bagaza.
+- 1973: The Indian state of Mysore is renamed as Karnataka to represent all the regions within Karunadu.
+- 1973: Watergate scandal: Leon Jaworski is appointed as the new Watergate Special Prosecutor.
+- 1970: Club Cinq-Sept fire in Saint-Laurent-du-Pont, France kills 146 young people.
+- 1968: The Motion Picture Association of America's film rating system is officially introduced, originating with the ratings G, M, R, and X.
+- 1963: The 1963 South Vietnamese coup begins.
+- 1963: The Arecibo Observatory in Arecibo, Puerto Rico, with the largest radio telescope ever constructed, officially opens.
+- 1957: The Mackinac Bridge, the world's longest suspension bridge between anchorages at the time, opens to traffic connecting Michigan's upper and lower peninsulas.
+- 1956: The Springhill mining disaster in Springhill, Nova Scotia kills 39 miners; 88 are rescued.
+- 1956: Hungarian Revolution: Imre Nagy announces Hungary's neutrality and withdrawal from the Warsaw Pact. Soviet troops begin to re-enter Hungary, contrary to assurances by the Soviet government. János Kádár and Ferenc Münnich secretly defect to the Soviets.
+- 1956: The Indian states Kerala, Andhra Pradesh, and Mysore are formally created under the States Reorganisation Act; Kanyakumari district is joined to Tamil Nadu from Kerala. Delhi was established as a union territory.
+- 1955: The bombing of United Air Lines Flight 629 occurs near Longmont, Colorado, killing all 39 passengers and five crew members aboard the Douglas DC-6B airliner.
+- 1955: The establishment of a Military Assistance Advisory Group in South Vietnam marks the beginning of American involvement in the conflict.
+- 1954: The Front de Libération Nationale fires the first shots of the Algerian War of Independence.
+- 1952: Nuclear weapons testing: The United States successfully detonates Ivy Mike, the first thermonuclear device, at the Eniwetok atoll. The explosion had a yield of ten megatons TNT equivalent.
 
 Data from muffinlabs
-*(Updated at: 2025-10-31 01:47:40 UTC)*
+*(Updated at: 2025-11-01 01:51:22 UTC)*
 
 # 历史上的今天 
 
-- - 2020 年：柏林勃兰登堡机场在因施工问题和项目腐败而延误近 10 年之后重新开放。
-- - 2017 年：一辆卡车在纽约市曼哈顿下城冲入人群，造成 8 人死亡。
-- - 2015 年：Metrojet 9268 航班在西奈半岛北部上空遭到轰炸，机上 224 人全部遇难。
-- - 2014 年：在试飞期间，维珍银河实验性太空飞行测试飞行器 VSS Enterprise 在飞行中遭遇灾难性解体，并在加利福尼亚州莫哈韦沙漠坠毁。
-- - 2011 年：全球人口达到 70 亿。这一天现已被联合国认定为“七十亿日”。
-- - 2003年：马哈蒂尔·穆罕默德辞去马来西亚总理职务，由副总理阿卜杜拉·艾哈迈德·巴达维接任，标志着马哈蒂尔22年的执政生涯结束。
-- - 2002 年：得克萨斯州休斯敦的一个联邦大陪审团起诉安然公司前首席财务官安德鲁·法斯托 (Andrew Fastow)，罪名包括与他的前雇主倒闭有关的 78 项电汇欺诈、洗钱、共谋和妨碍司法公正等罪名。
-- - 2000 年：新加坡航空 006 号航班从台北起飞时坠毁，造成 83 人死亡。
-- - 2000 年：联盟号 TM-31 发射，将第一批常驻机组人员送往国际空间站。从那时起，国际空间站就一直不断地载人。
-- - 1999 年：埃及航空 990 号航班在楠塔基特岛附近坠入大西洋，机上 217 人全部遇难。
-- - 1999 年：游艇运动员杰西·马丁 (Jesse Martin) 在独自、不间断、无协助地环游世界 11 个月后返回墨尔本。
-- - 1998年：伊拉克裁军危机开始：伊拉克宣布不再与联合国武器核查人员合作。
-- - 1996 年：TAM Transportes Aéreos Regionais 402 航班在巴西圣保罗坠毁，造成 99 人死亡。
-- - 1994 年：美国之鹰 4184 号航班在印第安纳州罗斯劳恩附近坠毁，机上 68 人全部遇难。
-- - 1984年：印度总理英迪拉·甘地被两名锡克教保安暗杀。新德里和其他城市爆发骚乱，约 3000 名锡克教徒被杀。
-- - 1979 年：西方航空公司 2605 号航班在墨西哥城降落时坠毁，造成 73 人死亡。
-- - 1973 年：蒙特乔伊监狱直升机越狱。三名临时爱尔兰共和军成员乘坐一架降落在演习场的被劫持的直升机从都柏林芒特乔伊监狱逃脱。
-- - 1968 年：越南战争十月意外：美国总统林登·约翰逊 (Lyndon B. Johnson) 援引巴黎和谈的进展向全国宣布，他已下令从 11 月 1 日起完全停止“对北越的所有空中、海上和炮击”。
-- - 1963 年：印第安纳州博览会场体育馆瓦斯爆炸：印第安纳波利斯印第安纳州博览会场体育馆在冰上表演期间发生瓦斯爆炸，造成 81 人死亡、另外 400 人受伤。
-- - 1961年：在苏联，约瑟夫·斯大林的遗体被从列宁陵墓（也称为列宁墓）移走。
-- - 1956 年：1956 年匈牙利革命：革命总部在匈牙利成立。纳吉伊姆雷·纳吉于 10 月 30 日宣布，对被取缔的非共产主义政党进行改革，并由 MSZMP 取代 MDP。约瑟夫·明德森蒂 (József Mindszenty) 出狱。苏联政治局做出镇压革命的决定。
-- - 1956 年：苏伊士运河危机：英国和法国开始轰炸埃及，迫使苏伊士运河重新开放。
-- - 1943 年：第二次世界大战：F4U 海盗机首次成功完成美国海军或海军陆战队飞机的雷达制导拦截。
-- - 1941 年：第二次世界大战：美国海军鲁本·詹姆斯号驱逐舰在冰岛附近被一艘德国潜艇的鱼雷击中，造成 100 多名美国海军水手死亡。这是二战中第一艘被敌方击沉的美国海军舰艇。
-- - 1941 年：经过 14 年的工作，拉什莫尔山竣工。
-- - 1940 年：第二次世界大战：不列颠之战结束，导致德国放弃海狮行动。
-- - 1938 年：大萧条：为了恢复投资者信心，纽约证券交易所推出了一项十五点计划，旨在加强对投资大众的保护。
-- - 1924 年：协会成员在意大利米兰举行的第一届国际储蓄银行大会（世界储蓄银行协会）上宣布世界储蓄日。
-- - 1923 年：西澳大利亚 Marble Bar 连续 160 天达到 100 华氏度的第一天。
-- - 1922 年：贝尼托·墨索里尼就任意大利总理。
+- - 2024 年：诺维萨德火车站的混凝土顶篷倒塌，造成 14 人死亡、3 人受伤。
+- - 2012年：沙特阿拉伯首都利雅得一辆油罐车发生事故并爆炸，造成26人死亡、135人受伤。
+- - 2011年：马里奥·德拉吉接替让-克洛德·特里谢，成为欧洲央行第三任行长。
+- - 2009 年：一架 Ilyushin Il-76 从雅库特米尔内机场起飞后在米尔矿场附近坠毁，机上 11 人全部遇难。
+- - 2001年：土耳其、澳大利亚和加拿大同意派遣军队入侵阿富汗。
+- - 2000年：塞尔维亚和黑山加入联合国。
+- - 2000年：恰蒂斯加尔邦正式成为印度第26个邦，由中央邦东部的16个区组成。
+- - 1993年：《马斯特里赫特条约》生效，欧盟正式成立。
+- - 1991年：车臣共和国总统焦哈尔·杜达耶夫宣布车臣共和国伊奇克里亚主权脱离俄罗斯联邦。
+- - 1987 年：英国铁路 43 级 (HST) 铁路车辆的时速创下了 238 公里/小时的纪录，该车辆采用车载燃料为牵引电机发电。
+- - 1984 年：1984 年 10 月 31 日，印度总理英迪拉·甘地被两名锡克教保镖刺杀后，爆发了反锡克教骚乱。
+- - 1982 年：本田在俄亥俄州马里斯维尔开设工厂，成为第一家在美国生产汽车的亚洲汽车公司；本田雅阁是那里生产的第一辆汽车。
+- - 1981 年：安提瓜和巴布达从英国独立。
+- - 1979 年：格里塞尔达·阿尔瓦雷斯 (Griselda Álvarez) 成为墨西哥州第一位女州长。
+- - 1979 年：在玻利维亚，阿尔贝托·纳图什上校发动了一场血腥政变，反对瓦尔特·格瓦拉的宪政政府。
+- - 1976 年：布隆迪总统米歇尔·米孔贝罗 (Michel Micombero) 在一次不流血的军事政变中被副总统让·巴蒂斯特·巴加萨 (Jean-Baptiste Bagaza) 废黜。
+- - 1973 年：印度迈索尔州更名为卡纳塔克邦，代表卡鲁纳杜省的所有地区。
+- - 1973 年：水门事件丑闻：Leon Jaworski 被任命为新的水门事件特别检察官。
+- - 1970 年：法国 Saint-Laurent-du-Pont 的 Cinq-Sept 俱乐部火灾导致 146 名年轻人死亡。
+- - 1968年：美国电影协会的电影分级系统正式推出，最初的分级为G、M、R和X。
+- - 1963 年：1963 年南越政变开始。
+- - 1963 年：位于波多黎各阿雷西博的阿雷西博天文台正式开放，该天文台拥有有史以来最大的射电望远镜。
+- - 1957 年：当时世界上最长的锚地之间的悬索桥麦基诺桥建成通车，连接密歇根州的上下半岛。
+- - 1956 年：新斯科舍省斯普林希尔发生的斯普林希尔采矿灾难导致 39 名矿工死亡；88人获救。
+- - 1956 年：匈牙利革命：纳吉伊姆雷宣布匈牙利保持中立并退出华沙条约组织。苏联军队开始重新进入匈牙利，这与苏联政府的保证相反。亚诺什·卡达尔和费伦茨·明尼希秘密叛逃到苏联。
+- - 1956年：印度喀拉拉邦、安得拉邦和迈索尔根据《邦重组法》正式成立；坎亚库马里区与喀拉拉邦的泰米尔纳德邦相连。德里被建立为联邦直辖区。
+- - 1955 年：联合航空 629 号航班在科罗拉多州朗蒙特附近发生爆炸，道格拉斯 DC-6B 客机上的 39 名乘客和 5 名机组人员全部遇难。
+- - 1955年：南越军事援助咨询小组的成立标志着美国开始介入南越冲突。
+- - 1954 年：民族解放阵线打响了阿尔及利亚独立战争的第一枪。
+- - 1952 年：核武器试验：美国在埃尼威托克环礁成功引爆了第一个热核装置“艾维·麦克”。爆炸产生了十兆吨 TNT 当量。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-10-31 01:47:40 UTC）*
+*（更新于: 2025-11-01 01:51:22 UTC）*
