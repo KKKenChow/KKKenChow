@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: A concrete canopy collapses at the Novi Sad railway station, killing 14 people and injuring 3.
-- 2012: A fuel tank truck crashes and explodes in the Saudi Arabian capital Riyadh, killing 26 people and injuring 135.
-- 2011: Mario Draghi succeeds Jean-Claude Trichet and becomes the third president of the European Central Bank.
-- 2009: An Ilyushin Il-76 crashes near the Mir mine after takeoff from Mirny Airport in Yakutia, killing all 11 aboard.
-- 2001: Turkey, Australia, and Canada agree to commit troops to the invasion of Afghanistan.
-- 2000: Serbia and Montenegro joins the United Nations.
-- 2000: Chhattisgarh officially becomes the 26th state of India, formed from sixteen districts of eastern Madhya Pradesh.
-- 1993: The Maastricht Treaty takes effect, formally establishing the European Union.
-- 1991: President of the Chechen Republic Dzhokhar Dudayev declares sovereignty of the Chechen Republic of Ichkeria from the Russian Federation.
-- 1987: British Rail Class 43 (HST) hits the record speed of 238 km/h for rail vehicles with on-board fuel to generate electricity for traction motors.
-- 1984: After the assassination of Indira Gandhi, Prime Minister of India on 31 October 1984, by two of her Sikh bodyguards, anti-Sikh riots erupt.
-- 1982: Honda becomes the first Asian automobile company to produce cars in the United States with the opening of its factory in Marysville, Ohio; a Honda Accord is the first car produced there.
-- 1981: Antigua and Barbuda gains independence from the United Kingdom.
-- 1979: Griselda Álvarez becomes the first female governor of a state of Mexico.
-- 1979: In Bolivia, Colonel Alberto Natusch executes a bloody coup d'état against the constitutional government of Wálter Guevara.
-- 1976: Burundian president Michel Micombero is deposed in a bloodless military coup d'état by deputy Jean-Baptiste Bagaza.
-- 1973: The Indian state of Mysore is renamed as Karnataka to represent all the regions within Karunadu.
-- 1973: Watergate scandal: Leon Jaworski is appointed as the new Watergate Special Prosecutor.
-- 1970: Club Cinq-Sept fire in Saint-Laurent-du-Pont, France kills 146 young people.
-- 1968: The Motion Picture Association of America's film rating system is officially introduced, originating with the ratings G, M, R, and X.
-- 1963: The 1963 South Vietnamese coup begins.
-- 1963: The Arecibo Observatory in Arecibo, Puerto Rico, with the largest radio telescope ever constructed, officially opens.
-- 1957: The Mackinac Bridge, the world's longest suspension bridge between anchorages at the time, opens to traffic connecting Michigan's upper and lower peninsulas.
-- 1956: The Springhill mining disaster in Springhill, Nova Scotia kills 39 miners; 88 are rescued.
-- 1956: Hungarian Revolution: Imre Nagy announces Hungary's neutrality and withdrawal from the Warsaw Pact. Soviet troops begin to re-enter Hungary, contrary to assurances by the Soviet government. János Kádár and Ferenc Münnich secretly defect to the Soviets.
-- 1956: The Indian states Kerala, Andhra Pradesh, and Mysore are formally created under the States Reorganisation Act; Kanyakumari district is joined to Tamil Nadu from Kerala. Delhi was established as a union territory.
-- 1955: The bombing of United Air Lines Flight 629 occurs near Longmont, Colorado, killing all 39 passengers and five crew members aboard the Douglas DC-6B airliner.
-- 1955: The establishment of a Military Assistance Advisory Group in South Vietnam marks the beginning of American involvement in the conflict.
-- 1954: The Front de Libération Nationale fires the first shots of the Algerian War of Independence.
-- 1952: Nuclear weapons testing: The United States successfully detonates Ivy Mike, the first thermonuclear device, at the Eniwetok atoll. The explosion had a yield of ten megatons TNT equivalent.
+- 2022: A peace agreement is signed between the Ethiopian government and the Tigray People's Liberation Front, ending the Tigray War.
+- 2020: In Vienna's Innere Stadt district, an ISIL sympathizer shoots and kills four people and injures 23 more, before being shot and killed by the police.
+- 2016: The Chicago Cubs defeat the Cleveland Indians in the World Series, ending the longest Major League Baseball championship drought at 108 years.
+- 2008: Lewis Hamilton secured his maiden Formula One Drivers' Championship Title by one point ahead of Felipe Massa at the Brazilian Grand Prix, after a pass for fifth place against the Toyota of Timo Glock on the final lap of the race.
+- 2000: Expedition 1 arrived at the International Space Station for the first long-duration stay onboard. From this day to present, a continuous human presence in space on the station remains uninterrupted.
+- 1999: Honolulu shootings: In the worst mass murder in the history of Hawaii, a gunman shoots at eight people in his workplace, killing seven.
+- 1997: Tropical Storm Linda makes landfall in the Mekong Delta in Vietnam, causing more than 3,000 deaths.
+- 1990: British Satellite Broadcasting and Sky Television plc merge to form BSkyB as a result of massive losses.
+- 1988: LOT Polish Airlines Flight 703 crashes in Białobrzegi, Podkarpackie Voivodeship, Poland, killing one person and injuring several more.
+- 1988: The Morris worm, the first Internet-distributed computer worm to gain significant mainstream media attention, is launched from MIT.
+- 1986: Lebanon hostage crisis: U.S. hostage David Jacobsen is released in Beirut after 17 months in captivity.
+- 1984: Capital punishment: Velma Barfield becomes the first woman executed in the United States since 1962.
+- 1983: U.S. President Ronald Reagan signs a bill creating Martin Luther King Jr. Day.
+- 1982: Channel 4, the British free-to-air public broadcast television channel funded by its commercial activities, starts broadcasting.
+- 1973: Aeroflot Flight 19 is hijacked and diverted to Vnukovo International Airport, where the aircraft is stormed by authorities.
+- 1967: Vietnam War: US President Lyndon B. Johnson and "The Wise Men" conclude that the American people should be given more optimistic reports on the progress of the war.
+- 1966: The Cuban Adjustment Act comes into force, allowing 123,000 Cubans the opportunity to apply for permanent residence in the United States.
+- 1965: Norman Morrison, a 31-year-old Quaker, sets himself on fire in front of the river entrance to the Pentagon to protest the use of napalm in the Vietnam war.
+- 1964: King Saud of Saudi Arabia is deposed by a family coup, and replaced by his half-brother Faisal.
+- 1963: South Vietnamese President Ngô Đình Diệm is assassinated following a military coup.
+- 1960: Penguin Books is found not guilty of obscenity in the trial R v Penguin Books Ltd, the Lady Chatterley's Lover case.
+- 1959: The first section of the M1 motorway, the first inter-urban motorway in the United Kingdom, is opened between the present junctions 5 and 18, along with the M10 motorway and M45 motorway.
+- 1959: Quiz show scandals: Twenty-One game show contestant Charles Van Doren admits to a Congressional committee that he had been given questions and answers in advance.
+- 1956: Suez Crisis: Israel occupies the Gaza Strip.
+- 1956: Hungarian Revolution: Nikita Khrushchev meets with leaders of other Communist countries to seek their advice on the situation in Hungary, selecting János Kádár as the country's next leader on the advice of Josip Broz Tito.
+- 1951: Canada in the Korean War: A platoon of The Royal Canadian Regiment defends a vital area against a full battalion of Chinese troops in the Battle of the Song-gok Spur. The engagement lasts into the early hours the next day.
+- 1949: The Dutch-Indonesian Round Table Conference ends with the Netherlands agreeing to transfer sovereignty of the Dutch East Indies to the United States of Indonesia.
+- 1947: In California, designer Howard Hughes performs the maiden (and only) flight of the Hughes H-4 Hercules (also known as the "Spruce Goose"), the largest fixed-wing aircraft ever built until Scaled Composites rolled out their Stratolaunch in May 2017.
+- 1940: World War II: First day of Battle of Elaia-Kalamas between the Greeks and the Italians.
+- 1936: The BBC Television Service, the world's first regular, "high-definition" (then defined as at least 200 lines) service begins. Renamed BBC1 in 1964, the channel still runs to this day.
 
 Data from muffinlabs
-*(Updated at: 2025-11-01 01:51:22 UTC)*
+*(Updated at: 2025-11-02 01:53:28 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：诺维萨德火车站的混凝土顶篷倒塌，造成 14 人死亡、3 人受伤。
-- - 2012年：沙特阿拉伯首都利雅得一辆油罐车发生事故并爆炸，造成26人死亡、135人受伤。
-- - 2011年：马里奥·德拉吉接替让-克洛德·特里谢，成为欧洲央行第三任行长。
-- - 2009 年：一架 Ilyushin Il-76 从雅库特米尔内机场起飞后在米尔矿场附近坠毁，机上 11 人全部遇难。
-- - 2001年：土耳其、澳大利亚和加拿大同意派遣军队入侵阿富汗。
-- - 2000年：塞尔维亚和黑山加入联合国。
-- - 2000年：恰蒂斯加尔邦正式成为印度第26个邦，由中央邦东部的16个区组成。
-- - 1993年：《马斯特里赫特条约》生效，欧盟正式成立。
-- - 1991年：车臣共和国总统焦哈尔·杜达耶夫宣布车臣共和国伊奇克里亚主权脱离俄罗斯联邦。
-- - 1987 年：英国铁路 43 级 (HST) 铁路车辆的时速创下了 238 公里/小时的纪录，该车辆采用车载燃料为牵引电机发电。
-- - 1984 年：1984 年 10 月 31 日，印度总理英迪拉·甘地被两名锡克教保镖刺杀后，爆发了反锡克教骚乱。
-- - 1982 年：本田在俄亥俄州马里斯维尔开设工厂，成为第一家在美国生产汽车的亚洲汽车公司；本田雅阁是那里生产的第一辆汽车。
-- - 1981 年：安提瓜和巴布达从英国独立。
-- - 1979 年：格里塞尔达·阿尔瓦雷斯 (Griselda Álvarez) 成为墨西哥州第一位女州长。
-- - 1979 年：在玻利维亚，阿尔贝托·纳图什上校发动了一场血腥政变，反对瓦尔特·格瓦拉的宪政政府。
-- - 1976 年：布隆迪总统米歇尔·米孔贝罗 (Michel Micombero) 在一次不流血的军事政变中被副总统让·巴蒂斯特·巴加萨 (Jean-Baptiste Bagaza) 废黜。
-- - 1973 年：印度迈索尔州更名为卡纳塔克邦，代表卡鲁纳杜省的所有地区。
-- - 1973 年：水门事件丑闻：Leon Jaworski 被任命为新的水门事件特别检察官。
-- - 1970 年：法国 Saint-Laurent-du-Pont 的 Cinq-Sept 俱乐部火灾导致 146 名年轻人死亡。
-- - 1968年：美国电影协会的电影分级系统正式推出，最初的分级为G、M、R和X。
-- - 1963 年：1963 年南越政变开始。
-- - 1963 年：位于波多黎各阿雷西博的阿雷西博天文台正式开放，该天文台拥有有史以来最大的射电望远镜。
-- - 1957 年：当时世界上最长的锚地之间的悬索桥麦基诺桥建成通车，连接密歇根州的上下半岛。
-- - 1956 年：新斯科舍省斯普林希尔发生的斯普林希尔采矿灾难导致 39 名矿工死亡；88人获救。
-- - 1956 年：匈牙利革命：纳吉伊姆雷宣布匈牙利保持中立并退出华沙条约组织。苏联军队开始重新进入匈牙利，这与苏联政府的保证相反。亚诺什·卡达尔和费伦茨·明尼希秘密叛逃到苏联。
-- - 1956年：印度喀拉拉邦、安得拉邦和迈索尔根据《邦重组法》正式成立；坎亚库马里区与喀拉拉邦的泰米尔纳德邦相连。德里被建立为联邦直辖区。
-- - 1955 年：联合航空 629 号航班在科罗拉多州朗蒙特附近发生爆炸，道格拉斯 DC-6B 客机上的 39 名乘客和 5 名机组人员全部遇难。
-- - 1955年：南越军事援助咨询小组的成立标志着美国开始介入南越冲突。
-- - 1954 年：民族解放阵线打响了阿尔及利亚独立战争的第一枪。
-- - 1952 年：核武器试验：美国在埃尼威托克环礁成功引爆了第一个热核装置“艾维·麦克”。爆炸产生了十兆吨 TNT 当量。
+- - 2022年：埃塞俄比亚政府与提格雷人民解放阵线签署和平协议，结束提格雷战争。
+- - 2020 年：在维也纳内城区，一名“伊斯兰国”同情者开枪打死 4 人，打伤 23 人，随后被警察开枪打死。
+- - 2016年：芝加哥小熊队在世界大赛中击败克利夫兰印第安人队，结束了美国职业棒球大联盟长达108年的冠军荒。
+- - 2008 年：刘易斯·汉密尔顿 (Lewis Hamilton) 在巴西大奖赛上领先菲利佩·马萨 (Felipe Massa) 一分，在比赛最后一圈击败丰田车队的蒂莫·格洛克 (Timo Glock) 获得第五名，从而获得了他的首个一级方程式车手冠军头衔。
+- - 2000 年：探险一号抵达国际空间站，进行首次长期停留。从今天到现在，人类在空间站上的持续存在从未间断。
+- - 1999 年：檀香山枪击事件：在夏威夷历史上最严重的大规模谋杀案中，一名枪手在工作场所向 8 人开枪，造成 7 人死亡。
+- - 1997 年：热带风暴琳达在越南湄公河三角洲登陆，造成 3,000 多人死亡。
+- - 1990 年：由于巨额亏损，英国卫星广播公司和天空电视台合并成立 BSkyB。
+- - 1988 年：波兰航空 703 号航班在波兰喀尔巴阡山省比亚沃布热吉坠毁，造成一人死亡、多人受伤。
+- - 1988 年：Morris 蠕虫病毒由麻省理工学院推出，这是第一个获得主流媒体广泛关注的互联网分布式计算机蠕虫病毒。
+- - 1986 年：黎巴嫩人质危机：美国人质戴维·雅各布森 (David Jacobsen) 在被囚禁 17 个月后在贝鲁特获释。
+- - 1984 年：死刑：维尔玛·巴菲尔德 (Velma Barfield) 成为 1962 年以来美国第一位被处决的女性。
+- - 1983 年：美国总统罗纳德·里根签署了一项设立马丁·路德·金日的法案。
+- - 1982 年：由商业活动资助的英国免费公共广播电视频道 Channel 4 开始播出。
+- - 1973 年：俄罗斯航空公司 19 号航班被劫持并改道飞往伏努科沃国际机场，飞机在那里遭到当局的袭击。
+- - 1967年：越南战争：美国总统林登·约翰逊和“智者”得出结论，应该向美国人民提供有关战争进展的更乐观的报告。
+- - 1966年：《古巴调整法》生效，允许123,000名古巴人有机会申请在美国永久居留。
+- - 1965 年：31 岁的贵格会教徒诺曼·莫里森在五角大楼的河口前自焚，以抗议在越南战争中使用凝固汽油弹。
+- - 1964 年：沙特阿拉伯国王沙特被家族政变废黜，取而代之的是他同父异母的弟弟费萨尔。
+- - 1963 年：南越总统吴廷琰在军事政变后被暗杀。
+- - 1960 年：在 R 诉企鹅图书有限公司（查泰莱夫人的情人案）审判中，企鹅图书公司被判无猥亵罪。
+- - 1959 年：M1 高速公路的第一段（英国第一条城际高速公路）在目前的 5 号和 18 号交叉路口之间开通，同时还有 M10 高速公路和 M45 高速公路。
+- - 1959 年：智力问答节目丑闻：二十一个游戏节目参赛者查尔斯·范·多伦 (Charles Van Doren) 向国会委员会承认，他已提前得到问题和答案。
+- - 1956年：苏伊士危机：以色列占领加沙地带。
+- - 1956年：匈牙利革命：尼基塔·赫鲁晓夫会见其他共产主义国家的领导人，征求他们对匈牙利局势的建议，并根据约瑟普·布罗兹·铁托的建议选择亚诺什·卡达尔作为该国的下一任领导人。
+- - 1951 年：朝鲜战争中的加拿大：在宋谷支线战役中，加拿大皇家军团的一个排保卫了一个重要地区，对抗一整营的中国军队。订婚活动一直持续到第二天凌晨。
+- - 1949 年：荷兰-印度尼西亚圆桌会议结束，荷兰同意将荷属东印度群岛的主权移交给印度尼西亚合众国。
+- - 1947 年：在加利福尼亚州，设计师霍华德·休斯 (Howard Hughes) 进行了休斯 H-4 Hercules（也称为“云杉鹅”）的首次（也是唯一一次）飞行，这是迄今为止建造的最大的固定翼飞机，直到 Scaled Composites 于 2017 年 5 月推出 Stratolaunch 为止。
+- - 1940 年：第二次世界大战：希腊人和意大利人之间埃莱亚-卡拉马斯战役的第一天。
+- - 1936 年：BBC 电视服务开始运营，这是世界上第一个常规“高清”（当时定义为至少 200 行）服务。该频道于 1964 年更名为 BBC1，至今仍在运行。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-01 01:51:22 UTC）*
+*（更新于: 2025-11-02 01:53:28 UTC）*
