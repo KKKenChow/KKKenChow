@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: A peace agreement is signed between the Ethiopian government and the Tigray People's Liberation Front, ending the Tigray War.
-- 2020: In Vienna's Innere Stadt district, an ISIL sympathizer shoots and kills four people and injures 23 more, before being shot and killed by the police.
-- 2016: The Chicago Cubs defeat the Cleveland Indians in the World Series, ending the longest Major League Baseball championship drought at 108 years.
-- 2008: Lewis Hamilton secured his maiden Formula One Drivers' Championship Title by one point ahead of Felipe Massa at the Brazilian Grand Prix, after a pass for fifth place against the Toyota of Timo Glock on the final lap of the race.
-- 2000: Expedition 1 arrived at the International Space Station for the first long-duration stay onboard. From this day to present, a continuous human presence in space on the station remains uninterrupted.
-- 1999: Honolulu shootings: In the worst mass murder in the history of Hawaii, a gunman shoots at eight people in his workplace, killing seven.
-- 1997: Tropical Storm Linda makes landfall in the Mekong Delta in Vietnam, causing more than 3,000 deaths.
-- 1990: British Satellite Broadcasting and Sky Television plc merge to form BSkyB as a result of massive losses.
-- 1988: LOT Polish Airlines Flight 703 crashes in Białobrzegi, Podkarpackie Voivodeship, Poland, killing one person and injuring several more.
-- 1988: The Morris worm, the first Internet-distributed computer worm to gain significant mainstream media attention, is launched from MIT.
-- 1986: Lebanon hostage crisis: U.S. hostage David Jacobsen is released in Beirut after 17 months in captivity.
-- 1984: Capital punishment: Velma Barfield becomes the first woman executed in the United States since 1962.
-- 1983: U.S. President Ronald Reagan signs a bill creating Martin Luther King Jr. Day.
-- 1982: Channel 4, the British free-to-air public broadcast television channel funded by its commercial activities, starts broadcasting.
-- 1973: Aeroflot Flight 19 is hijacked and diverted to Vnukovo International Airport, where the aircraft is stormed by authorities.
-- 1967: Vietnam War: US President Lyndon B. Johnson and "The Wise Men" conclude that the American people should be given more optimistic reports on the progress of the war.
-- 1966: The Cuban Adjustment Act comes into force, allowing 123,000 Cubans the opportunity to apply for permanent residence in the United States.
-- 1965: Norman Morrison, a 31-year-old Quaker, sets himself on fire in front of the river entrance to the Pentagon to protest the use of napalm in the Vietnam war.
-- 1964: King Saud of Saudi Arabia is deposed by a family coup, and replaced by his half-brother Faisal.
-- 1963: South Vietnamese President Ngô Đình Diệm is assassinated following a military coup.
-- 1960: Penguin Books is found not guilty of obscenity in the trial R v Penguin Books Ltd, the Lady Chatterley's Lover case.
-- 1959: The first section of the M1 motorway, the first inter-urban motorway in the United Kingdom, is opened between the present junctions 5 and 18, along with the M10 motorway and M45 motorway.
-- 1959: Quiz show scandals: Twenty-One game show contestant Charles Van Doren admits to a Congressional committee that he had been given questions and answers in advance.
-- 1956: Suez Crisis: Israel occupies the Gaza Strip.
-- 1956: Hungarian Revolution: Nikita Khrushchev meets with leaders of other Communist countries to seek their advice on the situation in Hungary, selecting János Kádár as the country's next leader on the advice of Josip Broz Tito.
-- 1951: Canada in the Korean War: A platoon of The Royal Canadian Regiment defends a vital area against a full battalion of Chinese troops in the Battle of the Song-gok Spur. The engagement lasts into the early hours the next day.
-- 1949: The Dutch-Indonesian Round Table Conference ends with the Netherlands agreeing to transfer sovereignty of the Dutch East Indies to the United States of Indonesia.
-- 1947: In California, designer Howard Hughes performs the maiden (and only) flight of the Hughes H-4 Hercules (also known as the "Spruce Goose"), the largest fixed-wing aircraft ever built until Scaled Composites rolled out their Stratolaunch in May 2017.
-- 1940: World War II: First day of Battle of Elaia-Kalamas between the Greeks and the Italians.
-- 1936: The BBC Television Service, the world's first regular, "high-definition" (then defined as at least 200 lines) service begins. Renamed BBC1 in 1964, the channel still runs to this day.
+- 2020: The 2020 United States presidential election takes place between Democratic Joe Biden and Republican incumbent President Donald Trump. On November 7, Biden was declared the winner.
+- 2014: One World Trade Center officially opens in New York City, replacing the Twin Towers after they were destroyed during the September 11 attacks.
+- 1997: The United States imposes economic sanctions against Sudan in response to its human rights abuses of its own citizens and its material and political assistance to Islamic extremist groups across the Middle East and East Africa.
+- 1996: Abdullah Çatlı, the leader of the Turkish ultranationalist organization Grey Wolves, dies in the Susurluk car crash, leading to the resignation of Interior Minister Mehmet Ağar (a leader of the True Path Party).
+- 1994: Space Shuttle program: Atlantis launches on STS-66.
+- 1992: Democratic Arkansas Governor Bill Clinton defeats Republican President George H. W. Bush and Independent candidate Ross Perot in the 1992 United States presidential election.
+- 1988: Sri Lankan Tamil mercenaries attempt to overthrow the Maldivian government. At President Maumoon Abdul Gayoom's request, the Indian military suppresses the rebellion within 24 hours.
+- 1986: The Compact of Free Association becomes law, granting the Federated States of Micronesia and the Marshall Islands independence from the United States.
+- 1986: Iran-Contra affair: The Lebanese magazine Ash-Shiraa reports that the United States has been secretly selling weapons to Iran in order to secure the release of seven American hostages held by pro-Iranian groups in Lebanon.
+- 1982: The Salang Tunnel fire in Afghanistan kills 150-2000 people.
+- 1980: A Latin Carga Convair CV-880 crashes at Simón Bolívar International Airport in Venezuela, killing four.
+- 1979: Greensboro massacre: Five members of the Communist Workers Party are shot dead and seven are wounded by a group of Klansmen and neo-Nazis during a "Death to the Klan" rally in Greensboro, North Carolina, United States.
+- 1978: Dominica gains its independence from the United Kingdom.
+- 1975: Four Bangladeshi politicians are killed in the Dhaka Central Jail.
+- 1973: Mariner program: NASA launches the Mariner 10 toward Mercury. On March 29, 1974, it becomes the first space probe to reach that planet.
+- 1969: Vietnam War: U.S. President Richard M. Nixon addresses the nation on television and radio, asking the "silent majority" to join him in solidarity on the Vietnam War effort and to support his policies.
+- 1967: Vietnam War: The Battle of Dak To begins.
+- 1964: Lyndon B. Johnson is elected to a full term as U.S. president, winning 61% of the vote and 44 states, while Washington D.C. residents are able to vote in a presidential election for the first time, casting the majority of their votes for Lyndon Johnson.
+- 1961: U Thant is unanimously appointed as the 3rd Secretary-General of the United Nations, becoming the first non-European individual to occupy the post.
+- 1960: The land that would become the Great Swamp National Wildlife Refuge is established by an Act of Congress after a year-long legal battle that pitted local residents against Port Authority of New York and New Jersey officials wishing to turn the Great Swamp into a major regional airport for jet aircraft.
+- 1957: Sputnik program: The Soviet Union launches Sputnik 2. On board is the first animal to enter orbit, a dog named Laika.
+- 1956: Hungarian Revolution: A new Hungarian government is formed, in which many members of banned non-Communist parties participate.  János Kádár and Ferenc Münnich form a counter-government in Moscow as Soviet troops prepare for the final assault.
+- 1956: Suez Crisis: The Khan Yunis killings by the Israel Defense Forces in Egyptian-controlled Gaza result in the deaths of 275 Palestinians.
+- 1950: Air India Flight 245 crashes into Mont Blanc while on approach to Geneva Airport, killing all 48 people on board.
+- 1949: Chinese Civil War: The Battle of Dengbu Island occurs.
+- 1946: The Constitution of Japan is adopted through Emperor's assent.
+- 1944: World War II: Two supreme commanders of the Slovak National Uprising, Generals Ján Golian and Rudolf Viest, are captured, tortured and later executed by German forces.
+- 1943: World War II: Five hundred aircraft of the U.S. 8th Air Force devastate Wilhelmshaven harbor in Germany.
+- 1942: World War II: The Koli Point action begins during the Guadalcanal campaign and ends on November 12.
+- 1936: Franklin D. Roosevelt is elected the 32nd President of the United States.
 
 Data from muffinlabs
-*(Updated at: 2025-11-02 01:53:28 UTC)*
+*(Updated at: 2025-11-03 01:53:04 UTC)*
 
 # 历史上的今天 
 
-- - 2022年：埃塞俄比亚政府与提格雷人民解放阵线签署和平协议，结束提格雷战争。
-- - 2020 年：在维也纳内城区，一名“伊斯兰国”同情者开枪打死 4 人，打伤 23 人，随后被警察开枪打死。
-- - 2016年：芝加哥小熊队在世界大赛中击败克利夫兰印第安人队，结束了美国职业棒球大联盟长达108年的冠军荒。
-- - 2008 年：刘易斯·汉密尔顿 (Lewis Hamilton) 在巴西大奖赛上领先菲利佩·马萨 (Felipe Massa) 一分，在比赛最后一圈击败丰田车队的蒂莫·格洛克 (Timo Glock) 获得第五名，从而获得了他的首个一级方程式车手冠军头衔。
-- - 2000 年：探险一号抵达国际空间站，进行首次长期停留。从今天到现在，人类在空间站上的持续存在从未间断。
-- - 1999 年：檀香山枪击事件：在夏威夷历史上最严重的大规模谋杀案中，一名枪手在工作场所向 8 人开枪，造成 7 人死亡。
-- - 1997 年：热带风暴琳达在越南湄公河三角洲登陆，造成 3,000 多人死亡。
-- - 1990 年：由于巨额亏损，英国卫星广播公司和天空电视台合并成立 BSkyB。
-- - 1988 年：波兰航空 703 号航班在波兰喀尔巴阡山省比亚沃布热吉坠毁，造成一人死亡、多人受伤。
-- - 1988 年：Morris 蠕虫病毒由麻省理工学院推出，这是第一个获得主流媒体广泛关注的互联网分布式计算机蠕虫病毒。
-- - 1986 年：黎巴嫩人质危机：美国人质戴维·雅各布森 (David Jacobsen) 在被囚禁 17 个月后在贝鲁特获释。
-- - 1984 年：死刑：维尔玛·巴菲尔德 (Velma Barfield) 成为 1962 年以来美国第一位被处决的女性。
-- - 1983 年：美国总统罗纳德·里根签署了一项设立马丁·路德·金日的法案。
-- - 1982 年：由商业活动资助的英国免费公共广播电视频道 Channel 4 开始播出。
-- - 1973 年：俄罗斯航空公司 19 号航班被劫持并改道飞往伏努科沃国际机场，飞机在那里遭到当局的袭击。
-- - 1967年：越南战争：美国总统林登·约翰逊和“智者”得出结论，应该向美国人民提供有关战争进展的更乐观的报告。
-- - 1966年：《古巴调整法》生效，允许123,000名古巴人有机会申请在美国永久居留。
-- - 1965 年：31 岁的贵格会教徒诺曼·莫里森在五角大楼的河口前自焚，以抗议在越南战争中使用凝固汽油弹。
-- - 1964 年：沙特阿拉伯国王沙特被家族政变废黜，取而代之的是他同父异母的弟弟费萨尔。
-- - 1963 年：南越总统吴廷琰在军事政变后被暗杀。
-- - 1960 年：在 R 诉企鹅图书有限公司（查泰莱夫人的情人案）审判中，企鹅图书公司被判无猥亵罪。
-- - 1959 年：M1 高速公路的第一段（英国第一条城际高速公路）在目前的 5 号和 18 号交叉路口之间开通，同时还有 M10 高速公路和 M45 高速公路。
-- - 1959 年：智力问答节目丑闻：二十一个游戏节目参赛者查尔斯·范·多伦 (Charles Van Doren) 向国会委员会承认，他已提前得到问题和答案。
-- - 1956年：苏伊士危机：以色列占领加沙地带。
-- - 1956年：匈牙利革命：尼基塔·赫鲁晓夫会见其他共产主义国家的领导人，征求他们对匈牙利局势的建议，并根据约瑟普·布罗兹·铁托的建议选择亚诺什·卡达尔作为该国的下一任领导人。
-- - 1951 年：朝鲜战争中的加拿大：在宋谷支线战役中，加拿大皇家军团的一个排保卫了一个重要地区，对抗一整营的中国军队。订婚活动一直持续到第二天凌晨。
-- - 1949 年：荷兰-印度尼西亚圆桌会议结束，荷兰同意将荷属东印度群岛的主权移交给印度尼西亚合众国。
-- - 1947 年：在加利福尼亚州，设计师霍华德·休斯 (Howard Hughes) 进行了休斯 H-4 Hercules（也称为“云杉鹅”）的首次（也是唯一一次）飞行，这是迄今为止建造的最大的固定翼飞机，直到 Scaled Composites 于 2017 年 5 月推出 Stratolaunch 为止。
-- - 1940 年：第二次世界大战：希腊人和意大利人之间埃莱亚-卡拉马斯战役的第一天。
-- - 1936 年：BBC 电视服务开始运营，这是世界上第一个常规“高清”（当时定义为至少 200 行）服务。该频道于 1964 年更名为 BBC1，至今仍在运行。
+- - 2020 年：2020 年美国总统选举在民主党人乔·拜登和共和党人现任总统唐纳德·特朗普之间进行。11月7日，拜登被宣布获胜。
+- - 2014 年：世界贸易中心一号大楼在纽约市正式开放，取代了在 9 月 11 日袭击中被摧毁的双子塔。
+- - 1997年：美国对苏丹实施经济制裁，以回应其侵犯本国公民人权以及向中东和东非伊斯兰极端组织提供物质和政治援助。
+- - 1996 年：土耳其极端民族主义组织“灰狼”的领导人阿卜杜拉·恰特利 (Abdullah Çatlı) 在苏苏鲁克 (Susurluk) 车祸中去世，导致内政部长穆罕默德·阿加尔 (Mehmet Ağar)（正道党领导人）辞职。
+- - 1994 年：航天飞机计划：亚特兰蒂斯号在 STS-66 上发射。
+- - 1992年：民主党阿肯色州州长比尔·克林顿在1992年美国总统选举中击败共和党总统乔治·H·W·布什和独立候选人罗斯·佩罗。
+- - 1988 年：斯里兰卡泰米尔雇佣军试图推翻马尔代夫政府。应总统穆蒙·阿卜杜勒·加尧姆的要求，印度军队在24小时内镇压了叛乱。
+- - 1986 年：《自由联合契约》成为法律，授予密克罗尼西亚联邦和马绍尔群岛脱离美国的独立地位。
+- - 1986年：伊朗门事件：黎巴嫩杂志《Ash-Shiraa》报道称，美国一直在秘密向伊朗出售武器，以确保黎巴嫩亲伊朗组织扣押的七名人质获释。
+- - 1982 年：阿富汗萨朗隧道火灾造成 150-2000 人死亡。
+- - 1980 年：一架拉丁卡加康维尔 CV-880 在委内瑞拉西蒙玻利瓦尔国际机场坠毁，造成四人死亡。
+- - 1979年：格林斯伯勒大屠杀：在美国北卡罗来纳州格林斯伯勒举行的“三K党之死”集会上，三K党成员和新纳粹分子开枪打死五名共产主义工人党成员，七人受伤。
+- - 1978 年：多米尼克从英国独立。
+- - 1975 年：四名孟加拉国政客在达卡中央监狱被杀。
+- - 1973 年：水手计划：NASA 向水星发射水手 10 号。1974 年 3 月 29 日，它成为第一个到达该行星的太空探测器。
+- - 1969 年：越南战争：美国总统理查德·尼克松在电视和广播中向全国发表讲话，要求“沉默的大多数”与他一起声援越南战争并支持他的政策。
+- - 1967 年：越南战争：达陶战役开始。
+- - 1964 年：林登·约翰逊 (Lyndon B. Johnson) 赢得 61% 的选票和 44 个州，连任美国总统，同时华盛顿特区的居民首次能够在总统选举中投票，将大部分选票投给了林登·约翰逊 (Lyndon Johnson)。
+- - 1961年：吴丹被一致任命为联合国第三任秘书长，成为第一位担任该职位的非欧洲人。
+- - 1960 年：经过长达一年的法律斗争，当地居民与纽约港务局和新泽西州官员展开了长达一年的法律斗争，希望将大沼泽变成喷气式飞机的主要支线机场，之后，国会通过一项法案建立了这片将成为大沼泽国家野生动物保护区的土地。
+- - 1957 年：人造卫星计划：苏联发射了人造卫星 2 号。船上有第一只进入轨道的动物，一只名叫莱卡的狗。
+- - 1956年：匈牙利革命：匈牙利新政府成立，许多被禁止的非共产党成员参与其中。亚诺什·卡达尔和费伦茨·明尼希在莫斯科组建了反政府，苏联军队正在为最后的进攻做准备。
+- - 1956年：苏伊士危机：以色列国防军在埃及控制的加沙地带对汗尤尼斯进行屠杀，导致275名巴勒斯坦人死亡。
+- - 1950 年：印度航空 245 号航班在飞往日内瓦机场时坠入勃朗峰，机上 48 人全部遇难。
+- - 1949年：中国内战：登布岛之战爆发。
+- - 1946年：日本宪法经天皇同意通过。
+- - 1944 年：第二次世界大战：斯洛伐克民族起义的两名最高指挥官扬·戈利安 (Ján Golian) 将军和鲁道夫·维斯特 (Rudolf Viest) 将军被德军俘虏、折磨，随后被处决。
+- - 1943 年：第二次世界大战：美国第八空军的 500 架飞机摧毁了德国威廉港。
+- - 1942 年：第二次世界大战：科利角行动于瓜达尔卡纳尔岛战役期间开始，于 11 月 12 日结束。
+- - 1936 年：富兰克林·罗斯福当选为美国第 32 任总统。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-02 01:53:28 UTC）*
+*（更新于: 2025-11-03 01:53:04 UTC）*
