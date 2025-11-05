@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022 -The Khash massacre , which refers to the repression of protesters by Iranian security forces, resulting in 18 deaths and more than 20 injuries.[9][10][11]: None
-- 2020: The Tigray War begins with Tigrayan rebels launching attacks on Ethiopian command centers.
-- 2015: A building collapses in the Pakistani city of Lahore resulting in at least 45 deaths and at least 100 injuries.
-- 2015: A cargo plane crashes shortly after takeoff from Juba International Airport in Juba, South Sudan, killing at least 37 people.
-- 2010: Qantas Flight 32, an Airbus A380, suffers an uncontained engine failure over Indonesia shortly after taking off from Singapore, crippling the jet. The crew manage to safely return to Singapore, saving all 469 passengers and crew.
-- 2010: Aero Caribbean Flight 883 crashes into Guasimal, Sancti Spíritus; all 68 passengers and crew are killed.
-- 2008: Barack Obama becomes the first person of biracial or African-American descent to be elected as President of the United States.
-- 2002: Chinese authorities arrest cyber-dissident He Depu for signing a pro-democracy letter to the 16th Communist Party Congress.
-- 1995: Israel-Palestinian conflict: Israeli prime minister Yitzhak Rabin is assassinated by an extremist Israeli.
-- 1993: China Airlines Flight 605, a brand-new 747-400, overruns the runway at Hong Kong Kai Tak Airport.
-- 1980: Ronald Reagan is elected as the 40th President of the United States, defeating incumbent Jimmy Carter.
-- 1979: Iran hostage crisis: A group of Iranian college students overruns the U.S. embassy in Tehran and takes 90 hostages.
-- 1973: The Netherlands experiences the first car-free Sunday caused by the 1973 oil crisis. Highways are used only by cyclists and roller skaters.
-- 1970: Salvador Allende takes office as President of Chile, the first Marxist to become president of a Latin American country through open elections.
-- 1970: Vietnam War: The United States turns over control of the air base at Bình Thủy in the Mekong Delta to South Vietnam.
-- 1967: Iberia Flight 062 crashes in Blackdown, West Sussex, killing all 37 people on board including British actress June Thorburn.
-- 1966: The Arno River floods Florence, Italy, to a maximum depth of 6.7 m (22 ft), leaving thousands homeless and destroying millions of masterpieces of art and rare books. Venice is also submerged on the same day at its record all-time acqua alta of 194 cm (76 in).
-- 1962: The United States concludes Operation Fishbowl, its final above-ground nuclear weapons testing series, in anticipation of the 1963 Partial Nuclear Test Ban Treaty.
-- 1960: At the Kasakela Chimpanzee Community in Tanzania, Dr. Jane Goodall observes chimpanzees creating tools, the first-ever observation in non-human animals.
-- 1956: Soviet troops enter Hungary to end the Hungarian revolution against the Soviet Union that started on October 23. Thousands are killed, more are wounded, and nearly a quarter million leave the country.
-- 1952: The United States government establishes the National Security Agency, or NSA.
-- 1944: World War II: Operation Pheasant, an Allied offensive to liberate North Brabant in the Netherlands, ends successfully.
-- 1944: World War II: The 7th Macedonian Liberation Brigade liberates Bitola for the Allies.
-- 1942: World War II: Disobeying a direct order by Adolf Hitler, General Field Marshal Erwin Rommel begins a retreat of his forces after a costly defeat during the Second Battle of El Alamein. The retreat would ultimately last five months.
-- 1939: World War II: U.S. President Franklin D. Roosevelt orders the United States Customs Service to implement the Neutrality Act of 1939, allowing cash-and-carry purchases of weapons by belligerents.
-- 1936: Spanish Civil War: Largo Caballero reshuffles his war cabinet, persuading the anarcho-syndicalist CNT to join the government.
-- 1924: Nellie Tayloe Ross of Wyoming becomes the first female elected as governor in the United States.
-- 1922: In Egypt, British archaeologist Howard Carter and his men find the entrance to Tutankhamun's tomb in the Valley of the Kings.
-- 1921: Japanese Prime Minister Hara Takashi is assassinated in Tokyo.
-- 1921: The Saalschutz Abteilung (hall defense detachment) of the Nazi Party is renamed the Sturmabteilung (storm detachment) after a large riot in Munich.
+- 2024: Donald Trump becomes the first president of the United States to be elected to a non-consecutive second term in 132 years, since Grover Cleveland won the 1892 election.
+- 2021: The Astroworld Festival crowd crush results in 10 deaths and 25 people being hospitalized
+- 2017: Devin Patrick Kelley kills 26 and injures 22 in a church in Sutherland Springs, Texas.
+- 2015: Rona Ambrose takes over after Stephen Harper as the Leader of the Conservative Party of Canada.
+- 2015: An iron ore tailings dam bursts in the Brazilian state of Minas Gerais, flooding a valley, causing mudslides in the nearby village of Bento Rodrigues and causing at least 17 deaths and two missing.
+- 2013: India launches the Mars Orbiter Mission, its first interplanetary probe.
+- 2010: JS Air Flight 201 crashes after takeoff from Jinnah International Airport in Karachi, Pakistan, killing all 21 aboard.
+- 2009: U.S. Army Major Nidal Hasan murders 13 and wounds 32 at Fort Hood, Texas in the deadliest mass shooting at a U.S. military installation.
+- 2007: The Android mobile operating system is unveiled by Google.
+- 2007: China's first lunar satellite, Chang'e 1, goes into orbit around the Moon.
+- 2006: Saddam Hussein, the former president of Iraq, and his co-defendants Barzan Ibrahim al-Tikriti and Awad Hamed al-Bandar, are sentenced to death in the al-Dujail trial for their roles in the 1982 massacre of 148 Shia Muslims.
+- 1996: Bill Clinton is reelected President of the United States.
+- 1996: Pakistani President Farooq Leghari dismisses the government of Prime Minister Benazir Bhutto and dissolves the National Assembly.
+- 1995: André Dallaire attempts to assassinate Prime Minister Jean Chrétien of Canada. He is thwarted when the Prime Minister's wife locks the door.
+- 1991: Tropical Storm Thelma causes flash floods in the Philippine city of Ormoc, killing more than 4,900 people.
+- 1990: Rabbi Meir Kahane, founder of the far-right Kach movement, is shot dead after a speech at a New York City hotel.
+- 1986: USS Rentz, USS Reeves and USS Oldendorf visit Qingdao, China; the first US naval visit to China since 1949.
+- 1983: The Byford Dolphin diving bell accident kills five and leaves one severely injured.
+- 1970: The Military Assistance Command, Vietnam reports the lowest weekly American soldier death toll in five years (24).
+- 1968: Richard Nixon is elected as 37th President of the United States.
+- 1956: Suez Crisis: British and French paratroopers land in Egypt after a week-long bombing campaign.
+- 1955: After being destroyed in World War II, the rebuilt Vienna State Opera reopens with a performance of Beethoven's Fidelio.
+- 1950: Korean War: British and Australian forces from the 27th British Commonwealth Brigade successfully halted the advancing Chinese 117th Division during the Battle of Pakchon.
+- 1945: The three-day anti-Jewish riots in Tripolitania commence.
+- 1943: World War II: Bombing of the Vatican.
+- 1940: Franklin D. Roosevelt is the first and only President of the United States to be elected to a third term.
+- 1940: World War II: The British armed merchant cruiser HMS Jervis Bay is sunk by the German pocket battleship Admiral Scheer.
+- 1925: Secret agent Sidney Reilly, the first "super-spy" of the 20th century, is executed by the OGPU, the secret police of the Soviet Union.
+- 1917: Tikhon is elected the Patriarch of Moscow and of the Russian Orthodox Church.
+- 1917: Lenin calls for the October Revolution.
 
 Data from muffinlabs
-*(Updated at: 2025-11-04 01:48:34 UTC)*
+*(Updated at: 2025-11-05 01:49:45 UTC)*
 
 # 历史上的今天 
 
-- - 2022年 - 卡什大屠杀，指伊朗安全部队镇压抗议者，造成18人死亡、20多人受伤。[9][10][11]：无
-- - 2020 年：提格雷战争开始，提格雷叛军对埃塞俄比亚指挥中心发动攻击。
-- - 2015 年：巴基斯坦拉合尔市一栋建筑倒塌，造成至少 45 人死亡、至少 100 人受伤。
-- - 2015年：一架货机从南苏丹朱巴国际机场起飞后不久坠毁，造成至少37人死亡。
-- - 2010 年：澳洲航空 32 号航班（一架空客 A380）从新加坡起飞后不久，在印度尼西亚上空发生非封闭式发动机故障，导致飞机瘫痪。机组人员设法安全返回新加坡，拯救了全部 469 名乘客和机组人员。
-- - 2010 年：加勒比航空 883 号航班坠毁在圣斯皮里图斯 (Sancti Spíritus) 的瓜西马尔 (Guasimal)；68名乘客和机组人员全部遇难。
-- - 2008 年：巴拉克·奥巴马 (Barack Obama) 成为第一位当选美国总统的混血儿或非洲裔美国人。
-- - 2002年：中国当局逮捕了网络异见人士何德普，原因是他在给中共十六大的一封亲民主信上签名。
-- - 1995年：以色列-巴勒斯坦冲突：以色列总理伊扎克·拉宾被以色列极端分子暗杀。
-- - 1993 年：中华航空 605 号航班（一架全新 747-400）冲出香港启德机场跑道。
-- - 1980 年：罗纳德·里根击败现任吉米·卡特，当选美国第 40 任总统。
-- - 1979 年：伊朗人质危机：一群伊朗大学生冲进美国驻德黑兰大使馆，劫持了 90 名人质。
-- - 1973 年：荷兰经历了 1973 年石油危机造成的第一个无车周日。高速公路仅供骑自行车者和溜冰者使用。
-- - 1970年：萨尔瓦多·阿连德就任智利总统，成为第一位通过公开选举成为拉丁美洲国家总统的马克思主义者。
-- - 1970 年：越南战争：美国将湄公河三角洲平水空军基地的控制权移交给南越。
-- - 1967 年：伊比利亚航空 062 号航班在西萨塞克斯郡布莱克当坠毁，机上 37 人全部遇难，其中包括英国女演员琼·索伯恩 (June Thorburn)。
-- - 1966 年：阿诺河淹没意大利佛罗伦萨，最深达 6.7 m（22 英尺），导致数千人无家可归，并摧毁了数百万件艺术杰作和善本。同一天，威尼斯也被淹没，其水深达到了 194 厘米（76 英寸）的历史纪录。
-- - 1962 年：美国结束“鱼缸行动”，这是其最后的地面核武器试验系列，以迎接 1963 年《部分禁止核试验条约》的签署。
-- - 1960 年：在坦桑尼亚的卡萨凯拉黑猩猩社区，简·古道尔 (Jane Goodall) 博士观察到黑猩猩创造工具，这是在非人类动物中的首次观察。
-- - 1956 年：苏联军队进入匈牙利，结束 10 月 23 日开始的匈牙利反苏联革命。数千人被杀，更多人受伤，近 25 万人离开该国。
-- - 1952 年：美国政府成立国家安全局 (NSA)。
-- - 1944 年：第二次世界大战：盟军为解放荷兰北布拉班特省而发起的雉鸡行动成功结束。
-- - 1944 年：第二次世界大战：第七马其顿解放旅为盟军解放了比托拉。
-- - 1942 年：第二次世界大战：陆军元帅埃尔文·隆美尔 (Erwin Rommel) 将军在第二次阿拉曼战役中遭受惨重失败后，不顾阿道夫·希特勒 (Adolf Hitler) 的直接命令，开始撤退。这次撤退最终持续了五个月。
-- - 1939 年：第二次世界大战：美国总统富兰克林·罗斯福命令美国海关总署实施 1939 年《中立法案》，允许交战方以现购自运方式购买武器。
-- - 1936 年：西班牙内战：拉尔戈·卡瓦列罗改组战时内阁，说服无政府工团主义全国劳工联盟加入政府。
-- - 1924 年：怀俄明州的内莉·泰洛·罗斯 (Nellie Tayloe Ross) 成为美国第一位当选州长的女性。
-- - 1922 年：在埃及，英国考古学家霍华德·卡特和他的手下在帝王谷找到了图坦卡蒙陵墓的入口。
-- - 1921 年：日本首相原隆在东京被暗杀。
-- - 1921 年：慕尼黑发生大规模骚乱后，纳粹党的 Saalschutz Abteilung（大厅防御分队）更名为 Sturmabteilung（风暴分队）。
+- - 2024 年：自格罗弗·克利夫兰赢得 1892 年大选以来，唐纳德·特朗普成为 132 年来第一位非连续连任的美国总统。
+- - 2021 年：Astroworld Festival 人群拥挤导致 10 人死亡、25 人住院
+- - 2017 年：德文·帕特里克·凯利 (Devin Patrick Kelley) 在德克萨斯州萨瑟兰泉 (Sutherland Springs) 的一座教堂内造成 26 人死亡、22 人受伤。
+- - 2015年：罗纳·安布罗斯（Rona Ambrose）接替斯蒂芬·哈珀（Stephen Harper）成为加拿大保守党领袖。
+- - 2015年：巴西米纳斯吉拉斯州一座铁矿石尾矿坝决堤，淹没了一个山谷，导致附近的本托罗德里格斯村发生泥石流，造成至少17人死亡、两人失踪。
+- - 2013 年：印度发射火星轨道飞行器任务，这是其第一个行星际探测器。
+- - 2010 年：JS 航空 201 号航班从巴基斯坦卡拉奇真纳国际机场起飞后坠毁，机上 21 人全部遇难。
+- - 2009 年：美国陆军少校尼达尔·哈桑 (Nidal Hasan) 在得克萨斯州胡德堡发生美国军事设施最致命的大规模枪击事件，造成 13 人死亡、32 人受伤。
+- - 2007 年：Google 推出Android 移动操作系统。
+- - 2007年：中国第一颗月球卫星嫦娥一号进入绕月轨道。
+- - 2006 年：伊拉克前总统萨达姆·侯赛因及其同案被告巴尔赞·易卜拉欣·提克里蒂和阿瓦德·哈米德·班达尔因参与 1982 年屠杀 148 名什叶派穆斯林而在杜贾伊尔审判中被判处死刑。
+- - 1996 年：比尔·克林顿再次当选美国总统。
+- - 1996年：巴基斯坦总统法鲁克·莱加里解散贝娜齐尔·布托总理的政府并解散国民议会。
+- - 1995 年：安德烈·达莱尔 (André Dallaire) 试图刺杀加拿大总理让·克雷蒂安 (Jean Chrétien)。当首相的妻子锁上门时，他受到了阻碍。
+- - 1991 年：热带风暴塞尔玛在菲律宾奥尔莫克市引发山洪，造成 4,900 多人死亡。
+- - 1990 年：极右翼卡赫运动创始人梅厄·卡哈尼拉比 (Rabbi Meir Kahane) 在纽约市一家酒店发表演讲后被枪杀。
+- - 1986年：伦茨号、里夫斯号和奥尔登多夫号访问中国青岛；自1949年以来美国海军首次访华。
+- - 1983 年：Byford Dolphin 潜水钟事故造成 5 人死亡、1 人重伤。
+- - 1970 年：越南军事援助司令部报告美国士兵每周死亡人数为五年来最低 (24)。
+- - 1968 年：理查德·尼克松当选为美国第 37 任总统。
+- - 1956 年：苏伊士运河危机：英国和法国伞兵在经过一周的轰炸后登陆埃及。
+- - 1955 年：在第二次世界大战中被毁后，重建的维也纳国家歌剧院重新开放，演出贝多芬的《费德里奥》。
+- - 1950 年：朝鲜战争：英联邦第 27 旅的英国和澳大利亚军队在北村战役中成功阻止了中国第 117 师的前进。
+- - 1945 年：的黎波里塔尼亚开始为期三天的反犹太人骚乱。
+- - 1943 年：第二次世界大战：梵蒂冈爆炸。
+- - 1940 年：富兰克林·罗斯福是第一位也是唯一一位连任第三届的美国总统。
+- - 1940 年：第二次世界大战：英国武装商船巡洋舰杰维斯湾号被德国袖珍战列舰谢尔海军上将号击沉。
+- - 1925年：20世纪第一位“超级间谍”特工西德尼·赖利被苏联秘密警察国家政治保卫总局处决。
+- - 1917 年：吉洪当选为莫斯科和俄罗斯东正教宗主教。
+- - 1917 年：列宁号召十月革命。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-04 01:48:34 UTC）*
+*（更新于: 2025-11-05 01:49:45 UTC）*
