@@ -1,59 +1,71 @@
 # History of Today 
 
-- 2016: Syrian civil war: The Syrian Democratic Forces (SDF) launch an offensive to capture the city of Raqqa from the Islamic State of Iraq and the Levant (ISIL).
-- 2012: Tammy Baldwin becomes the first openly gay politician to be elected to the United States Senate.
-- 2004: An express train collides with a stationary car near the village of Ufton Nervet, England, killing seven and injuring 150.
-- 2002: A Fokker 50 crashes near Luxembourg Airport, killing 20 and injuring three.
-- 2002: Jiang Lijun is detained by Chinese police for signing the Open Letter to the 16th National Congress of the Chinese Communist Party.
-- 1995: Cleveland Browns relocation controversy: Art Modell announces that he signed a deal that would relocate the Cleveland Browns to Baltimore.
-- 1988: Lancang-Gengma earthquakes: At least 730 are killed after two powerful earthquakes rock the China-Myanmar border in Yunnan Province.
-- 1986: Sumburgh disaster: A British International Helicopters Boeing 234LR Chinook crashes 2.mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}1⁄2 miles east of Sumburgh Airport killing 45 people. It is the deadliest civilian helicopter crash on record.
-- 1985: Colombian conflict, leftist guerrillas of the 19th of April Movement seize control of the Palace of Justice in Bogotá.
-- 1977: The Kelly Barnes Dam, located above Toccoa Falls College near Toccoa, Georgia, fails, killing 39.
-- 1976:  Uttawar forced sterilisations: Mass vasectomy of nearly 800 men of Uttawar village, Palwal district, Haryana during India's Emergency imposed by Indira Gandhi.
-- 1971: The United States Atomic Energy Commission tests the largest U.S. underground hydrogen bomb, code-named Cannikin, on Amchitka Island in the Aleutians.
-- 1963: Nguyễn Ngọc Thơ is appointed to head the South Vietnamese government by General Dương Văn Minh's junta, five days after the latter deposed and assassinated President Ngô Đình Diệm.
-- 1947: Meet the Press, the longest running television program in history, makes its debut on NBC Television.
-- 1943: World War II: The 1st Ukrainian Front liberates Kyiv from German occupation.
-- 1936: Spanish Civil War: The republican government flees from Madrid to Valencia, leading to the formation of the Madrid Defense Council in its stead.
-- 1900: President William McKinley is re-elected, along with his vice-presidential running mate, Governor Theodore Roosevelt of New York. Republicans also swept the congressional elections, winning increased majorities in both the Senate and the House of Representatives.
-- 1869: In New Brunswick, New Jersey, Rutgers College defeats Princeton University (then known as the College of New Jersey), 6-4, in the first official intercollegiate American football game.
-- 1860: Abraham Lincoln is elected the 16th president of the United States with only 40% of the popular vote, defeating John C. Breckinridge, John Bell, and Stephen A. Douglas in a four-way race.
-- 1792: Battle of Jemappes in the French Revolutionary Wars.
-- 1577: The first recorded observation from Earth of the Great Comet of 1577 takes place by Aztec astronomers in Mexico, followed by reports from Italy on November 7 and Japan on November 8. Astronomer Tycho Brahe will track the comet from November 13 until January 26 before it departs the Solar System.
-- 1217: The Charter of the Forest is sealed at St Paul's Cathedral, London by King Henry III, acting under the regency of William Marshall, 1st Earl of Pembroke which re-establishes for free men rights of access to the royal forest that had been eroded by William the Conqueror and his heirs.
-- 963: Synod of Rome: Emperor Otto I calls a council at St. Peter's Basilica in Rome. Pope John XII is deposed on charges of an armed rebellion against Otto.
-- 447: A powerful earthquake destroys large portions of the Walls of Constantinople, including 57 towers.
+- 2023: António Costa resigns as Prime Minister of Portugal following news of an investigation in a corruption scandal implicating members of his cabinet.
+- 2020: Joe Biden is confirmed elected as the 46th president of the United States, defeating incumbent Donald Trump.
+- 2017: Shamshad TV is attacked by gunmen and suicide bombers, with a security guard killed and 20 people wounded; ISIS claims responsibility for the attack.
+- 2012: An earthquake off the Pacific coast of Guatemala kills at least 52 people.
+- 2007: The Jokela school shooting in Jokela, Tuusula, Finland, takes place, resulting in the death of nine people.
+- 2004: Iraq War: The interim government of Iraq calls for a 60-day state of emergency as U.S. forces storm the insurgent stronghold of Fallujah.
+- 2000: The U.S. Drug Enforcement Administration discovers one of the country's largest LSD labs inside a converted military missile silo in Wamego, Kansas.
+- 2000: The controversial US presidential election is later resolved in the Bush v. Gore Supreme Court case, electing George W. Bush as the 43rd President of the United States.
+- 1996: ADC Airlines Flight 086 crashes into the Lagos Lagoon in Epe, Lagos State, Nigeria, killing all 144 people on board.
+- 1996: NASA launches the Mars Global Surveyor.
+- 1994: WXYC, the student radio station of the University of North Carolina at Chapel Hill, launches the world's first internet radio broadcast.
+- 1991: Magic Johnson announces that he is HIV-positive and retires from the NBA.
+- 1990: Mary Robinson becomes the first woman to be elected President of the Republic of Ireland.
+- 1989: East German Prime Minister Willi Stoph, along with his entire cabinet, is forced to resign after huge anti-government protests.
+- 1989: David Dinkins becomes the first African American to be elected Mayor of New York City.
+- 1989: Douglas Wilder wins the governor's seat in Virginia, becoming the first elected African American governor in the United States.
+- 1987: The Mass Rapid Transit (MRT) system in Singapore opens for passenger service.
+- 1987: In Tunisia, president Habib Bourguiba is overthrown and replaced by Prime Minister Zine El Abidine Ben Ali.
+- 1983: Cold War: The command post exercise Able Archer 83 begins, eventually leading to the Soviet Union to place air units in East Germany and Poland on alert, for fear that NATO was preparing for war
+- 1983: United States Senate bombing: A bomb explodes inside the United States Capitol. No one is injured, but an estimated $250,000 in damage is caused.
+- 1982: Colonel Saye Zerbo, president of the military government of Upper Volta, is ousted from power in a coup d'état led by Colonel Gabriel Yoryan Somé.
+- 1975: In Bangladesh, a joint force of people and soldiers takes part in an uprising led by Colonel Abu Taher that ousts and kills Brigadier Khaled Mosharraf, freeing the then house-arrested army chief and future president Major General Ziaur Rahman.
+- 1973: The United States Congress overrides President Richard Nixon's veto of the War Powers Resolution, which limits presidential power to wage war without congressional approval.
+- 1972: United States presidential election: U.S. President Richard Nixon is re-elected in the largest landslide victory at the time.
+- 1967: US President Lyndon B. Johnson signs the Public Broadcasting Act of 1967, establishing the Corporation for Public Broadcasting.
+- 1967: Carl B. Stokes is elected as Mayor of Cleveland, Ohio, becoming the first African American mayor of a major American city.
+- 1957: Cold War: The Gaither Report calls for more American missiles and fallout shelters.
+- 1956: Hungarian Revolution: János Kádár returns to Budapest in a Soviet armored convoy, officially taking office as the next Hungarian leader. By this point, most armed resistance has been defeated.
+- 1956: Suez Crisis: The United Nations General Assembly adopts a resolution calling for the United Kingdom, France and Israel to immediately withdraw their troops from Egypt.
+- 1949: The first oil was taken in Oil Rocks (Neft Daşları), the world's oldest offshore oil platform.
 
 Data from muffinlabs
-*(Updated at: 2025-11-06 01:49:39 UTC)*
+*(Updated at: 2025-11-07 01:48:29 UTC)*
 
 # 历史上的今天 
 
-- - 2016年：叙利亚内战：叙利亚民主力量（SDF）发动攻势，从伊拉克和黎凡特伊斯兰国（ISIL）手中夺取拉卡市。
-- - 2012 年：塔米·鲍德温 (Tammy Baldwin) 成为首位当选美国参议院议员的公开同性恋政治家。
-- - 2004 年：英国 Ufton Nervet 村附近一列特快列车与一辆静止的汽车相撞，造成 7 人死亡、150 人受伤。
-- - 2002 年：一架福克 50 在卢森堡机场附近坠毁，造成 20 人死亡、3 人受伤。
-- - 2002年：姜立军因签署《中共十六大公开信》而被中国警方拘留。
-- - 1995 年：克利夫兰布朗队迁址争议：阿特·莫德尔宣布他签署了一项协议，将克利夫兰布朗队迁至巴尔的摩。
-- - 1988年：澜沧江-耿马地震：云南省中缅边境发生两次强烈地震，造成至少730人死亡。
-- - 1986 年：萨姆堡灾难：一架英国国际直升机波音 234LR Chinook 坠毁 2.mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output.frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}东边1⁄2英里萨姆堡机场造成 45 人死亡。这是有记录以来最致命的民用直升机坠毁事故。
-- - 1985 年：哥伦比亚冲突，4 月 19 日运动左翼游击队夺取了波哥大司法宫的控制权。
-- - 1977 年：位于佐治亚州托科亚附近托科亚瀑布学院上方的凯利巴恩斯大坝溃坝，造成 39 人死亡。
-- - 1976 年：Uttawar 强制绝育：在英迪拉·甘地实施的印度紧急状态期间，哈里亚纳邦帕尔瓦尔区 Uttawar 村近 800 名男性接受了大规模输精管切除术。
-- - 1971 年：美国原子能委员会在阿留申群岛的阿姆奇特卡岛测试了美国最大的地下氢弹，代号为 Cannikin。
-- - 1963 年：阮玉石 (Nguyễn Ngọc Thơ) 被杨文明 (Dương Văn Minh) 将军的军政府任命为南越政府首脑，五天后，后者废黜并暗杀了总统吴廷琰 (Ngô Đình Diệm)。
-- - 1947 年：历史上播出时间最长的电视节目《与媒体见面》在 NBC 电视台首次亮相。
-- - 1943 年：第二次世界大战：乌克兰第一方面军将基辅从德国占领下解放出来。
-- - 1936 年：西班牙内战：共和政府从马德里逃往巴伦西亚，导致马德里防务委员会成立。
-- - 1900 年：总统威廉·麦金利和他的副总统竞选搭档、纽约州州长西奥多·罗斯福再次当选。共和党也在国会选举中大获全胜，在参议院和众议院都赢得了更多的多数席位。
-- - 1869 年：在新泽西州新不伦瑞克，罗格斯学院以 6-4 击败普林斯顿大学（当时称为新泽西学院），这是第一场正式的校际美式橄榄球比赛。
-- - 1860 年：亚伯拉罕·林肯仅以 40% 的普选票，在四人竞选中击败约翰·C·布雷肯里奇、约翰·贝尔和斯蒂芬·A·道格拉斯，当选美国第 16 任总统。
-- - 1792 年：法国大革命战争中的热马佩斯战役。
-- - 1577年：墨西哥的阿兹特克天文学家首次在地球上观测到了1577年的大彗星，随后意大利于11月7日和日本于11月8日发布了报告。天文学家第谷·布拉赫将从11月13日到1月26日跟踪这颗彗星，然后它离开太阳系。
-- - 1217 年：国王亨利三世在第一代彭布罗克伯爵威廉·马歇尔摄政期间，在伦敦圣保罗大教堂签署了《森林宪章》，为自由人重新确立了进入被征服者威廉及其继承人侵蚀的皇家森林的权利。
-- - 963：罗马宗教会议：奥托一世皇帝在罗马圣彼得大教堂召开会议。教皇约翰十二世因武装叛乱反对奥托而被废黜。
-- - 447 年：一场强烈的地震摧毁了君士坦丁堡城墙的大部分，包括 57 座塔楼。
+- - 2023 年：在有消息称安东尼奥·科斯塔 (António Costa) 辞去葡萄牙总理职务，该丑闻涉及其内阁成员的腐败丑闻。
+- - 2020 年：乔·拜登击败现任唐纳德·特朗普，确认当选美国第 46 任总统。
+- - 2017年：Shamshad TV遭到枪手和自杀式炸弹袭击，一名保安被杀，20人受伤；伊斯兰国声称对此次袭击负责。
+- - 2012 年：危地马拉太平洋沿岸发生地震，造成至少 52 人死亡。
+- - 2007年：芬兰图苏拉约克拉发生校园枪击事件，造成9人死亡。
+- - 2004 年：伊拉克战争：随着美军猛攻费卢杰的叛乱据点，伊拉克临时政府要求实行为期 60 天的紧急状态。
+- - 2000 年：美国缉毒局在堪萨斯州瓦梅戈的一个改装的军用导弹发射井内发现了该国最大的 LSD 实验室之一。
+- - 2000年：备受争议的美国总统选举后来在布什诉戈尔最高法院案中得到解决，乔治·W·布什当选为美国第43任总统。
+- - 1996 年：ADC 航空公司 086 号航班坠入尼日利亚拉各斯州埃佩的拉各斯泻湖，机上 144 人全部遇难。
+- - 1996 年：美国宇航局发射火星全球探测者号。
+- - 1994 年：北卡罗来纳大学教堂山分校的学生广播电台 WXYC 推出世界上第一个互联网广播。
+- - 1991 年：“魔术师”约翰逊宣布他感染艾滋病毒并从 NBA 退役。
+- - 1990 年：玛丽·罗宾逊成为第一位当选爱尔兰共和国总统的女性。
+- - 1989 年：东德总理维利·斯托夫及其整个内阁在大规模的反政府抗议活动后被迫辞职。
+- - 1989 年：大卫·丁金斯 (David Dinkins) 成为第一位当选纽约市市长的非裔美国人。
+- - 1989 年：道格拉斯·怀尔德 (Douglas Wilder) 赢得弗吉尼亚州州长席位，成为美国第一位当选的非洲裔州长。
+- - 1987 年：新加坡大众捷运 (MRT) 系统开始提供客运服务。
+- - 1987 年：突尼斯总统哈比卜·布尔吉巴被推翻，总理宰因·阿比丁·本·阿里取代。
+- - 1983年：冷战：指挥所演习Able Archer 83开始，最终导致苏联将东德和波兰的空军部队置于戒备状态，因为担心北约正在为战争做准备
+- - 1983 年：美国参议院爆炸案：一枚炸弹在美国国会大厦内爆炸。无人受伤，但造成的损失估计为 25 万美元。
+- - 1982 年：上沃尔特军政府主席 Saye Zerbo 上校在 Gabriel Yoryan Somé 上校领导的政变中被赶下台。
+- - 1975 年：在孟加拉国，人民和士兵联合部队参加了阿布·塔赫上校领导的起义，推翻并杀害了哈立德·莫沙拉夫准将，释放了当时被软禁的陆军参谋长和未来总统齐亚尔·拉赫曼少将。
+- - 1973 年：美国国会推翻了理查德·尼克松总统对《战争权力决议》的否决，该决议限制了总统在未经国会批准的情况下发动战争的权力。
+- - 1972年：美国总统选举：美国总统理查德·尼克松以当时最大的压倒性胜利再次当选。
+- - 1967 年：美国总统林登·约翰逊 (Lyndon B. Johnson) 签署 1967 年公共广播法案，成立公共广播公司。
+- - 1967 年：卡尔·B·斯托克斯 (Carl B. Stokes) 当选为俄亥俄州克利夫兰市市长，成为美国大城市的第一位非裔美国人市长。
+- - 1957 年：冷战：盖瑟报告呼吁美国提供更多导弹和防尘罩。
+- - 1956 年：匈牙利革命：亚诺什·卡达尔随苏联装甲车队返回布达佩斯，正式就任下一任匈牙利领导人。至此，大多数武装抵抗已被击败。
+- - 1956年：苏伊士运河危机：联合国大会通过决议，要求英国、法国和以色列立即从埃及撤军。
+- - 1949 年：在世界上最古老的海上石油平台 Oil Rocks (Neft Daşları) 开采出第一批石油。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-06 01:49:39 UTC）*
+*（更新于: 2025-11-07 01:48:29 UTC）*
