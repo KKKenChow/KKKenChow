@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: António Costa resigns as Prime Minister of Portugal following news of an investigation in a corruption scandal implicating members of his cabinet.
-- 2020: Joe Biden is confirmed elected as the 46th president of the United States, defeating incumbent Donald Trump.
-- 2017: Shamshad TV is attacked by gunmen and suicide bombers, with a security guard killed and 20 people wounded; ISIS claims responsibility for the attack.
-- 2012: An earthquake off the Pacific coast of Guatemala kills at least 52 people.
-- 2007: The Jokela school shooting in Jokela, Tuusula, Finland, takes place, resulting in the death of nine people.
-- 2004: Iraq War: The interim government of Iraq calls for a 60-day state of emergency as U.S. forces storm the insurgent stronghold of Fallujah.
-- 2000: The U.S. Drug Enforcement Administration discovers one of the country's largest LSD labs inside a converted military missile silo in Wamego, Kansas.
-- 2000: The controversial US presidential election is later resolved in the Bush v. Gore Supreme Court case, electing George W. Bush as the 43rd President of the United States.
-- 1996: ADC Airlines Flight 086 crashes into the Lagos Lagoon in Epe, Lagos State, Nigeria, killing all 144 people on board.
-- 1996: NASA launches the Mars Global Surveyor.
-- 1994: WXYC, the student radio station of the University of North Carolina at Chapel Hill, launches the world's first internet radio broadcast.
-- 1991: Magic Johnson announces that he is HIV-positive and retires from the NBA.
-- 1990: Mary Robinson becomes the first woman to be elected President of the Republic of Ireland.
-- 1989: East German Prime Minister Willi Stoph, along with his entire cabinet, is forced to resign after huge anti-government protests.
-- 1989: David Dinkins becomes the first African American to be elected Mayor of New York City.
-- 1989: Douglas Wilder wins the governor's seat in Virginia, becoming the first elected African American governor in the United States.
-- 1987: The Mass Rapid Transit (MRT) system in Singapore opens for passenger service.
-- 1987: In Tunisia, president Habib Bourguiba is overthrown and replaced by Prime Minister Zine El Abidine Ben Ali.
-- 1983: Cold War: The command post exercise Able Archer 83 begins, eventually leading to the Soviet Union to place air units in East Germany and Poland on alert, for fear that NATO was preparing for war
-- 1983: United States Senate bombing: A bomb explodes inside the United States Capitol. No one is injured, but an estimated $250,000 in damage is caused.
-- 1982: Colonel Saye Zerbo, president of the military government of Upper Volta, is ousted from power in a coup d'état led by Colonel Gabriel Yoryan Somé.
-- 1975: In Bangladesh, a joint force of people and soldiers takes part in an uprising led by Colonel Abu Taher that ousts and kills Brigadier Khaled Mosharraf, freeing the then house-arrested army chief and future president Major General Ziaur Rahman.
-- 1973: The United States Congress overrides President Richard Nixon's veto of the War Powers Resolution, which limits presidential power to wage war without congressional approval.
-- 1972: United States presidential election: U.S. President Richard Nixon is re-elected in the largest landslide victory at the time.
-- 1967: US President Lyndon B. Johnson signs the Public Broadcasting Act of 1967, establishing the Corporation for Public Broadcasting.
-- 1967: Carl B. Stokes is elected as Mayor of Cleveland, Ohio, becoming the first African American mayor of a major American city.
-- 1957: Cold War: The Gaither Report calls for more American missiles and fallout shelters.
-- 1956: Hungarian Revolution: János Kádár returns to Budapest in a Soviet armored convoy, officially taking office as the next Hungarian leader. By this point, most armed resistance has been defeated.
-- 1956: Suez Crisis: The United Nations General Assembly adopts a resolution calling for the United Kingdom, France and Israel to immediately withdraw their troops from Egypt.
-- 1949: The first oil was taken in Oil Rocks (Neft Daşları), the world's oldest offshore oil platform.
+- 2023: U.S. surgeons at NYU Langone Health announce the world's first whole eye transplant.
+- 2020: Second Nagorno-Karabakh War: An armistice agreement is signed by Armenia, Azerbaijan and Russia.
+- 2014: A non-binding self-determination consultation is held in Catalonia, asking Catalan citizens their opinion on whether Catalonia should become a state and, if so, whether it should be an independent state.
+- 2012: At least 27 people are killed and dozens are wounded in conflicts between inmates and guards at Welikada prison in Colombo.
+- 2012: A train carrying liquid fuel crashes and bursts into flames in northern Myanmar, killing 27 people and injuring 80 others.
+- 2011: The first national test of the Emergency Alert System is activated in the United States at 2:00 p.m. EST.
+- 2005: Suicide bombers attack three hotels in Amman, Jordan, killing at least 60 people.
+- 2005: The Venus Express mission of the European Space Agency is launched from the Baikonur Cosmodrome in Kazakhstan.
+- 2004: Firefox 1.0 is released.
+- 2000: Uttarakhand officially becomes the 27th state of India, formed from thirteen districts of northwestern Uttar Pradesh.
+- 1999: TAESA Flight 725 crashes after takeoff from Uruapan International Airport in Uruapan, Michoacán, Mexico, killing all 18 people on board.
+- 1998: Capital punishment in the United Kingdom, already abolished for murder, is completely abolished for all remaining capital offences.
+- 1998: A U.S. federal judge, in the largest civil settlement in American history, orders 37 U.S. brokerage houses to pay US$1.03 billion to cheated NASDAQ investors to compensate for price fixing.
+- 1994: The chemical element darmstadtium is discovered.
+- 1993: Stari Most, the "old bridge" in the Bosnian city of Mostar, built in 1566, collapses after several days of bombing by Croat forces during the Croat-Bosniak War.
+- 1989: Cold War: Fall of the Berlin Wall: East Germany opens checkpoints in the Berlin Wall, allowing its citizens to travel to West Berlin.
+- 1985: Garry Kasparov, 22, of the Soviet Union, becomes the youngest World Chess Champion by beating fellow Soviet Anatoly Karpov.
+- 1979: Cold War: Nuclear false alarm: The NORAD computers and the Alternate National Military Command Center in Fort Ritchie, Maryland, detect a purported massive Soviet nuclear strike. After reviewing the raw data from satellites and checking the early-warning radars, the alert is cancelled.
+- 1971: American banker John List murdered his wife, mother, and three children with a pair of handguns.
+- 1970: Vietnam War: The Supreme Court of the United States votes 6-3 against hearing a case to allow Massachusetts to enforce its law granting residents the right to refuse military service in an undeclared war.
+- 1967: Apollo program: NASA launches the unmanned Apollo 4 test spacecraft, atop the first Saturn V rocket, from Florida's Cape Kennedy.
+- 1965: A Catholic Worker Movement member, Roger Allen LaPorte, protesting against the Vietnam War, sets himself on fire in front of the United Nations building.
+- 1965: Several U.S. states and parts of Canada are hit by a series of blackouts lasting up to 13 hours in the Northeast blackout of 1965.
+- 1963: At a coal mine in Miike, Japan, an explosion kills 458 and hospitalises 839 with carbon monoxide poisoning.
+- 1960: Robert McNamara is named president of the Ford Motor Company, becoming the first non-Ford family member to serve in that post. He resigns a month later to join the newly elected John F. Kennedy administration.
+- 1953: Cambodia gains independence from France.
+- 1945: Soo Bahk Do and Moo Duk Kwan martial arts are founded in Korea.
+- 1943: An agreement for the founding of the United Nations Relief and Rehabilitation Administration is signed by 44 countries in the White House, Washington, D.C.
+- 1942: Battle of Stalingrad: German forces of the 6th Army under general Friedrich Paulus reach finally the river bank of the Volga, capturing 90% of the ruined city of Stalingrad and splitting the remaining Soviet forces into two narrow pockets.
+- 1940: Warsaw is awarded the Virtuti Militari by the Polish government-in-exile.
 
 Data from muffinlabs
-*(Updated at: 2025-11-07 01:48:29 UTC)*
+*(Updated at: 2025-11-09 01:52:33 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：在有消息称安东尼奥·科斯塔 (António Costa) 辞去葡萄牙总理职务，该丑闻涉及其内阁成员的腐败丑闻。
-- - 2020 年：乔·拜登击败现任唐纳德·特朗普，确认当选美国第 46 任总统。
-- - 2017年：Shamshad TV遭到枪手和自杀式炸弹袭击，一名保安被杀，20人受伤；伊斯兰国声称对此次袭击负责。
-- - 2012 年：危地马拉太平洋沿岸发生地震，造成至少 52 人死亡。
-- - 2007年：芬兰图苏拉约克拉发生校园枪击事件，造成9人死亡。
-- - 2004 年：伊拉克战争：随着美军猛攻费卢杰的叛乱据点，伊拉克临时政府要求实行为期 60 天的紧急状态。
-- - 2000 年：美国缉毒局在堪萨斯州瓦梅戈的一个改装的军用导弹发射井内发现了该国最大的 LSD 实验室之一。
-- - 2000年：备受争议的美国总统选举后来在布什诉戈尔最高法院案中得到解决，乔治·W·布什当选为美国第43任总统。
-- - 1996 年：ADC 航空公司 086 号航班坠入尼日利亚拉各斯州埃佩的拉各斯泻湖，机上 144 人全部遇难。
-- - 1996 年：美国宇航局发射火星全球探测者号。
-- - 1994 年：北卡罗来纳大学教堂山分校的学生广播电台 WXYC 推出世界上第一个互联网广播。
-- - 1991 年：“魔术师”约翰逊宣布他感染艾滋病毒并从 NBA 退役。
-- - 1990 年：玛丽·罗宾逊成为第一位当选爱尔兰共和国总统的女性。
-- - 1989 年：东德总理维利·斯托夫及其整个内阁在大规模的反政府抗议活动后被迫辞职。
-- - 1989 年：大卫·丁金斯 (David Dinkins) 成为第一位当选纽约市市长的非裔美国人。
-- - 1989 年：道格拉斯·怀尔德 (Douglas Wilder) 赢得弗吉尼亚州州长席位，成为美国第一位当选的非洲裔州长。
-- - 1987 年：新加坡大众捷运 (MRT) 系统开始提供客运服务。
-- - 1987 年：突尼斯总统哈比卜·布尔吉巴被推翻，总理宰因·阿比丁·本·阿里取代。
-- - 1983年：冷战：指挥所演习Able Archer 83开始，最终导致苏联将东德和波兰的空军部队置于戒备状态，因为担心北约正在为战争做准备
-- - 1983 年：美国参议院爆炸案：一枚炸弹在美国国会大厦内爆炸。无人受伤，但造成的损失估计为 25 万美元。
-- - 1982 年：上沃尔特军政府主席 Saye Zerbo 上校在 Gabriel Yoryan Somé 上校领导的政变中被赶下台。
-- - 1975 年：在孟加拉国，人民和士兵联合部队参加了阿布·塔赫上校领导的起义，推翻并杀害了哈立德·莫沙拉夫准将，释放了当时被软禁的陆军参谋长和未来总统齐亚尔·拉赫曼少将。
-- - 1973 年：美国国会推翻了理查德·尼克松总统对《战争权力决议》的否决，该决议限制了总统在未经国会批准的情况下发动战争的权力。
-- - 1972年：美国总统选举：美国总统理查德·尼克松以当时最大的压倒性胜利再次当选。
-- - 1967 年：美国总统林登·约翰逊 (Lyndon B. Johnson) 签署 1967 年公共广播法案，成立公共广播公司。
-- - 1967 年：卡尔·B·斯托克斯 (Carl B. Stokes) 当选为俄亥俄州克利夫兰市市长，成为美国大城市的第一位非裔美国人市长。
-- - 1957 年：冷战：盖瑟报告呼吁美国提供更多导弹和防尘罩。
-- - 1956 年：匈牙利革命：亚诺什·卡达尔随苏联装甲车队返回布达佩斯，正式就任下一任匈牙利领导人。至此，大多数武装抵抗已被击败。
-- - 1956年：苏伊士运河危机：联合国大会通过决议，要求英国、法国和以色列立即从埃及撤军。
-- - 1949 年：在世界上最古老的海上石油平台 Oil Rocks (Neft Daşları) 开采出第一批石油。
+- - 2023 年：纽约大学朗格健康中心的美国外科医生宣布进行世界上首例全眼移植手术。
+- - 2020年：第二次纳戈尔诺-卡拉巴赫战争：亚美尼亚、阿塞拜疆和俄罗斯签署停战协议。
+- - 2014年：加泰罗尼亚举行不具约束力的自决协商，询问加泰罗尼亚公民对加泰罗尼亚是否应该成为一个国家以及如果是的话是否应该成为一个独立国家的意见。
+- - 2012年：科伦坡韦利卡达监狱囚犯与看守之间的冲突造成至少27人死亡、数十人受伤。
+- - 2012年：一列运载液体燃料的火车在缅甸北部坠毁并起火，造成27人死亡、80人受伤。
+- - 2011 年：紧急警报系统的首次全国测试于下午 2:00 在美国启动。美国东部时间。
+- - 2005年：自杀式炸弹袭击者袭击了约旦安曼的三家酒店，造成至少60人死亡。
+- - 2005年：欧洲航天局的金星快车任务从哈萨克斯坦的拜科努尔航天发射场发射升空。
+- - 2004年：Firefox 1.0发布。
+- - 2000年：北阿坎德邦正式成为印度第27个邦，由北方邦西北部的13个县组成。
+- - 1999 年：TAESA 725 号航班从墨西哥米却肯州乌鲁阿潘国际机场起飞后坠毁，机上 18 人全部遇难。
+- - 1998年：英国已经废除了谋杀罪的死刑，并彻底废除了所有剩余的死刑罪。
+- - 1998 年：一名美国联邦法官在美国历史上最大的民事和解中命令 37 家美国经纪公司向受骗的纳斯达克投资者支付 10.3 亿美元，以补偿价格操纵行为。
+- - 1994 年：发现化学元素达姆斯塔德。
+- - 1993 年：波斯尼亚莫斯塔尔市的“旧桥”Stari Most 建于 1566 年，在克罗地亚-波斯尼亚战争期间遭到克罗地亚军队几天的轰炸后倒塌。
+- - 1989 年：冷战：柏林墙倒塌：东德在柏林墙开设检查站，允许其公民前往西柏林。
+- - 1985 年：22 岁的苏联人加里·卡斯帕罗夫 (Garry Kasparov) 击败苏联同胞阿纳托利·卡尔波夫 (Anatoly Karpov)，成为最年轻的世界国际象棋冠军。
+- - 1979 年：冷战：核误报：北美防空司令部计算机和位于马里兰州里奇堡的备用国家军事指挥中心检测到据称的苏联大规模核打击。在审查了卫星的原始数据并检查了预警雷达后，警报被取消。
+- - 1971 年：美国银行家约翰·李斯特用一把手枪谋杀了他的妻子、母亲和三个孩子。
+- - 1970 年：越南战争：美国最高法院以 6 票对 3 票反对审理允许马萨诸塞州执行法律的案件，该法律赋予居民在未宣战的战争中拒绝服兵役的权利。
+- - 1967 年：阿波罗计划：美国国家航空航天局 (NASA) 在第一枚土星五号火箭上从佛罗里达州肯尼迪角发射了无人阿波罗 4 号测试航天器。
+- - 1965 年：天主教工人运动成员罗杰·艾伦·拉波特为抗议越南战争，在联合国大楼前自焚。
+- - 1965 年：1965 年东北地区停电，美国几个州和加拿大部分地区遭受了长达 13 小时的一系列停电。
+- - 1963 年：日本三池的一座煤矿发生爆炸，造成 458 人死亡，839 人因一氧化碳中毒住院。
+- - 1960 年：罗伯特·麦克纳马拉 (Robert McNamara) 被任命为福特汽车公司总裁，成为第一位担任该职位的非福特家族成员。一个月后，他辞职加入新当选的约翰·F·肯尼迪政府。
+- - 1953 年：柬埔寨脱离法国独立。
+- - 1945 年：韩国创立了 Soo Bahk Do 和 Moo Duk Kwan 武术。
+- - 1943 年：44 个国家在华盛顿特区白宫签署了成立联合国善后救济总署的协议。
+- - 1942年：斯大林格勒战役：弗里德里希·保卢斯将军率领的德军第6集团军最终到达伏尔加河岸，占领了斯大林格勒90%的废墟，并将剩余的苏军分成了两个狭窄的口袋。
+- - 1940 年：波兰流亡政府授予华沙军事荣誉勋章。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-07 01:48:29 UTC）*
+*（更新于: 2025-11-09 01:52:33 UTC）*
