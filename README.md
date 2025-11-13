@@ -1,71 +1,93 @@
 # History of Today 
 
-- 2022: A Boeing B-17 Flying Fortress and a Bell P-63 Kingcobra collide in mid-air over Dallas Executive Airport during an airshow, killing six.
-- 2021: The Los Angeles Superior Court formally ends the 14-year conservatorship to pop singer Britney Spears.
-- 2017: The 7.3 Mw  Kermanshah earthquake shakes the northern Iran-Iraq border with a maximum Mercalli intensity of VIII (Severe). At least 410 people are killed and over 7,000 are injured.
-- 2015:  Two suicide bombers detonate explosives in Bourj el-Barajneh, Beirut, killing 43 people and injuring over 200 others.
-- 2014: An Armenian Mil Mi-24 attack helicopter is shot down by Azerbaijani forces, killing all three people on board.
-- 2014: The Philae lander, deployed from the European Space Agency's Rosetta probe, reaches the surface of Comet 67P/Churyumov-Gerasimenko.
-- 2011: A blast in Iran's Shahid Modarres missile base leads to the death of 17 of the Revolutionary Guards members, including Hassan Tehrani Moghaddam, a key figure in Iran's missile program.
-- 2011: Silvio Berlusconi tenders his resignation as Prime Minister of Italy, effective November 16, due in large part to the European sovereign debt crisis.
-- 2003: Shanghai Transrapid sets a new world speed record of 501 kilometres per hour (311 mph) for commercial railway systems, which remains the fastest for unmodified commercial rail vehicles.
-- 2003: Iraq War: In Nasiriyah, Iraq, at least 23 people, among them the first Italian casualties of the 2003 invasion of Iraq, are killed in a suicide bomb attack on an Italian police base.
-- 2001: War in Afghanistan: Taliban forces abandon Kabul, ahead of advancing Afghan Northern Alliance troops.
-- 2001: In New York City, American Airlines Flight 587, an Airbus A300 en route to the Dominican Republic, crashes minutes after takeoff from John F. Kennedy International Airport, killing all 260 on board and five on the ground.
-- 1999: The 7.2 Mw  Düzce earthquake shakes northwestern Turkey with a maximum Mercalli intensity of IX (Violent). At least 845 people are killed and almost 5,000 are injured.
-- 1997: Ramzi Yousef is found guilty of masterminding the 1993 World Trade Center bombing.
-- 1996: A Saudi Arabian Airlines Boeing 747 and a Kazakh Ilyushin Il-76 cargo plane collide in mid-air near New Delhi, killing 349 in the deadliest mid-air collision to date.
-- 1995: Space Shuttle Atlantis launches on STS-74 to deliver the Mir Docking Module to the Russian space station Mir.
-- 1995: Erdut Agreement regarding the peaceful resolution to the Croatian War of Independence is reached.
-- 1991: Santa Cruz massacre: The Indonesian Army open fire on a crowd of student protesters in Dili, East Timor.
-- 1990: Tim Berners-Lee publishes a formal proposal for the World Wide Web.
-- 1990: Crown Prince Akihito is formally installed as Emperor Akihito of Japan, becoming the 125th Japanese monarch.
-- 1982: USSR: Yuri Andropov becomes the General Secretary of the Communist Party's Central Committee, succeeding Leonid I. Brezhnev.
-- 1981: Space Shuttle program: Mission STS-2, utilizing the Space Shuttle Columbia, marks the first time a crewed spacecraft is launched into space twice.
-- 1980: The NASA space probe Voyager I makes its closest approach to Saturn and takes the first images of its rings.
-- 1979: Iran hostage crisis: In response to the hostage situation in Tehran, U.S. President Jimmy Carter orders a halt to all petroleum imports into the United States from Iran.
-- 1977: France conducts the Oreste nuclear test as 14th in the group of 29, 1975-78 French nuclear tests series.
-- 1975: The Comoros joins the United Nations.
-- 1971: Aeroflot Flight N-63 crashes on approach to Vinnytsia Airport, killing 48.
-- 1971: Vietnam War: As part of Vietnamization, U.S. President Richard Nixon sets February 1, 1972 as the deadline for the removal of another 45,000 American troops from Vietnam.
-- 1970: The 1970 Bhola cyclone makes landfall on the coast of East Pakistan, becoming the deadliest tropical cyclone in history.
-- 1970: The Oregon Highway Division attempts to destroy a rotting beached sperm whale with explosives, leading to the now infamous "exploding whale" incident.
+- 2022: A mass stabbing occurs in Moscow, Idaho in which four University of Idaho students are killed in off-campus housing.
+- 2015: Islamic State operatives carry out a series of coordinated terrorist attacks in Paris, including suicide bombings, mass shootings and a hostage crisis. The terrorists kill 130 people, making it the deadliest attack in France since the Second World War.
+- 2013: 4 World Trade Center officially opens.
+- 2013: Hawaii legalizes same-sex marriage.
+- 2012: A total solar eclipse occurs in parts of Australia and the South Pacific.
+- 2002: During the Prestige oil spill, a storm bursts a tank of the oil tanker MV Prestige, which was not allowed to dock and sank on November 19, 2002, off the coast of Galicia, spilling 63,000 metric tons of heavy fuel oil, more than the Exxon Valdez oil spill.
+- 2002: Iraq disarmament crisis: Iraq agrees to the terms of the UN Security Council Resolution 1441.
+- 2001: War on Terror: In the first such act since World War II, US President George W. Bush signs an executive order allowing military tribunals against foreigners suspected of connections to terrorist acts or planned acts on the United States.
+- 2000: Philippine House Speaker Manny Villar passes the articles of impeachment against Philippine President Joseph Estrada.
+- 1996: As part of the Great Internet Mersenne Prime Search (GIMPS) project, Joel Armengaud discovers the project's first Mersenne prime number, 
+  
+    
+      
+        
+          2
+          
+            1398269
+          
+        
+        −
+        1
+      
+    
+    {\displaystyle 2^{1398269}-1}
+  
+, a number with 420,921 digits.
+- 1995: Nigeria Airways Flight 357 crashes at Kaduna International Airport in Kaduna, Nigeria, killing 11 people and injuring 66.
+- 1995: Mozambique becomes the first state to join the Commonwealth of Nations without having been part of the former British Empire.
+- 1994: In a referendum, voters in Sweden decide to join the European Union.
+- 1993: China Northern Airlines Flight 6901 crashes on approach to Ürümqi Diwopu International Airport in Ürümqi, China, killing 12 people.
+- 1992: The High Court of Australia rules in Dietrich v The Queen that although there is no absolute right to have publicly funded counsel, in most circumstances a judge should grant any request for an adjournment or stay when an accused is unrepresented.
+- 1991: The Republic of Karelia, an autonomous republic of Russia, is formed from the former Karelian ASSR.
+- 1990: In Aramoana, New Zealand, David Gray shoots dead 13 people in a massacre before being tracked down and killed by police the next day.
+- 1989: Hans-Adam II, the present Prince of Liechtenstein, begins his reign on the death of his father.
+- 1986: The Late, Late Breakfast Show incident leads to death of 24 year old Michael Lush and show cancellation.
+- 1985: Xavier Suárez is sworn in as Miami's first Cuban-born mayor.
+- 1985: The volcano Nevado del Ruiz erupts and melts a glacier, causing a lahar (volcanic mudslide) that buries Armero, Colombia, killing approximately 23,000 people.
+- 1982: The Vietnam Veterans Memorial is dedicated in Washington, D.C. after a march to its site by thousands of Vietnam War veterans.
+- 1982: Ray Mancini defeats Duk Koo Kim in a boxing match held in Las Vegas. Kim's subsequent death (on November 18) leads to significant changes in the sport.
+- 1970: Bhola cyclone: A 240 km/h (150 mph) tropical cyclone hits the densely populated Ganges Delta region of East Pakistan (now Bangladesh), killing an estimated 500,000 people in one night.
+- 1969: Vietnam War: Anti-war protesters in Washington, D.C. stage a symbolic March Against Death.
+- 1966: All Nippon Airways Flight 533 crashes into the Seto Inland Sea near Matsuyama Airport in Japan, killing 50 people.
+- 1966: In response to Fatah raids against Israelis near the West Bank border, Israel launches an attack on the village of As-Samu.
+- 1965: Fire and sinking of SS Yarmouth Castle, 87 dead.
+- 1956: The Supreme Court of the United States affirmed a lower court ruling that invalidated Alabama laws requiring segregated buses, thus ending the Montgomery bus boycott.
+- 1954: Great Britain defeats France to capture the first ever Rugby League World Cup in Paris in front of around 30,000 spectators.
 
 Data from muffinlabs
-*(Updated at: 2025-11-12 01:49:31 UTC)*
+*(Updated at: 2025-11-13 01:51:10 UTC)*
 
 # 历史上的今天 
 
-- - 2022 年：航展期间，一架波音 B-17 飞行堡垒和一架贝尔 P-63 Kingcobra 在达拉斯行政机场上空相撞，造成六人死亡。
-- - 2021 年：洛杉矶高等法院正式结束对流行歌手布兰妮·斯皮尔斯 14 年的监管。
-- - 2017 年：7.3 兆瓦的克尔曼沙赫地震震动了伊朗-伊拉克北部边境，最大麦卡利强度为 VIII（严重）。至少 410 人死亡，7000 多人受伤。
-- - 2015 年：两名自杀式炸弹袭击者在贝鲁特 Bourj el-Barajneh 引爆炸弹，造成 43 人死亡、200 多人受伤。
-- - 2014年：一架亚美尼亚Mil Mi-24攻击直升机被阿塞拜疆军队击落，机上三人全部遇难。
-- - 2014 年：欧洲航天局罗塞塔探测器部署的菲莱着陆器到达 67P/Churyumov-Gerasimenko 彗星表面。
-- - 2011 年：伊朗沙希德·莫达雷斯 (Shahid Modarres) 导弹基地发生爆炸，导致 17 名革命卫队成员死亡，其中包括伊朗导弹计划的关键人物哈桑·德赫拉尼·莫加达姆 (Hassan Tehrani Moghaddam)。
-- - 2011 年：西尔维奥·贝卢斯科尼 (Silvio Berlusconi) 辞去意大利总理职务，于 11 月 16 日生效，主要原因是欧洲主权债务危机。
-- - 2003 年：上海磁轨列车创下了商业铁路系统时速 501 公里（311 英里/小时）的新世界速度记录，这仍然是未经改装的商业铁路车辆的最快速度。
-- - 2003年：伊拉克战争：在伊拉克纳西里耶，至少23人在针对意大利警察基地的自杀式炸弹袭击中丧生，其中包括2003年入侵伊拉克时首批伤亡的意大利人。
-- - 2001年：阿富汗战争：塔利班军队在阿富汗北方联盟军队前进之前放弃喀布尔。
-- - 2001 年：在纽约市，美国航空 587 号航班（一架飞往多米尼加共和国的空客 A300）从约翰·肯尼迪国际机场起飞几分钟后坠毁，机上 260 人全部遇难，地面 5 人全部遇难。
-- - 1999 年：土耳其西北部发生了 7.2 Mw 迪兹杰地震，最大 Mercalli 强度为 IX（强烈）。至少 845 人死亡，近 5,000 人受伤。
-- - 1997 年：拉姆齐·优素福 (Ramzi Yousef) 因策划 1993 年世界贸易中心爆炸案而被判有罪。
-- - 1996 年：沙特阿拉伯航空公司的一架波音 747 飞机和一架哈萨克斯坦伊留申 Il-76 货机在新德里附近的空中相撞，造成 349 人死亡，这是迄今为止最致命的空中相撞事故。
-- - 1995 年：亚特兰蒂斯号航天飞机搭载 STS-74 发射，将和平号对接模块运送到俄罗斯和平号空间站。
-- - 1995年：达成关于和平解决克罗地亚独立战争的埃尔杜特协议。
-- - 1991 年：圣克鲁斯大屠杀：印度尼西亚军队向东帝汶帝力的一群学生抗议者开枪。
-- - 1990 年：蒂姆·伯纳斯·李 (Tim Berners-Lee) 发布了关于万维网的正式提案。
-- - 1990年：明仁皇太子正式就任日本明仁天皇，成为日本第125任天皇。
-- - 1982年：苏联：尤里·安德罗波夫接替列昂尼德·勃列日涅夫成为共产党中央委员会总书记。
-- - 1981 年：航天飞机计划：STS-2 任务利用哥伦比亚号航天飞机，标志着载人航天器首次两次发射进入太空。
-- - 1980 年：美国宇航局太空探测器航行者一号最接近土星并拍摄了土星环的第一张图像。
-- - 1979 年：伊朗人质危机：为了应对德黑兰的人质局势，美国总统吉米·卡特下令停止从伊朗向美国进口所有石油。
-- - 1977年：法国进行了奥瑞斯特核试验，这是1975-78法国核试验系列29次试验中的第14次。
-- - 1975 年：科摩罗加入联合国。
-- - 1971 年：俄罗斯航空公司 N-63 航班在飞往文尼察机场时坠毁，造成 48 人死亡。
-- - 1971 年：越南战争：作为越南化的一部分，美国总统理查德·尼克松 (Richard Nixon) 将 1972 年 2 月 1 日定为从越南撤走另外 45,000 名美军的最后期限。
-- - 1970 年：1970 年博拉气旋在东巴基斯坦海岸登陆，成为历史上最致命的热带气旋。
-- - 1970 年：俄勒冈州公路部门试图用炸药摧毁一头腐烂的搁浅抹香鲸，导致了现在臭名昭著的“鲸鱼爆炸”事件。
+- - 2022 年：爱达荷州莫斯科发生大规模持刀伤人事件，四名爱达荷大学学生在校外宿舍内被杀。
+- - 2015年：伊斯兰国特工在巴黎发动一系列协同恐怖袭击，包括自杀式爆炸、大规模枪击和人质危机。恐怖分子造成130人死亡，成为法国自二战以来最严重的袭击事件。
+- - 2013年：世贸中心4号大楼正式开放。
+- - 2013 年：夏威夷同性婚姻合法化。
+- - 2012年：澳大利亚和南太平洋部分地区发生日全食。
+- - 2002年：在Prestige漏油事件中，风暴导致油轮MV Prestige的油箱爆裂，该油轮因不允许靠岸而于2002年11月19日在加利西亚海岸沉没，泄漏了63,000吨重质燃油，比Exxon Valdez漏油事件还要多。
+- - 2002年：伊拉克裁军危机：伊拉克同意联合国安理会第1441号决议的条款。
+- - 2001年：反恐战争：美国总统乔治·W·布什签署了一项行政命令，允许军事法庭审理涉嫌参与恐怖活动或计划对美国采取的行动的外国人，这是自二战以来的首次此类行动。
+- - 2000年：菲律宾众议院议长曼尼·维拉尔通过了针对菲律宾总统约瑟夫·埃斯特拉达的弹劾条款。
+- - 1996 年：作为互联网梅森素数大搜索 (GIMPS) 项目的一部分，Joel Armengaud 发现了该项目的第一个梅森素数，
+- 2
+- 1398269
+- -
+- 1
+- {\displaystyle 2^{1398269}-1}
+- ，一个有 420,921 位数字的数字。
+- - 1995年：尼日利亚航空357号航班在尼日利亚卡杜纳卡杜纳国际机场坠毁，造成11人死亡、66人受伤。
+- - 1995年：莫桑比克成为第一个不属于前大英帝国而加入英联邦的国家。
+- - 1994 年：在全民公投中，瑞典选民决定加入欧盟。
+- - 1993年：中国北方航空公司6901航班在飞往中国乌鲁木齐地窝堡国际机场时坠毁，造成12人死亡。
+- - 1992 年：澳大利亚高等法院在 Dietrich v The Queen 案中裁定，虽然没有绝对权利聘请公共资助的律师，但在大多数情况下，当被告无人代理时，法官应批准任何延期或中止的请求。
+- - 1991年：卡累利阿共和国是俄罗斯的一个自治共和国，由前卡累利阿苏维埃社会主义共和国成立。
+- - 1990 年：在新西兰阿拉莫阿纳，大卫·格雷 (David Gray) 在一场大屠杀中开枪打死 13 人，第二天被警方追捕并击毙。
+- - 1989 年：现任列支敦士登亲王汉斯·亚当二世在父亲去世后开始统治。
+- - 1986 年：《迟到早餐秀》事件导致 24 岁的迈克尔·卢什 (Michael Lush) 死亡，演出也被取消。
+- - 1985 年：泽维尔·苏亚雷斯 (Xavier Suárez) 宣誓就任迈阿密第一位古巴出生的市长。
+- - 1985 年：内瓦多德尔鲁伊斯火山喷发并融化冰川，引发火山泥流，掩埋了哥伦比亚阿尔梅罗，造成约 23,000 人死亡。
+- - 1982 年：数千名越战老兵游行至纪念馆后，在华盛顿特区举行了越战纪念碑落成仪式。
+- - 1982 年：雷·曼奇尼 (Ray Mancini) 在拉斯维加斯举行的拳击比赛中击败金德九 (Duk Koo Kim)。Kim 随后的去世（11 月 18 日）导致了这项运动的重大变化。
+- - 1970 年：博拉气旋：一股时速 240 公里/小时（150 英里/小时）的热带气旋袭击了东巴基斯坦（现为孟加拉国）人口稠密的恒河三角洲地区，一夜间造成约 50 万人死亡。
+- - 1969 年：越南战争：华盛顿特区的反战抗议者举行了象征性的反死亡游行。
+- - 1966 年：全日空航空 533 号航班在日本松山机场附近坠入濑户内海，造成 50 人死亡。
+- - 1966 年：为了回应法塔赫在约旦河西岸边境附近对以色列人的袭击，以色列对 As-Samu 村发动了袭击。
+- - 1965 年：SS 雅茅斯城堡失火并沉没，87 人死亡。
+- - 1956 年：美国最高法院确认下级法院的一项裁决，宣布阿拉巴马州要求隔离公交车的法律无效，从而结束了蒙哥马利公交车抵制活动。
+- - 1954 年：英国击败法国，在巴黎大约 30,000 名观众面前夺得首届橄榄球联盟世界杯冠军。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-12 01:49:31 UTC）*
+*（更新于: 2025-11-13 01:51:10 UTC）*
