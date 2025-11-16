@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: The world population reached eight billion.
-- 2020: Lewis Hamilton wins the Turkish Grand Prix and secures his seventh drivers' title, equalling the all-time record held by Michael Schumacher.
-- 2017: A flood a few miles outside of Athens results in the death of 25 people.
-- 2016: Hong Kong's High Court bans elected politicians Yau Wai-ching and Baggio Leung from the city's Parliament.
-- 2012: Xi Jinping becomes General Secretary of the Chinese Communist Party and a new seven-member Politburo Standing Committee is inaugurated.
-- 2007: Cyclone Sidr hits Bangladesh, killing an estimated 5,000 people and destroying parts of the world's largest mangrove forest, the Sundarbans.
-- 2006: Al Jazeera English launches worldwide.
-- 2003: The first day of the 2003 Istanbul bombings, in which two car bombs, targeting two synagogues, explode, kill 25 people and wound 300 more.
-- 2002: Hu Jintao becomes General Secretary of the Chinese Communist Party and a new nine-member Politburo Standing Committee is inaugurated.
-- 2001: Microsoft launches the Xbox game console in North America.
-- 2000: Jharkhand officially becomes the 28th state of India, formed from eighteen districts of southern Bihar.
-- 2000: A chartered Antonov An-24 crashes after takeoff from Luanda, Angola, killing more than 40 people.
-- 1994: A magnitude 7.1 earthquake hits the central Philippine island of Mindoro, killing 78 people, injuring 430 and triggering a tsunami up to 8.5 m (28 ft) high.
-- 1990: Space Shuttle Atlantis is launched on STS-38, a classified mission for the Department of Defense.
-- 1990: The Communist People's Republic of Bulgaria is disestablished and a new republican government is instituted.
-- 1988: The first Fairtrade label, Max Havelaar, is launched in the Netherlands.
-- 1988: Israeli-Palestinian conflict: An independent State of Palestine is proclaimed by the Palestinian National Council.
-- 1988: In the Soviet Union, the uncrewed Shuttle Buran makes its only space flight.
-- 1987: Continental Airlines Flight 1713 crashes during takeoff from Stapleton International Airport in Denver, Colorado, killing 25.
-- 1987: In Brașov, Romania, workers rebel against the communist regime of Nicolae Ceaușescu.
-- 1985: The Anglo-Irish Agreement is signed at Hillsborough Castle by British Prime Minister Margaret Thatcher and Irish Taoiseach Garret FitzGerald.
-- 1985: A research assistant is injured when a package from the Unabomber addressed to a University of Michigan professor explodes.
-- 1983: Turkish Republic of Northern Cyprus declares independence; it is only recognized by Turkey.
-- 1979: A package from Unabomber Ted Kaczynski begins smoking in the cargo hold of a flight from Chicago to Washington, D.C., forcing the plane to make an emergency landing.
-- 1978: A chartered Douglas DC-8 crashes near Colombo, Sri Lanka, killing 183.
-- 1976: René Lévesque and the Parti Québécois take power to become the first Quebec government of the 20th century clearly in favor of independence.
-- 1971: Intel releases the world's first commercial single-chip microprocessor, the 4004.
-- 1969: Vietnam War: In Washington, D.C., 250,000-500,000 protesters staged a peaceful demonstration against the war, including a symbolic "March Against Death".
-- 1969: Cold War: The Soviet submarine K-19 collides with the American submarine USS Gato in the Barents Sea.
-- 1968: The Cleveland Transit System becomes the first transit system in the western hemisphere to provide direct rapid transit service from a city's downtown to its major airport.
+- 2022: Artemis Program: NASA launches Artemis 1 on the first flight of the Space Launch System, the start of the program's future missions to the moon.
+- 2009: Space Shuttle program: Space Shuttle Atlantis is launched on mission STS-129 to the International Space Station.
+- 2005: Following a 31-year wait, Australia defeats Uruguay in a penalty shootout to qualify for the 2006 FIFA World Cup.
+- 2004: Half-Life 2 is released, a game winning 39 Game of the Year awards and being cited as one of the best games ever made.
+- 2002: The first cases of the 2002-2004 SARS outbreak are traced to Foshan, Guangdong Province, China.
+- 1997: After nearly 18 years of incarceration, China releases Wei Jingsheng, a pro-democracy dissident, from jail for medical reasons.
+- 1992: The Hoxne Hoard is discovered by metal detectorist Eric Lawes in Hoxne, Suffolk.
+- 1990: Pop group Milli Vanilli are stripped of their Grammy Award because the duo did not sing at all on the Girl You Know It's True album. Session musicians had provided all the vocals.
+- 1989: El Salvadoran army troops kill six Jesuit priests and two others at Jose Simeon Canas University.
+- 1988: In the first open election in more than a decade, voters in Pakistan elect populist candidate Benazir Bhutto to be Prime Minister of Pakistan.
+- 1988: The Supreme Soviet of the Estonian Soviet Socialist Republic declares that Estonia is "sovereign" but stops short of declaring independence.
+- 1981: Aeroflot Flight 3603 crashes during landing at Norilsk Airport, killing 99.
+- 1979: The first line of Bucharest Metro (Line M1) is opened from Timpuri Noi to Semănătoarea in Bucharest, Romania.
+- 1974: The Arecibo message is broadcast from Puerto Rico.
+- 1973: U.S. President Richard Nixon signs the Trans-Alaska Pipeline Authorization Act into law, authorizing the construction of the Alaska Pipeline.
+- 1973: Skylab program: NASA launches Skylab 4 with a crew of three astronauts from Cape Canaveral, Florida for an 84-day mission.
+- 1967: Aeroflot Flight 2230 crashes near Koltsovo Airport, killing 107.
+- 1965: Venera program: The Soviet Union launches the Venera 3 space probe toward Venus, which will be the first spacecraft to reach the surface of another planet.
+- 1959: Aeroflot Flight 315 crashes on approach to Lviv Airport, killing all 40 people on board.
+- 1958: National Airlines Flight 967 explodes in mid-air over the Gulf of Mexico, killing all 42 aboard.
+- 1945: UNESCO is founded.
+- 1944: The Jussi Awards, the Finnish film award ceremony, is held for the first time at Restaurant Adlon in Helsinki.
+- 1944: World War II: In support of the Battle of Hürtgen Forest, the town of Düren is destroyed by Allied aircraft.
+- 1940: New York City's "Mad Bomber" George Metesky places his first bomb at a Manhattan office building used by Consolidated Edison.
+- 1940: The Holocaust: In occupied Poland, the Nazis close off the Warsaw Ghetto from the outside world.
+- 1940: World War II: In response to the leveling of Coventry by the German Luftwaffe two days before, the Royal Air Force bombs Hamburg.
+- 1938: LSD is first synthesized by Albert Hofmann from ergotamine at the Sandoz Laboratories in Basel.
+- 1933: The United States and the Soviet Union establish formal diplomatic relations.
+- 1920: Qantas, Australia's national airline, is founded as Queensland and Northern Territory Aerial Services Limited.
+- 1914: The Federal Reserve Bank of the United States officially opens.
 
 Data from muffinlabs
-*(Updated at: 2025-11-15 01:46:10 UTC)*
+*(Updated at: 2025-11-16 01:55:27 UTC)*
 
 # 历史上的今天 
 
-- - 2022年：世界人口达到80亿。
-- - 2020 年：刘易斯·汉密尔顿 (Lewis Hamilton) 赢得土耳其大奖赛，并获得了他的第七个车手冠军头衔，追平了迈克尔·舒马赫 (Michael Schumacher) 保持的历史纪录。
-- - 2017 年：雅典郊外几英里的洪水导致 25 人死亡。
-- - 2016年：香港高等法院禁止民选政客游蕙祯和梁颂恒进入香港议会。
-- - 2012年：习近平就任中国共产党总书记，新一届七人政治局常务委员会就职。
-- - 2007 年：飓风“锡德”袭击孟加拉国，造成约 5,000 人死亡，并摧毁了世界上最大的红树林孙德尔本斯的部分地区。
-- - 2006 年：半岛电视台英语频道在全球推出。
-- - 2003 年：2003 年伊斯坦布尔爆炸案的第一天，两枚汽车炸弹针对两座犹太教堂发生爆炸，造成 25 人死亡、300 多人受伤。
-- - 2002年：胡锦涛就任中国共产党总书记，新的九名政治局常务委员会就职。
-- - 2001 年：微软在北美推出 Xbox 游戏机。
-- - 2000年：贾坎德邦正式成为印度第28个邦，由比哈尔邦南部的18个区组成。
-- - 2000 年：一架安东诺夫 An-24 包机从安哥拉罗安达起飞后坠毁，造成 40 多人死亡。
-- - 1994 年：菲律宾中部民都洛岛发生里氏 7.1 级地震，造成 78 人死亡、430 人受伤，并引发高达 8.5 m（28 英尺）的海啸。
-- - 1990 年：亚特兰蒂斯号航天飞机搭载 STS-38 发射升空，这是国防部的一项机密任务。
-- - 1990年：保加利亚共产主义人民共和国解散，新的共和政府成立。
-- - 1988 年：第一个公平贸易标签 Max Havelaar 在荷兰推出。
-- - 1988 年：以色列-巴勒斯坦冲突：巴勒斯坦全国委员会宣布建立独立的巴勒斯坦国。
-- - 1988 年：在苏联，无人驾驶的暴风雪号航天飞机进行了唯一一次太空飞行。
-- - 1987 年：大陆航空 1713 号航班从科罗拉多州丹佛市斯台普尔顿国际机场起飞时坠毁，造成 25 人死亡。
-- - 1987 年：在罗马尼亚布拉索夫，工人们反抗尼古拉·齐奥塞斯库的共产主义政权。
-- - 1985 年：英国首相玛格丽特·撒切尔和爱尔兰总理加勒特·菲茨杰拉德在希尔斯伯勒城堡签署了《英爱协议》。
-- - 1985 年：大学炸弹客寄给密歇根大学教授的包裹爆炸，导致一名研究助理受伤。
-- - 1983年：北塞浦路斯土耳其共和国宣布独立；只有土耳其承认。
-- - 1979 年：从芝加哥飞往华盛顿特区的航班货舱内，大学轰炸机特德·卡辛斯基寄来的包裹开始冒烟，迫使飞机紧急迫降。
-- - 1978 年：一架包租的道格拉斯 DC-8 在斯里兰卡科伦坡附近坠毁，造成 183 人死亡。
-- - 1976 年：雷内·莱维克 (René Lévesque) 和魁北克党上台，成为 20 世纪第一个明确支持独立的魁北克政府。
-- - 1971 年：Intel 发布世界上第一个商用单片微处理器 4004。
-- - 1969 年：越南战争：在华盛顿特区，250,000-500,000 名抗议者举行和平示威反对战争，其中包括具有象征意义的“反死亡游行”。
-- - 1969 年：冷战：苏联潜艇 K-19 在巴伦支海与美国潜艇加托号相撞。
-- - 1968 年：克利夫兰交通系统成为西半球第一个提供从市中心到主要机场的直接快速交通服务的交通系统。
+- - 2022 年：阿尔忒弥斯计划：NASA 在太空发射系统的首次飞行中发射了阿尔忒弥斯 1 号，这是该计划未来登月任务的开始。
+- - 2009 年：航天飞机计划：亚特兰蒂斯号航天飞机执行 STS-129 任务发射到国际空间站。
+- - 2005年：经过31年的等待，澳大利亚在点球大战中击败乌拉圭，获得参加2006年世界杯的资格。
+- - 2004 年：《半条命 2》发布，该游戏荣获 39 项年度游戏奖项，并被认为是有史以来最好的游戏之一。
+- - 2002年：2002-2004年SARS爆发的第一批病例可追溯到中国广东省佛山市。
+- - 1997年：在被监禁近18年后，中国因健康原因释放了民主派异见人士魏京生。
+- - 1992 年：萨福克郡霍克斯尼的金属探测器专家埃里克·劳斯 (Eric Lawes) 发现了霍克斯尼宝库。
+- - 1990 年：流行乐队 Milli Vanilli 被剥夺了格莱美奖，因为两人根本没有在《Girl You Know It's True》专辑中演唱。会议音乐家提供了所有的声音。
+- - 1989 年：萨尔瓦多军队在何塞西蒙卡纳斯大学杀害了六名耶稣会牧师和另外两人。
+- - 1988年：在十多年来的第一次公开选举中，巴基斯坦选民选举民粹主义候选人贝娜齐尔·布托担任巴基斯坦总理。
+- - 1988年：爱沙尼亚苏维埃社会主义共和国最高苏维埃宣布爱沙尼亚拥有“主权”，但没有宣布独立。
+- - 1981 年：俄罗斯航空公司 3603 号航班在诺里尔斯克机场着陆时坠毁，造成 99 人死亡。
+- - 1979 年：布加勒斯特地铁第一条线路（M1 线）开通，从 Timpuri Noi 到罗马尼亚布加勒斯特的 Semănătoarea。
+- - 1974 年：从波多黎各广播阿雷西博消息。
+- - 1973 年：美国总统理查德·尼克松签署《跨阿拉斯加管道授权法案》成为法律，授权建设阿拉斯加管道。
+- - 1973 年：天空实验室计划：NASA 与来自佛罗里达州卡纳维拉尔角的三名宇航员一起发射了天空实验室 4，执行为期 84 天的任务。
+- - 1967 年：俄罗斯航空公司 2230 号航班在科利佐沃机场附近坠毁，造成 107 人死亡。
+- - 1965 年：金星计划：苏联向金星发射金星 3 号太空探测器，这将是第一艘到达另一颗行星表面的航天器。
+- - 1959 年：俄罗斯航空公司 315 号航班在飞往利沃夫机场时坠毁，机上 40 人全部遇难。
+- - 1958 年：国家航空公司 967 号航班在墨西哥湾上空发生爆炸，机上 42 人全部遇难。
+- - 1945 年：联合国教科文组织成立。
+- - 1944 年：芬兰电影颁奖典礼 Jussi Awards 首次在赫尔辛基的 Adlon 餐厅举行。
+- - 1944 年：第二次世界大战：为了支援许特根森林战役，迪伦镇被盟军飞机摧毁。
+- - 1940 年：纽约市的“疯狂炸弹客”乔治·梅特斯基在联合爱迪生公司使用的曼哈顿办公楼放置了他的第一枚炸弹。
+- - 1940 年：大屠杀：在被占领的波兰，纳粹将华沙犹太人区与外界隔离。
+- - 1940 年：第二次世界大战：作为对德国空军两天前夷平考文垂的回应，英国皇家空军轰炸了汉堡。
+- - 1938 年：阿尔伯特·霍夫曼 (Albert Hofmann) 在巴塞尔的山德士实验室首次从麦角胺中合成了 LSD。
+- - 1933年：美国和苏联建立正式外交关系。
+- - 1920 年：澳大利亚国家航空公司澳洲航空 (Qantas) 成立，名称为昆士兰和北领地航空服务有限公司 (Queensland and Northern Territory Aerial Services Limited)。
+- - 1914 年：美国联邦储备银行正式开业。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-15 01:46:10 UTC）*
+*（更新于: 2025-11-16 01:55:27 UTC）*
