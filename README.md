@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: The first known case of COVID-19 is traced to a 55-year-old man who had visited a market in Wuhan, Hubei Province, China.
-- 2013: A rare late-season tornado outbreak strikes the Midwest. Illinois and Indiana are most affected with tornado reports as far north as lower Michigan. In all around six dozen tornadoes touch down in approximately an 11-hour time period, including seven EF3 and two EF4 tornadoes.
-- 2013: Fifty people are killed when Tatarstan Airlines Flight 363 crashes at Kazan Airport, Russia.
-- 2012: At least 50 schoolchildren are killed in an accident at a railway crossing near Manfalut, Egypt.
-- 2003: Actor Arnold Schwarzenegger's tenure as the governor of California began.
-- 2000: Alberto Fujimori is removed from office as president of Peru.
-- 2000: A catastrophic landslide in Log pod Mangartom, Slovenia, kills seven, and causes millions of SIT of damage. It is one of the worst catastrophes in Slovenia in the past 100 years.
-- 1997: In Luxor, Egypt, 62 people are killed by six Islamic militants outside the Temple of Hatshepsut, known as Luxor massacre.
-- 1993: In Nigeria, General Sani Abacha ousts the government of Ernest Shonekan in a military coup.
-- 1993: United States House of Representatives passes a resolution to establish the North American Free Trade Agreement.
-- 1990: Fugendake, part of the Mount Unzen volcanic complex, Nagasaki Prefecture, Japan, becomes active again and erupts.
-- 1989: Cold War: Velvet Revolution begins: In Czechoslovakia, a student demonstration in Prague is quelled by riot police. This sparks an uprising aimed at overthrowing the communist government (it succeeds on December 29).
-- 1986: The flight crew of Japan Airlines Flight 1628 are involved in a UFO sighting incident while flying over Alaska.
-- 1983: The Zapatista Army of National Liberation is founded in Mexico.
-- 1973: The Athens Polytechnic uprising against the military regime ends in a bloodshed in the Greek capital.
-- 1973: Watergate scandal: In Orlando, Florida, U.S. President Richard Nixon tells 400 Associated Press managing editors "I am not a crook."
-- 1970: Luna programme: The Soviet Union lands Lunokhod 1 on Mare Imbrium (Sea of Rains) on the Moon. This is the first roving remote-controlled robot to land on another world and is released by the orbiting Luna 17 spacecraft.
-- 1970: Vietnam War: Lieutenant William Calley goes on trial for the My Lai Massacre.
-- 1969: Cold War: Negotiators from the Soviet Union and the United States meet in Helsinki, Finland to begin SALT I negotiations aimed at limiting the number of strategic weapons on both sides.
-- 1968: Viewers of the Raiders-Jets football game in the eastern United States are denied the opportunity to watch its exciting finish when NBC broadcasts Heidi instead, prompting changes to sports broadcasting in the U.S.
-- 1968: British European Airways introduces the BAC One-Eleven into commercial service.
-- 1967: Vietnam War: Acting on optimistic reports that he had been given on November 13, U.S. President Lyndon B. Johnson tells the nation that, while much remained to be done, "We are inflicting greater losses than we're taking...We are making progress."
-- 1962: President John F. Kennedy dedicates Washington Dulles International Airport, serving the Washington, D.C., region.
-- 1957: Vickers Viscount G-AOHP of British European Airways crashes at Ballerup after the failure of three engines on approach to Copenhagen Airport. The cause is a malfunction of the anti-icing system on the aircraft. There are no fatalities.
-- 1953: The remaining human inhabitants of the Blasket Islands, County Kerry, Ireland, are evacuated to the mainland.
-- 1950: United Nations Security Council Resolution 89 relating to the Palestine Question is adopted.
-- 1950: Lhamo Dondrub is officially named the 14th Dalai Lama.
-- 1947: American scientists John Bardeen and Walter Houser Brattain observe the basic principles of the transistor, a key element for the electronics revolution of the 20th century.
-- 1947: The Screen Actors Guild implements an anti-Communist loyalty oath.
-- 1940: The Tartu Art Museum is established in Tartu, Estonia.
+- 2020: The Utah monolith, built sometime in 2016 is discovered by state biologists of the Utah Division of Wildlife Resources.
+- 2013: NASA launches the MAVEN probe to Mars.
+- 2012: Pope Tawadros II of Alexandria becomes the 118th Pope of the Coptic Orthodox Church of Alexandria.
+- 2003: The Massachusetts Supreme Judicial Court rules 4-3 in Goodridge v. Department of Public Health that the state's ban on same-sex marriage is unconstitutional and gives the state legislature 180 days to change the law making Massachusetts the first state in the United States to grant marriage rights to same-sex couples.
+- 2002: Iraq disarmament crisis: United Nations weapons inspectors led by Hans Blix arrive in Iraq.
+- 1999: At Texas A&M University, the Aggie Bonfire collapses killing 12 students and injuring 27 others.
+- 1996: A fire occurs on a train traveling through the Channel Tunnel from France to England causing several injuries and damaging approximately 500 metres (1,600 ft) of tunnel.
+- 1993: In South Africa, 21 political parties approve a new constitution, expanding voting rights and ending white minority rule.
+- 1993: In the United States, the North American Free Trade Agreement (NAFTA) is approved by the House of Representatives.
+- 1991: The autonomous Croatian Community of Herzeg-Bosnia, which would in 1993 become a republic, was established in Bosnia and Herzegovina.
+- 1991: After an 87-day siege, the Croatian city of Vukovar capitulates to the besieging Yugoslav People's Army and allied Serb paramilitary forces.
+- 1991: Shiite Muslim kidnappers in Lebanon release Anglican Church envoys Terry Waite and Thomas Sutherland.
+- 1987: King's Cross fire: In London, 31 people die in a fire at the city's busiest underground station, King's Cross St Pancras.
+- 1985: The first comic of Calvin and Hobbes is published in ten newspapers.
+- 1983: Aeroflot Flight 6833 is hijacked en route from Tbilisi to Leningrad. After returning to Tbilisi, the aircraft is subsequentially raided on the ground, resulting in seven deaths.
+- 1978: In Jonestown, Guyana, Jim Jones leads his Peoples Temple to a mass murder-suicide that claimed 918 lives in all, 909 of them in Jonestown itself, including over 270 children.
+- 1978: The McDonnell Douglas F/A-18 Hornet makes its first flight, at the Naval Air Test Center in Maryland, United States.
+- 1971: Oman declares its independence from the United Kingdom.
+- 1970: U.S. President Richard Nixon asks the U.S. Congress for $155 million in supplemental aid for the Cambodian government.
+- 1963: The first push-button telephone goes into service.
+- 1961: United States President John F. Kennedy sends 18,000 military advisors to South Vietnam.
+- 1949: The Iva Valley Shooting occurs after the coal miners of Enugu in Nigeria go on strike over withheld wages; 21 miners are shot dead and 51 are wounded by police under the supervision of the British colonial administration of Nigeria.
+- 1947: The Ballantyne's Department Store fire in Christchurch, New Zealand, kills 41; it is the worst fire disaster in the history of New Zealand.
+- 1944: The Popular Socialist Youth is founded in Cuba.
+- 1943: World War II: Battle of Berlin: Four hundred and forty Royal Air Force planes bomb Berlin causing only light damage and killing 131. The RAF loses nine aircraft and 53 air crew.
+- 1940: World War II: German leader Adolf Hitler and Italian Foreign Minister Galeazzo Ciano meet to discuss Benito Mussolini's disastrous Italian invasion of Greece.
+- 1929: Grand Banks earthquake: Off the south coast of Newfoundland in the Atlantic Ocean, a Richter magnitude 7.2 submarine earthquake, centered on the  Grand Banks, breaks 12 submarine transatlantic telegraph cables and triggers a tsunami that destroys many south coast communities in the Burin Peninsula.
+- 1928: Release of the animated short Steamboat Willie, the first fully synchronized sound cartoon.
+- 1918: Latvia declares its independence from Russia.
+- 1916: World War I: First Battle of the Somme: In France, British Expeditionary Force commander Douglas Haig calls off the battle which started on July 1, 1916.
 
 Data from muffinlabs
-*(Updated at: 2025-11-17 01:51:16 UTC)*
+*(Updated at: 2025-11-18 01:49:19 UTC)*
 
 # 历史上的今天 
 
-- - 2019 年：第一例已知的 COVID-19 病例可追溯到一名 55 岁男子，他曾去过中国湖北省武汉市的一个市场。
-- - 2013 年：罕见的季末龙卷风袭击中西部地区。伊利诺伊州和印第安纳州受龙卷风影响最严重，北至密歇根州下游。在大约 11 小时内，总共约有六打龙卷风登陆，其中包括七场 EF3 龙卷风和两场 EF4 龙卷风。
-- - 2013 年：鞑靼斯坦航空公司 363 号航班在俄罗斯喀山机场坠毁，造成 50 人死亡。
-- - 2012 年：埃及曼法鲁特附近的铁路道口发生事故，至少 50 名学童死亡。
-- - 2003 年：演员阿诺·施瓦辛格开始担任加利福尼亚州州长。
-- - 2000 年：阿尔贝托·藤森被解除秘鲁总统职务。
-- - 2000 年：斯洛文尼亚 Log pod Mangartom 发生灾难性山体滑坡，造成 7 人死亡，并造成数百万 SIT 损失。这是斯洛文尼亚过去100年来最严重的灾难之一。
-- - 1997年：在埃及卢克索，六名伊斯兰武装分子在哈特谢普苏特神庙外杀害了62人，称为卢克索大屠杀。
-- - 1993 年：在尼日利亚，萨尼·阿巴查 (Sani Abacha) 将军通过军事政变推翻了欧内斯特·肖尼坎 (Ernest Shonekan) 政府。
-- - 1993年：美国众议院通过决议建立北美自由贸易协定。
-- - 1990 年：日本长崎县云仙山火山群的一部分普现岳再次活跃并喷发。
-- - 1989 年：冷战：天鹅绒革命开始：在捷克斯洛伐克，布拉格的学生示威被防暴警察镇压。这引发了一场旨在推翻共产党政府的起义（于 12 月 29 日成功）。
-- - 1986 年：日本航空 1628 号航班的机组人员在飞越阿拉斯加时遭遇 UFO 目击事件。
-- - 1983 年：萨帕塔民族解放军在墨西哥成立。
-- - 1973 年：雅典理工学院反对军政府的起义以希腊首都的流血事件告终。
-- - 1973 年：水门事件丑闻：在佛罗里达州奥兰多，美国总统理查德·尼克松 (Richard Nixon) 对 400 名美联社总编辑说“我不是骗子”。
-- - 1970 年：月球计划：苏联将月球车 1 号降落在月球的雨海（Mare Imbrium）上。这是第一个登陆另一个世界的漫游遥控机器人，由绕轨道运行的月球17号航天器释放。
-- - 1970 年：越南战争：威廉·卡利中尉因美莱村大屠杀而受审。
-- - 1969 年：冷战：苏联和美国谈判代表在芬兰赫尔辛基会面，开始旨在限制双方战略武器数量的 SALT I 谈判。
-- - 1968 年：美国东部突袭者队与喷气机队橄榄球比赛的观众无缘观看激动人心的比赛，而 NBC 转播了《海蒂》，这促使美国体育广播发生了变化。
-- - 1968 年：英国欧洲航空公司将 BAC 1-11 引入商业服务。
-- - 1967 年：越南战争：根据 11 月 13 日收到的乐观报告，美国总统林登·约翰逊 (Lyndon B. Johnson) 告诉全国，虽然还有很多工作要做，但“我们造成的损失比我们承受的还要大……我们正在取得进展。”
-- - 1962 年：约翰·肯尼迪总统落成华盛顿杜勒斯国际机场，为华盛顿特区提供服务。
-- - 1957 年：英国欧洲航空公司的维克斯子爵 G-AOHP 在飞往哥本哈根机场时三台发动机发生故障，在巴勒鲁普坠毁。原因是飞机上的防冰系统出现故障。目前没有人员死亡。
-- - 1953 年：爱尔兰凯里郡布拉斯基特群岛的剩余人类居民被疏散到大陆。
-- - 1950年：联合国安理会有关巴勒斯坦问题的第89号决议获得通过。
-- - 1950年：拉姆敦珠被正式任命为第十四世达赖喇嘛。
-- - 1947 年：美国科学家 John Bardeen 和 Walter Houser Brattain 观察到晶体管的基本原理，晶体管是 20 世纪电子革命的关键要素。
-- - 1947 年：美国演员工会实施反共忠诚誓言。
-- - 1940 年：塔尔图艺术博物馆在爱沙尼亚塔尔图成立。
+- - 2020 年：犹他州野生动物资源部的生物学家发现了 2016 年建造的巨石。
+- - 2013 年：NASA 向火星发射 MAVEN 探测器。
+- - 2012年：亚历山大教皇塔瓦德罗斯二世成为亚历山大科普特东正教第118任教皇。
+- - 2003 年：马萨诸塞州最高法院在古德里奇诉公共卫生部一案中以 4 比 3 的裁决裁定，该州禁止同性婚姻的规定违宪，并给予州立法机关 180 天的时间修改法律，使马萨诸塞州成为美国第一个授予同性伴侣婚姻权利的州。
+- - 2002年：伊拉克裁军危机：汉斯·布利克斯率领的联合国武器核查人员抵达伊拉克。
+- - 1999 年：德克萨斯 A&M 大学的 Aggie 篝火倒塌，造成 12 名学生死亡、27 人受伤。
+- - 1996 年：一列从法国开往英国的英吉利海峡隧道列车发生火灾，造成多人受伤，并损坏了约 500 米（1,600 英尺）长的隧道。
+- - 1993年：在南非，21个政党批准了新宪法，扩大了投票权并结束了白人少数统治。
+- - 1993年：在美国，北美自由贸易协定（NAFTA）获得众议院批准。
+- - 1991年：赫塞格-波斯尼亚克罗地亚自治共同体在波斯尼亚和黑塞哥维那成立，并于1993年成为共和国。
+- - 1991年：经过87天的围困，克罗地亚城市武科瓦尔向围困的南斯拉夫人民军和盟军塞族准军事部队投降。
+- - 1991 年：黎巴嫩什叶派穆斯林绑架者释放了英国圣公会特使特里·韦特和托马斯·萨瑟兰。
+- - 1987 年：国王十字车站火灾：在伦敦，31 人在该市最繁忙的地铁站国王十字圣潘克拉斯发生的火灾中丧生。
+- - 1985年：卡尔文和霍布斯的第一部漫画在十家报纸上出版。
+- - 1983 年：俄罗斯航空公司 6833 号航班在从第比利斯飞往列宁格勒的途中被劫持。返回第比利斯后，飞机随后在地面遭到袭击，造成七人死亡。
+- - 1978 年：在圭亚那琼斯敦，吉姆·琼斯领导他的人民圣殿教组织发动了一场大规模谋杀-自杀事件，共有 918 人丧生，其中 909 人在琼斯敦，其中包括 270 多名儿童。
+- - 1978 年：麦道 F/A-18 大黄蜂飞机在美国马里兰州海军航空测试中心进行首飞。
+- - 1971 年：阿曼宣布脱离英国独立。
+- - 1970 年：美国总统理查德·尼克松请求美国国会为柬埔寨政府提供 1.55 亿美元的补充援助。
+- - 1963 年：第一部按钮式电话投入使用。
+- - 1961 年：美国总统约翰·F·肯尼迪向南越派遣 18,000 名军事顾问。
+- - 1949 年：尼日利亚埃努古煤矿工人因克扣工资而举行罢工，随后发生伊瓦谷枪击事件；尼日利亚英国殖民当局监管下的警察开枪打死 21 名矿工，打伤 51 人。
+- - 1947 年：新西兰基督城巴兰坦百货商店火灾，造成 41 人死亡；这是新西兰历史上最严重的火灾。
+- - 1944 年：古巴人民社会主义青年组织成立。
+- - 1943 年：第二次世界大战：柏林之战：四百四十架皇家空军飞机轰炸柏林，仅造成轻微损坏，并造成 131 人死亡。英国皇家空军损失了 9 架飞机和 53 名机组人员。
+- - 1940 年：第二次世界大战：德国领导人阿道夫·希特勒和意大利外交部长加莱亚佐·齐亚诺会面，讨论贝尼托·墨索里尼灾难性的意大利入侵希腊。
+- - 1929 年：大浅滩地震：在大西洋纽芬兰南海岸附近，发生了以大浅滩为中心的里氏 7.2 级海底地震，破坏了 12 条跨大西洋海底电报电缆，并引发海啸，摧毁了布林半岛南海岸的许多社区。
+- - 1928 年：推出动画短片《威利汽船》，这是第一部完全同步的有声动画片。
+- - 1918 年：拉脱维亚宣布脱离俄罗斯独立。
+- - 1916 年：第一次世界大战：第一次索姆河战役：在法国，英国远征军指挥官道格拉斯·黑格取消了 1916 年 7 月 1 日开始的战斗。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-17 01:51:16 UTC）*
+*（更新于: 2025-11-18 01:49:19 UTC）*
