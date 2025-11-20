@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: The 2023 Cricket World Cup final takes place at the Narendra Modi Stadium in Ahmedabad, India, played between host nation India and Australia.
-- 2022: A gunman kills five and injures 17 at Club Q, a gay nightclub in Colorado Springs, Colorado.
-- 2013: A double suicide bombing at the Iranian embassy in Beirut kills 23 people and injures 160 others.
-- 2010: The first of four explosions takes place at the Pike River Mine in New Zealand. Twenty-nine people are killed in the nation's worst mining disaster since 1914.
-- 2004: The worst brawl in NBA history results in several players being suspended. Several players and fans are charged with assault and battery.
-- 2002: The Greek oil tanker Prestige splits in half and sinks off the coast of Galicia, releasing over 76,000 m3 (20 million US gal) of oil in the largest environmental disaster in Spanish and Portuguese history.
-- 2001: The Aviation and Transportation Security Act is enacted by the 107th United States Congress in the immediate aftermath of the September 11, 2001 attacks. The Act created the Transportation Security Administration (TSA).
-- 1999: John Carpenter becomes the first person to win the top prize in the TV game show Who Wants to Be a Millionaire?
-- 1999: Shenzhou 1: The People's Republic of China launches its first Shenzhou spacecraft.
-- 1998: Clinton-Lewinsky scandal: The United States House of Representatives Judiciary Committee begins impeachment hearings into U.S. President Bill Clinton.
-- 1997: Space Shuttle Columbia is launched on STS-87.
-- 1996: A Beechcraft 1900 and a Beechcraft King Air collide at Quincy Regional Airport in Quincy, Illinois, killing 14.
-- 1996: Space Shuttle program: Columbia is launched on STS-80, which would become the longest mission in the program at 17 days. On this mission, astronaut Story Musgrave becomes the only astronaut to fly on all five space shuttles.
-- 1994: In the United Kingdom, the first National Lottery draw is held. A £1 ticket gave a one-in-14-million chance of correctly guessing the winning six out of 49 numbers.
-- 1993: a factory fire killed 87 and injured 51 in Shenzhen, China.
-- 1988: Serbian communist representative and future Serbian and Yugoslav president Slobodan Milošević publicly declares that Serbia is under attack from Albanian separatists in Kosovo as well as internal treachery within Yugoslavia and a foreign conspiracy to destroy Serbia and Yugoslavia.
-- 1985: Police in Baling, Malaysia, lay siege to houses occupied by an Islamic sect of about 400 people led by Ibrahim Mahmud.
-- 1985: Pennzoil wins a US$10.53 billion judgment against Texaco, in the largest civil verdict in the history of the United States, stemming from Texaco executing a contract to buy Getty Oil after Pennzoil had entered into an unsigned, yet still binding, buyout contract with Getty.
-- 1985: Cold War: In Geneva, U.S. President Ronald Reagan and Soviet Union General Secretary Mikhail Gorbachev meet for the first time.
-- 1984: San Juanico disaster: A series of explosions at the Pemex petroleum storage facility at San Juan Ixhuatepec in Mexico City starts a major fire and kills about 500 people.
-- 1979: Iran hostage crisis: Iranian leader Ayatollah Ruhollah Khomeini orders the release of 13 female and black American hostages being held at the US Embassy in Tehran.
-- 1977: TAP Air Portugal Flight 425 crashes in the Madeira Islands, killing 131.
-- 1969: Association football player Pelé scores his 1,000th goal.
-- 1969: Apollo program: Apollo 12 astronauts Pete Conrad and Alan Bean land at Oceanus Procellarum (the "Ocean of Storms") and become the third and fourth humans to walk on the Moon.
-- 1967: The establishment of TVB, the first wireless commercial television station in Hong Kong.
-- 1955: National Review publishes its first issue.
-- 1954: Télé Monte Carlo, Europe's oldest private television channel, is launched by Prince Rainier III.
-- 1952: Greek Field Marshal Alexander Papagos becomes the 152nd Prime Minister of Greece.
-- 1950: US General Dwight D. Eisenhower becomes Supreme Commander of NATO-Europe.
-- 1946: Afghanistan, Iceland and Sweden join the United Nations.
+- 2022: The 2022 FIFA World Cup begins in Qatar. This is the first time the tournament was held in the Middle East.
+- 2016: Jimmie Johnson wins his seventh NASCAR Cup Series championship to tie Richard Petty and Dale Earnhardt for the most all-time.
+- 2015: Following a hostage siege, at least 19 people are killed in Bamako, Mali.
+- 2003: After the November 15 bombings, a second day of the 2003 Istanbul bombings occurs in Istanbul, Turkey, destroying the Turkish head office of HSBC Bank AS and the British consulate.
+- 1998: The first space station module component, Zarya, for the International Space Station is launched from the Baikonur Cosmodrome in Kazakhstan.
+- 1998: A court in Taliban-controlled Afghanistan declares accused terrorist Osama bin Laden "a man without a sin" in regard to the 1998 U.S. embassy bombings in Kenya and Tanzania.
+- 1996: A fire breaks out in an office building in Hong Kong, killing 41 people and injuring 81.
+- 1994: The Angolan government and UNITA rebels sign the Lusaka Protocol in Zambia, ending 19 years of civil war. (Localized fighting resumes the next year.)
+- 1993: North Macedonia's deadliest aviation disaster occurs when Avioimpex Flight 110, a Yakovlev Yak-42, crashes near Ohrid Airport, killing all 116 people on board.
+- 1993: Savings and loan crisis: The United States Senate Ethics Committee issues a stern censure of California senator Alan Cranston for his "dealings" with savings-and-loan executive Charles Keating.
+- 1992: In England, a fire breaks out in Windsor Castle, badly damaging the castle and causing over £50 million worth of damage.
+- 1991: An Azerbaijani MI-8 helicopter carrying 19 peacekeeping mission team with officials and journalists from Russia, Kazakhstan and Azerbaijan is shot down by Armenian military forces in Khojavend District of Azerbaijan.
+- 1990: Andrei Chikatilo, one of the Soviet Union's most prolific serial killers, is arrested; he eventually confesses to 56 killings.
+- 1989: Velvet Revolution: The number of protesters assembled in Prague, Czechoslovakia, swells from 200,000 the day before to an estimated half-million.
+- 1985: Microsoft Windows 1.0, the first graphical personal computer operating environment developed by Microsoft, is released.
+- 1980: Lake Peigneur in Louisiana drains into an underlying salt deposit. A misplaced Texaco oil probe had been drilled into the Diamond Crystal Salt Mine, causing water to flow down into the mine, eroding the edges of the hole.
+- 1979: Grand Mosque seizure: About 200 Sunni Muslims revolt in Saudi Arabia at the site of the Kaaba in Mecca during the pilgrimage and take about 6,000 hostages. The Saudi government receives help from French special forces to put down the uprising.
+- 1977: Egyptian President Anwar Sadat becomes the first Arab leader to officially visit Israel, when he meets Israeli prime minister Menachem Begin and speaks before the Knesset in Jerusalem, seeking a permanent peace settlement.
+- 1974: The first fatal crash of a Boeing 747 occurs when Lufthansa Flight 540 crashes while attempting to takeoff from Jomo Kenyatta International Airport in Nairobi, Kenya, killing 59 out of the 157 people on board.
+- 1974: The United States Department of Justice files its final anti-trust suit against AT&T Corporation. This suit later leads to the breakup of AT&T and its Bell System.
+- 1969: Occupation of Alcatraz: Native American activists seize control of Alcatraz Island until being ousted by the U.S. Government on June 11, 1971.
+- 1969: Vietnam War: The Plain Dealer (Cleveland, Ohio) publishes explicit photographs of dead villagers from the My Lai Massacre in Vietnam.
+- 1968: A total of 78 miners are killed in an explosion at the Consolidated Coal Company's No. 9 mine in Farmington, West Virginia in the Farmington Mine disaster.
+- 1962: Cuban Missile Crisis ends: In response to the Soviet Union agreeing to remove its missiles from Cuba, U.S. President John F. Kennedy ends the quarantine of the Caribbean nation.
+- 1959: The Declaration of the Rights of the Child is adopted by the United Nations.
+- 1947: The Princess Elizabeth marries Lieutenant Philip Mountbatten, who becomes the Duke of Edinburgh, at Westminster Abbey in London.
+- 1946: Indonesian National Revolution: 96 Indonesian including I Gusti Ngurah Rai were killed during the Battle of Margarana with Dutch forces.
+- 1945: Nuremberg trials: Trials against 24 Nazi war criminals start at the Palace of Justice at Nuremberg.
+- 1943: World War II: Battle of Tarawa (Operation Galvanic) begins: United States Marines land on Tarawa Atoll in the Gilbert Islands and suffer heavy fire from Japanese shore guns and machine guns.
+- 1940: World War II: Hungary becomes a signatory of the Tripartite Pact, officially joining the Axis powers.
 
 Data from muffinlabs
-*(Updated at: 2025-11-19 01:49:11 UTC)*
+*(Updated at: 2025-11-20 01:47:46 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：2023 年板球世界杯决赛在印度艾哈迈达巴德的纳伦德拉·莫迪体育场举行，东道主印度和澳大利亚之间进行比赛。
-- - 2022 年：一名枪手在科罗拉多州科罗拉多斯普林斯的一家同性恋夜总会 Club Q 打死 5 人，打伤 17 人。
-- - 2013年：伊朗驻贝鲁特大使馆发生双重自杀式爆炸事件，造成23人死亡、160人受伤。
-- - 2010 年：新西兰派克河矿发生四起爆炸中的第一起。29 人在该国 1914 年以来最严重的矿难中丧生。
-- - 2004 年：NBA 历史上最严重的斗殴事件导致多名球员被停赛。一些球员和球迷被指控袭击和殴打。
-- - 2002 年：希腊油轮 Prestige 裂成两半并在加利西亚海岸沉没，泄漏了超过 76,000 立方米（2000 万美加仑）的石油，造成了西班牙和葡萄牙历史上最大的环境灾难。
-- - 2001 年：2001 年 9 月 11 日袭击事件发生后，第 107 届美国国会立即颁布了《航空和运输安全法》。该法案创建了运输安全管理局（TSA）。
-- - 1999 年：约翰·卡彭特 (John Carpenter) 成为电视游戏节目《谁想成为百万富翁？》中第一个获得最高奖项的人。
-- - 1999年：神舟一号：中华人民共和国发射第一艘神舟飞船。
-- - 1998 年：克林顿-莱温斯基丑闻：美国众议院司法委员会开始针对美国总统比尔·克林顿的弹劾听证会。
-- - 1997 年：哥伦比亚号航天飞机在 STS-87 上发射升空。
-- - 1996 年：一架 Beechcraft 1900 和一架 Beechcraft King Air 在伊利诺伊州昆西地区机场相撞，造成 14 人死亡。
-- - 1996 年：航天飞机计划：哥伦比亚号在 STS-80 上发射，这将成为该计划中最长的任务，长达 17 天。在这次任务中，宇航员斯托里·马斯格雷夫成为唯一乘坐全部五架航天飞机的宇航员。
-- - 1994 年：在英国，举行了第一次国家彩票抽奖。一张 1 英镑的彩票，正确猜出 49 个号码中的 6 个中奖号码的几率为 1400 万分之一。
-- - 1993年：中国深圳工厂火灾造成87人死亡、51人受伤。
-- - 1988年：塞尔维亚共产党代表、未来的塞尔维亚和南斯拉夫总统斯洛博丹·米洛舍维奇公开宣称，塞尔维亚受到科索沃阿尔巴尼亚分离主义分子、南斯拉夫内部背叛以及摧毁塞尔维亚和南斯拉夫的外国阴谋的攻击。
-- - 1985 年：马来西亚华陵的警察包围了由易卜拉欣·马哈茂德 (Ibrahim Mahmud) 领导的约 400 人的伊斯兰教派占据的房屋。
-- - 1985 年：Pennzoil 赢得了针对 Texaco 的 105.3 亿美元赔偿，这是美国历史上最大的民事判决，原因是在 Pennzoil 与 Getty 签订了一份未签署但仍具有约束力的买断合同后，Texaco 执行了一份购买 Getty Oil 的合同。
-- - 1985 年：冷战：在日内瓦，美国总统罗纳德·里根和苏联总书记米哈伊尔·戈尔巴乔夫首次会面。
-- - 1984 年：圣胡安尼科灾难：墨西哥城圣胡安伊克斯瓦特佩克的 Pemex 石油储存设施发生一系列爆炸，引发大火，造成约 500 人死亡。
-- - 1979 年：伊朗人质危机：伊朗领导人阿亚图拉鲁霍拉·霍梅尼下令释放被扣押在美国驻德黑兰大使馆的 13 名女性和黑人美国人质。
-- - 1977 年：TAP 葡萄牙航空 425 号航班在马德拉群岛坠毁，造成 131 人死亡。
-- - 1969 年：足球运动员贝利打进他的第 1000 个进球。
-- - 1969 年：阿波罗计划：阿波罗 12 号宇航员皮特·康拉德 (Pete Conrad) 和艾伦·比恩 (Alan Bean) 登陆 Oceanus Procellarum（“风暴之海”），成为第三和第四位登上月球的人类。
-- - 1967年：香港第一家无线商业电视台TVB成立。
-- - 1955 年：《国家评论》出版第一期。
-- - 1954 年：欧洲最古老的私人电视频道蒙特卡罗电视台由雷尼尔三世亲王创办。
-- - 1952 年：希腊陆军元帅亚历山大·帕帕戈斯 (Alexander Papagos) 成为希腊第 152 任总理。
-- - 1950 年：美国将军德怀特·D·艾森豪威尔 (Dwight D. Eisenhower) 成为北约欧洲最高指挥官。
-- - 1946 年：阿富汗、冰岛和瑞典加入联合国。
+- - 2022 年：2022 年 FIFA 世界杯在卡塔尔开幕。这是该赛事首次在中东举办。
+- - 2016 年：吉米·约翰逊 (Jimmie Johnson) 第七次赢得 NASCAR 杯系列赛冠军，追平理查德·佩蒂 (Richard Petty) 和戴尔·恩哈特 (Dale Earnhardt) 的历史冠军纪录。
+- - 2015 年：马里巴马科发生人质围困事件，造成至少 19 人死亡。
+- - 2003年：继11月15日爆炸事件之后，2003年伊斯坦布尔爆炸事件的第二天在土耳其伊斯坦布尔发生，摧毁了汇丰银行AS的土耳其总部和英国领事馆。
+- - 1998 年：国际空间站的第一个空间站模块组件 Zarya 从哈萨克斯坦的拜科努尔航天发射场发射升空。
+- - 1998年：塔利班控制的阿富汗一家法院宣布，1998年美国驻肯尼亚和坦桑尼亚大使馆爆炸事件中被指控的恐怖分子奥萨马·本·拉登是“一个没有罪过的人”。
+- - 1996年：香港一座办公楼发生火灾，造成41人死亡、81人受伤。
+- - 1994年：安哥拉政府和安盟叛军在赞比亚签署《卢萨卡议定书》，结束了19年的内战。（局部战斗将于明年恢复。）
+- - 1993 年：北马其顿发生了最严重的航空灾难，Avioimpex 110 号航班（一架 Yakovlev Yak-42）在奥赫里德机场附近坠毁，机上 116 人全部遇难。
+- - 1993 年：储蓄和贷款危机：美国参议院道德委员会严厉谴责加州参议员艾伦·克兰斯顿 (Alan Cranston) 与储蓄贷款主管查尔斯·基廷 (Charles Keating) 的“交易”。
+- - 1992 年：英国温莎城堡发生火灾，城堡严重受损，造成价值超过 5000 万英镑的损失。
+- - 1991年：一架载有来自俄罗斯、哈萨克斯坦和阿塞拜疆的19名维和任务小组成员以及官员和记者的阿塞拜疆MI-8直升机在阿塞拜疆霍贾文德区被亚美尼亚军队击落。
+- - 1990 年：苏联最多产的连环杀手之一安德烈·奇卡提洛 (Andrei Chikatilo) 被捕；他最终承认了 56 起杀人事件。
+- - 1989 年：天鹅绒革命：聚集在捷克斯洛伐克布拉格的抗议者人数从前一天的 20 万人增加到估计的 50 万人。
+- - 1985年：微软开发的第一个图形个人计算机操作环境Microsoft Windows 1.0发布。
+- - 1980 年：路易斯安那州的佩格尼尔湖流入地下盐矿床。一个放错位置的德士古石油探针被钻入钻石水晶盐矿，导致水流进矿井，侵蚀孔的边缘。
+- - 1979 年：大清真寺被劫持：沙特阿拉伯约 200 名逊尼派穆斯林在朝圣期间在麦加天房发动叛乱，并劫持了约 6,000 名人质。沙特政府得到法国特种部队的帮助来镇压起义。
+- - 1977 年：埃及总统安瓦尔·萨达特成为第一位正式访问以色列的阿拉伯领导人，他会见了以色列总理梅纳赫姆·贝京，并在耶路撒冷议会发表讲话，寻求永久和平解决方案。
+- - 1974 年：汉莎航空 540 号航班在试图从肯尼亚内罗毕乔莫·肯雅塔国际机场起飞时坠毁，造成首起波音 747 致命事故，机上 157 人中有 59 人死亡。
+- - 1974 年：美国司法部对 AT&T 公司提起最终反垄断诉讼。该诉讼后来导致 AT&T 及其贝尔系统解体。
+- - 1969 年：占领恶魔岛：美国原住民活动人士控制了恶魔岛，直至 1971 年 6 月 11 日被美国政府驱逐。
+- - 1969 年：越南战争：《平原商人》（俄亥俄州克利夫兰）出版了越南美莱村大屠杀中死去的村民的露骨照片。
+- - 1968年：联合煤炭公司位于西弗吉尼亚州法明顿的9号矿井发生法明顿矿难，共有78名矿工丧生。
+- - 1962 年：古巴导弹危机结束：作为对苏联同意从古巴撤走导弹的回应，美国总统约翰·F·肯尼迪结束了对这个加勒比国家的隔离。
+- - 1959年：联合国通过《儿童权利宣言》。
+- - 1947 年：伊丽莎白公主在伦敦威斯敏斯特教堂与成为爱丁堡公爵的菲利普·蒙巴顿中尉结婚。
+- - 1946 年：印度尼西亚民族革命：包括 I Gusti Ngurah Rai 在内的 96 名印度尼西亚人在与荷兰军队的马尔加拉纳战役中阵亡。
+- - 1945 年：纽伦堡审判：对 24 名纳粹战犯的审判在纽伦堡司法宫开始。
+- - 1943 年：第二次世界大战：塔拉瓦战役（伽伐尼行动）开始：美国海军陆战队登陆吉尔伯特群岛的塔拉瓦环礁，遭到日军岸炮和机关枪的猛烈射击。
+- - 1940 年：第二次世界大战：匈牙利成为三方条约签署国，正式加入轴心国。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-19 01:49:11 UTC）*
+*（更新于: 2025-11-20 01:47:46 UTC）*
