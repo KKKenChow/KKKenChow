@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: The 2022 FIFA World Cup begins in Qatar. This is the first time the tournament was held in the Middle East.
-- 2016: Jimmie Johnson wins his seventh NASCAR Cup Series championship to tie Richard Petty and Dale Earnhardt for the most all-time.
-- 2015: Following a hostage siege, at least 19 people are killed in Bamako, Mali.
-- 2003: After the November 15 bombings, a second day of the 2003 Istanbul bombings occurs in Istanbul, Turkey, destroying the Turkish head office of HSBC Bank AS and the British consulate.
-- 1998: The first space station module component, Zarya, for the International Space Station is launched from the Baikonur Cosmodrome in Kazakhstan.
-- 1998: A court in Taliban-controlled Afghanistan declares accused terrorist Osama bin Laden "a man without a sin" in regard to the 1998 U.S. embassy bombings in Kenya and Tanzania.
-- 1996: A fire breaks out in an office building in Hong Kong, killing 41 people and injuring 81.
-- 1994: The Angolan government and UNITA rebels sign the Lusaka Protocol in Zambia, ending 19 years of civil war. (Localized fighting resumes the next year.)
-- 1993: North Macedonia's deadliest aviation disaster occurs when Avioimpex Flight 110, a Yakovlev Yak-42, crashes near Ohrid Airport, killing all 116 people on board.
-- 1993: Savings and loan crisis: The United States Senate Ethics Committee issues a stern censure of California senator Alan Cranston for his "dealings" with savings-and-loan executive Charles Keating.
-- 1992: In England, a fire breaks out in Windsor Castle, badly damaging the castle and causing over £50 million worth of damage.
-- 1991: An Azerbaijani MI-8 helicopter carrying 19 peacekeeping mission team with officials and journalists from Russia, Kazakhstan and Azerbaijan is shot down by Armenian military forces in Khojavend District of Azerbaijan.
-- 1990: Andrei Chikatilo, one of the Soviet Union's most prolific serial killers, is arrested; he eventually confesses to 56 killings.
-- 1989: Velvet Revolution: The number of protesters assembled in Prague, Czechoslovakia, swells from 200,000 the day before to an estimated half-million.
-- 1985: Microsoft Windows 1.0, the first graphical personal computer operating environment developed by Microsoft, is released.
-- 1980: Lake Peigneur in Louisiana drains into an underlying salt deposit. A misplaced Texaco oil probe had been drilled into the Diamond Crystal Salt Mine, causing water to flow down into the mine, eroding the edges of the hole.
-- 1979: Grand Mosque seizure: About 200 Sunni Muslims revolt in Saudi Arabia at the site of the Kaaba in Mecca during the pilgrimage and take about 6,000 hostages. The Saudi government receives help from French special forces to put down the uprising.
-- 1977: Egyptian President Anwar Sadat becomes the first Arab leader to officially visit Israel, when he meets Israeli prime minister Menachem Begin and speaks before the Knesset in Jerusalem, seeking a permanent peace settlement.
-- 1974: The first fatal crash of a Boeing 747 occurs when Lufthansa Flight 540 crashes while attempting to takeoff from Jomo Kenyatta International Airport in Nairobi, Kenya, killing 59 out of the 157 people on board.
-- 1974: The United States Department of Justice files its final anti-trust suit against AT&T Corporation. This suit later leads to the breakup of AT&T and its Bell System.
-- 1969: Occupation of Alcatraz: Native American activists seize control of Alcatraz Island until being ousted by the U.S. Government on June 11, 1971.
-- 1969: Vietnam War: The Plain Dealer (Cleveland, Ohio) publishes explicit photographs of dead villagers from the My Lai Massacre in Vietnam.
-- 1968: A total of 78 miners are killed in an explosion at the Consolidated Coal Company's No. 9 mine in Farmington, West Virginia in the Farmington Mine disaster.
-- 1962: Cuban Missile Crisis ends: In response to the Soviet Union agreeing to remove its missiles from Cuba, U.S. President John F. Kennedy ends the quarantine of the Caribbean nation.
-- 1959: The Declaration of the Rights of the Child is adopted by the United Nations.
-- 1947: The Princess Elizabeth marries Lieutenant Philip Mountbatten, who becomes the Duke of Edinburgh, at Westminster Abbey in London.
-- 1946: Indonesian National Revolution: 96 Indonesian including I Gusti Ngurah Rai were killed during the Battle of Margarana with Dutch forces.
-- 1945: Nuremberg trials: Trials against 24 Nazi war criminals start at the Palace of Justice at Nuremberg.
-- 1943: World War II: Battle of Tarawa (Operation Galvanic) begins: United States Marines land on Tarawa Atoll in the Gilbert Islands and suffer heavy fire from Japanese shore guns and machine guns.
-- 1940: World War II: Hungary becomes a signatory of the Tripartite Pact, officially joining the Axis powers.
+- 2022: A magnitude 5.6 earthquake on the Indonesian island of Java kills between 335 and 602 people.
+- 2021: An SUV plows through a Christmas parade in Waukesha, Wisconsin, killing six and injuring 62.
+- 2019: Tesla launches the SUV Cybertruck. A gaffe occurs during the launch event when its "unbreakable" windows shatter during demonstration.
+- 2019: Israeli Prime Minister Benjamin Netanyahu is indicted on charges of bribery, fraud, and breach of trust.
+- 2017: Robert Mugabe formally resigns as President of Zimbabwe, after thirty-seven years in office.
+- 2015: The government of Belgium imposes a security lockdown on Brussels, including the closure of shops, schools, and public transportation, due to potential terrorist attacks.
+- 2014: A stampede in Kwekwe, Zimbabwe caused by the police firing tear gas kills at least eleven people and injures 40 others.
+- 2013: Massive protests start in Ukraine after President Viktor Yanukovych suspended signing the Ukraine-European Union Association Agreement.
+- 2013: Fifty-four people are killed when the roof of a shopping center collapses in Riga, Latvia.
+- 2012: At least 28 are wounded after a bomb is thrown onto a bus in Tel Aviv.
+- 2009: A mine explosion in Heilongjiang, China kills 108.
+- 2006: Anti-Syrian Lebanese politician and government minister Pierre Gemayel is assassinated in suburban Beirut.
+- 2004: China Eastern Airlines Flight 5210 crashes after takeoff from Baotou Donghe Airport, killing 55.
+- 2004: The Paris Club agrees to write off 80% (up to $100 billion) of Iraq's external debt.
+- 2004: Dominica is hit by the most destructive earthquake in its history. The northern half of the island sustains the most damage, especially the town of Portsmouth. In neighboring Guadeloupe, one person is killed.
+- 2004: The second round of the Ukrainian presidential election is held, giving rise to massive protests and controversy over the election's integrity.
+- 2002: Arturo Guzmán Decena, founder of Los Zetas and high-member of the Gulf Cartel, is killed in a shoot-out with the Mexican Army and the police.
+- 2002: NATO invites Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia and Slovenia to become members.
+- 1998: Finnish satanist Jarno Elg kills a 23-year-old man and performs a ritual-like cutting and eating of body parts in Hyvinkää, Finland.
+- 1996: Humberto Vidal explosion: Thirty-three people die when a Humberto Vidal shoe shop in Río Piedras, Puerto Rico explodes.
+- 1995: The Dayton Agreement is initialed at the Wright-Patterson Air Force Base, near Dayton, Ohio, ending three and a half years of war in Bosnia and Herzegovina.
+- 1992: A major tornado strikes the Houston, Texas area during the afternoon. Over the next two days the largest tornado outbreak ever to occur in the US during November spawns over 100 tornadoes.
+- 1990: Bangkok Airways Flight 125 crashes on approach to Samui Airport, killing 38.
+- 1986: National Security Council member Oliver North and his secretary start to shred documents allegedly implicating them in the Iran-Contra affair.
+- 1985: United States Navy intelligence analyst Jonathan Pollard is arrested for spying after being caught giving Israel classified information on Arab nations. He is subsequently sentenced to life in prison.
+- 1980: A deadly fire breaks out at the MGM Grand Hotel in Paradise, Nevada (now Bally's Las Vegas). Eighty-five people are killed and more than 650 are injured in the worst disaster in Nevada history.
+- 1979: The United States Embassy in Islamabad, Pakistan, is attacked by a mob and set on fire, killing four.
+- 1977: Minister of Internal Affairs Allan Highet announces that the national anthems of New Zealand shall be the traditional anthem "God Save the Queen" and "God Defend New Zealand".
+- 1974: The Birmingham pub bombings kill 21 people. The Birmingham Six are sentenced to life in prison for the crime but subsequently acquitted.
+- 1972: Voters in South Korea overwhelmingly approve a new constitution, giving legitimacy to Park Chung Hee and the Fourth Republic.
 
 Data from muffinlabs
-*(Updated at: 2025-11-20 01:47:46 UTC)*
+*(Updated at: 2025-11-21 01:48:47 UTC)*
 
 # 历史上的今天 
 
-- - 2022 年：2022 年 FIFA 世界杯在卡塔尔开幕。这是该赛事首次在中东举办。
-- - 2016 年：吉米·约翰逊 (Jimmie Johnson) 第七次赢得 NASCAR 杯系列赛冠军，追平理查德·佩蒂 (Richard Petty) 和戴尔·恩哈特 (Dale Earnhardt) 的历史冠军纪录。
-- - 2015 年：马里巴马科发生人质围困事件，造成至少 19 人死亡。
-- - 2003年：继11月15日爆炸事件之后，2003年伊斯坦布尔爆炸事件的第二天在土耳其伊斯坦布尔发生，摧毁了汇丰银行AS的土耳其总部和英国领事馆。
-- - 1998 年：国际空间站的第一个空间站模块组件 Zarya 从哈萨克斯坦的拜科努尔航天发射场发射升空。
-- - 1998年：塔利班控制的阿富汗一家法院宣布，1998年美国驻肯尼亚和坦桑尼亚大使馆爆炸事件中被指控的恐怖分子奥萨马·本·拉登是“一个没有罪过的人”。
-- - 1996年：香港一座办公楼发生火灾，造成41人死亡、81人受伤。
-- - 1994年：安哥拉政府和安盟叛军在赞比亚签署《卢萨卡议定书》，结束了19年的内战。（局部战斗将于明年恢复。）
-- - 1993 年：北马其顿发生了最严重的航空灾难，Avioimpex 110 号航班（一架 Yakovlev Yak-42）在奥赫里德机场附近坠毁，机上 116 人全部遇难。
-- - 1993 年：储蓄和贷款危机：美国参议院道德委员会严厉谴责加州参议员艾伦·克兰斯顿 (Alan Cranston) 与储蓄贷款主管查尔斯·基廷 (Charles Keating) 的“交易”。
-- - 1992 年：英国温莎城堡发生火灾，城堡严重受损，造成价值超过 5000 万英镑的损失。
-- - 1991年：一架载有来自俄罗斯、哈萨克斯坦和阿塞拜疆的19名维和任务小组成员以及官员和记者的阿塞拜疆MI-8直升机在阿塞拜疆霍贾文德区被亚美尼亚军队击落。
-- - 1990 年：苏联最多产的连环杀手之一安德烈·奇卡提洛 (Andrei Chikatilo) 被捕；他最终承认了 56 起杀人事件。
-- - 1989 年：天鹅绒革命：聚集在捷克斯洛伐克布拉格的抗议者人数从前一天的 20 万人增加到估计的 50 万人。
-- - 1985年：微软开发的第一个图形个人计算机操作环境Microsoft Windows 1.0发布。
-- - 1980 年：路易斯安那州的佩格尼尔湖流入地下盐矿床。一个放错位置的德士古石油探针被钻入钻石水晶盐矿，导致水流进矿井，侵蚀孔的边缘。
-- - 1979 年：大清真寺被劫持：沙特阿拉伯约 200 名逊尼派穆斯林在朝圣期间在麦加天房发动叛乱，并劫持了约 6,000 名人质。沙特政府得到法国特种部队的帮助来镇压起义。
-- - 1977 年：埃及总统安瓦尔·萨达特成为第一位正式访问以色列的阿拉伯领导人，他会见了以色列总理梅纳赫姆·贝京，并在耶路撒冷议会发表讲话，寻求永久和平解决方案。
-- - 1974 年：汉莎航空 540 号航班在试图从肯尼亚内罗毕乔莫·肯雅塔国际机场起飞时坠毁，造成首起波音 747 致命事故，机上 157 人中有 59 人死亡。
-- - 1974 年：美国司法部对 AT&T 公司提起最终反垄断诉讼。该诉讼后来导致 AT&T 及其贝尔系统解体。
-- - 1969 年：占领恶魔岛：美国原住民活动人士控制了恶魔岛，直至 1971 年 6 月 11 日被美国政府驱逐。
-- - 1969 年：越南战争：《平原商人》（俄亥俄州克利夫兰）出版了越南美莱村大屠杀中死去的村民的露骨照片。
-- - 1968年：联合煤炭公司位于西弗吉尼亚州法明顿的9号矿井发生法明顿矿难，共有78名矿工丧生。
-- - 1962 年：古巴导弹危机结束：作为对苏联同意从古巴撤走导弹的回应，美国总统约翰·F·肯尼迪结束了对这个加勒比国家的隔离。
-- - 1959年：联合国通过《儿童权利宣言》。
-- - 1947 年：伊丽莎白公主在伦敦威斯敏斯特教堂与成为爱丁堡公爵的菲利普·蒙巴顿中尉结婚。
-- - 1946 年：印度尼西亚民族革命：包括 I Gusti Ngurah Rai 在内的 96 名印度尼西亚人在与荷兰军队的马尔加拉纳战役中阵亡。
-- - 1945 年：纽伦堡审判：对 24 名纳粹战犯的审判在纽伦堡司法宫开始。
-- - 1943 年：第二次世界大战：塔拉瓦战役（伽伐尼行动）开始：美国海军陆战队登陆吉尔伯特群岛的塔拉瓦环礁，遭到日军岸炮和机关枪的猛烈射击。
-- - 1940 年：第二次世界大战：匈牙利成为三方条约签署国，正式加入轴心国。
+- - 2022 年：印度尼西亚爪哇岛发生 5.6 级地震，造成 335 至 602 人死亡。
+- - 2021 年：一辆 SUV 冲进威斯康星州沃克夏的圣诞游行，造成 6 人死亡、62 人受伤。
+- - 2019 年：特斯拉推出 SUV Cybertruck。在发布会期间，“牢不可破”的窗户在演示过程中破碎，出现了失态。
+- - 2019 年：以色列总理本杰明·内塔尼亚胡因贿赂、欺诈和失信罪被起诉。
+- - 2017 年：罗伯特·穆加贝在任职三十七年后正式辞去津巴布韦总统职务。
+- - 2015 年：由于潜在的恐怖袭击，比利时政府对布鲁塞尔实施安全封锁，包括关闭商店、学校和公共交通。
+- - 2014年：津巴布韦奎奎市因警察发射催泪瓦斯引发踩踏事件，造成至少11人死亡、40人受伤。
+- - 2013年：乌克兰总统亚努科维奇暂停签署乌克兰-欧盟联合协定后，乌克兰爆发大规模抗议活动。
+- - 2013 年：拉脱维亚里加一家购物中心的屋顶倒塌，造成 54 人死亡。
+- - 2012 年：特拉维夫一辆公交车上被投掷炸弹，造成至少 28 人受伤。
+- - 2009 年：中国黑龙江省发生地雷爆炸，造成 108 人死亡。
+- - 2006年：反叙利亚的黎巴嫩政治家兼政府部长皮埃尔·杰马耶勒在贝鲁特郊区被暗杀。
+- - 2004年：东航5210航班从包头东河机场起飞后坠毁，造成55人死亡。
+- - 2004 年：巴黎俱乐部同意注销伊拉克 80%（最高 1000 亿美元）的外债。
+- - 2004 年：多米尼克遭受历史上最具破坏性的地震。该岛的北半部遭受的破坏最为严重，尤其是朴茨茅斯镇。在邻国瓜德罗普岛，一人被杀。
+- - 2004年：乌克兰举行第二轮总统选举，引发大规模抗议和选举公正性争议。
+- - 2002 年：洛斯泽塔斯创始人、海湾卡特尔高级成员阿图罗·古兹曼·德塞纳 (Arturo Guzmán Decena) 在与墨西哥军队和警察的枪战中身亡。
+- - 2002年：北约邀请保加利亚、爱沙尼亚、拉脱维亚、立陶宛、罗马尼亚、斯洛伐克和斯洛文尼亚加入。
+- - 1998 年：芬兰撒旦教徒亚诺·埃尔格 (Jarno Elg) 在芬兰海温卡 (Hyvinkää) 杀死了一名 23 岁男子，并进行了类似仪式的切割和吃掉身体部位的仪式。
+- - 1996 年：温贝托·维达尔爆炸：波多黎各里奥彼德拉斯的温贝托·维达尔鞋店发生爆炸，造成 33 人死亡。
+- - 1995 年：《代顿协议》在俄亥俄州代顿附近的莱特-帕特森空军基地草签，结束了波斯尼亚和黑塞哥维那三年半的战争。
+- - 1992 年：一场大型龙卷风于下午袭击德克萨斯州休斯顿地区。在接下来的两天里，美国 11 月份爆发了有史以来最大规模的龙卷风，引发了 100 多场龙卷风。
+- - 1990 年：曼谷航空 125 号航班在飞往苏梅岛机场时坠毁，造成 38 人死亡。
+- - 1986 年：国家安全委员会成员奥利弗·诺斯和他的秘书开始销毁据称与伊朗门事件有关的文件。
+- - 1985 年：美国海军情报分析员乔纳森·波拉德因向以色列提供有关阿拉伯国家的机密信息而被捕。他随后被判处终身监禁。
+- - 1980 年：内华达州天堂市的米高梅大酒店（现为巴利拉斯维加斯）发生致命火灾。这是内华达州历史上最严重的灾难，造成 85 人死亡、650 多人受伤。
+- - 1979 年：美国驻巴基斯坦伊斯兰堡大使馆遭到暴徒袭击并纵火，造成四人死亡。
+- - 1977年：内政部长艾伦·海特宣布新西兰国歌为传统国歌“上帝保佑女王”和“上帝保卫新西兰”。
+- - 1974 年：伯明翰酒吧爆炸案造成 21 人死亡。伯明翰六人组因此罪被判处终身监禁，但随后被无罪释放。
+- - 1972 年：韩国选民以压倒性多数批准了新宪法，赋予朴正熙和第四共和国合法性。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-20 01:47:46 UTC）*
+*（更新于: 2025-11-21 01:48:47 UTC）*
