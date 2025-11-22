@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: A magnitude 5.6 earthquake on the Indonesian island of Java kills between 335 and 602 people.
-- 2021: An SUV plows through a Christmas parade in Waukesha, Wisconsin, killing six and injuring 62.
-- 2019: Tesla launches the SUV Cybertruck. A gaffe occurs during the launch event when its "unbreakable" windows shatter during demonstration.
-- 2019: Israeli Prime Minister Benjamin Netanyahu is indicted on charges of bribery, fraud, and breach of trust.
-- 2017: Robert Mugabe formally resigns as President of Zimbabwe, after thirty-seven years in office.
-- 2015: The government of Belgium imposes a security lockdown on Brussels, including the closure of shops, schools, and public transportation, due to potential terrorist attacks.
-- 2014: A stampede in Kwekwe, Zimbabwe caused by the police firing tear gas kills at least eleven people and injures 40 others.
-- 2013: Massive protests start in Ukraine after President Viktor Yanukovych suspended signing the Ukraine-European Union Association Agreement.
-- 2013: Fifty-four people are killed when the roof of a shopping center collapses in Riga, Latvia.
-- 2012: At least 28 are wounded after a bomb is thrown onto a bus in Tel Aviv.
-- 2009: A mine explosion in Heilongjiang, China kills 108.
-- 2006: Anti-Syrian Lebanese politician and government minister Pierre Gemayel is assassinated in suburban Beirut.
-- 2004: China Eastern Airlines Flight 5210 crashes after takeoff from Baotou Donghe Airport, killing 55.
-- 2004: The Paris Club agrees to write off 80% (up to $100 billion) of Iraq's external debt.
-- 2004: Dominica is hit by the most destructive earthquake in its history. The northern half of the island sustains the most damage, especially the town of Portsmouth. In neighboring Guadeloupe, one person is killed.
-- 2004: The second round of the Ukrainian presidential election is held, giving rise to massive protests and controversy over the election's integrity.
-- 2002: Arturo Guzmán Decena, founder of Los Zetas and high-member of the Gulf Cartel, is killed in a shoot-out with the Mexican Army and the police.
-- 2002: NATO invites Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia and Slovenia to become members.
-- 1998: Finnish satanist Jarno Elg kills a 23-year-old man and performs a ritual-like cutting and eating of body parts in Hyvinkää, Finland.
-- 1996: Humberto Vidal explosion: Thirty-three people die when a Humberto Vidal shoe shop in Río Piedras, Puerto Rico explodes.
-- 1995: The Dayton Agreement is initialed at the Wright-Patterson Air Force Base, near Dayton, Ohio, ending three and a half years of war in Bosnia and Herzegovina.
-- 1992: A major tornado strikes the Houston, Texas area during the afternoon. Over the next two days the largest tornado outbreak ever to occur in the US during November spawns over 100 tornadoes.
-- 1990: Bangkok Airways Flight 125 crashes on approach to Samui Airport, killing 38.
-- 1986: National Security Council member Oliver North and his secretary start to shred documents allegedly implicating them in the Iran-Contra affair.
-- 1985: United States Navy intelligence analyst Jonathan Pollard is arrested for spying after being caught giving Israel classified information on Arab nations. He is subsequently sentenced to life in prison.
-- 1980: A deadly fire breaks out at the MGM Grand Hotel in Paradise, Nevada (now Bally's Las Vegas). Eighty-five people are killed and more than 650 are injured in the worst disaster in Nevada history.
-- 1979: The United States Embassy in Islamabad, Pakistan, is attacked by a mob and set on fire, killing four.
-- 1977: Minister of Internal Affairs Allan Highet announces that the national anthems of New Zealand shall be the traditional anthem "God Save the Queen" and "God Defend New Zealand".
-- 1974: The Birmingham pub bombings kill 21 people. The Birmingham Six are sentenced to life in prison for the crime but subsequently acquitted.
-- 1972: Voters in South Korea overwhelmingly approve a new constitution, giving legitimacy to Park Chung Hee and the Fourth Republic.
+- 2022: A shooting at a Walmart in Chesapeake, Virginia leaves seven workers dead, including the shooter, and four others injured.
+- 2014: While playing with a toy gun in Cleveland, 12-year-old African American Tamir Rice is killed by a white police officer.
+- 2010: During the Cambodian water festival, a stampede in Koh Pich, Phnom Penh, kills 347 people.
+- 2004: The Orange Revolution begins in Ukraine, resulting from the presidential elections.
+- 2003: Baghdad DHL attempted shootdown incident: Shortly after takeoff, a DHL Express cargo plane is struck on the left wing by a surface-to-air missile and forced to land.
+- 1994: A Trans World Airlines McDonnell Douglas MD-80 and Cessna 441 Conquest II aircraft collide on the runway at St. Louis Lambert International Airport in Bridgeton, Missouri, killing two people and injuring eight.
+- 1990: British Prime Minister Margaret Thatcher withdraws from the Conservative Party leadership election, confirming the end of her Prime-Ministership.
+- 1989: NASA launches Space Shuttle Discovery on STS-33, a classified mission for the United States Department of Defense.
+- 1987: The Max Headroom signal hijacking incident takes place, in which a pirate broadcast interrupts television broadcasts in Chicago.
+- 1975: Juan Carlos is declared King of Spain following the death of Francisco Franco.
+- 1971: In Britain's worst mountaineering tragedy, the Cairngorm Plateau Disaster, five children and one of their leaders are found dead from exposure in the Scottish mountains.
+- 1968: Japan Air Lines Flight 2 accidentally ditches in San Francisco Bay while on approach to San Francisco International Airport. No one is injured.
+- 1967: UN Security Council Resolution 242 is adopted, establishing a set of the principles aimed at guiding negotiations for an Arab-Israeli peace settlement.
+- 1963: Five Indian generals are killed in a helicopter crash, due to collision with two parallel lines of telegraph cables.
+- 1963: U.S. President John F. Kennedy is assassinated and Texas Governor John Connally is seriously wounded by Lee Harvey Oswald, who also kills Dallas Police officer J. D. Tippit after fleeing the scene. Vice President Lyndon B. Johnson is sworn in as the 36th President of the United States afterwards.
+- 1955: The Soviet Union launches RDS-37, a 1.6 megaton two stage hydrogen bomb designed by Andrei Sakharov. The bomb was dropped over Semipalatinsk.
+- 1952: A Douglas C-124 Globemaster II crashes into Mount Gannet, Alaska, killing all 52 aboard.
+- 1943: Lebanon gains independence from France, nearly two years after it was first announced by the Free French government.
+- 1943: World War II: Cairo Conference: U.S. President Franklin D. Roosevelt, British Prime Minister Winston Churchill, and Chinese Premier Chiang Kai-shek meet in Cairo, Egypt, to discuss ways to defeat Japan.
+- 1942: World War II: Battle of Stalingrad: General Friedrich Paulus sends Adolf Hitler a telegram saying that the German 6th Army is surrounded.
+- 1940: World War II: Following the initial Italian invasion, Greek troops counterattack into Italian-occupied Albania and capture Korytsa.
+- 1935: The China Clipper inaugurates the first commercial transpacific air service, connecting Alameda, California with Manila.
+- 1921: During The Troubles in Northern Ireland (1920-1922), 22 Irish Nationalists are killed in Belfast in one day.
+- 1908: The Congress of Manastir establishes the Albanian alphabet.
+- 1873: The French steamer SS Ville du Havre sinks in 12 minutes after colliding with the Scottish iron clipper Loch Earn in the Atlantic, with a loss of 226 lives.
+- 1869: In Dumbarton, Scotland, the clipper Cutty Sark is launched.
+- 1855: In Birmingham, England, Albert, Prince Consort lays the foundation stone of the Birmingham and Midland Institute.
+- 1837: Canadian journalist and politician William Lyon Mackenzie calls for a rebellion against the United Kingdom in his essay "To the People of Upper Canada", published in his newspaper The Constitution.
+- 1718: Royal Navy Lieutenant Robert Maynard attacks and boards the vessels of the British pirate Edward Teach (best known as "Blackbeard") off the coast of North Carolina. The casualties on both sides include Maynard's first officer Mister Hyde and Teach himself.
+- 1635: Dutch colonial forces on Taiwan launch a pacification campaign against native villages, resulting in Dutch control of the middle and south of the island.
 
 Data from muffinlabs
-*(Updated at: 2025-11-21 01:48:47 UTC)*
+*(Updated at: 2025-11-22 01:45:03 UTC)*
 
 # 历史上的今天 
 
-- - 2022 年：印度尼西亚爪哇岛发生 5.6 级地震，造成 335 至 602 人死亡。
-- - 2021 年：一辆 SUV 冲进威斯康星州沃克夏的圣诞游行，造成 6 人死亡、62 人受伤。
-- - 2019 年：特斯拉推出 SUV Cybertruck。在发布会期间，“牢不可破”的窗户在演示过程中破碎，出现了失态。
-- - 2019 年：以色列总理本杰明·内塔尼亚胡因贿赂、欺诈和失信罪被起诉。
-- - 2017 年：罗伯特·穆加贝在任职三十七年后正式辞去津巴布韦总统职务。
-- - 2015 年：由于潜在的恐怖袭击，比利时政府对布鲁塞尔实施安全封锁，包括关闭商店、学校和公共交通。
-- - 2014年：津巴布韦奎奎市因警察发射催泪瓦斯引发踩踏事件，造成至少11人死亡、40人受伤。
-- - 2013年：乌克兰总统亚努科维奇暂停签署乌克兰-欧盟联合协定后，乌克兰爆发大规模抗议活动。
-- - 2013 年：拉脱维亚里加一家购物中心的屋顶倒塌，造成 54 人死亡。
-- - 2012 年：特拉维夫一辆公交车上被投掷炸弹，造成至少 28 人受伤。
-- - 2009 年：中国黑龙江省发生地雷爆炸，造成 108 人死亡。
-- - 2006年：反叙利亚的黎巴嫩政治家兼政府部长皮埃尔·杰马耶勒在贝鲁特郊区被暗杀。
-- - 2004年：东航5210航班从包头东河机场起飞后坠毁，造成55人死亡。
-- - 2004 年：巴黎俱乐部同意注销伊拉克 80%（最高 1000 亿美元）的外债。
-- - 2004 年：多米尼克遭受历史上最具破坏性的地震。该岛的北半部遭受的破坏最为严重，尤其是朴茨茅斯镇。在邻国瓜德罗普岛，一人被杀。
-- - 2004年：乌克兰举行第二轮总统选举，引发大规模抗议和选举公正性争议。
-- - 2002 年：洛斯泽塔斯创始人、海湾卡特尔高级成员阿图罗·古兹曼·德塞纳 (Arturo Guzmán Decena) 在与墨西哥军队和警察的枪战中身亡。
-- - 2002年：北约邀请保加利亚、爱沙尼亚、拉脱维亚、立陶宛、罗马尼亚、斯洛伐克和斯洛文尼亚加入。
-- - 1998 年：芬兰撒旦教徒亚诺·埃尔格 (Jarno Elg) 在芬兰海温卡 (Hyvinkää) 杀死了一名 23 岁男子，并进行了类似仪式的切割和吃掉身体部位的仪式。
-- - 1996 年：温贝托·维达尔爆炸：波多黎各里奥彼德拉斯的温贝托·维达尔鞋店发生爆炸，造成 33 人死亡。
-- - 1995 年：《代顿协议》在俄亥俄州代顿附近的莱特-帕特森空军基地草签，结束了波斯尼亚和黑塞哥维那三年半的战争。
-- - 1992 年：一场大型龙卷风于下午袭击德克萨斯州休斯顿地区。在接下来的两天里，美国 11 月份爆发了有史以来最大规模的龙卷风，引发了 100 多场龙卷风。
-- - 1990 年：曼谷航空 125 号航班在飞往苏梅岛机场时坠毁，造成 38 人死亡。
-- - 1986 年：国家安全委员会成员奥利弗·诺斯和他的秘书开始销毁据称与伊朗门事件有关的文件。
-- - 1985 年：美国海军情报分析员乔纳森·波拉德因向以色列提供有关阿拉伯国家的机密信息而被捕。他随后被判处终身监禁。
-- - 1980 年：内华达州天堂市的米高梅大酒店（现为巴利拉斯维加斯）发生致命火灾。这是内华达州历史上最严重的灾难，造成 85 人死亡、650 多人受伤。
-- - 1979 年：美国驻巴基斯坦伊斯兰堡大使馆遭到暴徒袭击并纵火，造成四人死亡。
-- - 1977年：内政部长艾伦·海特宣布新西兰国歌为传统国歌“上帝保佑女王”和“上帝保卫新西兰”。
-- - 1974 年：伯明翰酒吧爆炸案造成 21 人死亡。伯明翰六人组因此罪被判处终身监禁，但随后被无罪释放。
-- - 1972 年：韩国选民以压倒性多数批准了新宪法，赋予朴正熙和第四共和国合法性。
+- - 2022 年：弗吉尼亚州切萨皮克的一家沃尔玛发生枪击事件，造成包括枪手在内的 7 名工人死亡，另有 4 人受伤。
+- - 2014 年：12 岁非裔美国人塔米尔·赖斯 (Tamir Rice) 在克利夫兰玩玩具枪时被一名白人警察杀害。
+- - 2010年：柬埔寨送水节期间，金边Koh Pich发生踩踏事件，造成347人死亡。
+- - 2004年：乌克兰因总统选举而爆发橙色革命。
+- - 2003 年：巴格达 DHL 未遂击落事件：起飞后不久，一架 DHL Express 货机左翼被地对空导弹击中并被迫降落。
+- - 1994 年：环球航空公司的一架麦克唐纳道格拉斯 MD-80 和塞斯纳 441 Conquest II 飞机在密苏里州布里奇顿圣路易斯兰伯特国际机场的跑道上相撞，造成两人死亡、八人受伤。
+- - 1990年：英国首相玛格丽特·撒切尔退出保守党领袖选举，确认其首相任期结束。
+- - 1989 年：NASA 在 STS-33 上发射发现号航天飞机，这是美国国防部的一项机密任务。
+- - 1987年：发生Max Headroom信号劫持事件，盗版广播中断了芝加哥的电视广播。
+- - 1975 年：弗朗西斯科·佛朗哥去世后，胡安·卡洛斯被宣布为西班牙国王。
+- - 1971 年：在英国最严重的登山悲剧“凯恩戈姆高原灾难”中，五名儿童及其一名领导人被发现在苏格兰山区暴露身亡。
+- - 1968 年：日本航空 2 号航班在飞往旧金山国际机场时意外迫降在旧金山湾。没有人受伤。
+- - 1967 年：联合国安理会第 242 号决议获得通过，制定了一套旨在指导阿拉伯-以色列和平解决谈判的原则。
+- - 1963 年：五名印度将军在一次直升机坠毁事故中丧生，原因是与两条平行的电报电缆相撞。
+- - 1963 年：美国总统约翰·F·肯尼迪被暗杀，得克萨斯州州长约翰·康纳利被李·哈维·奥斯瓦尔德打成重伤，奥斯瓦尔德在逃离现场后还杀死了达拉斯警察 J.D. 蒂皮特。随后副总统林登·约翰逊宣誓就任美国第36任总统。
+- - 1955 年：苏联发射了 RDS-37，这是一枚由安德烈·萨哈罗夫设计的 1.6 兆吨两级氢弹。炸弹被投在塞米巴拉金斯克上空。
+- - 1952 年：一架道格拉斯 C-124 Globemaster II 坠毁在阿拉斯加的塘鹅山，机上 52 人全部遇难。
+- - 1943 年：自由法国政府首次宣布黎巴嫩脱离法国独立已近两年。
+- - 1943 年：第二次世界大战：开罗会议：美国总统富兰克林·罗斯福、英国首相温斯顿·丘吉尔和中国总理蒋介石在埃及开罗会面，讨论击败日本的方法。
+- - 1942年：第二次世界大战：斯大林格勒战役：弗里德里希·保卢斯将军给阿道夫·希特勒发了一封电报，称德国第6集团军被包围。
+- - 1940 年：第二次世界大战：意大利首次入侵后，希腊军队反攻意大利占领的阿尔巴尼亚并占领科里察。
+- - 1935 年：中国快船开辟了第一条商业跨太平洋航空​​服务，连接加利福尼亚州阿拉米达和马尼拉。
+- - 1921 年：北爱尔兰动乱期间（1920-1922 年），一天之内就有 22 名爱尔兰民族主义者在贝尔法斯特被杀。
+- - 1908 年：马纳斯提尔议会制定了阿尔巴尼亚字母表。
+- - 1873 年：法国轮船 SS Ville du Havre 在大西洋与苏格兰铁快船 Loch Earn 相撞，12 分钟后沉没，造成 226 人死亡。
+- - 1869 年：快船卡蒂萨克号在苏格兰敦巴顿下水。
+- - 1855 年：在英国伯明翰，阿尔伯特亲王为伯明翰和米德兰学院奠基。
+- - 1837 年：加拿大记者兼政治家威廉·里昂·麦肯齐在他的报纸《宪法》上发表的文章《致上加拿大人民》中呼吁反抗英国。
+- - 1718 年：皇家海军中尉罗伯特·梅纳德在北卡罗来纳州海岸袭击并登上了英国海盗爱德华·蒂奇（最著名的“黑胡子”）的船只。双方伤亡包括梅纳德的大副海德先生和蒂奇本人。
+- - 1635年：荷兰在台湾的殖民势力对当地村庄发起平定运动，导致荷兰控制了台湾中部和南部。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-21 01:48:47 UTC）*
+*（更新于: 2025-11-22 01:45:03 UTC）*
