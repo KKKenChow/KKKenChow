@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: A shooting at a Walmart in Chesapeake, Virginia leaves seven workers dead, including the shooter, and four others injured.
-- 2014: While playing with a toy gun in Cleveland, 12-year-old African American Tamir Rice is killed by a white police officer.
-- 2010: During the Cambodian water festival, a stampede in Koh Pich, Phnom Penh, kills 347 people.
-- 2004: The Orange Revolution begins in Ukraine, resulting from the presidential elections.
-- 2003: Baghdad DHL attempted shootdown incident: Shortly after takeoff, a DHL Express cargo plane is struck on the left wing by a surface-to-air missile and forced to land.
-- 1994: A Trans World Airlines McDonnell Douglas MD-80 and Cessna 441 Conquest II aircraft collide on the runway at St. Louis Lambert International Airport in Bridgeton, Missouri, killing two people and injuring eight.
-- 1990: British Prime Minister Margaret Thatcher withdraws from the Conservative Party leadership election, confirming the end of her Prime-Ministership.
-- 1989: NASA launches Space Shuttle Discovery on STS-33, a classified mission for the United States Department of Defense.
-- 1987: The Max Headroom signal hijacking incident takes place, in which a pirate broadcast interrupts television broadcasts in Chicago.
-- 1975: Juan Carlos is declared King of Spain following the death of Francisco Franco.
-- 1971: In Britain's worst mountaineering tragedy, the Cairngorm Plateau Disaster, five children and one of their leaders are found dead from exposure in the Scottish mountains.
-- 1968: Japan Air Lines Flight 2 accidentally ditches in San Francisco Bay while on approach to San Francisco International Airport. No one is injured.
-- 1967: UN Security Council Resolution 242 is adopted, establishing a set of the principles aimed at guiding negotiations for an Arab-Israeli peace settlement.
-- 1963: Five Indian generals are killed in a helicopter crash, due to collision with two parallel lines of telegraph cables.
-- 1963: U.S. President John F. Kennedy is assassinated and Texas Governor John Connally is seriously wounded by Lee Harvey Oswald, who also kills Dallas Police officer J. D. Tippit after fleeing the scene. Vice President Lyndon B. Johnson is sworn in as the 36th President of the United States afterwards.
-- 1955: The Soviet Union launches RDS-37, a 1.6 megaton two stage hydrogen bomb designed by Andrei Sakharov. The bomb was dropped over Semipalatinsk.
-- 1952: A Douglas C-124 Globemaster II crashes into Mount Gannet, Alaska, killing all 52 aboard.
-- 1943: Lebanon gains independence from France, nearly two years after it was first announced by the Free French government.
-- 1943: World War II: Cairo Conference: U.S. President Franklin D. Roosevelt, British Prime Minister Winston Churchill, and Chinese Premier Chiang Kai-shek meet in Cairo, Egypt, to discuss ways to defeat Japan.
-- 1942: World War II: Battle of Stalingrad: General Friedrich Paulus sends Adolf Hitler a telegram saying that the German 6th Army is surrounded.
-- 1940: World War II: Following the initial Italian invasion, Greek troops counterattack into Italian-occupied Albania and capture Korytsa.
-- 1935: The China Clipper inaugurates the first commercial transpacific air service, connecting Alameda, California with Manila.
-- 1921: During The Troubles in Northern Ireland (1920-1922), 22 Irish Nationalists are killed in Belfast in one day.
-- 1908: The Congress of Manastir establishes the Albanian alphabet.
-- 1873: The French steamer SS Ville du Havre sinks in 12 minutes after colliding with the Scottish iron clipper Loch Earn in the Atlantic, with a loss of 226 lives.
-- 1869: In Dumbarton, Scotland, the clipper Cutty Sark is launched.
-- 1855: In Birmingham, England, Albert, Prince Consort lays the foundation stone of the Birmingham and Midland Institute.
-- 1837: Canadian journalist and politician William Lyon Mackenzie calls for a rebellion against the United Kingdom in his essay "To the People of Upper Canada", published in his newspaper The Constitution.
-- 1718: Royal Navy Lieutenant Robert Maynard attacks and boards the vessels of the British pirate Edward Teach (best known as "Blackbeard") off the coast of North Carolina. The casualties on both sides include Maynard's first officer Mister Hyde and Teach himself.
-- 1635: Dutch colonial forces on Taiwan launch a pacification campaign against native villages, resulting in Dutch control of the middle and south of the island.
+- 2019: The last Sumatran rhinoceros in Malaysia, Imam, dies, making the species officially extinct in the country.
+- 2018: Founders of Italian fashion brand Dolce & Gabbana issue an apology following a series of offensive advertisements on social media promoting a fashion show in Shanghai, China, which was canceled.
+- 2015: Blue Origin's New Shepard space vehicle became the first rocket to successfully fly to space and then return to Earth for a controlled, vertical landing.
+- 2011: Arab Spring: After 11 months of protests in Yemen, Yemeni president Ali Abdullah Saleh signs a deal to transfer power to the vice president, in exchange for legal immunity.
+- 2010: Bombardment of Yeonpyeong: North Korean artillery attack kills two civilians and two marines on Yeonpyeong Island, South Korea.
+- 2009: The Maguindanao massacre occurs in Ampatuan, Maguindanao, Philippines; 58 opponents of Andal Ampatuan Jr. are kidnapped and killed.
+- 2007: MS Explorer, a cruise liner carrying 154 people, sinks in the Antarctic Ocean south of Argentina after hitting an iceberg near the South Shetland Islands. There are no fatalities.
+- 2006: A series of bombings kills at least 215 people and injures 257 others in Sadr City, making it the second deadliest sectarian attack since the beginning of the Iraq War in 2003.
+- 2005: Ellen Johnson Sirleaf is elected president of Liberia and becomes the first woman to lead an African country.
+- 2004: The Holy Trinity Cathedral of Tbilisi, the largest religious building in Georgia, is consecrated.
+- 2003: Rose Revolution: Georgian president Eduard Shevardnadze resigns following weeks of mass protests over flawed elections.
+- 2002: Space Shuttle Endeavour launches on STS-113 to the International Space Station carrying the Expedition 6 crew and the P1 truss.
+- 2001: The Budapest Convention on Cybercrime is signed in Budapest, Hungary.
+- 1996: Ethiopian Airlines Flight 961 is hijacked, then crashes into the Indian Ocean off the coast of Comoros after running out of fuel, killing 125.
+- 1992: The first smartphone, the IBM Simon, is introduced at COMDEX in Las Vegas, Nevada.
+- 1991: Queen lead singer Freddie Mercury announces in a statement that he is HIV-positive. He dies the following day.
+- 1985: Gunmen hijack EgyptAir Flight 648 en route from Athens to Cairo. When the plane lands in Malta, Egyptian commandos storm the aircraft, but 60 people die in the raid.
+- 1981: Iran-Contra affair: Ronald Reagan signs the top secret National Security Decision Directive 17 (NSDD-17), giving the Central Intelligence Agency the authority to recruit and support Contra rebels in Nicaragua.
+- 1980: The 6.9 Mw  Irpinia earthquake shakes southern Italy with a maximum Mercalli intensity of X (Extreme), killing 2,483-4,900, and injuring 7,700-8,934.
+- 1978: The Geneva Frequency Plan of 1975 goes into effect, realigning many of Europe's longwave and mediumwave broadcasting frequencies.
+- 1978: Cyclone kills about 1,000 people in eastern Sri Lanka.
+- 1976: Jacques Mayol is the first man to reach a depth of 100 m (330 ft) undersea without breathing equipment.
+- 1974: Sixty Ethiopian politicians, aristocrats, military officers, and other persons are executed by the provisional military government.
+- 1972: The Soviet Union makes its final attempt at launching the N1 rocket.
+- 1971: Representatives of the People's Republic of China attend the United Nations, including the United Nations Security Council, for the first time.
+- 1963: The first episode of Doctor Who (An Unearthly Child) is broadcast by the BBC, which is now the world's longest running science fiction drama.
+- 1959: French President Charles de Gaulle declares in a speech in Strasbourg his vision for "Europe, from the Atlantic to the Urals".
+- 1955: The Cocos Islands are transferred from the control of the United Kingdom to that of Australia.
+- 1946: French naval bombardment of Hai Phong, Vietnam, kills thousands of civilians.
+- 1944: World War II: The Lotta Svärd Movement is disbanded under the terms of the armistice treaty in Finland after the Continuation War.
 
 Data from muffinlabs
-*(Updated at: 2025-11-22 01:45:03 UTC)*
+*(Updated at: 2025-11-23 02:03:09 UTC)*
 
 # 历史上的今天 
 
-- - 2022 年：弗吉尼亚州切萨皮克的一家沃尔玛发生枪击事件，造成包括枪手在内的 7 名工人死亡，另有 4 人受伤。
-- - 2014 年：12 岁非裔美国人塔米尔·赖斯 (Tamir Rice) 在克利夫兰玩玩具枪时被一名白人警察杀害。
-- - 2010年：柬埔寨送水节期间，金边Koh Pich发生踩踏事件，造成347人死亡。
-- - 2004年：乌克兰因总统选举而爆发橙色革命。
-- - 2003 年：巴格达 DHL 未遂击落事件：起飞后不久，一架 DHL Express 货机左翼被地对空导弹击中并被迫降落。
-- - 1994 年：环球航空公司的一架麦克唐纳道格拉斯 MD-80 和塞斯纳 441 Conquest II 飞机在密苏里州布里奇顿圣路易斯兰伯特国际机场的跑道上相撞，造成两人死亡、八人受伤。
-- - 1990年：英国首相玛格丽特·撒切尔退出保守党领袖选举，确认其首相任期结束。
-- - 1989 年：NASA 在 STS-33 上发射发现号航天飞机，这是美国国防部的一项机密任务。
-- - 1987年：发生Max Headroom信号劫持事件，盗版广播中断了芝加哥的电视广播。
-- - 1975 年：弗朗西斯科·佛朗哥去世后，胡安·卡洛斯被宣布为西班牙国王。
-- - 1971 年：在英国最严重的登山悲剧“凯恩戈姆高原灾难”中，五名儿童及其一名领导人被发现在苏格兰山区暴露身亡。
-- - 1968 年：日本航空 2 号航班在飞往旧金山国际机场时意外迫降在旧金山湾。没有人受伤。
-- - 1967 年：联合国安理会第 242 号决议获得通过，制定了一套旨在指导阿拉伯-以色列和平解决谈判的原则。
-- - 1963 年：五名印度将军在一次直升机坠毁事故中丧生，原因是与两条平行的电报电缆相撞。
-- - 1963 年：美国总统约翰·F·肯尼迪被暗杀，得克萨斯州州长约翰·康纳利被李·哈维·奥斯瓦尔德打成重伤，奥斯瓦尔德在逃离现场后还杀死了达拉斯警察 J.D. 蒂皮特。随后副总统林登·约翰逊宣誓就任美国第36任总统。
-- - 1955 年：苏联发射了 RDS-37，这是一枚由安德烈·萨哈罗夫设计的 1.6 兆吨两级氢弹。炸弹被投在塞米巴拉金斯克上空。
-- - 1952 年：一架道格拉斯 C-124 Globemaster II 坠毁在阿拉斯加的塘鹅山，机上 52 人全部遇难。
-- - 1943 年：自由法国政府首次宣布黎巴嫩脱离法国独立已近两年。
-- - 1943 年：第二次世界大战：开罗会议：美国总统富兰克林·罗斯福、英国首相温斯顿·丘吉尔和中国总理蒋介石在埃及开罗会面，讨论击败日本的方法。
-- - 1942年：第二次世界大战：斯大林格勒战役：弗里德里希·保卢斯将军给阿道夫·希特勒发了一封电报，称德国第6集团军被包围。
-- - 1940 年：第二次世界大战：意大利首次入侵后，希腊军队反攻意大利占领的阿尔巴尼亚并占领科里察。
-- - 1935 年：中国快船开辟了第一条商业跨太平洋航空​​服务，连接加利福尼亚州阿拉米达和马尼拉。
-- - 1921 年：北爱尔兰动乱期间（1920-1922 年），一天之内就有 22 名爱尔兰民族主义者在贝尔法斯特被杀。
-- - 1908 年：马纳斯提尔议会制定了阿尔巴尼亚字母表。
-- - 1873 年：法国轮船 SS Ville du Havre 在大西洋与苏格兰铁快船 Loch Earn 相撞，12 分钟后沉没，造成 226 人死亡。
-- - 1869 年：快船卡蒂萨克号在苏格兰敦巴顿下水。
-- - 1855 年：在英国伯明翰，阿尔伯特亲王为伯明翰和米德兰学院奠基。
-- - 1837 年：加拿大记者兼政治家威廉·里昂·麦肯齐在他的报纸《宪法》上发表的文章《致上加拿大人民》中呼吁反抗英国。
-- - 1718 年：皇家海军中尉罗伯特·梅纳德在北卡罗来纳州海岸袭击并登上了英国海盗爱德华·蒂奇（最著名的“黑胡子”）的船只。双方伤亡包括梅纳德的大副海德先生和蒂奇本人。
-- - 1635年：荷兰在台湾的殖民势力对当地村庄发起平定运动，导致荷兰控制了台湾中部和南部。
+- - 2019 年：马来西亚最后一头苏门答腊犀牛伊玛目去世，该物种在该国正式灭绝。
+- - 2018 年：意大利时尚品牌杜嘉班纳 (Dolce & Gabbana) 创始人在社交媒体上发布一系列冒犯性广告致歉，宣传在中国上海举行的一场时装秀，该时装秀被取消。
+- - 2015 年：蓝色起源的新谢泼德太空飞行器成为第一枚成功飞向太空然后返回地球进行受控垂直着陆的火箭。
+- - 2011年：阿拉伯之春：也门经历了11个月的抗议活动后，也门总统阿里·阿卜杜拉·萨利赫签署了一项协议，将权力移交给副总统，以换取法律豁免权。
+- - 2010年：轰炸延坪岛：朝鲜炮击造成韩国延坪岛两名平民和两名海军陆战队员死亡。
+- - 2009年：菲律宾马京达瑙省安帕图安发生马京达瑙大屠杀；小安达尔·安帕图安 (Andal Ampatuan Jr.) 的 58 名反对者被绑架并杀害。
+- - 2007 年：MS Explorer 号游轮载有 154 名乘客，在南设得兰群岛附近撞上冰山后沉没于阿根廷南部的南极海域。目前没有人员死亡。
+- - 2006年：萨德尔城发生一系列爆炸事件，造成至少215人死亡、257人受伤，成为自2003年伊拉克战争爆发以来第二次最致命的宗派袭击事件。
+- - 2005 年：埃伦·约翰逊·瑟利夫当选利比里亚总统，成为第一位领导非洲国家的女性。
+- - 2004年：格鲁吉亚最大的宗教建筑第比利斯圣三一大教堂落成。
+- - 2003 年：玫瑰革命：格鲁吉亚总统爱德华·谢瓦尔德纳泽 (Eduard Shevardnadze) 在针对有缺陷的选举进行了数周的大规模抗议后辞职。
+- - 2002 年：奋进号航天飞机搭载 Expedition 6 号机组人员和 P1 桁架搭乘 STS-113 发射到国际空间站。
+- - 2001 年：《布达佩斯网络犯罪公约》在匈牙利布达佩斯签署。
+- - 1996 年：埃塞俄比亚航空公司 961 号航班被劫持，燃料耗尽后坠入科摩罗海岸附近的印度洋，造成 125 人死亡。
+- - 1992 年：第一款智能手机 IBM Simon 在内华达州拉斯维加斯的 COMDEX 上推出。
+- - 1991 年：皇后乐队主唱 Freddie Mercury 在一份声明中宣布他感染了艾滋病毒。第二天他就去世了。
+- - 1985 年：枪手劫持了从雅典飞往开罗的埃及航空 648 号航班。当飞机降落在马耳他时，埃及突击队袭击了飞机，但 60 人在袭击中丧生。
+- - 1981 年：伊朗反对派事件：罗纳德·里根签署绝密国家安全决策指令 17 (NSDD-17)，授权中央情报局招募和支持尼加拉瓜的反对派叛乱分子。
+- - 1980 年：6.9 兆瓦的伊尔皮尼亚地震震动了意大利南部，最大 Mercalli 烈度为 X（极端），造成 2,483-4,900 人死亡，7,700-8,934 人受伤。
+- - 1978 年：1975 年日内瓦频率计划生效，重新调整了欧洲的许多长波和中波广播频率。
+- - 1978 年：旋风在斯里兰卡东部造成约 1,000 人死亡。
+- - 1976 年：雅克·马约尔 (Jacques Mayol) 成为第一个在没有呼吸设备的情况下到达海底 100 米（330 英尺）深度的人。
+- - 1974年：60名埃塞俄比亚政治家、贵族、军官和其他人士被临时军政府处决。
+- - 1972 年：苏联最后一次尝试发射 N1 火箭。
+- - 1971年：中华人民共和国代表首次出席联合国，包括联合国安理会。
+- - 1963 年：BBC 播出《神秘博士》（An Unearthly Child）第一集，该剧目前是世界上播出时间最长的科幻剧。
+- - 1959 年：法国总统戴高乐在斯特拉斯堡发表讲话时宣布了他对“欧洲，从大西洋到乌拉尔”的愿景。
+- - 1955 年：科科斯群岛从英国控制权移交给澳大利亚。
+- - 1946 年：法国海军轰炸越南海防，造成数千名平民死亡。
+- - 1944 年：第二次世界大战：根据芬兰停战条约的规定，Lotta Svärd 运动在继续战争后被解散。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-22 01:45:03 UTC）*
+*（更新于: 2025-11-23 02:03:09 UTC）*
