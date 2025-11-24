@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: The last Sumatran rhinoceros in Malaysia, Imam, dies, making the species officially extinct in the country.
-- 2018: Founders of Italian fashion brand Dolce & Gabbana issue an apology following a series of offensive advertisements on social media promoting a fashion show in Shanghai, China, which was canceled.
-- 2015: Blue Origin's New Shepard space vehicle became the first rocket to successfully fly to space and then return to Earth for a controlled, vertical landing.
-- 2011: Arab Spring: After 11 months of protests in Yemen, Yemeni president Ali Abdullah Saleh signs a deal to transfer power to the vice president, in exchange for legal immunity.
-- 2010: Bombardment of Yeonpyeong: North Korean artillery attack kills two civilians and two marines on Yeonpyeong Island, South Korea.
-- 2009: The Maguindanao massacre occurs in Ampatuan, Maguindanao, Philippines; 58 opponents of Andal Ampatuan Jr. are kidnapped and killed.
-- 2007: MS Explorer, a cruise liner carrying 154 people, sinks in the Antarctic Ocean south of Argentina after hitting an iceberg near the South Shetland Islands. There are no fatalities.
-- 2006: A series of bombings kills at least 215 people and injures 257 others in Sadr City, making it the second deadliest sectarian attack since the beginning of the Iraq War in 2003.
-- 2005: Ellen Johnson Sirleaf is elected president of Liberia and becomes the first woman to lead an African country.
-- 2004: The Holy Trinity Cathedral of Tbilisi, the largest religious building in Georgia, is consecrated.
-- 2003: Rose Revolution: Georgian president Eduard Shevardnadze resigns following weeks of mass protests over flawed elections.
-- 2002: Space Shuttle Endeavour launches on STS-113 to the International Space Station carrying the Expedition 6 crew and the P1 truss.
-- 2001: The Budapest Convention on Cybercrime is signed in Budapest, Hungary.
-- 1996: Ethiopian Airlines Flight 961 is hijacked, then crashes into the Indian Ocean off the coast of Comoros after running out of fuel, killing 125.
-- 1992: The first smartphone, the IBM Simon, is introduced at COMDEX in Las Vegas, Nevada.
-- 1991: Queen lead singer Freddie Mercury announces in a statement that he is HIV-positive. He dies the following day.
-- 1985: Gunmen hijack EgyptAir Flight 648 en route from Athens to Cairo. When the plane lands in Malta, Egyptian commandos storm the aircraft, but 60 people die in the raid.
-- 1981: Iran-Contra affair: Ronald Reagan signs the top secret National Security Decision Directive 17 (NSDD-17), giving the Central Intelligence Agency the authority to recruit and support Contra rebels in Nicaragua.
-- 1980: The 6.9 Mw  Irpinia earthquake shakes southern Italy with a maximum Mercalli intensity of X (Extreme), killing 2,483-4,900, and injuring 7,700-8,934.
-- 1978: The Geneva Frequency Plan of 1975 goes into effect, realigning many of Europe's longwave and mediumwave broadcasting frequencies.
-- 1978: Cyclone kills about 1,000 people in eastern Sri Lanka.
-- 1976: Jacques Mayol is the first man to reach a depth of 100 m (330 ft) undersea without breathing equipment.
-- 1974: Sixty Ethiopian politicians, aristocrats, military officers, and other persons are executed by the provisional military government.
-- 1972: The Soviet Union makes its final attempt at launching the N1 rocket.
-- 1971: Representatives of the People's Republic of China attend the United Nations, including the United Nations Security Council, for the first time.
-- 1963: The first episode of Doctor Who (An Unearthly Child) is broadcast by the BBC, which is now the world's longest running science fiction drama.
-- 1959: French President Charles de Gaulle declares in a speech in Strasbourg his vision for "Europe, from the Atlantic to the Urals".
-- 1955: The Cocos Islands are transferred from the control of the United Kingdom to that of Australia.
-- 1946: French naval bombardment of Hai Phong, Vietnam, kills thousands of civilians.
-- 1944: World War II: The Lotta Svärd Movement is disbanded under the terms of the armistice treaty in Finland after the Continuation War.
+- 2023: Hibiscus Rising, commemorating David Oluwale, is unveiled in Leeds.
+- 2022: Five days after the general elections which resulted in a hung parliament, opposition leader and former deputy prime minister Anwar Ibrahim is officially named as the 10th prime minister of Malaysia.
+- 2017: A terrorist attack on a Mosque in Al-Rawda, North Sinai, Egypt kills 311 people and injures 128.
+- 2016: The government of Colombia and the Revolutionary Armed Forces of Colombia-People's Army sign a revised peace deal, bringing an end to the country's more than 50-year-long civil war.
+- 2015: An explosion on a bus carrying Tunisian Presidential Guard personnel in Tunisia's capital Tunis leaves at least 14 people dead.
+- 2015: A terrorist attack on a hotel in Al-Arish, Egypt, kills at least seven people and injures 12 others.
+- 2015: A Russian Air Force Sukhoi Su-24 fighter jet is shot down by the Turkish Air Force over the Syria-Turkey border, killing one of the two pilots; a Russian marine is also killed during a subsequent rescue effort.
+- 2013: Iran signs an interim agreement with the P5+1 countries, limiting its nuclear program in exchange for reduced sanctions.
+- 2012: A fire at a clothing factory in Dhaka, Bangladesh, kills at least 112 people.
+- 2009: The Avdhela Project, an Aromanian digital library and cultural initiative, is founded in Bucharest, Romania.
+- 2001: Crossair Flight 3597 crashes in Bassersdorf near Zurich Airport, killing 24 people, including singer Melanie Thornton and two members of the German band Passion Fruit.
+- 1992: China Southern Airlines Flight 3943 crashes on approach to Guilin Qifengling Airport in Guilin, China, killing all 141 people on board.
+- 1991: Space Shuttle program: Atlantis launches on STS-44.
+- 1989: After a week of mass protests against the Communist regime known as the Velvet Revolution, Miloš Jakeš and the entire Politburo of the Czechoslovak Communist Party resign from office.  This brings an effective end to Communist rule in Czechoslovakia.
+- 1976: The Çaldıran-Muradiye earthquake in eastern Turkey kills between 4,000 and 5,000 people.
+- 1974: Donald Johanson and Tom Gray discover the 40% complete Australopithecus afarensis skeleton, nicknamed "Lucy" (after The Beatles song "Lucy in the Sky with Diamonds"), in the Awash Valley of Ethiopia's Afar Depression.
+- 1973: A national speed limit is imposed on the Autobahn in Germany because of the 1973 oil crisis. The speed limit lasts only four months.
+- 1971: During a severe thunderstorm over Washington state, a hijacker calling himself Dan Cooper (aka D. B. Cooper) parachutes from a Northwest Orient Airlines plane with $200,000 in ransom money. He has never been found.
+- 1969: Apollo program: The Apollo 12 command module splashes down safely in the Pacific Ocean, ending the second crewed mission to land on the Moon.
+- 1966: Bulgarian TABSO Flight 101 crashes near Bratislava, Czechoslovakia, killing all 82 people on board.
+- 1965: Joseph-Désiré Mobutu seizes power in the Democratic Republic of the Congo and becomes President; he rules the country (which he renames Zaire in 1971) for over 30 years, until being overthrown by rebels in 1997.
+- 1963: Lee Harvey Oswald, the assassin of President John F. Kennedy, is killed by Jack Ruby on live television. Robert H. Jackson takes a photograph of the shooting that will win the 1964 Pulitzer Prize in Photography.
+- 1962: The influential British satirical television programme That Was the Week That Was is first broadcast.
+- 1962: Cold War: The West Berlin branch of the Socialist Unity Party of Germany forms a separate party, the Socialist Unity Party of West Berlin.
+- 1944: World War II: The 73rd Bombardment Wing launches the first attack on Tokyo from the Northern Mariana Islands.
+- 1943: World War II: At the battle of Makin the USS Liscome Bay is torpedoed near Tarawa and sinks, killing 650 men.
+- 1941: World War II: The United States grants Lend-Lease to the Free French Forces.
+- 1940: World War II: The First Slovak Republic becomes a signatory to the Tripartite Pact, officially joining the Axis powers.
+- 1935: The Senegalese Socialist Party holds its second congress.
+- 1932: In Washington, D.C., the FBI Scientific Crime Detection Laboratory (better known as the FBI Crime Lab) officially opens.
 
 Data from muffinlabs
-*(Updated at: 2025-11-23 02:03:09 UTC)*
+*(Updated at: 2025-11-24 01:57:08 UTC)*
 
 # 历史上的今天 
 
-- - 2019 年：马来西亚最后一头苏门答腊犀牛伊玛目去世，该物种在该国正式灭绝。
-- - 2018 年：意大利时尚品牌杜嘉班纳 (Dolce & Gabbana) 创始人在社交媒体上发布一系列冒犯性广告致歉，宣传在中国上海举行的一场时装秀，该时装秀被取消。
-- - 2015 年：蓝色起源的新谢泼德太空飞行器成为第一枚成功飞向太空然后返回地球进行受控垂直着陆的火箭。
-- - 2011年：阿拉伯之春：也门经历了11个月的抗议活动后，也门总统阿里·阿卜杜拉·萨利赫签署了一项协议，将权力移交给副总统，以换取法律豁免权。
-- - 2010年：轰炸延坪岛：朝鲜炮击造成韩国延坪岛两名平民和两名海军陆战队员死亡。
-- - 2009年：菲律宾马京达瑙省安帕图安发生马京达瑙大屠杀；小安达尔·安帕图安 (Andal Ampatuan Jr.) 的 58 名反对者被绑架并杀害。
-- - 2007 年：MS Explorer 号游轮载有 154 名乘客，在南设得兰群岛附近撞上冰山后沉没于阿根廷南部的南极海域。目前没有人员死亡。
-- - 2006年：萨德尔城发生一系列爆炸事件，造成至少215人死亡、257人受伤，成为自2003年伊拉克战争爆发以来第二次最致命的宗派袭击事件。
-- - 2005 年：埃伦·约翰逊·瑟利夫当选利比里亚总统，成为第一位领导非洲国家的女性。
-- - 2004年：格鲁吉亚最大的宗教建筑第比利斯圣三一大教堂落成。
-- - 2003 年：玫瑰革命：格鲁吉亚总统爱德华·谢瓦尔德纳泽 (Eduard Shevardnadze) 在针对有缺陷的选举进行了数周的大规模抗议后辞职。
-- - 2002 年：奋进号航天飞机搭载 Expedition 6 号机组人员和 P1 桁架搭乘 STS-113 发射到国际空间站。
-- - 2001 年：《布达佩斯网络犯罪公约》在匈牙利布达佩斯签署。
-- - 1996 年：埃塞俄比亚航空公司 961 号航班被劫持，燃料耗尽后坠入科摩罗海岸附近的印度洋，造成 125 人死亡。
-- - 1992 年：第一款智能手机 IBM Simon 在内华达州拉斯维加斯的 COMDEX 上推出。
-- - 1991 年：皇后乐队主唱 Freddie Mercury 在一份声明中宣布他感染了艾滋病毒。第二天他就去世了。
-- - 1985 年：枪手劫持了从雅典飞往开罗的埃及航空 648 号航班。当飞机降落在马耳他时，埃及突击队袭击了飞机，但 60 人在袭击中丧生。
-- - 1981 年：伊朗反对派事件：罗纳德·里根签署绝密国家安全决策指令 17 (NSDD-17)，授权中央情报局招募和支持尼加拉瓜的反对派叛乱分子。
-- - 1980 年：6.9 兆瓦的伊尔皮尼亚地震震动了意大利南部，最大 Mercalli 烈度为 X（极端），造成 2,483-4,900 人死亡，7,700-8,934 人受伤。
-- - 1978 年：1975 年日内瓦频率计划生效，重新调整了欧洲的许多长波和中波广播频率。
-- - 1978 年：旋风在斯里兰卡东部造成约 1,000 人死亡。
-- - 1976 年：雅克·马约尔 (Jacques Mayol) 成为第一个在没有呼吸设备的情况下到达海底 100 米（330 英尺）深度的人。
-- - 1974年：60名埃塞俄比亚政治家、贵族、军官和其他人士被临时军政府处决。
-- - 1972 年：苏联最后一次尝试发射 N1 火箭。
-- - 1971年：中华人民共和国代表首次出席联合国，包括联合国安理会。
-- - 1963 年：BBC 播出《神秘博士》（An Unearthly Child）第一集，该剧目前是世界上播出时间最长的科幻剧。
-- - 1959 年：法国总统戴高乐在斯特拉斯堡发表讲话时宣布了他对“欧洲，从大西洋到乌拉尔”的愿景。
-- - 1955 年：科科斯群岛从英国控制权移交给澳大利亚。
-- - 1946 年：法国海军轰炸越南海防，造成数千名平民死亡。
-- - 1944 年：第二次世界大战：根据芬兰停战条约的规定，Lotta Svärd 运动在继续战争后被解散。
+- - 2023 年：纪念 David Oluwale 的 Hibiscus Rising 在利兹揭幕。
+- - 2022年：导致悬浮议会的大选五天后，反对党领袖、前副总理安瓦尔·易卜拉欣被正式任命为马来西亚第十任总理。
+- - 2017 年：埃及北西奈省 Al-Rawda 清真寺发生恐怖袭击，造成 311 人死亡、128 人受伤。
+- - 2016年：哥伦比亚政府和哥伦比亚革命武装力量人民军签署修订后的和平协议，结束了该国长达50多年的内战。
+- - 2015年：突尼斯首都突尼斯一辆载有突尼斯总统卫队人员的巴士发生爆炸，造成至少14人死亡。
+- - 2015 年：埃及阿里什一家酒店发生恐怖袭击，造成至少 7 人死亡、12 人受伤。
+- - 2015年：俄罗斯空军一架苏霍伊Su-24战斗机在叙利亚-土耳其边境上空被土耳其空军击落，两名飞行员之一丧生；一名俄罗斯海军陆战队员也在随后的救援行动中丧生。
+- - 2013年：伊朗与P5+1国家签署临时协议，限制其核计划以换取减少制裁。
+- - 2012 年：孟加拉国达卡一家服装厂发生火灾，造成至少 112 人死亡。
+- - 2009 年：Avdhela 项目在罗马尼亚布加勒斯特成立，这是一个罗马尼亚数字图书馆和文化倡议。
+- - 2001 年：十字航空 3597 号航班在苏黎世机场附近的巴瑟斯多夫坠毁，造成 24 人死亡，其中包括歌手梅兰妮·桑顿和德国乐队 Passion Fruit 的两名成员。
+- - 1992年：中国南方航空3943航班在飞往中国桂林七峰岭机场时坠毁，机上141人全部遇难。
+- - 1991 年：航天飞机计划：亚特兰蒂斯号在 STS-44 上发射。
+- - 1989 年：针对被称为“天鹅绒革命”的共产主义政权的大规模抗议活动持续一周后，米洛什·杰克斯和整个捷克斯洛伐克共产党政治局辞职。这有效地结束了捷克斯洛伐克的共产党统治。
+- - 1976 年：土耳其东部的 Çaldıran-Muradiye 地震造成 4,000 至 5,000 人死亡。
+- - 1974 年：唐纳德·约翰逊 (Donald Johanson) 和汤姆·格雷 (Tom Gray) 在埃塞俄比亚阿法尔洼地的阿瓦什山谷发现了 40% 完整的南方古猿阿法种骨架，绰号“露西”（源自披头士乐队的歌曲“钻石天空中的露西”）。
+- - 1973 年：由于 1973 年石油危机，德国对高速公路实行全国限速。限速仅持续四个月。
+- - 1971 年：华盛顿州上空遭遇严重雷暴，一名自称丹·库珀（又名 D.B. 库珀）的劫机者带着 20 万美元的赎金从西北东方航空公司的飞机上跳伞。他从未被发现。
+- - 1969 年：阿波罗计划：阿波罗 12 号指挥舱安全落入太平洋，结束了第二次载人登月任务。
+- - 1966 年：保加利亚 TABSO 101 航班在捷克斯洛伐克布拉迪斯拉发附近坠毁，机上 82 人全部遇难。
+- - 1965年：约瑟夫-德西雷·蒙博托在刚果民主共和国夺取政权并成为总统；他统治这个国家（1971 年更名为扎伊尔）30 多年，直到 1997 年被叛乱分子推翻。
+- - 1963 年：暗杀约翰·F·肯尼迪总统的李·哈维·奥斯瓦尔德在电视直播中被杰克·鲁比杀死。罗伯特·H·杰克逊 (Robert H. Jackson) 拍摄的这次枪击事件照片将赢得 1964 年普利策摄影奖。
+- - 1962年：颇具影响力的英国讽刺电视节目《That Was the Week That Was》首播。
+- - 1962年：冷战：德国统一社会党西柏林支部成立一个独立政党，西柏林统一社会党。
+- - 1944 年：第二次世界大战：第 73 轰炸联队从北马里亚纳群岛对东京发动首次攻击。
+- - 1943 年：第二次世界大战：在马金战役中，美国海军利斯科姆湾号在塔拉瓦附近被鱼雷击沉，造成 650 人死亡。
+- - 1941 年：第二次世界大战：美国向自由法国军队提供租借法案。
+- - 1940 年：第二次世界大战：斯洛伐克第一共和国成为三方条约的签署国，正式加入轴心国。
+- - 1935年：塞内加尔社会党召开第二次代表大会。
+- - 1932 年：在华盛顿特区，联邦调查局科学犯罪侦查实验室（更广为人知的名称是联邦调查局犯罪实验室）正式成立。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-23 02:03:09 UTC）*
+*（更新于: 2025-11-24 01:57:08 UTC）*
