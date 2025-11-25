@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: Hibiscus Rising, commemorating David Oluwale, is unveiled in Leeds.
-- 2022: Five days after the general elections which resulted in a hung parliament, opposition leader and former deputy prime minister Anwar Ibrahim is officially named as the 10th prime minister of Malaysia.
-- 2017: A terrorist attack on a Mosque in Al-Rawda, North Sinai, Egypt kills 311 people and injures 128.
-- 2016: The government of Colombia and the Revolutionary Armed Forces of Colombia-People's Army sign a revised peace deal, bringing an end to the country's more than 50-year-long civil war.
-- 2015: An explosion on a bus carrying Tunisian Presidential Guard personnel in Tunisia's capital Tunis leaves at least 14 people dead.
-- 2015: A terrorist attack on a hotel in Al-Arish, Egypt, kills at least seven people and injures 12 others.
-- 2015: A Russian Air Force Sukhoi Su-24 fighter jet is shot down by the Turkish Air Force over the Syria-Turkey border, killing one of the two pilots; a Russian marine is also killed during a subsequent rescue effort.
-- 2013: Iran signs an interim agreement with the P5+1 countries, limiting its nuclear program in exchange for reduced sanctions.
-- 2012: A fire at a clothing factory in Dhaka, Bangladesh, kills at least 112 people.
-- 2009: The Avdhela Project, an Aromanian digital library and cultural initiative, is founded in Bucharest, Romania.
-- 2001: Crossair Flight 3597 crashes in Bassersdorf near Zurich Airport, killing 24 people, including singer Melanie Thornton and two members of the German band Passion Fruit.
-- 1992: China Southern Airlines Flight 3943 crashes on approach to Guilin Qifengling Airport in Guilin, China, killing all 141 people on board.
-- 1991: Space Shuttle program: Atlantis launches on STS-44.
-- 1989: After a week of mass protests against the Communist regime known as the Velvet Revolution, Miloš Jakeš and the entire Politburo of the Czechoslovak Communist Party resign from office.  This brings an effective end to Communist rule in Czechoslovakia.
-- 1976: The Çaldıran-Muradiye earthquake in eastern Turkey kills between 4,000 and 5,000 people.
-- 1974: Donald Johanson and Tom Gray discover the 40% complete Australopithecus afarensis skeleton, nicknamed "Lucy" (after The Beatles song "Lucy in the Sky with Diamonds"), in the Awash Valley of Ethiopia's Afar Depression.
-- 1973: A national speed limit is imposed on the Autobahn in Germany because of the 1973 oil crisis. The speed limit lasts only four months.
-- 1971: During a severe thunderstorm over Washington state, a hijacker calling himself Dan Cooper (aka D. B. Cooper) parachutes from a Northwest Orient Airlines plane with $200,000 in ransom money. He has never been found.
-- 1969: Apollo program: The Apollo 12 command module splashes down safely in the Pacific Ocean, ending the second crewed mission to land on the Moon.
-- 1966: Bulgarian TABSO Flight 101 crashes near Bratislava, Czechoslovakia, killing all 82 people on board.
-- 1965: Joseph-Désiré Mobutu seizes power in the Democratic Republic of the Congo and becomes President; he rules the country (which he renames Zaire in 1971) for over 30 years, until being overthrown by rebels in 1997.
-- 1963: Lee Harvey Oswald, the assassin of President John F. Kennedy, is killed by Jack Ruby on live television. Robert H. Jackson takes a photograph of the shooting that will win the 1964 Pulitzer Prize in Photography.
-- 1962: The influential British satirical television programme That Was the Week That Was is first broadcast.
-- 1962: Cold War: The West Berlin branch of the Socialist Unity Party of Germany forms a separate party, the Socialist Unity Party of West Berlin.
-- 1944: World War II: The 73rd Bombardment Wing launches the first attack on Tokyo from the Northern Mariana Islands.
-- 1943: World War II: At the battle of Makin the USS Liscome Bay is torpedoed near Tarawa and sinks, killing 650 men.
-- 1941: World War II: The United States grants Lend-Lease to the Free French Forces.
-- 1940: World War II: The First Slovak Republic becomes a signatory to the Tripartite Pact, officially joining the Axis powers.
-- 1935: The Senegalese Socialist Party holds its second congress.
-- 1932: In Washington, D.C., the FBI Scientific Crime Detection Laboratory (better known as the FBI Crime Lab) officially opens.
+- 2009: Jeddah floods: Freak rains swamp the city of Jeddah, Saudi Arabia, during an ongoing Hajj pilgrimage. Three thousand cars are swept away and 122 people perish in the torrents, with 350 others missing.
+- 2008: Cyclone Nisha strikes northern Sri Lanka, killing 15 people and displacing 90,000 others while dealing the region the highest rainfall in nine decades.
+- 2000: The 2000 Baku earthquake, with a Richter magnitude of 7.0, leaves 26 people dead in Baku, Azerbaijan, and becomes the strongest earthquake in the region in 158 years.
+- 1999: A five-year-old Cuban boy, Elián González, is rescued by fishermen while floating in an inner tube off the Florida coast.
+- 1992: The Federal Assembly of Czechoslovakia votes to split the country into the Czech Republic and Slovakia, with effect from January 1, 1993.
+- 1987: Typhoon Nina pummels the Philippines with category 5 winds of 265 km/h (165 mph) and a surge that destroys entire villages. At least 1,036 deaths are attributed to the storm.
+- 1986: The King Fahd Causeway is officially opened in the Persian Gulf.
+- 1986: Iran-Contra affair: U.S. Attorney General Edwin Meese announces that profits from covert weapons sales to Iran were illegally diverted to the anti-communist Contra rebels in Nicaragua.
+- 1985: A Soviet Air Force Antonov An-12 is shot down near Menongue in Angola's Cuando Cubango Province, killing 21.
+- 1984: Thirty-six top musicians gather in a Notting Hill studio and record Band Aid's "Do They Know It's Christmas?" in order to raise money for famine relief in Ethiopia.
+- 1981: Pope John Paul II appoints Joseph Cardinal Ratzinger (the future Pope Benedict XVI) Prefect of the Congregation for the Doctrine of the Faith.
+- 1980: Sangoulé Lamizana, president of Upper Volta, is ousted from power in a coup d'état led by Colonel Saye Zerbo.
+- 1977: Former Senator Benigno Aquino Jr., is found guilty by the Philippine Military Commission No. 2 and is sentenced to death by firing squad. He is later assassinated in 1983.
+- 1975: Suriname gains independence from the Netherlands.
+- 1975: Coup of 25 November 1975, a failed military coup d'état by Portuguese far-left activists seeking to hijack the  Portuguese transition to democracy to establishment a communist regime.
+- 1973: Georgios Papadopoulos, head of the military Regime of the Colonels in Greece, is ousted in a hardliners' coup led by Brigadier General Dimitrios Ioannidis.
+- 1970: In Japan, author Yukio Mishima and one compatriot commit ritualistic seppuku after an unsuccessful coup attempt.
+- 1968: The Old Student House in Helsinki, Finland is occupied by a large group of University of Helsinki students.
+- 1963: State funeral of John F. Kennedy; after lying in state at the United States Capitol, a Requiem Mass takes place at Cathedral of St. Matthew the Apostle and the President is buried at Arlington National Cemetery.
+- 1960: The Mirabal sisters of the Dominican Republic are assassinated.
+- 1958: French Sudan gains autonomy as a self-governing member of the French Community.
+- 1952: Korean War: After 42 days of fighting, the Battle of Triangle Hill ends in a Chinese victory. American and South Korean units abandon their attempt to capture the "Iron Triangle".
+- 1952: Agatha Christie's murder-mystery play The Mousetrap opens at the Ambassadors Theatre in London's West End after a premiere in Nottingham, UK.  It will become the longest continuously running play in history.
+- 1950: The Great Appalachian Storm of 1950 impacts 22 American states, killing 353 people, injuring over 160, and causing US$66.7 million in damages (1950 dollars).
+- 1947: New Zealand ratifies the Statute of Westminster and thus becomes independent of legislative control by the United Kingdom.
+- 1947: Red Scare: The "Hollywood Ten" are blacklisted by Hollywood movie studios.
+- 1943: World War II: Statehood of Bosnia and Herzegovina is re-established at the State Anti-fascist Council for the National Liberation of Bosnia and Herzegovina.
+- 1941: HMS Barham is sunk by a German torpedo during World War II.
+- 1936: In Berlin, Germany and Japan sign the Anti-Comintern Pact, agreeing to consult on measures "to safeguard their common interests" in the case of an unprovoked attack by the Soviet Union against either nation.
+- 1931: Wilhelm Schäfer leaves the Nazi Party and hands over the Boxheim Documents to the Frankfurt police.
 
 Data from muffinlabs
-*(Updated at: 2025-11-24 01:57:08 UTC)*
+*(Updated at: 2025-11-25 01:50:47 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：纪念 David Oluwale 的 Hibiscus Rising 在利兹揭幕。
-- - 2022年：导致悬浮议会的大选五天后，反对党领袖、前副总理安瓦尔·易卜拉欣被正式任命为马来西亚第十任总理。
-- - 2017 年：埃及北西奈省 Al-Rawda 清真寺发生恐怖袭击，造成 311 人死亡、128 人受伤。
-- - 2016年：哥伦比亚政府和哥伦比亚革命武装力量人民军签署修订后的和平协议，结束了该国长达50多年的内战。
-- - 2015年：突尼斯首都突尼斯一辆载有突尼斯总统卫队人员的巴士发生爆炸，造成至少14人死亡。
-- - 2015 年：埃及阿里什一家酒店发生恐怖袭击，造成至少 7 人死亡、12 人受伤。
-- - 2015年：俄罗斯空军一架苏霍伊Su-24战斗机在叙利亚-土耳其边境上空被土耳其空军击落，两名飞行员之一丧生；一名俄罗斯海军陆战队员也在随后的救援行动中丧生。
-- - 2013年：伊朗与P5+1国家签署临时协议，限制其核计划以换取减少制裁。
-- - 2012 年：孟加拉国达卡一家服装厂发生火灾，造成至少 112 人死亡。
-- - 2009 年：Avdhela 项目在罗马尼亚布加勒斯特成立，这是一个罗马尼亚数字图书馆和文化倡议。
-- - 2001 年：十字航空 3597 号航班在苏黎世机场附近的巴瑟斯多夫坠毁，造成 24 人死亡，其中包括歌手梅兰妮·桑顿和德国乐队 Passion Fruit 的两名成员。
-- - 1992年：中国南方航空3943航班在飞往中国桂林七峰岭机场时坠毁，机上141人全部遇难。
-- - 1991 年：航天飞机计划：亚特兰蒂斯号在 STS-44 上发射。
-- - 1989 年：针对被称为“天鹅绒革命”的共产主义政权的大规模抗议活动持续一周后，米洛什·杰克斯和整个捷克斯洛伐克共产党政治局辞职。这有效地结束了捷克斯洛伐克的共产党统治。
-- - 1976 年：土耳其东部的 Çaldıran-Muradiye 地震造成 4,000 至 5,000 人死亡。
-- - 1974 年：唐纳德·约翰逊 (Donald Johanson) 和汤姆·格雷 (Tom Gray) 在埃塞俄比亚阿法尔洼地的阿瓦什山谷发现了 40% 完整的南方古猿阿法种骨架，绰号“露西”（源自披头士乐队的歌曲“钻石天空中的露西”）。
-- - 1973 年：由于 1973 年石油危机，德国对高速公路实行全国限速。限速仅持续四个月。
-- - 1971 年：华盛顿州上空遭遇严重雷暴，一名自称丹·库珀（又名 D.B. 库珀）的劫机者带着 20 万美元的赎金从西北东方航空公司的飞机上跳伞。他从未被发现。
-- - 1969 年：阿波罗计划：阿波罗 12 号指挥舱安全落入太平洋，结束了第二次载人登月任务。
-- - 1966 年：保加利亚 TABSO 101 航班在捷克斯洛伐克布拉迪斯拉发附近坠毁，机上 82 人全部遇难。
-- - 1965年：约瑟夫-德西雷·蒙博托在刚果民主共和国夺取政权并成为总统；他统治这个国家（1971 年更名为扎伊尔）30 多年，直到 1997 年被叛乱分子推翻。
-- - 1963 年：暗杀约翰·F·肯尼迪总统的李·哈维·奥斯瓦尔德在电视直播中被杰克·鲁比杀死。罗伯特·H·杰克逊 (Robert H. Jackson) 拍摄的这次枪击事件照片将赢得 1964 年普利策摄影奖。
-- - 1962年：颇具影响力的英国讽刺电视节目《That Was the Week That Was》首播。
-- - 1962年：冷战：德国统一社会党西柏林支部成立一个独立政党，西柏林统一社会党。
-- - 1944 年：第二次世界大战：第 73 轰炸联队从北马里亚纳群岛对东京发动首次攻击。
-- - 1943 年：第二次世界大战：在马金战役中，美国海军利斯科姆湾号在塔拉瓦附近被鱼雷击沉，造成 650 人死亡。
-- - 1941 年：第二次世界大战：美国向自由法国军队提供租借法案。
-- - 1940 年：第二次世界大战：斯洛伐克第一共和国成为三方条约的签署国，正式加入轴心国。
-- - 1935年：塞内加尔社会党召开第二次代表大会。
-- - 1932 年：在华盛顿特区，联邦调查局科学犯罪侦查实验室（更广为人知的名称是联邦调查局犯罪实验室）正式成立。
+- - 2009 年：吉达洪水：在正在进行的朝觐期间，异常的降雨淹没了沙特阿拉伯吉达市。3000 辆汽车被卷走，122 人在洪流中丧生，另有 350 人失踪。
+- - 2008 年：飓风“尼莎”袭击斯里兰卡北部，造成 15 人死亡、9 万人流离失所，同时给该地区带来了 9 年来最高的降雨量。
+- - 2000年：2000年阿塞拜疆巴库发生里氏7.0级地震，造成26人死亡，成为该地区158年来最强烈的地震。
+- - 1999 年：一名五岁的古巴男孩埃利安·冈萨雷斯 (Elián González) 在佛罗里达海岸附近的内胎中漂浮时被渔民救起。
+- - 1992年：捷克斯洛伐克联邦议会投票决定将国家分裂为捷克共和国和斯洛伐克，自1993年1月1日起生效。
+- - 1987 年：台风尼娜以 265 公里/小时（165 英里/小时）的 5 级风袭击菲律宾，海浪摧毁了整个村庄。这场风暴至少造成 1,036 人死亡。
+- - 1986 年：波斯湾法赫德国王堤道正式启用。
+- - 1986 年：伊朗门事件：美国司法部长埃德温·米斯宣布，向伊朗秘密出售武器的利润被非法转移给尼加拉瓜的反共反对派叛军。
+- - 1985 年：一架苏联空军安东诺夫 An-12 在安哥拉宽多库班戈省梅农盖附近被击落，造成 21 人死亡。
+- - 1984 年：36 位顶级音乐家齐聚诺丁山录音室，录制 Band Aid 的“Do They Know It's Christmas?”为埃塞俄比亚的饥荒筹集资金。
+- - 1981年：教皇约翰·保罗二世任命约瑟夫·红衣主教拉辛格（未来的教皇本笃十六世）为信仰教义部部长。
+- - 1980 年：上沃尔特总统桑古莱·拉米扎纳 (Sangoulé Lamizana) 在萨耶·泽博 (Saye Zerbo) 上校领导的政变中被赶下台。
+- - 1977年：前参议员小贝尼尼奥·阿基诺被菲律宾第二军事委员会判定有罪，并被行刑队判处死刑。他后来于 1983 年被暗杀。
+- - 1975 年：苏里南从荷兰独立。
+- - 1975年：1975年11月25日政变，葡萄牙极左活动人士发起的军事政变，试图劫持葡萄牙民主过渡以建立共产主义政权，但未遂。
+- - 1973 年：希腊上校军事政权首脑乔治斯·帕帕佐普洛斯 (Georgios Papadopoulos) 在迪米特里奥斯·约阿尼迪斯 (Dimitrios Ioannidis) 准将领导的强硬派政变中被赶下台。
+- - 1970 年：在日本，作家三岛由纪夫和一名同胞在一次未成功的政变后进行了切腹仪式。
+- - 1968 年：芬兰赫尔辛基的老学生宿舍被一大群赫尔辛基大学的学生占据。
+- - 1963年：约翰·F·肯尼迪的国葬；在美国国会大厦安息后，在使徒圣马太大教堂举行安魂弥撒，总统被埋葬在阿灵顿国家公墓。
+- - 1960 年：多米尼加共和国的米拉巴尔姐妹被暗杀。
+- - 1958 年：法属苏丹作为法属共同体的自治成员获得自治权。
+- - 1952年：朝鲜战争：经过42天的战斗，三角山之战以中国胜利告终。美国和韩国部队放弃了夺取“铁三角”的企图。
+- - 1952 年：阿加莎·克里斯蒂的谋杀悬疑剧《捕鼠器》在英国诺丁汉首演后，在伦敦西区的大使剧院上演。这将成为历史上连续上演时间最长的戏剧。
+- - 1950 年：1950 年阿巴拉契亚大风暴影响了美国 22 个州，造成 353 人死亡、160 多人受伤，造成 6670 万美元的损失（1950 年美元）。
+- - 1947 年：新西兰批准《威斯敏斯特规约》，从而独立于英国的立法控制。
+- - 1947 年：红色恐慌：“好莱坞十人组”被好莱坞电影制片厂列入黑名单。
+- - 1943 年：第二次世界大战：波斯尼亚和黑塞哥维那国家反法西斯委员会为波斯尼亚和黑塞哥维那民族解放重新建立国家地位。
+- - 1941 年：第二次世界大战期间，HMS Barham 被德国鱼雷击沉。
+- - 1936年：德国和日本在柏林签署《反共产国际条约》，同意在苏联对任何一个国家发动无端攻击的情况下就“维护共同利益”的措施进行磋商。
+- - 1931 年：Wilhelm Schäfer 离开纳粹党，并将博克斯海姆文件移交给法兰克福警方。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-24 01:57:08 UTC）*
+*（更新于: 2025-11-25 01:50:47 UTC）*
