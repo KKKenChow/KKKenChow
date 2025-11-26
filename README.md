@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2009: Jeddah floods: Freak rains swamp the city of Jeddah, Saudi Arabia, during an ongoing Hajj pilgrimage. Three thousand cars are swept away and 122 people perish in the torrents, with 350 others missing.
-- 2008: Cyclone Nisha strikes northern Sri Lanka, killing 15 people and displacing 90,000 others while dealing the region the highest rainfall in nine decades.
-- 2000: The 2000 Baku earthquake, with a Richter magnitude of 7.0, leaves 26 people dead in Baku, Azerbaijan, and becomes the strongest earthquake in the region in 158 years.
-- 1999: A five-year-old Cuban boy, Elián González, is rescued by fishermen while floating in an inner tube off the Florida coast.
-- 1992: The Federal Assembly of Czechoslovakia votes to split the country into the Czech Republic and Slovakia, with effect from January 1, 1993.
-- 1987: Typhoon Nina pummels the Philippines with category 5 winds of 265 km/h (165 mph) and a surge that destroys entire villages. At least 1,036 deaths are attributed to the storm.
-- 1986: The King Fahd Causeway is officially opened in the Persian Gulf.
-- 1986: Iran-Contra affair: U.S. Attorney General Edwin Meese announces that profits from covert weapons sales to Iran were illegally diverted to the anti-communist Contra rebels in Nicaragua.
-- 1985: A Soviet Air Force Antonov An-12 is shot down near Menongue in Angola's Cuando Cubango Province, killing 21.
-- 1984: Thirty-six top musicians gather in a Notting Hill studio and record Band Aid's "Do They Know It's Christmas?" in order to raise money for famine relief in Ethiopia.
-- 1981: Pope John Paul II appoints Joseph Cardinal Ratzinger (the future Pope Benedict XVI) Prefect of the Congregation for the Doctrine of the Faith.
-- 1980: Sangoulé Lamizana, president of Upper Volta, is ousted from power in a coup d'état led by Colonel Saye Zerbo.
-- 1977: Former Senator Benigno Aquino Jr., is found guilty by the Philippine Military Commission No. 2 and is sentenced to death by firing squad. He is later assassinated in 1983.
-- 1975: Suriname gains independence from the Netherlands.
-- 1975: Coup of 25 November 1975, a failed military coup d'état by Portuguese far-left activists seeking to hijack the  Portuguese transition to democracy to establishment a communist regime.
-- 1973: Georgios Papadopoulos, head of the military Regime of the Colonels in Greece, is ousted in a hardliners' coup led by Brigadier General Dimitrios Ioannidis.
-- 1970: In Japan, author Yukio Mishima and one compatriot commit ritualistic seppuku after an unsuccessful coup attempt.
-- 1968: The Old Student House in Helsinki, Finland is occupied by a large group of University of Helsinki students.
-- 1963: State funeral of John F. Kennedy; after lying in state at the United States Capitol, a Requiem Mass takes place at Cathedral of St. Matthew the Apostle and the President is buried at Arlington National Cemetery.
-- 1960: The Mirabal sisters of the Dominican Republic are assassinated.
-- 1958: French Sudan gains autonomy as a self-governing member of the French Community.
-- 1952: Korean War: After 42 days of fighting, the Battle of Triangle Hill ends in a Chinese victory. American and South Korean units abandon their attempt to capture the "Iron Triangle".
-- 1952: Agatha Christie's murder-mystery play The Mousetrap opens at the Ambassadors Theatre in London's West End after a premiere in Nottingham, UK.  It will become the longest continuously running play in history.
-- 1950: The Great Appalachian Storm of 1950 impacts 22 American states, killing 353 people, injuring over 160, and causing US$66.7 million in damages (1950 dollars).
-- 1947: New Zealand ratifies the Statute of Westminster and thus becomes independent of legislative control by the United Kingdom.
-- 1947: Red Scare: The "Hollywood Ten" are blacklisted by Hollywood movie studios.
-- 1943: World War II: Statehood of Bosnia and Herzegovina is re-established at the State Anti-fascist Council for the National Liberation of Bosnia and Herzegovina.
-- 1941: HMS Barham is sunk by a German torpedo during World War II.
-- 1936: In Berlin, Germany and Japan sign the Anti-Comintern Pact, agreeing to consult on measures "to safeguard their common interests" in the case of an unprovoked attack by the Soviet Union against either nation.
-- 1931: Wilhelm Schäfer leaves the Nazi Party and hands over the Boxheim Documents to the Frankfurt police.
+- 2021: COVID-19 pandemic: The World Health Organization identifies the SARS-CoV-2 Omicron variant.
+- 2019: A magnitude 6.4 earthquake strikes western Albania leaving at least 52 people dead and over 1,000 injured. This was the world's deadliest earthquake of 2019, and the deadliest to strike the country in 99 years.
+- 2018: The robotic probe Insight lands on Elysium Planitia, Mars.
+- 2011: The Mars Science Laboratory launches to Mars with the Curiosity Rover.
+- 2011: NATO attack in Pakistan: NATO forces in Afghanistan attack a Pakistani check post in a friendly fire incident, killing 24 soldiers and wounding 13 others.
+- 2008: The ocean liner Queen Elizabeth 2, now out of service, docks in Dubai.
+- 2008: Mumbai attacks, a series of terrorist attacks killing approximately 175 citizens by 10 members of Lashkar-e-Taiba, a Pakistan based extremist Islamist terrorist organisation.
+- 2004: The last Poʻouli (Black-faced honeycreeper) dies of avian malaria in the Maui Bird Conservation Center in Olinda, Hawaii, before it could breed, making the species in all probability extinct.
+- 2004: Ruzhou School massacre: A man stabs and kills eight people and seriously wounds another four in a school dormitory in Ruzhou, China.
+- 2003: The Concorde makes its final flight, over Bristol, England.
+- 2000: George W. Bush is certified the winner of Florida's electoral votes by Katherine Harris, going on to win the United States presidential election, despite losing in the national popular vote.
+- 1999: The 7.5 Mw  Ambrym earthquake shakes Vanuatu and a destructive tsunami follows. Ten people were killed and forty were injured.
+- 1998: The Khanna rail disaster takes 212 lives in Khanna, Ludhiana, India.
+- 1998: Tony Blair becomes the first Prime Minister of the United Kingdom to address the Oireachtas, the parliament of the Republic of Ireland.
+- 1991: National Assembly of Azerbaijan abolishes the autonomous status of Nagorno-Karabakh Autonomous Oblast of Azerbaijan and renames several cities with Azeri names.
+- 1986: The trial of John Demjanjuk, accused of committing war crimes as a guard at the Nazi Treblinka extermination camp, starts in Jerusalem.
+- 1986: Iran-Contra affair: U.S. President Ronald Reagan announces the members of what will become known as the Tower Commission.
+- 1983: Brink's-Mat robbery: In London, 6,800 gold bars worth nearly £26 million are stolen from the Brink's-Mat vault at Heathrow Airport.
+- 1979: Pakistan International Airlines Flight 740 crashes near Taif in Mecca Province, Saudi Arabia, killing all 156 people on board.
+- 1977: An unidentified hijacker named Vrillon, claiming to be the representative of the "Ashtar Galactic Command", takes over Britain's Southern Television for six minutes, starting at 5:12 pm.
+- 1970: In Basse-Terre, Guadeloupe, 38 millimetres (1.5 in) of rain fall in a minute, the heaviest rainfall ever recorded.
+- 1968: Vietnam War: United States Air Force helicopter pilot James P. Fleming rescues an Army Special Forces unit pinned down by Viet Cong fire. He is later awarded the Medal of Honor.
+- 1965: France launches Astérix, becoming the third nation to put an object in orbit using its own booster.
+- 1950: Korean War: Communist Chinese troops launch a massive counterattack (Battle of the Ch'ongch'on River and Battle of Chosin Reservoir) against United Nations and South Korean forces.
+- 1949: The Constituent Assembly of India adopts the constitution presented by Dr. B. R. Ambedkar.
+- 1944: World War II: Germany begins V-1 and V-2 attacks on Antwerp, Belgium.
+- 1944: World War II: A German V-2 rocket hits a Woolworth's shop in New Cross, London, killing 168 people.
+- 1943: World War II: HMT Rohna is sunk by the Luftwaffe in an air attack in the Mediterranean north of Béjaïa, Algeria.
+- 1942: A riot involving infantrymen, military police, and local law enforcement officers occurs in Phoenix, Arizona, United States, leading to three deaths.
+- 1942: Casablanca, the movie starring Humphrey Bogart and Ingrid Bergman, premieres in New York City.
 
 Data from muffinlabs
-*(Updated at: 2025-11-25 01:50:47 UTC)*
+*(Updated at: 2025-11-26 01:50:46 UTC)*
 
 # 历史上的今天 
 
-- - 2009 年：吉达洪水：在正在进行的朝觐期间，异常的降雨淹没了沙特阿拉伯吉达市。3000 辆汽车被卷走，122 人在洪流中丧生，另有 350 人失踪。
-- - 2008 年：飓风“尼莎”袭击斯里兰卡北部，造成 15 人死亡、9 万人流离失所，同时给该地区带来了 9 年来最高的降雨量。
-- - 2000年：2000年阿塞拜疆巴库发生里氏7.0级地震，造成26人死亡，成为该地区158年来最强烈的地震。
-- - 1999 年：一名五岁的古巴男孩埃利安·冈萨雷斯 (Elián González) 在佛罗里达海岸附近的内胎中漂浮时被渔民救起。
-- - 1992年：捷克斯洛伐克联邦议会投票决定将国家分裂为捷克共和国和斯洛伐克，自1993年1月1日起生效。
-- - 1987 年：台风尼娜以 265 公里/小时（165 英里/小时）的 5 级风袭击菲律宾，海浪摧毁了整个村庄。这场风暴至少造成 1,036 人死亡。
-- - 1986 年：波斯湾法赫德国王堤道正式启用。
-- - 1986 年：伊朗门事件：美国司法部长埃德温·米斯宣布，向伊朗秘密出售武器的利润被非法转移给尼加拉瓜的反共反对派叛军。
-- - 1985 年：一架苏联空军安东诺夫 An-12 在安哥拉宽多库班戈省梅农盖附近被击落，造成 21 人死亡。
-- - 1984 年：36 位顶级音乐家齐聚诺丁山录音室，录制 Band Aid 的“Do They Know It's Christmas?”为埃塞俄比亚的饥荒筹集资金。
-- - 1981年：教皇约翰·保罗二世任命约瑟夫·红衣主教拉辛格（未来的教皇本笃十六世）为信仰教义部部长。
-- - 1980 年：上沃尔特总统桑古莱·拉米扎纳 (Sangoulé Lamizana) 在萨耶·泽博 (Saye Zerbo) 上校领导的政变中被赶下台。
-- - 1977年：前参议员小贝尼尼奥·阿基诺被菲律宾第二军事委员会判定有罪，并被行刑队判处死刑。他后来于 1983 年被暗杀。
-- - 1975 年：苏里南从荷兰独立。
-- - 1975年：1975年11月25日政变，葡萄牙极左活动人士发起的军事政变，试图劫持葡萄牙民主过渡以建立共产主义政权，但未遂。
-- - 1973 年：希腊上校军事政权首脑乔治斯·帕帕佐普洛斯 (Georgios Papadopoulos) 在迪米特里奥斯·约阿尼迪斯 (Dimitrios Ioannidis) 准将领导的强硬派政变中被赶下台。
-- - 1970 年：在日本，作家三岛由纪夫和一名同胞在一次未成功的政变后进行了切腹仪式。
-- - 1968 年：芬兰赫尔辛基的老学生宿舍被一大群赫尔辛基大学的学生占据。
-- - 1963年：约翰·F·肯尼迪的国葬；在美国国会大厦安息后，在使徒圣马太大教堂举行安魂弥撒，总统被埋葬在阿灵顿国家公墓。
-- - 1960 年：多米尼加共和国的米拉巴尔姐妹被暗杀。
-- - 1958 年：法属苏丹作为法属共同体的自治成员获得自治权。
-- - 1952年：朝鲜战争：经过42天的战斗，三角山之战以中国胜利告终。美国和韩国部队放弃了夺取“铁三角”的企图。
-- - 1952 年：阿加莎·克里斯蒂的谋杀悬疑剧《捕鼠器》在英国诺丁汉首演后，在伦敦西区的大使剧院上演。这将成为历史上连续上演时间最长的戏剧。
-- - 1950 年：1950 年阿巴拉契亚大风暴影响了美国 22 个州，造成 353 人死亡、160 多人受伤，造成 6670 万美元的损失（1950 年美元）。
-- - 1947 年：新西兰批准《威斯敏斯特规约》，从而独立于英国的立法控制。
-- - 1947 年：红色恐慌：“好莱坞十人组”被好莱坞电影制片厂列入黑名单。
-- - 1943 年：第二次世界大战：波斯尼亚和黑塞哥维那国家反法西斯委员会为波斯尼亚和黑塞哥维那民族解放重新建立国家地位。
-- - 1941 年：第二次世界大战期间，HMS Barham 被德国鱼雷击沉。
-- - 1936年：德国和日本在柏林签署《反共产国际条约》，同意在苏联对任何一个国家发动无端攻击的情况下就“维护共同利益”的措施进行磋商。
-- - 1931 年：Wilhelm Schäfer 离开纳粹党，并将博克斯海姆文件移交给法兰克福警方。
+- - 2021 年：COVID-19 大流行：世界卫生组织识别出 SARS-CoV-2 Omicron 变种。
+- - 2019 年：阿尔巴尼亚西部发生 6.4 级地震，造成至少 52 人死亡、1,000 多人受伤。这是 2019 年世界上最严重的地震，也是该国 99 年来最严重的地震。
+- - 2018 年：洞察号机器人探测器登陆火星极乐世界。
+- - 2011 年：火星科学实验室随好奇号火星车发射到火星。
+- - 2011年：北约在巴基斯坦的袭击：北约驻阿富汗部队在一次误伤事件中袭击了巴基斯坦的一个检查站，造成24名士兵死亡、13人受伤。
+- - 2008 年：现已退役的远洋客轮伊丽莎白女王 2 号停靠在迪拜。
+- - 2008 年：孟买袭击，这是巴基斯坦极端伊斯兰恐怖组织虔诚军 10 名成员发动的一系列恐怖袭击，造成约 175 名公民死亡。
+- - 2004 年：夏威夷奥林达毛伊岛鸟类保护中心的最后一只黑脸蜜旋鸟在繁殖前就死于禽疟疾，导致该物种很可能灭绝。
+- - 2004年：汝州学校惨案：一名男子在中国汝州一所学校宿舍刺杀八人，并重伤四人。
+- - 2003 年：协和式飞机在英国布里斯托尔上空进行最后一次飞行。
+- - 2000 年：乔治·W·布什 (George W. Bush) 被凯瑟琳·哈里斯 (Katherine Harris) 认证为佛罗里达州选举人票的获胜者，尽管在全国普选中落败，但他继续赢得美国总统选举。
+- - 1999 年：瓦努阿图发生 7.5 兆瓦安布里姆地震，随后发生了破坏性海啸。十人死亡，四十人受伤。
+- - 1998 年：印度卢迪亚纳州卡纳 (Khanna) 铁路灾难夺去了 212 人的生命。
+- - 1998 年：托尼·布莱尔成为第一位向爱尔兰共和国议会发表讲话的英国首相。
+- - 1991年：阿塞拜疆国民议会废除阿塞拜疆纳戈尔诺-卡拉巴赫自治州的自治地位，并用阿塞拜疆语名称重新命名几个城市。
+- - 1986 年：对约翰·德米扬纽克 (John Demjanjuk) 的审判在耶路撒冷开始，他被指控在纳粹特雷布林卡灭绝营担任看守时犯有战争罪。
+- - 1986 年：伊朗门事件：美国总统罗纳德·里根宣布了后来被称为塔尔委员会的成员。
+- - 1983 年：Brink's-Mat 抢劫案：在伦敦，价值近 2600 万英镑的 6,800 根金条从希思罗机场的 Brink's-Mat 金库被盗。
+- - 1979 年：巴基斯坦国际航空公司 740 航班在沙特阿拉伯麦加省塔伊夫附近坠毁，机上 156 人全部遇难。
+- - 1977 年：一名名叫 Vrillon 的身份不明的劫机者，自称是“阿斯塔银河司令部”的代表，从下午 5 点 12 分开始接管英国南方电视台，持续六分钟。
+- - 1970 年：瓜德罗普岛巴斯特尔每分钟降雨量达 38 毫米（1.5 英寸），这是有记录以来的最大降雨量。
+- - 1968 年：越南战争：美国空军直升机飞行员詹姆斯·P·弗莱明 (James P. Fleming) 营救被越共炮火困住的陆军特种部队。他后来被授予荣誉勋章。
+- - 1965 年：法国发射 Astérix，成为第三个使用自己的助推器将物体送入轨道的国家。
+- - 1950年：朝鲜战争：中国共产党军队对联合国和韩国军队发动大规模反击（清川江战役和长津水库战役）。
+- - 1949 年：印度制宪会议通过 B. R. Ambedkar 博士提出的宪法。
+- - 1944 年：第二次世界大战：德国开始对比利时安特卫普发动 V-1 和 V-2 攻击。
+- - 1944 年：第二次世界大战：一枚德国 V-2 火箭击中伦敦新十字区的一家 Woolworth 商店，造成 168 人死亡。
+- - 1943 年：第二次世界大战：HMT Rohna 在阿尔及利亚贝贾亚北部地中海的一次空袭中被德国空军击沉。
+- - 1942年：美国亚利桑那州凤凰城发生了一场涉及步兵、军警和当地执法人员的骚乱，导致三人死亡。
+- - 1942 年：由亨弗莱·鲍嘉和英格丽·褒曼主演的电影《卡萨布兰卡》在纽约首映。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-25 01:50:47 UTC）*
+*（更新于: 2025-11-26 01:50:46 UTC）*
