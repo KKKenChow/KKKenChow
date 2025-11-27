@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: COVID-19 pandemic: The World Health Organization identifies the SARS-CoV-2 Omicron variant.
-- 2019: A magnitude 6.4 earthquake strikes western Albania leaving at least 52 people dead and over 1,000 injured. This was the world's deadliest earthquake of 2019, and the deadliest to strike the country in 99 years.
-- 2018: The robotic probe Insight lands on Elysium Planitia, Mars.
-- 2011: The Mars Science Laboratory launches to Mars with the Curiosity Rover.
-- 2011: NATO attack in Pakistan: NATO forces in Afghanistan attack a Pakistani check post in a friendly fire incident, killing 24 soldiers and wounding 13 others.
-- 2008: The ocean liner Queen Elizabeth 2, now out of service, docks in Dubai.
-- 2008: Mumbai attacks, a series of terrorist attacks killing approximately 175 citizens by 10 members of Lashkar-e-Taiba, a Pakistan based extremist Islamist terrorist organisation.
-- 2004: The last Poʻouli (Black-faced honeycreeper) dies of avian malaria in the Maui Bird Conservation Center in Olinda, Hawaii, before it could breed, making the species in all probability extinct.
-- 2004: Ruzhou School massacre: A man stabs and kills eight people and seriously wounds another four in a school dormitory in Ruzhou, China.
-- 2003: The Concorde makes its final flight, over Bristol, England.
-- 2000: George W. Bush is certified the winner of Florida's electoral votes by Katherine Harris, going on to win the United States presidential election, despite losing in the national popular vote.
-- 1999: The 7.5 Mw  Ambrym earthquake shakes Vanuatu and a destructive tsunami follows. Ten people were killed and forty were injured.
-- 1998: The Khanna rail disaster takes 212 lives in Khanna, Ludhiana, India.
-- 1998: Tony Blair becomes the first Prime Minister of the United Kingdom to address the Oireachtas, the parliament of the Republic of Ireland.
-- 1991: National Assembly of Azerbaijan abolishes the autonomous status of Nagorno-Karabakh Autonomous Oblast of Azerbaijan and renames several cities with Azeri names.
-- 1986: The trial of John Demjanjuk, accused of committing war crimes as a guard at the Nazi Treblinka extermination camp, starts in Jerusalem.
-- 1986: Iran-Contra affair: U.S. President Ronald Reagan announces the members of what will become known as the Tower Commission.
-- 1983: Brink's-Mat robbery: In London, 6,800 gold bars worth nearly £26 million are stolen from the Brink's-Mat vault at Heathrow Airport.
-- 1979: Pakistan International Airlines Flight 740 crashes near Taif in Mecca Province, Saudi Arabia, killing all 156 people on board.
-- 1977: An unidentified hijacker named Vrillon, claiming to be the representative of the "Ashtar Galactic Command", takes over Britain's Southern Television for six minutes, starting at 5:12 pm.
-- 1970: In Basse-Terre, Guadeloupe, 38 millimetres (1.5 in) of rain fall in a minute, the heaviest rainfall ever recorded.
-- 1968: Vietnam War: United States Air Force helicopter pilot James P. Fleming rescues an Army Special Forces unit pinned down by Viet Cong fire. He is later awarded the Medal of Honor.
-- 1965: France launches Astérix, becoming the third nation to put an object in orbit using its own booster.
-- 1950: Korean War: Communist Chinese troops launch a massive counterattack (Battle of the Ch'ongch'on River and Battle of Chosin Reservoir) against United Nations and South Korean forces.
-- 1949: The Constituent Assembly of India adopts the constitution presented by Dr. B. R. Ambedkar.
-- 1944: World War II: Germany begins V-1 and V-2 attacks on Antwerp, Belgium.
-- 1944: World War II: A German V-2 rocket hits a Woolworth's shop in New Cross, London, killing 168 people.
-- 1943: World War II: HMT Rohna is sunk by the Luftwaffe in an air attack in the Mediterranean north of Béjaïa, Algeria.
-- 1942: A riot involving infantrymen, military police, and local law enforcement officers occurs in Phoenix, Arizona, United States, leading to three deaths.
-- 1942: Casablanca, the movie starring Humphrey Bogart and Ingrid Bergman, premieres in New York City.
+- 2024: Syrian rebel groups led by Hay'at Tahrir al-Sham launch a ground offensive into Syria.
+- 2020: Days after the announcement of its discovery, the Utah monolith is removed by recreationists.
+- 2020: Iran's top nuclear scientist, Mohsen Fakhrizadeh, is assassinated near Tehran.
+- 2015: An active shooter inside a Planned Parenthood facility in Colorado Springs, Colorado, shoots at least four police officers. One officer later dies. Two civilians are also killed, and six injured. The shooter later surrendered.
+- 2009: Nevsky Express bombing: A bomb explodes on the Nevsky Express train between Moscow and Saint Petersburg, derailing it and causing 28 deaths and 96 injuries.
+- 2008: XL Airways Germany Flight 888T: An Airbus A320 performing a flight test crashes near the French commune of Canet-en-Roussillon, killing all seven people on board.
+- 2006: The House of Commons of Canada approves a motion introduced by Prime Minister Stephen Harper recognizing the Québécois as a nation within Canada.
+- 2004: Blackwater 61 crash: A CASA C-212 Aviocar crashes into the Koh-i-Baba mountain range in Afghanistan, killing six.
+- 2004: Pope John Paul II returns the relics of Saint John Chrysostom to the Eastern Orthodox Church.
+- 2001: A hydrogen atmosphere is discovered on the extrasolar planet Osiris by the Hubble Space Telescope, the first atmosphere detected on an extrasolar planet.
+- 1999: The centre-left Labour Party takes control of the New Zealand government with leader Helen Clark becoming the first elected female prime minister in New Zealand's history.
+- 1997: Twenty-five people are killed in the second Souhane massacre in Algeria.
+- 1992: For the second time in a year, military forces try to overthrow president Carlos Andrés Pérez in Venezuela.
+- 1989: Avianca Flight 203: A Boeing 727 explodes in mid-air over Colombia, killing all 107 people on board and three people on the ground. The Medellín Cartel claimed responsibility for the attack.
+- 1984: Under the Brussels Agreement signed between the governments of the United Kingdom and Spain, the former agrees to enter into discussions with Spain over Gibraltar, including sovereignty.
+- 1983: Avianca Flight 011: A Boeing 747 crashes near Madrid's Barajas Airport, killing 181.
+- 1978: The Kurdistan Workers' Party (PKK) is founded in the Turkish village of Fis.
+- 1978: In San Francisco, city mayor George Moscone and openly gay city supervisor Harvey Milk are assassinated by former supervisor Dan White.
+- 1975: The Provisional IRA assassinates Ross McWhirter, after a press conference in which McWhirter had announced a reward for the capture of those responsible for multiple bombings and shootings across England.
+- 1973: Twenty-fifth Amendment: The United States Senate votes 92-3 to confirm Gerald Ford as Vice President of the United States. (On December 6, the House will confirm him 387-35).
+- 1971: The Soviet space program's Mars 2 orbiter releases a descent module. It malfunctions and crashes, but it is the first man-made object to reach the surface of Mars.
+- 1968: Penny Ann Early becomes the first woman to play in a major professional men's basketball league, for the Kentucky Colonels in an ABA game against the Los Angeles Stars.
+- 1965: Vietnam War: The Pentagon tells U.S. President Lyndon B. Johnson that if planned operations are to succeed, the number of American troops in Vietnam has to be increased from 120,000 to 400,000.
+- 1954: Alger Hiss is released from prison after serving 44 months for perjury.
+- 1945: CARE (then the Cooperative for American Remittances to Europe) is founded to send CARE Packages of food relief to Europe after World War II.
+- 1944: World War II: RAF Fauld explosion: An explosion at a Royal Air Force ammunition dump in Staffordshire kills seventy people.
+- 1942: World War II: At Toulon, the French navy scuttles its ships and submarines to keep them out of Nazi hands.
+- 1940: World War II: At the Battle of Cape Spartivento, the Royal Navy engages the Regia Marina in the Mediterranean Sea.
+- 1940: In Romania, the ruling Iron Guard fascist party assassinates over 60 of arrested King Carol II of Romania's aides and other political dissidents.
+- 1924: In New York City, the first Macy's Thanksgiving Day Parade is held.
 
 Data from muffinlabs
-*(Updated at: 2025-11-26 01:50:46 UTC)*
+*(Updated at: 2025-11-27 01:48:46 UTC)*
 
 # 历史上的今天 
 
-- - 2021 年：COVID-19 大流行：世界卫生组织识别出 SARS-CoV-2 Omicron 变种。
-- - 2019 年：阿尔巴尼亚西部发生 6.4 级地震，造成至少 52 人死亡、1,000 多人受伤。这是 2019 年世界上最严重的地震，也是该国 99 年来最严重的地震。
-- - 2018 年：洞察号机器人探测器登陆火星极乐世界。
-- - 2011 年：火星科学实验室随好奇号火星车发射到火星。
-- - 2011年：北约在巴基斯坦的袭击：北约驻阿富汗部队在一次误伤事件中袭击了巴基斯坦的一个检查站，造成24名士兵死亡、13人受伤。
-- - 2008 年：现已退役的远洋客轮伊丽莎白女王 2 号停靠在迪拜。
-- - 2008 年：孟买袭击，这是巴基斯坦极端伊斯兰恐怖组织虔诚军 10 名成员发动的一系列恐怖袭击，造成约 175 名公民死亡。
-- - 2004 年：夏威夷奥林达毛伊岛鸟类保护中心的最后一只黑脸蜜旋鸟在繁殖前就死于禽疟疾，导致该物种很可能灭绝。
-- - 2004年：汝州学校惨案：一名男子在中国汝州一所学校宿舍刺杀八人，并重伤四人。
-- - 2003 年：协和式飞机在英国布里斯托尔上空进行最后一次飞行。
-- - 2000 年：乔治·W·布什 (George W. Bush) 被凯瑟琳·哈里斯 (Katherine Harris) 认证为佛罗里达州选举人票的获胜者，尽管在全国普选中落败，但他继续赢得美国总统选举。
-- - 1999 年：瓦努阿图发生 7.5 兆瓦安布里姆地震，随后发生了破坏性海啸。十人死亡，四十人受伤。
-- - 1998 年：印度卢迪亚纳州卡纳 (Khanna) 铁路灾难夺去了 212 人的生命。
-- - 1998 年：托尼·布莱尔成为第一位向爱尔兰共和国议会发表讲话的英国首相。
-- - 1991年：阿塞拜疆国民议会废除阿塞拜疆纳戈尔诺-卡拉巴赫自治州的自治地位，并用阿塞拜疆语名称重新命名几个城市。
-- - 1986 年：对约翰·德米扬纽克 (John Demjanjuk) 的审判在耶路撒冷开始，他被指控在纳粹特雷布林卡灭绝营担任看守时犯有战争罪。
-- - 1986 年：伊朗门事件：美国总统罗纳德·里根宣布了后来被称为塔尔委员会的成员。
-- - 1983 年：Brink's-Mat 抢劫案：在伦敦，价值近 2600 万英镑的 6,800 根金条从希思罗机场的 Brink's-Mat 金库被盗。
-- - 1979 年：巴基斯坦国际航空公司 740 航班在沙特阿拉伯麦加省塔伊夫附近坠毁，机上 156 人全部遇难。
-- - 1977 年：一名名叫 Vrillon 的身份不明的劫机者，自称是“阿斯塔银河司令部”的代表，从下午 5 点 12 分开始接管英国南方电视台，持续六分钟。
-- - 1970 年：瓜德罗普岛巴斯特尔每分钟降雨量达 38 毫米（1.5 英寸），这是有记录以来的最大降雨量。
-- - 1968 年：越南战争：美国空军直升机飞行员詹姆斯·P·弗莱明 (James P. Fleming) 营救被越共炮火困住的陆军特种部队。他后来被授予荣誉勋章。
-- - 1965 年：法国发射 Astérix，成为第三个使用自己的助推器将物体送入轨道的国家。
-- - 1950年：朝鲜战争：中国共产党军队对联合国和韩国军队发动大规模反击（清川江战役和长津水库战役）。
-- - 1949 年：印度制宪会议通过 B. R. Ambedkar 博士提出的宪法。
-- - 1944 年：第二次世界大战：德国开始对比利时安特卫普发动 V-1 和 V-2 攻击。
-- - 1944 年：第二次世界大战：一枚德国 V-2 火箭击中伦敦新十字区的一家 Woolworth 商店，造成 168 人死亡。
-- - 1943 年：第二次世界大战：HMT Rohna 在阿尔及利亚贝贾亚北部地中海的一次空袭中被德国空军击沉。
-- - 1942年：美国亚利桑那州凤凰城发生了一场涉及步兵、军警和当地执法人员的骚乱，导致三人死亡。
-- - 1942 年：由亨弗莱·鲍嘉和英格丽·褒曼主演的电影《卡萨布兰卡》在纽约首映。
+- - 2024 年：沙姆解放组织领导的叙利亚反叛组织向叙利亚发动地面攻势。
+- - 2020 年：在宣布其发现几天后，犹他州的巨石被娱乐爱好者拆除。
+- - 2020 年：伊朗顶级核科学家 Mohsen Fakhrizadeh 在德黑兰附近被暗杀。
+- - 2015 年：科罗拉多州科罗拉多斯普林斯市计划生育联合会设施内的一名活跃枪手射杀了至少四名警察。一名军官后来死亡。两名平民也被杀，六人受伤。枪手后来投降了。
+- - 2009年：涅夫斯基快车爆炸事件：一枚炸弹在莫斯科和圣彼得堡之间的涅夫斯基快车上爆炸，导致列车脱轨，造成28人死亡、96人受伤。
+- - 2008 年：德国 XL 航空公司 888T 航班：一架进行飞行测试的空客 A320 在法国鲁西永地区卡内公社附近坠毁，机上七人全部遇难。
+- - 2006 年：加拿大下议院批准了斯蒂芬·哈珀总理提出的一项动议，承认魁北克人是加拿大境内的一个民族。
+- - 2004 年：Blackwater 61 事故：一架 CASA C-212 Aviocar 坠入阿富汗的 Koh-i-Baba 山脉，造成六人死亡。
+- - 2004年：教皇约翰·保罗二世将金口圣约翰的遗物归还给东正教教堂。
+- - 2001年：哈勃太空望远镜在太阳系外行星奥西里斯上发现了氢大气层，这是在太阳系外行星上首次检测到的大气层。
+- - 1999 年：中左翼工党控制了新西兰政府，党魁海伦·克拉克 (Helen Clark) 成为新西兰历史上第一位民选女总理。
+- - 1997 年：阿尔及利亚第二次苏哈内大屠杀造成 25 人死亡。
+- - 1992 年：委内瑞拉军队一年内第二次试图推翻总统卡洛斯·安德烈斯·佩雷斯。
+- - 1989 年：哥伦比亚航空 203 号航班：一架波音 727 飞机在哥伦比亚上空爆炸，机上 107 人全部遇难，地面 3 人全部遇难。麦德林贩毒集团声称对此次袭击负责。
+- - 1984年：根据英国和西班牙政府签署的布鲁塞尔协议，英国同意与西班牙就直布罗陀问题进行讨论，包括主权问题。
+- - 1983 年：哥伦比亚航空 011 号航班：一架波音 747 在马德里巴拉哈斯机场附近坠毁，造成 181 人死亡。
+- - 1978 年：库尔德工人党 (PKK) 在土耳其 Fis 村成立。
+- - 1978 年：在旧金山，市长乔治·莫斯康 (George Moscone) 和公开同性恋身份的城市主管哈维·米尔克 (Harvey Milk) 被前主管丹·怀特 (Dan White) 暗杀。
+- - 1975 年：罗斯·麦克沃特 (Ross McWhirter) 在一次新闻发布会上宣布悬赏抓捕英格兰多起爆炸和枪击事件的责任人，随后临时爱尔兰共和军刺杀了罗斯·麦克沃特 (Ross McWhirter)。
+- - 1973 年：第二十五条修正案：美国参议院以 92 比 3 的投票结果确认杰拉尔德·福特为美国副总统。（12 月 6 日，众议院将以 387-35 确认他的提名）。
+- - 1971 年：苏联太空计划的火星 2 号轨道飞行器释放了一个下降舱。它发生故障并坠毁，但它是第一个到达火星表面的人造物体。
+- - 1968 年：佩妮·安·厄尔利 (Penny Ann Early) 成为第一位在主要职业男子篮球联赛中效力的女性，代表肯塔基上校队参加 ABA 对阵洛杉矶星队的比赛。
+- - 1965 年：越南战争：五角大楼告诉美国总统林登·B·约翰逊，如果计划的行动要成功，驻越南美军人数必须从 12 万增加到 40 万。
+- - 1954 年：阿尔杰·希斯因伪证罪服刑 44 个月后出狱。
+- - 1945 年：CARE（当时的美国汇款欧洲合作社）成立，在二战后向欧洲发送 CARE 食品救济包。
+- - 1944 年：第二次世界大战：英国皇家空军福尔德爆炸：斯塔福德郡皇家空军弹药库发生爆炸，造成 70 人死亡。
+- - 1942 年：第二次世界大战：在土伦，法国海军凿沉了其船只和潜艇，以免落入纳粹手中。
+- - 1940 年：第二次世界大战：在斯帕蒂文托角海战中，皇家海军与地中海的雷吉亚码头交战。
+- - 1940 年：在罗马尼亚，执政的铁卫队法西斯党暗杀了 60 多名被捕的罗马尼亚国王卡罗尔二世的助手和其他政治异见人士。
+- - 1924 年：在纽约市，第一届梅西百货感恩节游行举行。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-26 01:50:46 UTC）*
+*（更新于: 2025-11-27 01:48:46 UTC）*
