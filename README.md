@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2013: LAM Mozambique Airlines 470 crashes in the Bwabata National Park in a pilot mass murder-suicide, killing all 33 people on board.
-- 2009: Maurice Clemmons shoots and kills four police officers inside a coffee shop in Lakewood, Washington.
-- 2007: The Armed Forces of the Philippines lay siege to the Peninsula Manila after soldiers led by Senator Antonio Trillanes stage a mutiny.
-- 1987: North Korean agents plant a bomb on Korean Air Flight 858, which kills all 115 passengers and crew.
-- 1986: The Surinamese military attacks the village of Moiwana during the Suriname Guerrilla War, killing at least 39 civilians, mostly women and children.
-- 1982: Michael Jackson releases Thriller, the best-selling music album of all time.
-- 1972: Atari releases Pong, the first commercially successful video game.
-- 1967: U.S. Secretary of Defense Robert McNamara announces his resignation.
-- 1963: "I Want to Hold Your Hand", recorded on October 17, 1963, is released by the Beatles in the United Kingdom.
-- 1963: Trans-Canada Air Lines Flight 831 crashes shortly after takeoff from Montreal-Dorval International Airport, killing all 118 people on board.
-- 1963: U.S. President Lyndon B. Johnson establishes the Warren Commission to investigate the assassination of President John F. Kennedy.
-- 1961: Enos, a chimpanzee, is launched into space. The spacecraft orbits the Earth twice and splashes down off the coast of Puerto Rico.
-- 1952: U.S. President-elect Dwight D. Eisenhower fulfills a campaign promise by traveling to Korea to find out what can be done to end the conflict.
-- 1947: French forces carry out a massacre at Mỹ Trạch, Vietnam during the First Indochina War.
-- 1947: The United Nations General Assembly approve the United Nations Partition Plan for Palestine.
-- 1945: The Federal People's Republic of Yugoslavia is declared.
-- 1944: Albania is liberated by the Partisans.
-- 1943: The second session of the Anti-Fascist Council for the National Liberation of Yugoslavia (AVNOJ), held to determine the post-war ordering of the country, concludes in Jajce (present-day Bosnia and Herzegovina).
-- 1929: U.S. Admiral Richard E. Byrd leads the first expedition to fly over the South Pole.
-- 1920: The Armenian Revolutionary Committee declares Armenia to be a Soviet Socialist Republic, starting 71 years of Soviet rule in Armenia
-- 1899: FC Barcelona is founded by Catalan, Spanish and Englishmen.  It later develops into one of Spanish and world football's most iconic and strongest teams.
-- 1890: The Meiji Constitution goes into effect in Japan, and the first Diet convenes.
-- 1877: Thomas Edison demonstrates his phonograph for the first time.
-- 1872: The Modoc War begins with the Battle of Lost River.
-- 1864: American Civil War: The Confederate Army of Tennessee misses an opportunity to crush the Union Army of the Ohio in the Battle of Spring Hill during the Franklin-Nashville campaign.
-- 1864: Colorado War: Colorado volunteers led by Colonel John Chivington massacre at least 150 Cheyenne and Arapaho noncombatants at Sand Creek inside Colorado Territory.
-- 1863: American Civil War: Union forces under General Ambrose Burnside successfully defend Knoxville, Tennessee from an attack by Confederate forces under General James Longstreet in the Battle of Fort Sanders during the Siege of Knoxville.
-- 1850: The treaty, Punctation of Olmütz, is signed in Olomouc. Prussia capitulates to Austria, which will take over the leadership of the German Confederation.
-- 1847: Missionaries Dr. Marcus Whitman, his wife Narcissa, and 15 others are killed by Cayuse and Umatilla Indians, causing the Cayuse War.
-- 1847: The Sonderbund is defeated by the joint forces of other Swiss cantons under General Guillaume-Henri Dufour.
+- 2022: The AI chatbot ChatGPT is launched by OpenAI.
+- 2021: A 15-year-old gunman murders four students and injures seven people, including a teacher, in a mass shooting at Oxford High School in Oxford Township, Michigan.
+- 2021: Barbados becomes a republic.
+- 2018: A magnitude 7.1 earthquake with its epicenter only 24 km from Anchorage, Alaska causes significant property damage but no deaths.
+- 2005: John Sentamu becomes the first black archbishop in the Church of England with his enthronement as the 97th Archbishop of York.
+- 2004: A McDonnell Douglas MD-82, operating as Lion Air Flight 538, overran the runway and crashed, killing 25 people.
+- 2000: NASA launches STS-97, the 101st Space Shuttle mission.
+- 1999: British Aerospace and Marconi Electronic Systems merge to form BAE Systems, Europe's largest defense contractor and the fourth largest aerospace firm in the world.
+- 1999: In Seattle, United States, demonstrations against a World Trade Organization meeting by anti-globalization protesters catch police unprepared and force the cancellation of opening ceremonies.
+- 1999: Exxon and Mobil sign a US$73.7 billion agreement to merge, thus creating ExxonMobil, the world's largest company.
+- 1995: U.S. President Bill Clinton visits Northern Ireland and speaks in favor of the "Northern Ireland peace process" to a huge rally at Belfast City Hall; he calls IRA fighters "yesterday's men".
+- 1995: Official end of Operation Desert Storm.
+- 1981: Cold War: In Geneva, representatives from the United States and the Soviet Union begin to negotiate intermediate-range nuclear weapon reductions in Europe. (The meetings end inconclusively on December 17.)
+- 1972: Vietnam War: White House Press Secretary Ron Ziegler tells the press that there will be no more public announcements concerning American troop withdrawals from Vietnam because troop levels are now down to 27,000.
+- 1971: Iran seizes the Greater and Lesser Tunbs from the Emirates of Sharjah and Ras Al Khaimah.
+- 1967: Pro-Soviet communists in the Philippines establish Malayang Pagkakaisa ng Kabataan Pilipino as its new youth wing.
+- 1967: The Pakistan Peoples Party is founded by Zulfikar Ali Bhutto, who becomes its first chairman.
+- 1967: The People's Republic of Southern Yemen gains its independence from the United Kingdom
+- 1966: Decolonization: Barbados becomes independent from the United Kingdom.
+- 1962: Eastern Air Lines Flight 512 crashes at Idlewild Airport, killing 25 people.
+- 1954: In Sylacauga, Alabama, United States, the Hodges meteorite crashes through a roof and hits a woman taking an afternoon nap; this is the only documented case in the Western Hemisphere of a human being hit by a rock from space.
+- 1953: Edward Mutesa II, the kabaka (king) of Buganda is deposed and exiled to London by Sir Andrew Cohen, Governor of Uganda.
+- 1947: Civil War in Mandatory Palestine begins, leading up to the creation of the State of Israel and the 1948 Arab-Israeli War.
+- 1942: World War II: Battle of Tassafaronga; A smaller squadron of Imperial Japanese Navy destroyers led by Raizō Tanaka defeats a U.S. Navy cruiser force under Carleton H. Wright.
+- 1941: The Holocaust: The SS-Einsatzgruppen round up roughly 25,000 Jews from the Riga Ghetto and kill them in the Rumbula massacre.
+- 1940: World War II: Signing of the Sino-Japanese Treaty of 1940 between the Empire of Japan and the newly formed Wang Jingwei-led Reorganized National Government of the Republic of China. This treaty was considered so unfair to China that it was compared to the Twenty-One Demands.
+- 1939: World War II: The Soviet Red Army crosses the Finnish border in several places, bombing Helsinki and several other Finnish cities, starting the Winter War.
+- 1936: In London, the Crystal Palace is destroyed by fire.
+- 1916: Costa Rica signs the Buenos Aires Convention, a copyright treaty.
+- 1872: The first-ever international football match takes place at Hamilton Crescent, Glasgow, between Scotland and England.
 
 Data from muffinlabs
-*(Updated at: 2025-11-29 01:47:44 UTC)*
+*(Updated at: 2025-11-30 02:01:59 UTC)*
 
 # 历史上的今天 
 
-- - 2013年：莫桑比克航空470飞机在巴瓦巴塔国家公园坠毁，飞行员发生大规模谋杀自杀事件，机上33人全部遇难。
-- - 2009 年：莫里斯·克莱蒙斯 (Maurice Clemmons) 在华盛顿州莱克伍德的一家咖啡店内射杀了四名警察。
-- - 2007年：在参议员安东尼奥·特里连尼斯(Antonio Trillanes)领导的士兵发动叛变后，菲律宾武装部队包围了马尼拉半岛。
-- - 1987 年：朝鲜特工在大韩航空 858 号航班上放置了一枚炸弹，导致 115 名乘客和机组人员全部遇难。
-- - 1986年：苏里南游击战争期间，苏里南军队袭击了莫伊瓦纳村，造成至少39名平民死亡，其中大部分是妇女和儿童。
-- - 1982 年：迈克尔·杰克逊发行了有史以来最畅销的音乐专辑《Thriller》。
-- - 1972 年：Atari 发布了 Pong，第一个商业上成功的视频游戏。
-- - 1967 年：美国国防部长罗伯特·麦克纳马拉宣布辞职。
-- - 1963年：披头士乐队于1963年10月17日录制的《I Want to Hold Your Hand》在英国发行。
-- - 1963 年：加拿大横贯航空公司 831 号航班从蒙特利尔多瓦尔国际机场起飞后不久坠毁，机上 118 人全部遇难。
-- - 1963 年：美国总统林登·B·约翰逊成立沃伦委员会，调查约翰·F·肯尼迪总统遇刺事件。
-- - 1961 年：黑猩猩伊诺斯被发射到太空。该航天器绕地球飞行两次并降落在波多黎各海岸。
-- - 1952 年：美国当选总统德怀特·D·艾森豪威尔履行竞选承诺，前往韩国寻找结束冲突的办法。
-- - 1947 年：第一次印度支那战争期间，法国军队在越南美泽进行大屠杀。
-- - 1947年：联合国大会批准联合国巴勒斯坦分治计划。
-- - 1945年：南斯拉夫联邦人民共和国宣告成立。
-- - 1944 年：阿尔巴尼亚被游击队解放。
-- - 1943 年：南斯拉夫民族解放反法西斯委员会 (AVNOJ) 第二次会议在亚伊采（今波斯尼亚和黑塞哥维那）闭幕，会议旨在确定该国的战后秩序。
-- - 1929 年：美国海军上将理查德·E·伯德 (Richard E. Byrd) 率领第一支探险队飞越南极点。
-- - 1920年：亚美尼亚革命委员会宣布亚美尼亚为苏维埃社会主义共和国，开始苏维埃在亚美尼亚的71年统治
-- - 1899 年：巴塞罗那足球俱乐部由加泰罗尼亚人、西班牙人和英国人创立。后来它发展成为西班牙乃至世界足坛最具标志性和最强的球队之一。
-- - 1890 年：明治宪法在日本生效，第一届国会召开。
-- - 1877 年：托马斯·爱迪生首次展示他的留声机。
-- - 1872 年：莫多克战争以失落之河战役开始。
-- - 1864 年：美国内战：富兰克林-纳什维尔战役期间，田纳西州南部联盟军在斯普林山战役中错过了粉碎俄亥俄州联邦军的机会。
-- - 1864 年：科罗拉多战争：约翰·奇文顿上校领导的科罗拉多志愿者在科罗拉多领地内的沙溪屠杀了至少 150 名夏延和阿拉帕霍非战斗人员。
-- - 1863 年：美国内战：在诺克斯维尔围攻期间的桑德斯堡战役中，安布罗斯·伯恩赛德 (Ambrose Burnside) 将军领导的联邦军队成功保卫田纳西州诺克斯维尔，免受詹姆斯·朗斯特里特 (James Longstreet) 将军领导的南方联盟军队的攻击。
-- - 1850 年：《奥尔穆茨标点条约》在奥洛穆茨签署。普鲁士向奥地利投降，奥地利将接管德意志联邦的领导权。
-- - 1847 年：传教士马库斯·惠特曼 (Marcus Whitman) 博士、他的妻子纳西莎 (Narcissa) 以及其他 15 人被凯尤斯 (Cayuse) 和尤马蒂拉 (Umatilla) 印第安人杀害，引发了凯尤斯战争 (Cayuse War)。
-- - 1847 年：独立联盟被纪尧姆-亨利·杜福尔将军领导的瑞士其他州的联合部队击败。
+- - 2022年：OpenAI推出人工智能聊天机器人ChatGPT。
+- - 2021 年：密歇根州牛津镇牛津高中发生大规模枪击事件，一名 15 岁枪手杀害了 4 名学生，造成包括一名教师在内的 7 人受伤。
+- - 2021 年：巴巴多斯成为共和国。
+- - 2018 年：一场 7.1 级地震，震中距离阿拉斯加安克雷奇仅 24 公里，造成重大财产损失，但无人死亡。
+- - 2005 年：约翰·森塔穆 (John Sentamu) 就任第 97 任约克大主教，成为英格兰国教会第一位黑人大主教。
+- - 2004 年：狮航 538 号航班的麦道 MD-82 冲出跑道坠毁，造成 25 人死亡。
+- - 2000 年：NASA 发射 STS-97，这是第 101 次航天飞机任务。
+- - 1999 年：英国航空航天公司和马可尼电子系统公司合并成立 BAE 系统公司，该公司是欧洲最大的国防承包商和世界第四大航空航天公司。
+- - 1999年：在美国西雅图，反全球化抗议者举行反对世界贸易组织会议的示威活动，令警察措手不及，并迫使开幕式取消。
+- - 1999 年：埃克森美孚和美孚签署价值 737 亿美元的合并协议，从而创建了全球最大的公司埃克森美孚。
+- - 1995年：美国总统比尔·克林顿访问北爱尔兰，并在贝尔法斯特市政厅举行的大型集会上发表支持“北爱尔兰和平进程”的讲话；他称爱尔兰共和军战士为“昨天的人”。
+- - 1995 年：沙漠风暴行动正式结束。
+- - 1981 年：冷战：在日内瓦，美国和苏联代表开始就欧洲中程核武器削减问题进行谈判。（会议于 12 月 17 日无结果结束。）
+- - 1972 年：越南战争：白宫新闻秘书罗恩·齐格勒 (Ron Ziegler) 告诉媒体，将不再公开宣布美国从越南撤军，因为目前美军人数已降至 27,000 人。
+- - 1971 年：伊朗从沙迦酋长国和哈伊马角夺取了大通布和小通布。
+- - 1967 年：菲律宾的亲苏联共产党人建立了 Malyang Pagkakaisa ng Kabataan Pilipino 作为其新的青年派别。
+- - 1967 年：佐勒菲卡尔·阿里·布托创立巴基斯坦人民党，并成为第一任主席。
+- - 1967年：南也门人民共和国从英国独立
+- - 1966 年：非殖民化：巴巴多斯从英国独立。
+- - 1962 年：东方航空 512 号航班在艾德维尔德机场坠毁，造成 25 人死亡。
+- - 1954 年：在美国阿拉巴马州锡拉考加，霍奇斯陨石从屋顶坠落，击中了一名正在午睡的妇女；这是西半球唯一有记录的人类被太空岩石击中的案例。
+- - 1953 年：布干达卡巴卡（国王）爱德华·穆特萨二世被乌干达总督安德鲁·科恩爵士废黜并流放到伦敦。
+- - 1947 年：托管巴勒斯坦内战开始，导致以色列国成立和 1948 年阿以战争。
+- - 1942 年：第二次世界大战：塔萨法龙加战役；由田中赖藏 (Raizō Tanaka) 率领的日本帝国海军驱逐舰中队击败了卡尔顿·H·赖特 (Carleton H. Wright) 领导的美国海军巡洋舰部队。
+- - 1941 年：大屠杀：党卫军特别行动队从里加隔都围捕了大约 25,000 名犹太人，并在伦布拉大屠杀中杀害了他们。
+- - 1940 年：第二次世界大战：日本帝国与新成立的汪精卫领导的中华民国改组国民政府签署 1940 年中日条约。该条约被认为对中国非常不公平，以至于被与“二十一条要求”相比较。
+- - 1939年：第二次世界大战：苏联红军多处越过芬兰边境，轰炸了赫尔辛基和其他几个芬兰城市，冬季战争爆发。
+- - 1936 年：伦敦的水晶宫被大火烧毁。
+- - 1916 年：哥斯达黎加签署了版权条约《布宜诺斯艾利斯公约》。
+- - 1872 年：第一场国际足球比赛在格拉斯哥的汉密尔顿新月举行，比赛双方为苏格兰队和英格兰队。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-29 01:47:44 UTC）*
+*（更新于: 2025-11-30 02:01:59 UTC）*
