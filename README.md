@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: The AI chatbot ChatGPT is launched by OpenAI.
-- 2021: A 15-year-old gunman murders four students and injures seven people, including a teacher, in a mass shooting at Oxford High School in Oxford Township, Michigan.
-- 2021: Barbados becomes a republic.
-- 2018: A magnitude 7.1 earthquake with its epicenter only 24 km from Anchorage, Alaska causes significant property damage but no deaths.
-- 2005: John Sentamu becomes the first black archbishop in the Church of England with his enthronement as the 97th Archbishop of York.
-- 2004: A McDonnell Douglas MD-82, operating as Lion Air Flight 538, overran the runway and crashed, killing 25 people.
-- 2000: NASA launches STS-97, the 101st Space Shuttle mission.
-- 1999: British Aerospace and Marconi Electronic Systems merge to form BAE Systems, Europe's largest defense contractor and the fourth largest aerospace firm in the world.
-- 1999: In Seattle, United States, demonstrations against a World Trade Organization meeting by anti-globalization protesters catch police unprepared and force the cancellation of opening ceremonies.
-- 1999: Exxon and Mobil sign a US$73.7 billion agreement to merge, thus creating ExxonMobil, the world's largest company.
-- 1995: U.S. President Bill Clinton visits Northern Ireland and speaks in favor of the "Northern Ireland peace process" to a huge rally at Belfast City Hall; he calls IRA fighters "yesterday's men".
-- 1995: Official end of Operation Desert Storm.
-- 1981: Cold War: In Geneva, representatives from the United States and the Soviet Union begin to negotiate intermediate-range nuclear weapon reductions in Europe. (The meetings end inconclusively on December 17.)
-- 1972: Vietnam War: White House Press Secretary Ron Ziegler tells the press that there will be no more public announcements concerning American troop withdrawals from Vietnam because troop levels are now down to 27,000.
-- 1971: Iran seizes the Greater and Lesser Tunbs from the Emirates of Sharjah and Ras Al Khaimah.
-- 1967: Pro-Soviet communists in the Philippines establish Malayang Pagkakaisa ng Kabataan Pilipino as its new youth wing.
-- 1967: The Pakistan Peoples Party is founded by Zulfikar Ali Bhutto, who becomes its first chairman.
-- 1967: The People's Republic of Southern Yemen gains its independence from the United Kingdom
-- 1966: Decolonization: Barbados becomes independent from the United Kingdom.
-- 1962: Eastern Air Lines Flight 512 crashes at Idlewild Airport, killing 25 people.
-- 1954: In Sylacauga, Alabama, United States, the Hodges meteorite crashes through a roof and hits a woman taking an afternoon nap; this is the only documented case in the Western Hemisphere of a human being hit by a rock from space.
-- 1953: Edward Mutesa II, the kabaka (king) of Buganda is deposed and exiled to London by Sir Andrew Cohen, Governor of Uganda.
-- 1947: Civil War in Mandatory Palestine begins, leading up to the creation of the State of Israel and the 1948 Arab-Israeli War.
-- 1942: World War II: Battle of Tassafaronga; A smaller squadron of Imperial Japanese Navy destroyers led by Raizō Tanaka defeats a U.S. Navy cruiser force under Carleton H. Wright.
-- 1941: The Holocaust: The SS-Einsatzgruppen round up roughly 25,000 Jews from the Riga Ghetto and kill them in the Rumbula massacre.
-- 1940: World War II: Signing of the Sino-Japanese Treaty of 1940 between the Empire of Japan and the newly formed Wang Jingwei-led Reorganized National Government of the Republic of China. This treaty was considered so unfair to China that it was compared to the Twenty-One Demands.
-- 1939: World War II: The Soviet Red Army crosses the Finnish border in several places, bombing Helsinki and several other Finnish cities, starting the Winter War.
-- 1936: In London, the Crystal Palace is destroyed by fire.
-- 1916: Costa Rica signs the Buenos Aires Convention, a copyright treaty.
-- 1872: The first-ever international football match takes place at Hamilton Crescent, Glasgow, between Scotland and England.
+- 2020: The Arecibo Telescope collapsed.
+- 2019: The outbreak of coronavirus infection began in Wuhan.
+- 2019: Arsenal Women 11-1 Bristol City Women breaks the record for most goals scored in a FA Women's Super League match, with Vivianne Miedema involved in ten of the eleven Arsenal goals.
+- 2018: The Oulu Police informed the public about the first offence of the much larger child sexual exploitation in Oulu, Finland.
+- 2011: The Alma-Ata Metro was opened.
+- 2009: The Treaty of Lisbon entered into force in the European Union.
+- 2006: The law on same-sex marriage comes into force in South Africa, legalizing same-sex marriage for the first time on the African continent.
+- 2005: As a result of the merger of the Perm Oblast and the Komi-Permyak Autonomous Okrug, a new subject of the Russian Federation, the Perm Krai, was created.
+- 2001: The United Russia political party was founded.
+- 2000: Vicente Fox Quesada is inaugurated as the president of Mexico, marking the first peaceful transfer of executive federal power to an opposing political party following a free and democratic election in Mexico's history.
+- 1997: Fourteen-year-old Michael Carneal opens fire at a group of students in Heath High School in West Paducah, Kentucky, killing three and injuring five.
+- 1997: In the Indian state of Bihar, Ranvir Sena attacks the CPI (ML) Party Unity stronghold Lakshmanpur-Bathe, killing 63 lower caste people.
+- 1991: Cold War: Ukrainian voters overwhelmingly approve a referendum for independence from the Soviet Union.
+- 1990: Channel Tunnel sections started from the United Kingdom and France meet beneath the seabed.
+- 1989: Cold War: East Germany's parliament abolishes the constitutional provision granting the Communist Party the leading role in the state.
+- 1989: Philippine coup attempt: The right-wing military rebel Reform the Armed Forces Movement attempts to oust Philippine President Corazon Aquino in a failed bloody coup d'état.
+- 1988: Benazir Bhutto, is named as the Prime Minister of Pakistan, becoming the first female leader to lead a Muslim nation.
+- 1988: World AIDS Day is proclaimed worldwide by the UN member states.
+- 1984: NASA conducts the Controlled Impact Demonstration, wherein an airliner is deliberately crashed in order to test technologies and gather data to help improve survivability of crashes.
+- 1981: Inex-Adria Aviopromet Flight 1308, a McDonnell Douglas MD-80, crashes in Corsica, killing all 180 people on board.
+- 1974: Northwest Orient Airlines Flight 6231, another Boeing 727, crashes northwest of John F. Kennedy International Airport.
+- 1974: TWA Flight 514, a Boeing 727, crashes northwest of Dulles International Airport, killing all 92 people on board.
+- 1973: Papua New Guinea gains self-government from Australia.
+- 1971: Purge of Croatian Spring leaders starts in Yugoslavia at the meeting of the League of Communists at the Karađorđevo estate.
+- 1971: Cambodian Civil War: Khmer Rouge rebels intensify assaults on Cambodian government positions, forcing their retreat from Kompong Thmar and nearby Ba Ray.
+- 1969: Vietnam War: The first draft lottery in the United States is held since World War II.
+- 1964: Vietnam War: U.S. President Lyndon B. Johnson and his top-ranking advisers meet to discuss plans to bomb North Vietnam.
+- 1963: Nagaland, became the 16th state of India.
+- 1960: Patrice Lumumba is arrested by Mobutu Sese Seko's men on the banks of the Sankuru River, for inciting the army to rebellion.
+- 1959: Cold War: Opening date for signature of the Antarctic Treaty, which sets aside Antarctica as a scientific preserve and bans military activity on the continent.
 
 Data from muffinlabs
-*(Updated at: 2025-11-30 02:01:59 UTC)*
+*(Updated at: 2025-12-01 02:09:15 UTC)*
 
 # 历史上的今天 
 
-- - 2022年：OpenAI推出人工智能聊天机器人ChatGPT。
-- - 2021 年：密歇根州牛津镇牛津高中发生大规模枪击事件，一名 15 岁枪手杀害了 4 名学生，造成包括一名教师在内的 7 人受伤。
-- - 2021 年：巴巴多斯成为共和国。
-- - 2018 年：一场 7.1 级地震，震中距离阿拉斯加安克雷奇仅 24 公里，造成重大财产损失，但无人死亡。
-- - 2005 年：约翰·森塔穆 (John Sentamu) 就任第 97 任约克大主教，成为英格兰国教会第一位黑人大主教。
-- - 2004 年：狮航 538 号航班的麦道 MD-82 冲出跑道坠毁，造成 25 人死亡。
-- - 2000 年：NASA 发射 STS-97，这是第 101 次航天飞机任务。
-- - 1999 年：英国航空航天公司和马可尼电子系统公司合并成立 BAE 系统公司，该公司是欧洲最大的国防承包商和世界第四大航空航天公司。
-- - 1999年：在美国西雅图，反全球化抗议者举行反对世界贸易组织会议的示威活动，令警察措手不及，并迫使开幕式取消。
-- - 1999 年：埃克森美孚和美孚签署价值 737 亿美元的合并协议，从而创建了全球最大的公司埃克森美孚。
-- - 1995年：美国总统比尔·克林顿访问北爱尔兰，并在贝尔法斯特市政厅举行的大型集会上发表支持“北爱尔兰和平进程”的讲话；他称爱尔兰共和军战士为“昨天的人”。
-- - 1995 年：沙漠风暴行动正式结束。
-- - 1981 年：冷战：在日内瓦，美国和苏联代表开始就欧洲中程核武器削减问题进行谈判。（会议于 12 月 17 日无结果结束。）
-- - 1972 年：越南战争：白宫新闻秘书罗恩·齐格勒 (Ron Ziegler) 告诉媒体，将不再公开宣布美国从越南撤军，因为目前美军人数已降至 27,000 人。
-- - 1971 年：伊朗从沙迦酋长国和哈伊马角夺取了大通布和小通布。
-- - 1967 年：菲律宾的亲苏联共产党人建立了 Malyang Pagkakaisa ng Kabataan Pilipino 作为其新的青年派别。
-- - 1967 年：佐勒菲卡尔·阿里·布托创立巴基斯坦人民党，并成为第一任主席。
-- - 1967年：南也门人民共和国从英国独立
-- - 1966 年：非殖民化：巴巴多斯从英国独立。
-- - 1962 年：东方航空 512 号航班在艾德维尔德机场坠毁，造成 25 人死亡。
-- - 1954 年：在美国阿拉巴马州锡拉考加，霍奇斯陨石从屋顶坠落，击中了一名正在午睡的妇女；这是西半球唯一有记录的人类被太空岩石击中的案例。
-- - 1953 年：布干达卡巴卡（国王）爱德华·穆特萨二世被乌干达总督安德鲁·科恩爵士废黜并流放到伦敦。
-- - 1947 年：托管巴勒斯坦内战开始，导致以色列国成立和 1948 年阿以战争。
-- - 1942 年：第二次世界大战：塔萨法龙加战役；由田中赖藏 (Raizō Tanaka) 率领的日本帝国海军驱逐舰中队击败了卡尔顿·H·赖特 (Carleton H. Wright) 领导的美国海军巡洋舰部队。
-- - 1941 年：大屠杀：党卫军特别行动队从里加隔都围捕了大约 25,000 名犹太人，并在伦布拉大屠杀中杀害了他们。
-- - 1940 年：第二次世界大战：日本帝国与新成立的汪精卫领导的中华民国改组国民政府签署 1940 年中日条约。该条约被认为对中国非常不公平，以至于被与“二十一条要求”相比较。
-- - 1939年：第二次世界大战：苏联红军多处越过芬兰边境，轰炸了赫尔辛基和其他几个芬兰城市，冬季战争爆发。
-- - 1936 年：伦敦的水晶宫被大火烧毁。
-- - 1916 年：哥斯达黎加签署了版权条约《布宜诺斯艾利斯公约》。
-- - 1872 年：第一场国际足球比赛在格拉斯哥的汉密尔顿新月举行，比赛双方为苏格兰队和英格兰队。
+- - 2020 年：阿雷西博望远镜崩溃。
+- - 2019年：冠状病毒感染在武汉爆发。
+- - 2019 年：阿森纳女足 11-1 布里斯托城女足打破了 FA 女子超级联赛比赛中进球最多的记录，薇薇安·米德玛 (Vivianne Miedema) 参与了阿森纳女足 11 粒进球中的 10 粒。
+- - 2018 年：奥卢警方向公众通报了芬兰奥卢发生的首起规模更大的儿童性剥削案件。
+- - 2011年：阿拉木图地铁开通。
+- - 2009 年：《里斯本条约》在欧盟生效。
+- - 2006年：同性婚姻法在南非生效，同性婚姻在非洲大陆首次合法化。
+- - 2005年：由于彼尔姆州和科米-彼尔米亚克自治州合并，俄罗斯联邦的一个新主体——彼尔姆边疆区诞生了。
+- - 2001年：统一俄罗斯党成立。
+- - 2000年：文森特·福克斯·克萨达就任墨西哥总统，标志着墨西哥历史上自由民主选举后首次将联邦行政权力和平移交给对立政党。
+- - 1997 年：14 岁的迈克尔·卡尼尔 (Michael Carneal) 在肯塔基州西帕迪尤卡的 Heath 高中向一群学生开枪，造成三人死亡、五人受伤。
+- - 1997 年：在印度比哈尔邦，兰维尔·塞纳 (Ranvir Sena) 袭击印度共产党 (马列) 统一党据点拉克什曼普尔-巴斯 (Lakshmanpur-Bathe)，造成 63 名低种姓人死亡。
+- - 1991 年：冷战：乌克兰选民以压倒性多数赞成脱离苏联独立公投。
+- - 1990 年：从英国和法国开始的英吉利海峡隧道部分在海底交汇。
+- - 1989年：冷战：东德议会废除了赋予共产党在国家领导地位的宪法条款。
+- - 1989年：菲律宾政变企图：右翼军事叛乱武装部队改革运动试图在一场失败的血腥政变中推翻菲律宾总统科拉松·阿基诺。
+- - 1988年：贝娜齐尔·布托被任命为巴基斯坦总理，成为第一位领导穆斯林国家的女性领导人。
+- - 1988 年：联合国成员国在全世界宣布世界艾滋病日。
+- - 1984 年：NASA 进行受控撞击演示，故意坠毁一架客机，以测试技术并收集数据，以帮助提高坠机事件的生存能力。
+- - 1981 年：Inex-Adria Aviopromet 1308 航班（一架麦道 MD-80）在科西嘉岛坠毁，机上 180 人全部遇难。
+- - 1974 年：西北东方航空公司 6231 号航班（另一架波音 727）在约翰·肯尼迪国际机场西北部坠毁。
+- - 1974 年：环球航空 514 号航班（一架波音 727）在杜勒斯国际机场西北部坠毁，机上 92 人全部遇难。
+- - 1973 年：巴布亚新几内亚从澳大利亚手中获得自治权。
+- - 1971 年：在南斯拉夫卡拉乔尔杰沃庄园举行的共产主义者联​​盟会议上，开始了对克罗地亚之春领导人的清洗。
+- - 1971 年：柬埔寨内战：红色高棉叛军加强对柬埔寨政府阵地的攻击，迫使他们从磅士玛和附近的巴雷撤退。
+- - 1969年：越南战争：美国自二战以来举行了第一次选秀抽签。
+- - 1964 年：越南战争：美国总统林登·约翰逊和他的高级顾问开会讨论轰炸北越的计划。
+- - 1963年：那加兰邦成为印度第16个邦。
+- - 1960 年：帕特里斯·卢蒙巴因煽动军队叛乱而在桑库鲁河畔被蒙博托·塞塞·塞科的手下逮捕。
+- - 1959 年：冷战：《南极条约》开始签署，该条约将南极洲划为科学保护区并禁止在该大陆进行军事活动。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-11-30 02:01:59 UTC）*
+*（更新于: 2025-12-01 02:09:15 UTC）*
