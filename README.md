@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2020: The Arecibo Telescope collapsed.
-- 2019: The outbreak of coronavirus infection began in Wuhan.
-- 2019: Arsenal Women 11-1 Bristol City Women breaks the record for most goals scored in a FA Women's Super League match, with Vivianne Miedema involved in ten of the eleven Arsenal goals.
-- 2018: The Oulu Police informed the public about the first offence of the much larger child sexual exploitation in Oulu, Finland.
-- 2011: The Alma-Ata Metro was opened.
-- 2009: The Treaty of Lisbon entered into force in the European Union.
-- 2006: The law on same-sex marriage comes into force in South Africa, legalizing same-sex marriage for the first time on the African continent.
-- 2005: As a result of the merger of the Perm Oblast and the Komi-Permyak Autonomous Okrug, a new subject of the Russian Federation, the Perm Krai, was created.
-- 2001: The United Russia political party was founded.
-- 2000: Vicente Fox Quesada is inaugurated as the president of Mexico, marking the first peaceful transfer of executive federal power to an opposing political party following a free and democratic election in Mexico's history.
-- 1997: Fourteen-year-old Michael Carneal opens fire at a group of students in Heath High School in West Paducah, Kentucky, killing three and injuring five.
-- 1997: In the Indian state of Bihar, Ranvir Sena attacks the CPI (ML) Party Unity stronghold Lakshmanpur-Bathe, killing 63 lower caste people.
-- 1991: Cold War: Ukrainian voters overwhelmingly approve a referendum for independence from the Soviet Union.
-- 1990: Channel Tunnel sections started from the United Kingdom and France meet beneath the seabed.
-- 1989: Cold War: East Germany's parliament abolishes the constitutional provision granting the Communist Party the leading role in the state.
-- 1989: Philippine coup attempt: The right-wing military rebel Reform the Armed Forces Movement attempts to oust Philippine President Corazon Aquino in a failed bloody coup d'état.
-- 1988: Benazir Bhutto, is named as the Prime Minister of Pakistan, becoming the first female leader to lead a Muslim nation.
-- 1988: World AIDS Day is proclaimed worldwide by the UN member states.
-- 1984: NASA conducts the Controlled Impact Demonstration, wherein an airliner is deliberately crashed in order to test technologies and gather data to help improve survivability of crashes.
-- 1981: Inex-Adria Aviopromet Flight 1308, a McDonnell Douglas MD-80, crashes in Corsica, killing all 180 people on board.
-- 1974: Northwest Orient Airlines Flight 6231, another Boeing 727, crashes northwest of John F. Kennedy International Airport.
-- 1974: TWA Flight 514, a Boeing 727, crashes northwest of Dulles International Airport, killing all 92 people on board.
-- 1973: Papua New Guinea gains self-government from Australia.
-- 1971: Purge of Croatian Spring leaders starts in Yugoslavia at the meeting of the League of Communists at the Karađorđevo estate.
-- 1971: Cambodian Civil War: Khmer Rouge rebels intensify assaults on Cambodian government positions, forcing their retreat from Kompong Thmar and nearby Ba Ray.
-- 1969: Vietnam War: The first draft lottery in the United States is held since World War II.
-- 1964: Vietnam War: U.S. President Lyndon B. Johnson and his top-ranking advisers meet to discuss plans to bomb North Vietnam.
-- 1963: Nagaland, became the 16th state of India.
-- 1960: Patrice Lumumba is arrested by Mobutu Sese Seko's men on the banks of the Sankuru River, for inciting the army to rebellion.
-- 1959: Cold War: Opening date for signature of the Antarctic Treaty, which sets aside Antarctica as a scientific preserve and bans military activity on the continent.
+- 2020: Cannabis is removed from the list of most dangerous drugs of the international drug control treaty by the UN Commission on Narcotic Drugs.
+- 2016: Thirty-six people die in a fire at a converted Oakland, California, warehouse serving as an artist collective.
+- 2015: San Bernardino attack: Syed Rizwan Farook and Tashfeen Malik kill 14 people and wound 22 at the Inland Regional Center in San Bernardino, California.
+- 2001: Enron files for Chapter 11 bankruptcy.
+- 1999: The United Kingdom devolves political power in Northern Ireland to the Northern Ireland Executive following the Good Friday Agreement.
+- 1993: Space Shuttle program: STS-61: NASA launches the Space Shuttle Endeavour on a mission to repair the Hubble Space Telescope.
+- 1993: Colombian drug lord Pablo Escobar is shot and killed by police in Medellín.
+- 1992: Space Shuttle Discovery is launched on STS-53 for the United States Department of Defense.
+- 1991: Canada and Poland become the first nations to recognize the independence of Ukraine from the Soviet Union.
+- 1990: Space Shuttle Columbia is launched on STS-35, carrying the ASTRO-1 spacelab observatory.
+- 1989: The Peace Agreement of Hat Yai is signed and ratified by the Malayan Communist Party (MCP) and the governments of Malaysia and Thailand, ending the over two-decade-long communist insurgency in Malaysia.
+- 1988: Space Shuttle Atlantis is launched on STS-27, a classified mission for the United States Department of Defense.
+- 1988: Benazir Bhutto is sworn in as Prime Minister of Pakistan, becoming the first woman to head the government of a Muslim-majority state.
+- 1982: At the University of Utah, Barney Clark becomes the first person to receive a permanent artificial heart.
+- 1980: Salvadoran Civil War: Four American missionaries are raped and murdered by a death squad.
+- 1977: A Tupolev Tu-154 crashes near Benghazi, Libya, killing 59.
+- 1976: Fidel Castro becomes President of Cuba, replacing Osvaldo Dorticós Torrado.
+- 1975: Laotian Civil War: The Pathet Lao seizes the Laotian capital of Vientiane, forces the abdication of King Sisavang Vatthana, and proclaims the Lao People's Democratic Republic.
+- 1972: Gough Whitlam is elected the 21st Prime Minister of Australia in the 1972 Australian federal election, defeating William McMahon and leading the Australian Labor Party back into office after 23 years in Opposition.
+- 1971: Abu Dhabi, Ajman, Fujairah, Sharjah, Dubai, and Umm al-Quwain form the United Arab Emirates.
+- 1970: The United States Environmental Protection Agency begins operations.
+- 1968: Wien Consolidated Airlines Flight 55 crashes into Pedro Bay, Alaska, killing all 39 people on board.
+- 1962: Vietnam War: After a trip to Vietnam at the request of U.S. President John F. Kennedy, U.S. Senate Majority Leader Mike Mansfield becomes the first American official to comment adversely on the war's progress.
+- 1961: In a nationally broadcast speech, Cuban leader Fidel Castro declares that he is a Marxist-Leninist and that Cuba will adopt Communism.
+- 1957: United Nations Security Council Resolution 126 relating to the Kashmir conflict is adopted.
+- 1956: The Granma reaches the shores of Cuba's Oriente Province. Fidel Castro, Che Guevara and 80 other members of the 26th of July Movement disembark to initiate the Cuban Revolution.
+- 1954: The Sino-American Mutual Defense Treaty, between the United States and Taiwan, is signed in Washington, D.C.
+- 1954: Cold War: The United States Senate votes 65 to 22 to censure Joseph McCarthy for "conduct that tends to bring the Senate into dishonor and disrepute".
+- 1950: Korean War: The Battle of the Ch'ongch'on River ends with a decisive Chinese victory and UN forces are completely expelled from North Korea.
+- 1949: Convention for the Suppression of the Traffic in Persons and of the Exploitation of the Prostitution of Others is adopted.
 
 Data from muffinlabs
-*(Updated at: 2025-12-01 02:09:15 UTC)*
+*(Updated at: 2025-12-02 01:52:58 UTC)*
 
 # 历史上的今天 
 
-- - 2020 年：阿雷西博望远镜崩溃。
-- - 2019年：冠状病毒感染在武汉爆发。
-- - 2019 年：阿森纳女足 11-1 布里斯托城女足打破了 FA 女子超级联赛比赛中进球最多的记录，薇薇安·米德玛 (Vivianne Miedema) 参与了阿森纳女足 11 粒进球中的 10 粒。
-- - 2018 年：奥卢警方向公众通报了芬兰奥卢发生的首起规模更大的儿童性剥削案件。
-- - 2011年：阿拉木图地铁开通。
-- - 2009 年：《里斯本条约》在欧盟生效。
-- - 2006年：同性婚姻法在南非生效，同性婚姻在非洲大陆首次合法化。
-- - 2005年：由于彼尔姆州和科米-彼尔米亚克自治州合并，俄罗斯联邦的一个新主体——彼尔姆边疆区诞生了。
-- - 2001年：统一俄罗斯党成立。
-- - 2000年：文森特·福克斯·克萨达就任墨西哥总统，标志着墨西哥历史上自由民主选举后首次将联邦行政权力和平移交给对立政党。
-- - 1997 年：14 岁的迈克尔·卡尼尔 (Michael Carneal) 在肯塔基州西帕迪尤卡的 Heath 高中向一群学生开枪，造成三人死亡、五人受伤。
-- - 1997 年：在印度比哈尔邦，兰维尔·塞纳 (Ranvir Sena) 袭击印度共产党 (马列) 统一党据点拉克什曼普尔-巴斯 (Lakshmanpur-Bathe)，造成 63 名低种姓人死亡。
-- - 1991 年：冷战：乌克兰选民以压倒性多数赞成脱离苏联独立公投。
-- - 1990 年：从英国和法国开始的英吉利海峡隧道部分在海底交汇。
-- - 1989年：冷战：东德议会废除了赋予共产党在国家领导地位的宪法条款。
-- - 1989年：菲律宾政变企图：右翼军事叛乱武装部队改革运动试图在一场失败的血腥政变中推翻菲律宾总统科拉松·阿基诺。
-- - 1988年：贝娜齐尔·布托被任命为巴基斯坦总理，成为第一位领导穆斯林国家的女性领导人。
-- - 1988 年：联合国成员国在全世界宣布世界艾滋病日。
-- - 1984 年：NASA 进行受控撞击演示，故意坠毁一架客机，以测试技术并收集数据，以帮助提高坠机事件的生存能力。
-- - 1981 年：Inex-Adria Aviopromet 1308 航班（一架麦道 MD-80）在科西嘉岛坠毁，机上 180 人全部遇难。
-- - 1974 年：西北东方航空公司 6231 号航班（另一架波音 727）在约翰·肯尼迪国际机场西北部坠毁。
-- - 1974 年：环球航空 514 号航班（一架波音 727）在杜勒斯国际机场西北部坠毁，机上 92 人全部遇难。
-- - 1973 年：巴布亚新几内亚从澳大利亚手中获得自治权。
-- - 1971 年：在南斯拉夫卡拉乔尔杰沃庄园举行的共产主义者联​​盟会议上，开始了对克罗地亚之春领导人的清洗。
-- - 1971 年：柬埔寨内战：红色高棉叛军加强对柬埔寨政府阵地的攻击，迫使他们从磅士玛和附近的巴雷撤退。
-- - 1969年：越南战争：美国自二战以来举行了第一次选秀抽签。
-- - 1964 年：越南战争：美国总统林登·约翰逊和他的高级顾问开会讨论轰炸北越的计划。
-- - 1963年：那加兰邦成为印度第16个邦。
-- - 1960 年：帕特里斯·卢蒙巴因煽动军队叛乱而在桑库鲁河畔被蒙博托·塞塞·塞科的手下逮捕。
-- - 1959 年：冷战：《南极条约》开始签署，该条约将南极洲划为科学保护区并禁止在该大陆进行军事活动。
+- - 2020年：联合国麻醉药品委员会将大麻从国际药物管制条约最危险药物清单中删除。
+- - 2016 年：加利福尼亚州奥克兰一座由艺术家团体改建的仓库发生火灾，造成 36 人死亡。
+- - 2015 年：圣贝纳迪诺袭击：Syed Rizwan Farook 和 Tashfeen Malik 在加利福尼亚州圣贝纳迪诺的内陆区域中心造成 14 人死亡、22 人受伤。
+- - 2001 年：安然公司根据美国破产法第 11 章申请破产。
+- - 1999 年：根据《耶稣受难日协议》，英国将北爱尔兰的政治权力移交给北爱尔兰行政机构。
+- - 1993 年：航天飞机计划：STS-61：美国宇航局发射奋进号航天飞机执行修复哈勃太空望远镜的任务。
+- - 1993 年：哥伦比亚毒枭巴勃罗·埃斯科巴在麦德林被警察枪杀。
+- - 1992 年：发现号航天飞机在 STS-53 上为美国国防部发射升空。
+- - 1991年：加拿大和波兰成为首批承认乌克兰脱离苏联独立的国家。
+- - 1990 年：哥伦比亚号航天飞机在 STS-35 上发射，搭载 ASTRO-1 太空实验室天文台。
+- - 1989年：马来亚共产党（MCP）与马来西亚和泰国政府签署并批准《合艾和平协议》，结束了马来西亚长达二十多年的共产主义叛乱。
+- - 1988 年：亚特兰蒂斯号航天飞机搭载 STS-27 发射升空，这是美国国防部的一项机密任务。
+- - 1988 年：贝娜齐尔·布托宣誓就任巴基斯坦总理，成为穆斯林占多数的国家第一位女性政府首脑。
+- - 1982 年：在犹他大学，巴尼·克拉克 (Barney Clark) 成为第一个接受永久性人造心脏的人。
+- - 1980 年：萨尔瓦多内战：四名美国传教士被行刑队强奸并谋杀。
+- - 1977 年：一架图波列夫 Tu-154 在利比亚班加西附近坠毁，造成 59 人死亡。
+- - 1976 年：菲德尔·卡斯特罗取代奥斯瓦尔多·多尔蒂科斯·托拉多成为古巴总统。
+- - 1975年：老挝内战：巴特寮占领老挝首都万象，迫使国王西萨旺·瓦塔那退位，并宣布成立老挝人民民主共和国。
+- - 1972 年：高夫·惠特拉姆 (Gough Whitlam) 在 1972 年澳大利亚联邦选举中击败威廉·麦克马洪 (William McMahon)，当选为澳大利亚第 21 任总理，带领澳大利亚工党在执政 23 年后重新执政。
+- - 1971 年：阿布扎比、阿治曼、富查伊拉、沙迦、迪拜和乌姆盖万组成阿拉伯联合酋长国。
+- - 1970 年：美国环境保护局开始运作。
+- - 1968 年：维也纳联合航空公司 55 号航班坠入阿拉斯加佩德罗湾，机上 39 人全部遇难。
+- - 1962 年：越南战争：应美国总统约翰·F·肯尼迪的要求访问越南后，美国参议院多数党领袖迈克·曼斯菲尔德成为第一位对战争进展发表负面评论的美国官员。
+- - 1961年：古巴领导人菲德尔·卡斯特罗在全国广播讲话中宣称他是马克思列宁主义者，古巴将实行共产主义。
+- - 1957年：联合国安理会通过有关克什米尔冲突的第126号决议。
+- - 1956 年：格拉玛号抵达古巴东方省海岸。菲德尔·卡斯特罗、切·格瓦拉和 7 月 26 日运动的其他 80 名成员下船发起古巴革命。
+- - 1954年：美国与台湾在华盛顿签署《中美共同防御条约》
+- - 1954 年：冷战：美国参议院以 65 票对 22 票谴责约瑟夫·麦卡锡“容易使参议院蒙羞和名誉扫地的行为”。
+- - 1950 年：朝鲜战争：清川江之战以中国取得决定性胜利而结束，联合国部队被完全驱逐出朝鲜。
+- - 1949 年：《禁止贩卖人口及取缔意图营利使人卖淫的公约》获得通过。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-12-01 02:09:15 UTC）*
+*（更新于: 2025-12-02 01:52:58 UTC）*
