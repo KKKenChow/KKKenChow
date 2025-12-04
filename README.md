@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Martial law is declared in South Korea.
-- 2023: Mount Marapi located in West Sumatra, Indonesia begins a sporadic series of eruptions. 23 people were killed, and 12 were injured.
-- 2022: Massive power outage after Moore County substation attack, that leaves 45,000 people, without power, for five days, leading to a FBI probe.
-- 2014: The Japanese space agency, JAXA, launches the space explorer Hayabusa2 from the Tanegashima Space Center on a six-year round trip mission to an asteroid to collect rock samples.
-- 2012: At least 475 people are killed after Typhoon Bopha makes landfall in the Philippines.
-- 2009: A suicide bombing at a hotel in Mogadishu, Somalia, kills 25 people, including three ministers of the Transitional Federal Government.
-- 2007: Winter storms cause the Chehalis River to flood many cities in Lewis County, Washington, and close a 32-kilometre (20 mi) portion of Interstate 5 for several days. At least eight deaths and billions of dollars in damages are blamed on the floods.
-- 2005: XCOR Aerospace makes the first crewed rocket aircraft delivery of U.S. Mail in Kern County, California.
-- 1999: In Worcester, Massachusetts, firefighters responded to a fire at the Worcester Cold Storage and Warehouse Co. facility, which takes the lives of 6 firefighters.
-- 1999: NASA loses radio contact with the Mars Polar Lander moments before the spacecraft enters the Martian atmosphere.
-- 1997: In Ottawa, Ontario, Canada, representatives from 121 countries sign the Ottawa Treaty prohibiting manufacture and deployment of anti-personnel landmines. The United States, People's Republic of China, and Russia do not sign the treaty, however.
-- 1995: Cameroon Airlines Flight 3701 crashes on approach to Douala International Airport in Douala, Cameroon, killing 71 of the 76 people on board.
-- 1994: Sony releases the PlayStation game console in Japan.
-- 1994: Taiwan holds its first full local elections; James Soong elected as the first and only directly elected Governor of Taiwan, Chen Shui-bian became the first directly elected Mayor of Taipei, Wu Den-yih became the first directly elected Mayor of Kaohsiung.
-- 1992: A test engineer for Sema Group uses a personal computer to send the world's first text message via the Vodafone network to the phone of a colleague.
-- 1992: The Greek oil tanker Aegean Sea, carrying 80,000 tonnes of crude oil, runs aground in a storm while approaching A Coruña, Spain, and spills much of its cargo.
-- 1989: In a meeting off the coast of Malta, U.S. President George H. W. Bush and Soviet General Secretary Mikhail Gorbachev release statements indicating that the Cold War between NATO and the Warsaw Pact may be coming to an end.
-- 1984: Bhopal disaster: A methyl isocyanate leak from a Union Carbide pesticide plant in Bhopal, India, kills more than 3,800 people outright and injures 150,000-600,000 others (some 6,000 of whom later died from their injuries) in one of the worst industrial disasters in history.
-- 1982: A soil sample is taken from Times Beach, Missouri, that will be found to contain 300 times the safe level of dioxin.
-- 1979: Iranian Revolution: Ayatollah Ruhollah Khomeini becomes the first Supreme Leader of Iran.
-- 1979: In Cincinnati, 11 fans are suffocated in a crush for seats on the concourse outside Riverfront Coliseum before a Who concert.
-- 1973: Pioneer program: Pioneer 10 sends back the first close-up images of Jupiter.
-- 1972: Spantax Flight 275 crashes during takeoff from Tenerife North-Ciudad de La Laguna Airport, killing all 155 people on board.
-- 1971: Indo-Pakistani War of 1971: Pakistan launches a pre-emptive strike against India and a full-scale war begins.
-- 1967: At Groote Schuur Hospital in Cape Town, South Africa, a transplant team headed by Christiaan Barnard carries out the first heart transplant on a human (53-year-old Louis Washkansky).
-- 1965: Soviet Union, Space probe of the Luna program, called Luna 8, is launched, but crashes on the Moon.
-- 1960: The musical Camelot debuts at the Majestic Theatre on Broadway. It will become associated with the Kennedy administration.
-- 1959: The current flag of Singapore is adopted, six months after Singapore became self-governing within the British Empire.
-- 1954: Väinö Linna's war novel The Unknown Soldier (Tuntematon sotilas) is published.
-- 1944: Greek Civil War: Fighting breaks out in Athens between the ELAS and government forces supported by the British Army.
+- 2021: Semeru on the Indonesian island of Java erupts, killing at least 68 people.
+- 2017: The Thomas Fire starts near Santa Paula in California. It eventually became the largest wildfire in modern California history to date after burning 440 square miles (1,140 km2) in Ventura and Santa Barbara Counties.
+- 2015: A firebomb is thrown into a restaurant in the Egyptian capital of Cairo, killing 17 people.
+- 2014: Islamic insurgents kill three state police at a traffic circle before taking an empty school and a "press house" in Grozny. Ten state forces die with 28 injured in gun battles ending with ten insurgents killed.
+- 2006: Six black youths assault a white teenager in Jena, Louisiana.
+- 2005: Tens of thousands of people in Hong Kong protest for democracy and call on the government to allow universal and equal suffrage.
+- 1998: The Unity Module, the second module of the International Space Station, is launched.
+- 1992: Somali Civil War: President George H. W. Bush orders 28,000 U.S. troops to Somalia in Northeast Africa.
+- 1991: Pan American World Airways ceases its operations after 64 years.
+- 1991: Terry A. Anderson is released after seven years in captivity as a hostage in Beirut; he is the last and longest-held American hostage in Lebanon.
+- 1986: The MV Amazon Venture oil tanker begins leaking oil while at the port of Savannah in the United States, resulting in an oil spill of approximately 500,000 US gallons (1,900,000 L).
+- 1984: Sri Lankan Civil War: Sri Lankan Army soldiers kill 107-150 civilians in Mannar.
+- 1983: US Navy aircraft from USS John F. Kennedy and USS Independence attack Syrian missile sites in Lebanon in response to an F-14 being fired on by an SA-7. One A-6 Intruder and A-7 Corsair are shot down. One American pilot is killed, one is rescued, and one is captured.
+- 1982: The People's Republic of China adopts its current constitution.
+- 1981: South Africa grants independence to the Ciskei "homeland" (not recognized by any government outside South Africa).
+- 1979: The Hastie fire in Hull kills three schoolboys and eventually leads police to arrest Bruce George Peter Lee.
+- 1978: Following the murder of Mayor George Moscone, Dianne Feinstein becomes San Francisco's first female mayor.
+- 1977: Malaysian Airline System Flight 653 is hijacked and crashes in Tanjong Kupang, Johor, killing 100.
+- 1977: Jean-Bédel Bokassa, president of the Central African Republic, crowns himself Emperor Bokassa I of the Central African Empire.
+- 1974: Martinair Flight 138 crashes into the Saptha Kanya mountain range in Maskeliya, Sri Lanka, killing 191.
+- 1971: During a concert by Frank Zappa and The Mothers of Invention at the Montreux Casino, an audience member fires a flare gun into the ceiling, causing a fire that destroys the venue. The incident served as the inspiration for Deep Purple's 1973 song Smoke on the Water.
+- 1971: The PNS Ghazi, a Pakistan Navy submarine, sinks during the course of the Indo-Pakistani Naval War of 1971.
+- 1969: Black Panther Party members Fred Hampton and Mark Clark are shot and killed during a raid by 14 Chicago police officers.
+- 1965: Launch of Gemini 7 with crew members Frank Borman and Jim Lovell. The Gemini 7 spacecraft was the passive target for the first crewed space rendezvous performed by the crew of Gemini 6A.
+- 1964: Free Speech Movement: Police arrest over 800 students at the University of California, Berkeley, following their takeover and sit-in at the administration building in protest of the UC Regents' decision to forbid protests on UC property.
+- 1956: The Million Dollar Quartet (Elvis Presley, Jerry Lee Lewis, Carl Perkins, and Johnny Cash) get together at Sun Studio for the first and last time.
+- 1950: Korean War: Associated Press photographer Max Desfor photographs hundreds of Korean refugees crossing a downed bridge in the Taedong River: 1951 Pulitzer Prize winner Flight of Refugees Across Wrecked Bridge in Korea.
+- 1950: Korean War: Jesse L. Brown (the 1st African-American Naval aviator) is killed in action during the Battle of Chosin Reservoir.
+- 1949: Sir Duncan George Stewart, governor of the Crown Colony of Sarawak, was fatally stabbed by a member of the Rukun 13.
+- 1948: Chinese Civil War: The SS Kiangya, carrying Nationalist refugees from Shanghai, explodes in the Huangpu River.
 
 Data from muffinlabs
-*(Updated at: 2025-12-03 01:52:34 UTC)*
+*(Updated at: 2025-12-04 01:53:37 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：韩国宣布戒严。
-- - 2023 年：位于印度尼西亚西苏门答腊岛的马拉皮火山开始发生一系列零星喷发。造成23人死亡、12人受伤。
-- - 2022 年：摩尔县变电站袭击后发生大规模停电，导致 45,000 人断电五天，导致 FBI 展开调查。
-- - 2014 年：日本宇宙航空研究开发机构 (JAXA) 从种子岛航天中心发射太空探测器隼鸟 2 号，执行为期六年的小行星往返任务，收集岩石样本。
-- - 2012 年：台风宝霞登陆菲律宾，造成至少 475 人死亡。
-- - 2009年：索马里摩加迪沙一家酒店发生自杀式爆炸事件，造成25人死亡，其中包括过渡联邦政府的三名部长。
-- - 2007 年：冬季风暴导致奇黑利斯河淹没华盛顿州刘易斯县的许多城市，并使 5 号州际公路 32 公里（20 英里）的部分关闭数天。洪水造成至少八人死亡和数十亿美元的损失。
-- - 2005 年：XCOR Aerospace 在加利福尼亚州克恩县制造了第一架载人火箭飞机运送美国邮件。
-- - 1999 年：在马萨诸塞州伍斯特市，消防员对伍斯特冷库和仓库公司设施发生的火灾进行了救援，导致 6 名消防员丧生。
-- - 1999 年：美国国家航空航天局 (NASA) 在火星极地着陆器进入火星大气层之前失去了与火星极地着陆器的无线电联系。
-- - 1997年：在加拿大安大略省渥太华，来自121个国家的代表签署了《渥太华条约》，禁止制造和部署杀伤人员地雷。然而，美国、中华人民共和国和俄罗斯并未签署该条约。
-- - 1995 年：喀麦隆航空公司 3701 号航班在飞往喀麦隆杜阿拉国际机场时坠毁，机上 76 人中有 71 人死亡。
-- - 1994 年：索尼在日本发布 PlayStation 游戏机。
-- - 1994年：台湾举行第一次全面地方选举；宋楚瑜当选为第一位也是唯一一位直选的台湾省长，陈水扁成为第一位直选的台北市长，吴敦义成为第一位直选的高雄市长。
-- - 1992 年：Sema Group 的一名测试工程师使用个人计算机通过沃达丰网络向同事的手机发送了世界上第一条短信。
-- - 1992年：载有8万吨原油的希腊油轮爱琴海在接近西班牙拉科鲁尼亚时因风暴搁浅，导致大部分货物泄漏。
-- - 1989年：在马耳他海岸的一次会议上，美国总统乔治·H·W·布什和苏联总书记米哈伊尔·戈尔巴乔夫发表声明，表示北约和华沙条约组织之间的冷战可能即将结束。
-- - 1984 年：博帕尔灾难：印度博帕尔一家联合碳化物农药厂发生异氰酸甲酯泄漏，造成 3,800 多人死亡，150,000-600,000 人受伤（其中约 6,000 人后来因伤死亡），这是历史上最严重的工业灾难之一。
-- - 1982 年：从密苏里州时代海滩采集土壤样本，结果发现其中的二恶英含量是安全水平的 300 倍。
-- - 1979 年：伊朗革命：阿亚图拉鲁霍拉霍梅尼成为伊朗第一位最高领袖。
-- - 1979 年：在辛辛那提，在一场 Who 音乐会之前，11 名歌迷在 Riverfront Coliseum 外的广场上争抢座位，结果窒息而死。
-- - 1973 年：先锋计划：先锋 10 号发回第一张木星特写图像。
-- - 1972 年：Spantax 275 号航班在从特内里费北拉古纳机场起飞时坠毁，机上 155 人全部遇难。
-- - 1971年：1971年印巴战争：巴基斯坦对印度发动先发制人的打击，全面战争开始。
-- - 1967 年：在南非开普敦的 Groote Schuur 医院，由 Christiaan Barnard 领导的移植小组对人类（53 岁的 Louis Washkansky）进行了第一例心脏移植手术。
-- - 1965 年：苏联发射了名为 Luna 8 的月球计划太空探测器，但在月球上坠毁。
-- - 1960 年：音乐剧《卡米洛特》在百老汇 Majestic 剧院首演。它将与肯尼迪政府联系在一起。
-- - 1959 年：新加坡在大英帝国内实现自治六个月后，采用了新加坡现行国旗。
-- - 1954 年：瓦伊诺·林纳 (Väinö Linna) 的战争小说《无名战士》(Tuntematon sotilas) 出版。
-- - 1944 年：希腊内战：ELAS 与英国陆军支持的政府军之间在雅典爆发战斗。
+- - 2021 年：印度尼西亚爪哇岛上的塞梅鲁火山喷发，造成至少 68 人死亡。
+- - 2017 年：托马斯大火在加利福尼亚州圣保拉附近爆发。文图拉县和圣巴巴拉县燃烧了 440 平方英里（1,140 平方公里），最终成为现代加州历史上最大的野火。
+- - 2015 年：一枚燃烧弹被扔进埃及首都开罗的一家餐厅，造成 17 人死亡。
+- - 2014年：伊斯兰叛乱分子在交通环岛杀死了三名州警察，然后占领了格罗兹尼的一所空荡荡的学校和一家“新闻中心”。枪战导致 10 名政府军死亡、28 人受伤，最后 10 名叛乱分子被杀。
+- - 2006 年：路易斯安那州耶拿市六名黑人青年袭击一名白人少年。
+- - 2005年：香港数万人抗议民主，呼吁政府允许普选和平等选举权。
+- - 1998 年：国际空间站的第二个模块“团结舱”发射升空。
+- - 1992 年：索马里内战：乔治·H·W·布什总统命令 28,000 名美军前往东北非的索马里。
+- - 1991 年：泛美世界航空公司在运营 64 年后停止运营。
+- - 1991 年：特里·A·安德森 (Terry A. Anderson) 在贝鲁特作为人质被囚禁七年后获释；他是在黎巴嫩最后一名也是被扣押时间最长的美国人质。
+- - 1986 年：MV Amazon Venture 油轮在美国萨凡纳港期间开始漏油，导致漏油量约 500,000 美加仑（1,900,000 L）。
+- - 1984 年：斯里兰卡内战：斯里兰卡陆军士兵在马纳尔杀害 107-150 名平民。
+- - 1983 年：约翰·F·肯尼迪号航空母舰和独立号航空母舰的美国海军飞机攻击黎巴嫩境内的叙利亚导弹基地，以回应一架 F-14 被 SA-7 发射。一架 A-6 Intruder 和 A-7 Corsair 被击落。一名美国飞行员被杀，一名获救，一名被俘。
+- - 1982年：中华人民共和国通过现行宪法。
+- - 1981 年：南非授予西斯凯“祖国”独立（不被南非以外的任何政府承认）。
+- - 1979 年：赫尔的哈斯蒂火灾导致三名男生死亡，最终导致警方逮捕了布鲁斯·乔治·彼得·李。
+- - 1978 年：市长乔治·莫斯康 (George Moscone) 被谋杀后，黛安·范斯坦 (Dianne Feinstein) 成为旧金山第一位女市长。
+- - 1977 年：马来西亚航空公司 653 号航班被劫持并在柔佛州丹绒古邦坠毁，造成 100 人死亡。
+- - 1977 年：中非共和国总统让-贝德尔·博卡萨加冕为中非帝国皇帝博卡萨一世。
+- - 1974 年：马丁航空 138 号航班坠入斯里兰卡马斯基利亚的萨普塔卡尼亚山脉，造成 191 人死亡。
+- - 1971 年：弗兰克·扎帕 (Frank Zappa) 和发明之母 (The Mothers of Invention) 在蒙特勒赌场 (Montreux Casino) 举办的一场音乐会上，一名观众用信号枪向天花板发射信号，引发火灾并摧毁了场地。这一事件成为 Deep Purple 1973 年歌曲《Smoke on the Water》的灵感来源。
+- - 1971 年：巴基斯坦海军潜艇 PNS Ghazi 在 1971 年印巴海战中沉没。
+- - 1969 年：黑豹党成员 Fred Hampton 和 Mark Clark 在 14 名芝加哥警察的突袭中被枪杀。
+- - 1965 年：与机组成员 Frank Borman 和 Jim Lovell 一起发射 Gemini 7。双子座7号航天器是双子座6A号机组人员进行的首次载人太空交会的被动目标。
+- - 1964 年：言论自由运动：加州大学伯克利分校的 800 多名学生接管并在行政大楼静坐，抗议加州大学董事会禁止在加州大学财产上举行抗议的决定，随后警方逮捕了他们。
+- - 1956 年：百万美元四重奏（埃尔维斯·普雷斯利、杰瑞·李·刘易斯、卡尔·珀金斯和约翰尼·卡什）第一次也是最后一次在 Sun Studio 聚会。
+- - 1950 年：朝鲜战争：美联社摄影师马克斯·德斯福 (Max Desfor) 拍摄了数百名韩国难民穿越大同江上一座倒塌桥梁的照片：1951 年普利策奖得主难民逃过韩国被毁的桥梁。
+- - 1950 年：朝鲜战争：杰西·L·布朗（第一位非裔美国海军飞行员）在长津水库战役中阵亡。
+- - 1949 年：沙捞越直辖殖民地总督邓肯·乔治·斯图尔特爵士被鲁昆 13 党成员刺死。
+- - 1948 年：中国内战：载有来自上海的国民党难民的SS江雅号在黄浦江中爆炸。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-12-03 01:52:34 UTC）*
+*（更新于: 2025-12-04 01:53:37 UTC）*
