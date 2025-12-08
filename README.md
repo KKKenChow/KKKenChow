@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024:  Battle of Damascus (2024): Syrian opposition forces enter the Rif Dimashq Governorate, reaching within 20 km of the capital Damascus.
-- 2017: Aztec High School shooting: Former student William Atchison opens fire on former high school, killing 2.
-- 2016: Pakistan International Airlines Flight 661, a domestic passenger flight from Chitral to Islamabad, operated by an ATR-42-500 crashes near Havelian, killing all 47 on board.
-- 2015: The JAXA probe Akatsuki successfully enters orbit around Venus five years after the first attempt.
-- 2005: Rigoberto Alpizar, a passenger on American Airlines Flight 924 who allegedly claimed to have a bomb, is shot and killed by a team of U.S. federal air marshals at Miami International Airport.
-- 2003: The Conservative Party of Canada is officially registered, following the merger of the Canadian Alliance and the Progressive Conservative Party of Canada.
-- 1995: An Air Saint Martin (now Air Caraïbes) Beechcraft 1900 crashes near the Haitian commune of Belle Anse, killing 20.
-- 1995: Khabarovsk United Air Group Flight 3949 crashes into the Bo-Dzhausa Mountain, killing 98.
-- 1995: The Galileo spacecraft arrives at Jupiter, a little more than six years after it was launched by Space Shuttle Atlantis during Mission STS-34.
-- 1993: Long Island Rail Road shooting: Passenger Colin Ferguson murders six people and injures 19 others on the LIRR in Nassau County, New York.
-- 1988: The 6.8 Ms  Armenian earthquake shakes the northern part of the country with a maximum MSK intensity of X (Devastating), killing 25,000-50,000 and injuring 31,000-130,000.
-- 1987: Pacific Southwest Airlines Flight 1771, a British Aerospace 146-200A, crashes near Paso Robles, California, killing all 43 on board, after a disgruntled passenger shoots his ex-boss traveling on the flight, then shoots both pilots and steers the plane into the ground.
-- 1983: An Iberia Airlines Boeing 727 collides with an Aviaco DC-9 in dense fog while the two airliners are taxiing down the runway at Madrid-Barajas Airport, killing 93 people.
-- 1982: The Senior Road Tower collapses in less than 17 seconds.  Five workers on the tower are killed and three workers on a building nearby are injured.
-- 1982: In Texas, Charles Brooks Jr., becomes the first person to be executed by lethal injection in the United States.
-- 1972: Apollo 17, the last Apollo Moon mission, is launched. The crew takes the photograph known as The Blue Marble as they leave the Earth.
-- 1971: Pakistan President Yahya Khan announces the formation of a coalition government with Nurul Amin as Prime Minister and Zulfikar Ali Bhutto as Deputy Prime Minister.
-- 1971: The Battle of Sylhet is fought between the Pakistani military and the Indian Army.
-- 1965: Pope Paul VI and Patriarch Athenagoras I simultaneously revoke mutual excommunications that had been in place since 1054.
-- 1963: Instant replay makes its debut during the Army-Navy football game in Philadelphia, Pennsylvania, United States.
-- 1962: Prince Rainier III of Monaco revises the principality's constitution, devolving some of his power to advisory and legislative councils.
-- 1949: Chinese Civil War: The Government of the Republic of China moves from Nanjing to Taipei, Taiwan.
-- 1946: A fire at the Winecoff Hotel in Atlanta, Georgia kills 119 people, the deadliest hotel fire in U.S. history.
-- 1944: An earthquake along the coast of Wakayama Prefecture in Japan causes a tsunami which kills 1,223 people.
-- 1942: World War II: British commandos conduct Operation Frankton, a raid on shipping in Bordeaux harbour.
-- 1941: World War II: Attack on Pearl Harbor: The Imperial Japanese Navy carries out a surprise attack on the United States Pacific Fleet and its defending Army and Marine air forces at Pearl Harbor, Hawaii. (For Japan's near-simultaneous attacks on Eastern Hemisphere targets, see December 8.)
-- 1936: Australian cricketer Jack Fingleton becomes the first player to score centuries in four consecutive Test innings.
-- 1932: German-born Swiss physicist Albert Einstein is granted an American visa.
-- 1930: W1XAV in Boston, Massachusetts telecasts video from the CBS radio orchestra program, The Fox Trappers. The telecast also includes the first television advertisement in the United States, for I.J. Fox Furriers, which also sponsored the radio show.
-- 1922: The Parliament of Northern Ireland votes to remain a part of the United Kingdom and not unify with Southern Ireland.
+- 2024: Damascus falls to rebels after Syrian troops withdraw and president Bashar al-Assad leaves the country as his government collapses. Israel as a result invaded into the buffer zone between Syria and the Israeli-occupied Golan Heights.
+- 2019: First confirmed case of COVID-19 in China.
+- 2013: Metallica performs a show in Antarctica, making them the first musical act to perform on all seven continents.
+- 2013: Riots break out in Singapore, after a fatal accident in Little India.
+- 2010: The Japanese solar-sail spacecraft IKAROS passes the planet Venus at a distance of about 80,800 km (50,200 mi).
+- 2010: With the second launch of the Falcon 9, and the first launch of the Dragon, SpaceX becomes the first private company to successfully launch, orbit and recover a spacecraft.
+- 2009: Bombings in Baghdad, Iraq kill 127 people and injure 448 others.
+- 2004: Columbus nightclub shooting: Nathan Gale opens fire at the Alrosa Villa nightclub in Columbus, Ohio, killing former Pantera guitarist Dimebag Darrell and three others before being shot dead by a police officer.
+- 2004: The Cusco Declaration is signed in Cusco, Peru, establishing the South American Community of Nations.
+- 2001: A raid conducted by the Internal Security Department (ISD) of Singapore foils a Jemaah Islamiyah (JI) plot to bomb foreign embassies in Singapore.
+- 1998: Eighty-one people are killed by armed groups in Algeria.
+- 1992: The Galileo spacecraft flies past Earth for the second time.
+- 1991: The leaders of Russia, Belarus and Ukraine sign an agreement dissolving the Soviet Union and establishing the Commonwealth of Independent States.
+- 1990: The Galileo spacecraft flies past Earth for the first time.
+- 1988: A United States Air Force A-10 Thunderbolt II crashes into an apartment complex in Remscheid, Germany, killing five people and injuring 50 others.
+- 1987: An Israeli army tank transporter kills four Palestinian refugees and injures seven others during a traffic accident at the Erez Crossing on the Israel-Gaza Strip border, which has been cited as one of the events which sparked the First Intifada.
+- 1987: Cold War: The Intermediate-Range Nuclear Forces Treaty is signed by U.S. President Ronald Reagan and Soviet leader Mikhail Gorbachev in the White House.
+- 1985: The South Asian Association for Regional Cooperation, the regional intergovernmental organization and geopolitical union in South Asia, is established.
+- 1980: John Lennon is murdered by Mark David Chapman in front of The Dakota in New York City.
+- 1974: A plebiscite results in the abolition of monarchy in Greece.
+- 1972: United Airlines Flight 553, a Boeing 737, crashes after aborting its landing attempt at Chicago Midway International Airport, killing 45. This is the first-ever loss of a Boeing 737.
+- 1971: Indo-Pakistani War: The Indian Navy launches an attack on West Pakistan's port city of Karachi.
+- 1969: Olympic Airways Flight 954 strikes a mountain outside of Keratea, Greece, killing 90 people in the worst crash of a Douglas DC-6 in history.
+- 1966: The Greek ship SS Heraklion sinks in a storm in the Aegean Sea, killing over 200.
+- 1963: Pan Am Flight 214, a Boeing 707, is struck by lightning and crashes near Elkton, Maryland, killing all 81 people on board.
+- 1962: Workers at four New York City newspapers (this later increases to nine) go on strike for 114 days.
+- 1955: The Flag of Europe is adopted by Council of Europe.
+- 1953: U.S. President Dwight D. Eisenhower delivers his "Atoms for Peace" speech, which leads to an American program to supply equipment and information on nuclear power to schools, hospitals, and research institutions around the world.
+- 1943: World War II: The German 117th Jäger Division destroys the monastery of Mega Spilaio in Greece and executes 22 monks and visitors as part of reprisals that culminated a few days later with the Massacre of Kalavryta.
+- 1941: World War II: Japanese forces simultaneously invade Shanghai International Settlement, Malaya, Thailand, Hong Kong, the Philippines, and the Dutch East Indies. (See December 7 for the concurrent attack on Pearl Harbor in the Western Hemisphere.)
 
 Data from muffinlabs
-*(Updated at: 2025-12-07 02:02:22 UTC)*
+*(Updated at: 2025-12-08 01:54:42 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：大马士革之战（2024 年）：叙利亚反对派军队进入大马士革农村省，到达距首都大马士革 20 公里以内。
-- - 2017 年：阿兹特克高中枪击事件：前学生 William Atchison 向前高中开枪，造成 2 人死亡。
-- - 2016 年：巴基斯坦国际航空 661 号航班（从吉德拉尔飞往伊斯兰堡的国内客运航班，由一架 ATR-42-500 运营）在哈维连附近坠毁，机上 47 人全部遇难。
-- - 2015 年：JAXA 探测器“晓”在首次尝试五年后成功进入金星轨道。
-- - 2005 年：美国航空 924 号航班上的乘客 Rigoberto Alpizar 据称声称拥有炸弹，在迈阿密国际机场被一群美国联邦空警开枪打死。
-- - 2003年：加拿大联盟与加拿大进步保守党合并后，加拿大保守党正式注册。
-- - 1995 年：圣马丁航空（现为加勒比海航空）的一架比奇 1900 型飞机在海地贝尔安斯公社附近坠毁，造成 20 人死亡。
-- - 1995 年：哈巴罗夫斯克联合航空集团 3949 号航班坠入 Bo-Dzhausa 山，造成 98 人死亡。
-- - 1995 年：伽利略号宇宙飞船抵达木星，距其在 STS-34 任务期间由亚特兰蒂斯号航天飞机发射升空已过去六年多。
-- - 1993 年：长岛铁路枪击事件：纽约拿骚县长岛铁路上的乘客科林·弗格森 (Colin Ferguson) 杀害了 6 人，造成 19 人受伤。
-- - 1988 年：亚美尼亚发生 6.8 级地震，最大 MSK 强度为 X（毁灭性），造成 25,000-50,000 人死亡，31,000-130,000 人受伤。
-- - 1987 年：太平洋西南航空公司 1771 号航班（英国航空航天公司的 146-200A）在加利福尼亚州帕索罗布尔斯附近坠毁，机上 43 人全部遇难，一名心怀不满的乘客开枪射杀了飞机上的前老板，然后开枪射杀了两名飞行员，并将飞机转向地面。
-- - 1983 年：浓雾中，伊比利亚航空公司 (Iberia Airlines) 的一架波音 727 飞机与一架阿维亚科 DC-9 飞机在马德里巴拉哈斯机场跑道上滑行时相撞，造成 93 人死亡。
-- - 1982 年：高级路塔在不到 17 秒内倒塌。塔上的五名工人死亡，附近一座建筑物的三名工人受伤。
-- - 1982 年：在德克萨斯州，小查尔斯·布鲁克斯 (Charles Brooks Jr.) 成为美国第一个被注射死刑的人。
-- - 1972 年：最后一次阿波罗登月任务阿波罗 17 号发射。机组人员在离开地球时拍摄了这张名为“蓝色大理石”的照片。
-- - 1971年：巴基斯坦总统叶海亚·汗宣布组建联合政府，努鲁·阿明担任总理，佐勒菲卡尔·阿里·布托担任副总理。
-- - 1971年：锡尔赫特战役在巴基斯坦军队和印度军队之间进行。
-- - 1965 年：教皇保罗六世和主教雅典娜哥拉一世同时撤销自 1054 年以来实行的相互绝罚。
-- - 1963 年：即时重播在美国宾夕法尼亚州费城举行的陆军与海军橄榄球比赛中首次亮相。
-- - 1962 年：摩纳哥亲王雷尼尔三世修改了公国宪法，将部分权力移交给顾问委员会和立法委员会。
-- - 1949 年：中国内战：中华民国政府从南京迁往台湾台北。
-- - 1946 年：佐治亚州亚特兰大的 Winecoff 酒店发生火灾，造成 119 人死亡，这是美国历史上最致命的酒店火灾。
-- - 1944 年：日本和歌山县沿海发生地震，引发海啸，造成 1,223 人死亡。
-- - 1942 年：第二次世界大战：英国突击队实施弗兰克顿行动，对波尔多港口的航运进行突袭。
-- - 1941 年：第二次世界大战：偷袭珍珠港：日本帝国海军在夏威夷珍珠港对美国太平洋舰队及其守卫陆军和海军陆战队空军发动突然袭击。（有关日本对东半球目标几乎同时发动的攻击，请参阅 12 月 8 日。）
-- - 1936 年：澳大利亚板球运动员杰克·芬格尔顿 (Jack Fingleton) 成为第一位在连续四局测试赛中得分数百的球员。
-- - 1932 年：出生于德国的瑞士物理学家阿尔伯特·爱因斯坦获得美国签证。
-- - 1930 年：马萨诸塞州波士顿的 W1XAV 播放 CBS 广播管弦乐队节目《狐狸捕手》的视频。该电视节目还包括美国第一个电视广告，即 I.J.福克斯毛皮公司 (Fox Furriers) 也赞助了该广播节目。
-- - 1922 年：北爱尔兰议会投票决定继续作为联合王国的一部分，而不与南爱尔兰统一。
+- - 2024 年：叙利亚军队撤出，总统巴沙尔·阿萨德 (Bashar al-Assad) 政府垮台，大马士革落入叛军之手。结果，以色列入侵了叙利亚和以色列占领的戈兰高地之间的缓冲区。
+- - 2019 年：中国首例确诊的 COVID-19 病例。
+- - 2013 年：Metallica 在南极洲演出，成为第一个在七大洲演出的音乐团体。
+- - 2013 年：小印度发生致命事故后，新加坡爆发骚乱。
+- - 2010 年：日本太阳帆飞船 IKAROS 在距离约 80,800 公里（50,200 英里）的地方经过金星。
+- - 2010 年：随着猎鹰 9 号的第二次发射和龙飞船的首次发射，SpaceX 成为第一家成功发射、入轨和回收航天器的私营公司。
+- - 2009 年：伊拉克巴格达发生爆炸事件，造成 127 人死亡、448 人受伤。
+- - 2004 年：哥伦布夜总会枪击事件：内森·盖尔 (Nathan Gale) 在俄亥俄州哥伦布市的 Alrosa Villa 夜总会开枪，杀死前 Pantera 吉他手 Dimebag Darrell 和其他三人，然后被警察开枪打死。
+- - 2004年：在秘鲁库斯科签署《库斯科宣言》，建立南美洲国家共同体。
+- - 2001 年：新加坡内部安全部 (ISD) 进行的一次突袭挫败了伊斯兰祈祷团 (JI) 轰炸外国驻新加坡大使馆的阴谋。
+- - 1998 年：阿尔及利亚有 81 人被武装团体杀害。
+- - 1992年：伽利略号宇宙飞船第二次飞越地球。
+- - 1991年：俄罗斯、白俄罗斯和乌克兰领导人签署解散苏联并建立独立国家联合体的协议。
+- - 1990 年：伽利略号宇宙飞船首次飞越地球。
+- - 1988 年：一架美国空军 A-10 Thunderbolt II 坠入德国雷姆沙伊德的一座公寓大楼，造成 5 人死亡、50 人受伤。
+- - 1987年：以色列-加沙地带边境埃雷兹过境点发生交通事故，一辆以色列陆军坦克运输车造成四名巴勒斯坦难民死亡，七人受伤，这被认为是引发第一次起义的事件之一。
+- - 1987 年：冷战：美国总统罗纳德·里根和苏联领导人米哈伊尔·戈尔巴乔夫在白宫签署《中程核力量条约》。
+- - 1985年：南亚区域合作联盟成立，这是南亚的区域性政府间组织和地缘政治联盟。
+- - 1980 年：约翰·列侬在纽约市达科他酒店前被马克·大卫·查普曼谋杀。
+- - 1974 年：公民投票废除了希腊的君主制。
+- - 1972 年：联合航空 553 号航班（一架波音 737）在芝加哥中途国际机场尝试着陆失败后坠毁，造成 45 人死亡。这是波音 737 的首次损失。
+- - 1971 年：印巴战争：印度海军对西巴基斯坦港口城市卡拉奇发动攻击。
+- - 1969 年：奥林匹克航空 954 号航班撞上希腊凯拉泰亚郊外的一座山，造成 90 人死亡，这是历史上最严重的道格拉斯 DC-6 坠机事故。
+- - 1966 年：希腊船只 SS Heraklion 在爱琴海的一场风暴中沉没，造成 200 多人死亡。
+- - 1963 年：泛美航空 214 号航班，一架波音 707，在马里兰州埃尔克顿附近被闪电击中坠毁，机上 81 人全部遇难。
+- - 1962 年：纽约市四家报纸（后来增加到九家）的工人罢工了 114 天。
+- - 1955 年：欧洲委员会通过欧洲国旗。
+- - 1953 年：美国总统德怀特·D·艾森豪威尔发表“原子促进和平”演讲，促成了美国向世界各地的学校、医院和研究机构提供核电设备和信息的计划。
+- - 1943 年：第二次世界大战：德国第 117 耶格尔师摧毁了希腊的 Mega Spilaio 修道院，并处决了 22 名僧侣和游客，作为报复的一部分，几天后卡拉夫里塔大屠杀达到了高潮。
+- - 1941年：第二次世界大战：日本军队同时入侵上海公共租界、马来亚、泰国、香港、菲律宾和荷属东印度群岛。（参见 12 月 7 日西半球同时发生的珍珠港袭击事件。）
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-12-07 02:02:22 UTC）*
+*（更新于: 2025-12-08 01:54:42 UTC）*
