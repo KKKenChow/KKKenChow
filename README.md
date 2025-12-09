@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Damascus falls to rebels after Syrian troops withdraw and president Bashar al-Assad leaves the country as his government collapses. Israel as a result invaded into the buffer zone between Syria and the Israeli-occupied Golan Heights.
-- 2019: First confirmed case of COVID-19 in China.
-- 2013: Metallica performs a show in Antarctica, making them the first musical act to perform on all seven continents.
-- 2013: Riots break out in Singapore, after a fatal accident in Little India.
-- 2010: The Japanese solar-sail spacecraft IKAROS passes the planet Venus at a distance of about 80,800 km (50,200 mi).
-- 2010: With the second launch of the Falcon 9, and the first launch of the Dragon, SpaceX becomes the first private company to successfully launch, orbit and recover a spacecraft.
-- 2009: Bombings in Baghdad, Iraq kill 127 people and injure 448 others.
-- 2004: Columbus nightclub shooting: Nathan Gale opens fire at the Alrosa Villa nightclub in Columbus, Ohio, killing former Pantera guitarist Dimebag Darrell and three others before being shot dead by a police officer.
-- 2004: The Cusco Declaration is signed in Cusco, Peru, establishing the South American Community of Nations.
-- 2001: A raid conducted by the Internal Security Department (ISD) of Singapore foils a Jemaah Islamiyah (JI) plot to bomb foreign embassies in Singapore.
-- 1998: Eighty-one people are killed by armed groups in Algeria.
-- 1992: The Galileo spacecraft flies past Earth for the second time.
-- 1991: The leaders of Russia, Belarus and Ukraine sign an agreement dissolving the Soviet Union and establishing the Commonwealth of Independent States.
-- 1990: The Galileo spacecraft flies past Earth for the first time.
-- 1988: A United States Air Force A-10 Thunderbolt II crashes into an apartment complex in Remscheid, Germany, killing five people and injuring 50 others.
-- 1987: An Israeli army tank transporter kills four Palestinian refugees and injures seven others during a traffic accident at the Erez Crossing on the Israel-Gaza Strip border, which has been cited as one of the events which sparked the First Intifada.
-- 1987: Cold War: The Intermediate-Range Nuclear Forces Treaty is signed by U.S. President Ronald Reagan and Soviet leader Mikhail Gorbachev in the White House.
-- 1985: The South Asian Association for Regional Cooperation, the regional intergovernmental organization and geopolitical union in South Asia, is established.
-- 1980: John Lennon is murdered by Mark David Chapman in front of The Dakota in New York City.
-- 1974: A plebiscite results in the abolition of monarchy in Greece.
-- 1972: United Airlines Flight 553, a Boeing 737, crashes after aborting its landing attempt at Chicago Midway International Airport, killing 45. This is the first-ever loss of a Boeing 737.
-- 1971: Indo-Pakistani War: The Indian Navy launches an attack on West Pakistan's port city of Karachi.
-- 1969: Olympic Airways Flight 954 strikes a mountain outside of Keratea, Greece, killing 90 people in the worst crash of a Douglas DC-6 in history.
-- 1966: The Greek ship SS Heraklion sinks in a storm in the Aegean Sea, killing over 200.
-- 1963: Pan Am Flight 214, a Boeing 707, is struck by lightning and crashes near Elkton, Maryland, killing all 81 people on board.
-- 1962: Workers at four New York City newspapers (this later increases to nine) go on strike for 114 days.
-- 1955: The Flag of Europe is adopted by Council of Europe.
-- 1953: U.S. President Dwight D. Eisenhower delivers his "Atoms for Peace" speech, which leads to an American program to supply equipment and information on nuclear power to schools, hospitals, and research institutions around the world.
-- 1943: World War II: The German 117th Jäger Division destroys the monastery of Mega Spilaio in Greece and executes 22 monks and visitors as part of reprisals that culminated a few days later with the Massacre of Kalavryta.
-- 1941: World War II: Japanese forces simultaneously invade Shanghai International Settlement, Malaya, Thailand, Hong Kong, the Philippines, and the Dutch East Indies. (See December 7 for the concurrent attack on Pearl Harbor in the Western Hemisphere.)
+- 2021: Fifty-five people are killed and more than 100 injured when a truck with 160 migrants from Central America overturned in Chiapas, Mexico.
+- 2019: A volcano on Whakaari / White Island, New Zealand, kills 22 people after it erupts.
+- 2017: The Marriage Amendment Bill receives royal assent and comes into effect, making Australia the 26th country to legalize same-sex marriage.
+- 2016: At least 57 people are killed and a further 177 injured when two schoolgirl suicide bombers attack a market area in Madagali, Adamawa, Nigeria in the Madagali suicide bombings.
+- 2016: President Park Geun-hye of South Korea is impeached by the country's National Assembly in response to a major political scandal.
+- 2013: At least seven are dead and 63 are injured following a train accident near Bintaro, Indonesia.
+- 2012: A plane crash in Mexico kills seven people including singer Jenni Rivera.
+- 2008: Governor of Illinois Rod Blagojevich is arrested by federal officials for crimes including attempting to sell the U.S. Senate seat being vacated by President-elect Barack Obama.
+- 2006: Space Shuttle program: Space Shuttle Discovery is launched on STS-116 carrying the P5 truss segment of the International Space Station.
+- 2003: A blast in the center of Moscow kills six people and wounds several more.
+- 1996: Gwen Jacob is acquitted of committing an indecent act, giving women the right to be topless in Ontario, Canada.
+- 1992: American troops land in Somalia for Operation Restore Hope.
+- 1987: Israeli-Palestinian conflict: The First Intifada begins in the Gaza Strip and West Bank.
+- 1979: The eradication of the smallpox virus is certified, making smallpox the first of only two diseases that have been driven to extinction (with rinderpest in 2011 being the other).
+- 1973: British and Irish authorities sign the Sunningdale Agreement in an attempt to establish a power-sharing Northern Ireland Executive and a cross-border Council of Ireland.
+- 1971: Indo-Pakistani War: The Indian Air Force executes an airdrop of Indian Army units, bypassing Pakistani defences.
+- 1969: U.S. Secretary of State William P. Rogers proposes his plan for a ceasefire in the War of Attrition; Egypt and Jordan accept it over the objections of the PLO, which leads to civil war in Jordan in September 1970.
+- 1968: Douglas Engelbart gave what became known as "The Mother of All Demos", publicly debuting the computer mouse, hypertext, and the bit-mapped graphical user interface using the oN-Line System (NLS).
+- 1965: Kecksburg UFO incident: A fireball is seen from Michigan to Pennsylvania; with witnesses reporting something crashing in the woods near Pittsburgh.
+- 1961: Tanganyika becomes independent from Britain.
+- 1960: The first episode of Coronation Street, the world's longest-running television soap opera, is broadcast in the United Kingdom.
+- 1956: An Aeroflot Lisunov Li-2 crashes near Anadyr, killing all 12 people on board.
+- 1956: Trans-Canada Air Lines Flight 810-9, a Canadair North Star, crashes near Hope, British Columbia, Canada, killing all 62 people on board.
+- 1953: Red Scare: General Electric announces that all communist employees will be discharged from the company.
+- 1950: Cold War: Harry Gold is sentenced to 30 years in jail for helping Klaus Fuchs pass information about the Manhattan Project to the Soviet Union. His testimony is later instrumental in the prosecution of Julius and Ethel Rosenberg.
+- 1948: The Genocide Convention is adopted.
+- 1946: The Constituent Assembly of India meets for the first time to write the Constitution of India.
+- 1946: The subsequent Nuremberg trials begin with the Doctors' Trial, prosecuting physicians and officers alleged to be involved in Nazi human experimentation and mass murder under the guise of euthanasia.
+- 1941: World War II: The American 19th Bombardment Group attacks Japanese ships off the coast of Vigan, Luzon.
+- 1941: World War II: China, Cuba, Guatemala, and the Philippine Commonwealth declare war on Germany and Japan.
 
 Data from muffinlabs
-*(Updated at: 2025-12-08 01:54:42 UTC)*
+*(Updated at: 2025-12-09 01:54:01 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：叙利亚军队撤出，总统巴沙尔·阿萨德 (Bashar al-Assad) 政府垮台，大马士革落入叛军之手。结果，以色列入侵了叙利亚和以色列占领的戈兰高地之间的缓冲区。
-- - 2019 年：中国首例确诊的 COVID-19 病例。
-- - 2013 年：Metallica 在南极洲演出，成为第一个在七大洲演出的音乐团体。
-- - 2013 年：小印度发生致命事故后，新加坡爆发骚乱。
-- - 2010 年：日本太阳帆飞船 IKAROS 在距离约 80,800 公里（50,200 英里）的地方经过金星。
-- - 2010 年：随着猎鹰 9 号的第二次发射和龙飞船的首次发射，SpaceX 成为第一家成功发射、入轨和回收航天器的私营公司。
-- - 2009 年：伊拉克巴格达发生爆炸事件，造成 127 人死亡、448 人受伤。
-- - 2004 年：哥伦布夜总会枪击事件：内森·盖尔 (Nathan Gale) 在俄亥俄州哥伦布市的 Alrosa Villa 夜总会开枪，杀死前 Pantera 吉他手 Dimebag Darrell 和其他三人，然后被警察开枪打死。
-- - 2004年：在秘鲁库斯科签署《库斯科宣言》，建立南美洲国家共同体。
-- - 2001 年：新加坡内部安全部 (ISD) 进行的一次突袭挫败了伊斯兰祈祷团 (JI) 轰炸外国驻新加坡大使馆的阴谋。
-- - 1998 年：阿尔及利亚有 81 人被武装团体杀害。
-- - 1992年：伽利略号宇宙飞船第二次飞越地球。
-- - 1991年：俄罗斯、白俄罗斯和乌克兰领导人签署解散苏联并建立独立国家联合体的协议。
-- - 1990 年：伽利略号宇宙飞船首次飞越地球。
-- - 1988 年：一架美国空军 A-10 Thunderbolt II 坠入德国雷姆沙伊德的一座公寓大楼，造成 5 人死亡、50 人受伤。
-- - 1987年：以色列-加沙地带边境埃雷兹过境点发生交通事故，一辆以色列陆军坦克运输车造成四名巴勒斯坦难民死亡，七人受伤，这被认为是引发第一次起义的事件之一。
-- - 1987 年：冷战：美国总统罗纳德·里根和苏联领导人米哈伊尔·戈尔巴乔夫在白宫签署《中程核力量条约》。
-- - 1985年：南亚区域合作联盟成立，这是南亚的区域性政府间组织和地缘政治联盟。
-- - 1980 年：约翰·列侬在纽约市达科他酒店前被马克·大卫·查普曼谋杀。
-- - 1974 年：公民投票废除了希腊的君主制。
-- - 1972 年：联合航空 553 号航班（一架波音 737）在芝加哥中途国际机场尝试着陆失败后坠毁，造成 45 人死亡。这是波音 737 的首次损失。
-- - 1971 年：印巴战争：印度海军对西巴基斯坦港口城市卡拉奇发动攻击。
-- - 1969 年：奥林匹克航空 954 号航班撞上希腊凯拉泰亚郊外的一座山，造成 90 人死亡，这是历史上最严重的道格拉斯 DC-6 坠机事故。
-- - 1966 年：希腊船只 SS Heraklion 在爱琴海的一场风暴中沉没，造成 200 多人死亡。
-- - 1963 年：泛美航空 214 号航班，一架波音 707，在马里兰州埃尔克顿附近被闪电击中坠毁，机上 81 人全部遇难。
-- - 1962 年：纽约市四家报纸（后来增加到九家）的工人罢工了 114 天。
-- - 1955 年：欧洲委员会通过欧洲国旗。
-- - 1953 年：美国总统德怀特·D·艾森豪威尔发表“原子促进和平”演讲，促成了美国向世界各地的学校、医院和研究机构提供核电设备和信息的计划。
-- - 1943 年：第二次世界大战：德国第 117 耶格尔师摧毁了希腊的 Mega Spilaio 修道院，并处决了 22 名僧侣和游客，作为报复的一部分，几天后卡拉夫里塔大屠杀达到了高潮。
-- - 1941年：第二次世界大战：日本军队同时入侵上海公共租界、马来亚、泰国、香港、菲律宾和荷属东印度群岛。（参见 12 月 7 日西半球同时发生的珍珠港袭击事件。）
+- - 2021 年：一辆载有 160 名中美洲移民的卡车在墨西哥恰帕斯州翻倒，造成 55 人死亡、100 多人受伤。
+- - 2019 年：新西兰法卡里/怀特岛的一座火山喷发后造成 22 人死亡。
+- - 2017年：《婚姻修正案》获得皇室同意并生效，使澳大利亚成为第26个同性婚姻合法化的国家。
+- - 2016年：尼日利亚阿达马瓦市马达加利市的一个市场区发生马达加利自杀式爆炸事件，两名女学生自杀式炸弹袭击者袭击，造成至少 57 人死亡，另有 177 人受伤。
+- - 2016 年：韩国总统朴槿惠因重大政治丑闻而被国民议会弹劾。
+- - 2013 年：印度尼西亚宾塔罗附近发生火车事故，造成至少 7 人死亡、63 人受伤。
+- - 2012 年：墨西哥发生飞机失事，造成 7 人死亡，其中包括歌手珍妮·里维拉 (Jenni Rivera)。
+- - 2008 年：伊利诺伊州州长罗德·布拉戈耶维奇 (Rod Blagojevich) 被联邦官员逮捕，罪名包括试图出售当选总统巴拉克·奥巴马 (Barack Obama) 空出的美国参议院席位。
+- - 2006 年：航天飞机计划：发现号航天飞机在 STS-116 上发射，搭载国际空间站的 P5 桁架部分。
+- - 2003 年：莫斯科市中心发生爆炸，造成六人死亡、多人受伤。
+- - 1996 年：格温·雅各布 (Gwen Jacob) 因猥亵行为被无罪释放，赋予加拿大安大略省妇女赤裸上身的权利。
+- - 1992 年：美国军队登陆索马里执行“恢复希望”行动。
+- - 1987 年：以色列-巴勒斯坦冲突：第一次起义在加沙地带和约旦河西岸爆发。
+- - 1979 年：天花病毒得到根除，使天花成为仅有的两种已灭绝的疾病中的第一种（另一种是 2011 年的牛瘟）。
+- - 1973年：英国和爱尔兰当局签署《桑宁代尔协议》，试图建立一个权力分享的北爱尔兰行政机构和一个跨境爱尔兰理事会。
+- - 1971 年：印巴战争：印度空军绕过巴基斯坦防御空投印度陆军部队。
+- - 1969年：美国国务卿威廉·P·罗杰斯提出消耗战停火计划；埃及和约旦不顾巴解组织的反对接受了该协议，导致 1970 年 9 月约旦内战。
+- - 1968 年：道格拉斯·恩格尔巴特 (Douglas Engelbart) 发表了后来被称为“所有演示之母”的作品，公开首次展示了计算机鼠标、超文本和使用在线系统 (NLS) 的位图图形用户界面。
+- - 1965年：凯克斯堡不明飞行物事件：从密歇根州到宾夕法尼亚州都看到火球；目击者报告称有东西在匹兹堡附近的树林里坠毁。
+- - 1961 年：坦噶尼喀脱离英国独立。
+- - 1960 年：世界上运行时间最长的电视肥皂剧《加冕街》的第一集在英国播出。
+- - 1956 年：一架 Aeroflot Lisunov Li-2 在阿纳德尔附近坠毁，机上 12 人全部遇难。
+- - 1956 年：加拿大横贯航空公司 810-9 号航班（加拿大航空北极星号）在加拿大不列颠哥伦比亚省霍普附近坠毁，机上 62 人全部遇难。
+- - 1953 年：红色恐慌：通用电气宣布所有共产党员工将从公司解雇。
+- - 1950 年：冷战：哈里·戈尔德因帮助克劳斯·福克斯向苏联传递有关曼哈顿计划的信息而被判处 30 年监禁。他的证词后来在起诉朱利叶斯·罗森伯格和埃塞尔·罗森伯格时发挥了重要作用。
+- - 1948 年：《种族灭绝公约》获得通过。
+- - 1946 年：印度制宪会议首次召开会议，起草印度宪法。
+- - 1946 年：随后的纽伦堡审判以医生审判开始，起诉涉嫌参与纳粹人体实验和以安乐死为幌子的大规模谋杀的医生和官员。
+- - 1941 年：第二次世界大战：美国第 19 轰炸大队在吕宋岛维甘海岸攻击日本船只。
+- - 1941 年：第二次世界大战：中国、古巴、危地马拉和菲律宾联邦向德国和日本宣战。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-12-08 01:54:42 UTC）*
+*（更新于: 2025-12-09 01:54:01 UTC）*
