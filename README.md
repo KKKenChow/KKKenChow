@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2007: The Treaty of Lisbon is signed by the EU member states to amend both the Treaty of Rome and the Maastricht Treaty which together form the constitutional basis of the EU. The Treaty of Lisbon is effective from 1 December 2009.
-- 2003: Iraq War: Operation Red Dawn: Former Iraqi President Saddam Hussein is captured near his home town of Tikrit.
-- 2002: European Union enlargement: The EU announces that Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia will become members on May 1, 2004.
-- 2001: 2001 Indian Parliament attack: Sansad Bhavan, the building housing the Indian Parliament, is attacked by 5 Jaish-e-Mohammed terrorists. Twelve people are killed, including the terrorists.
-- 1995: Banat Air Flight 166 crashes in Sommacampagna near Verona Villafranca Airport in Verona, Italy, killing 49.
-- 1994: Flagship Airlines Flight 3379 crashes in Morrisville, North Carolina, near Raleigh-Durham International Airport, killing 15.
-- 1989: The Troubles: Attack on Derryard checkpoint: The Provisional Irish Republican Army launches an attack on a British Army temporary vehicle checkpoint near Rosslea, Northern Ireland. Two British soldiers are killed and two others are wounded.
-- 1988: PLO Chairman Yasser Arafat gives a speech at a UN General Assembly meeting in Geneva, Switzerland, after United States authorities refused to grant him a visa to visit UN headquarters in New York.
-- 1982: The 6.0 Ms  North Yemen earthquake shakes southwestern Yemen with a maximum Mercalli intensity of VIII (Severe), killing 2,800, and injuring 1,500.
-- 1981: General Wojciech Jaruzelski declares martial law in Poland, largely due to the actions by Solidarity.
-- 1977: Air Indiana Flight 216 crashes near Evansville Regional Airport, killing 29, including the University of Evansville basketball team, support staff, and boosters of the team.
-- 1974: In the Vietnam War, the North Vietnamese forces launch their 1975 Spring Offensive (to 30 April 1975), which results in the final capitulation of South Vietnam.
-- 1974: Malta becomes a republic within the Commonwealth of Nations.
-- 1972: Apollo program: Eugene Cernan and Harrison Schmitt begin the third and final extra-vehicular activity (EVA) or "Moonwalk" of Apollo 17. To date they are the last humans to set foot on the Moon.
-- 1968: Brazilian President Artur da Costa e Silva issues AI-5 (Institutional Act No. 5), enabling government by decree and suspending habeas corpus.
-- 1967: Constantine II of Greece attempts an unsuccessful counter-coup against the Regime of the Colonels.
-- 1962: NASA launches Relay 1, the first active repeater communications satellite in orbit.
-- 1960: While Emperor Haile Selassie of Ethiopia visits Brazil, his Imperial Bodyguard seizes the capital and proclaims him deposed and his son, Crown Prince Asfa Wossen, Emperor.
-- 1959: Archbishop Makarios III becomes the first President of Cyprus.
-- 1957: The Mw  6.5 Farsinaj earthquake strikes Iran with a maximum Mercalli intensity of VII, causing at least 1,119 deaths and damaging over 5,000 homes.
-- 1949: The Knesset votes to move the capital of Israel from Tel Aviv to Jerusalem.
-- 1943: World War II: The Massacre of Kalavryta by German occupying forces in Greece.
-- 1939: The Battle of the River Plate is fought off the coast of Uruguay; the first naval battle of World War II. The Kriegsmarine's Deutschland-class cruiser (pocket battleship) Admiral Graf Spee engages with three Royal Navy cruisers: HMS Ajax, HMNZS Achilles and HMS Exeter.
-- 1938: The Holocaust: The Neuengamme concentration camp opens in the Bergedorf district of Hamburg, Germany.
-- 1937: Second Sino-Japanese War: Battle of Nanking: The city of Nanjing, defended by the National Revolutionary Army under the command of General Tang Shengzhi, falls to the Japanese. This is followed by the Nanking Massacre, in which Japanese troops rape and slaughter hundreds of thousands of civilians.
-- 1867: A Fenian bomb explodes in Clerkenwell, London, killing 12 people and injuring 50.
-- 1864: American Civil War: Sherman's March to the Sea: The Second Battle of Fort McAllister ends with the fort being seized by Union forces under General William B. Hazen, threatening the city of Savannah with investment.
-- 1862: American Civil War: At the Battle of Fredericksburg, Confederate General Robert E. Lee repulses attacks by Union Major General Ambrose Burnside on Marye's Heights, inflicting heavy casualties.
-- 1818: Cyril VI of Constantinople resigns from his position as Ecumenical Patriarch under pressure from the Ottoman Empire.
-- 1769: Dartmouth College is founded by the Reverend Eleazar Wheelock, with a royal charter from King George III, on land donated by Royal governor John Wentworth.
+- 2020: A total solar eclipse is visible from parts of the South Pacific Ocean, southern South America, and the South Atlantic Ocean.
+- 2017: The Walt Disney Company announces that it would acquire 21st Century Fox, including the 20th Century Fox movie studio, for $52.4 billion.
+- 2013: A reported coup attempt in South Sudan leads to continued fighting and hundreds of casualties.
+- 2012: Sandy Hook Elementary School shooting: Twenty-eight people, including the gunman, are killed in Sandy Hook, Connecticut.
+- 2004: The Millau Viaduct, the tallest bridge in the world, is formally inaugurated near Millau, France.
+- 2003: Pakistani President Pervez Musharraf narrowly escapes an assassination attempt.
+- 1999: Torrential rains cause flash floods in Vargas, Venezuela, resulting in tens of thousands of deaths, the destruction of thousands of homes, and the complete collapse of the state's infrastructure.
+- 1998: Yugoslav Wars: The Yugoslav Army ambushes a group of Kosovo Liberation Army fighters attempting to smuggle weapons from Albania into Kosovo, killing 36.
+- 1995: Yugoslav Wars: The Dayton Agreement is signed in Paris by the leaders of the Federal Republic of Yugoslavia, Croatia, and Bosnia and Herzegovina.
+- 1994: Construction begins on the Three Gorges Dam on the Yangtze river.
+- 1992: War in Abkhazia: Siege of Tkvarcheli: A helicopter carrying evacuees from Tkvarcheli is shot down, resulting in at least 52 deaths, including 25 children. The incident catalyses more concerted Russian military intervention on behalf of Abkhazia.
+- 1986: Qasba Aligarh massacre: Over 400 Muhajirs killed in revenge killings in Qasba colony after a raid on Pashtun heroin processing and distribution center in Sohrab Goth by the security forces.
+- 1985: Wilma Mankiller takes office as the first woman elected to serve as Principal Chief of the Cherokee Nation.
+- 1981: Arab-Israeli conflict: Israel's Knesset ratifies the Golan Heights Law, extending Israeli law to the Golan Heights.
+- 1972: Apollo program: Eugene Cernan is the most recent person to walk on the Moon, after he and Harrison Schmitt complete the third and final extravehicular activity (EVA) of the Apollo 17 mission.
+- 1971: Bangladesh Liberation War: Over 200 of East Pakistan's intellectuals are executed by the Pakistan Army and their local allies. (The date is commemorated in Bangladesh as Martyred Intellectuals Day.)
+- 1964: American Civil Rights Movement: Heart of Atlanta Motel v. United States: The Supreme Court of the United States rules that Congress can use the Constitution's Commerce Clause to fight discrimination.
+- 1963: The dam containing the Baldwin Hills Reservoir bursts, killing five people and damaging hundreds of homes in Los Angeles, California.
+- 1962: NASA's Mariner 2 becomes the first spacecraft to fly by Venus.
+- 1960: Convention against Discrimination in Education of UNESCO is adopted.
+- 1958: The 3rd Soviet Antarctic Expedition becomes the first to reach the southern pole of inaccessibility.
+- 1955: Albania, Austria, Bulgaria, Cambodia, Ceylon, Finland, Hungary, Ireland, Italy, Jordan, Laos, Libya, Nepal, Portugal, Romania and Spain join the United Nations through United Nations Security Council Resolution 109.
+- 1948: Thomas T. Goldsmith Jr. and Estle Ray Mann are granted a patent for their cathode-ray tube amusement device, the earliest known interactive electronic game.
+- 1942: An Aeroflot Tupolev ANT-20 crashes near Tashkent, killing all 36 people on board.
+- 1940: Plutonium (specifically Pu-238) is first isolated at Berkeley, California.
+- 1939: Winter War: The Soviet Union is expelled from the League of Nations for invading Finland.
+- 1918: Giacomo Puccini's comic opera Gianni Schicchi premieres at the Metropolitan Opera in New York City.
+- 1918: The 1918 United Kingdom general election occurs, the first where women were permitted to vote. In Ireland the Irish republican political party Sinn Féin wins a landslide victory with nearly 47% of the popular vote.
+- 1918: Portuguese President Sidónio Pais is assassinated.
+- 1918: Friedrich Karl von Hessen, a German prince elected by the Parliament of Finland to become King Väinö I, renounces the Finnish throne.
 
 Data from muffinlabs
-*(Updated at: 2025-12-13 01:50:04 UTC)*
+*(Updated at: 2025-12-14 02:03:07 UTC)*
 
 # 历史上的今天 
 
-- - 2007年：欧盟成员国签署《里斯本条约》，修订《罗马条约》和《马斯特里赫特条约》，共同构成欧盟的宪法基础。《里斯本条约》于 2009 年 12 月 1 日起生效。
-- - 2003 年：伊拉克战争：红色黎明行动：伊拉克前总统萨达姆·侯赛因在家乡提克里特附近被捕。
-- - 2002年：欧盟扩大：欧盟宣布塞浦路斯、捷克共和国、爱沙尼亚、匈牙利、拉脱维亚、立陶宛、马耳他、波兰、斯洛伐克和斯洛文尼亚将于2004年5月1日成为成员国。
-- - 2001 年：2001 年印度议会袭击：印度议会所在地 Sansad Bhavan 遭到 5 名穆罕默德军恐怖分子的袭击。包括恐怖分子在内的十二人被杀。
-- - 1995年：巴纳特航空166号航班在意大利维罗纳维罗纳维拉弗兰卡机场附近的索马坎帕尼亚坠毁，造成49人死亡。
-- - 1994 年：旗舰航空公司 3379 号航班在北卡罗来纳州莫里斯维尔罗利达勒姆国际机场附近坠毁，造成 15 人死亡。
-- - 1989 年：麻烦：对德里德检查站的袭击：爱尔兰临时共和军对北爱尔兰罗斯利附近的英国陆军临时车辆检查站发动袭击。两名英国士兵死亡，另外两人受伤。
-- - 1988 年：巴解组织主席亚西尔·阿拉法特在瑞士日内瓦举行的联合国大会上发表讲话，此前美国当局拒绝向他发放访问纽约联合国总部的签证。
-- - 1982 年：也门北部发生 6.0 级地震，最大 Mercalli 烈度为 VIII 级（严重），造成 2,800 人死亡、1,500 人受伤。
-- - 1981 年：沃伊切赫·雅鲁泽尔斯基 (Wojciech Jaruzelski) 将军在波兰宣布戒严，这主要是由于团结工会的行动。
-- - 1977 年：印第安纳航空 216 号航班在埃文斯维尔地区机场附近坠毁，造成 29 人死亡，其中包括埃文斯维尔大学篮球队、支持人员和球队助推者。
-- - 1974 年：在越南战争中，北越军队发动 1975 年春季攻势（至 1975 年 4 月 30 日），导致南越最终投降。
-- - 1974 年：马耳他成为英联邦内的共和国。
-- - 1972 年：阿波罗计划：尤金·塞尔南和哈里森·施密特开始阿波罗 17 号的第三次也是最后一次舱外活动 (EVA) 或“月球漫步”。迄今为止，他们是最后一批踏上月球的人类。
-- - 1968 年：巴西总统阿图尔·达·科斯塔·席尔瓦 (Artur da Costa e Silva) 发布 AI-5（第 5 号机构法），通过法令授权政府并暂停人身保护令。
-- - 1967 年：希腊君士坦丁二世试图发动针对上校政权的反政变，但未成功。
-- - 1962 年：NASA 发射 Relay 1，这是第一颗在轨主动转发器通信卫星。
-- - 1960 年：埃塞俄比亚皇帝海尔·塞拉西 (Haile Selassie) 访问巴西时，他的帝国卫队占领了首都，并宣布废黜他，并宣布他的儿子阿斯法·沃森 (Asfa Wossen) 王储成为皇帝。
-- - 1959 年：大主教马卡里奥斯三世成为塞浦路斯第一任总统。
-- - 1957 年：伊朗发生里氏 6.5 级的 Farsinaj 地震，最大 Mercalli 烈度为 VII 级，造成至少 1,119 人死亡，5,000 多所房屋受损。
-- - 1949 年：以色列议会投票决定将以色列首都从特拉维夫迁至耶路撒冷。
-- - 1943 年：第二次世界大战：德国占领军在希腊对卡拉夫里塔进行大屠杀。
-- - 1939年：乌拉圭海岸附近发生拉普拉塔河战役；第二次世界大战的第一次海战。德国海军的德国级巡洋舰（袖珍战列舰）施佩伯爵海军上将号与三艘皇家海军巡洋舰交战：阿贾克斯号、阿基里斯号和埃克塞特号。
-- - 1938 年：大屠杀：诺因加默集中营在德国汉堡的伯格多夫区开放。
-- - 1937年：第二次中日战争：南京保卫战：由唐生智将军指挥的国民革命军保卫的南京城落入日本人之手。随后发生了南京大屠杀，日军强奸并屠杀了数十万平民。
-- - 1867 年：一枚芬尼安炸弹在伦敦克勒肯韦尔爆炸，造成 12 人死亡、50 人受伤。
-- - 1864 年：美国内战：谢尔曼向大海进军：第二次麦卡利斯特堡战役以威廉·B·哈森 (William B. Hazen) 将军领导的联邦军队夺取麦卡利斯特堡而告终，投资威胁萨凡纳市。
-- - 1862 年：美国内战：在弗雷德里克斯堡战役中，南方联盟将军罗伯特·E·李击退了联邦少将安布罗斯·伯恩赛德对玛丽高地的进攻，造成重大伤亡。
-- - 1818年：君士坦丁堡的西里尔六世在奥斯曼帝国的压力下辞去了普世牧首的职务。
-- - 1769 年：达特茅斯学院由埃利亚撒·惠洛克牧师 (Eleazar Wheelock) 在皇家总督约翰·温特沃斯 (John Wentworth) 捐赠的土地上建立，并获得乔治三世国王的皇家特许状。
+- - 2020年：南太平洋、南美洲南部和南大西洋的部分地区可以看到日全食。
+- - 2017 年：华特迪士尼公司宣布将以 524 亿美元收购 21 世纪福克斯公司，包括 20 世纪福克斯电影制片厂。
+- - 2013 年：据报道，南苏丹发生政变，导致持续的战斗和数百人伤亡。
+- - 2012 年：桑迪胡克小学枪击事件：包括枪手在内的 28 人在康涅狄格州桑迪胡克被杀。
+- - 2004 年：世界上最高的桥梁米约高架桥在法国米约附近正式落成。
+- - 2003 年：巴基斯坦总统佩尔韦兹·穆沙拉夫险些遭遇暗杀。
+- - 1999年：暴雨导致委内瑞拉巴尔加斯山洪暴发，造成数万人死亡，数千间房屋被毁，该州基础设施彻底崩溃。
+- - 1998年：南斯拉夫战争：南斯拉夫军队伏击了一群试图从阿尔巴尼亚走私武器到科索沃的科索沃解放军战士，造成36人死亡。
+- - 1995年：南斯拉夫战争：南斯拉夫联盟共和国、克罗地亚以及波斯尼亚和黑塞哥维那领导人在巴黎签署《代顿协定》。
+- - 1994 年：长江三峡大坝开工建设。
+- - 1992 年：阿布哈兹战争：特克瓦尔切利围困：一架载有特克瓦尔切利撤离人员的直升机被击落，造成至少 52 人死亡，其中包括 25 名儿童。这一事件促使俄罗斯代表阿布哈兹进行更加协调一致的军事干预。
+- - 1986 年：Qasba Aligarh 屠杀：安全部队突袭位于 Sohrab Goth 的普什图海洛因加工和配送中心后，Qasba 殖民地的 400 多名穆哈吉尔人在报复性杀戮中丧生。
+- - 1985 年：威尔玛·曼基勒 (Wilma Mankiller) 就职，成为第一位当选切罗基族首席酋长的女性。
+- - 1981年：阿以冲突：以色列议会批准戈兰高地法，将以色列法律延伸至戈兰高地。
+- - 1972 年：阿波罗计划：尤金·塞尔南 (Eugene Cernan) 和哈里森·施密特 (Harrison Schmitt) 完成了阿波罗 17 号任务的第三次也是最后一次舱外活动 (EVA)，成为最近登上月球的人。
+- - 1971年：孟加拉国解放战争：超过200名东巴基斯坦知识分子被巴基斯坦军队及其当地盟友处决。（孟加拉国将这一天纪念为知识分子殉难日。）
+- - 1964 年：美国民权运动：亚特兰大之心汽车旅馆诉美国：美国最高法院裁定国会可以使用宪法的商业条款来打击歧视。
+- - 1963 年：加利福尼亚州洛杉矶市鲍德温山水库大坝决堤，造成 5 人死亡，数百座房屋受损。
+- - 1962 年：NASA 的水手 2 号成为第一艘飞越金星的航天器。
+- - 1960年：联合国教科文组织《取缔教育歧视公约》获得通过。
+- - 1958年：苏联第三次南极探险队首次到达难以到达的南极点。
+- - 1955年：阿尔巴尼亚、奥地利、保加利亚、柬埔寨、锡兰、芬兰、匈牙利、爱尔兰、意大利、约旦、老挝、利比亚、尼泊尔、葡萄牙、罗马尼亚和西班牙通过联合国安理会第109号决议加入联合国。
+- - 1948 年：Thomas T. Goldsmith Jr. 和 Estle Ray Mann 的阴极射线管娱乐设备获得专利，这是已知最早的交互式电子游戏。
+- - 1942 年：一架 Aeroflot Tupolev ANT-20 在塔什干附近坠毁，机上 36 人全部遇难。
+- - 1940 年：钚（特别是 Pu-238）首次在加利福尼亚州伯克利分离出来。
+- - 1939 年：冬季战争：苏联因入侵芬兰而被逐出国际联盟。
+- - 1918 年：贾科莫·普契尼的喜歌剧《贾尼·斯基基》在纽约大都会歌剧院首演。
+- - 1918 年：1918 年英国举行大选，这是第一次允许女性投票。在爱尔兰，爱尔兰共和党新芬党以近47%的选票获得压倒性胜利。
+- - 1918 年：葡萄牙总统西多尼奥·派斯遇刺。
+- - 1918 年：被芬兰议会选举为瓦伊诺一世国王的德国王子弗里德里希·卡尔·冯·黑森放弃了芬兰王位。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-12-13 01:50:04 UTC）*
+*（更新于: 2025-12-14 02:03:07 UTC）*
