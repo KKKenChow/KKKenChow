@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2014: The United States and Cuba re-establish diplomatic relations after severing them in 1961.
-- 2010: Mohamed Bouazizi sets himself on fire. This act became the catalyst for the Tunisian Revolution and the wider Arab Spring.
-- 2009: MV Danny F II sinks off the coast of Lebanon, resulting in the deaths of 44 people and over 28,000 animals.
-- 2005: Jigme Singye Wangchuck abdicates the throne as King of Bhutan.
-- 2005: Anti-World Trade Organization protesters riot in Wan Chai, Hong Kong.
-- 2003: Sex work rights activists establish December 17 (or "D17") as International Day to End Violence Against Sex Workers to memorialize victims of a serial killer who targeted prostitutes, and highlight State violence against sex workers by police and others.
-- 2003: SpaceShipOne, piloted by Brian Binnie, makes its first powered and first supersonic flight.
-- 2003: The Soham murder trial ends at the Old Bailey in London, with Ian Huntley found guilty of two counts of murder.  His girlfriend, Maxine Carr, is found guilty of perverting the course of justice.
-- 2002: Second Congo War: The Congolese parties of the Inter Congolese Dialogue sign a peace accord which makes provision for transitional governance and legislative and presidential elections within two years.
-- 1997: Aerosvit Flight 241: A Yakovlev Yak-42 crashes into the Pierian Mountains near Thessaloniki Airport in Thessaloniki, Greece, killing all 70 people on board.
-- 1997: Peruvian internal conflict: Fourteen members of the Túpac Amaru Revolutionary Movement provoke a hostage crisis by taking over the Japanese embassy in Lima.
-- 1989: The Simpsons premieres on television with the episode "Simpsons Roasting on an Open Fire".
-- 1989: Fernando Collor de Mello defeats Luiz Inácio Lula da Silva in the second round of the Brazilian presidential election, becoming the first democratically elected President in almost 30 years.
-- 1989: Romanian Revolution: Protests continue in Timișoara, Romania, with rioters breaking into the Romanian Communist Party's District Committee building and attempting to set it on fire.
-- 1983: Provisional IRA members detonate a car bomb at Harrods Department Store in London. Three police officers and three civilians are killed.
-- 1981: American Brigadier General James L. Dozier is abducted by the Red Brigades in Verona, Italy.
-- 1973: Thirty passengers are killed in an attack by Palestinian terrorists on Rome's Leonardo da Vinci-Fiumicino Airport.
-- 1970: Polish protests: In Gdynia, soldiers fire at workers emerging from trains, killing dozens.
-- 1969: Project Blue Book: The United States Air Force closes its study of UFOs.
-- 1967: Harold Holt, Prime Minister of Australia, disappears while swimming near Portsea, Victoria, and is presumed drowned.
-- 1961: Niterói circus fire: Fire breaks out during a performance by the Gran Circus Norte-Americano in the city of Niterói, Rio de Janeiro, Brazil, killing more than 500.
-- 1960: Munich C-131 crash: Twenty passengers and crew on board as well as 32 people on the ground are killed.
-- 1960: Troops loyal to Emperor Haile Selassie in Ethiopia crush the coup that began December 13, returning power to their leader upon his return from Brazil. Haile Selassie absolves his son of any guilt.
-- 1957: The United States successfully launches the first Atlas intercontinental ballistic missile at Cape Canaveral, Florida.
-- 1951: The American Civil Rights Congress delivers "We Charge Genocide" to the United Nations.
-- 1950: The F-86 Sabre's first mission over Korea.
-- 1948: The Finnish Security Police is established to remove communist leadership from its predecessor, the State Police.
-- 1947: First flight of the Boeing B-47 Stratojet strategic bomber.
-- 1945: Kurdistan flag day, the flag of Kurdistan was raised for the first time in Mahabad in eastern Kurdistan.
-- 1944: World War II: Battle of the Bulge: Malmedy massacre: American 285th Field Artillery Observation Battalion POWs are shot by Waffen-SS Kampfgruppe Joachim Peiper.
+- 2022: Argentina win the FIFA World Cup final, defeating title holders France 4-2 on penalties following a 3-3 draw after extra time.
+- 2019: The United States House of Representatives impeaches Donald Trump for the first time.
+- 2018: List of bolides: A meteor exploded over the Bering Sea with a force over 10 times greater than the atomic bomb that destroyed Hiroshima in 1945.
+- 2017: Amtrak Cascades passenger train 501, derailed near DuPont, Washington, a city in United States near Olympia, Washington killing six people, and injuring 70 others.
+- 2015: Kellingley Colliery, the last deep coal mine in Great Britain, closes.
+- 2006: United Arab Emirates holds its first-ever elections.
+- 2006: The first of a series of floods strikes Malaysia. The death toll of all flooding is at least 118, with over 400,000 people displaced.
+- 2005: The Chadian Civil War begins when rebel groups, allegedly backed by neighbouring Sudan, launch an attack in Adré.
+- 2002: California gubernatorial recall: Then Governor of California Gray Davis announces that the state would face a record budget deficit of $35 billion, roughly double the figure reported during his reelection campaign one month earlier.
+- 1999: NASA launches into orbit the Terra platform carrying five Earth Observation instruments, including ASTER, CERES, MISR, MODIS and MOPITT.
+- 1995:  A Lockheed L-188 Electra crashes in Jamba, Cuando Cubango, Angola, killing 141 people.
+- 1981: First flight of the Russian heavy strategic bomber Tu-160, the world's largest combat aircraft, largest supersonic aircraft and largest variable-sweep wing aircraft built.
+- 1977: SA de Transport Aérien Flight 730 crashes near Madeira Airport in Funchal, Madeira, Portugal, killing 36.
+- 1977: United Airlines Flight 2860 crashes near Kaysville, Utah, killing all three crew members on board.
+- 1973: Soviet Soyuz Programme: Soyuz 13, crewed by cosmonauts Valentin Lebedev and Pyotr Klimuk, is launched from Baikonur in the Soviet Union.
+- 1972: Vietnam War: President Richard Nixon announces that the United States will engage North Vietnam in Operation Linebacker II, a series of Christmas bombings, after peace talks collapsed with North Vietnam on the 13th.
+- 1966: Saturn's moon Epimetheus is discovered by astronomer Richard Walker.
+- 1958: Project SCORE, the world's first communications satellite, is launched.
+- 1957: A violent F5 tornado wipes out the entire community of Sunfield, Illinois.
+- 1944: The Supreme Court of the United States issued its decision in Korematsu v. United States supporting Franklin D. Roosevelt's Executive Order 9066 which cleared the way for the incarceration of nearly all 120,000 Japanese Americans, two-thirds of whom were U.S. citizens, born and raised in the United States.
+- 1944: World War II: XX Bomber Command responds to the Japanese Operation Ichi-Go offensive by dropping five hundred tons of incendiary bombs on a supply base in Hankow, China.
+- 1939: World War II: The Battle of the Heligoland Bight, the first major air battle of the war, takes place.
+- 1935: The Lanka Sama Samaja Party is founded in Ceylon.
+- 1932: The Chicago Bears defeat the Portsmouth Spartans in the first NFL playoff game to win the NFL Championship.
+- 1917: The resolution containing the language of the Eighteenth Amendment to enact Prohibition is passed by the United States Congress.
+- 1916: World War I: The Battle of Verdun ends when the second French offensive pushes the Germans back two or three kilometres, causing them to cease their attacks.
+- 1898: Gaston de Chasseloup-Laubat sets the first officially recognized land speed record of 63.159 km/h (39.245 mph) in a Jeantaud electric car.
+- 1892: Premiere performance of The Nutcracker by Pyotr Ilyich Tchaikovsky in Saint Petersburg, Russia.
+- 1878: The Al-Thani family become the rulers of the state of Qatar.
+- 1867: A magnitude 7.0 earthquakes strikes off the coast of Taiwan, triggering a tsunami and killing at least 580 people.
 
 Data from muffinlabs
-*(Updated at: 2025-12-17 01:52:32 UTC)*
+*(Updated at: 2025-12-18 01:53:07 UTC)*
 
 # 历史上的今天 
 
-- - 2014年：美国和古巴在1961年断绝外交关系后重新建立外交关系。
-- - 2010 年：穆罕默德·布瓦吉吉 (Mohamed Bouazizi) 自焚。这一行为成为突尼斯革命和更广泛的阿拉伯之春的催化剂。
-- - 2009 年：MV Danny F II 在黎巴嫩海岸沉没，导致 44 人和 28,000 多只动物死亡。
-- - 2005 年：吉格梅·辛格·旺楚克 (Jigme Singye Wangchuck) 退位，成为不丹国王。
-- - 2005年：香港湾仔反世界贸易组织抗议者发生骚乱。
-- - 2003年：性工作权利活动人士将12月17日（或“D17”）定为制止针对性工作者的暴力行为国际日，以纪念针对妓女的连环杀手的受害者，并强调国家警察和其他人对性工作者的暴力行为。
-- - 2003 年：布莱恩·宾尼 (Brian Binnie) 驾驶的 SpaceShipOne 进行了首次动力和首次超音速飞行。
-- - 2003 年：索汉姆谋杀案审判在伦敦老贝利结束，伊恩·亨特利被判犯有两项谋杀罪。他的女友玛克辛·卡尔因妨碍司法公正而被判有罪。
-- - 2002年：第二次刚果战争：刚果内部对话的刚果各方签署了一项和平协议，为两年内的过渡治理以及立法和总统选举做出了规定。
-- - 1997 年： Aerosvit 241 航班：一架 Yakovlev Yak-42 坠入希腊塞萨洛尼基塞萨洛尼基机场附近的皮里安山脉，机上 70 人全部遇难。
-- - 1997 年：秘鲁内部冲突：图帕克·阿马鲁革命运动的 14 名成员占领日本驻利马大使馆，引发人质危机。
-- - 1989 年：《辛普森一家》在电视上首播，播出剧集“辛普森一家在明火上烘烤”。
-- - 1989年：费尔南多·科洛尔·德梅洛在巴西总统选举第二轮中击败路易斯·伊纳西奥·卢拉·达席尔瓦，成为近30年来第一位民选总统。
-- - 1989 年：罗马尼亚革命：罗马尼亚蒂米什瓦拉的抗议活动仍在继续，暴徒闯入罗马尼亚共产党区委员会大楼并试图纵火。
-- - 1983 年：爱尔兰共和军临时成员在伦敦哈罗德百货公司引爆了汽车炸弹。三名警察和三名平民被杀。
-- - 1981 年：美国准将詹姆斯·L·多齐尔在意大利维罗纳被红色旅绑架。
-- - 1973 年：巴勒斯坦恐怖分子对罗马达芬奇-菲乌米奇诺机场发动袭击，造成 30 名乘客死亡。
-- - 1970 年：波兰抗议活动：在格丁尼亚，士兵向从火车上出来的工人开枪，造成数十人死亡。
-- - 1969 年：蓝皮书计划：美国空军结束对​​ UFO 的研究。
-- - 1967 年：澳大利亚总理哈罗德·霍尔特在维多利亚州波特西附近游泳时失踪，推测溺水身亡。
-- - 1961 年：尼泰罗伊马戏团火灾：北美大马戏团在巴西里约热内卢尼泰罗伊市表演时发生火灾，造成 500 多人死亡。
-- - 1960 年：慕尼黑 C-131 坠毁：机上 20 名乘客和机组人员以及地面 32 人死亡。
-- - 1960 年：忠于埃塞俄比亚皇帝海尔·塞拉西的军队镇压了 12 月 13 日开始的政变，并在领导人从巴西返回后将权力归还给他。海尔·塞拉西免除了儿子的任何罪责。
-- - 1957年：美国在佛罗里达州卡纳维拉尔角成功发射第一枚阿特拉斯洲际弹道导弹。
-- - 1951 年：美国民权国会向联合国提出“我们指控种族灭绝”。
-- - 1950 年：F-86 Sabre 首次执行朝鲜上空任务。
-- - 1948 年：芬兰安全警察成立，旨在取消其前身国家警察的共产党领导权。
-- - 1947 年：波音 B-47 Stratojet 战略轰炸机首飞。
-- - 1945年：库尔德斯坦国旗日，库尔德斯坦国旗首次在库尔德斯坦东部的马哈巴德升起。
-- - 1944 年：第二次世界大战：突出部战役：马尔梅迪大屠杀：美国第 285 野战炮兵观察营战俘被武装党卫军战斗群约阿希姆·佩珀射杀。
+- - 2022 年：阿根廷赢得 FIFA 世界杯决赛，加时赛 3-3 战平后，点球大战 4-2 击败卫冕冠军法国队。
+- - 2019年：美国众议院首次弹劾唐纳德·特朗普。
+- - 2018 年：火流星列表：一颗流星在白令海上空爆炸，其威力是 1945 年摧毁广岛的原子弹的 10 倍以上。
+- - 2017 年：Amtrak Cascades 客运列车 501 在美国华盛顿州奥林匹亚附近的杜邦市附近脱轨，造成 6 人死亡、70 人受伤。
+- - 2015 年：英国最后一个深煤矿凯林利煤矿关闭。
+- - 2006 年：阿拉伯联合酋长国举行首次选举。
+- - 2006 年：马来西亚遭遇一系列洪水中的第一场。所有洪水造成至少 118 人死亡，超过 40 万人流离失所。
+- - 2005 年：乍得内战爆发，据称受到邻国苏丹支持的反叛组织在阿德雷发动袭击。
+- - 2002 年：加州州长罢免：时任加州州长格雷·戴维斯 (Gray Davis) 宣布，该州将面临创纪录的 350 亿美元预算赤字，大约是他一个月前竞选连任期间报告的数字的两倍。
+- - 1999 年：NASA 将搭载五台地球观测仪器的 Terra 平台发射入轨道，包括 ASTER、CERES、MISR、MODIS 和 MOPITT。
+- - 1995 年：一架洛克希德 L-188 Electra 在安哥拉宽多库邦戈的 Jamba 坠毁，造成 141 人死亡。
+- - 1981年：俄罗斯重型战略轰炸机Tu-160首飞，这是世界上最大的战斗机、最大的超音速飞机和最大的可变后掠翼飞机。
+- - 1977 年：SA de Transport Aérien 730 航班在葡萄牙马德拉岛丰沙尔的马德拉机场附近坠毁，造成 36 人死亡。
+- - 1977 年：联合航空 2860 号航班在犹他州凯斯维尔附近坠毁，机上三名机组人员全部遇难。
+- - 1973 年：苏联联盟号计划：由宇航员 Valentin Lebedev 和 Pyotr Klimuk 驾驶的联盟 13 号从苏联的拜科努尔发射升空。
+- - 1972 年：越南战争：13 日与北越的和平谈判破裂后，理查德·尼克松总统宣布美国将在“后卫 II”行动中与北越交战，这是一系列圣诞节爆炸事件。
+- - 1966 年：天文学家理查德·沃克发现土星的卫星埃庇米修斯。
+- - 1958 年：世界上第一颗通信卫星 SCORE 项目发射。
+- - 1957 年：一场猛烈的 F5 龙卷风摧毁了伊利诺伊州桑菲尔德的整个社区。
+- - 1944 年：美国最高法院在是松诉美国一案中作出裁决，支持富兰克林·罗斯福的第 9066 号行政命令，该命令为监禁几乎所有 120,000 名日裔美国人扫清了道路，其中三分之二是在美国出生和长大的美国公民。
+- - 1944 年：第二次世界大战：XX 轰炸机司令部响应日本一号行动攻势，向中国汉口的补给基地投掷了 500 吨燃烧弹。
+- - 1939 年：第二次世界大战：黑尔戈兰湾战役爆发，这是战争中的第一次重大空战。
+- - 1935 年：兰卡 Sama Samaja 党在锡兰成立。
+- - 1932 年：芝加哥熊队在首场 NFL 季后赛中击败朴茨茅斯斯巴达队，赢得 NFL 冠军。
+- - 1917 年：美国国会通过了包含第十八修正案内容的颁布禁酒令的决议。
+- - 1916 年：第一次世界大战：凡尔登战役结束，法军的第二次进攻将德军推后两三公里，导致他们停止进攻。
+- - 1898 年：Gaston de Chasseloup-Laubat 驾驶 Jeantaud 电动汽车创造了第一个官方认可的陆地速度记录：63.159 公里/小时（39.245 英里/小时）。
+- - 1892 年：彼得·伊里奇·柴可夫斯基的《胡桃夹子》在俄罗斯圣彼得堡首演。
+- - 1878 年：阿勒萨尼家族成为卡塔尔国的统治者。
+- - 1867 年：台湾沿海发生里氏 7.0 级地震，引发海啸，造成至少 580 人死亡。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-12-17 01:52:32 UTC）*
+*（更新于: 2025-12-18 01:53:07 UTC）*
