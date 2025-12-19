@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Argentina win the FIFA World Cup final, defeating title holders France 4-2 on penalties following a 3-3 draw after extra time.
-- 2019: The United States House of Representatives impeaches Donald Trump for the first time.
-- 2018: List of bolides: A meteor exploded over the Bering Sea with a force over 10 times greater than the atomic bomb that destroyed Hiroshima in 1945.
-- 2017: Amtrak Cascades passenger train 501, derailed near DuPont, Washington, a city in United States near Olympia, Washington killing six people, and injuring 70 others.
-- 2015: Kellingley Colliery, the last deep coal mine in Great Britain, closes.
-- 2006: United Arab Emirates holds its first-ever elections.
-- 2006: The first of a series of floods strikes Malaysia. The death toll of all flooding is at least 118, with over 400,000 people displaced.
-- 2005: The Chadian Civil War begins when rebel groups, allegedly backed by neighbouring Sudan, launch an attack in Adré.
-- 2002: California gubernatorial recall: Then Governor of California Gray Davis announces that the state would face a record budget deficit of $35 billion, roughly double the figure reported during his reelection campaign one month earlier.
-- 1999: NASA launches into orbit the Terra platform carrying five Earth Observation instruments, including ASTER, CERES, MISR, MODIS and MOPITT.
-- 1995:  A Lockheed L-188 Electra crashes in Jamba, Cuando Cubango, Angola, killing 141 people.
-- 1981: First flight of the Russian heavy strategic bomber Tu-160, the world's largest combat aircraft, largest supersonic aircraft and largest variable-sweep wing aircraft built.
-- 1977: SA de Transport Aérien Flight 730 crashes near Madeira Airport in Funchal, Madeira, Portugal, killing 36.
-- 1977: United Airlines Flight 2860 crashes near Kaysville, Utah, killing all three crew members on board.
-- 1973: Soviet Soyuz Programme: Soyuz 13, crewed by cosmonauts Valentin Lebedev and Pyotr Klimuk, is launched from Baikonur in the Soviet Union.
-- 1972: Vietnam War: President Richard Nixon announces that the United States will engage North Vietnam in Operation Linebacker II, a series of Christmas bombings, after peace talks collapsed with North Vietnam on the 13th.
-- 1966: Saturn's moon Epimetheus is discovered by astronomer Richard Walker.
-- 1958: Project SCORE, the world's first communications satellite, is launched.
-- 1957: A violent F5 tornado wipes out the entire community of Sunfield, Illinois.
-- 1944: The Supreme Court of the United States issued its decision in Korematsu v. United States supporting Franklin D. Roosevelt's Executive Order 9066 which cleared the way for the incarceration of nearly all 120,000 Japanese Americans, two-thirds of whom were U.S. citizens, born and raised in the United States.
-- 1944: World War II: XX Bomber Command responds to the Japanese Operation Ichi-Go offensive by dropping five hundred tons of incendiary bombs on a supply base in Hankow, China.
-- 1939: World War II: The Battle of the Heligoland Bight, the first major air battle of the war, takes place.
-- 1935: The Lanka Sama Samaja Party is founded in Ceylon.
-- 1932: The Chicago Bears defeat the Portsmouth Spartans in the first NFL playoff game to win the NFL Championship.
-- 1917: The resolution containing the language of the Eighteenth Amendment to enact Prohibition is passed by the United States Congress.
-- 1916: World War I: The Battle of Verdun ends when the second French offensive pushes the Germans back two or three kilometres, causing them to cease their attacks.
-- 1898: Gaston de Chasseloup-Laubat sets the first officially recognized land speed record of 63.159 km/h (39.245 mph) in a Jeantaud electric car.
-- 1892: Premiere performance of The Nutcracker by Pyotr Ilyich Tchaikovsky in Saint Petersburg, Russia.
-- 1878: The Al-Thani family become the rulers of the state of Qatar.
-- 1867: A magnitude 7.0 earthquakes strikes off the coast of Taiwan, triggering a tsunami and killing at least 580 people.
+- 2016: A vehicular attack in Berlin, Germany, kills 12 and injures 56 people at a Christmas market.
+- 2016: Russian ambassador to Turkey Andrei Karlov is assassinated while at an art exhibition in Ankara. The assassin, Mevlüt Mert Altıntaş, is shot and killed by a Turkish guard.
+- 2013: Spacecraft Gaia is launched by the European Space Agency.
+- 2012: Park Geun-hye is elected the first female president of South Korea.
+- 2005: Chalk's Ocean Airways Flight 101 crashes into the Government Cut channel immediately after takeoff from Miami Seaplane Base, killing 20.
+- 2001: Argentine economic crisis: December riots: Riots erupt in Buenos Aires, Argentina.
+- 2001: A record high barometric pressure of 1,085.6 hectopascals (32.06 inHg) is recorded at Tosontsengel, Khövsgöl, Mongolia.
+- 2000: The Leninist Guerrilla Units wing of the Communist Labour Party of Turkey/Leninist attack a Nationalist Movement Party office in Istanbul, Turkey, killing one person and injuring three.
+- 1999: Space Shuttle Discovery is launched on STS-103, the third Hubble Space Telescope servicing mission.
+- 1998: President Bill Clinton is impeached by the United States House of Representatives, becoming the second president of the United States to be impeached.
+- 1997: SilkAir Flight 185 crashes into the Musi River, near Palembang in Indonesia, killing 104.
+- 1995: The United States Government restores federal recognition to the Nottawaseppi Huron Band of Potawatomi Native American tribe.
+- 1986: Mikhail Gorbachev, leader of the Soviet Union, releases Andrei Sakharov and his wife from exile in Gorky.
+- 1985: Aeroflot Flight 101/435 is hijacked to China by its first officer.
+- 1984: The Sino-British Joint Declaration, stating that China would resume the exercise of sovereignty over Hong Kong and the United Kingdom would restore Hong Kong to China with effect from July 1, 1997, is signed in Beijing by Deng Xiaoping and Margaret Thatcher.
+- 1983: The original FIFA World Cup trophy, the Jules Rimet Trophy, is stolen from the headquarters of the Brazilian Football Confederation in Rio de Janeiro, Brazil.
+- 1981: Sixteen lives are lost when the Penlee lifeboat goes to the aid of the stricken coaster Union Star in heavy seas.
+- 1977: The Ms  5.8 Bob-Tangol earthquake strikes Kerman Province in Iran, destroying villages and killing 665 people.
+- 1974: Nelson Rockefeller is sworn in as Vice President of the United States under President Gerald Ford under the provisions of the Twenty-fifth Amendment to the United States Constitution.
+- 1972: Apollo program: The last crewed lunar flight, Apollo 17, carrying Eugene Cernan, Ronald Evans, and Harrison Schmitt, returns to Earth.
+- 1967: Harold Holt, the Prime Minister of Australia, is officially presumed dead.
+- 1961: India annexes Daman and Diu, part of Portuguese India.
+- 1956: Irish-born physician John Bodkin Adams is arrested in connection with the suspicious deaths of more than 160 patients. Eventually he is convicted only of minor charges.
+- 1946: Start of the First Indochina War.
+- 1945: John Amery, British Fascist, is executed at the age of 33 by the British Government for treason.
+- 1941: Twenty-eight men die when German submarine U-574, is struck by HMS Stork (L81), commanded by Captain Frederic John Walker of Royal Navy, off Punta Delgada, as also by depth charges.
+- 1941: World War II: Limpet mines placed by Italian divers heavily damage HMS Valiant and HMS Queen Elizabeth in Alexandria harbour.
+- 1941: World War II: Adolf Hitler appoints himself as head of the Oberkommando des Heeres.
+- 1940: Risto Ryti, the Prime Minister of Finland,  is elected President of the Republic of Finland in a presidential election, which is exceptionally held by the 1937 electoral college.
+- 1932: BBC World Service begins broadcasting as the BBC Empire Service.
 
 Data from muffinlabs
-*(Updated at: 2025-12-18 01:53:07 UTC)*
+*(Updated at: 2025-12-19 01:56:19 UTC)*
 
 # 历史上的今天 
 
-- - 2022 年：阿根廷赢得 FIFA 世界杯决赛，加时赛 3-3 战平后，点球大战 4-2 击败卫冕冠军法国队。
-- - 2019年：美国众议院首次弹劾唐纳德·特朗普。
-- - 2018 年：火流星列表：一颗流星在白令海上空爆炸，其威力是 1945 年摧毁广岛的原子弹的 10 倍以上。
-- - 2017 年：Amtrak Cascades 客运列车 501 在美国华盛顿州奥林匹亚附近的杜邦市附近脱轨，造成 6 人死亡、70 人受伤。
-- - 2015 年：英国最后一个深煤矿凯林利煤矿关闭。
-- - 2006 年：阿拉伯联合酋长国举行首次选举。
-- - 2006 年：马来西亚遭遇一系列洪水中的第一场。所有洪水造成至少 118 人死亡，超过 40 万人流离失所。
-- - 2005 年：乍得内战爆发，据称受到邻国苏丹支持的反叛组织在阿德雷发动袭击。
-- - 2002 年：加州州长罢免：时任加州州长格雷·戴维斯 (Gray Davis) 宣布，该州将面临创纪录的 350 亿美元预算赤字，大约是他一个月前竞选连任期间报告的数字的两倍。
-- - 1999 年：NASA 将搭载五台地球观测仪器的 Terra 平台发射入轨道，包括 ASTER、CERES、MISR、MODIS 和 MOPITT。
-- - 1995 年：一架洛克希德 L-188 Electra 在安哥拉宽多库邦戈的 Jamba 坠毁，造成 141 人死亡。
-- - 1981年：俄罗斯重型战略轰炸机Tu-160首飞，这是世界上最大的战斗机、最大的超音速飞机和最大的可变后掠翼飞机。
-- - 1977 年：SA de Transport Aérien 730 航班在葡萄牙马德拉岛丰沙尔的马德拉机场附近坠毁，造成 36 人死亡。
-- - 1977 年：联合航空 2860 号航班在犹他州凯斯维尔附近坠毁，机上三名机组人员全部遇难。
-- - 1973 年：苏联联盟号计划：由宇航员 Valentin Lebedev 和 Pyotr Klimuk 驾驶的联盟 13 号从苏联的拜科努尔发射升空。
-- - 1972 年：越南战争：13 日与北越的和平谈判破裂后，理查德·尼克松总统宣布美国将在“后卫 II”行动中与北越交战，这是一系列圣诞节爆炸事件。
-- - 1966 年：天文学家理查德·沃克发现土星的卫星埃庇米修斯。
-- - 1958 年：世界上第一颗通信卫星 SCORE 项目发射。
-- - 1957 年：一场猛烈的 F5 龙卷风摧毁了伊利诺伊州桑菲尔德的整个社区。
-- - 1944 年：美国最高法院在是松诉美国一案中作出裁决，支持富兰克林·罗斯福的第 9066 号行政命令，该命令为监禁几乎所有 120,000 名日裔美国人扫清了道路，其中三分之二是在美国出生和长大的美国公民。
-- - 1944 年：第二次世界大战：XX 轰炸机司令部响应日本一号行动攻势，向中国汉口的补给基地投掷了 500 吨燃烧弹。
-- - 1939 年：第二次世界大战：黑尔戈兰湾战役爆发，这是战争中的第一次重大空战。
-- - 1935 年：兰卡 Sama Samaja 党在锡兰成立。
-- - 1932 年：芝加哥熊队在首场 NFL 季后赛中击败朴茨茅斯斯巴达队，赢得 NFL 冠军。
-- - 1917 年：美国国会通过了包含第十八修正案内容的颁布禁酒令的决议。
-- - 1916 年：第一次世界大战：凡尔登战役结束，法军的第二次进攻将德军推后两三公里，导致他们停止进攻。
-- - 1898 年：Gaston de Chasseloup-Laubat 驾驶 Jeantaud 电动汽车创造了第一个官方认可的陆地速度记录：63.159 公里/小时（39.245 英里/小时）。
-- - 1892 年：彼得·伊里奇·柴可夫斯基的《胡桃夹子》在俄罗斯圣彼得堡首演。
-- - 1878 年：阿勒萨尼家族成为卡塔尔国的统治者。
-- - 1867 年：台湾沿海发生里氏 7.0 级地震，引发海啸，造成至少 580 人死亡。
+- - 2016 年：德国柏林圣诞市场发生一起车辆袭击事件，造成 12 人死亡、56 人受伤。
+- - 2016 年：俄罗斯驻土耳其大使安德烈·卡洛夫在安卡拉的一个艺术展上被暗杀。刺客梅夫吕特·梅尔特·阿尔滕塔斯 (Mevlüt Mert Altıntaş) 被一名土耳其警卫开枪打死。
+- - 2013 年：欧洲航天局发射盖亚号航天器。
+- - 2012年：朴槿惠当选韩国首位女总统。
+- - 2005 年：乔克的海洋航空公司 101 号航班从迈阿密水上飞机基地起飞后立即坠入政府通道，造成 20 人死亡。
+- - 2001年：阿根廷经济危机：12月骚乱：阿根廷布宜诺斯艾利斯爆发骚乱。
+- - 2001 年：蒙古库苏古尔 Tosontsengel 记录的气压达到创纪录的 1,085.6 百帕斯卡（32.06 英寸汞柱）。
+- - 2000年：土耳其共产主义工党/列宁主义的列宁主义游击队翼队袭击了土耳其伊斯坦布尔的民族主义运动党办公室，造成一人死亡、三人受伤。
+- - 1999 年：发现号航天飞机搭载 STS-103 发射升空，这是第三次哈勃太空望远镜维修任务。
+- - 1998年：比尔·克林顿总统被美国众议院弹劾，成为第二位被弹劾的美国总统。
+- - 1997 年：胜安航空 185 号航班坠入印度尼西亚巨港附近的穆西河，造成 104 人死亡。
+- - 1995 年：美国政府恢复联邦对 Potawatomi 美洲原住民部落 Nottawaseppi Huron Band 的承认。
+- - 1986 年：苏联领导人米哈伊尔·戈尔巴乔夫释放了流亡在高尔基的安德烈·萨哈罗夫和他的妻子。
+- - 1985 年：俄罗斯航空公司 101/435 航班被副驾驶劫持至中国。
+- - 1984年：邓小平和撒切尔夫人在北京签署《中英联合声明》，声明中国恢复对香港行使主权，英国自1997年7月1日起将香港交还中国。
+- - 1983 年：原版 FIFA 世界杯奖杯“雷米特奖杯”在巴西里约热内卢巴西足球联合会总部被盗。
+- - 1981 年：Penlee 救生艇在波涛汹涌的大海中前往救援受损的过山车“联合之星”，导致 16 人丧生。
+- - 1977 年：伊朗克尔曼省发生 5.8 级 Bob-Tangol 地震，摧毁了村庄并造成 665 人死亡。
+- - 1974年：根据美国宪法第二十五修正案的规定，纳尔逊·洛克菲勒在杰拉尔德·福特总统的领导下宣誓就任美国副总统。
+- - 1972 年：阿波罗计划：最后一次载人登月飞行阿波罗 17 号载着尤金·塞尔南、罗纳德·埃文斯和哈里森·施密特返回地球。
+- - 1967 年：澳大利亚总理哈罗德·霍尔特被正式推定死亡。
+- - 1961 年：印度吞并了葡属印度的一部分达曼和第乌。
+- - 1956 年：爱尔兰出生的医生约翰·博德金·亚当斯 (John Bodkin Adams) 因涉嫌导致 160 多名患者死亡而被捕。最终他只被判犯有轻微罪名。
+- - 1946 年：第一次印度支那战争爆发。
+- - 1945年：英国法西斯分子约翰·埃默里（John Amery）因叛国罪被英国政府处决，时年33岁。
+- - 1941 年：德国潜艇 U-574 在蓬塔德尔加达附近被英国皇家海军弗雷德里克·约翰·沃克上尉指挥的 HMS Stork (L81) 击中，造成 28 人死亡。
+- - 1941 年：第二次世界大战：意大利潜水员放置的帽贝地雷严重损坏了亚历山大港的英勇号和伊丽莎白女王号。
+- - 1941 年：第二次世界大战：阿道夫·希特勒任命自己为陆军最高司令部 (Oberkommando des Heeres) 的负责人。
+- - 1940 年：芬兰总理里斯托·雷蒂在 1937 年选举团破例举行的总统选举中当选为芬兰共和国总统。
+- - 1932 年：BBC World Service 开始以 BBC Empire Service 的名称进行广播。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-12-18 01:53:07 UTC）*
+*（更新于: 2025-12-19 01:56:19 UTC）*
