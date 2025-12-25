@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: Burmese military forces commit the Mo So massacre, killing at least 44 civilians.
-- 2018: A helicopter crash kills Martha Érika Alonso, first female Governor of Puebla, Mexico, and her husband Rafael Moreno Valle Rosas, former governor.
-- 2008: The Lord's Resistance Army, a Ugandan rebel group, begins a series of attacks against civilians in the Democratic Republic of the Congo, massacring more than 400.
-- 2005: Chad-Sudan relations: Chad declares a state of belligerence against Sudan following a December 18 attack on Adré, which left about 100 people dead.
-- 2003: The Spanish police thwart an attempt by ETA to detonate 50 kg of explosives at 3:55 p.m. inside Madrid's busy Chamartín Station.
-- 1999: Indian Airlines Flight 814 is hijacked in Indian airspace between Kathmandu, Nepal, and Delhi, India. The aircraft landed at Kandahar in Afghanistan. The incident ended on December 31 with the release of 190 survivors (one passenger is killed).
-- 1997: The Sid El-Antri massacre in Algeria kills between 50 and 100 people.
-- 1996: A Learjet 35 crashes into Smarts Mountain near Dorchester, New Hampshire, killing both pilots on board.
-- 1994: Air France Flight 8969 is hijacked on the ground at Houari Boumediene Airport, Algiers, Algeria. Over the course of three days three passengers are killed, as are all four terrorists.
-- 1983: Aeroflot Flight 601 crashes during takeoff from Leshukonskoye Airport, Russia, killing 44 of the 49 people on board.
-- 1974: Cyclone Tracy devastates Darwin, Australia.
-- 1973: District of Columbia Home Rule Act is passed, allowing residents of Washington, D.C. to elect their own local government.
-- 1971: LANSA Flight 508 is struck by lightning and crashes in the Puerto Inca District in the Department of Huánuco in Peru, killing 91.
-- 1969: Nigerian troops capture Umuahia, the Biafran capital.
-- 1968: Apollo program: The crew of Apollo 8 enters into orbit around the Moon, becoming the first humans to do so. They performed ten lunar orbits, took the Earthrise photograph, broadcast live TV pictures, and read the first ten verses of Genesis.
-- 1966: A Canadair CL-44 chartered by the United States military crashes into a small village in South Vietnam, killing 111.
-- 1964: Flying Tiger Line Flight 282 crashes after takeoff from San Francisco International Airport, killing three.
-- 1964: Vietnam War: Viet Cong operatives bomb the Brinks Hotel in Saigon, South Vietnam to demonstrate they can strike an American installation in the heavily guarded capital.
-- 1955: A flood devastates California, killing 74 people across portions of the state.
-- 1953: Tangiwai disaster: In New Zealand's North Island, at Tangiwai, a railway bridge is damaged by a lahar and collapses beneath a passenger train, killing 151 people.
-- 1952: First flight of Britain's Handley Page Victor strategic bomber.
-- 1951: Libya becomes independent. Idris I is proclaimed King of Libya.
-- 1945: Five of nine children become missing after their home in Fayetteville, West Virginia, is burned down.
-- 1944: World War II: The Belgian Troopship Leopoldville was torpedoed and sank with the loss of 763 soldiers and 56 crew.
-- 1943: World War II: U.S. General Dwight D. Eisenhower is named Supreme Allied Commander for Operation Overlord.
-- 1942: World War II: French monarchist, Fernand Bonnier de La Chapelle, assassinates Vichy French Admiral François Darlan in Algiers, Algeria.
-- 1941: World War II: Benghazi is conquered by the British Eighth Army.
-- 1941: World War II: Kuching is conquered by Japanese forces.
-- 1939: World War II: Pope Pius XII makes a Christmas Eve appeal for peace.
-- 1929: A four alarm fire breaks out in the West Wing of the White House in Washington, D.C.
+- 2024: Azerbaijan Airlines Flight 8243 crashes in Aktau, Kazakhstan, killing 38 of its occupants.
+- 2021: The James Webb Space Telescope is launched.
+- 2020: An explosion in Nashville, Tennessee, occurs, leaving three civilians in the hospital.
+- 2019: Twenty people are killed and thousands are left homeless by Typhoon Phanfone in the Philippines.
+- 2016: A Russian Defence Ministry Tupolev Tu-154 carrying members of the Alexandrov Ensemble crashes into the Black Sea shortly after takeoff, killing all 92 people on board.
+- 2012: Air Bagan Flight 011, a Fokker 100, crashes on approach to Heho Airport in Heho, Myanmar, killing two people.
+- 2012: An Antonov An-72 plane crashes close to the city of Shymkent, killing 27 people.
+- 2007: A Siberian tiger named Tatania escapes her exhibit at the San Francisco Zoo and attacks three people, killing one and injuring two more.
+- 2004: The Cassini orbiter releases Huygens probe which successfully landed on Saturn's moon Titan on January 14, 2005.
+- 2003: The ill-fated Beagle 2 probe, released from the Mars Express spacecraft on December 19, stops transmitting shortly before its scheduled landing.
+- 2003: UTA Flight 141, a Boeing 727-223, crashes at the Cotonou Airport in Benin, killing 141 people.
+- 1999: Cubana de Aviación Flight 310, a Yakovlev Yak-42, crashes near Bejuma, Carabobo State, Venezuela, killing 22 people.
+- 1996: The body of American child beauty queen JonBenét Ramsey was found in her family's Boulder, Colorado, home. Her murder remains unsolved.
+- 1991: Mikhail Gorbachev resigns as President of the Soviet Union (the union itself is dissolved the next day). Ukraine's referendum is finalized and Ukraine officially leaves the Soviet Union.
+- 1989: Romanian Revolution: Deposed President of Romania Nicolae Ceaușescu and his wife, Elena, are condemned to death and executed after a summary trial.
+- 1986: Iraqi Airways Flight 163, a Boeing 737-270C, is hijacked and crashes in Arar, Saudi Arabia, killing 63 people.
+- 1977: Israeli Prime Minister Menachem Begin meets in Egypt with its president Anwar Sadat.
+- 1976: EgyptAir Flight 864, a Boeing 707-366C, crashes on approach to Don Mueang International Airport, killing 71 people.
+- 1968: Kilvenmani massacre: Forty-four Dalits (untouchables) are burnt to death in Kizhavenmani village, Tamil Nadu, a retaliation for a campaign for higher wages by Dalit laborers.
+- 1968: Apollo program: Apollo 8 performs the first successful Trans-Earth injection (TEI) maneuver, sending the crew and spacecraft on a trajectory back to Earth from Lunar orbit.
+- 1963: Turkish Cypriot Bayrak Radio begins transmitting in Cyprus after Turkish Cypriots are forcibly excluded from Cyprus Broadcasting Corporation.
+- 1962: The Soviet Union conducts its final above-ground nuclear weapon test, in anticipation of the 1963 Partial Nuclear Test Ban Treaty.
+- 1951: A bomb explodes at the home of Harry T. Moore and Harriette V. S. Moore, early leaders of the Civil Rights Movement, killing Harry instantly and fatally wounding Harriette.
+- 1950: The Stone of Scone, traditional coronation stone of British monarchs, is taken from Westminster Abbey by Scottish nationalist students. It later turns up in Scotland on April 11, 1951.
+- 1946: The first European self-sustaining nuclear chain reaction is initiated within the Soviet Union's F-1 nuclear reactor.
+- 1941: Admiral Émile Muselier seizes the archipelago of Saint Pierre and Miquelon, which become the first part of France to be liberated by the Free French Forces.
+- 1941: World War II: Battle of Hong Kong ends, beginning the Japanese occupation of Hong Kong.
+- 1941: Admiral Chester W. Nimitz, appointed commander of the U.S. Pacific Fleet on December 17, arrives at Pearl Harbor.
+- 1932: A magnitude 7.6 earthquake in Gansu, China kills 275 people.
+- 1927: B. R. Ambedkar and his followers burn copies of the Manusmriti in Mahad, Maharashtra, to protest its treatment of Dalit people.
 
 Data from muffinlabs
-*(Updated at: 2025-12-24 01:55:54 UTC)*
+*(Updated at: 2025-12-25 01:57:46 UTC)*
 
 # 历史上的今天 
 
-- - 2021 年：缅甸军队实施莫梭大屠杀，造成至少 44 名平民死亡。
-- - 2018 年：墨西哥普埃布拉第一位女州长玛莎·埃里卡·阿隆索 (Martha Érika Alonso) 和她的丈夫前州长拉斐尔·莫雷诺·瓦莱·罗萨斯 (Rafael Moreno Valle Rosas) 因直升机失事丧生。
-- - 2008 年：乌干达反叛组织上帝抵抗军开始对刚果民主共和国的平民发动一系列袭击，屠杀了 400 多人。
-- - 2005 年：乍得与苏丹关系：12 月 18 日阿德雷遇袭，造成约 100 人死亡，乍得宣布对苏丹进入交战状态。
-- - 2003 年：西班牙警方于下午 3:55 挫败了埃塔 (ETA) 引爆 50 公斤爆炸物的企图。马德里繁忙的查马丁车站内。
-- - 1999 年：印度航空 814 号航班在尼泊尔加德满都和印度德里之间的印度领空被劫持。飞机降落在阿富汗坎大哈。该事件于 12 月 31 日结束，190 名幸存者获释（一名乘客死亡）。
-- - 1997 年：阿尔及利亚的 Sid El-Antri 大屠杀造成 50 至 100 人死亡。
-- - 1996 年：一架里尔 35 型飞机坠入新罕布什尔州多切斯特附近的斯马茨山，机上两名飞行员丧生。
-- - 1994 年：法航 8969 号航班在阿尔及利亚阿尔及尔胡阿里·布迈丁机场被劫持。三天内，三名乘客被杀，四名恐怖分子也全部被杀。
-- - 1983 年：俄罗斯航空公司 601 航班在从俄罗斯 Leshukonskoye 机场起飞时坠毁，机上 49 人中有 44 人死亡。
-- - 1974 年：飓风特雷西摧毁了澳大利亚达尔文。
-- - 1973 年：《哥伦比亚特区地方自治法》获得通过，允许华盛顿特区的居民选举自己的地方政府。
-- - 1971 年：LANSA 508 航班在秘鲁瓦努科省印加港地区遭雷击坠毁，造成 91 人死亡。
-- - 1969 年：尼日利亚军队占领比夫拉首府乌穆阿希亚。
-- - 1968 年：阿波罗计划：阿波罗 8 号宇航员进入绕月轨道，成为第一批这样做的人类。他们进行了十次绕月飞行，拍摄了地出照片，播放了电视直播画面，并朗读了《创世记》的前十节经文。
-- - 1966 年：美国军方包租的一架加拿大航空 CL-44 坠毁在南越的一个小村庄，造成 111 人死亡。
-- - 1964 年：飞虎航空 282 号航班从旧金山国际机场起飞后坠毁，造成三人死亡。
-- - 1964 年：越南战争：越共特工轰炸了南越西贡的布林克斯酒店，以证明他们可以袭击这座戒备森严的首都的美国设施。
-- - 1955 年：一场洪水摧毁了加利福尼亚州，导致该州部分地区 74 人死亡。
-- - 1953 年：Tangiwai 灾难：在新西兰北岛的 Tangiwai，一座铁路桥被火山泥流损坏并倒塌在旅客列车下方，造成 151 人死亡。
-- - 1952 年：英国汉德利·佩吉·维克多战略轰炸机首飞。
-- - 1951 年：利比亚独立。伊德里斯一世被宣布为利比亚国王。
-- - 1945 年：西弗吉尼亚州费耶特维尔的家被烧毁，九名儿童中有五人失踪。
-- - 1944 年：第二次世界大战：比利时利奥波德维尔号战舰被鱼雷击沉，造成 763 名士兵和 56 名船员丧生。
-- - 1943 年：第二次世界大战：美国将军德怀特·D·艾森豪威尔 (Dwight D. Eisenhower) 因霸王行动被任命为盟军最高指挥官。
-- - 1942 年：第二次世界大战：法国君主主义者费尔南德·邦尼耶·德拉夏佩尔在阿尔及利亚的阿尔及尔刺杀了维希法国海军上将弗朗索瓦·达尔朗。
-- - 1941 年：第二次世界大战：班加西被英国第八集团军占领。
-- - 1941 年：第二次世界大战：古晋被日本军队占领。
-- - 1939 年：第二次世界大战：教皇庇护十二世在平安夜呼吁和平。
-- - 1929 年：华盛顿特区白宫西翼发生四级火灾。
+- - 2024 年：阿塞拜疆航空 8243 号航班在哈萨克斯坦阿克套坠毁，造成 38 名乘客死亡。
+- - 2021 年：詹姆斯·韦伯太空望远镜发射。
+- - 2020 年：田纳西州纳什维尔发生爆炸，导致三名平民住院。
+- - 2019 年：菲律宾台风“潘丰”造成 20 人死亡，数千人无家可归。
+- - 2016 年：俄罗斯国防部一架载有亚历山德罗夫乐团成员的图波列夫 Tu-154 飞机起飞后不久坠入黑海，机上 92 人全部遇难。
+- - 2012 年：蒲甘航空 011 号航班（一架福克 100）在飞往缅甸赫霍赫霍机场时坠毁，造成两人死亡。
+- - 2012 年：一架安东诺夫 An-72 飞机在奇姆肯特市附近坠毁，造成 27 人死亡。
+- - 2007 年：一只名叫塔塔尼亚 (Tatania) 的西伯利亚虎逃离旧金山动物园的展览并袭击了三人，造成一人死亡、两人受伤。
+- - 2004年：卡西尼号轨道飞行器释放惠更斯探测器，并于2005年1月14日成功登陆土星卫星土卫六。
+- - 2003 年：命运多舛的小猎犬 2 号探测器于 12 月 19 日从火星快车航天器上释放，在预定着陆前不久停止传输。
+- - 2003 年：UTA 141 号航班（一架波音 727-223）在贝宁科托努机场坠毁，造成 141 人死亡。
+- - 1999 年：古巴航空 310 号航班（一架 Yakovlev Yak-42）在委内瑞拉卡拉沃沃州贝朱马附近坠毁，造成 22 人死亡。
+- - 1996 年：美国儿童选美皇后 JonBenét Ramsey 的尸体在她位于科罗拉多州博尔德的家中被发现。她的谋杀案仍未侦破。
+- - 1991 年：米哈伊尔·戈尔巴乔夫辞去苏联总统职务（第二天联盟解散）。乌克兰公投结束，乌克兰正式脱离苏联。
+- - 1989 年：罗马尼亚革命：被废黜的罗马尼亚总统尼古拉·齐奥塞斯库 (Nicolae Ceauşescu) 和他的妻子埃琳娜 (Elena) 在简易审判后被判处死刑并处决。
+- - 1986 年：伊拉克航空 163 号航班，一架波音 737-270C，在沙特阿拉伯阿拉尔被劫持并坠毁，造成 63 人死亡。
+- - 1977 年：以色列总理梅纳赫姆·贝京在埃及会见总统安瓦尔·萨达特。
+- - 1976 年：埃及航空 864 号航班（一架波音 707-366C）在飞往廊曼国际机场时坠毁，造成 71 人死亡。
+- - 1968 年：Kilvenmani 大屠杀：泰米尔纳德邦 Kizhavenmani 村有 44 名贱民被烧死，这是对达利特工人争取更高工资运动的报复。
+- - 1968 年：阿波罗计划：阿波罗 8 号执行了首次成功的跨地球注入 (TEI) 机动，将机组人员和航天器从月球轨道送回地球。
+- - 1963 年：土族塞人被强行排除在塞浦路斯广播公司之外后，土族塞人拜拉克广播电台开始在塞浦路斯进行广播。
+- - 1962 年：苏联进行了最后一次地面核武器试验，以期签署 1963 年《部分禁止核试验条约》。
+- - 1951 年：一枚炸弹在民权运动早期领导人哈利·T·摩尔 (Harry T. Moore) 和哈里特·V·S·摩尔 (Harriette V. S. Moore) 的家中爆炸，哈利当场死亡，哈里特受重伤。
+- - 1950 年：苏格兰民族主义学生从威斯敏斯特教堂取出英国君主的传统加冕石——司康石 (Stone of Scone)。后来它于 1951 年 4 月 11 日出现在苏格兰。
+- - 1946 年：欧洲第一个自持核链式反应在苏联 F-1 核反应堆内启动。
+- - 1941 年：海军上将埃米尔·穆塞利尔 (Émile Muselier) 占领圣皮埃尔和密克隆群岛，该群岛成为自由法国军队解放的法国第一部分。
+- - 1941年：第二次世界大战：香港之战结束，日本开始占领香港。
+- - 1941 年：12 月 17 日任命为美国太平洋舰队司令的切斯特·W·尼米兹海军上将抵达珍珠港。
+- - 1932 年：中国甘肃发生里氏 7.6 级地震，造成 275 人死亡。
+- - 1927 年：B. R. Ambedkar 和他的追随者在马哈拉施特拉邦马哈德焚烧了《Manusmriti》，以抗议其对待达利特人的方式。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2025-12-24 01:55:54 UTC）*
+*（更新于: 2025-12-25 01:57:46 UTC）*
