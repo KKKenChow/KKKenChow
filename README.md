@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019:  A fire in an escape room in Koszalin, Poland, kills five teenagers through carbon monoxide poisoning.
-- 2018: Hennenman-Kroonstad train crash: A passenger train operated by Shosholoza Meyl collides with a truck on a level crossing at Geneva Station between Hennenman and Kroonstad, Free State, South Africa. Twenty people are killed and 260 injured.
-- 2013: A gunman kills eight people in a house-to-house rampage in Kawit, Cavite, Philippines.
-- 2010: The Burj Khalifa, the current tallest building in the world, officially opens in Dubai.
-- 2008: A Let L-410 Turbolet crashes in the Los Roques Archipelago in Venezuela, killing 14 people.
-- 2007: The 110th United States Congress convenes, electing Nancy Pelosi as the first female Speaker of the House in U.S. history.
-- 2006: Ehud Olmert becomes acting Prime Minister of Israel after the incumbent, Ariel Sharon, suffers a second, apparently more serious stroke.
-- 2004: Mikheil Saakashvili is elected President of Georgia following the November 2003 Rose Revolution.
-- 2004: Spirit, a NASA Mars rover, lands successfully on Mars at 04:35 UTC.
-- 2000: A Norwegian passenger train departing from Trondheim, collides with a local train coming from Hamar in Åsta in Åmot Municipality; 19 people are killed and 68 injured in the accident.
-- 1999: Former professional wrestler Jesse Ventura is sworn in as governor of Minnesota, United States.
-- 1998: A massive ice storm hits eastern Canada and the northeastern United States, continuing through January 10 and causing widespread destruction.
-- 1990: In Pakistan's deadliest train accident an overloaded passenger train collides with an empty freight train, resulting in 307 deaths and 700 injuries.
-- 1989: Second Gulf of Sidra incident: A pair of Libyan MiG-23 "Floggers" are shot down by a pair of US Navy F-14 Tomcats during an air-to-air confrontation.
-- 1987: The Maryland train collision: An Amtrak train en route to Boston from Washington, D.C., collides with Conrail engines in Chase, Maryland, United States, killing 16 people.
-- 1976: The Troubles: The Ulster Volunteer Force shoots dead six Irish Catholic civilians in County Armagh, Northern Ireland. The next day, gunmen would shoot dead ten Protestant civilians nearby in retaliation.
-- 1975: This date overflowed the 12-bit field that had been used in TOPS-10. There were numerous problems and crashes related to this bug while an alternative format was developed.
-- 1972: Rose Heilbron becomes the first female judge to sit at the Old Bailey in London, UK.
-- 1965: Aeroflot Flight 101/X-20 crashes on approach to Alma-Ata Airport, killing 64 people.
-- 1959: Luna 1 becomes the first spacecraft to reach the vicinity of the Moon.
-- 1958: Sputnik 1, the first artificial Earth satellite, launched by the Soviet Union in 1957, falls to Earth from orbit.
-- 1956: The Greek National Radical Union is formed by Konstantinos Karamanlis.
-- 1951: Korean War: Chinese and North Korean forces capture Seoul for the second time.
-- 1948: Burma gains its independence from the United Kingdom, becoming an independent republic.
-- 1946: The first day of a three-day "disastrous" tornado outbreak across the south-central United States leaves 41 people dead and at least 412 others injured.
-- 1944: World War II: Operation Carpetbagger, involving the dropping of arms and supplies to resistance fighters in Europe, begins.
-- 1918: The Finnish Declaration of Independence is recognized by Russia, Sweden, Germany and France.
-- 1912: The Scout Association is incorporated throughout the British Empire by royal charter.
-- 1909: Explorer Aeneas Mackintosh of the Imperial Trans-Antarctic Expedition escaped death by fleeing across ice floes.
-- 1903: Topsy, an elephant, is electrocuted by the owners of Luna Park, Coney Island. The Edison film company records the film Electrocuting an Elephant of Topsy's death.
+- 2024:  Alaska Airlines Flight 1282 makes an emergency landing at Portland International Airport after a door plug blows off the Boeing 737 MAX 9 operating the flight. There are no fatalities, but the accident prompts the 737 MAX to be grounded and renews scrutiny on Boeing's manufacturing and design issues.
+- 2022: Kazakh President Kassym-Jomart Tokayev dismisses Prime Minister Asqar Mamin and declares state of emergency over the 2022 Kazakh unrest.
+- 2014: A launch of the communication satellite GSAT-14 aboard the GSLV MK.II D5 marks the first successful flight of an Indian cryogenic engine.
+- 2005: The dwarf planet Eris is discovered by Palomar Observatory-based astronomers, later motivating the International Astronomical Union (IAU) to define the term planet for the first time.
+- 1993: The oil tanker MV Braer runs aground on the coast of the Shetland Islands, spilling 84,700 tons of crude oil.
+- 1991: Somali Civil War: The United States Embassy to Somalia in Mogadishu is evacuated by helicopter airlift days after the outbreak of violence in Mogadishu.
+- 1991: Georgian forces enter Tskhinvali, the capital of South Ossetia, Georgia, opening the 1991-92 South Ossetia War.
+- 1976: The Troubles: Gunmen shoot dead ten Protestant civilians after stopping their minibus at Kingsmill in County Armagh, Northern Ireland, UK, allegedly as retaliation for a string of attacks on Catholic civilians in the area by Loyalists, particularly the killing of six Catholics the night before.
+- 1976: The Khmer Rouge announce that the new Constitution of Democratic Kampuchea is ratified.
+- 1975: The Tasman Bridge in Tasmania, Australia, is struck by the bulk ore carrier Lake Illawarra, killing twelve people.
+- 1972: US President Richard Nixon announces the Space Shuttle program.
+- 1970: The 7.1 Mw  Tonghai earthquake shakes Tonghai County, Yunnan province, China, with a maximum Mercalli intensity of X (Extreme). Between 10,000 and 15,000 people are known to have been killed and about another 26,000 are injured.
+- 1969: Ariana Afghan Airlines Flight 701 crashes in Fernhill, West Sussex, UK, while on approach to Gatwick Airport, killing 50 people.
+- 1969: The Venera 5 space probe is launched at 06:28:08 UTC from Baikonur.
+- 1968: Alexander Dubček comes to power in Czechoslovakia, effectively beginning the "Prague Spring".
+- 1967: Cultural Revolution: The Shanghai People's Commune is established following the seizure of power from local city officials by revolutionaries.
+- 1957: In a speech given to the United States Congress, United States President Dwight D. Eisenhower announces the establishment of what will later be called the Eisenhower Doctrine.
+- 1953: The play Waiting for Godot by Samuel Beckett receives its première in Paris.
+- 1949: In his State of the Union address, United States President Harry S. Truman unveils his Fair Deal program.
+- 1945: The Soviet Union recognizes the new pro-Soviet Provisional Government of the Republic of Poland.
+- 1944: The Daily Mail becomes the first major London newspaper to be published on both sides of the Atlantic Ocean.
+- 1941: Amy Johnson, a 37-year-old pilot and the first woman to fly solo from London to Australia, disappears after bailing out of her plane over the River Thames, and is presumed dead.
+- 1933: Construction of the Golden Gate Bridge begins in San Francisco Bay.
+- 1925: Nellie Tayloe Ross of Wyoming becomes the first female governor in the United States.
+- 1919: The German Workers' Party, which would become the Nazi Party, is founded in Munich.
+- 1914: The Ford Motor Company announces an eight-hour workday and minimum daily wage of $5 in salary plus bonuses.
+- 1913: First Balkan War: The Battle of Lemnos begins; Greek admiral Pavlos Kountouriotis forces the Turkish fleet to retreat to its base within the Dardanelles, from which it did not venture for the rest of the war.
+- 1912: The sixth All-Russian Conference of the Russian Social Democratic Labour Party (Prague Party Conference) opens. In the course of the conference, Vladimir Lenin and his supporters break from the rest of the party to form the Bolshevik movement.
+- 1911: Kappa Alpha Psi, the world's third-oldest and largest black fraternity, is founded at Indiana University.
+- 1900: Irish nationalist leader John Edward Redmond calls for revolt against British rule.
 
 Data from muffinlabs
-*(Updated at: 2026-01-04 02:10:00 UTC)*
+*(Updated at: 2026-01-05 02:09:46 UTC)*
 
 # 历史上的今天 
 
-- - 2019 年：波兰科沙林的逃生室发生火灾，导致五名青少年一氧化碳中毒身亡。
-- - 2018 年：Hennenman-Kroonstad 火车相撞事故：Shosholoza Meyl 运营的一列客运列车在南非自由州 Hennenman 和 Kroonstad 之间日内瓦站的平交道口与一辆卡车相撞。20 人死亡、260 人受伤。
-- - 2013 年：一名枪手在菲律宾甲美地省卡维特的挨家挨户的袭击中杀死了 8 人。
-- - 2010 年：目前世界上最高的建筑哈利法塔在迪拜正式开业。
-- - 2008 年：一架 Let L-410 Turbolet 在委内瑞拉洛斯罗克斯群岛坠毁，造成 14 人死亡。
-- - 2007 年：第 110 届美国国会召开，选举南希·佩洛西 (Nancy Pelosi) 为美国历史上第一位女众议院议长。
-- - 2006 年：埃胡德·奥尔默特 (Ehud Olmert) 成为以色列代理总理，此前现任总理阿里尔·沙龙 (Ariel Sharon) 遭受了第二次、显然更为严重的中风。
-- - 2004 年：2003 年 11 月玫瑰革命后，米哈伊尔·萨卡什维利当选格鲁吉亚总统。
-- - 2004 年：美国宇航局火星探测器勇气号于世界标准时间 04:35 成功登陆火星。
-- - 2000年：一列从特隆赫姆出发的挪威旅客列车与一列从奥莫特市奥斯塔的哈马尔出发的当地火车相撞；事故已造成19人死亡、68人受伤。
-- - 1999 年：前职业摔跤手杰西·文图拉 (Jesse Ventura) 宣誓就任美国明尼苏达州州长。
-- - 1998 年：一场大规模冰暴袭击加拿大东部和美国东北部，持续到 1 月 10 日，造成大面积破坏。
-- - 1990年：巴基斯坦最严重的火车事故中，一列超载的客运列车与一列空载的货运列车相撞，导致307人死亡、700人受伤。
-- - 1989 年：第二次锡德拉湾事件：在空对空对抗中，两架利比亚 MiG-23“鞭打者”被两架美国海军 F-14 雄猫击落。
-- - 1987 年：马里兰州火车相撞事件：一列从华盛顿特区开往波士顿的 Amtrak 火车在美国马里兰州蔡斯与 Conrail 发动机相撞，造成 16 人死亡。
-- - 1976 年：麻烦：阿尔斯特志愿军在北爱尔兰阿马郡枪杀了六名爱尔兰天主教平民。第二天，枪手开枪打死附近十名新教平民作为报复。
-- - 1975 年：该日期溢出了 TOPS-10 中使用的 12 位字段。在开发替代格式时，出现了许多与此错误相关的问题和崩溃。
-- - 1972 年：Rose Heilbron 成为英国伦敦老贝利法院第一位女法官。
-- - 1965 年：俄罗斯航空公司 101/X-20 航班在飞往阿拉木图机场时坠毁，造成 64 人死亡。
-- - 1959 年：Luna 1 号成为第一艘到达月球附近的航天器。
-- - 1958 年：苏联于 1957 年发射的第一颗人造地球卫星 Sputnik 1 从轨道坠落到地球。
-- - 1956 年：康斯坦丁诺斯·卡拉曼利斯 (Konstantinos Karamanlis) 成立希腊全国激进联盟。
-- - 1951 年：朝鲜战争：中国和朝鲜军队第二次占领首尔。
-- - 1948 年：缅甸从英国独立，成为一个独立的共和国。
-- - 1946 年：美国中南部爆发了一场为期三天的“灾难性”龙卷风，第一天就造成 41 人死亡、至少 412 人受伤。
-- - 1944 年：第二次世界大战：“Carpetbagger 行动”开始，向欧洲抵抗战士空投武器和物资。
-- - 1918 年：芬兰独立宣言得到俄罗斯、瑞典、德国和法国的承认。
-- - 1912 年：根据皇家特许，童子军协会在整个大英帝国成立。
-- - 1909 年：帝国横贯南极探险队的探险家埃涅阿斯·麦金托什 (Aeneas Mackintosh) 穿越浮冰逃脱死亡。
-- - 1903 年：大象托普西 (Topsy) 被康尼岛月神公园的主人电死。爱迪生电影公司录制了托普西之死的电影《电死一头大象》。
+- - 2024 年：阿拉斯加航空 1282 号航班在运营该航班的波音 737 MAX 9 飞机的门塞被吹断后紧急降落在波特兰国际机场。事故没有造成人员死亡，但事故促使 737 MAX 停飞，并重新对波音的制造和设计问题进行审查。
+- - 2022 年：哈萨克斯坦总统卡西姆-若马尔特·托卡耶夫解雇总理阿斯卡尔·马明，并宣布针对 2022 年哈萨克斯坦骚乱进入紧急状态。
+- - 2014 年：GSLV MK.II D5 上的通信卫星 GSAT-14 的发射标志着印度低温发动机的首次成功飞行。
+- - 2005 年：帕洛玛天文台的天文学家发现了矮行星阋神星，后来促使国际天文学联合会 (IAU) 首次定义了行星一词。
+- - 1993年：MV Braer号油轮在设得兰群岛海岸搁浅，泄漏了84,700吨原油。
+- - 1991 年：索马里内战：摩加迪沙爆发暴力事件几天后，美国驻索马里驻摩加迪沙大使馆被直升机空运撤离。
+- - 1991年：格鲁吉亚军队进入格鲁吉亚南奥塞梯首府茨欣瓦利，拉开了1991-92年南奥塞梯战争的序幕。
+- - 1976 年：麻烦：枪手在英国北爱尔兰阿马郡金斯米尔停下小巴后开枪打死了 10 名新教平民，据称是为了报复效忠派对该地区天主教平民的一系列袭击，特别是前一天晚上杀害了 6 名天主教徒。
+- - 1976年：红色高棉宣布民主柬埔寨新宪法获得批准。
+- - 1975 年：澳大利亚塔斯马尼亚州的塔斯曼大桥被伊拉瓦拉湖散装矿砂船撞击，造成 12 人死亡。
+- - 1972 年：美国总统理查德·尼克松宣布航天飞机计划。
+- - 1970年：7.1兆瓦的通海地震震动了中国云南省通海县，最大Mercalli烈度为X（极端）。据了解，已有 10,000 至 15,000 人死亡，另有约 26,000 人受伤。
+- - 1969 年：阿富汗阿里安娜航空公司 701 号航班在英国西萨塞克斯郡弗恩希尔飞往盖特威克机场时坠毁，造成 50 人死亡。
+- - 1969 年：金星 5 号太空探测器于世界标准时间 06:28:08 从拜科努尔发射升空。
+- - 1968 年：亚历山大·杜布切克 (Alexander Dubček) 在捷克斯洛伐克上台，实际上开始了“布拉格之春”。
+- - 1967 年：文化大革命：革命者从当地城市官员手中夺取权力后，上海人民公社成立。
+- - 1957 年：美国总统德怀特·D·艾森豪威尔在向美国国会发表的演讲中宣布建立后来被称为“艾森豪威尔主义”的政策。
+- - 1953 年：塞缪尔·贝克特的戏剧《等待戈多》在巴黎首演。
+- - 1949 年：美国总统哈里·S·杜鲁门 (Harry S. Truman) 在国情咨文中公布了他的公平交易计划。
+- - 1945年：苏联承认新的亲苏联波兰共和国临时政府。
+- - 1944 年：《每日邮报》成为第一份在大西洋两岸出版的伦敦主要报纸。
+- - 1941 年：37 岁的飞行员艾米·约翰逊 (Amy Johnson) 是第一位独自从伦敦飞往澳大利亚的女性，她在泰晤士河上空跳伞后失踪，并被推定死亡。
+- - 1933 年：金门大桥在旧金山湾开始建设。
+- - 1925 年：怀俄明州的内莉·泰洛·罗斯 (Nellie Tayloe Ross) 成为美国第一位女州长。
+- - 1919 年：德国工人党（后来的纳粹党）在慕尼黑成立。
+- - 1914 年：福特汽车公司宣布每天工作 8 小时，最低日工资为 5 美元（工资加奖金）。
+- - 1913年：第一次巴尔干战争：利姆诺斯岛战役开始；希腊海军上将帕夫洛斯·孔图里奥蒂斯迫使土耳其舰队撤退至达达尼尔海峡的基地，在战争余下的时间里，土耳其舰队从未从那里冒险。
+- - 1912年：俄罗斯社会民主工党第六次全俄代表大会（布拉格党代表大会）开幕。在会议期间，弗拉基米尔·列宁和他的支持者与党内其他成员决裂，组建了布尔什维克运动。
+- - 1911 年：世界上第三古老、规模最大的黑人兄弟会 Kappa Alpha Psi 在印第安纳大学成立。
+- - 1900 年：爱尔兰民族主义领袖约翰·爱德华·雷蒙德呼吁反抗英国统治。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-01-04 02:10:00 UTC）*
+*（更新于: 2026-01-05 02:09:46 UTC）*
