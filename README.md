@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: A 13-year-old American girl, Jayme Closs, is found alive in Gordon, Wisconsin, having been kidnapped 88 days earlier from her parents' home whilst they were murdered.
-- 2015: A traffic accident between an oil tanker truck and passenger coach en route to Shikarpur from Karachi on the Pakistan National Highway Link Road near Gulshan-e-Hadeed, Karachi, killing at least 62 people.
-- 2013: More than 100 people are killed and 270 injured in several bomb blasts in the Quetta area of Pakistan.
-- 2012: A bombing at Jamrud in Pakistan, kills at least 30 people and injures 78 others.
-- 2007: A general strike begins in Guinea in an attempt to get President Lansana Conté to resign.
-- 2003: North Korea withdraws from the Treaty on the Non-Proliferation of Nuclear Weapons, making it the first state to withdraw from the treaty.
-- 2000: Crossair Flight 498, a Saab 340 aircraft, crashes in Niederhasli, Switzerland, after taking off from Zurich Airport, killing 13 people.
-- 1990: Time Warner is formed by the merger of Time Inc. and Warner Communications.
-- 1985: Sandinista Daniel Ortega becomes president of Nicaragua and vows to continue the transformation to socialism and alliance with the Soviet Union and Cuba; American policy continues to support the Contras in their revolt against the Nicaraguan government.
-- 1984: Holy See-United States relations: The United States and Holy See (Vatican City) re-establish full diplomatic relations after almost 117 years, overturning the United States Congress's 1867 ban on public funding for such a diplomatic envoy.
-- 1981: Salvadoran Civil War: The FMLN launches its first major offensive, gaining control of most of Morazán and Chalatenango departments
-- 1980: The New England Journal of Medicine publishes the letter Addiction Rare in Patients Treated with Narcotics, which is later misused to downplay the general risk of addiction to opioids.
-- 1972: Sheikh Mujibur Rahman returns to the newly independent Bangladesh as president after spending over nine months in prison in Pakistan.
-- 1966: Tashkent Declaration, a peace agreement between India and Pakistan signed that resolved the Indo-Pakistani War of 1965.
-- 1954: BOAC Flight 781, a de Havilland DH.106 Comet 1, explodes and falls into the Tyrrhenian Sea, killing 35 people.
-- 1946: The United States Army Signal Corps successfully conducts Project Diana, bouncing radio waves off the Moon and receiving the reflected signals.
-- 1946: The first General Assembly of the United Nations assembles in the Methodist Central Hall, Westminster. Fifty-one nations are represented.
-- 1941: World War II: The Greek army captures Kleisoura.
-- 1927: Fritz Lang's futuristic film Metropolis is released in Germany.
-- 1920: League of Nations Covenant automatically enters into force after the Treaty of Versailles is ratified by Germany.
-- 1920: The Treaty of Versailles takes effect, officially ending World War I for all combatant nations except the United States.
-- 1917: Imperial Trans-Antarctic Expedition: Seven survivors of the Ross Sea party were rescued after being stranded for several months.
-- 1916: World War I: Imperial Russia begins the Erzurum Offensive, leading to the defeat of the Ottoman Empire's Third Army.
-- 1901: New York: Automobile Club of America installs signs on major highways.
-- 1901: The first great Texas oil gusher is discovered at Spindletop in Beaumont, Texas.
-- 1876: The Plan of Tuxtepec is announced.
-- 1870: John D. Rockefeller incorporates Standard Oil.
-- 1863: The Metropolitan Railway, the world's oldest underground railway, opens between Paddington and Farringdon, marking the beginning of the London Underground.
-- 1861: American Civil War: Florida becomes the third state to secede from the Union.
-- 1812: The first steamboat on the Ohio River or the Mississippi River arrives in New Orleans, 82 days after departing from Pittsburgh.
+- 2020: COVID-19 pandemic in Hubei: Municipal health officials in Wuhan announce the first recorded death from COVID-19.
+- 2013: One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia.
+- 2003: Illinois Governor George Ryan commutes the death sentences of 167 prisoners on Illinois's death row based on the Jon Burge scandal.
+- 1998: Over 100 people are killed in the Sidi-Hamed massacre in Algeria.
+- 1996: Space Shuttle program: STS-72 launches from the Kennedy Space Center marking the start of the 74th Space Shuttle mission and the 10th flight of Endeavour.
+- 1995: 51 people are killed in a plane crash in María La Baja, Colombia.
+- 1994: The Irish Government announces the end of a 15-year broadcasting ban on the IRA and its political arm Sinn Féin.
+- 1986: The Gateway Bridge, Brisbane, Queensland, Australia is officially opened.
+- 1983: United Airlines Flight 2885 crashes after takeoff from Detroit Metropolitan Airport, killing three.
+- 1973: Major League Baseball owners vote in approval of the American League adopting the designated hitter position.
+- 1972: East Pakistan renames itself Bangladesh.
+- 1966: The Tbilisi Metro is opened.
+- 1964: Surgeon General of the United States Dr. Luther Terry, M.D., publishes the landmark report Smoking and Health: Report of the Advisory Committee to the Surgeon General of the Public Health Service saying that smoking may be hazardous to health, sparking national and worldwide anti-smoking efforts.
+- 1962: An avalanche on Huascarán in Peru causes around 4,000 deaths.
+- 1962: Cold War: While tied to its pier in Polyarny, the Soviet submarine B-37 is destroyed when fire breaks out in its torpedo compartment.
+- 1961: Throgs Neck Bridge over the East River, linking New York City's boroughs of The Bronx and Queens, opens to road traffic.
+- 1959: 36 people are killed when Lufthansa Flight 502 crashes on approach to Rio de Janeiro/Galeão International Airport in Brazil.
+- 1957: The African Convention is founded in Dakar, Senegal.
+- 1949: The first "networked" television broadcasts took place as KDKA-TV in Pittsburgh, Pennsylvania goes on the air connecting the east coast and mid-west programming.
+- 1946: Enver Hoxha, Secretary General of the Communist Party of Albania, declares the People's Republic of Albania with himself as head of state.
+- 1943: Italian-American anarchist Carlo Tresca is assassinated in New York City.
+- 1943: The Republic of China agrees to the Sino-British New Equal Treaty and the Sino-American New Equal Treaty.
+- 1942: World War II: Japanese forces attack Tarakan in Borneo, Netherlands Indies (Battle of Tarakan)
+- 1942: World War II: Japanese forces capture Kuala Lumpur, the capital of the Federated Malay States.
+- 1935: Amelia Earhart becomes the first person to fly solo from Hawaii to California.
+- 1927: Louis B. Mayer, head of film studio Metro-Goldwyn-Mayer (MGM), announces the creation of the Academy of Motion Picture Arts and Sciences, at a banquet in Los Angeles, California.
+- 1923: Occupation of the Ruhr: Troops from France and Belgium occupy the Ruhr area to force Germany to make its World War I reparation payments.
+- 1922: Leonard Thompson becomes the first person to be injected with insulin.
+- 1917: The Kingsland munitions factory explosion occurs as a result of sabotage.
+- 1914: The Karluk, flagship of the Canadian Arctic Expedition, sinks after being crushed by ice.
 
 Data from muffinlabs
-*(Updated at: 2026-01-10 01:57:12 UTC)*
+*(Updated at: 2026-01-11 02:09:55 UTC)*
 
 # 历史上的今天 
 
-- - 2019 年：一名 13 岁的美国女孩 Jayme Closs 在威斯康星州戈登被发现还活着，她于 88 天前在父母被谋杀的家中被绑架。
-- - 2015年：在卡拉奇Gulshan-e-Hadeed附近的巴基斯坦国家高速公路连接路上，一辆油罐车与客车在从卡拉奇前往Shikarpur的途中发生交通事故，造成至少62人死亡。
-- - 2013年：巴基斯坦奎达地区发生多起炸弹爆炸事件，造成100多人死亡、270人受伤。
-- - 2012 年：巴基斯坦贾姆鲁德发生爆炸事件，造成至少 30 人死亡、78 人受伤。
-- - 2007年：几内亚爆发总罢工，试图迫使总统兰萨纳·孔戴辞职。
-- - 2003年：朝鲜退出《不扩散核武器条约》，成为第一个退出该条约的国家。
-- - 2000 年：Crossair 498 号航班（一架 Saab 340 飞机）从苏黎世机场起飞后在瑞士 Niederhasli 坠毁，造成 13 人死亡。
-- - 1990 年：时代华纳由时代公司和华纳通讯公司合并而成。
-- - 1985年：桑地诺斯塔·丹尼尔·奥尔特加就任尼加拉瓜总统，并发誓继续向社会主义转型并与苏联和古巴结盟；美国政策继续支持反政府武装反抗尼加拉瓜政府。
-- - 1984年：罗马教廷与美国关系：美国和罗马教廷（梵蒂冈城）在近117年后重新建立全面外交关系，推翻了美国国会1867年禁止公共资助外交使节的禁令。
-- - 1981 年：萨尔瓦多内战：马解阵线发起第一次重大攻势，控制了莫拉桑省和查拉特南戈省的大部分地区
-- - 1980 年：《新英格兰医学杂志》发表了一封信《接受麻醉品治疗的患者中罕见成瘾》，该信后来被滥用来淡化阿片类药物成瘾的一般风险。
-- - 1972 年：谢赫·穆吉布尔·拉赫曼 (Sheikh Mujibur Ra​​hman) 在巴基斯坦监狱服刑九个多月后，返回新独立的孟加拉国担任总统。
-- - 1966 年：《塔什干宣言》，印度和巴基斯坦签署和平协议，解决了 1965 年印巴战争。
-- - 1954 年：BOAC 781 航班，一颗德哈维兰 DH.106 彗星 1 号爆炸并坠入第勒尼安海，造成 35 人死亡。
-- - 1946 年：美国陆军通信兵成功实施了戴安娜计划，从月球反射无线电波并接收反射信号。
-- - 1946 年：第一届联合国大会在威斯敏斯特卫理公会中央大厅召开。五十一个国家有代表参加。
-- - 1941 年：第二次世界大战：希腊军队占领克莱苏拉。
-- - 1927 年：弗里茨·朗 (Fritz Lang) 的未来派电影《大都会》在德国上映。
-- - 1920年：德国批准《凡尔赛条约》后，国际联盟盟约自动生效。
-- - 1920 年：《凡尔赛条约》生效，正式结束除美国以外所有参战国的第一次世界大战。
-- - 1917年：帝国横贯南极探险队：罗斯海队的七名幸存者在滞留数月后获救。
-- - 1916 年：第一次世界大战：俄罗斯帝国发动埃尔祖鲁姆攻势，导致奥斯曼帝国第三集团军惨败。
-- - 1901 年：纽约：美国汽车俱乐部在主要高速公路上安装标志。
-- - 1901 年：在德克萨斯州博蒙特的 Spindletop 发现了德克萨斯州第一个大型石油喷井。
-- - 1876 年：图斯特佩克计划公布。
-- - 1870 年：约翰·D·洛克菲勒 (John D. Rockefeller) 合并标准石油公司 (Standard Oil)。
-- - 1863 年：世界上最古老的地下铁路大都会铁路在帕丁顿和法灵顿之间开通，标志着伦敦地铁的开始。
-- - 1861 年：美国内战：佛罗里达州成为第三个脱离联邦的州。
-- - 1812 年：俄亥俄河或密西西比河上的第一艘汽船从匹兹堡出发 82 天后抵达新奥尔良。
+- - 2020 年：湖北省 COVID-19 大流行：武汉市卫生官员宣布首例有记录的 COVID-19 死亡病例。
+- - 2013 年：在索马里布洛马雷尔，一名法国士兵和 17 名武装分子在试图解救一名法国人质的行动中丧生。
+- - 2003 年：伊利诺伊州州长乔治·瑞安 (George Ryan) 根据乔恩·伯吉丑闻对伊利诺伊州死囚牢房中的 167 名囚犯减刑。
+- - 1998年：阿尔及利亚西迪哈米德大屠杀造成100多人死亡。
+- - 1996 年：航天飞机计划：STS-72 从肯尼迪航天中心发射，标志着第 74 次航天飞机任务和奋进号第 10 次飞行的开始。
+- - 1995 年：哥伦比亚 María La Baja 发生飞机失事，造成 51 人死亡。
+- - 1994 年：爱尔兰政府宣布结束对爱尔兰共和军及其政治分支新芬党长达 15 年的广播禁令。
+- - 1986年：澳大利亚昆士兰州布里斯班盖特威大桥正式启用。
+- - 1983 年：联合航空 2885 号航班从底特律大都会机场起飞后坠毁，造成三人死亡。
+- - 1973 年：美国职业棒球大联盟老板投票批准美国联盟采用指定击球手位置。
+- - 1972 年：东巴基斯坦更名为孟加拉国。
+- - 1966 年：第比利斯地铁开通。
+- - 1964年：美国卫生局局长路德·特里博士发表了具有里程碑意义的报告《吸烟与健康：公共卫生服务局卫生局局长咨询委员会的报告》，指出吸烟可能危害健康，引发了全国和全世界的反吸烟努力。
+- - 1962 年：秘鲁瓦斯卡兰发生雪崩，造成约 4,000 人死亡。
+- - 1962 年：冷战：苏联潜艇 B-37 系在波利亚尼码头时，鱼雷舱起火，被毁。
+- - 1961 年：连接纽约市布朗克斯区和皇后区的东河上的 Throgs Neck 大桥开通道路交通。
+- - 1959 年：汉莎航空 502 号航班在飞往巴西里约热内卢/加利昂国际机场时坠毁，造成 36 人死亡。
+- - 1957 年：非洲公约在塞内加尔达喀尔成立。
+- - 1949 年： 宾夕法尼亚州匹兹堡的 KDKA-TV 首次进行“联网”电视广播，连接东海岸和中西部的节目。
+- - 1946年：阿尔巴尼亚共产党总书记恩维尔·霍查宣布成立阿尔巴尼亚人民共和国，并以自己为国家元首。
+- - 1943 年：意大利裔美国无政府主义者卡洛·特雷斯卡 (Carlo Tresca) 在纽约市被暗杀。
+- - 1943年：中华民国同意《中英新平等条约》和《中美新平等条约》。
+- - 1942年：第二次世界大战：日军攻击荷属印度婆罗洲的塔拉坎（塔拉坎战役）
+- - 1942 年：第二次世界大战：日本军队占领马来联邦首都吉隆坡。
+- - 1935 年：阿米莉亚·埃尔哈特 (Amelia Earhart) 成为独自从夏威夷飞往加利福尼亚州的第一人。
+- - 1927 年：米高梅 (MGM) 电影制片厂负责人路易斯·B·梅耶 (Louis B. Mayer) 在加利福尼亚州洛杉矶举行的一场宴会上宣布成立电影艺术与科学学院。
+- - 1923年：占领鲁尔区：法国和比利时军队占领鲁尔区，迫使德国支付第一次世界大战赔款。
+- - 1922 年：Leonard Thompson 成为第一个接受胰岛素注射的人。
+- - 1917 年：金斯兰军火厂因蓄意破坏而发生爆炸。
+- - 1914 年：加拿大北极探险队的旗舰卡鲁克号被冰压后沉没。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-01-10 01:57:12 UTC）*
+*（更新于: 2026-01-11 02:09:55 UTC）*
