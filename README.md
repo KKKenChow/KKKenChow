@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2020: COVID-19 pandemic in Hubei: Municipal health officials in Wuhan announce the first recorded death from COVID-19.
-- 2013: One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia.
-- 2003: Illinois Governor George Ryan commutes the death sentences of 167 prisoners on Illinois's death row based on the Jon Burge scandal.
-- 1998: Over 100 people are killed in the Sidi-Hamed massacre in Algeria.
-- 1996: Space Shuttle program: STS-72 launches from the Kennedy Space Center marking the start of the 74th Space Shuttle mission and the 10th flight of Endeavour.
-- 1995: 51 people are killed in a plane crash in María La Baja, Colombia.
-- 1994: The Irish Government announces the end of a 15-year broadcasting ban on the IRA and its political arm Sinn Féin.
-- 1986: The Gateway Bridge, Brisbane, Queensland, Australia is officially opened.
-- 1983: United Airlines Flight 2885 crashes after takeoff from Detroit Metropolitan Airport, killing three.
-- 1973: Major League Baseball owners vote in approval of the American League adopting the designated hitter position.
-- 1972: East Pakistan renames itself Bangladesh.
-- 1966: The Tbilisi Metro is opened.
-- 1964: Surgeon General of the United States Dr. Luther Terry, M.D., publishes the landmark report Smoking and Health: Report of the Advisory Committee to the Surgeon General of the Public Health Service saying that smoking may be hazardous to health, sparking national and worldwide anti-smoking efforts.
-- 1962: An avalanche on Huascarán in Peru causes around 4,000 deaths.
-- 1962: Cold War: While tied to its pier in Polyarny, the Soviet submarine B-37 is destroyed when fire breaks out in its torpedo compartment.
-- 1961: Throgs Neck Bridge over the East River, linking New York City's boroughs of The Bronx and Queens, opens to road traffic.
-- 1959: 36 people are killed when Lufthansa Flight 502 crashes on approach to Rio de Janeiro/Galeão International Airport in Brazil.
-- 1957: The African Convention is founded in Dakar, Senegal.
-- 1949: The first "networked" television broadcasts took place as KDKA-TV in Pittsburgh, Pennsylvania goes on the air connecting the east coast and mid-west programming.
-- 1946: Enver Hoxha, Secretary General of the Communist Party of Albania, declares the People's Republic of Albania with himself as head of state.
-- 1943: Italian-American anarchist Carlo Tresca is assassinated in New York City.
-- 1943: The Republic of China agrees to the Sino-British New Equal Treaty and the Sino-American New Equal Treaty.
-- 1942: World War II: Japanese forces attack Tarakan in Borneo, Netherlands Indies (Battle of Tarakan)
-- 1942: World War II: Japanese forces capture Kuala Lumpur, the capital of the Federated Malay States.
-- 1935: Amelia Earhart becomes the first person to fly solo from Hawaii to California.
-- 1927: Louis B. Mayer, head of film studio Metro-Goldwyn-Mayer (MGM), announces the creation of the Academy of Motion Picture Arts and Sciences, at a banquet in Los Angeles, California.
-- 1923: Occupation of the Ruhr: Troops from France and Belgium occupy the Ruhr area to force Germany to make its World War I reparation payments.
-- 1922: Leonard Thompson becomes the first person to be injected with insulin.
-- 1917: The Kingsland munitions factory explosion occurs as a result of sabotage.
-- 1914: The Karluk, flagship of the Canadian Arctic Expedition, sinks after being crushed by ice.
+- 2020: Taal Volcano in the Philippines erupts and kills 39 people.
+- 2016: Ten people are killed and 15 wounded in a bombing near the Blue Mosque in Istanbul.
+- 2015: Government raids kill 143 Boko Haram fighters in Kolofata, Cameroon.
+- 2012: Violent protests occur in Bucharest, Romania, as two-day-old demonstrations continue against President Traian Băsescu's economic austerity measures. Clashes are reported in numerous Romanian cities between protesters and law enforcement officers.
+- 2010: An earthquake in Haiti occurs, killing between 220,000 and 300,000 people and destroying much of the capital Port-au-Prince.
+- 2007: Comet C/2006 P1 (McNaught), one of the brightest comets ever observed is at its zenith visible during the day.
+- 2006: A stampede during the Stoning of the Devil ritual on the last day at the Hajj in Mina, Saudi Arabia, kills at least 362 Muslim pilgrims.
+- 2005: Deep Impact launches from Cape Canaveral on a Delta II rocket.
+- 2004: The world's largest ocean liner, RMS Queen Mary 2, makes its maiden voyage.
+- 2001: Downtown Disney opens to the public as part of the Disneyland Resort in Anaheim, California.
+- 1998: Nineteen European nations agree to forbid human cloning.
+- 1997: Space Shuttle program: Atlantis launches from the Kennedy Space Center on mission STS-81 to the Russian space station Mir, carrying astronaut Jerry M. Linenger for a four-month stay on board the station, replacing astronaut John E. Blaha.
+- 1991: Persian Gulf War: An act of the U.S. Congress authorizes the use of American military force to drive Iraq out of Kuwait.
+- 1990: A seven-day pogrom breaks out against the Armenian civilian population of Baku, Azerbaijan, during which Armenians were beaten, tortured, murdered, and expelled from the city.
+- 1986: Space Shuttle program: Congressman and future NASA Administrator Bill Nelson lifts off from Kennedy Space Center aboard Columbia on mission STS-61-C as a payload specialist.
+- 1976: The United Nations Security Council votes 11-1 to allow the Palestine Liberation Organization to participate in a Security Council debate (without voting rights).
+- 1971: The Harrisburg Seven: Rev. Philip Berrigan and five other activists are indicted on charges of conspiring to kidnap Henry Kissinger and of plotting to blow up the heating tunnels of federal buildings in Washington, D.C.
+- 1970: Biafra capitulates, ending the Nigerian Civil War.
+- 1969: The New York Jets of the American Football League defeat the Baltimore Colts of the National Football League to win Super Bowl III in what is considered to be one of the greatest upsets in sports history.
+- 1967: Dr. James Bedford becomes the first person to be cryonically preserved with intent of future resuscitation.
+- 1966: Lyndon B. Johnson states that the United States should stay in South Vietnam until Communist aggression there is ended.
+- 1964: Rebels in Zanzibar begin a revolt known as the Zanzibar Revolution and proclaim a republic.
+- 1962: Vietnam War: Operation Chopper, the first American combat mission and first American helicopter assault in the war, takes place.
+- 1955: A Martin 2-0-2 and Douglas DC-3 collide over Boone County, Kentucky, killing 15 people.
+- 1945: World War II: The Red Army begins the Vistula-Oder Offensive.
+- 1942: World War II: United States President Franklin D. Roosevelt creates the National War Labor Board.
+- 1933: Casas Viejas incident: 22 peasants killed by the Security and Assault Corps in Casas Viejas, Spain.
+- 1932: Hattie Caraway becomes the first woman elected to the United States Senate.
+- 1918: The Minnie Pit Disaster coal mining accident occurs in Halmer End, Staffordshire, in which 155 men and boys die.
+- 1916: Oswald Boelcke and Max Immelmann become the first German aviators to earn the Pour le Mérite, receive the German Empire's highest military award, for achieving eight aerial victories each over Allied aircraft.
 
 Data from muffinlabs
-*(Updated at: 2026-01-11 02:09:55 UTC)*
+*(Updated at: 2026-01-12 02:06:07 UTC)*
 
 # 历史上的今天 
 
-- - 2020 年：湖北省 COVID-19 大流行：武汉市卫生官员宣布首例有记录的 COVID-19 死亡病例。
-- - 2013 年：在索马里布洛马雷尔，一名法国士兵和 17 名武装分子在试图解救一名法国人质的行动中丧生。
-- - 2003 年：伊利诺伊州州长乔治·瑞安 (George Ryan) 根据乔恩·伯吉丑闻对伊利诺伊州死囚牢房中的 167 名囚犯减刑。
-- - 1998年：阿尔及利亚西迪哈米德大屠杀造成100多人死亡。
-- - 1996 年：航天飞机计划：STS-72 从肯尼迪航天中心发射，标志着第 74 次航天飞机任务和奋进号第 10 次飞行的开始。
-- - 1995 年：哥伦比亚 María La Baja 发生飞机失事，造成 51 人死亡。
-- - 1994 年：爱尔兰政府宣布结束对爱尔兰共和军及其政治分支新芬党长达 15 年的广播禁令。
-- - 1986年：澳大利亚昆士兰州布里斯班盖特威大桥正式启用。
-- - 1983 年：联合航空 2885 号航班从底特律大都会机场起飞后坠毁，造成三人死亡。
-- - 1973 年：美国职业棒球大联盟老板投票批准美国联盟采用指定击球手位置。
-- - 1972 年：东巴基斯坦更名为孟加拉国。
-- - 1966 年：第比利斯地铁开通。
-- - 1964年：美国卫生局局长路德·特里博士发表了具有里程碑意义的报告《吸烟与健康：公共卫生服务局卫生局局长咨询委员会的报告》，指出吸烟可能危害健康，引发了全国和全世界的反吸烟努力。
-- - 1962 年：秘鲁瓦斯卡兰发生雪崩，造成约 4,000 人死亡。
-- - 1962 年：冷战：苏联潜艇 B-37 系在波利亚尼码头时，鱼雷舱起火，被毁。
-- - 1961 年：连接纽约市布朗克斯区和皇后区的东河上的 Throgs Neck 大桥开通道路交通。
-- - 1959 年：汉莎航空 502 号航班在飞往巴西里约热内卢/加利昂国际机场时坠毁，造成 36 人死亡。
-- - 1957 年：非洲公约在塞内加尔达喀尔成立。
-- - 1949 年： 宾夕法尼亚州匹兹堡的 KDKA-TV 首次进行“联网”电视广播，连接东海岸和中西部的节目。
-- - 1946年：阿尔巴尼亚共产党总书记恩维尔·霍查宣布成立阿尔巴尼亚人民共和国，并以自己为国家元首。
-- - 1943 年：意大利裔美国无政府主义者卡洛·特雷斯卡 (Carlo Tresca) 在纽约市被暗杀。
-- - 1943年：中华民国同意《中英新平等条约》和《中美新平等条约》。
-- - 1942年：第二次世界大战：日军攻击荷属印度婆罗洲的塔拉坎（塔拉坎战役）
-- - 1942 年：第二次世界大战：日本军队占领马来联邦首都吉隆坡。
-- - 1935 年：阿米莉亚·埃尔哈特 (Amelia Earhart) 成为独自从夏威夷飞往加利福尼亚州的第一人。
-- - 1927 年：米高梅 (MGM) 电影制片厂负责人路易斯·B·梅耶 (Louis B. Mayer) 在加利福尼亚州洛杉矶举行的一场宴会上宣布成立电影艺术与科学学院。
-- - 1923年：占领鲁尔区：法国和比利时军队占领鲁尔区，迫使德国支付第一次世界大战赔款。
-- - 1922 年：Leonard Thompson 成为第一个接受胰岛素注射的人。
-- - 1917 年：金斯兰军火厂因蓄意破坏而发生爆炸。
-- - 1914 年：加拿大北极探险队的旗舰卡鲁克号被冰压后沉没。
+- - 2020 年：菲律宾塔阿尔火山爆发，造成 39 人死亡。
+- - 2016 年：伊斯坦布尔蓝色清真寺附近发生爆炸，造成 10 人死亡、15 人受伤。
+- - 2015 年：政府突袭喀麦隆科洛法塔，杀死 143 名博科圣地武装分子。
+- - 2012年：罗马尼亚布加勒斯特发生暴力抗议活动，针对总统特拉扬·伯塞斯库的经济紧缩措施的示威活动持续了两天。据报道，罗马尼亚许多城市的抗议者和执法人员之间发生了冲突。
+- - 2010 年：海地发生地震，造成 22 万至 30 万人死亡，首都太子港大部分地区被毁。
+- - 2007 年：彗星 C/2006 P1（麦克诺），有史以来观测到的最亮彗星之一，正处于白天可见的天顶。
+- - 2006 年：沙特阿拉伯米纳朝觐最后一天举行的“用石头砸死魔鬼”仪式期间发生踩踏事件，造成至少 362 名穆斯林朝圣者死亡。
+- - 2005 年：深度冲击由 Delta II 火箭从卡纳维拉尔角发射。
+- - 2004 年：世界上最大的远洋客轮 RMS 玛丽皇后 2 号进行首次航行。
+- - 2001 年：迪士尼市中心作为加利福尼亚州阿纳海姆迪士尼乐园度假区的一部分向公众开放。
+- - 1998年：十九个欧洲国家同意禁止人类克隆。
+- - 1997 年：航天飞机计划：亚特兰蒂斯号从肯尼迪航天中心发射升空，执行 STS-81 任务前往俄罗斯和平号空间站，载着宇航员 Jerry M. Linenger 在空间站上停留四个月，取代宇航员 John E. Blaha。
+- - 1991 年：波斯湾战争：美国国会法案授权使用美国军事力量将伊拉克赶出科威特。
+- - 1990年：阿塞拜疆巴库爆发了针对亚美尼亚平民的为期7天的大屠杀，亚美尼亚人在此期间遭到殴打、酷刑、谋杀并被驱逐出该市。
+- - 1986 年：航天飞机计划：国会议员兼未来 NASA 局长比尔·纳尔逊 (Bill Nelson) 作为有效载荷专家搭乘哥伦比亚号从肯尼迪航天中心升空，执行 STS-61-C 任务。
+- - 1976年：联合国安理会以11比1的投票结果允许巴勒斯坦解放组织参加安理会辩论（无投票权）。
+- - 1971 年：哈里斯堡七人党：菲利普·贝里根牧师和其他五名活动人士被指控密谋绑架亨利·基辛格和密谋炸毁华盛顿特区联邦大楼的供暖隧道。
+- - 1970 年：比夫拉投降，尼日利亚内战结束。
+- - 1969 年：美国橄榄球联盟的纽约喷气机队击败国家橄榄球联盟的巴尔的摩小马队，赢得第三届超级碗，这被认为是体育史上最大的冷门之一。
+- - 1967 年：詹姆斯·贝德福德 (James Bedford) 博士成为第一个被冷冻保存以供未来复苏的人。
+- - 1966 年：林登·B·约翰逊 (Lyndon B. Johnson) 表示，美国应留在南越，直到共产党的侵略结束。
+- - 1964 年：桑给巴尔的叛乱分子开始了一场名为桑给巴尔革命的叛乱，并宣布成立共和国。
+- - 1962 年：越南战争：“直升机行动”发生，这是美国在战争中的首次战斗任务和首次直升机突击。
+- - 1955 年：马丁 2-0-2 和道格拉斯 DC-3 在肯塔基州布恩县上空相撞，造成 15 人死亡。
+- - 1945 年：第二次世界大战：红军开始维斯瓦河-奥得河攻势。
+- - 1942 年：第二次世界大战：美国总统富兰克林·罗斯福创建国家战时劳工委员会。
+- - 1933 年：卡萨斯维耶哈斯事件：22 名农民在西班牙卡萨斯维耶哈斯被安全和突击队杀害。
+- - 1932 年：海蒂·卡拉韦 (Hattie Caraway) 成为第一位当选美国参议院的女性。
+- - 1918 年：斯塔福德郡 Halmer End 发生 Minnie Pit Disaster 煤矿事故，造成 155 名男子和男孩死亡。
+- - 1916 年：奥斯瓦尔德·伯尔克 (Oswald Boelcke) 和马克斯·伊梅尔曼 (Max Immelmann) 成为第一批获得 Pour le Mérite（德意志帝国最高军事奖）的德国飞行员，他们各自取得了八次对盟军飞机的空中胜利。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-01-11 02:09:55 UTC）*
+*（更新于: 2026-01-12 02:06:07 UTC）*
