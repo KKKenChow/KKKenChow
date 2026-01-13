@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2020: Taal Volcano in the Philippines erupts and kills 39 people.
-- 2016: Ten people are killed and 15 wounded in a bombing near the Blue Mosque in Istanbul.
-- 2015: Government raids kill 143 Boko Haram fighters in Kolofata, Cameroon.
-- 2012: Violent protests occur in Bucharest, Romania, as two-day-old demonstrations continue against President Traian Băsescu's economic austerity measures. Clashes are reported in numerous Romanian cities between protesters and law enforcement officers.
-- 2010: An earthquake in Haiti occurs, killing between 220,000 and 300,000 people and destroying much of the capital Port-au-Prince.
-- 2007: Comet C/2006 P1 (McNaught), one of the brightest comets ever observed is at its zenith visible during the day.
-- 2006: A stampede during the Stoning of the Devil ritual on the last day at the Hajj in Mina, Saudi Arabia, kills at least 362 Muslim pilgrims.
-- 2005: Deep Impact launches from Cape Canaveral on a Delta II rocket.
-- 2004: The world's largest ocean liner, RMS Queen Mary 2, makes its maiden voyage.
-- 2001: Downtown Disney opens to the public as part of the Disneyland Resort in Anaheim, California.
-- 1998: Nineteen European nations agree to forbid human cloning.
-- 1997: Space Shuttle program: Atlantis launches from the Kennedy Space Center on mission STS-81 to the Russian space station Mir, carrying astronaut Jerry M. Linenger for a four-month stay on board the station, replacing astronaut John E. Blaha.
-- 1991: Persian Gulf War: An act of the U.S. Congress authorizes the use of American military force to drive Iraq out of Kuwait.
-- 1990: A seven-day pogrom breaks out against the Armenian civilian population of Baku, Azerbaijan, during which Armenians were beaten, tortured, murdered, and expelled from the city.
-- 1986: Space Shuttle program: Congressman and future NASA Administrator Bill Nelson lifts off from Kennedy Space Center aboard Columbia on mission STS-61-C as a payload specialist.
-- 1976: The United Nations Security Council votes 11-1 to allow the Palestine Liberation Organization to participate in a Security Council debate (without voting rights).
-- 1971: The Harrisburg Seven: Rev. Philip Berrigan and five other activists are indicted on charges of conspiring to kidnap Henry Kissinger and of plotting to blow up the heating tunnels of federal buildings in Washington, D.C.
-- 1970: Biafra capitulates, ending the Nigerian Civil War.
-- 1969: The New York Jets of the American Football League defeat the Baltimore Colts of the National Football League to win Super Bowl III in what is considered to be one of the greatest upsets in sports history.
-- 1967: Dr. James Bedford becomes the first person to be cryonically preserved with intent of future resuscitation.
-- 1966: Lyndon B. Johnson states that the United States should stay in South Vietnam until Communist aggression there is ended.
-- 1964: Rebels in Zanzibar begin a revolt known as the Zanzibar Revolution and proclaim a republic.
-- 1962: Vietnam War: Operation Chopper, the first American combat mission and first American helicopter assault in the war, takes place.
-- 1955: A Martin 2-0-2 and Douglas DC-3 collide over Boone County, Kentucky, killing 15 people.
-- 1945: World War II: The Red Army begins the Vistula-Oder Offensive.
-- 1942: World War II: United States President Franklin D. Roosevelt creates the National War Labor Board.
-- 1933: Casas Viejas incident: 22 peasants killed by the Security and Assault Corps in Casas Viejas, Spain.
-- 1932: Hattie Caraway becomes the first woman elected to the United States Senate.
-- 1918: The Minnie Pit Disaster coal mining accident occurs in Halmer End, Staffordshire, in which 155 men and boys die.
-- 1916: Oswald Boelcke and Max Immelmann become the first German aviators to earn the Pour le Mérite, receive the German Empire's highest military award, for achieving eight aerial victories each over Allied aircraft.
+- 2021: Outgoing U.S. President Donald Trump is impeached for a second time on a charge of incitement of insurrection following the January 6 United States Capitol attack one week prior.
+- 2020: The Thai Ministry of Public Health confirms the first case of COVID-19 outside China.
+- 2018: A false emergency alert warning of an impending missile strike in Hawaii causes widespread panic in the state.
+- 2012: The passenger cruise ship Costa Concordia sinks off the coast of Italy due to the captain Francesco Schettino's negligence and irresponsibility. There are 32 confirmed deaths.
+- 2001: An earthquake hits El Salvador, killing more than 800.
+- 2000: A Short 360 aircraft chartered by the Sirte Oil Company crashes off the coast of Brega, Libya, killing 21.
+- 1998: Alfredo Ormando sets himself on fire in St. Peter's Square, protesting against homophobia.
+- 1993: Operation Southern Watch: U.S.A.F., U.S.N., R.A.F. and French Air Force jets attack AAA and SAM sites in Southern Iraq.
+- 1993: The Chemical Weapons Convention (CWC) is signed.
+- 1993: Space Shuttle program: Endeavour heads for space for the third time as STS-54 launches from the Kennedy Space Center.
+- 1991: Soviet Union troops attack Lithuanian independence supporters in Vilnius, killing 14 people and wounding around 1,000 others.
+- 1990: Douglas Wilder becomes the first elected African American governor as he takes office as Governor of Virginia in Richmond, Virginia.
+- 1988: Lee Teng-hui becomes the first native Taiwanese President of the Republic of China.
+- 1986: A month-long violent struggle begins in Aden, South Yemen between supporters of Ali Nasir Muhammad and Abdul Fattah Ismail, resulting in thousands of casualties.
+- 1985: A passenger train plunges into a ravine in Ethiopia, killing 428 in the worst railroad disaster in Africa.
+- 1982: Shortly after takeoff, Air Florida Flight 90, a Boeing 737 jet, crashes into Washington, D.C.'s 14th Street Bridge and falls into the Potomac River, killing 78 including four motorists.
+- 1978: United States Food and Drug Administration requires all blood donations to be labeled "paid" or "volunteer" donors.
+- 1977: Japan Air Lines Cargo Flight 1045, a Douglas DC-8 jet, crashes onto the runway during takeoff from Ted Stevens Anchorage International Airport, killing five.
+- 1972: Prime Minister Kofi Abrefa Busia and President Edward Akufo-Addo of Ghana are ousted in a bloodless military coup by Colonel Ignatius Kutu Acheampong.
+- 1968: Johnny Cash performs live at Folsom State Prison.
+- 1966: Robert C. Weaver becomes the first African American Cabinet member when he is appointed United States Secretary of Housing and Urban Development.
+- 1964: In Manchester, New Hampshire, fourteen-year-old Pamela Mason is murdered. Edward Coolidge is tried and convicted of the crime, but the conviction is set aside by the landmark Fourth Amendment case Coolidge v. New Hampshire (1971).
+- 1964: Anti-Muslim riots break out in Calcutta, in response to anti-Hindu riots in East Pakistan. About one hundred people are killed.
+- 1963: Coup d'état in Togo results in the assassination of president Sylvanus Olympio.
+- 1958: The Moroccan Army of Liberation ambushes a Spanish patrol in the Battle of Edchera.
+- 1953: An article appears in Pravda accusing some of the most prestigious and prominent doctors, mostly Jews, in the Soviet Union of taking part in a vast plot to poison members of the top Soviet political and military leadership.
+- 1951: First Indochina War: The Battle of Vĩnh Yên begins.
+- 1950: Finland forms diplomatic relations with the People's Republic of China.
+- 1950: British submarine HMS Truculent collides with an oil tanker in the Thames Estuary, killing 64 men.
+- 1942: World War II: First use of an aircraft ejection seat by a German test pilot in a Heinkel He 280 jet fighter.
 
 Data from muffinlabs
-*(Updated at: 2026-01-12 02:06:07 UTC)*
+*(Updated at: 2026-01-13 01:57:49 UTC)*
 
 # 历史上的今天 
 
-- - 2020 年：菲律宾塔阿尔火山爆发，造成 39 人死亡。
-- - 2016 年：伊斯坦布尔蓝色清真寺附近发生爆炸，造成 10 人死亡、15 人受伤。
-- - 2015 年：政府突袭喀麦隆科洛法塔，杀死 143 名博科圣地武装分子。
-- - 2012年：罗马尼亚布加勒斯特发生暴力抗议活动，针对总统特拉扬·伯塞斯库的经济紧缩措施的示威活动持续了两天。据报道，罗马尼亚许多城市的抗议者和执法人员之间发生了冲突。
-- - 2010 年：海地发生地震，造成 22 万至 30 万人死亡，首都太子港大部分地区被毁。
-- - 2007 年：彗星 C/2006 P1（麦克诺），有史以来观测到的最亮彗星之一，正处于白天可见的天顶。
-- - 2006 年：沙特阿拉伯米纳朝觐最后一天举行的“用石头砸死魔鬼”仪式期间发生踩踏事件，造成至少 362 名穆斯林朝圣者死亡。
-- - 2005 年：深度冲击由 Delta II 火箭从卡纳维拉尔角发射。
-- - 2004 年：世界上最大的远洋客轮 RMS 玛丽皇后 2 号进行首次航行。
-- - 2001 年：迪士尼市中心作为加利福尼亚州阿纳海姆迪士尼乐园度假区的一部分向公众开放。
-- - 1998年：十九个欧洲国家同意禁止人类克隆。
-- - 1997 年：航天飞机计划：亚特兰蒂斯号从肯尼迪航天中心发射升空，执行 STS-81 任务前往俄罗斯和平号空间站，载着宇航员 Jerry M. Linenger 在空间站上停留四个月，取代宇航员 John E. Blaha。
-- - 1991 年：波斯湾战争：美国国会法案授权使用美国军事力量将伊拉克赶出科威特。
-- - 1990年：阿塞拜疆巴库爆发了针对亚美尼亚平民的为期7天的大屠杀，亚美尼亚人在此期间遭到殴打、酷刑、谋杀并被驱逐出该市。
-- - 1986 年：航天飞机计划：国会议员兼未来 NASA 局长比尔·纳尔逊 (Bill Nelson) 作为有效载荷专家搭乘哥伦比亚号从肯尼迪航天中心升空，执行 STS-61-C 任务。
-- - 1976年：联合国安理会以11比1的投票结果允许巴勒斯坦解放组织参加安理会辩论（无投票权）。
-- - 1971 年：哈里斯堡七人党：菲利普·贝里根牧师和其他五名活动人士被指控密谋绑架亨利·基辛格和密谋炸毁华盛顿特区联邦大楼的供暖隧道。
-- - 1970 年：比夫拉投降，尼日利亚内战结束。
-- - 1969 年：美国橄榄球联盟的纽约喷气机队击败国家橄榄球联盟的巴尔的摩小马队，赢得第三届超级碗，这被认为是体育史上最大的冷门之一。
-- - 1967 年：詹姆斯·贝德福德 (James Bedford) 博士成为第一个被冷冻保存以供未来复苏的人。
-- - 1966 年：林登·B·约翰逊 (Lyndon B. Johnson) 表示，美国应留在南越，直到共产党的侵略结束。
-- - 1964 年：桑给巴尔的叛乱分子开始了一场名为桑给巴尔革命的叛乱，并宣布成立共和国。
-- - 1962 年：越南战争：“直升机行动”发生，这是美国在战争中的首次战斗任务和首次直升机突击。
-- - 1955 年：马丁 2-0-2 和道格拉斯 DC-3 在肯塔基州布恩县上空相撞，造成 15 人死亡。
-- - 1945 年：第二次世界大战：红军开始维斯瓦河-奥得河攻势。
-- - 1942 年：第二次世界大战：美国总统富兰克林·罗斯福创建国家战时劳工委员会。
-- - 1933 年：卡萨斯维耶哈斯事件：22 名农民在西班牙卡萨斯维耶哈斯被安全和突击队杀害。
-- - 1932 年：海蒂·卡拉韦 (Hattie Caraway) 成为第一位当选美国参议院的女性。
-- - 1918 年：斯塔福德郡 Halmer End 发生 Minnie Pit Disaster 煤矿事故，造成 155 名男子和男孩死亡。
-- - 1916 年：奥斯瓦尔德·伯尔克 (Oswald Boelcke) 和马克斯·伊梅尔曼 (Max Immelmann) 成为第一批获得 Pour le Mérite（德意志帝国最高军事奖）的德国飞行员，他们各自取得了八次对盟军飞机的空中胜利。
+- - 2021 年：即将卸任的美国总统唐纳德·特朗普在一周前 1 月 6 日美国国会大厦遇袭后，因煽动叛乱指控而第二次被弹劾。
+- - 2020 年：泰国公共卫生部确认中国境外首例 COVID-19 病例。
+- - 2018 年：关于夏威夷即将发生导弹袭击的虚假紧急警报在该州引起了广泛的恐慌。
+- - 2012年：由于船长弗朗西斯科·谢蒂诺的疏忽和不负责任，歌诗达协和号客轮在意大利海岸沉没。已确认死亡32人。
+- - 2001 年：萨尔瓦多发生地震，造成 800 多人死亡。
+- - 2000 年：苏尔特石油公司包租的一架 Short 360 飞机在利比亚布雷加海岸坠毁，造成 21 人死亡。
+- - 1998年：阿尔弗雷多·奥曼多在圣彼得广场自焚，抗议恐同症。
+- - 1993 年：南方守望行动：美国空军、美国海军、英国皇家空军法国空军飞机攻击伊拉克南部的防空炮和地对空导弹阵地。
+- - 1993 年：《化学武器公约》（CWC）签署。
+- - 1993 年：航天飞机计划：奋进号第三次飞往太空，STS-54 从肯尼迪航天中心发射升空。
+- - 1991 年：苏联军队袭击维尔纽斯的立陶宛独立支持者，造成 14 人死亡、约 1,000 人受伤。
+- - 1990 年：道格拉斯·怀尔德 (Douglas Wilder) 在弗吉尼亚州里士满就任弗吉尼亚州州长，成为第一位当选的非裔美国州长。
+- - 1988年：李登辉成为中华民国第一位台湾本土总统。
+- - 1986年：阿里·纳西尔·穆罕默德和阿卜杜勒·法塔赫·伊斯梅尔的支持者在南也门亚丁开始了长达一个月的暴力斗争，造成数千人伤亡。
+- - 1985 年：埃塞俄比亚一列旅客列车坠入峡谷，造成非洲最严重的铁路灾难，造成 428 人死亡。
+- - 1982 年：起飞后不久，佛罗里达航空 90 号航班（一架波音 737 喷气式飞机）撞上华盛顿特区的第 14 街大桥并坠入波托马克河，造成 78 人死亡，其中包括 4 名驾车者。
+- - 1978 年：美国食品和药物管理局要求所有献血者必须贴上“付费”或“志愿者”献血者的标签。
+- - 1977 年：日本航空货运航班 1045 号航班是一架道格拉斯 DC-8 喷气式飞机，从泰德·史蒂文斯安克雷奇国际机场起飞时坠毁在跑道上，造成 5 人死亡。
+- - 1972 年：加纳总理科菲·阿布雷法·布西亚和总统爱德华·阿库福-阿多在伊格内修斯·库图·阿奇姆蓬上校的不流血军事政变中被赶下台。
+- - 1968 年：约翰尼·卡什在福尔瑟姆州立监狱现场表演。
+- - 1966 年：罗伯特·C·韦弗 (Robert C. Weaver) 被任命为美国住房和城市发展部部长，成为第一位非洲裔美国内阁成员。
+- - 1964 年：在新罕布什尔州曼彻斯特，14 岁的帕梅拉·梅森被谋杀。爱德华·柯立芝受到审判并被定罪，但这一定罪被具有里程碑意义的第四修正案案件柯立芝诉新罕布什尔州案（1971 年）撤销。
+- - 1964年：加尔各答爆发反穆斯林骚乱，以回应东巴基斯坦的反印度教骚乱。大约有一百人被杀。
+- - 1963 年：多哥政变导致总统西尔瓦努斯·奥林匹奥被暗杀。
+- - 1958 年：摩洛哥解放军在埃德切拉战役中伏击了一支西班牙巡逻队。
+- - 1953 年：《真理报》刊登了一篇文章，指责苏联一些最负盛名和杰出的医生（主要是犹太人）参与了毒害苏联最高政治和军事领导层成员的大规模阴谋。
+- - 1951 年：第一次印度支那战争：永安战役开始。
+- - 1950年：芬兰与中华人民共和国建立外交关系。
+- - 1950 年：英国潜艇 HMS Truculent 在泰晤士河口与一艘油轮相撞，造成 64 人死亡。
+- - 1942 年：第二次世界大战：德国试飞员首次在 Heinkel He 280 喷气式战斗机上使用飞机弹射座椅。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-01-12 02:06:07 UTC）*
+*（更新于: 2026-01-13 01:57:49 UTC）*
