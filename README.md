@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: Yeti Airlines Flight 691 crashes near Pokhara International Airport, killing all 72 people on board.
-- 2022: The Hunga Tonga-Hunga Haʻapai volcano erupts, cutting off communications with Tonga and causing a tsunami across the Pacific.
-- 2021: A 6.2-magnitude earthquake strikes Indonesia's Sulawesi island killing at least 105 and injuring 3,369 people.
-- 2020: The Japanese Ministry of Health, Labour and Welfare confirms the first case of COVID-19 in Japan.
-- 2019: Theresa May's UK government suffers the biggest government defeat in modern times, when 432 MPs voting against the proposed European Union withdrawal agreement, giving her opponents a majority of 230.
-- 2019: Somali militants attack the DusitD2 hotel in Nairobi, Kenya killing at least 21 people and injuring 19.
-- 2018: British multinational construction and facilities management services company Carillion went into liquidation - officially, "the largest ever trading liquidation in the UK"
-- 2016: The Kenyan Army suffers its worst defeat ever in a battle with Al-Shabaab Islamic insurgents in El-Adde, Somalia. An estimated 150 Kenyan soldiers are killed in the battle.
-- 2015: The Swiss National Bank abandons the cap on the Swiss franc's value relative to the euro, causing turmoil in international financial markets.
-- 2013: A train carrying Egyptian Army recruits derails near Giza, Greater Cairo, killing 19 and injuring 120 others.
-- 2009: US Airways Flight 1549 ditches safely in the Hudson River after the plane collides with birds less than two minutes after take-off. This becomes known as "The Miracle on the Hudson" as all 155 people on board were rescued.
-- 2005: ESA's SMART-1 lunar orbiter discovers elements such as calcium, aluminum, silicon, iron, and other surface elements on the Moon.
-- 2001: Wikipedia, a free wiki content encyclopedia, is launched (Wikipedia Day).
-- 1991: Elizabeth II, in her capacity as Queen of Australia, signs letters patent allowing Australia to become the first Commonwealth realm to institute its own Victoria Cross in its honours system.
-- 1991: The United Nations deadline for the withdrawal of Iraqi forces from occupied Kuwait expires, preparing the way for the start of Operation Desert Storm.
-- 1981: Pope John Paul II receives a delegation from the Polish trade union Solidarity at the Vatican led by Lech Wałęsa.
-- 1977: Linjeflyg Flight 618 crashes in Kälvesta near Stockholm Bromma Airport in Stockholm, Sweden, killing 22 people.
-- 1976: Gerald Ford's would-be assassin, Sara Jane Moore, is sentenced to life in prison.
-- 1975: The Alvor Agreement is signed, ending the Angolan War of Independence and giving Angola independence from Portugal.
-- 1973: Vietnam War: Citing progress in peace negotiations, President Richard Nixon announces the suspension of offensive action in North Vietnam.
-- 1970: Muammar Gaddafi is proclaimed premier of Libya.
-- 1970: Nigerian Civil War: Biafran rebels surrender following an unsuccessful 32-month fight for independence from Nigeria.
-- 1969: The Soviet Union launches Soyuz 5.
-- 1967: The first Super Bowl is played in Los Angeles. The Green Bay Packers defeat the Kansas City Chiefs 35-10.
-- 1966: The First Nigerian Republic, led by Abubakar Tafawa Balewa is overthrown in a military coup d'état.
-- 1962: Netherlands New Guinea Conflict: Indonesian Navy fast patrol boat RI Macan Tutul commanded by Commodore Yos Sudarso sunk in Arafura Sea by the Dutch Navy.
-- 1962: The Derveni papyrus, Europe's oldest surviving manuscript dating to 340 BC, is found in northern Greece.
-- 1949: Chinese Civil War: The Communist forces take over Tianjin from the Nationalist government.
-- 1947: The Black Dahlia murder: The dismembered corpse of Elizabeth Short was found in Los Angeles.
-- 1943: The Pentagon is dedicated in Arlington County, Virginia.
+- 2020: The United States Senate ratifies the United States-Mexico-Canada Agreement as a replacement for NAFTA.
+- 2020: The first impeachment of Donald Trump formally moves into its trial phase in the United States Senate.
+- 2018: Myanmar police open fire on a group of ethnic Rakhine protesters, killing seven and wounding twelve.
+- 2017: Turkish Airlines Flight 6491 crashes into a residential area near Manas International Airport in Kyrgyzstan, killing 39 people.
+- 2016: Thirty-three out of 126 freed hostages are injured and 23 killed in terrorist attacks in Ouagadougou, Burkina Faso on a hotel and a nearby restaurant.
+- 2012: The Mali War begins when Tuareg militias start fighting the Malian government for independence.
+- 2011: Syrian civil war: The Movement for a Democratic Society (TEV-DEM) is established with the stated goal of re-organizing Syria along the lines of democratic confederalism.
+- 2006: Ellen Johnson Sirleaf is sworn in as Liberia's new president. She becomes Africa's first female elected head of state.
+- 2003: The Space Shuttle Columbia takes off for mission STS-107 which would be its final one. Columbia disintegrated 16 days later on re-entry.
+- 2002: War in Afghanistan: The UN Security Council unanimously establishes an arms embargo and the freezing of assets of Osama bin Laden, al-Qaeda, and the remaining members of the Taliban.
+- 2001: US President Bill Clinton awards former President Theodore Roosevelt a posthumous Medal of Honor for his service in the Spanish-American War.
+- 2001: Second Congo War: Congolese President Laurent-Désiré Kabila is assassinated by one of his own bodyguards in Kinshasa.
+- 1995: An avalanche hits the Icelandic village Súðavík, destroying 25 homes and burying 26 people, 14 of whom died.
+- 1992: El Salvador officials and rebel leaders sign the Chapultepec Peace Accords in Mexico City, Mexico ending the 12-year Salvadoran Civil War that claimed at least 75,000 lives.
+- 1991: Coalition Forces go to war with Iraq, beginning the Gulf War.
+- 1983: Turkish Airlines Flight 158 crashes at Ankara Esenboğa Airport in Ankara, Turkey, killing 47 and injuring 20.
+- 1979: Iranian Revolution: The last Iranian Shah flees Iran with his family for good and relocates to Egypt.
+- 1969: Space Race: Soviet spacecraft Soyuz 4 and Soyuz 5 perform the first-ever docking of crewed spacecraft in orbit, the first-ever transfer of crew from one space vehicle to another, and the only time such a transfer was accomplished with a space walk.
+- 1969: Czech student Jan Palach commits suicide by self-immolation in Prague, Czechoslovakia, in protest against the Soviets' crushing of the Prague Spring the year before.
+- 1959: Austral Líneas Aéreas Flight 205 crashes into the Atlantic Ocean near Astor Piazzolla International Airport in Mar del Plata, Argentina, killing 51.
+- 1945: World War II: Adolf Hitler moves into his underground bunker, the so-called Führerbunker.
+- 1942: Crash of TWA Flight 3, killing all 22 aboard, including film star Carole Lombard.
+- 1942: The Holocaust: Nazi Germany begins deporting Jews from the Łódź Ghetto to Chełmno extermination camp.
+- 1921: The Marxist Left in Slovakia and the Transcarpathian Ukraine holds its founding congress in Ľubochňa.
+- 1920: The League of Nations holds its first council meeting in Paris, France.
+- 1919: Nebraska becomes the 36th state to approve the Eighteenth Amendment to the United States Constitution. With the necessary three-quarters of the states approving the amendment, Prohibition is constitutionally mandated in the United States one year later.
+- 1913: Indian mathematician Srinivasa Ramanujan writes his first letter to G. H. Hardy at Cambridge, stating without proof various formulae involving integrals, infinite series, and continued fractions, beginning a long correspondence between the two as well as widespread recognition of Ramanujan's results.
+- 1909: Ernest Shackleton's expedition finds the magnetic South Pole.
+- 1900: The United States Senate accepts the Anglo-German treaty of 1899 in which the United Kingdom renounces its claims to the Samoan islands.
+- 1883: The Pendleton Civil Service Reform Act, establishing the United States Civil Service, is enacted by Congress.
 
 Data from muffinlabs
-*(Updated at: 2026-01-15 01:59:49 UTC)*
+*(Updated at: 2026-01-16 02:01:54 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：雪人航空 691 号航班在博卡拉国际机场附近坠毁，机上 72 人全部遇难。
-- - 2022年：洪加汤加-洪加哈派火山爆发，切断了与汤加的通讯，并引发了太平洋海啸。
-- - 2021 年：印度尼西亚苏拉威西岛发生 6.2 级地震，造成至少 105 人死亡、3,369 人受伤。
-- - 2020 年：日本厚生劳动省确认日本首例 COVID-19 病例。
-- - 2019 年：特蕾莎·梅领导的英国政府遭受了现代以来最大的政府失败，432 名议员投票反对拟议的脱欧协议，使她的对手获得了 230 票的多数席位。
-- - 2019 年：索马里武装分子袭击肯尼亚内罗毕 DusitD2 酒店，造成至少 21 人死亡、19 人受伤。
-- - 2018 年：英国跨国建筑和设施管理服务公司 Carillion 进入清算 - 正式称为“英国有史以来最大的交易清算”
-- - 2016 年：肯尼亚军队在索马里埃尔阿德与青年党伊斯兰叛乱分子的战斗中遭受了有史以来最惨重的失败。估计有 150 名肯尼亚士兵在战斗中丧生。
-- - 2015年：瑞士央行放弃瑞士法郎相对欧元的币值上限，引发国际金融市场动荡。
-- - 2013年：一列载有埃及陆军新兵的火车在大开罗吉萨附近脱轨，造成19人死亡、120人受伤。
-- - 2009 年：全美航空 1549 号航班起飞后不到两分钟与鸟类相撞，安全迫降在哈德逊河。这被称为“哈德逊河奇迹”，船上 155 人全部获救。
-- - 2005年：欧空局的SMART-1月球轨道飞行器在月球上发现了钙、铝、硅、铁和其他表面元素等元素。
-- - 2001 年：推出免费维基内容百科全书维基百科（维基百科日）。
-- - 1991 年：伊丽莎白二世以澳大利亚女王的身份签署专利证书，使澳大利亚成为第一个在其荣誉体系中建立自己的维多利亚十字勋章的英联邦国家。
-- - 1991年：联合国规定伊拉克军队从被占领的科威特撤军的最后期限到期，为沙漠风暴行动的开始做好准备。
-- - 1981 年：教皇约翰·保罗二世在梵蒂冈接见由莱赫·瓦文萨率领的波兰团结工会代表团。
-- - 1977 年：Linjeflyg 618 号航班在瑞典斯德哥尔摩斯德哥尔摩布洛马机场附近的 Kälvesta 坠毁，造成 22 人死亡。
-- - 1976 年：刺杀杰拉尔德·福特的萨拉·简·摩尔被判处终身监禁。
-- - 1975年：签署《阿尔沃尔协定》，结束安哥拉独立战争，使安哥拉脱离葡萄牙独立。
-- - 1973 年：越南战争：理查德·尼克松总统援引和平谈判的进展，宣布暂停对北越的进攻行动。
-- - 1970 年：穆阿迈尔·卡扎菲被宣布为利比亚总理。
-- - 1970 年：尼日利亚内战：比夫拉叛军在经过 32 个月的尼日利亚独立斗争失败后投降。
-- - 1969 年：苏联发射联盟 5 号。
-- - 1967 年：第一届超级碗在洛杉矶举行。绿湾包装工队以 35-10 击败堪萨斯城酋长队。
-- - 1966 年：阿布巴卡尔·塔法瓦·巴莱瓦领导的尼日利亚第一共和国在军事政变中被推翻。
-- - 1962年：荷兰新几内亚冲突：由约斯·苏达索准将指挥的印度尼西亚海军快速巡逻艇RI Macan Tutul在阿拉弗拉海被荷兰海军击沉。
-- - 1962 年：在希腊北部发现了欧洲现存最古老的手稿 Derveni 纸莎草，其历史可追溯至公元前 340 年。
-- - 1949 年：中国内战：共产党军队从国民党政府手中接管天津。
-- - 1947 年：黑色大丽花谋杀案：伊丽莎白·肖特被肢解的尸体在洛杉矶被发现。
-- - 1943 年：五角大楼在弗吉尼亚州阿灵顿县落成。
+- - 2020 年：美国参议院批准《美国-墨西哥-加拿大协定》以取代《北美自由贸易协定》。
+- - 2020年：美国参议院对唐纳德·特朗普的首次弹劾正式进入审判阶段。
+- - 2018 年：缅甸警方向一群若开族抗议者开枪，造成七人死亡、十二人受伤。
+- - 2017年：土耳其航空6491号航班坠入吉尔吉斯斯坦玛纳斯国际机场附近的住宅区，造成39人死亡。
+- - 2016 年：布基纳法索瓦加杜古的一家酒店和附近一家餐厅遭受恐怖袭击，126 名人质中的 33 人受伤，23 人死亡。
+- - 2012 年：马里战争爆发，图阿雷格民兵开始与马里政府争夺独立。
+- - 2011 年：叙利亚内战：民主社会运动 (TEV-DEM) 成立，其既定目标是按照民主邦联制重新组织叙利亚。
+- - 2006 年：埃伦·约翰逊·瑟利夫宣誓就任利比里亚新总统。她成为非洲第一位民选女性国家元首。
+- - 2003 年：哥伦比亚号航天飞机起飞执行 STS-107 任务，这将是其最后一次任务。16 天后，哥伦比亚号在重返大气层时解体。
+- - 2002年：阿富汗战争：联合国安理会一致对乌萨马·本·拉登、基地组织和塔利班其余成员实施武器禁运并冻结其资产。
+- - 2001 年：美国总统比尔·克林顿追授前总统西奥多·罗斯福荣誉勋章，以表彰他在美西战争中的贡献。
+- - 2001 年：第二次刚果战争：刚果总统洛朗-德西雷·卡比拉在金沙萨被他自己的一名保镖暗杀。
+- - 1995 年：一场雪崩袭击了冰岛村庄 Súðavík，摧毁了 25 所房屋并埋葬了 26 人，其中 14 人死亡。
+- - 1992 年：萨尔瓦多官员和叛军领导人在墨西哥墨西哥城签署《查普尔特佩克和平协定》，结束了长达 12 年的萨尔瓦多内战，这场内战夺去了至少 75,000 人的生命。
+- - 1991 年：联军与伊拉克开战，海湾战争爆发。
+- - 1983 年：土耳其航空 158 号航班在土耳其安卡拉埃森博阿机场坠毁，造成 47 人死亡、20 人受伤。
+- - 1979 年：伊朗革命：最后一位伊朗国王与家人永远逃离伊朗并移居埃及。
+- - 1969 年：太空竞赛：苏联航天器联盟 4 号和联盟 5 号首次在轨道上实现载人航天器对接，这是有史以来第一次将宇航员从一个航天器转移到另一个航天器，也是唯一一次通过太空行走完成这种转移。
+- - 1969年：捷克学生扬·帕拉赫在捷克斯洛伐克布拉格自焚自杀，以抗议苏联前年镇压布拉格之春。
+- - 1959 年：南方航空公司 205 号航班在阿根廷马德普拉塔阿斯特·皮亚佐拉国际机场附近坠入大西洋，造成 51 人死亡。
+- - 1945 年：第二次世界大战：阿道夫·希特勒搬进他的地下掩体，即所谓的元首地堡。
+- - 1942 年：环球航空 3 号航班坠毁，机上 22 人全部遇难，其中包括电影明星卡罗尔·隆巴德 (Carole Lombard)。
+- - 1942 年：大屠杀：纳粹德国开始将犹太人从罗兹隔都驱逐到海乌姆诺灭绝营。
+- - 1921 年：斯洛伐克和外喀尔巴阡乌克兰的马克思主义左派在久博奇亚举行成立大会。
+- - 1920 年：国际联盟在法国巴黎召开第一次理事会会议。
+- - 1919 年：内布拉斯加州成为第 36 个批准美国宪法第十八修正案的州。随着修正案获得四分之三州的批准，一年后美国宪法规定了禁酒令。
+- - 1913 年：印度数学家斯里尼瓦萨·拉马努金 (Srinivasa Ramanujan) 给剑桥大学的 G. H. 哈代 (G. H. Hardy) 写了第一封信，在没有证据的情况下陈述了涉及积分、无穷级数和连分数的各种公式，开始了两人之间的长期通信以及对拉马努金结果的广泛认可。
+- - 1909 年：欧内斯特·沙克尔顿的探险队发现了磁南极。
+- - 1900 年：美国参议院接受 1899 年英德条约，其中英国放弃对萨摩亚群岛的主权要求。
+- - 1883 年：国会颁布《彭德尔顿公务员制度改革法案》，建立美国公务员制度。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-01-15 01:59:49 UTC）*
+*（更新于: 2026-01-16 02:01:54 UTC）*
