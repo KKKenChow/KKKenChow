@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2020: The United States Senate ratifies the United States-Mexico-Canada Agreement as a replacement for NAFTA.
-- 2020: The first impeachment of Donald Trump formally moves into its trial phase in the United States Senate.
-- 2018: Myanmar police open fire on a group of ethnic Rakhine protesters, killing seven and wounding twelve.
-- 2017: Turkish Airlines Flight 6491 crashes into a residential area near Manas International Airport in Kyrgyzstan, killing 39 people.
-- 2016: Thirty-three out of 126 freed hostages are injured and 23 killed in terrorist attacks in Ouagadougou, Burkina Faso on a hotel and a nearby restaurant.
-- 2012: The Mali War begins when Tuareg militias start fighting the Malian government for independence.
-- 2011: Syrian civil war: The Movement for a Democratic Society (TEV-DEM) is established with the stated goal of re-organizing Syria along the lines of democratic confederalism.
-- 2006: Ellen Johnson Sirleaf is sworn in as Liberia's new president. She becomes Africa's first female elected head of state.
-- 2003: The Space Shuttle Columbia takes off for mission STS-107 which would be its final one. Columbia disintegrated 16 days later on re-entry.
-- 2002: War in Afghanistan: The UN Security Council unanimously establishes an arms embargo and the freezing of assets of Osama bin Laden, al-Qaeda, and the remaining members of the Taliban.
-- 2001: US President Bill Clinton awards former President Theodore Roosevelt a posthumous Medal of Honor for his service in the Spanish-American War.
-- 2001: Second Congo War: Congolese President Laurent-Désiré Kabila is assassinated by one of his own bodyguards in Kinshasa.
-- 1995: An avalanche hits the Icelandic village Súðavík, destroying 25 homes and burying 26 people, 14 of whom died.
-- 1992: El Salvador officials and rebel leaders sign the Chapultepec Peace Accords in Mexico City, Mexico ending the 12-year Salvadoran Civil War that claimed at least 75,000 lives.
-- 1991: Coalition Forces go to war with Iraq, beginning the Gulf War.
-- 1983: Turkish Airlines Flight 158 crashes at Ankara Esenboğa Airport in Ankara, Turkey, killing 47 and injuring 20.
-- 1979: Iranian Revolution: The last Iranian Shah flees Iran with his family for good and relocates to Egypt.
-- 1969: Space Race: Soviet spacecraft Soyuz 4 and Soyuz 5 perform the first-ever docking of crewed spacecraft in orbit, the first-ever transfer of crew from one space vehicle to another, and the only time such a transfer was accomplished with a space walk.
-- 1969: Czech student Jan Palach commits suicide by self-immolation in Prague, Czechoslovakia, in protest against the Soviets' crushing of the Prague Spring the year before.
-- 1959: Austral Líneas Aéreas Flight 205 crashes into the Atlantic Ocean near Astor Piazzolla International Airport in Mar del Plata, Argentina, killing 51.
-- 1945: World War II: Adolf Hitler moves into his underground bunker, the so-called Führerbunker.
-- 1942: Crash of TWA Flight 3, killing all 22 aboard, including film star Carole Lombard.
-- 1942: The Holocaust: Nazi Germany begins deporting Jews from the Łódź Ghetto to Chełmno extermination camp.
-- 1921: The Marxist Left in Slovakia and the Transcarpathian Ukraine holds its founding congress in Ľubochňa.
-- 1920: The League of Nations holds its first council meeting in Paris, France.
-- 1919: Nebraska becomes the 36th state to approve the Eighteenth Amendment to the United States Constitution. With the necessary three-quarters of the states approving the amendment, Prohibition is constitutionally mandated in the United States one year later.
-- 1913: Indian mathematician Srinivasa Ramanujan writes his first letter to G. H. Hardy at Cambridge, stating without proof various formulae involving integrals, infinite series, and continued fractions, beginning a long correspondence between the two as well as widespread recognition of Ramanujan's results.
-- 1909: Ernest Shackleton's expedition finds the magnetic South Pole.
-- 1900: The United States Senate accepts the Anglo-German treaty of 1899 in which the United Kingdom renounces its claims to the Samoan islands.
-- 1883: The Pendleton Civil Service Reform Act, establishing the United States Civil Service, is enacted by Congress.
+- 2023: An avalanche strikes Nyingchi, Tibet, killing 28 people.
+- 2017: The search for Malaysia Airlines Flight 370 is announced to be suspended.
+- 2016: President Barack Obama announces the Joint Comprehensive Plan of Action, an agreement intended to limit Iran's nuclear program.
+- 2013: Shahzad Luqman is murdered by members of Golden Dawn in Petralona, Athens, leading the creation of new measures to combat race-based attacks in Greece.
+- 2013: Former cyclist Lance Armstrong confesses to his doping in an airing of Oprah's Next Chapter.
+- 2010: Rioting begins between Muslim and Christian groups in Jos, Nigeria, results in at least 200 deaths.
+- 2008: British Airways Flight 38 crashes short of the runway at Heathrow Airport, injuring 47.
+- 2007: The Doomsday Clock is set to five minutes to midnight in response to North Korea's nuclear testing.
+- 2002: Mount Nyiragongo erupts in the Democratic Republic of the Congo, displacing an estimated 400,000 people.
+- 1998: Clinton-Lewinsky scandal: Matt Drudge breaks the story of the Bill Clinton-Monica Lewinsky affair on his Drudge Report website.
+- 1997: Cape Canaveral Air Force Station: A Delta II carrying the GPS IIR-1 satellite explodes 13 seconds after launch, dropping 250 tons of burning rocket remains around the launch pad.
+- 1996: The Czech Republic applies for membership in the European Union.
+- 1995: The 6.9 Mw  Great Hanshin earthquake shakes the southern Hyōgo Prefecture with a maximum Shindo of 7, leaving 5,502-6,434 people dead, and 251,301-310,000 displaced.
+- 1994: The 6.7 Mw  Northridge earthquake shakes the Greater Los Angeles Area with a maximum Mercalli intensity of IX (Violent), leaving 57 people dead and more than 8,700 injured.
+- 1992: During a visit to South Korea, Japanese Prime Minister Kiichi Miyazawa apologizes for forcing Korean women into sexual slavery during World War II.
+- 1991: Crown Prince Harald of Norway becomes King Harald V, following the death of his father, King Olav V.
+- 1991: Gulf War: Operation Desert Storm begins early in the morning as aircraft strike positions across Iraq, it is also the first major combat sortie for the F-117. LCDR Scott Speicher's F/A-18C Hornet from VFA-81 is shot down by a Mig-25 and is the first American casualty of the War. Iraq fires eight Scud missiles into Israel in an unsuccessful bid to provoke Israeli retaliation.
+- 1981: President of the Philippines Ferdinand Marcos lifts martial law eight years and five months after declaring it.
+- 1977: Capital punishment in the United States resumes after a ten-year hiatus, as convicted murderer Gary Gilmore is executed by firing squad in Utah.
+- 1969: Black Panther Party members Bunchy Carter and John Huggins are killed during a meeting in Campbell Hall on the campus of UCLA.
+- 1966: Palomares incident: A B-52 bomber collides with a KC-135 Stratotanker over Spain, killing seven airmen, and dropping three 70-kiloton nuclear bombs near the town of Palomares and another one into the sea.
+- 1961: Former Congolese Prime Minister Patrice Lumumba is murdered together with former Minister of Youth and Sports of the Republic of the Congo Maurice Mpolo and former Senator from Kasai Province Joseph Okito in circumstances suggesting the support and complicity of the governments of Belgium and the United States.
+- 1961: U.S. President Dwight D. Eisenhower delivers a televised farewell address to the nation three days before leaving office, in which he warns against the accumulation of power by the "military-industrial complex" as well as the dangers of massive spending, especially deficit spending.
+- 1950: United Nations Security Council Resolution 79 relating to arms control is adopted.
+- 1950: The Great Brink's Robbery: Eleven thieves steal more than $2 million from an armored car company's offices in Boston.
+- 1948: The Renville Agreement between the Netherlands and Indonesia is ratified.
+- 1946: The UN Security Council holds its first session.
+- 1945: Swedish diplomat Raoul Wallenberg is taken into Soviet custody while in Hungary; he is never publicly seen again.
+- 1945: The SS-Totenkopfverbände begin the evacuation of the Auschwitz concentration camp as the Red Army closes in.
+- 1945: World War II: The Vistula-Oder Offensive forces German troops out of Warsaw.
 
 Data from muffinlabs
-*(Updated at: 2026-01-16 02:01:54 UTC)*
+*(Updated at: 2026-01-17 01:56:01 UTC)*
 
 # 历史上的今天 
 
-- - 2020 年：美国参议院批准《美国-墨西哥-加拿大协定》以取代《北美自由贸易协定》。
-- - 2020年：美国参议院对唐纳德·特朗普的首次弹劾正式进入审判阶段。
-- - 2018 年：缅甸警方向一群若开族抗议者开枪，造成七人死亡、十二人受伤。
-- - 2017年：土耳其航空6491号航班坠入吉尔吉斯斯坦玛纳斯国际机场附近的住宅区，造成39人死亡。
-- - 2016 年：布基纳法索瓦加杜古的一家酒店和附近一家餐厅遭受恐怖袭击，126 名人质中的 33 人受伤，23 人死亡。
-- - 2012 年：马里战争爆发，图阿雷格民兵开始与马里政府争夺独立。
-- - 2011 年：叙利亚内战：民主社会运动 (TEV-DEM) 成立，其既定目标是按照民主邦联制重新组织叙利亚。
-- - 2006 年：埃伦·约翰逊·瑟利夫宣誓就任利比里亚新总统。她成为非洲第一位民选女性国家元首。
-- - 2003 年：哥伦比亚号航天飞机起飞执行 STS-107 任务，这将是其最后一次任务。16 天后，哥伦比亚号在重返大气层时解体。
-- - 2002年：阿富汗战争：联合国安理会一致对乌萨马·本·拉登、基地组织和塔利班其余成员实施武器禁运并冻结其资产。
-- - 2001 年：美国总统比尔·克林顿追授前总统西奥多·罗斯福荣誉勋章，以表彰他在美西战争中的贡献。
-- - 2001 年：第二次刚果战争：刚果总统洛朗-德西雷·卡比拉在金沙萨被他自己的一名保镖暗杀。
-- - 1995 年：一场雪崩袭击了冰岛村庄 Súðavík，摧毁了 25 所房屋并埋葬了 26 人，其中 14 人死亡。
-- - 1992 年：萨尔瓦多官员和叛军领导人在墨西哥墨西哥城签署《查普尔特佩克和平协定》，结束了长达 12 年的萨尔瓦多内战，这场内战夺去了至少 75,000 人的生命。
-- - 1991 年：联军与伊拉克开战，海湾战争爆发。
-- - 1983 年：土耳其航空 158 号航班在土耳其安卡拉埃森博阿机场坠毁，造成 47 人死亡、20 人受伤。
-- - 1979 年：伊朗革命：最后一位伊朗国王与家人永远逃离伊朗并移居埃及。
-- - 1969 年：太空竞赛：苏联航天器联盟 4 号和联盟 5 号首次在轨道上实现载人航天器对接，这是有史以来第一次将宇航员从一个航天器转移到另一个航天器，也是唯一一次通过太空行走完成这种转移。
-- - 1969年：捷克学生扬·帕拉赫在捷克斯洛伐克布拉格自焚自杀，以抗议苏联前年镇压布拉格之春。
-- - 1959 年：南方航空公司 205 号航班在阿根廷马德普拉塔阿斯特·皮亚佐拉国际机场附近坠入大西洋，造成 51 人死亡。
-- - 1945 年：第二次世界大战：阿道夫·希特勒搬进他的地下掩体，即所谓的元首地堡。
-- - 1942 年：环球航空 3 号航班坠毁，机上 22 人全部遇难，其中包括电影明星卡罗尔·隆巴德 (Carole Lombard)。
-- - 1942 年：大屠杀：纳粹德国开始将犹太人从罗兹隔都驱逐到海乌姆诺灭绝营。
-- - 1921 年：斯洛伐克和外喀尔巴阡乌克兰的马克思主义左派在久博奇亚举行成立大会。
-- - 1920 年：国际联盟在法国巴黎召开第一次理事会会议。
-- - 1919 年：内布拉斯加州成为第 36 个批准美国宪法第十八修正案的州。随着修正案获得四分之三州的批准，一年后美国宪法规定了禁酒令。
-- - 1913 年：印度数学家斯里尼瓦萨·拉马努金 (Srinivasa Ramanujan) 给剑桥大学的 G. H. 哈代 (G. H. Hardy) 写了第一封信，在没有证据的情况下陈述了涉及积分、无穷级数和连分数的各种公式，开始了两人之间的长期通信以及对拉马努金结果的广泛认可。
-- - 1909 年：欧内斯特·沙克尔顿的探险队发现了磁南极。
-- - 1900 年：美国参议院接受 1899 年英德条约，其中英国放弃对萨摩亚群岛的主权要求。
-- - 1883 年：国会颁布《彭德尔顿公务员制度改革法案》，建立美国公务员制度。
+- - 2023年：西藏林芝发生雪崩，造成28人死亡。
+- - 2017年：马来西亚航空370航班的搜索宣布暂停。
+- - 2016 年：巴拉克·奥巴马总统宣布联合全面行动计划，该协议旨在限制伊朗核计划。
+- - 2013 年：沙赫扎德·卢克曼 (Shahzad Luqman) 在雅典佩特拉罗纳 (Petralona) 被金色黎明组织 (Golden Dawn) 成员谋杀，领导制定了新措施来打击希腊的种族袭击。
+- - 2013 年：前自行车运动员兰斯·阿姆斯特朗在奥普拉的下一章节目中承认服用兴奋剂。
+- - 2010 年：尼日利亚乔斯的穆斯林和基督教团体之间爆发骚乱，导致至少 200 人死亡。
+- - 2008 年：英国航空 38 号航班在希思罗机场跑道附近坠毁，造成 47 人受伤。
+- - 2007年：为了应对朝鲜的核试验，世界末日时钟被设定为午夜前五分钟。
+- - 2002 年：刚果民主共和国尼拉贡戈火山喷发，造成约 40 万人流离失所。
+- - 1998 年：克林顿-莱温斯基丑闻：马特·德拉吉在他的德拉吉报告网站上披露了比尔·克林顿-莫妮卡·莱温斯基事件的故事。
+- - 1997 年：卡纳维拉尔角空军基地：搭载 GPS IIR-1 卫星的 Delta II 卫星在发射后 13 秒发生爆炸，在发射台周围掉落了 250 吨燃烧的火箭残骸。
+- - 1996年：捷克共和国申请加入欧盟。
+- - 1995 年：6.9 兆瓦的阪神大地震震撼了兵库县南部，震级最高为 7 人，造成 5,502-6,434 人死亡，251,301-310,000 人流离失所。
+- - 1994 年：6.7 兆瓦的北岭地震震动了大洛杉矶地区，最大麦卡利强度为 IX（强烈），造成 57 人死亡、8,700 多人受伤。
+- - 1992年：在访问韩国期间，日本首相宫泽喜一为二战期间强迫韩国妇女沦为性奴而道歉。
+- - 1991 年：挪威王储哈拉尔在父亲奥拉夫五世国王去世后成为国王哈拉尔五世。
+- - 1991年：海湾战争：沙漠风暴行动一大早开始，飞机对伊拉克各地的阵地进行打击，这也是F-117的首次重大战斗架次。LCDR 斯科特·斯派克 (Scott Speicher) 驾驶的 VFA-81 上的 F/A-18C 大黄蜂被一架 Mig-25 击落，成为战争中第一个美国伤亡者。伊拉克向以色列发射了八枚飞毛腿导弹，试图引发以色列的报复，但没有成功。
+- - 1981 年：菲律宾总统费迪南德·马科斯 (Ferdinand Marcos) 在宣布戒严令八年零五个月后解除戒严令。
+- - 1977 年：美国在中断十年后恢复死刑，被定罪的杀人犯加里·吉尔摩 (Gary Gilmore) 在犹他州被行刑队处决。
+- - 1969 年：黑豹党成员邦奇·卡特和约翰·哈金斯在加州大学洛杉矶分校坎贝尔大厅举行的一次会议上被杀。
+- - 1966 年：帕洛马雷斯事件：一架 B-52 轰炸机在西班牙上空与一架 KC-135 Stratotanker 相撞，造成 7 名飞行员死亡，并在帕洛马雷斯镇附近投下三枚 70 吨核弹，另一枚落入大海。
+- - 1961 年：刚果前总理帕特里斯·卢蒙巴、刚果共和国前青年和体育部部长莫里斯·姆波罗以及开赛省前参议员约瑟夫·奥基托一起被谋杀，案情暗示了比利时和美国政府的支持和共谋。
+- - 1961年：美国总统德怀特·D·艾森豪威尔在离任前三天向全国发表电视告别演说，警告“军工联合体”的权力积累以及大规模支出，特别是赤字支出的危险。
+- - 1950年：联合国安理会通过有关军备控制的第79号决议。
+- - 1950 年：The Great Brink 抢劫案：11 名窃贼从波士顿一家装甲车公司的办公室偷走了超过 200 万美元。
+- - 1948 年：荷兰和印度尼西亚之间的《伦维尔协定》获得批准。
+- - 1946年：联合国安理会召开第一届会议。
+- - 1945 年：瑞典外交官拉乌尔·瓦伦贝格在匈牙利期间被苏联拘留；他再也没有公开露面。
+- - 1945 年：随着红军逼近，党卫军武装部队开始疏散奥斯威辛集中营。
+- - 1945 年：第二次世界大战：维斯瓦河-奥得河攻势迫使德军撤出华沙。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-01-16 02:01:54 UTC）*
+*（更新于: 2026-01-17 01:56:01 UTC）*
