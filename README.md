@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: An avalanche strikes Nyingchi, Tibet, killing 28 people.
-- 2017: The search for Malaysia Airlines Flight 370 is announced to be suspended.
-- 2016: President Barack Obama announces the Joint Comprehensive Plan of Action, an agreement intended to limit Iran's nuclear program.
-- 2013: Shahzad Luqman is murdered by members of Golden Dawn in Petralona, Athens, leading the creation of new measures to combat race-based attacks in Greece.
-- 2013: Former cyclist Lance Armstrong confesses to his doping in an airing of Oprah's Next Chapter.
-- 2010: Rioting begins between Muslim and Christian groups in Jos, Nigeria, results in at least 200 deaths.
-- 2008: British Airways Flight 38 crashes short of the runway at Heathrow Airport, injuring 47.
-- 2007: The Doomsday Clock is set to five minutes to midnight in response to North Korea's nuclear testing.
-- 2002: Mount Nyiragongo erupts in the Democratic Republic of the Congo, displacing an estimated 400,000 people.
-- 1998: Clinton-Lewinsky scandal: Matt Drudge breaks the story of the Bill Clinton-Monica Lewinsky affair on his Drudge Report website.
-- 1997: Cape Canaveral Air Force Station: A Delta II carrying the GPS IIR-1 satellite explodes 13 seconds after launch, dropping 250 tons of burning rocket remains around the launch pad.
-- 1996: The Czech Republic applies for membership in the European Union.
-- 1995: The 6.9 Mw  Great Hanshin earthquake shakes the southern Hyōgo Prefecture with a maximum Shindo of 7, leaving 5,502-6,434 people dead, and 251,301-310,000 displaced.
-- 1994: The 6.7 Mw  Northridge earthquake shakes the Greater Los Angeles Area with a maximum Mercalli intensity of IX (Violent), leaving 57 people dead and more than 8,700 injured.
-- 1992: During a visit to South Korea, Japanese Prime Minister Kiichi Miyazawa apologizes for forcing Korean women into sexual slavery during World War II.
-- 1991: Crown Prince Harald of Norway becomes King Harald V, following the death of his father, King Olav V.
-- 1991: Gulf War: Operation Desert Storm begins early in the morning as aircraft strike positions across Iraq, it is also the first major combat sortie for the F-117. LCDR Scott Speicher's F/A-18C Hornet from VFA-81 is shot down by a Mig-25 and is the first American casualty of the War. Iraq fires eight Scud missiles into Israel in an unsuccessful bid to provoke Israeli retaliation.
-- 1981: President of the Philippines Ferdinand Marcos lifts martial law eight years and five months after declaring it.
-- 1977: Capital punishment in the United States resumes after a ten-year hiatus, as convicted murderer Gary Gilmore is executed by firing squad in Utah.
-- 1969: Black Panther Party members Bunchy Carter and John Huggins are killed during a meeting in Campbell Hall on the campus of UCLA.
-- 1966: Palomares incident: A B-52 bomber collides with a KC-135 Stratotanker over Spain, killing seven airmen, and dropping three 70-kiloton nuclear bombs near the town of Palomares and another one into the sea.
-- 1961: Former Congolese Prime Minister Patrice Lumumba is murdered together with former Minister of Youth and Sports of the Republic of the Congo Maurice Mpolo and former Senator from Kasai Province Joseph Okito in circumstances suggesting the support and complicity of the governments of Belgium and the United States.
-- 1961: U.S. President Dwight D. Eisenhower delivers a televised farewell address to the nation three days before leaving office, in which he warns against the accumulation of power by the "military-industrial complex" as well as the dangers of massive spending, especially deficit spending.
-- 1950: United Nations Security Council Resolution 79 relating to arms control is adopted.
-- 1950: The Great Brink's Robbery: Eleven thieves steal more than $2 million from an armored car company's offices in Boston.
-- 1948: The Renville Agreement between the Netherlands and Indonesia is ratified.
-- 1946: The UN Security Council holds its first session.
-- 1945: Swedish diplomat Raoul Wallenberg is taken into Soviet custody while in Hungary; he is never publicly seen again.
-- 1945: The SS-Totenkopfverbände begin the evacuation of the Auschwitz concentration camp as the Red Army closes in.
-- 1945: World War II: The Vistula-Oder Offensive forces German troops out of Warsaw.
+- 2025: The popular social media app, TikTok, is banned in the United States, after the passing of PAFACA.
+- 2023: A helicopter crash in Ukraine leaves 14 people dead, including the country's Interior Minister, Denys Monastyrsky.
+- 2019: An oil pipeline explosion near Tlahuelilpan, Hidalgo, Mexico, kills 137 people.
+- 2018: A bus catches fire on the Samara-Shymkent road in Yrgyz District, Aktobe, Kazakhstan. The fire kills 52 passengers, with three passengers and two drivers escaping.
+- 2012: More than 115,000 websites engage in an online protest against the Stop Online Piracy Act and the Protect IP Act in the US.[citation needed] The websites involved viewed the laws as infringing on the right to free speech and many of them temporarily shut down in protest.
+- 2008: The Euphronios Krater is unveiled in Rome after being returned to Italy by the Metropolitan Museum of Art.
+- 2007: The strongest storm in the United Kingdom in 17 years kills 14 people and Germany sees the worst storm since 1999 with 13 deaths. Cyclone Kyrill causes at least 44 deaths across 20 countries in Western Europe.
+- 2005: The Airbus A380, the world's largest commercial jet, is unveiled at a ceremony in Toulouse, France
+- 2003: A bushfire kills four people and destroys more than 500 homes in Canberra, Australia.
+- 2002: The Sierra Leone Civil War is declared over.
+- 1993: Martin Luther King, Jr. Day is officially observed for the first time in all 50 US states.
+- 1990: Washington, D.C., Mayor Marion Barry is arrested for drug possession in an FBI sting.
+- 1988: China Southwest Airlines Flight 4146 crashes near Chongqing Baishiyi Airport, killing all 98 passengers and 10 crew members.
+- 1986: An Aerovías Sud Aviation Caravelle crashes on approach to Mundo Maya International Airport in Flores, Petén, Guatemala, killing all 94 people on board.
+- 1983: The International Olympic Committee restores Jim Thorpe's Olympic medals to his family.
+- 1981: Phil Smith and Phil Mayfield parachute off a Houston skyscraper, becoming the first two people to BASE jump from objects in all four categories: buildings, antennae, spans (bridges), and earth (cliffs).
+- 1978: The European Court of Human Rights finds the United Kingdom's government guilty of mistreating prisoners in Northern Ireland, but not guilty of torture.
+- 1977: SFR Yugoslavia's Prime minister, Džemal Bijedić, his wife and six others are killed in a plane crash in Bosnia and Herzegovina.
+- 1977: Australia's worst rail disaster occurs at Granville, Sydney, killing 83.
+- 1977: Scientists at the Centers for Disease Control and Prevention announce they have identified a previously unknown bacterium as the cause of the mysterious Legionnaires' disease.
+- 1976: Lebanese Christian militias kill at least 1,000 in Karantina, Beirut.
+- 1974: A Disengagement of Forces agreement is signed between the Israeli and Egyptian governments, ending conflict on the Egyptian front of the Yom Kippur War.
+- 1972: Members of the Mukti Bahini lay down their arms to the government of the newly independent Bangladesh, a month after winning the war against the occupying Pakistan Army.
+- 1969: United Airlines Flight 266 crashes into Santa Monica Bay killing all 32 passengers and six crew members.
+- 1967: Albert DeSalvo, the "Boston Strangler", is convicted of numerous crimes and is sentenced to life imprisonment.
+- 1960: Capital Airlines Flight 20 crashes into a farm in Charles City County, Virginia, killing all 50 aboard, the third fatal Capital Airlines crash in as many years.
+- 1958: Willie O'Ree, the first Black Canadian National Hockey League player, makes his NHL debut with the Boston Bruins.
+- 1945: World War II: Liberation of Kraków, Poland by the Red Army.
+- 1943: Warsaw Ghetto Uprising: The first uprising of Jews in the Warsaw Ghetto.
+- 1941: World War II: British troops launch a general counter-offensive against Italian East Africa.
 
 Data from muffinlabs
-*(Updated at: 2026-01-17 01:56:01 UTC)*
+*(Updated at: 2026-01-18 02:08:59 UTC)*
 
 # 历史上的今天 
 
-- - 2023年：西藏林芝发生雪崩，造成28人死亡。
-- - 2017年：马来西亚航空370航班的搜索宣布暂停。
-- - 2016 年：巴拉克·奥巴马总统宣布联合全面行动计划，该协议旨在限制伊朗核计划。
-- - 2013 年：沙赫扎德·卢克曼 (Shahzad Luqman) 在雅典佩特拉罗纳 (Petralona) 被金色黎明组织 (Golden Dawn) 成员谋杀，领导制定了新措施来打击希腊的种族袭击。
-- - 2013 年：前自行车运动员兰斯·阿姆斯特朗在奥普拉的下一章节目中承认服用兴奋剂。
-- - 2010 年：尼日利亚乔斯的穆斯林和基督教团体之间爆发骚乱，导致至少 200 人死亡。
-- - 2008 年：英国航空 38 号航班在希思罗机场跑道附近坠毁，造成 47 人受伤。
-- - 2007年：为了应对朝鲜的核试验，世界末日时钟被设定为午夜前五分钟。
-- - 2002 年：刚果民主共和国尼拉贡戈火山喷发，造成约 40 万人流离失所。
-- - 1998 年：克林顿-莱温斯基丑闻：马特·德拉吉在他的德拉吉报告网站上披露了比尔·克林顿-莫妮卡·莱温斯基事件的故事。
-- - 1997 年：卡纳维拉尔角空军基地：搭载 GPS IIR-1 卫星的 Delta II 卫星在发射后 13 秒发生爆炸，在发射台周围掉落了 250 吨燃烧的火箭残骸。
-- - 1996年：捷克共和国申请加入欧盟。
-- - 1995 年：6.9 兆瓦的阪神大地震震撼了兵库县南部，震级最高为 7 人，造成 5,502-6,434 人死亡，251,301-310,000 人流离失所。
-- - 1994 年：6.7 兆瓦的北岭地震震动了大洛杉矶地区，最大麦卡利强度为 IX（强烈），造成 57 人死亡、8,700 多人受伤。
-- - 1992年：在访问韩国期间，日本首相宫泽喜一为二战期间强迫韩国妇女沦为性奴而道歉。
-- - 1991 年：挪威王储哈拉尔在父亲奥拉夫五世国王去世后成为国王哈拉尔五世。
-- - 1991年：海湾战争：沙漠风暴行动一大早开始，飞机对伊拉克各地的阵地进行打击，这也是F-117的首次重大战斗架次。LCDR 斯科特·斯派克 (Scott Speicher) 驾驶的 VFA-81 上的 F/A-18C 大黄蜂被一架 Mig-25 击落，成为战争中第一个美国伤亡者。伊拉克向以色列发射了八枚飞毛腿导弹，试图引发以色列的报复，但没有成功。
-- - 1981 年：菲律宾总统费迪南德·马科斯 (Ferdinand Marcos) 在宣布戒严令八年零五个月后解除戒严令。
-- - 1977 年：美国在中断十年后恢复死刑，被定罪的杀人犯加里·吉尔摩 (Gary Gilmore) 在犹他州被行刑队处决。
-- - 1969 年：黑豹党成员邦奇·卡特和约翰·哈金斯在加州大学洛杉矶分校坎贝尔大厅举行的一次会议上被杀。
-- - 1966 年：帕洛马雷斯事件：一架 B-52 轰炸机在西班牙上空与一架 KC-135 Stratotanker 相撞，造成 7 名飞行员死亡，并在帕洛马雷斯镇附近投下三枚 70 吨核弹，另一枚落入大海。
-- - 1961 年：刚果前总理帕特里斯·卢蒙巴、刚果共和国前青年和体育部部长莫里斯·姆波罗以及开赛省前参议员约瑟夫·奥基托一起被谋杀，案情暗示了比利时和美国政府的支持和共谋。
-- - 1961年：美国总统德怀特·D·艾森豪威尔在离任前三天向全国发表电视告别演说，警告“军工联合体”的权力积累以及大规模支出，特别是赤字支出的危险。
-- - 1950年：联合国安理会通过有关军备控制的第79号决议。
-- - 1950 年：The Great Brink 抢劫案：11 名窃贼从波士顿一家装甲车公司的办公室偷走了超过 200 万美元。
-- - 1948 年：荷兰和印度尼西亚之间的《伦维尔协定》获得批准。
-- - 1946年：联合国安理会召开第一届会议。
-- - 1945 年：瑞典外交官拉乌尔·瓦伦贝格在匈牙利期间被苏联拘留；他再也没有公开露面。
-- - 1945 年：随着红军逼近，党卫军武装部队开始疏散奥斯威辛集中营。
-- - 1945 年：第二次世界大战：维斯瓦河-奥得河攻势迫使德军撤出华沙。
+- - 2025 年：PAFACA 通过后，流行的社交媒体应用程序 TikTok 在美国被禁止。
+- - 2023 年：乌克兰发生直升机坠毁事故，造成 14 人死亡，其中包括该国内政部长丹尼斯·莫纳斯提尔斯基 (Denys Monastyrsky)。
+- - 2019 年：墨西哥伊达尔戈州 Tlahuelilpan 附近发生石油管道爆炸，造成 137 人死亡。
+- - 2018年：一辆公共汽车在哈萨克斯坦阿克纠宾州伊尔吉斯区的萨马拉-奇姆肯特公路上起火。火灾造成 52 名乘客死亡，其中 3 名乘客和 2 名司机逃生。
+- - 2012年：超过115,000个网站参与在线抗议美国《制止网络盗版法》和《保护知识产权法》。[需要引用]相关网站认为这些法律侵犯了言论自由权，其中许多网站暂时关闭以示抗议。
+- - 2008 年：Euphronios Krater 由大都会艺术博物馆归还意大利后在罗马揭幕。
+- - 2007 年：英国 17 年来最强的风暴造成 14 人死亡，德国遭遇 1999 年以来最严重的风暴，造成 13 人死亡。气旋“基里尔”在西欧 20 个国家造成至少 44 人死亡。
+- - 2005 年：全球最大的商用飞机空中客车 A380 在法国图卢兹举行的仪式上揭幕
+- - 2003 年：澳大利亚堪培拉的一场丛林大火导致 4 人死亡并摧毁了 500 多所房屋。
+- - 2002 年：塞拉利昂内战宣告结束。
+- - 1993 年：美国 50 个州首次正式庆祝马丁·路德·金日。
+- - 1990 年：华盛顿特区市长马里昂·巴里 (Marion Barry) 因在联邦调查局 (FBI) 刺杀中持有毒品而被捕。
+- - 1988年：中国西南航空4146航班在重庆白市驿机场附近坠毁，机上98名乘客和10名机组人员全部遇难。
+- - 1986 年：一架 Aerovías Sud Aviation Caravelle 客机在飞往危地马拉佩滕弗洛雷斯蒙多玛雅国际机场时坠毁，机上 94 人全部遇难。
+- - 1983 年：国际奥委会将吉姆·索普的奥运奖牌归还给他的家人。
+- - 1981 年：菲尔·史密斯 (Phil Smith) 和菲尔·梅菲尔德 (Phil Mayfield) 从休斯敦摩天大楼跳伞，成为第一批从建筑物、天线、跨度（桥梁）和地球（悬崖）这四个类别的物体上进行定点跳伞的人。
+- - 1978 年：欧洲人权法院裁定英国政府犯有虐待北爱尔兰囚犯的罪，但没有犯有酷刑罪。
+- - 1977 年：南斯拉夫社会主义联邦共和国总理杰马尔·比耶迪奇、他的妻子和其他六人在波斯尼亚和黑塞哥维那的一次飞机失事中丧生。
+- - 1977 年：澳大利亚最严重的铁路灾难发生在悉尼格兰维尔，造成 83 人死亡。
+- - 1977 年：疾病控制与预防中心的科学家宣布，他们已经发现一种以前未知的细菌是神秘的退伍军人病的病因。
+- - 1976 年：黎巴嫩基督教民兵在贝鲁特卡兰蒂纳杀害了至少 1,000 人。
+- - 1974 年：以色列和埃及政府签署了《部队脱离接触协议》，结束了赎罪日战争中埃及前线的冲突。
+- - 1972 年：在赢得对抗巴基斯坦占领军的战争一个月后，Mukti Bahini 成员向新独立的孟加拉国政府放下武器。
+- - 1969 年：联合航空 266 号航班坠入圣莫尼卡湾，造成 32 名乘客和 6 名机组人员全部遇难。
+- - 1967年：“波士顿绞杀者”阿尔伯特·德萨尔沃被判犯有多项罪行并被判处终身监禁。
+- - 1960 年：首都航空 20 号航班坠入弗吉尼亚州查尔斯城县的一个农场，机上 50 人全部遇难，这是多年来首都航空发生的第三起致命事故。
+- - 1958 年：加拿大国家冰球联盟第一位黑人球员威利·奥雷 (Willie O'Ree) 随波士顿棕熊队 (Boston Bruins) 首次亮相 NHL。
+- - 1945 年：第二次世界大战：红军解放波兰克拉科夫。
+- - 1943 年：华沙隔都起义：华沙隔都的第一次犹太人起义。
+- - 1941 年：第二次世界大战：英国军队对意属东非发动总反攻。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-01-17 01:56:01 UTC）*
+*（更新于: 2026-01-18 02:08:59 UTC）*
