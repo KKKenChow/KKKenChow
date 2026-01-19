@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: The popular social media app, TikTok, is banned in the United States, after the passing of PAFACA.
-- 2023: A helicopter crash in Ukraine leaves 14 people dead, including the country's Interior Minister, Denys Monastyrsky.
-- 2019: An oil pipeline explosion near Tlahuelilpan, Hidalgo, Mexico, kills 137 people.
-- 2018: A bus catches fire on the Samara-Shymkent road in Yrgyz District, Aktobe, Kazakhstan. The fire kills 52 passengers, with three passengers and two drivers escaping.
-- 2012: More than 115,000 websites engage in an online protest against the Stop Online Piracy Act and the Protect IP Act in the US.[citation needed] The websites involved viewed the laws as infringing on the right to free speech and many of them temporarily shut down in protest.
-- 2008: The Euphronios Krater is unveiled in Rome after being returned to Italy by the Metropolitan Museum of Art.
-- 2007: The strongest storm in the United Kingdom in 17 years kills 14 people and Germany sees the worst storm since 1999 with 13 deaths. Cyclone Kyrill causes at least 44 deaths across 20 countries in Western Europe.
-- 2005: The Airbus A380, the world's largest commercial jet, is unveiled at a ceremony in Toulouse, France
-- 2003: A bushfire kills four people and destroys more than 500 homes in Canberra, Australia.
-- 2002: The Sierra Leone Civil War is declared over.
-- 1993: Martin Luther King, Jr. Day is officially observed for the first time in all 50 US states.
-- 1990: Washington, D.C., Mayor Marion Barry is arrested for drug possession in an FBI sting.
-- 1988: China Southwest Airlines Flight 4146 crashes near Chongqing Baishiyi Airport, killing all 98 passengers and 10 crew members.
-- 1986: An Aerovías Sud Aviation Caravelle crashes on approach to Mundo Maya International Airport in Flores, Petén, Guatemala, killing all 94 people on board.
-- 1983: The International Olympic Committee restores Jim Thorpe's Olympic medals to his family.
-- 1981: Phil Smith and Phil Mayfield parachute off a Houston skyscraper, becoming the first two people to BASE jump from objects in all four categories: buildings, antennae, spans (bridges), and earth (cliffs).
-- 1978: The European Court of Human Rights finds the United Kingdom's government guilty of mistreating prisoners in Northern Ireland, but not guilty of torture.
-- 1977: SFR Yugoslavia's Prime minister, Džemal Bijedić, his wife and six others are killed in a plane crash in Bosnia and Herzegovina.
-- 1977: Australia's worst rail disaster occurs at Granville, Sydney, killing 83.
-- 1977: Scientists at the Centers for Disease Control and Prevention announce they have identified a previously unknown bacterium as the cause of the mysterious Legionnaires' disease.
-- 1976: Lebanese Christian militias kill at least 1,000 in Karantina, Beirut.
-- 1974: A Disengagement of Forces agreement is signed between the Israeli and Egyptian governments, ending conflict on the Egyptian front of the Yom Kippur War.
-- 1972: Members of the Mukti Bahini lay down their arms to the government of the newly independent Bangladesh, a month after winning the war against the occupying Pakistan Army.
-- 1969: United Airlines Flight 266 crashes into Santa Monica Bay killing all 32 passengers and six crew members.
-- 1967: Albert DeSalvo, the "Boston Strangler", is convicted of numerous crimes and is sentenced to life imprisonment.
-- 1960: Capital Airlines Flight 20 crashes into a farm in Charles City County, Virginia, killing all 50 aboard, the third fatal Capital Airlines crash in as many years.
-- 1958: Willie O'Ree, the first Black Canadian National Hockey League player, makes his NHL debut with the Boston Bruins.
-- 1945: World War II: Liberation of Kraków, Poland by the Red Army.
-- 1943: Warsaw Ghetto Uprising: The first uprising of Jews in the Warsaw Ghetto.
-- 1941: World War II: British troops launch a general counter-offensive against Italian East Africa.
+- 2025: Bytedance and sister companies were banned from the United States for "security concerns".
+- 2024: The Japan Aerospace Exploration Agency's probe landed on the moon, making Japan the 5th country to land a spacecraft on the moon.
+- 2014: A bomb attack on an army convoy in the city of Bannu kills at least 26 Pakistani soldiers and injures 38 others.
+- 2012: The Hong Kong-based file-sharing website Megaupload is shut down by the FBI.
+- 2007: Four-man Team N2i, using only skis and kites, completes a 1,093-mile (1,759 km) trek to reach the Antarctic pole of inaccessibility for the first time since 1965 and for the first time ever without mechanical assistance.
+- 2007: Turkish-Armenian journalist Hrant Dink is assassinated in front of his newspaper's Istanbul office by 17-year-old Turkish ultra-nationalist Ogün Samast.
+- 2006: A Slovak Air Force Antonov An-24 crashes near Hejce, Hungary, killing 42.
+- 1999: British Aerospace agrees to acquire the defence subsidiary of the General Electric Company, forming BAE Systems in November 1999.
+- 1997: Yasser Arafat returns to Hebron after more than 30 years and joins celebrations over the handover of the last Israeli-controlled West Bank city.
+- 1996: The barge North Cape oil spill occurs as an engine fire forces the tugboat Scandia ashore on Moonstone Beach in South Kingstown, Rhode Island.
+- 1995: After being struck by lightning the crew of Bristow Helicopters Flight 56C are forced to ditch. All 18 aboard are later rescued.
+- 1993: Czech Republic and Slovakia join the United Nations.
+- 1991: Gulf War: Iraq fires a second Scud missile into Israel, causing 15 injuries.
+- 1990: Exodus of Kashmiri Pandits from the Kashmir Valley in Indian-administered Kashmir due to an insurgency.
+- 1988: Trans-Colorado Airlines Flight 2286 crashes in Bayfield, Colorado, killing nine.
+- 1981: Iran hostage crisis: United States and Iranian officials sign an agreement to release 52 American hostages after 14 months of captivity.
+- 1978: The last Volkswagen Beetle made in Germany leaves VW's plant in Emden. Beetle production in Latin America continues until 2003.
+- 1977: President Gerald Ford pardons Iva Toguri D'Aquino (a.k.a. "Tokyo Rose").
+- 1969: Student Jan Palach dies after setting himself on fire three days earlier in Prague's Wenceslas Square to protest about the invasion of Czechoslovakia by the Soviet Union in 1968. His funeral turns into another major protest.
+- 1966: Indira Gandhi becomes India's first female prime minister.
+- 1960: Scandinavian Airlines System Flight 871 crashes near Ankara Esenboğa Airport in Turkey, killing all 42 aboard.
+- 1960: Japan and the United States sign the US-Japan Mutual Security Treaty
+- 1953: Almost 72 percent of all television sets in the United States are tuned into I Love Lucy to watch Lucy give birth.
+- 1946: General Douglas MacArthur establishes the International Military Tribunal for the Far East in Tokyo to try Japanese war criminals.
+- 1945: World War II: Soviet forces liberate the Łódź Ghetto. Of more than 200,000 inhabitants in 1940, fewer than 900 had survived the Nazi occupation.
+- 1942: World War II: The Japanese conquest of Burma begins.
+- 1941: World War II: HMS Greyhound and other escorts of convoy AS-12 sink Italian submarine Neghelli with all hands 64 kilometres (40 mi) northeast of Falkonera.
+- 1937: Howard Hughes sets a new air record by flying from Los Angeles to New York City in seven hours, 28 minutes, 25 seconds.
+- 1920: The American Civil Liberties Union (ACLU) is founded.
+- 1920: The United States Senate votes against joining the League of Nations.
 
 Data from muffinlabs
-*(Updated at: 2026-01-18 02:08:59 UTC)*
+*(Updated at: 2026-01-19 02:06:35 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：PAFACA 通过后，流行的社交媒体应用程序 TikTok 在美国被禁止。
-- - 2023 年：乌克兰发生直升机坠毁事故，造成 14 人死亡，其中包括该国内政部长丹尼斯·莫纳斯提尔斯基 (Denys Monastyrsky)。
-- - 2019 年：墨西哥伊达尔戈州 Tlahuelilpan 附近发生石油管道爆炸，造成 137 人死亡。
-- - 2018年：一辆公共汽车在哈萨克斯坦阿克纠宾州伊尔吉斯区的萨马拉-奇姆肯特公路上起火。火灾造成 52 名乘客死亡，其中 3 名乘客和 2 名司机逃生。
-- - 2012年：超过115,000个网站参与在线抗议美国《制止网络盗版法》和《保护知识产权法》。[需要引用]相关网站认为这些法律侵犯了言论自由权，其中许多网站暂时关闭以示抗议。
-- - 2008 年：Euphronios Krater 由大都会艺术博物馆归还意大利后在罗马揭幕。
-- - 2007 年：英国 17 年来最强的风暴造成 14 人死亡，德国遭遇 1999 年以来最严重的风暴，造成 13 人死亡。气旋“基里尔”在西欧 20 个国家造成至少 44 人死亡。
-- - 2005 年：全球最大的商用飞机空中客车 A380 在法国图卢兹举行的仪式上揭幕
-- - 2003 年：澳大利亚堪培拉的一场丛林大火导致 4 人死亡并摧毁了 500 多所房屋。
-- - 2002 年：塞拉利昂内战宣告结束。
-- - 1993 年：美国 50 个州首次正式庆祝马丁·路德·金日。
-- - 1990 年：华盛顿特区市长马里昂·巴里 (Marion Barry) 因在联邦调查局 (FBI) 刺杀中持有毒品而被捕。
-- - 1988年：中国西南航空4146航班在重庆白市驿机场附近坠毁，机上98名乘客和10名机组人员全部遇难。
-- - 1986 年：一架 Aerovías Sud Aviation Caravelle 客机在飞往危地马拉佩滕弗洛雷斯蒙多玛雅国际机场时坠毁，机上 94 人全部遇难。
-- - 1983 年：国际奥委会将吉姆·索普的奥运奖牌归还给他的家人。
-- - 1981 年：菲尔·史密斯 (Phil Smith) 和菲尔·梅菲尔德 (Phil Mayfield) 从休斯敦摩天大楼跳伞，成为第一批从建筑物、天线、跨度（桥梁）和地球（悬崖）这四个类别的物体上进行定点跳伞的人。
-- - 1978 年：欧洲人权法院裁定英国政府犯有虐待北爱尔兰囚犯的罪，但没有犯有酷刑罪。
-- - 1977 年：南斯拉夫社会主义联邦共和国总理杰马尔·比耶迪奇、他的妻子和其他六人在波斯尼亚和黑塞哥维那的一次飞机失事中丧生。
-- - 1977 年：澳大利亚最严重的铁路灾难发生在悉尼格兰维尔，造成 83 人死亡。
-- - 1977 年：疾病控制与预防中心的科学家宣布，他们已经发现一种以前未知的细菌是神秘的退伍军人病的病因。
-- - 1976 年：黎巴嫩基督教民兵在贝鲁特卡兰蒂纳杀害了至少 1,000 人。
-- - 1974 年：以色列和埃及政府签署了《部队脱离接触协议》，结束了赎罪日战争中埃及前线的冲突。
-- - 1972 年：在赢得对抗巴基斯坦占领军的战争一个月后，Mukti Bahini 成员向新独立的孟加拉国政府放下武器。
-- - 1969 年：联合航空 266 号航班坠入圣莫尼卡湾，造成 32 名乘客和 6 名机组人员全部遇难。
-- - 1967年：“波士顿绞杀者”阿尔伯特·德萨尔沃被判犯有多项罪行并被判处终身监禁。
-- - 1960 年：首都航空 20 号航班坠入弗吉尼亚州查尔斯城县的一个农场，机上 50 人全部遇难，这是多年来首都航空发生的第三起致命事故。
-- - 1958 年：加拿大国家冰球联盟第一位黑人球员威利·奥雷 (Willie O'Ree) 随波士顿棕熊队 (Boston Bruins) 首次亮相 NHL。
-- - 1945 年：第二次世界大战：红军解放波兰克拉科夫。
-- - 1943 年：华沙隔都起义：华沙隔都的第一次犹太人起义。
-- - 1941 年：第二次世界大战：英国军队对意属东非发动总反攻。
+- - 2025年：字节跳动及其姐妹公司因“安全问题”被美国禁止入境。
+- - 2024年：日本宇宙航空研究开发机构的探测器登陆月球，使日本成为第5个将航天器登陆月球的国家。
+- - 2014 年：班努市一支军队车队遭到炸弹袭击，造成至少 26 名巴基斯坦士兵死亡，另有 38 人受伤。
+- - 2012 年：香港文件共享网站 Megaupload 被 FBI 关闭。
+- - 2007 年：四人 N2i 团队仅使用滑雪板和风筝，完成了 1,093 英里（1,759 公里）的长途跋涉，自 1965 年以来首次到达人迹罕至的南极点，也是首次在没有机械辅助的情况下完成任务。
+- - 2007 年：土耳其裔亚美尼亚记者赫兰特·丁克 (Hrant Dink) 在其报纸伊斯坦布尔办事处前被 17 岁的土耳其极端民族主义者奥贡·萨马斯特 (Ogün Samast) 暗杀。
+- - 2006 年：斯洛伐克空军一架安东诺夫 An-24 飞机在匈牙利海伊采附近坠毁，造成 42 人死亡。
+- - 1999 年：英国航空航天公司同意收购通用电气公司的国防子公司，并于 1999 年 11 月成立 BAE Systems。
+- - 1997 年：亚西尔·阿拉法特时隔 30 多年重返希伯伦，参加以色列控制的最后一个西岸城市移交庆祝活动。
+- - 1996 年：驳船 North Cape 发生漏油事件，原因是拖船 Scandia 因发动机起火而被迫在罗德岛州南金斯敦月长石海滩上岸。
+- - 1995 年：布里斯托直升机 56C 航班的机组人员被闪电击中后被迫迫降。机上18人随后全部获救。
+- - 1993年：捷克共和国和斯洛伐克加入联合国。
+- - 1991 年：海湾战争：伊拉克向以色列发射第二枚飞毛腿导弹，造成 15 人受伤。
+- - 1990 年：由于叛乱，克什米尔潘伟迪从印控克什米尔的克什米尔山谷逃亡。
+- - 1988 年：跨科罗拉多航空公司 2286 号航班在科罗拉多州贝菲尔德坠毁，造成 9 人死亡。
+- - 1981 年：伊朗人质危机：美国和伊朗官员签署协议，释放被囚禁 14 个月的 52 名人质。
+- - 1978 年：德国制造的最后一辆大众甲壳虫汽车离开大众位于埃姆登的工厂。拉丁美洲的甲壳虫生产一直持续到 2003 年。
+- - 1977 年：杰拉尔德·福特总统赦免伊娃·托古里·达基诺（又名“东京玫瑰”）。
+- - 1969 年：三天前，学生扬·帕拉赫 (Jan Palach) 在布拉格瓦茨拉夫广场自焚，抗议 1968 年苏联入侵捷克斯洛伐克。他的葬礼变成了另一场重大抗议活动。
+- - 1966 年：英迪拉·甘地成为印度第一位女总理。
+- - 1960 年：斯堪的纳维亚航空公司 871 号航班在土耳其安卡拉埃森博阿机场附近坠毁，机上 42 人全部遇难。
+- - 1960年：日本和美国签署美日安全保障条约
+- - 1953 年：美国几乎 72% 的电视机都调到“我爱露西”来观看露西分娩。
+- - 1946 年：道格拉斯·麦克阿瑟将军在东京设立远东国际军事法庭来审判日本战犯。
+- - 1945 年：第二次世界大战：苏联军队解放罗兹隔都。1940 年，超过 20 万居民中只有不到 900 人在纳粹占领下幸存下来。
+- - 1942 年：第二次世界大战：日本开始征服缅甸。
+- - 1941 年：第二次世界大战：英国皇家海军“灰狗”号和 AS-12 护航舰队的其他护航舰在法尔科内拉东北 64 公里（40 英里）处合力击沉意大利潜艇“内盖利”。
+- - 1937 年：霍华德·休斯 (Howard Hughes) 在 7 小时 28 分 25 秒内从洛杉矶飞往纽约，创下了新的航空纪录。
+- - 1920 年：美国公民自由联盟 (ACLU) 成立。
+- - 1920 年：美国参议院投票反对加入国际联盟。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-01-18 02:08:59 UTC）*
+*（更新于: 2026-01-19 02:06:35 UTC）*
