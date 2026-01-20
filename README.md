@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: Bytedance and sister companies were banned from the United States for "security concerns".
-- 2024: The Japan Aerospace Exploration Agency's probe landed on the moon, making Japan the 5th country to land a spacecraft on the moon.
-- 2014: A bomb attack on an army convoy in the city of Bannu kills at least 26 Pakistani soldiers and injures 38 others.
-- 2012: The Hong Kong-based file-sharing website Megaupload is shut down by the FBI.
-- 2007: Four-man Team N2i, using only skis and kites, completes a 1,093-mile (1,759 km) trek to reach the Antarctic pole of inaccessibility for the first time since 1965 and for the first time ever without mechanical assistance.
-- 2007: Turkish-Armenian journalist Hrant Dink is assassinated in front of his newspaper's Istanbul office by 17-year-old Turkish ultra-nationalist Ogün Samast.
-- 2006: A Slovak Air Force Antonov An-24 crashes near Hejce, Hungary, killing 42.
-- 1999: British Aerospace agrees to acquire the defence subsidiary of the General Electric Company, forming BAE Systems in November 1999.
-- 1997: Yasser Arafat returns to Hebron after more than 30 years and joins celebrations over the handover of the last Israeli-controlled West Bank city.
-- 1996: The barge North Cape oil spill occurs as an engine fire forces the tugboat Scandia ashore on Moonstone Beach in South Kingstown, Rhode Island.
-- 1995: After being struck by lightning the crew of Bristow Helicopters Flight 56C are forced to ditch. All 18 aboard are later rescued.
-- 1993: Czech Republic and Slovakia join the United Nations.
-- 1991: Gulf War: Iraq fires a second Scud missile into Israel, causing 15 injuries.
-- 1990: Exodus of Kashmiri Pandits from the Kashmir Valley in Indian-administered Kashmir due to an insurgency.
-- 1988: Trans-Colorado Airlines Flight 2286 crashes in Bayfield, Colorado, killing nine.
-- 1981: Iran hostage crisis: United States and Iranian officials sign an agreement to release 52 American hostages after 14 months of captivity.
-- 1978: The last Volkswagen Beetle made in Germany leaves VW's plant in Emden. Beetle production in Latin America continues until 2003.
-- 1977: President Gerald Ford pardons Iva Toguri D'Aquino (a.k.a. "Tokyo Rose").
-- 1969: Student Jan Palach dies after setting himself on fire three days earlier in Prague's Wenceslas Square to protest about the invasion of Czechoslovakia by the Soviet Union in 1968. His funeral turns into another major protest.
-- 1966: Indira Gandhi becomes India's first female prime minister.
-- 1960: Scandinavian Airlines System Flight 871 crashes near Ankara Esenboğa Airport in Turkey, killing all 42 aboard.
-- 1960: Japan and the United States sign the US-Japan Mutual Security Treaty
-- 1953: Almost 72 percent of all television sets in the United States are tuned into I Love Lucy to watch Lucy give birth.
-- 1946: General Douglas MacArthur establishes the International Military Tribunal for the Far East in Tokyo to try Japanese war criminals.
-- 1945: World War II: Soviet forces liberate the Łódź Ghetto. Of more than 200,000 inhabitants in 1940, fewer than 900 had survived the Nazi occupation.
-- 1942: World War II: The Japanese conquest of Burma begins.
-- 1941: World War II: HMS Greyhound and other escorts of convoy AS-12 sink Italian submarine Neghelli with all hands 64 kilometres (40 mi) northeast of Falkonera.
-- 1937: Howard Hughes sets a new air record by flying from Los Angeles to New York City in seven hours, 28 minutes, 25 seconds.
-- 1920: The American Civil Liberties Union (ACLU) is founded.
-- 1920: The United States Senate votes against joining the League of Nations.
+- 2025: Donald Trump is inaugurated as the 47th President of the United States of America. He is currently the oldest person ever inaugurated.
+- 2021: Joe Biden is inaugurated as the 46th President of the United States of America. At the time of his inauguration, he became the oldest person ever inaugurated. Kamala Harris became the first female Vice President of the United States.
+- 2018: Syrian civil war: The Government of Turkey announces the initiation of the Afrin offensive and begins shelling Syrian Democratic Forces (SDF) positions in Afrin Region.
+- 2018: A group of four or five gunmen attack The Inter-Continental Hotel in Kabul, Afghanistan, sparking a 12-hour battle. The attack kills 40 people and injures many others.
+- 2017: Donald Trump is inaugurated as the 45th President of the United States of America.
+- 2009: A protest movement in Iceland culminates as the 2009 Icelandic financial crisis protests start.
+- 2009: Barack Obama is inaugurated as the 44th President of the United States of America, becoming the first African-American President of the United States.
+- 2001: President of the Philippines Joseph Estrada is ousted in a nonviolent four-day revolution, and is succeeded by Gloria Macapagal Arroyo.
+- 1992: Air Inter Flight 148, an Airbus A320-111, crashes into a mountain near Strasbourg, France, killing 87 of the 96 people on board.
+- 1991: Sudan's government imposes Islamic law nationwide, worsening the civil war between the country's Muslim north and Christian south.
+- 1990: Protests in Azerbaijan, part of the Dissolution of the Soviet Union.
+- 1986: Leabua Jonathan, Prime Minister of Lesotho, is ousted from power in a coup d'état led by General Justin Lekhanya.
+- 1986: In the United States, Martin Luther King Jr. Day is celebrated as a federal holiday for the first time.
+- 1981: Twenty minutes after Ronald Reagan is inaugurated as the 40th President of the United States of America, Iran releases 52 American hostages.
+- 1974: China gains control over all the Paracel Islands after a military engagement between the naval forces of China and South Vietnam.
+- 1973: Amílcar Cabral, leader of the independence movement in Guinea-Bissau and Cape Verde, is assassinated in Conakry, Guinea.
+- 1972: Pakistan launches its nuclear weapons program, a few weeks after its defeat in the Bangladesh Liberation War, as well as the Indo-Pakistani War of 1971.
+- 1961: John F. Kennedy is inaugurated as the 35th President of the United States of America, becoming the youngest man to be elected into that office, and the first Roman Catholic.
+- 1954: In the United States, the National Negro Network is established with 40 charter member radio stations.
+- 1953: Dwight D. Eisenhower is inaugurated as the 34th President of the United States of America, becoming the first president to begin his presidency on January 20 since the 20th Amendment changed the dates of presidential terms.
+- 1945: World War II: Germany begins the evacuation of 1.8 million people from East Prussia, a task which will take nearly two months.
+- 1945: World War II: The provisional government of Béla Miklós in Hungary agrees to an armistice with the Allies.
+- 1942: World War II: At the Wannsee Conference held in the Berlin suburb of Wannsee, senior Nazi German officials discuss the implementation of the "Final Solution to the Jewish question".
+- 1941: A German officer is killed in Bucharest, Romania, sparking a rebellion and pogrom by the Iron Guard, killing 125 Jews and 30 soldiers.
+- 1937: Franklin D. Roosevelt and John Nance Garner are sworn in for their second terms as U.S. President and U.S. Vice President; it is the first time a Presidential Inauguration takes place on January 20 since the 20th Amendment changed the dates of presidential terms.
+- 1921: The first Constitution of Turkey is adopted, making fundamental changes in the source and exercise of sovereignty by consecrating the principle of national sovereignty.
+- 1921: The British K-class submarine HMS K5 sinks in the English Channel; all 56 on board die.
+- 1909: Newly formed automaker General Motors (GM) buys into the Oakland Motor Car Company, which later becomes GM's long-running Pontiac division.
+- 1887: The United States Senate allows the Navy to lease Pearl Harbor as a naval base.
+- 1877: The last day of the Constantinople Conference results in agreement for political reforms in the Balkans.
 
 Data from muffinlabs
-*(Updated at: 2026-01-19 02:06:35 UTC)*
+*(Updated at: 2026-01-20 02:01:43 UTC)*
 
 # 历史上的今天 
 
-- - 2025年：字节跳动及其姐妹公司因“安全问题”被美国禁止入境。
-- - 2024年：日本宇宙航空研究开发机构的探测器登陆月球，使日本成为第5个将航天器登陆月球的国家。
-- - 2014 年：班努市一支军队车队遭到炸弹袭击，造成至少 26 名巴基斯坦士兵死亡，另有 38 人受伤。
-- - 2012 年：香港文件共享网站 Megaupload 被 FBI 关闭。
-- - 2007 年：四人 N2i 团队仅使用滑雪板和风筝，完成了 1,093 英里（1,759 公里）的长途跋涉，自 1965 年以来首次到达人迹罕至的南极点，也是首次在没有机械辅助的情况下完成任务。
-- - 2007 年：土耳其裔亚美尼亚记者赫兰特·丁克 (Hrant Dink) 在其报纸伊斯坦布尔办事处前被 17 岁的土耳其极端民族主义者奥贡·萨马斯特 (Ogün Samast) 暗杀。
-- - 2006 年：斯洛伐克空军一架安东诺夫 An-24 飞机在匈牙利海伊采附近坠毁，造成 42 人死亡。
-- - 1999 年：英国航空航天公司同意收购通用电气公司的国防子公司，并于 1999 年 11 月成立 BAE Systems。
-- - 1997 年：亚西尔·阿拉法特时隔 30 多年重返希伯伦，参加以色列控制的最后一个西岸城市移交庆祝活动。
-- - 1996 年：驳船 North Cape 发生漏油事件，原因是拖船 Scandia 因发动机起火而被迫在罗德岛州南金斯敦月长石海滩上岸。
-- - 1995 年：布里斯托直升机 56C 航班的机组人员被闪电击中后被迫迫降。机上18人随后全部获救。
-- - 1993年：捷克共和国和斯洛伐克加入联合国。
-- - 1991 年：海湾战争：伊拉克向以色列发射第二枚飞毛腿导弹，造成 15 人受伤。
-- - 1990 年：由于叛乱，克什米尔潘伟迪从印控克什米尔的克什米尔山谷逃亡。
-- - 1988 年：跨科罗拉多航空公司 2286 号航班在科罗拉多州贝菲尔德坠毁，造成 9 人死亡。
-- - 1981 年：伊朗人质危机：美国和伊朗官员签署协议，释放被囚禁 14 个月的 52 名人质。
-- - 1978 年：德国制造的最后一辆大众甲壳虫汽车离开大众位于埃姆登的工厂。拉丁美洲的甲壳虫生产一直持续到 2003 年。
-- - 1977 年：杰拉尔德·福特总统赦免伊娃·托古里·达基诺（又名“东京玫瑰”）。
-- - 1969 年：三天前，学生扬·帕拉赫 (Jan Palach) 在布拉格瓦茨拉夫广场自焚，抗议 1968 年苏联入侵捷克斯洛伐克。他的葬礼变成了另一场重大抗议活动。
-- - 1966 年：英迪拉·甘地成为印度第一位女总理。
-- - 1960 年：斯堪的纳维亚航空公司 871 号航班在土耳其安卡拉埃森博阿机场附近坠毁，机上 42 人全部遇难。
-- - 1960年：日本和美国签署美日安全保障条约
-- - 1953 年：美国几乎 72% 的电视机都调到“我爱露西”来观看露西分娩。
-- - 1946 年：道格拉斯·麦克阿瑟将军在东京设立远东国际军事法庭来审判日本战犯。
-- - 1945 年：第二次世界大战：苏联军队解放罗兹隔都。1940 年，超过 20 万居民中只有不到 900 人在纳粹占领下幸存下来。
-- - 1942 年：第二次世界大战：日本开始征服缅甸。
-- - 1941 年：第二次世界大战：英国皇家海军“灰狗”号和 AS-12 护航舰队的其他护航舰在法尔科内拉东北 64 公里（40 英里）处合力击沉意大利潜艇“内盖利”。
-- - 1937 年：霍华德·休斯 (Howard Hughes) 在 7 小时 28 分 25 秒内从洛杉矶飞往纽约，创下了新的航空纪录。
-- - 1920 年：美国公民自由联盟 (ACLU) 成立。
-- - 1920 年：美国参议院投票反对加入国际联盟。
+- - 2025 年：唐纳德·特朗普就任美国第 47 任总统。他目前是有史以来最年长的就职者。
+- - 2021 年：乔·拜登就任美国第 46 任总统。在他就职时，他成为有史以来最年长的就职者。卡玛拉·哈里斯成为美国第一位女性副总统。
+- - 2018年：叙利亚内战：土耳其政府宣布发起阿夫林攻势，并开始炮击阿夫林地区叙利亚民主力量（SDF）阵地。
+- - 2018年：四五名枪手袭击阿富汗喀布尔洲际酒店，引发长达12小时的战斗。这次袭击造成 40 人死亡，多人受伤。
+- - 2017 年：唐纳德·特朗普就任美利坚合众国第 45 任总统。
+- - 2009年：随着2009年冰岛金融危机抗议活动的开始，冰岛的抗议运动达到顶峰。
+- - 2009年：巴拉克·奥巴马就任美国第44任总统，成为美国第一位非洲裔总统。
+- - 2001 年：菲律宾总统约瑟夫·埃斯特拉达在为期四天的非暴力革命中被赶下台，格洛丽亚·马卡帕加尔·阿罗约继任。
+- - 1992 年：Air Inter 148 号航班，一架空客 A320-111，在法国斯特拉斯堡附近坠入一座山，机上 96 人中的 87 人丧生。
+- - 1991年：苏丹政府在全国范围内推行伊斯兰教法，加剧了该国穆斯林北部和基督教南部之间的内战。
+- - 1990 年：阿塞拜疆发生抗议活动，这是苏联解体的一部分。
+- - 1986 年：莱索托首相莱​​阿布亚·乔纳森 (Leabua Jonathan) 在贾斯汀·莱卡尼亚 (Justin Lekhanya) 将军领导的政变中被赶下台。
+- - 1986 年：在美国，马丁·路德·金纪念日首次作为联邦假日进行庆祝。
+- - 1981 年：罗纳德·里根就任美国第 40 任总统 20 分钟后，伊朗释放了 52 名人质。
+- - 1974年：中国与南越海军发生军事交战后，中国控制了整个西沙群岛。
+- - 1973 年：几内亚比绍和佛得角独立运动领导人阿米尔卡·卡布拉尔在几内亚科纳克里遇刺身亡。
+- - 1972 年：巴基斯坦在孟加拉国解放战争以及 1971 年印巴战争中失败几周后，启动了核武器计划。
+- - 1961 年：约翰·肯尼迪就任美国第 35 任总统，成为当选该职位的最年轻的总统，也是第一位罗马天主教徒。
+- - 1954 年：在美国，全国黑人网络成立，拥有 40 个特许成员广播电台。
+- - 1953 年：德怀特·D·艾森豪威尔就任美国第 34 任总统，成为自第 20 条修正案改变总统任期日期以来第一位于 1 月 20 日开始就职的总统。
+- - 1945 年：第二次世界大战：德国开始从东普鲁士撤离 180 万人，这项任务需要近两个月的时间。
+- - 1945 年：第二次世界大战：匈牙利贝拉米克洛什临时政府同意与盟军停战。
+- - 1942年：第二次世界大战：在柏林郊区万湖举行的万湖会议上，纳粹德国高级官员讨论实施“犹太人问题的最终解决方案”。
+- - 1941 年：一名德国军官在罗马尼亚布加勒斯特被杀，引发铁卫队叛乱和大屠杀，造成 125 名犹太人和 30 名士兵死亡。
+- - 1937 年：富兰克林·罗斯福和约翰·南斯·加纳宣誓就任美国总统和副总统；这是自第 20 条修正案改变总统任期日期以来，首次在 1 月 20 日举行总统就职典礼。
+- - 1921年：土耳其第一部宪法通过，通过神圣化国家主权原则，对主权的来源和行使进行了根本性的改变。
+- - 1921年：英国K级潜艇HMS K5在英吉利海峡沉没；船上56人全部死亡。
+- - 1909 年：新成立的汽车制造商通用汽车 (GM) 收购了奥克兰汽车公司，该公司后来成为通用汽车长期运营的庞蒂亚克部门。
+- - 1887 年：美国参议院允许海军租赁珍珠港作为海军基地。
+- - 1877 年：君士坦丁堡会议的最后一天就巴尔干地区的政治改革达成了一致。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-01-19 02:06:35 UTC）*
+*（更新于: 2026-01-20 02:01:43 UTC）*
