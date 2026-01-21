@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: Donald Trump is inaugurated as the 47th President of the United States of America. He is currently the oldest person ever inaugurated.
-- 2021: Joe Biden is inaugurated as the 46th President of the United States of America. At the time of his inauguration, he became the oldest person ever inaugurated. Kamala Harris became the first female Vice President of the United States.
-- 2018: Syrian civil war: The Government of Turkey announces the initiation of the Afrin offensive and begins shelling Syrian Democratic Forces (SDF) positions in Afrin Region.
-- 2018: A group of four or five gunmen attack The Inter-Continental Hotel in Kabul, Afghanistan, sparking a 12-hour battle. The attack kills 40 people and injures many others.
-- 2017: Donald Trump is inaugurated as the 45th President of the United States of America.
-- 2009: A protest movement in Iceland culminates as the 2009 Icelandic financial crisis protests start.
-- 2009: Barack Obama is inaugurated as the 44th President of the United States of America, becoming the first African-American President of the United States.
-- 2001: President of the Philippines Joseph Estrada is ousted in a nonviolent four-day revolution, and is succeeded by Gloria Macapagal Arroyo.
-- 1992: Air Inter Flight 148, an Airbus A320-111, crashes into a mountain near Strasbourg, France, killing 87 of the 96 people on board.
-- 1991: Sudan's government imposes Islamic law nationwide, worsening the civil war between the country's Muslim north and Christian south.
-- 1990: Protests in Azerbaijan, part of the Dissolution of the Soviet Union.
-- 1986: Leabua Jonathan, Prime Minister of Lesotho, is ousted from power in a coup d'état led by General Justin Lekhanya.
-- 1986: In the United States, Martin Luther King Jr. Day is celebrated as a federal holiday for the first time.
-- 1981: Twenty minutes after Ronald Reagan is inaugurated as the 40th President of the United States of America, Iran releases 52 American hostages.
-- 1974: China gains control over all the Paracel Islands after a military engagement between the naval forces of China and South Vietnam.
-- 1973: Amílcar Cabral, leader of the independence movement in Guinea-Bissau and Cape Verde, is assassinated in Conakry, Guinea.
-- 1972: Pakistan launches its nuclear weapons program, a few weeks after its defeat in the Bangladesh Liberation War, as well as the Indo-Pakistani War of 1971.
-- 1961: John F. Kennedy is inaugurated as the 35th President of the United States of America, becoming the youngest man to be elected into that office, and the first Roman Catholic.
-- 1954: In the United States, the National Negro Network is established with 40 charter member radio stations.
-- 1953: Dwight D. Eisenhower is inaugurated as the 34th President of the United States of America, becoming the first president to begin his presidency on January 20 since the 20th Amendment changed the dates of presidential terms.
-- 1945: World War II: Germany begins the evacuation of 1.8 million people from East Prussia, a task which will take nearly two months.
-- 1945: World War II: The provisional government of Béla Miklós in Hungary agrees to an armistice with the Allies.
-- 1942: World War II: At the Wannsee Conference held in the Berlin suburb of Wannsee, senior Nazi German officials discuss the implementation of the "Final Solution to the Jewish question".
-- 1941: A German officer is killed in Bucharest, Romania, sparking a rebellion and pogrom by the Iron Guard, killing 125 Jews and 30 soldiers.
-- 1937: Franklin D. Roosevelt and John Nance Garner are sworn in for their second terms as U.S. President and U.S. Vice President; it is the first time a Presidential Inauguration takes place on January 20 since the 20th Amendment changed the dates of presidential terms.
-- 1921: The first Constitution of Turkey is adopted, making fundamental changes in the source and exercise of sovereignty by consecrating the principle of national sovereignty.
-- 1921: The British K-class submarine HMS K5 sinks in the English Channel; all 56 on board die.
-- 1909: Newly formed automaker General Motors (GM) buys into the Oakland Motor Car Company, which later becomes GM's long-running Pontiac division.
-- 1887: The United States Senate allows the Navy to lease Pearl Harbor as a naval base.
-- 1877: The last day of the Constantinople Conference results in agreement for political reforms in the Balkans.
+- 2025: A fire at the Grand Kartal Hotel in the Kartalkaya ski resort in Bolu Province, Turkey, results in 78 people dead and 51 injured.
+- 2023: Huu Can Tran, 72, opens fire in a dance studio in Monterey Park, California, killing eleven people and injuring nine others before later committing suicide. It is the worst mass shooting in Los Angeles County since the 2008 Covina massacre.
+- 2017: Over 400 cities across America and 160+ countries worldwide participate in a large-scale women's march, on Donald Trump's first full day as President of the United States.
+- 2014: Rojava conflict: The Jazira Canton declares its autonomy from the Syrian Arab Republic.
+- 2011: Anti-government demonstrations take place in Tirana, Albania. Four people died from gunshots, allegedly fired from armed police protecting the Prime Minister's office.
+- 2009: Israel withdraws from the Gaza Strip, officially ending a three-week war it had with Hamas. However, intermittent fire by both sides continues in the weeks to follow.
+- 2005: In Belmopan, Belize, the unrest over the government's new taxes erupts into riots.
+- 2004: NASA's MER-A (the Mars Rover Spirit) ceases communication with mission control. The problem lies in the management of its flash memory and is fixed remotely from Earth on February 6.
+- 2003: A 7.6 magnitude earthquake strikes the Mexican state of Colima, killing 29 and leaving approximately 10,000 people homeless.
+- 2000: Ecuador: After the Ecuadorian Congress is seized by indigenous organizations, Col. Lucio Gutiérrez, Carlos Solorzano and Antonio Vargas depose President Jamil Mahuad. Gutierrez is later replaced by Gen. Carlos Mendoza, who resigns and allows Vice-President Gustavo Noboa to succeed Mahuad.
+- 1999: War on Drugs: In one of the largest drug busts in American history, the United States Coast Guard intercepts a ship with over 4,300 kilograms (9,500 lb) of cocaine on board.
+- 1997: The U.S. House of Representatives votes 395-28 to reprimand Newt Gingrich for ethics violations, making him the first Speaker of the House to be so disciplined.
+- 1986: Conservative protestors attacked a mock shanty town that had been erected on the Green at Dartmouth College as part of anti-apartheid protests.
+- 1985: Galaxy Airlines Flight 203 crashes near Reno-Tahoe International Airport in Reno, Nevada, killing 70 people.
+- 1981: Production of the DeLorean sports car begins in Dunmurry, Northern Ireland, United Kingdom.
+- 1980: Iran Air Flight 291 crashes in the Alborz Mountains while on approach to Mehrabad International Airport in Tehran, Iran, killing 128 people.
+- 1976: Commercial service of Concorde begins with the London-Bahrain and Paris-Rio routes.
+- 1971: The current Emley Moor transmitting station, the tallest free-standing structure in the United Kingdom, begins transmitting UHF broadcasts.
+- 1968: A B-52 bomber crashes near Thule Air Base, contaminating the area after its nuclear payload ruptures. One of the four bombs remains unaccounted for after the cleanup operation is complete.
+- 1968: Vietnam War, Battle of Khe Sanh: One of the most publicized and controversial battles of the war begins.
+- 1963: The Chicago North Shore and Milwaukee Railroad ends operation.
+- 1960: A coal mine collapses at Holly Country, South Africa, killing 435 miners.
+- 1960: Avianca Flight 671 crashes at Montego Bay, Jamaica airport, killing 37 people.
+- 1960: Little Joe 1B, a Mercury spacecraft, lifts off from Wallops Island, Virginia with Miss Sam, a female rhesus monkey on board.
+- 1954: The first nuclear-powered submarine, the USS Nautilus, is launched in Groton, Connecticut by Mamie Eisenhower, the First Lady of the United States.
+- 1951: The catastrophic eruption of Mount Lamington in Papua New Guinea claims 2,942 lives.
+- 1950: American lawyer and government official Alger Hiss is convicted of perjury.
+- 1948: The Flag of Quebec is adopted and flown for the first time over the National Assembly of Quebec. The day is marked annually as Québec Flag Day.
+- 1943: As part of Operation Animals, British SOE saboteurs destroy the railway bridge over the Asopos River, and guerrillas of the Greek People's Liberation Army ambush and destroy a German convoy at the Battle of Sarantaporos.
+- 1942: The Jewish resistance organization, Fareynikte Partizaner Organizatsye, based in the Vilna Ghetto was established.
 
 Data from muffinlabs
-*(Updated at: 2026-01-20 02:01:43 UTC)*
+*(Updated at: 2026-01-21 02:04:37 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：唐纳德·特朗普就任美国第 47 任总统。他目前是有史以来最年长的就职者。
-- - 2021 年：乔·拜登就任美国第 46 任总统。在他就职时，他成为有史以来最年长的就职者。卡玛拉·哈里斯成为美国第一位女性副总统。
-- - 2018年：叙利亚内战：土耳其政府宣布发起阿夫林攻势，并开始炮击阿夫林地区叙利亚民主力量（SDF）阵地。
-- - 2018年：四五名枪手袭击阿富汗喀布尔洲际酒店，引发长达12小时的战斗。这次袭击造成 40 人死亡，多人受伤。
-- - 2017 年：唐纳德·特朗普就任美利坚合众国第 45 任总统。
-- - 2009年：随着2009年冰岛金融危机抗议活动的开始，冰岛的抗议运动达到顶峰。
-- - 2009年：巴拉克·奥巴马就任美国第44任总统，成为美国第一位非洲裔总统。
-- - 2001 年：菲律宾总统约瑟夫·埃斯特拉达在为期四天的非暴力革命中被赶下台，格洛丽亚·马卡帕加尔·阿罗约继任。
-- - 1992 年：Air Inter 148 号航班，一架空客 A320-111，在法国斯特拉斯堡附近坠入一座山，机上 96 人中的 87 人丧生。
-- - 1991年：苏丹政府在全国范围内推行伊斯兰教法，加剧了该国穆斯林北部和基督教南部之间的内战。
-- - 1990 年：阿塞拜疆发生抗议活动，这是苏联解体的一部分。
-- - 1986 年：莱索托首相莱​​阿布亚·乔纳森 (Leabua Jonathan) 在贾斯汀·莱卡尼亚 (Justin Lekhanya) 将军领导的政变中被赶下台。
-- - 1986 年：在美国，马丁·路德·金纪念日首次作为联邦假日进行庆祝。
-- - 1981 年：罗纳德·里根就任美国第 40 任总统 20 分钟后，伊朗释放了 52 名人质。
-- - 1974年：中国与南越海军发生军事交战后，中国控制了整个西沙群岛。
-- - 1973 年：几内亚比绍和佛得角独立运动领导人阿米尔卡·卡布拉尔在几内亚科纳克里遇刺身亡。
-- - 1972 年：巴基斯坦在孟加拉国解放战争以及 1971 年印巴战争中失败几周后，启动了核武器计划。
-- - 1961 年：约翰·肯尼迪就任美国第 35 任总统，成为当选该职位的最年轻的总统，也是第一位罗马天主教徒。
-- - 1954 年：在美国，全国黑人网络成立，拥有 40 个特许成员广播电台。
-- - 1953 年：德怀特·D·艾森豪威尔就任美国第 34 任总统，成为自第 20 条修正案改变总统任期日期以来第一位于 1 月 20 日开始就职的总统。
-- - 1945 年：第二次世界大战：德国开始从东普鲁士撤离 180 万人，这项任务需要近两个月的时间。
-- - 1945 年：第二次世界大战：匈牙利贝拉米克洛什临时政府同意与盟军停战。
-- - 1942年：第二次世界大战：在柏林郊区万湖举行的万湖会议上，纳粹德国高级官员讨论实施“犹太人问题的最终解决方案”。
-- - 1941 年：一名德国军官在罗马尼亚布加勒斯特被杀，引发铁卫队叛乱和大屠杀，造成 125 名犹太人和 30 名士兵死亡。
-- - 1937 年：富兰克林·罗斯福和约翰·南斯·加纳宣誓就任美国总统和副总统；这是自第 20 条修正案改变总统任期日期以来，首次在 1 月 20 日举行总统就职典礼。
-- - 1921年：土耳其第一部宪法通过，通过神圣化国家主权原则，对主权的来源和行使进行了根本性的改变。
-- - 1921年：英国K级潜艇HMS K5在英吉利海峡沉没；船上56人全部死亡。
-- - 1909 年：新成立的汽车制造商通用汽车 (GM) 收购了奥克兰汽车公司，该公司后来成为通用汽车长期运营的庞蒂亚克部门。
-- - 1887 年：美国参议院允许海军租赁珍珠港作为海军基地。
-- - 1877 年：君士坦丁堡会议的最后一天就巴尔干地区的政治改革达成了一致。
+- - 2025 年：土耳其博卢省 Kartalkaya 滑雪胜地的 Grand Kartal 酒店发生火灾，造成 78 人死亡、51 人受伤。
+- - 2023 年：72 岁的 Huu Can Tran 在加利福尼亚州蒙特利公园的一家舞蹈室开枪，造成 11 人死亡、9 人受伤，随后自杀。这是自2008年科维纳大屠杀以来洛杉矶县最严重的大规模枪击事件。
+- - 2017 年：唐纳德·特朗普就任美国总统的第一天，美国 400 多个城市和全球 160 多个国家/地区参加了大规模的妇女游行。
+- - 2014 年：罗贾瓦冲突：贾齐拉州宣布脱离阿拉伯叙利亚共和国自治。
+- - 2011年：阿尔巴尼亚地拉那发生反政府示威。四人死于枪击，据称是保卫总理办公室的武装警察开枪的。
+- - 2009年：以色列从加沙地带撤军，正式结束与哈马斯长达三周的战争。然而，双方的间歇性交火在接下来的几周内仍在继续。
+- - 2005年：在伯利兹贝尔莫潘，政府新税收引起的骚乱爆发为骚乱。
+- - 2004 年：NASA 的 MER-A（勇气号火星车）停止与任务控制中心的通信。问题出在闪存的管理上，并于 2 月 6 日在地球上远程修复。
+- - 2003 年：墨西哥科利马州发生 7.6 级地震，造成 29 人死亡，约 10,000 人无家可归。
+- - 2000年：厄瓜多尔：厄瓜多尔国会被土著组织夺取后，卢西奥·古铁雷斯上校、卡洛斯·索洛扎诺和安东尼奥·巴尔加斯废黜了总统贾米尔·马瓦德。古铁雷斯后来由卡洛斯·门多萨将军接替，后者辞职并允许副总统古斯塔沃·诺博亚接替马瓦德。
+- - 1999 年：禁毒战争：在美国历史上最大规模的缉毒行动之一中，美国海岸警卫队拦截了一艘船上载有超过 4,300 公斤（9,500 磅）可卡因的船只。
+- - 1997年：美国众议院以395票对28票谴责纽特·金里奇违反道德规范，使他成为第一位受到如此纪律处分的众议院议长。
+- - 1986 年：保守派抗议者袭击了达特茅斯学院草坪上搭建的模拟棚户区，作为反种族隔离抗议活动的一部分。
+- - 1985 年：银河航空 203 号航班在内华达州里诺市雷诺太浩国际机场附近坠毁，造成 70 人死亡。
+- - 1981 年：DeLorean 跑车在英国北爱尔兰邓默里开始生产。
+- - 1980 年：伊朗航空 291 号航班在飞往伊朗德黑兰梅赫拉巴德国际机场时在厄尔布尔士山脉坠毁，造成 128 人死亡。
+- - 1976 年：协和式飞机的商业服务开始于伦敦-巴林和巴黎-里约热内卢航线。
+- - 1971 年：目前英国最高的独立式建筑埃姆利摩尔发射站开始传输超高频广播。
+- - 1968 年：一架 B-52 轰炸机在图勒空军基地附近坠毁，其核有效载荷破裂后污染了该地区。清理工作完成后，四枚炸弹中的一枚仍然下落不明。
+- - 1968 年：越南战争，溪山战役：战争中最受关注和争议的战役之一开始。
+- - 1963 年：芝加哥北岸和密尔沃基铁路结束运营。
+- - 1960 年：南非 Holly Country 的一座煤矿崩塌，造成 435 名矿工死亡。
+- - 1960 年：哥伦比亚航空 671 号航班在牙买加蒙特哥湾机场坠毁，造成 37 人死亡。
+- - 1960 年：水星飞船小乔 1B 从弗吉尼亚州瓦洛普斯岛升空，船上载有雌性恒河猴山姆小姐。
+- - 1954 年：第一艘核动力潜艇“鹦鹉螺”号由美国第一夫人玛米·艾森豪威尔在康涅狄格州格罗顿下水。
+- - 1951 年：巴布亚新几内亚拉明顿火山灾难性喷发夺去了 2,942 人的生命。
+- - 1950 年：美国律师兼政府官员阿尔杰·希斯 (Alger Hiss) 被判伪证罪。
+- - 1948 年：魁北克国旗首次在魁北克国民议会上空飘扬。每年这一天被定为魁北克国旗日。
+- - 1943 年：作为动物行动的一部分，英国国有企业破坏者摧毁了阿索波斯河上的铁路桥，希腊人民解放军游击队在萨兰塔波罗斯战役中伏击并摧毁了一支德国车队。
+- - 1942 年：总部位于维尔纳隔都的犹太抵抗组织 Fareynikte Partizaner Organizatsye 成立。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-01-20 02:01:43 UTC）*
+*（更新于: 2026-01-21 02:04:37 UTC）*
