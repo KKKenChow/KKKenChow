@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Northwestern Air Flight 738 crashes after takeoff from Fort Smith Airport, Northwest Territories, Canada, killing six people.
-- 2022: Mutinying Burkinabè soldiers led by Paul-Henri Sandaogo Damiba depose and detain President Roch Marc Christian Kaboré amid widespread anti-government protests.
-- 2018: The China-United States trade war begins when President Donald Trump places tariffs on Chinese solar panels and washing machines.
-- 2018: A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials.
-- 2018: A 7.9 Mw  earthquake occurs in the Gulf of Alaska. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities.
-- 2003: A very weak signal from Pioneer 10 is detected for the last time, but no usable data can be extracted.
-- 2002: U.S. journalist Daniel Pearl is kidnapped in Karachi, Pakistan and subsequently murdered.
-- 2001: Five people attempt to set themselves on fire in Beijing's Tiananmen Square, an act that many people later claim is staged by the Chinese Communist Party to frame Falun Gong and thus escalate their persecution.
-- 1998: Netscape announces Mozilla, with the intention to release Communicator code as open source.
-- 1997: Madeleine Albright becomes the first woman to serve as United States Secretary of State.
-- 1987: Mohammed Said Hersi Morgan sends a "letter of death" to Somali President Siad Barre, proposing the genocide of the Isaaq people.
-- 1986: The Rock and Roll Hall of Fame inducts its first members: Little Richard, Chuck Berry, James Brown, Ray Charles, Sam Cooke, Fats Domino, The Everly Brothers, Buddy Holly, Jerry Lee Lewis and Elvis Presley.
-- 1982: World Airways Flight 30 overshoots the runway at Logan International Airport in Boston, Massachusetts, and crashes into Boston Harbor. Two people are missing and presumed dead.
-- 1968: USS Pueblo (AGER-2) is attacked and seized by the Korean People's Navy.
-- 1967: Milton Keynes (England) is founded as a new town by Order in Council, with a planning brief to become a city of 250,000 people. Its initial designated area enclosed three existing towns and twenty-one villages. The area to be developed was largely farmland, with evidence of continuous settlement dating back to the Bronze Age.
-- 1967: Diplomatic relations between the Soviet Union and Ivory Coast are established.
-- 1964: The 24th Amendment to the United States Constitution, prohibiting the use of poll taxes in national elections, is ratified.
-- 1963: The Guinea-Bissau War of Independence officially begins when PAIGC guerrilla fighters attack the Portuguese Army stationed in Tite.
-- 1960: The bathyscaphe USS Trieste breaks a depth record by descending to 10,911 metres (35,797 ft) in the Pacific Ocean.
-- 1958: After a general uprising and rioting in the streets, President Marcos Pérez Jiménez leaves Venezuela.
-- 1957: American inventor Walter Frederick Morrison sells the rights to his flying disc to the Wham-O toy company, which later renames it the "Frisbee".
-- 1950: The Knesset resolves that Jerusalem is the capital of Israel.
-- 1945: World War II: German admiral Karl Dönitz launches Operation Hannibal.
-- 1943: World War II: Troops of the British Eighth Army capture Tripoli in Libya from the German-Italian Panzer Army.
-- 1942: World War II: The Battle of Rabaul commences Japan's invasion of Australia's Territory of New Guinea.
-- 1941: Charles Lindbergh testifies before the U.S. Congress and recommends that the United States negotiate a neutrality pact with Adolf Hitler.
-- 1937: The trial of the anti-Soviet Trotskyist center sees seventeen mid-level Communists accused of sympathizing with Leon Trotsky and plotting to overthrow Joseph Stalin's regime.
-- 1920: The Netherlands refuses to surrender the exiled Kaiser Wilhelm II of Germany to the Allies.
-- 1919: The First Regional Congress of Peasants, Workers and Insurgents is held by the Makhnovshchina at Velykomykhailivka.
-- 1912: The First International Opium Convention is signed at The Hague.
+- 2018: Former doctor Larry Nassar is sentenced up to 175 years in prison after being found guilty of using his position to sexually abuse female gymnasts.
+- 2011: At least 35 are killed and 180 injured in a bombing at Moscow's Domodedovo Airport.
+- 2009: Cyclone Klaus makes landfall near Bordeaux, France, causing 26 deaths as well as extensive disruptions to public transport and power supplies.
+- 2003: The United States Department of Homeland Security officially begins operation.
+- 1990: Japan launches Hiten, the country's first lunar probe, the first robotic lunar probe since the Soviet Union's Luna 24 in 1976, and the first lunar probe launched by a country other than Soviet Union or the United States.
+- 1989: Notorious serial killer Ted Bundy, with over 30 known victims, is executed in the electric chair at the Florida State Prison.
+- 1987: About 20,000 protestors march in a civil rights demonstration in Forsyth County, Georgia, United States.
+- 1986: The Voyager 2 space probe makes its closest approach to Uranus.
+- 1984: Apple Computer places the Macintosh personal computer on sale in the United States.
+- 1978: Soviet satellite Kosmos 954, with a nuclear reactor on board, burns up in Earth's atmosphere, scattering radioactive debris over Canada's Northwest Territories. Only 1% is recovered.
+- 1977: The Atocha massacre occurs in Madrid during the Spanish transition to democracy.
+- 1972: Japanese Sgt. Shoichi Yokoi is found hiding in a Guam jungle, where he had been since the end of World War II.
+- 1968: Vietnam War: The 1st Australian Task Force launches Operation Coburg against the North Vietnamese Army and Viet Cong during wider fighting around Long Bình and Biên Hòa.
+- 1966: Air India Flight 101 crashes into Mont Blanc.
+- 1961: Goldsboro B-52 crash: A bomber carrying two H-bombs breaks up in mid-air over North Carolina. The uranium core of one weapon remains lost.
+- 1960: Algerian War: Some units of European volunteers in Algiers stage an insurrection known as the "barricades week", during which they seize government buildings and clash with local police.
+- 1946: The United Nations General Assembly passes its first resolution to establish the United Nations Atomic Energy Commission.
+- 1943: World War II: Franklin D. Roosevelt and Winston Churchill conclude a conference in Casablanca.
+- 1942: World War II: The Allies bombard Bangkok, leading Thailand, then under Japanese control, to declare war against the United States and United Kingdom.
+- 1939: The deadliest earthquake in Chilean history strikes Chillán, killing approximately 28,000 people.
+- 1935: Gottfried Krueger Brewing Company starts selling the first canned beer.
+- 1933: The 20th Amendment to the United States Constitution is ratified, changing the beginning and end of terms for all elected federal offices.
+- 1918: The Gregorian calendar is introduced in Russia by decree of the Council of People's Commissars effective February 14 (New Style).
+- 1916: In Brushaber v. Union Pacific Railroad Co., the Supreme Court of the United States declares the federal income tax constitutional.
+- 1915: World War I: British Grand Fleet battle cruisers under Vice-Admiral Sir David Beatty engage Rear-Admiral Franz von Hipper's battle cruisers in the Battle of Dogger Bank.
+- 1908: The first Boy Scout troop is organized in England by Robert Baden-Powell.
+- 1900: Second Boer War: Boers stop a British attempt to break the Siege of Ladysmith in the Battle of Spion Kop.
+- 1859: The United Principalities of Moldavia and Wallachia (later named Romania) is formed as a personal union under the rule of Domnitor Alexandru Ioan Cuza.
+- 1857: The University of Calcutta is formally founded as the first fully fledged university in South Asia.
+- 1848: California Gold Rush: James W. Marshall finds gold at Sutter's Mill near Sacramento.
 
 Data from muffinlabs
-*(Updated at: 2026-01-23 02:01:27 UTC)*
+*(Updated at: 2026-01-24 01:57:33 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：西北航空 738 号航班从加拿大西北地区史密斯堡机场起飞后坠毁，造成六人死亡。
-- - 2022 年：保罗-亨利·桑道戈·达米巴 (Paul-Henri Sandaogo Damiba) 领导的布基纳法索士兵在广泛的反政府抗议活动中废黜并拘留了总统罗赫·马克·克里斯蒂安·卡波雷 (Roch Marc Christian Kaboré)。
-- - 2018年：当唐纳德·特朗普总统对中国太阳能电池板和洗衣机征收关税时，中美贸易战开始。
-- - 2018 年：利比亚班加西发生双车爆炸事件，造成至少 33 人死亡，“数十人”受伤。据当地官员称，遇难者包括军人和平民。
-- - 2018 年：阿拉斯加湾发生 7.9 兆瓦地震。这是美国有记录以来第六大地震，但目前还没有重大损失或人员死亡的报告。
-- - 2003年：最后一次检测到来自先锋10号的非常微弱的信号，但无法提取可用的数据。
-- - 2002 年：美国记者 Daniel Pearl 在巴基斯坦卡拉奇被绑架，随后被谋杀。
-- - 2001年：五人试图在北京天安门广场自焚，许多人后来声称这一行为是中国共产党策划的，目的是陷害法轮功，从而加剧对法轮功的迫害。
-- - 1998 年：Netscape 宣布推出 Mozilla，旨在将 Communicator 代码作为开源发布。
-- - 1997 年：玛德琳·奥尔布赖特 (Madeleine Albright) 成为第一位担任美国国务卿的女性。
-- - 1987年：穆罕默德·赛义德·赫西·摩根向索马里总统西亚德·巴雷发出“死亡信”，提议对伊萨克人进行种族灭绝。
-- - 1986 年：摇滚名人堂引入第一批成员：Little Richard、Chuck Berry、James Brown、Ray Charles、Sam Cooke、Fats Domino、The Everly Brothers、Buddy Holly、Jerry Lee Lewis 和 Elvis Presley。
-- - 1982 年：世界航空公司 30 号航班冲出马萨诸塞州波士顿洛根国际机场的跑道，坠入波士顿港。两人失踪并被推定死亡。
-- - 1968 年：美国海军普韦布洛号 (AGER-2) 遭到朝鲜人民海军攻击并扣押。
-- - 1967 年：米尔顿凯恩斯（英格兰）根据议会命令建立了一个新城镇，并规划成为一座拥有 25 万人口的城市。其最初指定的区域包括三个现有城镇和二十一个村庄。待开发的地区主要是农田，有证据表明，自青铜时代以来就有持续的定居点。
-- - 1967年：苏联与科特迪瓦建立外交关系。
-- - 1964 年：美国宪法第 24 条修正案获得批准，禁止在全国选举中使用人头税。
-- - 1963 年：几内亚比绍独立战争正式开始，几佛独立党游击队攻击驻扎在蒂特的葡萄牙军队。
-- - 1960 年：“的里雅斯特”号深潜器在太平洋下潜至 10,911 米（35,797 英尺），打破了深度记录。
-- - 1958 年：街头普遍起义和骚乱之后，马科斯·佩雷斯·希门尼斯总统离开委内瑞拉。
-- - 1957 年：美国发明家沃尔特·弗雷德里克·莫里森 (Walter Frederick Morrison) 将其飞盘的版权出售给 Wham-O 玩具公司，该公司后来将其更名为“飞盘”。
-- - 1950 年：以色列议会决定耶路撒冷为以色列首都。
-- - 1945 年：第二次世界大战：德国海军上将卡尔·邓尼茨发起汉尼拔行动。
-- - 1943 年：第二次世界大战：英国第八集团军从德意装甲军手中夺取了利比亚的黎波里。
-- - 1942 年：第二次世界大战：拉包尔战役开始日本入侵澳大利亚新几内亚领土。
-- - 1941 年：查尔斯·林德伯格在美国国会作证并建议美国与阿道夫·希特勒谈判一项中立条约。
-- - 1937 年：反苏托洛茨基主义中心接受审判，十七名中层共产党人被指控同情列夫·托洛茨基并密谋推翻约瑟夫·斯大林政权。
-- - 1920 年：荷兰拒绝将流亡的德国德皇威廉二世移交给盟军。
-- - 1919年：马赫诺运动在维利科米哈利夫卡召开了第一届农民、工人和起义者地区代表大会。
-- - 1912 年：第一个国际鸦片公约在海牙签署。
+- - 2018 年：前医生拉里·纳萨尔 (Larry Nassar) 因利用职务之便对女体操运动员进行性虐待而被判处最高 175 年监禁。
+- - 2011 年：莫斯科多莫杰多沃机场发生爆炸，造成至少 35 人死亡、180 人受伤。
+- - 2009 年：旋风“克劳斯”在法国波尔多附近登陆，造成 26 人死亡，公共交通和电力供应严重中断。
+- - 2003年：美国国土安全部正式开始运作。
+- - 1990年：日本发射了该国第一个月球探测器Hiten，这是自1976年苏联Luna 24以来的第一个机器人月球探测器，也是苏联和美国以外的国家发射的第一个月球探测器。
+- - 1989 年：臭名昭著的连环杀手泰德·邦迪 (Ted Bundy) 在佛罗里达州监狱的电椅上被处决，已知受害者已超过 30 人。
+- - 1987 年：约 20,000 名抗议者在美国佐治亚州福赛斯县举行民权示威游行。
+- - 1986 年：旅行者 2 号太空探测器最接近天王星。
+- - 1984 年：Apple Computer 在美国销售 Macintosh 个人电脑。
+- - 1978 年：装有核反应堆的苏联卫星 Kosmos 954 在地球大气层中燃烧，放射性碎片散落在加拿大西北地区上空。仅恢复了 1%。
+- - 1977 年：西班牙向民主过渡期间，马德里发生阿托查大屠杀。
+- - 1972 年：日本中士。横井翔一被发现躲藏在关岛丛林中，自二战结束以来他一直待在那里。
+- - 1968 年：越南战争：澳大利亚第一特遣部队在隆平和边和周围的更广泛战斗中对北越军队和越共发起科堡行动。
+- - 1966 年：印度航空 101 号航班坠毁在勃朗峰。
+- - 1961 年：戈尔兹伯勒 B-52 坠毁：一架携带两枚氢弹的轰炸机在北卡罗来纳州上空解体。一种武器的铀核心仍然丢失。
+- - 1960年：阿尔及利亚战争：一些欧洲志愿者部队在阿尔及尔发动了一场被称为“路障周”的叛乱，在此期间他们占领了政府大楼并与当地警察发生冲突。
+- - 1946年：联合国大会通过第一项决议，成立联合国原子能委员会。
+- - 1943 年：第二次世界大战：富兰克林·罗斯福和温斯顿·丘吉尔在卡萨布兰卡结束会议。
+- - 1942 年：第二次世界大战：盟军轰炸曼谷，导致当时在日本控制下的泰国向美国和英国宣战。
+- - 1939 年：奇廉发生智利历史上最严重的地震，造成约 28,000 人死亡。
+- - 1935 年：戈特弗里德克鲁格啤酒公司开始销售第一批罐装啤酒。
+- - 1933 年：美国宪法第 20 条修正案获得批准，改变了所有民选联邦职位的任期开始和结束。
+- - 1918 年：根据人民委员会法令，俄罗斯采用公历，于 2 月 14 日生效（新历）。
+- - 1916 年：在 Brushaber 诉联合太平洋铁路公司案中，美国最高法院宣布联邦所得税符合宪法。
+- - 1915 年：第一次世界大战：海军中将大卫·贝蒂爵士指挥的英国大舰队战列巡洋舰在多格滩战役中与弗朗茨·冯·希佩尔少将的战列巡洋舰交战。
+- - 1908 年：罗伯特·贝登堡在英国组建了第一支童子军。
+- - 1900 年：第二次布尔战争：布尔人在斯皮恩科普战役中阻止了英国突破莱迪史密斯之围的企图。
+- - 1859 年：摩尔达维亚和瓦拉几亚联合公国（后来命名为罗马尼亚）在亚历山德鲁·伊万·库扎 (Domnitor Alexandru Ioan Cuza) 统治下成立。
+- - 1857 年：加尔各答大学正式成立，成为南亚第一所成熟的大学。
+- - 1848 年：加州淘金热：詹姆斯·W·马歇尔 (James W. Marshall) 在萨克拉门托附近的萨特磨坊 (Sutter's Mill) 发现了黄金。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-01-23 02:01:27 UTC）*
+*（更新于: 2026-01-24 01:57:33 UTC）*
