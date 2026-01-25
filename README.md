@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2018: Former doctor Larry Nassar is sentenced up to 175 years in prison after being found guilty of using his position to sexually abuse female gymnasts.
-- 2011: At least 35 are killed and 180 injured in a bombing at Moscow's Domodedovo Airport.
-- 2009: Cyclone Klaus makes landfall near Bordeaux, France, causing 26 deaths as well as extensive disruptions to public transport and power supplies.
-- 2003: The United States Department of Homeland Security officially begins operation.
-- 1990: Japan launches Hiten, the country's first lunar probe, the first robotic lunar probe since the Soviet Union's Luna 24 in 1976, and the first lunar probe launched by a country other than Soviet Union or the United States.
-- 1989: Notorious serial killer Ted Bundy, with over 30 known victims, is executed in the electric chair at the Florida State Prison.
-- 1987: About 20,000 protestors march in a civil rights demonstration in Forsyth County, Georgia, United States.
-- 1986: The Voyager 2 space probe makes its closest approach to Uranus.
-- 1984: Apple Computer places the Macintosh personal computer on sale in the United States.
-- 1978: Soviet satellite Kosmos 954, with a nuclear reactor on board, burns up in Earth's atmosphere, scattering radioactive debris over Canada's Northwest Territories. Only 1% is recovered.
-- 1977: The Atocha massacre occurs in Madrid during the Spanish transition to democracy.
-- 1972: Japanese Sgt. Shoichi Yokoi is found hiding in a Guam jungle, where he had been since the end of World War II.
-- 1968: Vietnam War: The 1st Australian Task Force launches Operation Coburg against the North Vietnamese Army and Viet Cong during wider fighting around Long Bình and Biên Hòa.
-- 1966: Air India Flight 101 crashes into Mont Blanc.
-- 1961: Goldsboro B-52 crash: A bomber carrying two H-bombs breaks up in mid-air over North Carolina. The uranium core of one weapon remains lost.
-- 1960: Algerian War: Some units of European volunteers in Algiers stage an insurrection known as the "barricades week", during which they seize government buildings and clash with local police.
-- 1946: The United Nations General Assembly passes its first resolution to establish the United Nations Atomic Energy Commission.
-- 1943: World War II: Franklin D. Roosevelt and Winston Churchill conclude a conference in Casablanca.
-- 1942: World War II: The Allies bombard Bangkok, leading Thailand, then under Japanese control, to declare war against the United States and United Kingdom.
-- 1939: The deadliest earthquake in Chilean history strikes Chillán, killing approximately 28,000 people.
-- 1935: Gottfried Krueger Brewing Company starts selling the first canned beer.
-- 1933: The 20th Amendment to the United States Constitution is ratified, changing the beginning and end of terms for all elected federal offices.
-- 1918: The Gregorian calendar is introduced in Russia by decree of the Council of People's Commissars effective February 14 (New Style).
-- 1916: In Brushaber v. Union Pacific Railroad Co., the Supreme Court of the United States declares the federal income tax constitutional.
-- 1915: World War I: British Grand Fleet battle cruisers under Vice-Admiral Sir David Beatty engage Rear-Admiral Franz von Hipper's battle cruisers in the Battle of Dogger Bank.
-- 1908: The first Boy Scout troop is organized in England by Robert Baden-Powell.
-- 1900: Second Boer War: Boers stop a British attempt to break the Siege of Ladysmith in the Battle of Spion Kop.
-- 1859: The United Principalities of Moldavia and Wallachia (later named Romania) is formed as a personal union under the rule of Domnitor Alexandru Ioan Cuza.
-- 1857: The University of Calcutta is formally founded as the first fully fledged university in South Asia.
-- 1848: California Gold Rush: James W. Marshall finds gold at Sutter's Mill near Sacramento.
+- 2019: A mining company's dam collapses in Brumadinho, Brazil, a south-eastern city, killing 270 people.
+- 2015: A clash in Mamasapano, Maguindanao in the Philippines kills 44 members of Special Action Force (SAF), at least 18 from the Moro Islamic Liberation Front and five from the Bangsamoro Islamic Freedom Fighters.
+- 2013: At least 50 people are killed and 120 people are injured in a prison riot in Barquisimeto, Venezuela.
+- 2011: The first wave of the Egyptian revolution begins throughout the country, marked by street demonstrations, rallies, acts of civil disobedience, riots, labour strikes, and violent clashes.
+- 2010: Ethiopian Airlines Flight 409 crashes into the Mediterranean Sea off the coast of Na'ameh, Lebanon, killing 90.
+- 2006: Mexican professional wrestler Juana Barraza is arrested in connection with the serial killing of at least ten elderly women.
+- 2005: A stampede at the Mandhradevi temple in Maharashtra, India kills at least 258.
+- 2003: Invasion of Iraq: A group of people leave London, England, for Baghdad, Iraq, to serve as human shields, intending to prevent the U.S.-led coalition troops from bombing certain locations.
+- 1999: A 6.0 magnitude earthquake hits western Colombia killing at least 1,000.
+- 1998: A suicide attack by the Liberation Tigers of Tamil Eelam on Sri Lanka's Temple of the Tooth kills eight and injures 25 others.
+- 1998: During a historic visit to Cuba, Pope John Paul II demands political reforms and the release of political prisoners while condemning US attempts to isolate the country.
+- 1996: Billy Bailey becomes the last person to be hanged in the United States.
+- 1995: The Norwegian rocket incident: Russia almost launches a nuclear attack after it mistakes Black Brant XII, a Norwegian research rocket, for a US Trident missile.
+- 1994: The spacecraft Clementine by BMDO and NASA is launched.
+- 1993: Five people are shot outside the CIA Headquarters in Langley, Virginia. Two are killed and three wounded.
+- 1990: Avianca Flight 052 crashes in Cove Neck, New York, killing 73.
+- 1986: The National Resistance Movement topples the government of Tito Okello in Uganda.
+- 1980: Mother Teresa is honored with India's highest civilian award, the Bharat Ratna.
+- 1979: Pope John Paul II starts his first official papal visits outside Italy to The Bahamas, Dominican Republic, and Mexico.
+- 1971: Idi Amin leads a coup deposing Milton Obote and becomes Uganda's president.
+- 1971: Charles Manson and four "Family" members (three of them female) are found guilty of the 1969 Tate-LaBianca murders.
+- 1969: Brazilian Army captain Carlos Lamarca deserts in order to fight against the military dictatorship, taking with him ten machine guns and 63 rifles.
+- 1967: South Vietnamese junta leader and Prime Minister Nguyen Cao Ky fires rival, Deputy Prime Minister and Defence Minister Nguyen Huu Co, while the latter is overseas on a diplomatic visit.
+- 1964: Blue Ribbon Sports, which would later become Nike, is founded by University of Oregon track and field athletes.
+- 1961: In Washington, D.C., US President John F. Kennedy delivers the first live presidential television news conference.
+- 1960: The National Association of Broadcasters in the United States reacts to the "payola" scandal by threatening fines for any disc jockeys who accept money for playing particular records.
+- 1949: The first Emmy Awards are presented in the United States; the venue is the Hollywood Athletic Club.
+- 1947: Thomas Goldsmith Jr. files a patent for a "Cathode Ray Tube Amusement Device", the first ever electronic game.
+- 1946: United Nations Security Council Resolution 1 relating to Military Staff Committee is adopted.
+- 1946: The United Mine Workers rejoins the American Federation of Labor.
 
 Data from muffinlabs
-*(Updated at: 2026-01-24 01:57:33 UTC)*
+*(Updated at: 2026-01-25 02:11:57 UTC)*
 
 # 历史上的今天 
 
-- - 2018 年：前医生拉里·纳萨尔 (Larry Nassar) 因利用职务之便对女体操运动员进行性虐待而被判处最高 175 年监禁。
-- - 2011 年：莫斯科多莫杰多沃机场发生爆炸，造成至少 35 人死亡、180 人受伤。
-- - 2009 年：旋风“克劳斯”在法国波尔多附近登陆，造成 26 人死亡，公共交通和电力供应严重中断。
-- - 2003年：美国国土安全部正式开始运作。
-- - 1990年：日本发射了该国第一个月球探测器Hiten，这是自1976年苏联Luna 24以来的第一个机器人月球探测器，也是苏联和美国以外的国家发射的第一个月球探测器。
-- - 1989 年：臭名昭著的连环杀手泰德·邦迪 (Ted Bundy) 在佛罗里达州监狱的电椅上被处决，已知受害者已超过 30 人。
-- - 1987 年：约 20,000 名抗议者在美国佐治亚州福赛斯县举行民权示威游行。
-- - 1986 年：旅行者 2 号太空探测器最接近天王星。
-- - 1984 年：Apple Computer 在美国销售 Macintosh 个人电脑。
-- - 1978 年：装有核反应堆的苏联卫星 Kosmos 954 在地球大气层中燃烧，放射性碎片散落在加拿大西北地区上空。仅恢复了 1%。
-- - 1977 年：西班牙向民主过渡期间，马德里发生阿托查大屠杀。
-- - 1972 年：日本中士。横井翔一被发现躲藏在关岛丛林中，自二战结束以来他一直待在那里。
-- - 1968 年：越南战争：澳大利亚第一特遣部队在隆平和边和周围的更广泛战斗中对北越军队和越共发起科堡行动。
-- - 1966 年：印度航空 101 号航班坠毁在勃朗峰。
-- - 1961 年：戈尔兹伯勒 B-52 坠毁：一架携带两枚氢弹的轰炸机在北卡罗来纳州上空解体。一种武器的铀核心仍然丢失。
-- - 1960年：阿尔及利亚战争：一些欧洲志愿者部队在阿尔及尔发动了一场被称为“路障周”的叛乱，在此期间他们占领了政府大楼并与当地警察发生冲突。
-- - 1946年：联合国大会通过第一项决议，成立联合国原子能委员会。
-- - 1943 年：第二次世界大战：富兰克林·罗斯福和温斯顿·丘吉尔在卡萨布兰卡结束会议。
-- - 1942 年：第二次世界大战：盟军轰炸曼谷，导致当时在日本控制下的泰国向美国和英国宣战。
-- - 1939 年：奇廉发生智利历史上最严重的地震，造成约 28,000 人死亡。
-- - 1935 年：戈特弗里德克鲁格啤酒公司开始销售第一批罐装啤酒。
-- - 1933 年：美国宪法第 20 条修正案获得批准，改变了所有民选联邦职位的任期开始和结束。
-- - 1918 年：根据人民委员会法令，俄罗斯采用公历，于 2 月 14 日生效（新历）。
-- - 1916 年：在 Brushaber 诉联合太平洋铁路公司案中，美国最高法院宣布联邦所得税符合宪法。
-- - 1915 年：第一次世界大战：海军中将大卫·贝蒂爵士指挥的英国大舰队战列巡洋舰在多格滩战役中与弗朗茨·冯·希佩尔少将的战列巡洋舰交战。
-- - 1908 年：罗伯特·贝登堡在英国组建了第一支童子军。
-- - 1900 年：第二次布尔战争：布尔人在斯皮恩科普战役中阻止了英国突破莱迪史密斯之围的企图。
-- - 1859 年：摩尔达维亚和瓦拉几亚联合公国（后来命名为罗马尼亚）在亚历山德鲁·伊万·库扎 (Domnitor Alexandru Ioan Cuza) 统治下成立。
-- - 1857 年：加尔各答大学正式成立，成为南亚第一所成熟的大学。
-- - 1848 年：加州淘金热：詹姆斯·W·马歇尔 (James W. Marshall) 在萨克拉门托附近的萨特磨坊 (Sutter's Mill) 发现了黄金。
+- - 2019 年：巴西东南部城市布鲁马迪尼奥一家矿业公司的大坝垮塌，造成 270 人死亡。
+- - 2015 年：菲律宾马京达瑙省马马萨帕诺的一场冲突造成 44 名特别行动部队 (SAF) 成员死亡，其中至少 18 名来自摩洛伊斯兰解放阵线，5 名来自邦萨摩洛伊斯兰自由战士。
+- - 2013年：委内瑞拉巴基西梅托监狱发生骚乱，造成至少50人死亡、120人受伤。
+- - 2011年：埃及革命的第一波浪潮在全国范围内爆发，以街头示威、集会、公民抗命、骚乱、罢工和暴力冲突为标志。
+- - 2010 年：埃塞俄比亚航空 409 号航班在黎巴嫩纳阿梅海岸附近坠入地中海，造成 90 人死亡。
+- - 2006 年：墨西哥职业摔跤手胡安娜·巴拉扎 (Juana Barraza) 因涉嫌连环杀害至少 10 名老年妇女而被捕。
+- - 2005 年：印度马哈拉施特拉邦 Mandhradevi 寺庙发生踩踏事件，造成至少 258 人死亡。
+- - 2003年：入侵伊拉克：一群人离开英国伦敦前往伊拉克巴格达充当人盾，意图阻止美国领导的联军轰炸某些地点。
+- - 1999 年：哥伦比亚西部发生 6.0 级地震，造成至少 1,000 人死亡。
+- - 1998 年：泰米尔伊拉姆猛虎解放组织对斯里兰卡佛牙寺发动自杀式袭击，造成 8 人死亡、25 人受伤。
+- - 1998年：在对古巴进行历史性访问期间，教皇约翰·保罗二世要求进行政治改革并释放政治犯，同时谴责美国孤立该国的企图。
+- - 1996 年：比利·贝利成为美国最后一个被绞死的人。
+- - 1995 年：挪威火箭事件：俄罗斯将挪威研究火箭 Black Brant XII 误认为是美国三叉戟导弹，差点发动核攻击。
+- - 1994 年：BMDO 和 NASA 的 Clementine 航天器发射升空。
+- - 1993 年：五人在弗吉尼亚州兰利的中央情报局总部外被枪杀。两人死亡，三人受伤。
+- - 1990 年：哥伦比亚航空 052 号航班在纽约州 Cove Neck 坠毁，造成 73 人死亡。
+- - 1986 年：乌干达全国抵抗运动推翻了铁托·奥凯洛政府。
+- - 1980 年：特蕾莎修女荣获印度最高平民奖 Bharat Ratna。
+- - 1979 年：教皇约翰·保罗二世开始他在意大利境外对巴哈马、多米尼加共和国和墨西哥的首次正式教皇访问。
+- - 1971 年：伊迪·阿明领导政变，推翻米尔顿·奥博特，成为乌干达总统。
+- - 1971 年：查尔斯·曼森和四名“家庭”成员（其中三名女性）被判犯有 1969 年泰特-拉比安卡谋杀案。
+- - 1969年：巴西陆军上尉卡洛斯·拉马卡为了反抗军事独裁而逃亡，并随身携带10挺机枪和63支步枪。
+- - 1967年：南越军政府领导人兼总理阮高其解雇了其竞争对手、副总理兼国防部长阮友错，当时后者正在海外进行外交访问。
+- - 1964 年：蓝丝带体育公司（后来成为耐克）由俄勒冈大学田径运动员创立。
+- - 1961 年：美国总统约翰·F·肯尼迪在华盛顿特区召开了第一次现场总统电视新闻发布会。
+- - 1960 年：美国全国广播协会对“payola”丑闻作出反应，威胁对任何收受播放特定唱片费用的唱片骑师处以罚款。
+- - 1949 年：第一届艾美奖在美国颁发；地点是好莱坞体育俱乐部。
+- - 1947 年：小托马斯·戈德史密斯 (Thomas Goldsmith Jr.) 申请了“阴极射线管娱乐设备”专利，这是有史以来第一个电子游戏。
+- - 1946年：联合国安理会通过有关军事参谋团的第1号决议。
+- - 1946 年：联合煤矿工人重新加入美国劳工联合会。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-01-24 01:57:33 UTC）*
+*（更新于: 2026-01-25 02:11:57 UTC）*
