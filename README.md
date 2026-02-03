@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: The Burmese military establishes the State Administration Council, the military junta, after deposing the democratically elected government in the 2021 Myanmar coup d'état.
-- 2012: The ferry MV Rabaul Queen sinks off the coast of Papua New Guinea near the Finschhafen District, with an estimated 146-165 dead.
-- 2007: Police officer Filippo Raciti is killed when a clash breaks out in the Sicily derby between Catania and Palermo, in the Serie A, the top flight of Italian football. This event led to major changes in stadium regulations in Italy.
-- 2005: The Government of Canada introduces the Civil Marriage Act. This legislation would become law on July 20, 2005, legalizing same-sex marriage.
-- 2004: Swiss tennis player Roger Federer becomes the No. 1 ranked men's singles player, a position he will hold for a record 237 weeks.
-- 2000: First digital cinema projection in Europe (Paris) realized by Philippe Binant with the DLP CINEMA technology developed by Texas Instruments.
-- 1998: Cebu Pacific Flight 387 crashes into Mount Sumagaya in the Philippines, killing all 104 people on board.
-- 1990: Apartheid: F. W. de Klerk announces the unbanning of the African National Congress and promises to release Nelson Mandela.
-- 1989: Soviet-Afghan War: The last Soviet armoured column leaves Kabul.
-- 1987: After the 1986 People Power Revolution, the Philippines enacts a new constitution.
-- 1982: Hama massacre: The government of Syria attacks the town of Hama.
-- 1980: Reports surface that the FBI is targeting allegedly corrupt Congressmen in the Abscam operation.
-- 1971: The international Ramsar Convention for the conservation and sustainable utilization of wetlands is signed in Ramsar, Mazandaran, Iran.
-- 1971: Idi Amin replaces President Milton Obote as leader of Uganda.
-- 1966: Pakistan suggests a six-point agenda with Kashmir after the Indo-Pakistani war of 1965.
-- 1959: Nine experienced ski hikers in the northern Ural Mountains in the Soviet Union die under mysterious circumstances.
-- 1954: The Detroit Red Wings played in the first outdoor hockey game by any NHL team in an exhibition against the Marquette Branch Prison Pirates in Marquette, Michigan.
-- 1943: World War II: The Battle of Stalingrad comes to an end when Soviet troops accept the surrender of the last organized German troops in the city.
-- 1942: The Osvald Group is responsible for the first, active event of anti-Nazi resistance in Norway, to protest the inauguration of Vidkun Quisling.
-- 1935: Leonarde Keeler administers polygraph tests to two murder suspects, the first time polygraph evidence was admitted in U.S. courts.
-- 1934: The Export-Import Bank of the United States is incorporated.
-- 1925: Serum run to Nome: Dog sleds reach Nome, Alaska with diphtheria serum, inspiring the Iditarod race.
-- 1922: The uprising called the "pork mutiny" starts in the region between Kuolajärvi and Savukoski in Finland.
-- 1922: Ulysses by James Joyce is published.
-- 1920: The Tartu Peace Treaty is signed between Estonia and Russia.
-- 1913: Grand Central Terminal opens in New York City.
-- 1909: The Paris Film Congress opens, an attempt by European producers to form an equivalent to the MPPC cartel in the United States.
-- 1901: Funeral of Queen Victoria.
-- 1900: Boston, Detroit, Milwaukee, Baltimore, Chicago and St. Louis, agree to form baseball's American League.
-- 1899: The Australian Premiers' Conference held in Melbourne decides to locate Australia's capital city, Canberra, between Sydney and Melbourne.
+- 2023: 2023 Ohio train derailment: A freight train containing vinyl chloride and other hazardous materials derails and burns in East Palestine, Ohio, United States, releasing hydrogen chloride and phosgene into the air and contaminating the Ohio River.
+- 2014: A school shooting in Moscow, Russia leaves 2 people dead and 1 wounded.
+- 2007: A Baghdad market bombing kills at least 135 people and injures a further 339.
+- 2005: One hundred five people are killed when Kam Air Flight 904 crashes in the Pamir Mountains in Afghanistan.
+- 1998: Cavalese cable car disaster: A United States military pilot causes the death of 20 people when his low-flying plane cuts the cable of a cable-car near Trento, Italy.
+- 1995: Astronaut Eileen Collins becomes the first woman to pilot the Space Shuttle as mission STS-63 gets underway from Kennedy Space Center in Florida.
+- 1994: Space Shuttle program: STS-60 is launched, carrying Sergei Krikalev, the first Russian cosmonaut to fly aboard the Shuttle.
+- 1989: A military coup overthrows Alfredo Stroessner, dictator of Paraguay since 1954.
+- 1989: After a stroke two weeks previously, South African President P. W. Botha resigns as leader of the National Party, but stays on as president for six more months.
+- 1984: Space Shuttle program: STS-41-B is launched using Space Shuttle Challenger.
+- 1984: Doctor John Buster and a research team at Harbor-UCLA Medical Center in the United States announce history's first embryo transfer, from one woman to another resulting in a live birth.
+- 1972: The first day of the seven-day 1972 Iran blizzard, which would kill at least 4,000 people, making it the deadliest snowstorm in history.
+- 1971: New York Police Officer Frank Serpico is shot during a drug bust in Brooklyn and survives to later testify against police corruption.
+- 1966: The Soviet Union's Luna 9 becomes the first spacecraft to make a soft landing on the Moon, and the first spacecraft to take pictures from the surface of the Moon.
+- 1961: The United States Air Force begins Operation Looking Glass, and over the next 30 years, a "Doomsday Plane" is always in the air, with the capability of taking direct control of the United States' bombers and missiles in the event of the destruction of the SAC's command post.
+- 1960: British Prime Minister Harold Macmillan speaks of "a wind of change", signalling that his Government was likely to support decolonisation.
+- 1959: Sixty-five people are killed when American Airlines Flight 320 crashes into the East River on approach to LaGuardia Airport in New York City.
+- 1959: Rock and roll musicians Buddy Holly, Ritchie Valens, and J. P. "The Big Bopper" Richardson are killed in a plane crash along with the pilot near Clear Lake, Iowa, an event later known as The Day the Music Died.
+- 1958: Founding of the Benelux Economic Union, creating a testing ground for a later European Economic Community.
+- 1953: The Batepá massacre occurred in São Tomé when the colonial administration and Portuguese landowners unleashed a wave of violence against the native creoles known as forros.
+- 1945: World War II: The United States and the Philippine Commonwealth begin a month-long battle to retake Manila from Japan.
+- 1945: World War II: As part of Operation Thunderclap, 1,000 B-17s of the Eighth Air Force bomb Berlin, a raid which kills between 2,500 and 3,000 and dehouses another 120,000.
+- 1944: World War II: During the Gilbert and Marshall Islands campaign, U.S. Army and Marine forces seize Kwajalein Atoll from the defending Japanese garrison.
+- 1943: The SS Dorchester is sunk by a German U-boat. Only 230 of 902 men aboard survive.
+- 1933: Adolf Hitler announces that the expansion of Lebensraum into Eastern Europe, and its ruthless Germanisation, are the ultimate geopolitical objectives of Nazi foreign policy.
+- 1931: The Hawke's Bay earthquake, New Zealand's worst natural disaster, kills 258.
+- 1930: The Communist Party of Vietnam is founded at a "Unification Conference" held in Kowloon, British Hong Kong.
+- 1927: A revolt against the military dictatorship of Portugal breaks out at Porto.
+- 1918: The Twin Peaks Tunnel in San Francisco, California begins service as the longest streetcar tunnel in the world at 11,920 feet (3,630 meters) long.
+- 1917: World War I: The American entry into World War I begins when diplomatic relations with Germany are severed due to its unrestricted submarine warfare.
 
 Data from muffinlabs
-*(Updated at: 2026-02-02 02:35:07 UTC)*
+*(Updated at: 2026-02-03 02:32:22 UTC)*
 
 # 历史上的今天 
 
-- - 2021年：缅甸军方在2021年缅甸政变中废黜民选政府后，成立了国家行政委员会，即军政府。
-- - 2012 年：MV Rabaul Queen 渡轮在巴布亚新几内亚 Finschhafen 区附近的海岸附近沉没，估计有 146-165 人死亡。
-- - 2007 年：意大利顶级联赛卡塔尼亚和巴勒莫之间的西西里德比中，警官菲利波·拉西蒂 (Filippo Raciti) 被杀。这一事件导致意大利体育场规则发生重大变化。
-- - 2005 年：加拿大政府推出《民事婚姻法》。该立法将于 2005 年 7 月 20 日成为法律，使同性婚姻合法化。
-- - 2004 年：瑞士网球运动员罗杰·费德勒 (Roger Federer) 成为男子单打排名第一的选手，他将这一位置保持了创纪录的 237 周。
-- - 2000 年：Philippe Binant 采用德州仪器 (TI) 开发的 DLP CINEMA 技术在欧洲（巴黎）实现了首个数字电影放映。
-- - 1998 年：宿务太平洋航空​​ 387 号航班在菲律宾坠毁于苏马加亚山，机上 104 人全部遇难。
-- - 1990 年：种族隔离：F. W. de Klerk 宣布解禁非洲人国民大会并承诺释放纳尔逊·曼德拉。
-- - 1989 年：苏阿战争：最后一支苏联装甲纵队离开喀布尔。
-- - 1987年：1986年人民权力革命后，菲律宾颁布了新宪法。
-- - 1982 年：哈马大屠杀：叙利亚政府袭击哈马镇。
-- - 1980 年：有报道称，FBI 在 Abscam 行动中瞄准了涉嫌腐败的国会议员。
-- - 1971年：保护和可持续利用湿地的国际拉姆萨尔公约在伊朗马赞德兰拉姆萨尔签署。
-- - 1971 年：伊迪·阿明取代米尔顿·奥博特总统成为乌干达领导人。
-- - 1966年：1965年印巴战争后，巴基斯坦提出了与克什米尔的六点议程。
-- - 1959 年：苏联乌拉尔山脉北部的九名经验丰富的滑雪徒步旅行者神秘死亡。
-- - 1954 年：底特律红翼队在密歇根州马凯特对阵马凯特分监狱海盗队的表演赛中，参加了 NHL 球队的第一场户外曲棍球比赛。
-- - 1943 年：第二次世界大战：斯大林格勒战役结束，苏联军队接受了该市最后一批有组织的德国军队的投降。
-- - 1942 年：奥斯瓦尔德集团在挪威发起了第一场活跃的反纳粹抵抗活动，以抗议维德孔·吉斯林的就职典礼。
-- - 1935 年：Leonarde Keeler 对两名谋杀嫌疑人进行测谎测试，这是美国法院首次承认测谎证据。
-- - 1934 年：美国进出口银行成立。
-- - 1925 年：血清运往诺姆：狗拉雪橇带着白喉血清到达阿拉斯加诺姆，激发了艾迪塔罗德竞赛的灵感。
-- - 1922 年：芬兰 Kuolajärvi 和 Savukoski 之间的地区爆发了名为“猪肉兵变”的起义。
-- - 1922 年：詹姆斯·乔伊斯的《尤利西斯》出版。
-- - 1920年：爱沙尼亚和俄罗斯签署塔尔图和平条约。
-- - 1913 年：纽约中央车站启用。
-- - 1909 年：巴黎电影大会开幕，欧洲制片人试图组建类似于美国 MPPC 卡特尔的组织。
-- - 1901 年：维多利亚女王的葬礼。
-- - 1900 年：波士顿、底特律、密尔沃基、巴尔的摩、芝加哥和圣路易斯同意组建美国棒球联盟。
-- - 1899年：在墨尔本举行的澳大利亚总理会议决定将澳大利亚首都堪培拉设在悉尼和墨尔本之间。
+- - 2023年：2023年俄亥俄州火车脱轨：一列含有氯乙烯和其他有害物质的货运列车在美国俄亥俄州东巴勒斯坦脱轨并燃烧，将氯化氢和光气释放到空气中并污染俄亥俄河。
+- - 2014年：俄罗斯莫斯科发生校园枪击事件，造成2人死亡、1人受伤。
+- - 2007 年：巴格达市场爆炸事件造成至少 135 人死亡、339 人受伤。
+- - 2005 年：卡姆航空 904 号航班在阿富汗帕米尔山区坠毁，造成 105 人死亡。
+- - 1998 年：卡瓦莱塞缆车灾难：一名美国军事飞行员驾驶的低空飞行的飞机切断了意大利特伦托附近的缆车电缆，造成 20 人死亡。
+- - 1995 年：随着 STS-63 任务从佛罗里达州肯尼迪航天中心开始，宇航员艾琳·柯林斯 (Eileen Collins) 成为第一位驾驶航天飞机的女性。
+- - 1994 年：航天飞机计划：STS-60 发射升空，搭载第一位乘坐航天飞机的俄罗斯宇航员谢尔盖·克里卡列夫 (Sergei Krikalev)。
+- - 1989 年：一场军事政变推翻了自 1954 年起担任巴拉圭独裁者的阿尔弗雷多·斯特罗斯纳 (Alfredo Stroessner)。
+- - 1989 年：两周前中风后，南非总统 P. W. Botha 辞去国家党领袖职务，但仍继续担任总统六个月。
+- - 1984 年：航天飞机计划：STS-41-B 使用挑战者号航天飞机发射。
+- - 1984 年：美国哈伯-加州大学洛杉矶分校医疗中心的约翰·巴斯特 (John Buster) 医生和研究小组宣布历史上首次胚胎移植，从一名女性到另一名女性，从而实现了活产。
+- - 1972 年：1972 年伊朗暴风雪持续 7 天的第一天，这场暴风雪导致至少 4,000 人死亡，成为历史上最致命的暴风雪。
+- - 1971 年：纽约警官弗兰克·塞尔皮科 (Frank Serpico) 在布鲁克林缉毒行动中被枪杀，幸存下来并在后来出庭作证指控警察腐败。
+- - 1966年：苏联的Luna 9号成为第一个在月球上软着陆的航天器，也是第一个从月球表面拍摄照片的航天器。
+- - 1961年：美国空军开始“镜子行动”，在接下来的30年里，空中始终有一架“末日飞机”，一旦SAC指挥所被摧毁，它就能直接控制美国的轰炸机和导弹。
+- - 1960 年：英国首相哈罗德·麦克米伦谈到“变革之风”，表明他的政府可能支持非殖民化。
+- - 1959 年：美国航空 320 航班在飞往纽约拉瓜迪亚机场时坠入东河，造成 65 人死亡。
+- - 1959 年：摇滚音乐家巴迪·霍利 (Buddy Holly)、里奇·瓦伦斯 (Ritchie Valens) 和 J. P. “The Big Bopper”·理查森 (J. P. “The Big Bopper”) 理查森在爱荷华州克利尔湖 (Clear Lake) 附近的一次飞机失事中与飞行员一起丧生，这一事件后来被称为“音乐消逝之日”。
+- - 1958 年：比荷卢经济联盟成立，为后来的欧洲经济共同体创造了试验场。
+- - 1953 年：圣多美发生巴特帕大屠杀，当时殖民政府和葡萄牙地主对当地克里奥尔人（福罗斯人）发动了暴力浪潮。
+- - 1945 年：第二次世界大战：美国和菲律宾联邦为从日本手中夺回马尼拉而展开为期一个月的战斗。
+- - 1945 年：第二次世界大战：作为雷霆行动的一部分，第八空军的 1,000 架 B-17 轰炸了柏林，这次袭击造成 2,500 至 3,000 人死亡，另有 120,000 人被炸毁。
+- - 1944 年：第二次世界大战：在吉尔伯特和马绍尔群岛战役中，美国陆军和海军陆战队从日本驻军手中夺取了夸贾林环礁。
+- - 1943 年：SS 多切斯特号被德国 U 型潜艇击沉。船上 902 人中只有 230 人幸存。
+- - 1933 年：阿道夫·希特勒宣布，将生存空间扩展到东欧及其无情的德国化是纳粹外交政策的最终地缘政治目标。
+- - 1931 年：新西兰最严重的自然灾害霍克湾地震造成 258 人死亡。
+- - 1930年：在英属香港九龙举行的“统一会议”上，越南共产党成立。
+- - 1927 年：波尔图爆发反对葡萄牙军事独裁的起义。
+- - 1918 年：加利福尼亚州旧金山的双峰隧道开始运营，是世界上最长的有轨电车隧道，长​​ 11,920 英尺（3,630 米）。
+- - 1917 年：第一次世界大战：美国因德国不受限制的潜艇战而与德国断绝外交关系，美国开始加入第一次世界大战。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-02-02 02:35:07 UTC）*
+*（更新于: 2026-02-03 02:32:22 UTC）*
