@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: Ten people are killed in a mass shooting at an adult education centre in Örebro, Sweden.
-- 2020: The COVID-19 pandemic causes all casinos in Macau to be closed down for 15 days.
-- 2015: TransAsia Airways Flight 235, with 58 people on board, en route from the Taiwanese capital Taipei to Kinmen, crashes into the Keelung River just after takeoff, killing 43 people.
-- 2008: Civic mobilizations in Colombia against FARC, under the name A million voices against the FARC.
-- 2004: Facebook, a mainstream online social networking site, is founded by Mark Zuckerberg and Eduardo Saverin.
-- 2003: The Federal Republic of Yugoslavia adopts a new constitution, becoming a loose confederacy between Montenegro and Serbia.
-- 2000: The World Summit Against Cancer for the New Millennium, Charter of Paris is signed by the President of France, Jacques Chirac and the Director General of UNESCO, Koichiro Matsuura, initiating World Cancer Day which is held on February 4 every year.
-- 1999: Unarmed West African immigrant Amadou Diallo is shot 41 times by four plainclothes New York City police officers on an unrelated stake-out, inflaming race relations in the city.
-- 1998: The 5.9 Mw  Afghanistan earthquake shakes the Takhar Province with a maximum Mercalli intensity of VII (Very strong). With 2,323 killed, and 818 injured, damage is considered extreme.
-- 1997: The Bojnurd earthquake measuring Mw  6.5 strikes Iran. With a Mercalli intensity of VIII, it kills at least 88 and damages 173 villages.
-- 1997: En route to Lebanon, two Israeli Sikorsky CH-53 troop-transport helicopters collide in mid-air over northern Galilee, Israel, killing 73.
-- 1992: A coup d'état is led by Hugo Chávez against Venezuelan President Carlos Andrés Pérez.
-- 1977: A Chicago Transit Authority elevated train rear-ends another and derails, killing 11 and injuring 180, the worst accident in the agency's history.
-- 1976: In Guatemala and Honduras an earthquake kills more than 22,000.
-- 1975: Haicheng earthquake (magnitude 7.3 on the Richter scale) occurs in Haicheng, Liaoning, China.
-- 1974: M62 coach bombing: The Provisional Irish Republican Army (IRA) explodes a bomb on a bus carrying off-duty British Armed Forces personnel in Yorkshire, England. Nine soldiers and three civilians are killed.
-- 1974: The Symbionese Liberation Army kidnaps Patty Hearst in Berkeley, California.
-- 1967: Lunar Orbiter program: Lunar Orbiter 3 lifts off from Cape Canaveral's Launch Complex 13 on its mission to identify possible landing sites for the Surveyor and Apollo spacecraft.
-- 1966: All Nippon Airways Flight 60 plunges into Tokyo Bay, killing 133.
-- 1961: The Angolan War of Independence and the greater Portuguese Colonial War begin.
-- 1948: Ceylon (later renamed Sri Lanka) becomes independent within the British Commonwealth.
-- 1945: World War II: The British Indian Army and Imperial Japanese Army begin a series of battles known as the Battle of Pokoku and Irrawaddy River operations.
-- 1945: World War II: The Yalta Conference between the "Big Three" (Churchill, Roosevelt, and Stalin) opens at the Livadia Palace in the Crimea.
-- 1945: World War II: Santo Tomas Internment Camp is liberated from Japanese authority.
-- 1941: The United Service Organization (USO) is created to entertain American troops.
-- 1938: Adolf Hitler appoints himself as head of the Armed Forces High Command.
-- 1932: Second Sino-Japanese War: Harbin, Manchuria, falls to Japan.
-- 1899: The Philippine-American War begins when four Filipino soldiers enter the "American Zone" in Manila, igniting the Battle of Manila.
-- 1861: American Civil War: In Montgomery, Alabama, delegates from six breakaway U.S. states meet and initiate the process that would form the Confederate States of America on February 8.
-- 1859: The Codex Sinaiticus is discovered in Egypt.
+- 2021: Police riot in Mexico City as they try to break up a demonstration by cyclists who were protesting after a bus ran over a bicyclist. Eleven police officers are arrested.
+- 2020: Pegasus Airlines Flight 2193 overshoots the runway at Sabiha Gökçen International Airport and crashes, killing three people and injuring 179.
+- 2020: United States President Donald Trump is acquitted by the United States Senate in his first impeachment trial.
+- 2019: Pope Francis becomes the first Pope in history to visit and perform papal mass in the Arabian Peninsula during his visit to Abu Dhabi.
+- 2016: New Zealand politician Steven Joyce is hit by a flung rubber dildo in a Waitangi Day protest.
+- 2008: A major tornado outbreak across the Southern United States kills 57.
+- 2004: Rebels from the Revolutionary Artibonite Resistance Front capture the city of Gonaïves, starting the 2004 Haiti rebellion.
+- 2000: Russian forces massacre at least 60 civilians in the Novye Aldi suburb of Grozny, Chechnya.
+- 1997: The so-called Big Three banks in Switzerland announce the creation of a $71 million fund to aid Holocaust survivors and their families.
+- 1994: Markale massacres, more than 60 people are killed and some 200 wounded as a mortar shell explodes in a downtown marketplace in Sarajevo.
+- 1994: Byron De La Beckwith is convicted of the 1963 murder of civil rights leader Medgar Evers.
+- 1988: Manuel Noriega is indicted on drug smuggling and money laundering charges.
+- 1985: Ugo Vetere, then the mayor of Rome, and Chedli Klibi, then the mayor of Carthage, meet in Tunis to sign a treaty of friendship officially ending the Third Punic War which lasted 2,131 years.
+- 1981: Operation Soap: The Metropolitan Toronto Police Force raids four gay bathhouses in Toronto, Ontario, Canada, arresting just under 300, triggering mass protest and rallies.
+- 1975: Riots break out in Lima, Peru after the police forces go on strike the day before. The uprising (locally known as the Limazo) is bloodily suppressed by the military dictatorship.
+- 1971: Astronauts land on the Moon in the Apollo 14 mission.
+- 1967: Cultural Revolution: The Shanghai People's Commune is formally proclaimed, with Yao Wenyuan and Zhang Chunqiao being appointed as its leaders.
+- 1963: The European Court of Justice's ruling in Van Gend en Loos v Nederlandse Administratie der Belastingen establishes the principle of direct effect, one of the most important, if not the most important, decisions in the development of European Union law.
+- 1962: French President Charles de Gaulle calls for Algeria to be granted independence.
+- 1958: A hydrogen bomb known as the Tybee Bomb is lost by the US Air Force off the coast of Savannah, Georgia, never to be recovered.
+- 1958: Gamal Abdel Nasser is nominated to be the first president of the United Arab Republic.
+- 1945: World War II: General Douglas MacArthur returns to Manila.
+- 1941: World War II: Allied forces begin the Battle of Keren to capture Keren, Eritrea.
+- 1939: Generalísimo Francisco Franco becomes the 68th "Caudillo de España", or Leader of Spain.
+- 1933: Mutiny on Royal Netherlands Navy warship HNLMS De Zeven Provinciën off the coast of Sumatra, Dutch East Indies.
+- 1924: The Royal Greenwich Observatory begins broadcasting the hourly time signals known as the Greenwich Time Signal.
+- 1919: Charlie Chaplin, Mary Pickford, Douglas Fairbanks, and D. W. Griffith launch United Artists.
+- 1918: SS Tuscania is torpedoed off the coast of Ireland; it is the first ship carrying American troops to Europe to be torpedoed and sunk.
+- 1918: Stephen W. Thompson shoots down a German airplane; this is the first aerial victory by the U.S. military.
+- 1917: The Congress of the United States passes the Immigration Act of 1917 over President Woodrow Wilson's veto.
 
 Data from muffinlabs
-*(Updated at: 2026-02-04 02:26:32 UTC)*
+*(Updated at: 2026-02-05 02:28:16 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：瑞典厄勒布鲁一所成人教育中心发生大规模枪击事件，造成 10 人死亡。
-- - 2020 年：COVID-19 大流行导致澳门所有赌场关闭 15 天。
-- - 2015年：复兴航空235号航班，机上载有58人，从台湾首都台北飞往金门，起飞后不久坠入基隆河，造成43人死亡。
-- - 2008年：哥伦比亚以“百万反对哥伦比亚革命武装力量”的名义开展公民动员反对哥伦比亚革命武装力量。
-- - 2004年：主流在线社交网站Facebook由马克·扎克伯格和爱德华多·萨维林创立。
-- - 2003年：南斯拉夫联盟共和国通过新宪法，成为黑山和塞尔维亚之间的松散邦联。
-- - 2000年：新千年世界抗癌峰会、法国总统雅克·希拉克和联合国教科文组织总干事松浦晃一郎签署《巴黎宪章》，发起每年2月4日为世界癌症日。
-- - 1999 年：手无寸铁的西非移民阿马杜·迪亚洛 (Amadou Diallo) 在一次无关的监视行动中被纽约市四名便衣警察连开 41 枪，激化了该市的种族关系。
-- - 1998 年：阿富汗 5.9 兆瓦地震震动了塔哈尔省，最大 Mercalli 烈度为 VII（非常强）。造成 2,323 人死亡、818 人受伤，损失极其严重。
-- - 1997 年：伊朗发生里氏 6.5 级的博琼德地震。麦卡利强度为 VIII，造成至少 88 人死亡，173 个村庄受损。
-- - 1997 年：在飞往黎巴嫩的途中，两架以色列西科斯基 CH-53 运兵直升机在以色列加利利北部上空相撞，造成 73 人死亡。
-- - 1992 年：乌戈·查韦斯领导的政变推翻了委内瑞拉总统卡洛斯·安德烈斯·佩雷斯。
-- - 1977 年：芝加哥交通管理局的一列高架列车与另一列列车追尾并脱轨，造成 11 人死亡、180 人受伤，这是该机构历史上最严重的事故。
-- - 1976 年：危地马拉和洪都拉斯发生地震，造成 22,000 多人死亡。
-- - 1975年：中国辽宁省海城发生里氏7.3级地震。
-- - 1974 年：M62 客车爆炸事件：爱尔兰临时共和军 (IRA) 在英国约克郡一辆载有下班的英国武装部队人员的巴士上爆炸了一枚炸弹。九名士兵和三名平民被杀。
-- - 1974 年：共生解放军在加利福尼亚州伯克利绑架了帕蒂·赫斯特。
-- - 1967 年：月球轨道飞行器计划：月球轨道飞行器 3 从卡纳维拉尔角的 13 号发射场升空，其任务是确定测量者号和阿波罗号航天器可能的着陆点。
-- - 1966 年：全日空航空公司 60 号航班坠入东京湾，造成 133 人死亡。
-- - 1961 年：安哥拉独立战争和葡萄牙殖民战争爆发。
-- - 1948 年：锡兰（后更名为斯里兰卡）在英联邦内独立。
-- - 1945 年：第二次世界大战：英属印度陆军和日本帝国陆军开始了一系列战役，称为博科库战役和伊洛瓦底江战役。
-- - 1945 年：第二次世界大战：“三巨头”（丘吉尔、罗斯福和斯大林）之间的雅尔塔会议在克里米亚的里瓦几亚宫开幕。
-- - 1945 年：第二次世界大战：圣托马斯集中营从日本当局手中解放。
-- - 1941 年：联合军种组织 (USO) 成立，旨在招待美国军队。
-- - 1938 年：阿道夫·希特勒任命自己为武装部队最高司令部司令。
-- - 1932年：第二次中日战争：满洲哈尔滨落入日本手中。
-- - 1899年：菲律宾-美国战争爆发，四名菲律宾士兵进入马尼拉的“美国区”，引发了马尼拉战役。
-- - 1861 年：美国内战：在阿拉巴马州蒙哥马利，来自美国六个分裂国家的代表齐聚一堂，启动了 2 月 8 日成立美利坚联盟国的进程。
-- - 1859 年：《西奈抄本》在埃及被发现。
+- - 2021 年：墨西哥城警察发生骚乱，因为他们试图驱散骑自行车的人的示威活动，这些骑自行车的人在一辆公共汽车碾压骑自行车的人后进行抗议。十一名警察被捕。
+- - 2020 年：飞马航空 2193 号航班冲出萨比哈·格克琴国际机场跑道并坠毁，造成 3 人死亡、179 人受伤。
+- - 2020 年：美国总统唐纳德·特朗普在首次弹劾审判中被美国参议院宣告无罪。
+- - 2019年：教皇方济各在访问阿布扎比期间成为历史上第一位访问阿拉伯半岛并进行教皇弥撒的教皇。
+- - 2016 年：新西兰政客史蒂文·乔伊斯在怀唐伊日抗议活动中被飞出的橡胶假阳具击中。
+- - 2008 年：美国南部爆发一场大型龙卷风，造成 57 人死亡。
+- - 2004 年：阿蒂博尼特革命抵抗阵线的叛军占领戈纳伊夫市，引发 2004 年海地叛乱。
+- - 2000 年：俄罗斯军队在车臣格罗兹尼的 Novye Aldi 郊区屠杀了至少 60 名平民。
+- - 1997 年：瑞士所谓的三大银行宣布设立一项 7100 万美元的基金来援助大屠杀幸存者及其家人。
+- - 1994 年：马卡莱大屠杀，一枚迫击炮弹在萨拉热窝市中心市场爆炸，造成 60 多人死亡、约 200 人受伤。
+- - 1994 年：拜伦·德拉·贝克维斯因 1963 年谋杀民权领袖梅德加·埃弗斯而被定罪。
+- - 1988 年：曼努埃尔·诺列加因毒品走私和洗钱罪被起诉。
+- - 1985年：时任罗马市长乌戈·维泰雷和时任迦太基市长切德利·克里比在突尼斯会面，签署友好条约，正式结束持续2131年的第三次布匿战争。
+- - 1981年：肥皂行动：多伦多警察局突袭加拿大安大略省多伦多市的四家同性恋浴室，逮捕近300人，引发大规模抗议和集会。
+- - 1975 年：秘鲁利马警察部队前一天罢工后爆发骚乱。起义（当地称为利马索）遭到军事独裁的血腥镇压。
+- - 1971 年：宇航员在阿波罗 14 号任务中登陆月球。
+- - 1967年：文化大革命：上海人民公社正式宣告成立，姚文元、张春桥被任命为公社领导人。
+- - 1963 年：欧洲法院在 Van Gend en Loos 诉 Nederlandse Administratie der Belasten 案中的裁决确立了直接效力原则，这是欧盟法律发展过程中最重要的（即使不是最重要的）裁决之一。
+- - 1962 年：法国总统戴高乐呼吁给予阿尔及利亚独立。
+- - 1958 年：美国空军在佐治亚州萨凡纳海岸丢失了一颗被称为“泰碧炸弹”的氢弹，至今无法找回。
+- - 1958 年：贾迈勒·阿卜杜勒·纳赛尔被提名为阿拉伯联合共和国第一任总统。
+- - 1945 年：第二次世界大战：道格拉斯·麦克阿瑟将军返回马尼拉。
+- - 1941 年：第二次世界大战：盟军开始克伦战役，占领厄立特里亚克伦。
+- - 1939 年：弗朗西斯科·佛朗哥大元帅成为第 68 任“西班牙领袖”，即西班牙领导人。
+- - 1933 年：荷兰皇家海军战舰 HNLMS De Zeven Provinciën 在荷属东印度群岛苏门答腊岛海岸发生兵变。
+- - 1924 年：皇家格林威治天文台开始广播每小时的时间信号，称为格林威治时间信号。
+- - 1919 年：查理·卓别林、玛丽·碧克馥、道格拉斯·费尔班克斯和 D. W. 格里菲斯创立了联美公司。
+- - 1918 年：SS Tuscania 在爱尔兰海岸被鱼雷击中；这是第一艘运送美国军队前往欧洲被鱼雷击沉的船只。
+- - 1918 年：史蒂芬·W·汤普森 (Stephen W. Thompson) 击落一架德国飞机；这是美军首次取得空中胜利。
+- - 1917 年：美国国会不顾伍德罗·威尔逊总统的否决，通过了《1917 年移民法》。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-02-04 02:26:32 UTC）*
+*（更新于: 2026-02-05 02:28:16 UTC）*
