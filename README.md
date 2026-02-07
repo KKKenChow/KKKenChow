@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: Two earthquakes measuring .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Mww 7.8 and 7.5 struck near the border between Turkey and Syria with a maximum Mercalli intensity of XII (Extreme). The earthquakes resulted in numerous aftershocks and a death toll of 57,658 people.
-- 2021: U.S. Secretary of State Antony Blinken suspends agreements with Guatemala, El Salvador and Honduras to send asylum seekers back to their home countries.
-- 2018: SpaceX's Falcon Heavy, a super heavy launch vehicle, makes its maiden flight.
-- 2016: An earthquake of magnitude 6.6 strikes southern Taiwan, killing 117 people.
-- 2012: A magnitude 6.7 earthquake hits the central Philippine island of Negros, leaving 112 people dead.
-- 2006: Stephen Harper becomes Prime Minister of Canada.
-- 2000: Second Chechen War: Russia captures Grozny, Chechnya, forcing the separatist Chechen Republic of Ichkeria government into exile.
-- 1998: Washington National Airport is renamed Ronald Reagan National Airport.
-- 1996: Birgenair Flight 301 crashed off the coast of the Dominican Republic, killing all 189 people on board. This is the deadliest aviation accident involving a Boeing 757.
-- 1996: Willamette Valley Flood: Floods in the Willamette Valley of Oregon, United States, causes over US$500 million in property damage throughout the Pacific Northwest.
-- 1989: The Round Table Talks start in Poland, thus marking the beginning of the overthrow of communism in Eastern Europe.
-- 1987: Justice Mary Gaudron becomes the first woman to be appointed to the High Court of Australia.
-- 1981: The National Resistance Army of Uganda launches an attack on a Ugandan Army installation in the central Mubende District to begin the Ugandan Bush War.
-- 1978: The Blizzard of 1978, one of the worst Nor'easters in New England history, hit the region, with sustained winds of 65 mph and snowfall of four inches an hour.
-- 1976: In testimony before a United States Senate subcommittee, Lockheed Corporation president Carl Kotchian admits that the company had paid out approximately $3 million in bribes to the office of Japanese Prime Minister Kakuei Tanaka.
-- 1973: The Ms  7.6 Luhuo earthquake strikes Sichuan Province, causing widespread destruction and killing at least 2,199 people.
-- 1959: At Cape Canaveral, Florida, the first successful test firing of a Titan intercontinental ballistic missile is accomplished.
-- 1959: Jack Kilby of Texas Instruments files the first patent for an integrated circuit.
-- 1958: Eight Manchester United F.C. players and 15 other passengers are killed in the Munich air disaster.
-- 1952: Elizabeth II becomes Queen of the United Kingdom and her other Realms and Territories and Head of the Commonwealth upon the death of her father, George VI. At the exact moment of succession, she was in a tree house at the Treetops Hotel in Kenya.
-- 1951: The Broker, a Pennsylvania Railroad passenger train derails near Woodbridge Township, New Jersey. The accident kills 85 people and injures over 500 more. The wreck is one of the worst rail disasters in American history.
-- 1951: The Canadian Army enters combat in the Korean War.
-- 1944: World War II: The Great Raids Against Helsinki begins.
-- 1934: Far-right leagues rally in front of the Palais Bourbon in an attempted coup against the French Third Republic, creating a political crisis in France.
-- 1922: The Washington Naval Treaty is signed in Washington, D.C., limiting the naval armaments of United States, Britain, Japan, France, and Italy.
-- 1919: The five-day Seattle General Strike begins, as more than 65,000 workers in the city of Seattle, Washington, walk off the job.
-- 1918: British women over the age of 30 who meet minimum property qualifications, get the right to vote when  Representation of the People Act 1918 is passed by Parliament.
-- 1900: The Permanent Court of Arbitration, an international arbitration court at The Hague, is created when the Senate of the Netherlands ratifies an 1899 peace conference decree.
-- 1899: Spanish-American War: The Treaty of Paris, a peace treaty between the United States and Spain, is ratified by the United States Senate.
-- 1865: The municipal administration of Finland is established.
+- 2024: Pakistan election offices are hit by twin bombings, killing at least 24 people a day before general elections.
+- 2021: The 2021 Uttarakhand flood begins.
+- 2016: North Korea launches Kwangmyŏngsŏng-4 into outer space violating multiple UN treaties and prompting condemnation from around the world.
+- 2014: Scientists announce that the Happisburgh footprints in Norfolk, England, date back to more than 800,000 years ago, making them the oldest known hominid footprints outside Africa.
+- 2013: The U.S. state of Mississippi officially certifies the Thirteenth Amendment, becoming the last state to approve the abolition of slavery. The Thirteenth Amendment was formally ratified by Mississippi in 1995.
+- 2012: President Mohamed Nasheed of the Republic of Maldives resigns, after 23 days of anti-governmental protests calling for the release of the Chief Judge unlawfully arrested by the military.
+- 2009: Bushfires in Victoria leave 173 dead in the worst natural disaster in Australia's history.
+- 2001: Space Shuttle program: Space Shuttle Atlantis is launched on mission STS-98, carrying the Destiny laboratory module to the International Space Station.
+- 1999: Crown Prince Abdullah becomes the King of Jordan on the death of his father, King Hussein.
+- 1995: Ramzi Yousef, the mastermind of the 1993 World Trade Center bombing, is arrested in Islamabad, Pakistan.
+- 1992: The Maastricht Treaty is signed, leading to the creation of the European Union.
+- 1991: The Troubles: The Provisional IRA launches a mortar attack on 10 Downing Street in London, the headquarters of the British government.
+- 1991: Haiti's first democratically elected president, Jean-Bertrand Aristide, is sworn in.
+- 1990: Dissolution of the Soviet Union: The Central Committee of the Soviet Communist Party agrees to give up its monopoly on power.
+- 1986: Twenty-eight years of one-family rule end in Haiti, when President Jean-Claude Duvalier flees the Caribbean nation.
+- 1984: Space Shuttle program: STS-41-B Mission: astronauts Bruce McCandless II and Robert L. Stewart make the first untethered space walk using the Manned Maneuvering Unit (MMU).
+- 1981: A plane crash at Pushkin Airport kills 50 people, including 16 members of the Pacific Fleet.
+- 1979: Pluto moves inside Neptune's orbit for the first time since either was discovered.
+- 1974: Grenada gains independence from the United Kingdom.
+- 1966: The Great Fire of Iloilo breaks out in a lumber yard in Iznart Street and burns for almost half a day destroying nearly three-quarters of the City Proper area and Php 50 million pesos in total properties' damage.
+- 1964: The Beatles land in the United States for the first time, at the newly renamed John F. Kennedy International Airport.
+- 1962: The United States bans all Cuban imports and exports.
+- 1951: Korean War: More than 700 suspected communist sympathizers are massacred by South Korean forces.
+- 1944: World War II: In Anzio, Italy, German forces launch a counteroffensive during the Allied Operation Shingle.
+- 1943: World War II: Imperial Japanese Navy forces complete the evacuation of Imperial Japanese Army troops from Guadalcanal during Operation Ke, ending Japanese attempts to retake the island from Allied forces in the Guadalcanal campaign.
+- 1940: The second full-length animated Walt Disney film, Pinocchio, premieres.
+- 1904: The Great Baltimore Fire begins in Baltimore, Maryland; it destroys over 1,500 buildings in 30 hours.
+- 1900: A Chinese immigrant in San Francisco falls ill to bubonic plague in the first plague epidemic in the continental United States.
+- 1900: Second Boer War: British troops fail in their third attempt to lift the Siege of Ladysmith.
+- 1898: Dreyfus affair: Émile Zola is brought to trial for libel for publishing J'Accuse...!
 
 Data from muffinlabs
-*(Updated at: 2026-02-06 02:28:33 UTC)*
+*(Updated at: 2026-02-07 02:24:33 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：土耳其和叙利亚边境附近发生了两次地震，测量为 .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Mww 7.8 和 7.5，最大 Mercalli 强度为 XII（极端）。地震造成多次余震，造成 57,658 人死亡。
-- - 2021 年：美国国务卿安东尼·布林肯暂停与危地马拉、萨尔瓦多和洪都拉斯签署的将寻求庇护者送回本国的协议。
-- - 2018 年：SpaceX 的超重型运载火箭 Falcon Heavy 进行首次飞行。
-- - 2016年：台湾南部发生里氏6.6级地震，造成117人死亡。
-- - 2012 年：菲律宾中部内格罗斯岛发生里氏 6.7 级地震，造成 112 人死亡。
-- - 2006 年：斯蒂芬·哈珀 (Stephen Harper) 就任加拿大总理。
-- - 2000年：第二次车臣战争：俄罗斯占领车臣格罗兹尼，迫使分裂主义车臣共和国伊奇克里亚政府流亡。
-- - 1998 年：华盛顿国家机场更名为罗纳德·里根国家机场。
-- - 1996 年：比尔根航空 301 号航班在多米尼加共和国海岸坠毁，机上 189 人全部遇难。这是涉及波音 757 的最严重的航空事故。
-- - 1996 年：威拉米特河谷洪水：美国俄勒冈州威拉米特河谷的洪水给整个太平洋西北地区造成了超过 5 亿美元的财产损失。
-- - 1989年：圆桌会谈在波兰开始，从而标志着东欧推翻共产主义的开始。
-- - 1987 年：玛丽·高德伦法官成为第一位被任命为澳大利亚高等法院法官的女性。
-- - 1981 年：乌干达民族抵抗军对穆本德中部地区的乌干达军队设施发动攻击，乌干达布什战争开始。
-- - 1978 年：1978 年的暴风雪袭击了该地区，这是新英格兰历史上最严重的东北风之一，持续风速为 65 英里/小时，降雪量为每小时 4 英寸。
-- - 1976 年：洛克希德公司总裁卡尔·科奇安 (Carl Kotchian) 在美国参议院小组委员会作证时承认，该公司曾向日本首相田中角荣 (Kakuei Tanaka) 办公室行贿约 300 万美元。
-- - 1973年：四川省炉霍7.6级地震造成大面积破坏，造成至少2,199人死亡。
-- - 1959 年：在佛罗里达州卡纳维拉尔角，泰坦洲际弹道导弹首次成功试射。
-- - 1959 年：德州仪器 (TI) 的杰克·基尔比 (Jack Kilby) 申请了第一个集成电路专利。
-- - 1958 年：曼联八强球员和其他 15 名乘客在慕尼黑空难中丧生。
-- - 1952 年：伊丽莎白二世在其父亲乔治六世去世后成为英国及其其他王国和领土的女王以及英联邦元首。就在继位的那一刻，她正在肯尼亚树顶酒店的树屋里。
-- - 1951 年：宾夕法尼亚铁路客运列车“经纪人”在新泽西州伍德布里奇镇附近脱轨。事故造成 85 人死亡、500 多人受伤。这次事故是美国历史上最严重的铁路灾难之一。
-- - 1951 年：加拿大军队参加朝鲜战争。
-- - 1944 年：第二次世界大战：对赫尔辛基的大袭击开始。
-- - 1934 年：极右翼联盟在波旁宫前集会，企图发动政变反对法兰西第三共和国，在法国造成政治危机。
-- - 1922 年：《华盛顿海军条约》在华盛顿特区签署，限制了美国、英国、日本、法国和意大利的海军军备。
-- - 1919 年：为期五天的西雅图总罢工开始，华盛顿州西雅图市有超过 65,000 名工人罢工。
-- - 1918年：议会通过《1918年人民代表法》后，30岁以上符合最低财产资格的英国女性将获得投票权。
-- - 1900 年：荷兰参议院批准 1899 年和平会议法令后，位于海牙的国际仲裁法院常设仲裁法院成立。
-- - 1899 年：美西战争：美国参议院批准了美国与西班牙之间的和平条约《巴黎条约》。
-- - 1865 年：芬兰市政当局成立。
+- - 2024 年：巴基斯坦选举办公室遭遇连环爆炸袭击，大选前一天至少造成 24 人死亡。
+- - 2021 年：2021 年北阿坎德邦洪水开始。
+- - 2016年：朝鲜向外太空发射光美五号四号卫星，违反了多项联合国条约，并引发了世界各地的谴责。
+- - 2014 年：科学家宣布，英国诺福克的哈皮斯堡足迹可以追溯到 80 万多年前，是非洲以外已知最古老的原始人类足迹。
+- - 2013年：美国密西西比州正式批准第十三修正案，成为最后一个批准废除奴隶制的州。1995年，密西西比州正式批准了第十三修正案。
+- - 2012 年：马尔代夫共和国总统穆罕默德·纳希德在持续 23 天的要求释放被军方非法逮捕的首席法官的反政府抗议活动后辞职。
+- - 2009 年：维多利亚州的丛林大火造成 173 人死亡，这是澳大利亚历史上最严重的自然灾害。
+- - 2001 年：航天飞机计划：亚特兰蒂斯号航天飞机执行 STS-98 任务发射，携带命运实验室模块前往国际空间站。
+- - 1999 年：王储阿卜杜拉在其父亲侯赛因国王去世后成为约旦国王。
+- - 1995 年：1993 年世界贸易中心爆炸案的主谋拉姆齐·优素福 (Ramzi Yousef) 在巴基斯坦伊斯兰堡被捕。
+- - 1992 年：《马斯特里赫特条约》签署，欧盟成立。
+- - 1991 年：麻烦：临时爱尔兰共和军对英国政府总部伦敦唐宁街 10 号发动迫击炮袭击。
+- - 1991 年：海地首位民选总统让-贝特朗·阿里斯蒂德宣誓就职。
+- - 1990年：苏联解体：苏共中央委员会同意放弃对权力的垄断。
+- - 1986 年：海地二十八年的一族统治结束，总统让-克洛德·杜瓦利埃逃离了这个加勒比国家。
+- - 1984 年：航天飞机计划：STS-41-B 任务：宇航员布鲁斯·麦坎德利斯二世 (Bruce McCandless II) 和罗伯特·L·斯图尔特 (Robert L. Stewart) 使用载人机动装置 (MMU) 进行了首次不受束缚的太空行走。
+- - 1981 年：普希金机场发生飞机失事，造成 50 人死亡，其中包括 16 名太平洋舰队成员。
+- - 1979 年：自海王星被发现以来，冥王星首次进入海王星轨道。
+- - 1974 年：格林纳达从英国独立。
+- - 1966 年：伊洛伊洛大火在 Iznart 街的一个木材场爆发，燃烧了近半天，摧毁了近四分之三的市区面积，财产损失总额达 5000 万比索。
+- - 1964 年：披头士乐队首次登陆美国，地点是新更名的约翰·肯尼迪国际机场。
+- - 1962 年：美国禁止所有古巴进出口。
+- - 1951 年：朝鲜战争：700 多名疑似共产主义同情者被韩国军队屠杀。
+- - 1944 年：第二次世界大战：在意大利安齐奥，德军在盟军木瓦行动中发动反攻。
+- - 1943 年：第二次世界大战：日本帝国海军部队在 Ke 行动中完成了日本帝国陆军部队从瓜达尔卡纳尔岛的撤离，结束了日本在瓜达尔卡纳尔岛战役中从盟军手中夺回该岛的企图。
+- - 1940 年：第二部华特迪士尼长篇动画电影《匹诺曹》首映。
+- - 1904 年：巴尔的摩大火在马里兰州巴尔的摩爆发；它在 30 小时内摧毁了 1,500 多座建筑物。
+- - 1900 年：旧金山的一名中国移民感染黑死病，这是美国大陆第一次鼠疫流行。
+- - 1900 年：第二次布尔战争：英国军队第三次尝试解除莱迪史密斯之围，但失败。
+- - 1898 年：德雷福斯事件：埃米尔·佐拉因出版《我控告...！》而因诽谤罪受审。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-02-06 02:28:33 UTC）*
+*（更新于: 2026-02-07 02:24:33 UTC）*
