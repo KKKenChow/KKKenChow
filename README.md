@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Pakistan election offices are hit by twin bombings, killing at least 24 people a day before general elections.
-- 2021: The 2021 Uttarakhand flood begins.
-- 2016: North Korea launches Kwangmyŏngsŏng-4 into outer space violating multiple UN treaties and prompting condemnation from around the world.
-- 2014: Scientists announce that the Happisburgh footprints in Norfolk, England, date back to more than 800,000 years ago, making them the oldest known hominid footprints outside Africa.
-- 2013: The U.S. state of Mississippi officially certifies the Thirteenth Amendment, becoming the last state to approve the abolition of slavery. The Thirteenth Amendment was formally ratified by Mississippi in 1995.
-- 2012: President Mohamed Nasheed of the Republic of Maldives resigns, after 23 days of anti-governmental protests calling for the release of the Chief Judge unlawfully arrested by the military.
-- 2009: Bushfires in Victoria leave 173 dead in the worst natural disaster in Australia's history.
-- 2001: Space Shuttle program: Space Shuttle Atlantis is launched on mission STS-98, carrying the Destiny laboratory module to the International Space Station.
-- 1999: Crown Prince Abdullah becomes the King of Jordan on the death of his father, King Hussein.
-- 1995: Ramzi Yousef, the mastermind of the 1993 World Trade Center bombing, is arrested in Islamabad, Pakistan.
-- 1992: The Maastricht Treaty is signed, leading to the creation of the European Union.
-- 1991: The Troubles: The Provisional IRA launches a mortar attack on 10 Downing Street in London, the headquarters of the British government.
-- 1991: Haiti's first democratically elected president, Jean-Bertrand Aristide, is sworn in.
-- 1990: Dissolution of the Soviet Union: The Central Committee of the Soviet Communist Party agrees to give up its monopoly on power.
-- 1986: Twenty-eight years of one-family rule end in Haiti, when President Jean-Claude Duvalier flees the Caribbean nation.
-- 1984: Space Shuttle program: STS-41-B Mission: astronauts Bruce McCandless II and Robert L. Stewart make the first untethered space walk using the Manned Maneuvering Unit (MMU).
-- 1981: A plane crash at Pushkin Airport kills 50 people, including 16 members of the Pacific Fleet.
-- 1979: Pluto moves inside Neptune's orbit for the first time since either was discovered.
-- 1974: Grenada gains independence from the United Kingdom.
-- 1966: The Great Fire of Iloilo breaks out in a lumber yard in Iznart Street and burns for almost half a day destroying nearly three-quarters of the City Proper area and Php 50 million pesos in total properties' damage.
-- 1964: The Beatles land in the United States for the first time, at the newly renamed John F. Kennedy International Airport.
-- 1962: The United States bans all Cuban imports and exports.
-- 1951: Korean War: More than 700 suspected communist sympathizers are massacred by South Korean forces.
-- 1944: World War II: In Anzio, Italy, German forces launch a counteroffensive during the Allied Operation Shingle.
-- 1943: World War II: Imperial Japanese Navy forces complete the evacuation of Imperial Japanese Army troops from Guadalcanal during Operation Ke, ending Japanese attempts to retake the island from Allied forces in the Guadalcanal campaign.
-- 1940: The second full-length animated Walt Disney film, Pinocchio, premieres.
-- 1904: The Great Baltimore Fire begins in Baltimore, Maryland; it destroys over 1,500 buildings in 30 hours.
-- 1900: A Chinese immigrant in San Francisco falls ill to bubonic plague in the first plague epidemic in the continental United States.
-- 1900: Second Boer War: British troops fail in their third attempt to lift the Siege of Ladysmith.
-- 1898: Dreyfus affair: Émile Zola is brought to trial for libel for publishing J'Accuse...!
+- 2023: Two children are killed and six others are injured when a bus crashes into a daycare centre in Laval, Quebec, Canada. The driver is arrested and charged with homicide and dangerous driving.
+- 2020: A soldier opens fire in a military camp and a shopping center in Nakhon Ratchasima, Thailand, killing 29 people and injuring 58 others before being shot dead by police the next day. It is considered the deadliest mass shooting in the country's history.
+- 2014: A hotel fire in Medina, Saudi Arabia, kills 15 Egyptian pilgrims with 130 others injured.
+- 2013: A blizzard kills at least 18 and leaves hundreds of thousands of people without electricity in the northeastern United States and parts of Canada.
+- 2010: Over 2 miles (3.2 km) of road are buried after a storm in the Hindu Kush mountains of Afghanistan triggers a series of avalanches, killing at least 172 people and trapping over 2,000 others.
+- 1993: An Iran Air Tours Tupolev Tu-154 and an Iranian Air Force Sukhoi Su-24 collide mid-air near Qods, Iran, killing all 133 people onboard both aircraft.
+- 1989: Independent Air Flight 1851 strikes Pico Alto mountain while on approach to Santa Maria Airport in the Azores, killing all 144 passengers on board.
+- 1986: Twenty-three people are killed when a VIA Rail passenger train collides with a Canadian National freight train near the town of Hinton, Alberta, making it one of the worst rail accidents in Canada.
+- 1983: Irish race horse Shergar is stolen and allegedly killed by gunmen in a ransom attempt by the PIRA.
+- 1983: A dust storm hits Melbourne, resulting in the worst drought on record and severe weather conditions in the city.
+- 1974: The crew of Skylab 4, the last mission to visit the American space station Skylab, returns to Earth after 84 days in space.
+- 1971: South Vietnamese ground troops launch an incursion into Laos to try to cut off the Ho Chi Minh trail and stop communist infiltration into the country.
+- 1971: The NASDAQ stock market index opens for the first time.
+- 1968: American civil rights movement: An attack on Black students from South Carolina State University who are protesting racial segregation leaves three dead and 28 injured in Orangeburg, South Carolina.
+- 1965: Eastern Air Lines Flight 663 crashes into the Atlantic Ocean and explodes, killing all 84 people onboard.
+- 1963: The regime of Prime Minister of Iraq Abd al-Karim Qasim is overthrown by the Ba'ath Party.
+- 1962: Nine protestors are killed at Charonne station, Paris, by French police under the command of ex-Vichy official and Parisian Prefect of Police Maurice Papon.
+- 1960: The Hollywood Walk of Fame is founded.
+- 1960: Queen Elizabeth II issues an Order-in-Council, proclaiming the House of Windsor and declaring that her descendants will take the name Mountbatten-Windsor.
+- 1950: The Stasi, the secret police of East Germany, is established.
+- 1946: The People's Republic of Korea is dissolved in the North and replaced by the communist-controlled Provisional People's Committee of North Korea.
+- 1945: World War II: Mikhail Devyataev escapes with nine other Soviet POWs from a Nazi concentration camp in Peenemünde, Usedom.
+- 1945: World War II: British and Canadian forces commence Operation Veritable to occupy land between the Maas and Rhine rivers.
+- 1942: World War II: Japan invades Singapore.
+- 1937: Spanish Civil War: Republican forces establish the Interprovincial Council of Santander, Palencia and Burgos in Cantabria.
+- 1924: The first state execution in the United States by gas chamber takes place in Nevada.
+- 1915: D. W. Griffith's controversial landmark film The Birth of a Nation premieres in Los Angeles.
+- 1910: The Boy Scouts of America is incorporated by William D. Boyce.
+- 1904: The Dutch Colonial Army's Marechaussee regiment led by General G.C.E. van Daalen launch a military campaign in the Dutch East Indies' Northern Sumatra region, leading to the deaths of thousands of civilians.
+- 1904: Japanese forces launch a surprise attack against Russian-controlled Port Arthur, marking the start of the Russo-Japanese war.
 
 Data from muffinlabs
-*(Updated at: 2026-02-07 02:24:33 UTC)*
+*(Updated at: 2026-02-08 02:51:29 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：巴基斯坦选举办公室遭遇连环爆炸袭击，大选前一天至少造成 24 人死亡。
-- - 2021 年：2021 年北阿坎德邦洪水开始。
-- - 2016年：朝鲜向外太空发射光美五号四号卫星，违反了多项联合国条约，并引发了世界各地的谴责。
-- - 2014 年：科学家宣布，英国诺福克的哈皮斯堡足迹可以追溯到 80 万多年前，是非洲以外已知最古老的原始人类足迹。
-- - 2013年：美国密西西比州正式批准第十三修正案，成为最后一个批准废除奴隶制的州。1995年，密西西比州正式批准了第十三修正案。
-- - 2012 年：马尔代夫共和国总统穆罕默德·纳希德在持续 23 天的要求释放被军方非法逮捕的首席法官的反政府抗议活动后辞职。
-- - 2009 年：维多利亚州的丛林大火造成 173 人死亡，这是澳大利亚历史上最严重的自然灾害。
-- - 2001 年：航天飞机计划：亚特兰蒂斯号航天飞机执行 STS-98 任务发射，携带命运实验室模块前往国际空间站。
-- - 1999 年：王储阿卜杜拉在其父亲侯赛因国王去世后成为约旦国王。
-- - 1995 年：1993 年世界贸易中心爆炸案的主谋拉姆齐·优素福 (Ramzi Yousef) 在巴基斯坦伊斯兰堡被捕。
-- - 1992 年：《马斯特里赫特条约》签署，欧盟成立。
-- - 1991 年：麻烦：临时爱尔兰共和军对英国政府总部伦敦唐宁街 10 号发动迫击炮袭击。
-- - 1991 年：海地首位民选总统让-贝特朗·阿里斯蒂德宣誓就职。
-- - 1990年：苏联解体：苏共中央委员会同意放弃对权力的垄断。
-- - 1986 年：海地二十八年的一族统治结束，总统让-克洛德·杜瓦利埃逃离了这个加勒比国家。
-- - 1984 年：航天飞机计划：STS-41-B 任务：宇航员布鲁斯·麦坎德利斯二世 (Bruce McCandless II) 和罗伯特·L·斯图尔特 (Robert L. Stewart) 使用载人机动装置 (MMU) 进行了首次不受束缚的太空行走。
-- - 1981 年：普希金机场发生飞机失事，造成 50 人死亡，其中包括 16 名太平洋舰队成员。
-- - 1979 年：自海王星被发现以来，冥王星首次进入海王星轨道。
-- - 1974 年：格林纳达从英国独立。
-- - 1966 年：伊洛伊洛大火在 Iznart 街的一个木材场爆发，燃烧了近半天，摧毁了近四分之三的市区面积，财产损失总额达 5000 万比索。
-- - 1964 年：披头士乐队首次登陆美国，地点是新更名的约翰·肯尼迪国际机场。
-- - 1962 年：美国禁止所有古巴进出口。
-- - 1951 年：朝鲜战争：700 多名疑似共产主义同情者被韩国军队屠杀。
-- - 1944 年：第二次世界大战：在意大利安齐奥，德军在盟军木瓦行动中发动反攻。
-- - 1943 年：第二次世界大战：日本帝国海军部队在 Ke 行动中完成了日本帝国陆军部队从瓜达尔卡纳尔岛的撤离，结束了日本在瓜达尔卡纳尔岛战役中从盟军手中夺回该岛的企图。
-- - 1940 年：第二部华特迪士尼长篇动画电影《匹诺曹》首映。
-- - 1904 年：巴尔的摩大火在马里兰州巴尔的摩爆发；它在 30 小时内摧毁了 1,500 多座建筑物。
-- - 1900 年：旧金山的一名中国移民感染黑死病，这是美国大陆第一次鼠疫流行。
-- - 1900 年：第二次布尔战争：英国军队第三次尝试解除莱迪史密斯之围，但失败。
-- - 1898 年：德雷福斯事件：埃米尔·佐拉因出版《我控告...！》而因诽谤罪受审。
+- - 2023 年：一辆巴士撞向加拿大魁北克省拉瓦尔市的日托中心，造成两名儿童死亡、六人受伤。司机被捕并被指控犯有杀人罪和危险驾驶罪。
+- - 2020 年：一名士兵在泰国呵叻府的一个军营和一个购物中心开枪，造成 29 人死亡、58 人受伤，第二天被警察击毙。这被认为是该国历史上最致命的大规模枪击事件。
+- - 2014 年：沙特阿拉伯麦地那的一场酒店火灾导致 15 名埃及朝圣者死亡，另有 130 人受伤。
+- - 2013 年：一场暴风雪导致美国东北部和加拿大部分地区至少 18 人死亡，数十万人断电。
+- - 2010 年：阿富汗兴都库什山脉的一场暴风雨引发一系列雪崩，导致至少 172 人死亡、2,000 多人被困，超过 2 英里（3.2 公里）的道路被掩埋。
+- - 1993 年：伊朗航空旅游公司的一架图波列夫 Tu-154 飞机和伊朗空军的一架苏霍伊 Su-24 在伊朗圣城附近的空中相撞，两架飞机上的 133 人全部遇难。
+- - 1989 年：独立航空 1851 号航班在飞往亚速尔群岛圣玛丽亚机场时撞上皮科阿尔托山，机上 144 名乘客全部遇难。
+- - 1986 年：一列 VIA Rail 客运列车在艾伯塔省欣顿镇附近与一列加拿大国家货运列车相撞，造成 23 人死亡，成为加拿大最严重的铁路事故之一。
+- - 1983 年：爱尔兰赛马 Shergar 被盗，据称在 PIRA 勒索赎金的过程中被枪手杀害。
+- - 1983 年：沙尘暴袭击墨尔本，导致该市出现有记录以来最严重的干旱和恶劣的天气状况。
+- - 1974 年：Skylab 4 号（最后一次访问美国空间站 Skylab 的任务）的机组人员在太空停留 84 天后返回地球。
+- - 1971 年：南越地面部队入侵老挝，试图切断胡志明小道并阻止共产党渗透到该国。
+- - 1971年：纳斯达克股票市场指数首次开盘。
+- - 1968 年：美国民权运动：南卡罗来纳州奥兰治堡抗议种族隔离的南卡罗来纳州立大学黑人学生遭到袭击，造成 3 人死亡、28 人受伤。
+- - 1965 年：东方航空 663 号航班坠入大西洋并爆炸，机上 84 人全部遇难。
+- - 1963年：伊拉克总理阿卜杜勒·卡里姆·卡西姆的政权被复兴党推翻。
+- - 1962 年：前维希政府官员、巴黎警察局长莫里斯·帕蓬 (Maurice Papon) 指挥的法国警察在巴黎夏隆火车站杀害了 9 名抗议者。
+- - 1960 年：好莱坞星光大道成立。
+- - 1960年：英国女王伊丽莎白二世发布一项枢密令，宣告温莎家族成立，并宣布她的后代将采用蒙巴顿-温莎这个名字。
+- - 1950 年：东德秘密警察斯塔西成立。
+- - 1946年：朝鲜人民共和国在朝鲜解散，并由共产党控制的朝鲜临时人民委员会取代。
+- - 1945 年：第二次世界大战：米哈伊尔·德维亚塔耶夫 (Mikhail Devyataev) 与其他九名苏联战俘从乌泽多姆佩内明德 (Penemünde) 的纳粹集中营逃脱。
+- - 1945 年：第二次世界大战：英国和加拿大军队开始“名副其实”行动，占领马斯河和莱茵河之间的土地。
+- - 1942 年：第二次世界大战：日本入侵新加坡。
+- - 1937 年：西班牙内战：共和军在坎塔布里亚建立了桑坦德、帕伦西亚和布尔戈斯省际委员会。
+- - 1924 年：美国第一次州级毒气室处决在内华达州进行。
+- - 1915 年：D. W. 格里菲斯备受争议的里程碑式电影《一个国家的诞生》在洛杉矶首映。
+- - 1910 年：美国童子军由 William D. Boyce 成立。
+- - 1904 年：G.C.E. 将军领导的荷兰殖民军 Marechaussee 团范达伦在荷属东印度群岛的北苏门答腊地区发动军事行动，导致数千平民死亡。
+- - 1904年：日本军队对俄罗斯控制的旅顺港发动突然袭击，标志着日俄战争的开始。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-02-07 02:24:33 UTC）*
+*（更新于: 2026-02-08 02:51:29 UTC）*
