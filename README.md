@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: The Baltic states synchronize their electric power transmission infrastructure with the Continental Europe Synchronous Area (CESA), in objective to disconnect from the Russo-Belarussian agreement to use the IPS/UPS system.
-- 2021: Second impeachment trial of Donald Trump begins.
-- 2020: Salvadoran President Nayib Bukele has the army soldiers enter the Legislative Assembly to assist in pushing for the approval for a better government security plan, causing a brief political crisis.
-- 2018: Winter Olympics: Opening ceremony is performed in Pyeongchang County in South Korea.
-- 2016: Two passenger trains collide in the German town of Bad Aibling in the state of Bavaria. Twelve people die and 85 others are injured.
-- 2001: The Ehime Maru and USS Greeneville collision takes place, killing nine of the thirty-five people on board the Japanese fishery high-school training ship Ehime Maru, leaving the USS Greeneville (SSN-772) with US $2 million in repairs, at Pearl Harbor.
-- 1996: Copernicium is discovered by Sigurd Hofmann, Victor Ninov et al.
-- 1996: The Provisional Irish Republican Army declares the end to its 18-month ceasefire and explodes a large bomb in London's Canary Wharf, killing two people.
-- 1991: Dissolution of the Soviet Union: Voters in Lithuania vote for independence from the Soviet Union.
-- 1987: Civil unrest broke out across the Occupied Palestinian territories. 
-- 1986: Halley's Comet last appeared in the inner Solar System.
-- 1982: Japan Air Lines Flight 350 crashes near Haneda Airport in an attempted pilot mass murder-suicide, killing 24 of the 174 people on board.
-- 1978: The Budd Company unveils its first SPV-2000 self-propelled railcar in Philadelphia, Pennsylvania.
-- 1976: Aeroflot Flight 3739, a Tupolev Tu-104, crashes during takeoff from Irkutsk Airport, killing 24.
-- 1975: The Soyuz 17 Soviet spacecraft returns to Earth.
-- 1971: Apollo program: Apollo 14 returns to Earth after the third human Moon landing.
-- 1971: Satchel Paige becomes the first Negro league player to be voted into the USA's Baseball Hall of Fame.
-- 1971: The 6.5-6.7 Mw  Sylmar earthquake hits the Greater Los Angeles Area with a maximum Mercalli intensity of XI (Extreme), killing 64 and injuring 2,000.
-- 1965: Vietnam War: The United States Marine Corps sends a MIM-23 Hawk missile battalion to South Vietnam, the first American troops in-country without an official advisory or training mission.
-- 1964: The Beatles make their first appearance on The Ed Sullivan Show, performing before a record-setting audience of 73 million viewers across the United States.
-- 1961: The Beatles at the Cavern Club: Lunchtime - The Beatles perform under this name at The Cavern Club for the first time following their return to Liverpool from Hamburg.
-- 1959: The R-7 Semyorka, the first intercontinental ballistic missile, becomes operational at Plesetsk, USSR.
-- 1951: Korean War: The two-day Geochang massacre begins as a battalion of the 11th Division of the South Korean Army kills 719 unarmed citizens in Geochang, in the South Gyeongsang district of South Korea.
-- 1950: Second Red Scare: US Senator Joseph McCarthy accuses the United States Department of State of being filled with Communists.
-- 1945: World War II: A force of Allied aircraft unsuccessfully attack a German destroyer in Førdefjorden, Norway.
-- 1945: World War II: Battle of the Atlantic: HMS Venturer sinks U-864 off the coast of Fedje, Norway, in a rare instance of submarine-to-submarine combat.
-- 1943: World War II: Pacific War: Allied authorities declare Guadalcanal secure after Imperial Japan evacuates its remaining forces from the island, ending the Battle of Guadalcanal.
-- 1942: Year-round Daylight saving time (aka War Time) is reinstated in the United States as a wartime measure to help conserve energy resources.
-- 1941: World War II: Bombing of Genoa: The Cathedral of San Lorenzo in Genoa, Italy, is struck by a bomb which fails to detonate.
-- 1934: The Balkan Entente is formed between Greece, Romania, Yugoslavia, and Turkey.
+- 2021: Texas' worst energy infrastructure failure, the 2021 Texas power crisis, starts.
+- 2021: The traditional Carnival in Rio de Janeiro, Brazil is canceled for the first time because of the COVID-19 pandemic.
+- 2018: Nineteen people are killed and 66 injured when a Kowloon Motor Bus double decker on route 872 in Hong Kong overturns.
+- 2016: South Korea decides to stop the operation of the Kaesong joint industrial complex with North Korea in response to the launch of Kwangmyŏngsŏng-4.
+- 2013: Thirty-six people are killed and 39 others are injured in a stampede in Allahabad, India, during the Kumbh Mela festival.
+- 2009: The communications satellites Iridium 33 and Kosmos 2251 collide in orbit, destroying both.
+- 2004: Forty-three people are killed and three are injured when a Fokker 50 crashes near Sharjah International Airport.
+- 2003: France and Belgium break the NATO procedure of silent approval concerning the timing of protective measures for Turkey in case of a possible war with Iraq.
+- 1996: IBM supercomputer Deep Blue defeats Garry Kasparov in chess for the first time.
+- 1989: Ron Brown is elected chairman of the Democratic National Committee, becoming the first African American to lead a major American political party.
+- 1984: Kenyan soldiers kill an estimated 5,000 ethnic Somali Kenyans in the Wagalla massacre.
+- 1972: Ras Al Khaimah joins the United Arab Emirates, now making up seven emirates.
+- 1967: The 25th Amendment to the United States Constitution is ratified.
+- 1964: Melbourne-Voyager collision: The aircraft carrier HMAS Melbourne collides with and sinks the destroyer HMAS Voyager off the south coast of New South Wales, Australia, killing 82.
+- 1962: Cold War: Captured American U2 spy-plane pilot Gary Powers is exchanged for captured Soviet spy Rudolf Abel.
+- 1954: U.S. President Dwight D. Eisenhower warns against United States intervention in Vietnam.
+- 1947: The Paris Peace Treaties are signed by Italy, Romania, Hungary, Bulgaria, Finland and the Allies of World War II.
+- 1943: World War II: Attempting to completely lift the Siege of Leningrad, the Soviet Red Army engages German troops and Spanish volunteers in the Battle of Krasny Bor.
+- 1940: The Soviet Union begins mass deportations of Polish citizens from occupied eastern Poland to Siberia.
+- 1939: Spanish Civil War: The Nationalists conclude their conquest of Catalonia and seal the border with France.
+- 1936: Second Italo-Abyssinian War: Italian troops launch the Battle of Amba Aradam against Ethiopian defenders.
+- 1933: In round 13 of a boxing match at New York City's Madison Square Garden, Primo Carnera knocks out Ernie Schaaf. Schaaf dies four days later.
+- 1930: The Việt Nam Quốc Dân Đảng launches the failed Yên Bái mutiny in hope of overthrowing French protectorate over Vietnam.
+- 1923: Texas Tech University is founded as Texas Technological College in Lubbock, Texas.
+- 1920: About 75% of the population in Zone I votes to join Denmark in the 1920 Schleswig plebiscites.
+- 1920: Józef Haller de Hallenburg performs the symbolic wedding of Poland to the sea, celebrating restitution of Polish access to open sea.
+- 1906: HMS Dreadnought, the first of a revolutionary new breed of battleships, is christened.
+- 1862: American Civil War: A Union naval flotilla destroys the bulk of the Confederate Mosquito Fleet in the Battle of Elizabeth City on the Pasquotank River in North Carolina.
+- 1861: Jefferson Davis is notified by telegraph that he has been chosen as provisional President of the Confederate States of America.
+- 1846: First Anglo-Sikh War: Battle of Sobraon: British defeat Sikhs in the final battle of the war.
 
 Data from muffinlabs
-*(Updated at: 2026-02-09 02:36:11 UTC)*
+*(Updated at: 2026-02-10 02:44:43 UTC)*
 
 # 历史上的今天 
 
-- - 2025年：波罗的海国家将其电力传输基础设施与欧洲大陆同步区（CESA）同步，目的是脱离俄罗斯-白俄罗斯使用IPS/UPS系统的协议。
-- - 2021 年：唐纳德·特朗普的第二次弹劾审判开始。
-- - 2020年：萨尔瓦多总统纳伊布·布克莱让军队士兵进入立法议会，协助推动批准更好的政府安全计划，引发短暂的政治危机。
-- - 2018年：冬季奥运会：开幕式在韩国平昌郡举行。
-- - 2016 年：两列客运列车在德国巴伐利亚州巴特艾布林镇相撞。12 人死亡，85 人受伤。
-- - 2001 年：爱媛丸号和格林维尔号发生碰撞，日本渔业高中训练舰爱媛丸号上的 35 人中有 9 人死亡，珍珠港的格林维尔号航空母舰 (SSN-772) 的维修费用为 200 万美元。
-- - 1996 年：Sigurd Hofmann、Victor Ninov 等人发现了铍。
-- - 1996 年：爱尔兰临时共和军宣布结束 18 个月的停火，并在伦敦金丝雀码头引爆炸弹，造成两人死亡。
-- - 1991 年：苏联解体：立陶宛选民投票支持脱离苏联独立。
-- - 1987 年：巴勒斯坦被占领土爆发内乱。
-- - 1986 年：哈雷彗星最后一次出现在内太阳系。
-- - 1982 年：日本航空 350 号航班在羽田机场附近坠毁，飞行员企图大规模谋杀自杀，机上 174 人中有 24 人死亡。
-- - 1978 年：巴德公司在宾夕法尼亚州费城推出了第一辆 SPV-2000 自行式轨道车。
-- - 1976 年：俄罗斯航空公司 3739 号航班（一架图波列夫 Tu-104）从伊尔库茨克机场起飞时坠毁，造成 24 人死亡。
-- - 1975 年：苏联联盟 17 号宇宙飞船返回地球。
-- - 1971 年：阿波罗计划：阿波罗 14 号在人类第三次登月后返回地球。
-- - 1971 年：萨切尔·佩奇 (Satchel Paige) 成为第一位入选美国棒球名人堂的黑人联盟球员。
-- - 1971 年：6.5-6.7 兆瓦的西尔马地震袭击了大洛杉矶地区，最大麦卡利强度为 XI（极端），造成 64 人死亡、2,000 人受伤。
-- - 1965 年：越南战争：美国海军陆战队向南越派遣了 MIM-23 鹰式导弹营，这是第一支没有执行官方顾问或训练任务的美国军队。
-- - 1964 年：披头士乐队首次亮相埃德·沙利文秀，在全美观众面前表演，创下了 7300 万观众的纪录。
-- - 1961 年：披头士乐队在洞穴俱乐部：午餐时间 - 披头士乐队从汉堡返回利物浦后首次在洞穴俱乐部以这个名字进行表演。
-- - 1959 年：第一种洲际弹道导弹 R-7 Semyorka 在苏联普列谢茨克投入使用。
-- - 1951 年：朝鲜战争：为期两天的居昌大屠杀始于韩国陆军第 11 师的一个营在韩国庆尚南道居昌地区杀害了 719 名手无寸铁的公民。
-- - 1950 年：第二次红色恐慌：美国参议员约瑟夫·麦卡锡指责美国国务院充斥着共产党人。
-- - 1945 年：第二次世界大战：一支盟军飞机在挪威 Førdefjorden 攻击一艘德国驱逐舰，但没有成功。
-- - 1945 年：第二次世界大战：大西洋之战：HMS 冒险者号在挪威费杰海岸附近击沉了 U-864，这是罕见的潜艇对潜艇战斗。
-- - 1943 年：第二次世界大战：太平洋战争：日本帝国从该岛撤离剩余部队后，盟军当局宣布瓜达尔卡纳尔岛安全，结束了瓜达尔卡纳尔岛战役。
-- - 1942 年：美国恢复全年夏令时（又称战时），作为有助于节约能源的战时措施。
-- - 1941 年：第二次世界大战：热那亚轰炸：意大利热那亚的圣洛伦索大教堂被一枚炸弹击中，但未能引爆。
-- - 1934 年：希腊、罗马尼亚、南斯拉夫和土耳其组成巴尔干协约。
+- - 2021 年：德克萨斯州最严重的能源基础设施故障，即 2021 年德克萨斯州电力危机开始。
+- - 2021 年：由于 COVID-19 大流行，巴西里约热内卢的传统狂欢节首次取消。
+- - 2018年：香港872路九龙巴士双层巴士翻覆，造成19人死亡、66人受伤。
+- - 2016年：韩国决定停止与朝鲜开城联合工业园区的运营，以响应光明四号的发射。
+- - 2013年：印度阿拉哈巴德大壶节期间发生踩踏事件，造成 36 人死亡、39 人受伤。
+- - 2009 年：通信卫星铱星 33 号和科斯莫斯 2​​251 号在轨道上相撞，两颗卫星均被摧毁。
+- - 2004 年：一架福克 50 飞机在沙迦国际机场附近坠毁，造成 43 人死亡、3 人受伤。
+- - 2003年：法国和比利时打破了北约关于在可能与伊拉克发生战争的情况下对土耳其采取保护措施的时间安排的默许程序。
+- - 1996 年：IBM 超级计算机“深蓝”首次在国际象棋比赛中击败加里·卡斯帕罗夫。
+- - 1989 年：罗恩·布朗当选为民主党全国委员会主席，成为第一位领导美国主要政党的非裔美国人。
+- - 1984 年：肯尼亚士兵在瓦加拉大屠杀中杀害了约 5,000 名索马里肯尼亚人。
+- - 1972 年：哈伊马角并入阿拉伯联合酋长国，目前由七个酋长国组成。
+- - 1967年：美国宪法第25条修正案获得批准。
+- - 1964 年：墨尔本与航海者号相撞：墨尔本号航空母舰在澳大利亚新南威尔士州南海岸与航海者号驱逐舰相撞并沉没，造成 82 人死亡。
+- - 1962 年：冷战：被俘虏的美国 U2 间谍飞机飞行员加里·鲍尔斯 (Gary Powers) 被俘获的苏联间谍鲁道夫·阿贝尔 (Rudolf Abel) 交换。
+- - 1954 年：美国总统德怀特·艾森豪威尔警告美国不要干预越南。
+- - 1947 年：意大利、罗马尼亚、匈牙利、保加利亚、芬兰以及二战盟国签署《巴黎和约》。
+- - 1943 年：第二次世界大战：为了彻底解除列宁格勒之围，苏联红军在红博尔战役中与德国军队和西班牙志愿军交战。
+- - 1940 年：苏联开始将波兰公民从被占领的波兰东部大规模驱逐到西伯利亚。
+- - 1939 年：西班牙内战：民族主义者完成对加泰罗尼亚的征服并封锁与法国的边界。
+- - 1936 年：第二次意大利-阿比西尼亚战争：意大利军队对埃塞俄比亚守军发动安巴阿拉丹战役。
+- - 1933 年：在纽约市麦迪逊广场花园举行的拳击比赛第 13 轮中，普里莫·卡内拉 (Primo Carnera) 击倒了厄尼·沙夫 (Ernie Schaaf)。四天后沙夫去世。
+- - 1930 年：越南国党发动安佰叛变，希望推翻法国对越南的保护，但失败了。
+- - 1923 年：德克萨斯理工大学在德克萨斯州拉伯克成立，当时名为德克萨斯理工学院。
+- - 1920 年：I 区约 75% 的人口在 1920 年石勒苏益格公民投票中投票支持丹麦。
+- - 1920 年：约瑟夫·哈勒·德·哈伦堡 (Józef Haller de Hallenburg) 举行了波兰与海洋的象征性婚礼，庆祝波兰恢复了公海使用权。
+- - 1906 年：第一艘革命性的新型战列舰“无畏号”被命名。
+- - 1862 年：美国内战：在北卡罗来纳州帕斯阔坦克河上的伊丽莎白城战役中，一支联邦海军舰队摧毁了大部分联邦蚊式舰队。
+- - 1861 年：杰斐逊·戴维斯收到电报通知，他已被选为美利坚联盟国临时总统。
+- - 1846 年：第一次英锡克战争：索布朗之战：英国在战争的最后一场战役中击败锡克教徒。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-02-09 02:36:11 UTC）*
+*（更新于: 2026-02-10 02:44:43 UTC）*
