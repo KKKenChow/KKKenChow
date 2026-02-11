@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: Texas' worst energy infrastructure failure, the 2021 Texas power crisis, starts.
-- 2021: The traditional Carnival in Rio de Janeiro, Brazil is canceled for the first time because of the COVID-19 pandemic.
-- 2018: Nineteen people are killed and 66 injured when a Kowloon Motor Bus double decker on route 872 in Hong Kong overturns.
-- 2016: South Korea decides to stop the operation of the Kaesong joint industrial complex with North Korea in response to the launch of Kwangmyŏngsŏng-4.
-- 2013: Thirty-six people are killed and 39 others are injured in a stampede in Allahabad, India, during the Kumbh Mela festival.
-- 2009: The communications satellites Iridium 33 and Kosmos 2251 collide in orbit, destroying both.
-- 2004: Forty-three people are killed and three are injured when a Fokker 50 crashes near Sharjah International Airport.
-- 2003: France and Belgium break the NATO procedure of silent approval concerning the timing of protective measures for Turkey in case of a possible war with Iraq.
-- 1996: IBM supercomputer Deep Blue defeats Garry Kasparov in chess for the first time.
-- 1989: Ron Brown is elected chairman of the Democratic National Committee, becoming the first African American to lead a major American political party.
-- 1984: Kenyan soldiers kill an estimated 5,000 ethnic Somali Kenyans in the Wagalla massacre.
-- 1972: Ras Al Khaimah joins the United Arab Emirates, now making up seven emirates.
-- 1967: The 25th Amendment to the United States Constitution is ratified.
-- 1964: Melbourne-Voyager collision: The aircraft carrier HMAS Melbourne collides with and sinks the destroyer HMAS Voyager off the south coast of New South Wales, Australia, killing 82.
-- 1962: Cold War: Captured American U2 spy-plane pilot Gary Powers is exchanged for captured Soviet spy Rudolf Abel.
-- 1954: U.S. President Dwight D. Eisenhower warns against United States intervention in Vietnam.
-- 1947: The Paris Peace Treaties are signed by Italy, Romania, Hungary, Bulgaria, Finland and the Allies of World War II.
-- 1943: World War II: Attempting to completely lift the Siege of Leningrad, the Soviet Red Army engages German troops and Spanish volunteers in the Battle of Krasny Bor.
-- 1940: The Soviet Union begins mass deportations of Polish citizens from occupied eastern Poland to Siberia.
-- 1939: Spanish Civil War: The Nationalists conclude their conquest of Catalonia and seal the border with France.
-- 1936: Second Italo-Abyssinian War: Italian troops launch the Battle of Amba Aradam against Ethiopian defenders.
-- 1933: In round 13 of a boxing match at New York City's Madison Square Garden, Primo Carnera knocks out Ernie Schaaf. Schaaf dies four days later.
-- 1930: The Việt Nam Quốc Dân Đảng launches the failed Yên Bái mutiny in hope of overthrowing French protectorate over Vietnam.
-- 1923: Texas Tech University is founded as Texas Technological College in Lubbock, Texas.
-- 1920: About 75% of the population in Zone I votes to join Denmark in the 1920 Schleswig plebiscites.
-- 1920: Józef Haller de Hallenburg performs the symbolic wedding of Poland to the sea, celebrating restitution of Polish access to open sea.
-- 1906: HMS Dreadnought, the first of a revolutionary new breed of battleships, is christened.
-- 1862: American Civil War: A Union naval flotilla destroys the bulk of the Confederate Mosquito Fleet in the Battle of Elizabeth City on the Pasquotank River in North Carolina.
-- 1861: Jefferson Davis is notified by telegraph that he has been chosen as provisional President of the Confederate States of America.
-- 1846: First Anglo-Sikh War: Battle of Sobraon: British defeat Sikhs in the final battle of the war.
+- 2024: 2024 Finnish presidential election: Alexander Stubb is elected as the 13th president of Finland.
+- 2020: COVID-19 pandemic: The World Health Organization officially names the coronavirus outbreak as COVID-19, with the virus being designated SARS-CoV-2.
+- 2018: Saratov Airlines Flight 703 crashes near Moscow, Russia with 71 deaths and no survivors.
+- 2017: North Korea test fires a ballistic missile across the Sea of Japan.
+- 2016: A man shoots seven people dead at an education center in Jizan Province, Saudi Arabia.
+- 2015: A university student was murdered as she resisted an attempted rape in Turkey, sparking nationwide protests and public outcry against harassment and violence against women.
+- 2014: A military transport plane crashes in a mountainous area of Oum El Bouaghi Province in eastern Algeria, killing 77 people.
+- 2013: Militants claiming to be from the Sultanate of Sulu invade Lahad Datu District, Sabah, Malaysia, beginning the Lahad Datu standoff.
+- 2013: The Vatican confirmed that Pope Benedict XVI would resign the papacy as a result of his advanced age.
+- 2011: Arab Spring: The first wave of the Egyptian revolution culminates in the resignation of Hosni Mubarak and the transfer of power to the Supreme Military Council after 17 days of protests.
+- 2008: Rebel East Timorese soldiers seriously wound President José Ramos-Horta. Rebel leader Alfredo Reinado is killed in the attack.
+- 2001: A Dutch programmer launched the Anna Kournikova virus infecting millions of emails via a trick photo of the tennis star.
+- 2000: Space Shuttle Endeavour is launched on STS-99 to conduct the Shuttle Radar Topography Mission.
+- 1999: Pluto crosses Neptune's orbit, ending a nearly 20-year period when it was closer to the Sun than the gas giant; Pluto is not expected to interact with Neptune's orbit again until 2231.
+- 1997: Space Shuttle Discovery is launched on a mission to service the Hubble Space Telescope.
+- 1990: Buster Douglas, a 42:1 underdog, knocks out Mike Tyson in ten rounds at Tokyo to win boxing's world Heavyweight title.
+- 1990: Nelson Mandela is released from Victor Verster Prison outside Cape Town, South Africa after 27 years as a political prisoner.
+- 1979: The Iranian Revolution establishes an Islamic theocracy under the leadership of Ayatollah Ruhollah Khomeini.
+- 1978: Pacific Western Airlines Flight 314 crashes at the Cranbrook/Canadian Rockies International Airport in Cranbrook, British Columbia, Canada with 42 deaths and seven survivors.
+- 1971: Cold War: the Seabed Arms Control Treaty opened for signature outlawing nuclear weapons on the ocean floor in international waters.
+- 1970: Japan launches Ohsumi, becoming the fourth nation to put an object into orbit using its own booster.
+- 1963 — The Beatles recorded their first album Please Please Me[38]: None
+- 1959: The Federation of Arab Emirates of the South is created as a protectorate of the United Kingdom.
+- 1953: Israeli-Soviet relations are severed.
+- 1953: Cold War: U.S. President Dwight D. Eisenhower denies all appeals for clemency for Julius and Ethel Rosenberg.
+- 1946: The New Testament of the Revised Standard Version of the Bible, the first significant challenge to the Authorized King James Version, is published.
+- 1942: World War II: Second day of the Battle of Bukit Timah is fought in Singapore.
+- 1938: BBC Television produces the world's first ever science fiction television programme, an adaptation of a section of the Karel Čapek play R.U.R., that coined the term "robot".
+- 1937: The Flint sit-down strike ends when General Motors recognizes the United Auto Workers trade union.
+- 1933: LAPD Red Squad raid on John Reed Club art show in the U.S. results in the destruction of a dozen political artworks.
 
 Data from muffinlabs
-*(Updated at: 2026-02-10 02:44:43 UTC)*
+*(Updated at: 2026-02-11 02:42:19 UTC)*
 
 # 历史上的今天 
 
-- - 2021 年：德克萨斯州最严重的能源基础设施故障，即 2021 年德克萨斯州电力危机开始。
-- - 2021 年：由于 COVID-19 大流行，巴西里约热内卢的传统狂欢节首次取消。
-- - 2018年：香港872路九龙巴士双层巴士翻覆，造成19人死亡、66人受伤。
-- - 2016年：韩国决定停止与朝鲜开城联合工业园区的运营，以响应光明四号的发射。
-- - 2013年：印度阿拉哈巴德大壶节期间发生踩踏事件，造成 36 人死亡、39 人受伤。
-- - 2009 年：通信卫星铱星 33 号和科斯莫斯 2​​251 号在轨道上相撞，两颗卫星均被摧毁。
-- - 2004 年：一架福克 50 飞机在沙迦国际机场附近坠毁，造成 43 人死亡、3 人受伤。
-- - 2003年：法国和比利时打破了北约关于在可能与伊拉克发生战争的情况下对土耳其采取保护措施的时间安排的默许程序。
-- - 1996 年：IBM 超级计算机“深蓝”首次在国际象棋比赛中击败加里·卡斯帕罗夫。
-- - 1989 年：罗恩·布朗当选为民主党全国委员会主席，成为第一位领导美国主要政党的非裔美国人。
-- - 1984 年：肯尼亚士兵在瓦加拉大屠杀中杀害了约 5,000 名索马里肯尼亚人。
-- - 1972 年：哈伊马角并入阿拉伯联合酋长国，目前由七个酋长国组成。
-- - 1967年：美国宪法第25条修正案获得批准。
-- - 1964 年：墨尔本与航海者号相撞：墨尔本号航空母舰在澳大利亚新南威尔士州南海岸与航海者号驱逐舰相撞并沉没，造成 82 人死亡。
-- - 1962 年：冷战：被俘虏的美国 U2 间谍飞机飞行员加里·鲍尔斯 (Gary Powers) 被俘获的苏联间谍鲁道夫·阿贝尔 (Rudolf Abel) 交换。
-- - 1954 年：美国总统德怀特·艾森豪威尔警告美国不要干预越南。
-- - 1947 年：意大利、罗马尼亚、匈牙利、保加利亚、芬兰以及二战盟国签署《巴黎和约》。
-- - 1943 年：第二次世界大战：为了彻底解除列宁格勒之围，苏联红军在红博尔战役中与德国军队和西班牙志愿军交战。
-- - 1940 年：苏联开始将波兰公民从被占领的波兰东部大规模驱逐到西伯利亚。
-- - 1939 年：西班牙内战：民族主义者完成对加泰罗尼亚的征服并封锁与法国的边界。
-- - 1936 年：第二次意大利-阿比西尼亚战争：意大利军队对埃塞俄比亚守军发动安巴阿拉丹战役。
-- - 1933 年：在纽约市麦迪逊广场花园举行的拳击比赛第 13 轮中，普里莫·卡内拉 (Primo Carnera) 击倒了厄尼·沙夫 (Ernie Schaaf)。四天后沙夫去世。
-- - 1930 年：越南国党发动安佰叛变，希望推翻法国对越南的保护，但失败了。
-- - 1923 年：德克萨斯理工大学在德克萨斯州拉伯克成立，当时名为德克萨斯理工学院。
-- - 1920 年：I 区约 75% 的人口在 1920 年石勒苏益格公民投票中投票支持丹麦。
-- - 1920 年：约瑟夫·哈勒·德·哈伦堡 (Józef Haller de Hallenburg) 举行了波兰与海洋的象征性婚礼，庆祝波兰恢复了公海使用权。
-- - 1906 年：第一艘革命性的新型战列舰“无畏号”被命名。
-- - 1862 年：美国内战：在北卡罗来纳州帕斯阔坦克河上的伊丽莎白城战役中，一支联邦海军舰队摧毁了大部分联邦蚊式舰队。
-- - 1861 年：杰斐逊·戴维斯收到电报通知，他已被选为美利坚联盟国临时总统。
-- - 1846 年：第一次英锡克战争：索布朗之战：英国在战争的最后一场战役中击败锡克教徒。
+- - 2024年：2024年芬兰总统选举：亚历山大·斯塔布当选芬兰第13任总统。
+- - 2020 年：COVID-19 大流行：世界卫生组织将冠状病毒爆发正式命名为 COVID-19，该病毒被指定为 SARS-CoV-2。
+- - 2018 年：萨拉托夫航空公司 703 号航班在俄罗斯莫斯科附近坠毁，造成 71 人死亡，无人生还。
+- - 2017 年：朝鲜试射越过日本海的弹道导弹。
+- - 2016 年：一名男子在沙特阿拉伯吉赞省的一所教育中心开枪打死 7 人。
+- - 2015年：一名大学生在土耳其抵抗强奸未遂时被谋杀，引发全国范围内的抗议活动和公众对针对女性的骚扰和暴力行为的强烈抗议。
+- - 2014年：一架军用运输机在阿尔及利亚东部乌姆布阿吉省山区坠毁，造成77人死亡。
+- - 2013年：自称来自苏禄苏丹国的武装分子入侵马来西亚沙巴州拿笃区，引发拿笃对峙。
+- - 2013年：梵蒂冈确认教皇本笃十六世因年事已高将辞去教皇职务。
+- - 2011年：阿拉伯之春：埃及革命的第一波浪潮在17天的抗议之后以胡斯尼·穆巴拉克的辞职和权力移交给最高军事委员会而达到顶峰。
+- - 2008年：东帝汶反叛士兵重伤总统若泽·拉莫斯-奥尔塔。叛军领导人阿尔弗雷多·雷纳多在袭击中丧生。
+- - 2001 年：一名荷兰程序员发布了安娜·库尔尼科娃 (Anna Kournikova) 病毒，通过网球明星的一张特技照片感染了数百万封电子邮件。
+- - 2000 年：奋进号航天飞机在 STS-99 上发射，执行航天飞机雷达地形测量任务。
+- - 1999年：冥王星穿过海王星轨道，结束了近20年它比这颗气态巨星更接近太阳的时期；预计冥王星要到 2231 年才会再次与海王星轨道相互作用。
+- - 1997 年：发现号航天飞机发射升空，执行为哈勃太空望远镜提供服务的任务。
+- - 1990 年：巴斯特·道格拉斯 (Buster Douglas) 以 42:1 的劣势在东京十回合击败迈克·泰森 (Mike Tyson)，赢得拳击世界重量级冠军。
+- - 1990 年：纳尔逊·曼德拉 (Nelson Mandela) 在担任政治犯 27 年后从南非开普敦郊外的维克多·维斯特监狱 (Victor Verster Prison) 获释。
+- - 1979 年：伊朗革命在阿亚图拉鲁霍拉·霍梅尼的领导下建立了伊斯兰神权政治。
+- - 1978 年：太平洋西部航空公司 314 号航班在加拿大不列颠哥伦比亚省克兰布鲁克的克兰布鲁克/加拿大落基山脉国际机场坠毁，造成 42 人死亡和 7 名幸存者。
+- - 1971 年：冷战：《海底军备控制条约》开放供签署，禁止国际水域海底核武器。
+- - 1970 年：日本发射大隅号，成为第四个使用自己的助推器将物体送入轨道的国家。
+- - 1963 年 — 披头士乐队录制了他们的第一张专辑 Please Please Me[38]：无
+- - 1959 年：南方阿拉伯联合酋长国联邦成立，作为联合王国的保护国。
+- - 1953年：以色列与苏联关系断绝。
+- - 1953 年：冷战：美国总统德怀特·D·艾森豪威尔拒绝了所有对朱利叶斯·罗森伯格和埃塞尔·罗森伯格宽大处理的请求。
+- - 1946 年：《圣经新约》修订标准版出版，这是对钦定版钦定本的第一个重大挑战。
+- - 1942 年：第二次世界大战：武吉知马战役第二天在新加坡打响。
+- - 1938 年：BBC 电视台制作了世界上第一个科幻电视节目，该节目改编自卡雷尔·恰佩克 (Karel Čapek) 的戏剧《R.U.R.》的一部分，并创造了“机器人”一词。
+- - 1937 年：通用汽车公司承认美国汽车工人联合会后，弗林特静坐罢工结束。
+- - 1933 年：洛杉矶警察局红队突袭美国约翰·里德俱乐部艺术展，导致十几件政治艺术品被毁。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-02-10 02:44:43 UTC）*
+*（更新于: 2026-02-11 02:42:19 UTC）*
