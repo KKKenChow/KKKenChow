@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: The country known as the Republic of Macedonia renames itself the Republic of North Macedonia in accordance with the Prespa agreement, settling a long-standing naming dispute with Greece.
-- 2016: Pope Francis and Patriarch Kirill sign an Ecumenical Declaration in the first such meeting between leaders of the Catholic and Russian Orthodox Churches since their split in 1054.
-- 2009: Colgan Air Flight 3407 crashes into a house in Clarence Center, New York while on approach to Buffalo Niagara International Airport, killing all on board and one on the ground.
-- 2004: The city of San Francisco begins issuing marriage licenses to same-sex couples in response to a directive from Mayor Gavin Newsom.
-- 2002: An Iran Airtour Tupolev Tu-154 crashes in the mountains outside Khorramabad, Iran while descending for a landing at Khorramabad Airport, killing 119.
-- 2002: The trial of Slobodan Milošević, the former President of the Federal Republic of Yugoslavia, begins at the United Nations International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands. He dies four years later before its conclusion.
-- 2001: NEAR Shoemaker spacecraft touches down in the "saddle" region of 433 Eros, becoming the first spacecraft to land on an asteroid.
-- 1999: United States President Bill Clinton is acquitted by the United States Senate in his impeachment trial.
-- 1994: Four thieves break into the National Gallery of Norway and steal Edvard Munch's iconic painting The Scream.
-- 1993: Two-year-old James Bulger is abducted from New Strand Shopping Centre by two ten-year-old boys, who later torture and murder him.
-- 1992: The current Constitution of Mongolia comes into effect.
-- 1990: Carmen Lawrence becomes the first female Premier in Australian history when she becomes Premier of Western Australia.
-- 1988: Cold War: The 1988 Black Sea bumping incident: The U.S. missile cruiser USS Yorktown (CG-48) is intentionally rammed by the Soviet frigate Bezzavetnyy in the Soviet territorial waters, while Yorktown claims innocent passage.
-- 1983: One hundred women protest in Lahore, Pakistan against military dictator Zia-ul-Haq's proposed Law of Evidence. The women were tear-gassed, baton-charged and thrown into lock-up. The women were successful in repealing the law.
-- 1974: Aleksandr Solzhenitsyn, winner of the Nobel Prize in Literature in 1970, is exiled from the Soviet Union.
-- 1968: Phong Nhị and Phong Nhất massacre.
-- 1965: Malcolm X visits Smethwick near Birmingham following the racially-charged 1964 United Kingdom general election.
-- 1966: Rabbi Morris Adler is fatally shot by a disgruntled congregant at Congregation Shaarey Zedek in Southfield, Michigan, United States.
-- 1963: Northwest Orient Airlines Flight 705 crashes into the Everglades shortly after takeoff from Miami International Airport, killing all 45 people on board.
-- 1963: Construction begins on the Gateway Arch in St. Louis, Missouri.
-- 1961: The Soviet Union launches Venera 1 towards Venus.
-- 1947: Christian Dior unveils a "New Look", helping Paris regain its position as the capital of the fashion world.
-- 1947: The largest observed iron meteorite until that time creates an impact crater in Sikhote-Alin, in the Soviet Union.
-- 1946: African American United States Army veteran Isaac Woodard is severely beaten by a South Carolina police officer to the point where he loses his vision in both eyes. The incident later galvanizes the civil rights movement and partially inspires Orson Welles' film Touch of Evil.
-- 1946: World War II: Operation Deadlight ends after scuttling 121 of 154 captured U-boats.
-- 1945: A devastating tornado outbreak in Mississippi and Alabama kills 45 people and injures 427 others.
-- 1935: USS Macon, one of the two largest helium-filled airships ever created, crashes into the Pacific Ocean off the coast of California and sinks.
-- 1921: Bolsheviks launch a revolt in Georgia as a preliminary to the Red Army invasion of Georgia.
-- 1919: The Second Regional Congress of Peasants, Workers and Insurgents is held by the Makhnovshchina at Huliaipole.
-- 1912: The Xuantong Emperor, the last Emperor of China, abdicates.
+- 2021: A major winter storm causes blackouts and kills at least 82 people in Texas and northern Mexico.
+- 2021: Former U.S. President Donald Trump is acquitted in his second impeachment trial.
+- 2017: Kim Jong-nam, brother of North Korean dictator Kim Jong-un, is assassinated at Kuala Lumpur International Airport.
+- 2012: The European Space Agency (ESA) conducted the first launch of the European Vega rocket from Europe's spaceport in Kourou, French Guiana.
+- 2011: For the first time in more than 100 years the Umatilla, an American Indian tribe, are able to hunt and harvest a bison just outside Yellowstone National Park, restoring a centuries-old tradition guaranteed by a treaty signed in 1855.
+- 2010: A bomb explodes in the city of Pune, Maharashtra, India, killing 17 and injuring 60 more.
+- 2008: Australian Prime Minister Kevin Rudd makes a historic apology to the Indigenous Australians and the Stolen Generations.
+- 2007: Taiwan opposition leader Ma Ying-jeou resigns as the chairman of the Kuomintang party after being indicted on charges of embezzlement during his tenure as the mayor of Taipei; Ma also announces his candidacy for the 2008 presidential election.
+- 2004: The Harvard-Smithsonian Center for Astrophysics announces the discovery of the universe's largest known diamond, white dwarf star BPM 37093. Astronomers named this star "Lucy" after The Beatles' song "Lucy in the Sky with Diamonds".
+- 2001: A magnitude 6.6 earthquake hits El Salvador, killing at least 315.
+- 1996: The Nepalese Civil War is initiated in the Kingdom of Nepal by the Communist Party of Nepal (Maoist-Centre).
+- 1991: Gulf War: Two laser-guided "smart bombs" destroy the Amiriyah shelter in Baghdad. Allied forces said the bunker was being used as a military communications outpost, but over 400 Iraqi civilians inside were killed.
+- 1984: Konstantin Chernenko succeeds the late Yuri Andropov as general secretary of the Communist Party of the Soviet Union.
+- 1983: A cinema fire in Turin, Italy, kills 64 people.
+- 1981: A series of sewer explosions destroys more than two miles of streets in Louisville, Kentucky.
+- 1979: An intense windstorm strikes western Washington and sinks a 0.5-mile (0.80 km) long section of the Hood Canal Bridge.
+- 1978: Hilton bombing: A bomb explodes in a refuse truck outside the Hilton Hotel in Sydney, Australia, killing two refuse collectors and a policeman.
+- 1975: Fire at One World Trade Center (North Tower) of the World Trade Center in New York.
+- 1967: American researchers discover the Madrid Codices by Leonardo da Vinci in the National Library of Spain.
+- 1961: An allegedly 500,000-year-old rock is discovered near Olancha, California, US, that appears to anachronistically encase a spark plug.
+- 1960: Black college students stage the first of the Nashville sit-ins at three lunch counters in Nashville, Tennessee.
+- 1960: With the success of a nuclear test codenamed "Gerboise Bleue", France becomes the fourth country to possess nuclear weapons.
+- 1955: Twenty-nine people are killed when Sabena Flight 503 crashes into Monte Terminillo near Rieti, Italy.
+- 1955: Israel obtains four of the seven Dead Sea Scrolls.
+- 1954: Frank Selvy becomes the only NCAA Division I basketball player ever to score 100 points in a single game.
+- 1951: Korean War: Battle of Chipyong-ni, which represented the "high-water mark" of the Chinese incursion into South Korea, commences.
+- 1945: World War II: Royal Air Force bombers are dispatched to Dresden, Germany to attack the city with a massive aerial bombardment.
+- 1945: World War II: The siege of Budapest concludes with the unconditional surrender of German and Hungarian forces to the Red Army.
+- 1935: A jury in Flemington, New Jersey finds Bruno Hauptmann guilty of the 1932 kidnapping and murder of the Lindbergh baby, the son of Charles Lindbergh.
+- 1931: The British Raj completes its transfer from Calcutta to New Delhi.
 
 Data from muffinlabs
-*(Updated at: 2026-02-12 02:36:47 UTC)*
+*(Updated at: 2026-02-13 02:38:16 UTC)*
 
 # 历史上的今天 
 
-- - 2019年：马其顿共和国根据普雷斯帕协议更名为北马其顿共和国，解决了与希腊长期存在的命名争端。
-- - 2016年：教皇方济各和宗主教基里尔签署了一份普世宣言，这是自1054年天主教会和俄罗斯东正教教会分裂以来第一次此类会议。
-- - 2009 年：科尔根航空 3407 号航班在飞往布法罗尼亚加拉国际机场时撞入纽约克拉伦斯中心的一所房屋，造成机上所有人和地面一人死亡。
-- - 2004 年：根据市长加文·纽瑟姆 (Gavin Newsom) 的指示，旧金山市开始向同性伴侣发放结婚证。
-- - 2002 年：一架伊朗航空图波列夫 Tu-154 飞机在伊朗霍拉马巴德机场降落时在伊朗霍拉马巴德郊外的山区坠毁，造成 119 人死亡。
-- - 2002年：对南斯拉夫联盟共和国前总统斯洛博丹·米洛舍维奇的审判在荷兰海牙的联合国前南斯拉夫问题国际刑事法庭开始。四年后，他在小说结束前去世。
-- - 2001 年：NEAR Shoemaker 航天器降落在 433 Eros 的“马鞍”区域，成为第一艘降落在小行星上的航天器。
-- - 1999 年：美国总统比尔·克林顿在弹劾审判中被美国参议院宣告无罪。
-- - 1994 年：四名窃贼闯入挪威国家美术馆并偷走了爱德华·蒙克的标志性画作《呐喊》。
-- - 1993 年：两岁的詹姆斯·巴尔杰 (James Bulger) 在新斯特兰德购物中心 (New Strand Shopping Centre) 被两个十岁男孩绑架，后来他们折磨并谋杀了他。
-- - 1992年：现行蒙古宪法生效。
-- - 1990 年：卡门·劳伦斯 (Carmen Lawrence) 就任西澳大利亚州州长，成为澳大利亚历史上第一位女总理。
-- - 1988年：冷战：1988年黑海撞船事件：美国导弹巡洋舰约克城号（CG-48）在苏联领海内被苏联护卫舰贝扎韦特尼号故意撞击，而约克城号则声称无害通过。
-- - 1983 年：一百名妇女在巴基斯坦拉合尔抗议军事独裁者齐亚·哈克提出的证据法。这些妇女遭到催泪瓦斯、警棍袭击并被关进看守所。这些妇女成功地废除了这项法律。
-- - 1974年：1970年诺贝尔文学奖获得者亚历山大·索尔仁尼琴被苏联流放。
-- - 1968 年：Phong Nhị 和 Phong Nhất 大屠杀。
-- - 1965 年：在充满种族歧视的 1964 年英国大选之后，马尔科姆 X 访问了伯明翰附近的斯梅斯威克。
-- - 1966 年：拉比莫里斯·阿德勒在美国密歇根州南菲尔德的 Shaarey Zedek 会众中被一名心怀不满的教友枪杀。
-- - 1963 年：西北东方航空公司 705 号航班从迈阿密国际机场起飞后不久坠入大沼泽地，机上 45 人全部遇难。
-- - 1963 年：密苏里州圣路易斯的大拱门开始施工。
-- - 1961 年：苏联向金星发射金星 1 号。
-- - 1947 年：Christian Dior 推出“New Look”，帮助巴黎重新夺回时尚界之都的地位。
-- - 1947 年：迄今为止观测到的最大的铁陨石在苏联的锡霍特-阿林形成了一个撞击坑。
-- - 1946 年：非洲裔美国退伍军人艾萨克·伍达德 (Isaac Woodard) 被一名南卡罗来纳州警察毒打致使双眼失明。这一事件后来激发了民权运动，并部分启发了奥逊·威尔斯的电影《历险记》。
-- - 1946 年：第二次世界大战：“死光”行动在击沉 154 艘被俘 U 艇中的 121 艘后结束。
-- - 1945 年：密西西比州和阿拉巴马州爆发毁灭性龙卷风，造成 45 人死亡、427 人受伤。
-- - 1935 年：美国梅肯号航空母舰（USS Macon）是有史以来最大的两艘氦气飞艇之一，坠入加利福尼亚州海岸附近的太平洋并沉没。
-- - 1921 年：布尔什维克在格鲁吉亚发动起义，作为红军入侵格鲁吉亚的第一步。
-- - 1919年：马赫诺运动在胡利亚坡勒召开了第二届农民、工人和起义者地区代表大会。
-- - 1912年：中国最后一位皇帝宣统皇帝退位。
+- - 2021 年：一场重大冬季风暴导致德克萨斯州和墨西哥北部停电并造成至少 82 人死亡。
+- - 2021 年：美国前总统唐纳德·特朗普在第二次弹劾审判中被无罪释放。
+- - 2017年：朝鲜独裁者金正恩的弟弟金正男在吉隆坡国际机场被暗杀。
+- - 2012 年：欧洲航天局 (ESA) 从法属圭亚那库鲁的欧洲航天发射场首次发射欧洲织女星火箭。
+- - 2011 年：美洲印第安部落尤马蒂拉 (Umatilla) 100 多年来首次能够在黄石国家公园外猎杀野牛，恢复了 1855 年签署的条约所保证的数百年历史的传统。
+- - 2010 年：一枚炸弹在印度马哈拉施特拉邦浦那市爆炸，造成 17 人死亡、60 人受伤。
+- - 2008年：澳大利亚总理陆克文向澳大利亚原住民和“被偷走的一代”做出历史性的道歉。
+- - 2007年：台湾反对党领袖马英九在担任台北市长期间因贪污罪被起诉，辞去国民党主席职务；马云还宣布参选2008年总统选举。
+- - 2004 年：哈佛-史密森天体物理中心宣布发现了宇宙中已知最大的钻石——白矮星 BPM 37093。天文学家以披头士乐队的歌曲《天空中的露西钻石》为这颗恒星命名为“露西”。
+- - 2001 年：萨尔瓦多发生里氏 6.6 级地震，造成至少 315 人死亡。
+- - 1996年：尼泊尔共产党（毛主义中心）在尼泊尔王国发动尼泊尔内战。
+- - 1991 年：海湾战争：两枚激光制导“智能炸弹”摧毁了巴格达的 Amiriyah 避难所。盟军表示，该掩体被用作军事通讯前哨，但里面有 400 多名伊拉克平民被杀。
+- - 1984年：康斯坦丁·切尔年科接替已故的尤里·安德罗波夫担任苏联共产党总书记。
+- - 1983 年：意大利都灵的一场电影院火灾导致 64 人死亡。
+- - 1981 年：肯塔基州路易斯维尔发生一系列下水道爆炸，摧毁了超过两英里的街道。
+- - 1979 年：一场强烈的风暴袭击华盛顿州西部，淹没了胡德运河大桥 0.5 英里（0.80 公里）长的一段。
+- - 1978年：希尔顿爆炸案：一枚炸弹在澳大利亚悉尼希尔顿酒店外的一辆垃圾车内爆炸，炸死两名垃圾收集员和一名警察。
+- - 1975年：纽约世贸中心一号楼（北塔）发生火灾。
+- - 1967 年：美国研究人员在西班牙国家图书馆发现了达芬奇的马德里手抄本。
+- - 1961 年：在美国加利福尼亚州奥兰查附近发现了一块据称有 50 万年历史的岩石，该岩石似乎不合时宜地包裹着一个火花塞。
+- - 1960 年：黑人大学生在田纳西州纳什维尔的三个午餐柜台上演了第一次纳什维尔静坐。
+- - 1960年：代号“Gerboise Bleue”的核试验成功，法国成为第四个拥有核武器的国家。
+- - 1955 年：Sabena 503 航班坠毁在意大利列蒂附近的泰尔米尼洛山，造成 29 人死亡。
+- - 1955 年：以色列获得七本死海古卷中的四本。
+- - 1954 年：弗兰克·塞尔维 (Frank Selvy) 成为唯一一位在单场比赛中获得 100 分的 NCAA I 级篮球运动员。
+- - 1951年：朝鲜战争：代表中国入侵韩国“高潮”的稷平里战役爆发。
+- - 1945 年：第二次世界大战：英国皇家空军轰炸机被派往德国德累斯顿，对这座城市进行大规模空中轰炸。
+- - 1945 年：第二次世界大战：布达佩斯围困结束，德国和匈牙利军队向红军无条件投降。
+- - 1935 年：新泽西州弗莱明顿的陪审团裁定布鲁诺·豪普特曼 (Bruno Hauptmann) 犯有 1932 年绑架和谋杀查尔斯·林德伯格 (Charles Lindbergh) 之子林德伯格 (Lindbergh) 婴儿的罪行。
+- - 1931 年：英属印度完成从加尔各答到新德里的转移。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-02-12 02:36:47 UTC）*
+*（更新于: 2026-02-13 02:38:16 UTC）*
