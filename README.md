@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: A major winter storm causes blackouts and kills at least 82 people in Texas and northern Mexico.
-- 2021: Former U.S. President Donald Trump is acquitted in his second impeachment trial.
-- 2017: Kim Jong-nam, brother of North Korean dictator Kim Jong-un, is assassinated at Kuala Lumpur International Airport.
-- 2012: The European Space Agency (ESA) conducted the first launch of the European Vega rocket from Europe's spaceport in Kourou, French Guiana.
-- 2011: For the first time in more than 100 years the Umatilla, an American Indian tribe, are able to hunt and harvest a bison just outside Yellowstone National Park, restoring a centuries-old tradition guaranteed by a treaty signed in 1855.
-- 2010: A bomb explodes in the city of Pune, Maharashtra, India, killing 17 and injuring 60 more.
-- 2008: Australian Prime Minister Kevin Rudd makes a historic apology to the Indigenous Australians and the Stolen Generations.
-- 2007: Taiwan opposition leader Ma Ying-jeou resigns as the chairman of the Kuomintang party after being indicted on charges of embezzlement during his tenure as the mayor of Taipei; Ma also announces his candidacy for the 2008 presidential election.
-- 2004: The Harvard-Smithsonian Center for Astrophysics announces the discovery of the universe's largest known diamond, white dwarf star BPM 37093. Astronomers named this star "Lucy" after The Beatles' song "Lucy in the Sky with Diamonds".
-- 2001: A magnitude 6.6 earthquake hits El Salvador, killing at least 315.
-- 1996: The Nepalese Civil War is initiated in the Kingdom of Nepal by the Communist Party of Nepal (Maoist-Centre).
-- 1991: Gulf War: Two laser-guided "smart bombs" destroy the Amiriyah shelter in Baghdad. Allied forces said the bunker was being used as a military communications outpost, but over 400 Iraqi civilians inside were killed.
-- 1984: Konstantin Chernenko succeeds the late Yuri Andropov as general secretary of the Communist Party of the Soviet Union.
-- 1983: A cinema fire in Turin, Italy, kills 64 people.
-- 1981: A series of sewer explosions destroys more than two miles of streets in Louisville, Kentucky.
-- 1979: An intense windstorm strikes western Washington and sinks a 0.5-mile (0.80 km) long section of the Hood Canal Bridge.
-- 1978: Hilton bombing: A bomb explodes in a refuse truck outside the Hilton Hotel in Sydney, Australia, killing two refuse collectors and a policeman.
-- 1975: Fire at One World Trade Center (North Tower) of the World Trade Center in New York.
-- 1967: American researchers discover the Madrid Codices by Leonardo da Vinci in the National Library of Spain.
-- 1961: An allegedly 500,000-year-old rock is discovered near Olancha, California, US, that appears to anachronistically encase a spark plug.
-- 1960: Black college students stage the first of the Nashville sit-ins at three lunch counters in Nashville, Tennessee.
-- 1960: With the success of a nuclear test codenamed "Gerboise Bleue", France becomes the fourth country to possess nuclear weapons.
-- 1955: Twenty-nine people are killed when Sabena Flight 503 crashes into Monte Terminillo near Rieti, Italy.
-- 1955: Israel obtains four of the seven Dead Sea Scrolls.
-- 1954: Frank Selvy becomes the only NCAA Division I basketball player ever to score 100 points in a single game.
-- 1951: Korean War: Battle of Chipyong-ni, which represented the "high-water mark" of the Chinese incursion into South Korea, commences.
-- 1945: World War II: Royal Air Force bombers are dispatched to Dresden, Germany to attack the city with a massive aerial bombardment.
-- 1945: World War II: The siege of Budapest concludes with the unconditional surrender of German and Hungarian forces to the Red Army.
-- 1935: A jury in Flemington, New Jersey finds Bruno Hauptmann guilty of the 1932 kidnapping and murder of the Lindbergh baby, the son of Charles Lindbergh.
-- 1931: The British Raj completes its transfer from Calcutta to New Delhi.
+- 2020: At least 22 people are killed in an attack on a village in Northwest Region, Cameroon.
+- 2019: Pulwama attack takes place in Lethpora in Pulwama district, Jammu and Kashmir, India in which 40 Central Reserve Police Force personnel and a suicide bomber were killed and 35 were injured.
+- 2018: A shooting at Marjory Stoneman Douglas High School in Parkland, Florida is one of the deadliest school massacres with 17 fatalities and 17 injuries.
+- 2018: Jacob Zuma resigns as President of South Africa.
+- 2011: As a part of Arab Spring, the Bahraini uprising begins with a 'Day of Rage'.
+- 2008: Northern Illinois University shooting: A gunman opens fire in a lecture hall of Northern Illinois University in DeKalb County, Illinois, resulting in six fatalities (including the gunman) and 21 injuries.
+- 2005: YouTube is launched by a group of college students, eventually becoming the largest video sharing website in the world and a main source for viral videos.
+- 2005: Seven people are killed and 151 wounded in a series of bombings by suspected al-Qaeda-linked militants that hit Makati, Davao City, and General Santos, all in the Philippines.
+- 2005: In Beirut, 23 people, including former Prime Minister Rafic Hariri, are killed when the equivalent of around 1,000 kg of TNT is detonated while Hariri's motorcade drives through the city.
+- 2004: In a suburb of Moscow, Russia, the roof of the Transvaal water park collapses, killing more than 28 people, and wounding 193 others.
+- 2003: Iraq disarmament crisis: UNMOVIC Executive Chairman Hans Blix reports to the United Nations Security Council that disarmament inspectors have found no weapons of mass destruction in Ba'athist Iraq.
+- 2000: The spacecraft NEAR Shoemaker enters orbit around asteroid 433 Eros, the first spacecraft to orbit an asteroid.
+- 1998: An oil tanker train collides with a freight train in Yaoundé, Cameroon, spilling fuel oil. One person scavenging the oil created a massive explosion which killed 120.
+- 1990: The Voyager 1 spacecraft takes the photograph of planet Earth that later becomes famous as Pale Blue Dot.
+- 1990: Ninety-two people are killed when Indian Airlines Flight 605 crashes in Bangalore, India.
+- 1989: Iranian leader Ruhollah Khomeini issues a fatwa encouraging Muslims to kill Salman Rushdie, author of The Satanic Verses.
+- 1989: Union Carbide agrees to pay $470 million to the Indian government for damages it caused in the 1984 Bhopal disaster.
+- 1983: United American Bank of Knoxville, Tennessee collapses. Its president, Jake Butcher, is later convicted of fraud.
+- 1979: In Kabul, Setami Milli militants kidnap the American ambassador to Afghanistan, Adolph Dubs who is later killed during a gunfight between his kidnappers and police.
+- 1961: Discovery of the chemical elements: Element 103, Lawrencium, is first synthesized at the University of California.
+- 1954: First Indochina War - small French garrison at Đắk Đoa is overrun by the Viet Minh after a week's siege.
+- 1949: The Asbestos Strike begins in Canada. The strike marks the beginning of the Quiet Revolution in Quebec.
+- 1949: The Knesset (parliament of Israel) convenes for the first time.
+- 1947: The act abolishing all noble ranks and related styles comes into force in Hungary.
+- 1946: The Bank of England is nationalized.
+- 1945: President Franklin D. Roosevelt meets King Ibn Saud of Saudi Arabia aboard the USS Quincy, officially beginning U.S.-Saudi diplomatic relations.
+- 1945: World War II: Mostar is liberated by Yugoslav partisans
+- 1945: World War II: Navigational error leads to the mistaken bombing of Prague, Czechoslovakia by a United States Army Air Forces squadron of B-17s assisting in the Soviet Red Army's Vistula-Oder Offensive.
+- 1945: World War II: On the first day of the bombing of Dresden, the British Royal Air Force and the United States Army Air Forces begin fire-bombing Dresden.
+- 1944: World War II: In the action of 14 February 1944, a Royal Navy submarine sinks a German-controlled Italian Regia Marina submarine in the Strait of Malacca.
 
 Data from muffinlabs
-*(Updated at: 2026-02-13 02:38:16 UTC)*
+*(Updated at: 2026-02-14 02:25:53 UTC)*
 
 # 历史上的今天 
 
-- - 2021 年：一场重大冬季风暴导致德克萨斯州和墨西哥北部停电并造成至少 82 人死亡。
-- - 2021 年：美国前总统唐纳德·特朗普在第二次弹劾审判中被无罪释放。
-- - 2017年：朝鲜独裁者金正恩的弟弟金正男在吉隆坡国际机场被暗杀。
-- - 2012 年：欧洲航天局 (ESA) 从法属圭亚那库鲁的欧洲航天发射场首次发射欧洲织女星火箭。
-- - 2011 年：美洲印第安部落尤马蒂拉 (Umatilla) 100 多年来首次能够在黄石国家公园外猎杀野牛，恢复了 1855 年签署的条约所保证的数百年历史的传统。
-- - 2010 年：一枚炸弹在印度马哈拉施特拉邦浦那市爆炸，造成 17 人死亡、60 人受伤。
-- - 2008年：澳大利亚总理陆克文向澳大利亚原住民和“被偷走的一代”做出历史性的道歉。
-- - 2007年：台湾反对党领袖马英九在担任台北市长期间因贪污罪被起诉，辞去国民党主席职务；马云还宣布参选2008年总统选举。
-- - 2004 年：哈佛-史密森天体物理中心宣布发现了宇宙中已知最大的钻石——白矮星 BPM 37093。天文学家以披头士乐队的歌曲《天空中的露西钻石》为这颗恒星命名为“露西”。
-- - 2001 年：萨尔瓦多发生里氏 6.6 级地震，造成至少 315 人死亡。
-- - 1996年：尼泊尔共产党（毛主义中心）在尼泊尔王国发动尼泊尔内战。
-- - 1991 年：海湾战争：两枚激光制导“智能炸弹”摧毁了巴格达的 Amiriyah 避难所。盟军表示，该掩体被用作军事通讯前哨，但里面有 400 多名伊拉克平民被杀。
-- - 1984年：康斯坦丁·切尔年科接替已故的尤里·安德罗波夫担任苏联共产党总书记。
-- - 1983 年：意大利都灵的一场电影院火灾导致 64 人死亡。
-- - 1981 年：肯塔基州路易斯维尔发生一系列下水道爆炸，摧毁了超过两英里的街道。
-- - 1979 年：一场强烈的风暴袭击华盛顿州西部，淹没了胡德运河大桥 0.5 英里（0.80 公里）长的一段。
-- - 1978年：希尔顿爆炸案：一枚炸弹在澳大利亚悉尼希尔顿酒店外的一辆垃圾车内爆炸，炸死两名垃圾收集员和一名警察。
-- - 1975年：纽约世贸中心一号楼（北塔）发生火灾。
-- - 1967 年：美国研究人员在西班牙国家图书馆发现了达芬奇的马德里手抄本。
-- - 1961 年：在美国加利福尼亚州奥兰查附近发现了一块据称有 50 万年历史的岩石，该岩石似乎不合时宜地包裹着一个火花塞。
-- - 1960 年：黑人大学生在田纳西州纳什维尔的三个午餐柜台上演了第一次纳什维尔静坐。
-- - 1960年：代号“Gerboise Bleue”的核试验成功，法国成为第四个拥有核武器的国家。
-- - 1955 年：Sabena 503 航班坠毁在意大利列蒂附近的泰尔米尼洛山，造成 29 人死亡。
-- - 1955 年：以色列获得七本死海古卷中的四本。
-- - 1954 年：弗兰克·塞尔维 (Frank Selvy) 成为唯一一位在单场比赛中获得 100 分的 NCAA I 级篮球运动员。
-- - 1951年：朝鲜战争：代表中国入侵韩国“高潮”的稷平里战役爆发。
-- - 1945 年：第二次世界大战：英国皇家空军轰炸机被派往德国德累斯顿，对这座城市进行大规模空中轰炸。
-- - 1945 年：第二次世界大战：布达佩斯围困结束，德国和匈牙利军队向红军无条件投降。
-- - 1935 年：新泽西州弗莱明顿的陪审团裁定布鲁诺·豪普特曼 (Bruno Hauptmann) 犯有 1932 年绑架和谋杀查尔斯·林德伯格 (Charles Lindbergh) 之子林德伯格 (Lindbergh) 婴儿的罪行。
-- - 1931 年：英属印度完成从加尔各答到新德里的转移。
+- - 2020 年：喀麦隆西北地区一个村庄遭受袭击，造成至少 22 人死亡。
+- - 2019年：印度查谟和克什米尔普尔瓦马县Lethpora发生普尔瓦马袭击事件，造成40名中央后备警察部队人员和一名自杀式炸弹袭击者死亡，35人受伤。
+- - 2018 年：佛罗里达州帕克兰马乔里·斯通曼·道格拉斯高中发生枪击事件，造成 17 人死亡、17 人受伤，是最严重的校园屠杀事件之一。
+- - 2018 年：雅各布·祖马辞去南非总统职务。
+- - 2011 年：作为阿拉伯之春的一部分，巴林起义以“愤怒之日”开始。
+- - 2008年：北伊利诺伊大学枪击事件：一名枪手在伊利诺伊州迪卡尔布县北伊利诺伊大学报告厅内开枪，造成六人死亡（包括枪手）和21人受伤。
+- - 2005年：YouTube由一群大学生创立，最终成为世界上最大的视频分享网站和病毒视频的主要来源。
+- - 2005年：涉嫌与基地组织有联系的武装分子在菲律宾马卡蒂市、达沃市和桑托斯将军城发动了一系列爆炸事件，造成 7 人死亡、151 人受伤。
+- - 2005 年：在贝鲁特，当哈里里的车队驶过该市时，约 1,000 公斤的 TNT 炸药被引爆，造成 23 人死亡，其中包括前总理拉菲克·哈里里。
+- - 2004年：俄罗斯莫斯科郊区德兰士瓦水上乐园屋顶倒塌，造成超过28人死亡、193人受伤。
+- - 2003年：伊拉克裁军危机：监核视委执行主席汉斯·布利克斯向联合国安理会报告说，裁军视察员没有在伊拉克复兴党境内发现大规模杀伤性武器。
+- - 2000 年：NEAR Shoemaker 航天器进入小行星 433 Eros 周围的轨道，这是第一艘绕小行星运行的航天器。
+- - 1998 年：喀麦隆雅温得一列油罐车与一列货运列车相撞，燃油溢出。一个人在清理石油时引发了一场大规模爆炸，导致 120 人死亡。
+- - 1990 年：旅行者 1 号宇宙飞船拍摄了地球的照片，这张照片后来以“淡蓝点”而闻名。
+- - 1990 年：印度航空 605 号航班在印度班加罗尔坠毁，造成 92 人死亡。
+- - 1989 年：伊朗领导人鲁霍拉·霍梅尼发布追杀令，鼓励穆斯林杀死《撒旦诗篇》的作者萨尔曼·拉什迪。
+- - 1989 年：联合碳化物公司同意向印度政府支付 4.7 亿美元，以弥补其在 1984 年博帕尔灾难中造成的损失。
+- - 1983 年：田纳西州诺克斯维尔美国联合银行倒闭。其总裁杰克·布彻后来被判犯有欺诈罪。
+- - 1979 年：在喀布尔，Setami Milli 武装分子绑架了美国驻阿富汗大使阿道夫·杜布斯 (Adolph Dubs)，后者后来在绑架者与警察的枪战中身亡。
+- - 1961 年：化学元素的发现：103 号元素劳伦西姆 (Lawrencium) 首次在加利福尼亚大学合成。
+- - 1954 年：第一次印度支那战争 - 在 Đắk Đoa 的法国小驻军经过一周的围攻后被越盟占领。
+- - 1949 年：加拿大开始石棉罢工。这次罢工标志着魁北克安静革命的开始。
+- - 1949 年：以色列议会首次召开。
+- - 1947年：废除所有贵族等级和相关风格的法案在匈牙利生效。
+- - 1946 年：英格兰银行国有化。
+- - 1945 年：富兰克林·罗斯福总统在昆西号航空母舰上会见了沙特阿拉伯国王伊本·沙特，正式开始了美国与沙特的外交关系。
+- - 1945 年：第二次世界大战：南斯拉夫游击队解放莫斯塔尔
+- - 1945 年：第二次世界大战：导航错误导致协助苏联红军维斯瓦河-奥得河攻势的美国陆军航空队 B-17 中队错误轰炸了捷克斯洛伐克的布拉格。
+- - 1945 年：第二次世界大战：轰炸德累斯顿的第一天，英国皇家空军和美国陆军空军开始对德累斯顿进行燃烧轰炸。
+- - 1944 年：第二次世界大战：在 1944 年 2 月 14 日的行动中，一艘皇家海军潜艇在马六甲海峡击沉了一艘德国控制的意大利 Regia Marina 潜艇。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-02-13 02:38:16 UTC）*
+*（更新于: 2026-02-14 02:25:53 UTC）*
