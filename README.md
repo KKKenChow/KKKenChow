@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: In the prelude to the 2022 Russian invasion of Ukraine Russian President Vladimir Putin declares the Luhansk People's Republic and Donetsk People's Republic as independent from Ukraine, and moves troops into the region. The action is condemned by the United Nations.
-- 2013: At least 17 people are killed and 119 injured following several bombings in the Indian city of Hyderabad.
-- 1995: Steve Fossett lands in Leader, Saskatchewan, Canada becoming the first person to make a solo flight across the Pacific Ocean in a balloon.
-- 1994: Aldrich Ames is arrested by the Federal Bureau of Investigation for selling national secrets to the Soviet Union in Arlington County, Virginia.
-- 1975: Watergate scandal: Former United States Attorney General John N. Mitchell and former White House aides H. R. Haldeman and John Ehrlichman are sentenced to prison.
-- 1974: The last Israeli soldiers leave the west bank of the Suez Canal pursuant to a truce with Egypt.
-- 1973: Over the Sinai Desert, Israeli fighter aircraft shoot down Libyan Arab Airlines Flight 114 jet killing 108 people.
-- 1972: The Soviet uncrewed spaceship Luna 20 lands on the Moon.
-- 1972: United States President Richard Nixon visits China to normalize Sino-American relations.
-- 1971: The Convention on Psychotropic Substances is signed at Vienna.
-- 1958: The CND symbol, aka peace symbol, commissioned by the Direct Action Committee in protest against the Atomic Weapons Research Establishment, is designed and completed by Gerald Holtom.
-- 1952: The Bengali language movement protests occur at the University of Dhaka in East Pakistan (now Bangladesh).
-- 1952: The British government, under Winston Churchill, abolishes identity cards in the UK to "set the people free".
-- 1948: NASCAR is incorporated.
-- 1947: In New York City, Edwin Land demonstrates the first "instant camera", the Polaroid Land Camera, to a meeting of the Optical Society of America.
-- 1945: World War II:  the Brazilian Expeditionary Force defeat the German forces in the Battle of Monte Castello on the Italian front.
-- 1945: World War II: During the Battle of Iwo Jima, Japanese kamikaze planes sink the escort carrier USS Bismarck Sea and damage the USS Saratoga.
-- 1937: The League of Nations bans foreign national "volunteers" in the Spanish Civil War.
-- 1929: In the first battle of the Warlord Rebellion in northeastern Shandong against the Nationalist government of China, a 24,000-strong rebel force led by Zhang Zongchang was defeated at Zhifu by 7,000 NRA troops.
-- 1925: The New Yorker publishes its first issue.
-- 1921: Rezā Shāh takes control of Tehran during a successful coup.
-- 1921: Constituent Assembly of the Democratic Republic of Georgia adopts the country's first constitution.
-- 1919: German socialist Kurt Eisner is assassinated. His death results in the establishment of the Bavarian Soviet Republic and parliament and government fleeing Munich, Germany.
-- 1918: The last Carolina parakeet dies in captivity at the Cincinnati Zoo.
-- 1916: World War I: In France, the Battle of Verdun begins.
-- 1913: Ioannina is incorporated into the Greek state after the Balkan Wars.
-- 1896: An Englishman raised in Australia, Bob Fitzsimmons, fought an Irishman, Peter Maher, in an American promoted event which technically took place in Mexico, winning the 1896 World Heavyweight Championship in boxing.
-- 1885: The newly completed Washington Monument is dedicated.
-- 1878: The first telephone directory is issued in New Haven, Connecticut.
-- 1874: The Oakland Daily Tribune publishes its first edition.
+- 2022: Twosday, the name given to Tuesday, February 22, 2022, at 2:22:22, occurs.
+- 2018: A man throws a grenade at the U.S. embassy in Podgorica, Montenegro. He dies at the scene from a second explosion, with no one else hurt.
+- 2015: A ferry carrying 100 passengers capsizes in the Padma River, killing 70 people.
+- 2014: President Viktor Yanukovych of Ukraine is impeached by the Verkhovna Rada of Ukraine by a vote of 328-0, fulfilling a major goal of the Euromaidan rebellion.
+- 2012: A train crash in Buenos Aires, Argentina, kills 51 people and injures 700 others.
+- 2011: Bahraini uprising: Tens of thousands of people march in protest against the deaths of seven victims killed by police and army forces during previous protests.
+- 2011: New Zealand's second deadliest earthquake, the 2011 Christchurch earthquake, kills 185 people.
+- 2006: The Securitas depot robbery was the UK's largest heist. Almost £53m (about $92.5 million or €78 million) was stolen from a Securitas depot in Tonbridge, Kent.
+- 2006: At approximately 6:44 a.m.  local Iraqi time, explosions occurred at the al-Askari Shrine in Samarra, Iraq. The attack on the shrine, one of the holiest sites in Shia Islam, caused the escalation of sectarian tensions in Iraq into a full-scale civil war.
+- 2005: The 6.4 Mw  Zarand earthquake shakes the Kerman province of Iran with a maximum Mercalli intensity of VIII (Severe), leaving 612 people dead and 1,411 injured.
+- 2002: Angolan political and rebel leader Jonas Savimbi is killed in a military ambush.
+- 1997: In Roslin, Midlothian, British scientists announce that an adult sheep named Dolly has been successfully cloned.
+- 1995: The Corona reconnaissance satellite program, in existence from 1959 to 1972, is declassified.
+- 1994: Aldrich Ames and his wife are charged by the United States Department of Justice with spying for the Soviet Union.
+- 1986: Start of the People Power Revolution in the Philippines.
+- 1983: The notorious Broadway flop Moose Murders opens and closes on the same night at the Eugene O'Neill Theatre.
+- 1980: Miracle on Ice: In Lake Placid, New York, the United States hockey team defeats the Soviet Union hockey team 4-3.
+- 1979: Saint Lucia gains independence from the United Kingdom.
+- 1974: Samuel Byck attempts to hijack an aircraft at Baltimore/Washington International Airport with the intention of crashing it into the White House to assassinate Richard Nixon, but commits suicide after being wounded by police.
+- 1974: The Organisation of the Islamic Conference summit begins in Lahore, Pakistan. Thirty-seven countries attend and twenty-two heads of state and government participate. It also recognizes Bangladesh.
+- 1973: Cold War: Following President Richard Nixon's visit to the People's Republic of China, the two countries agree to establish liaison offices.
+- 1972: The Official Irish Republican Army detonates a car bomb at Aldershot barracks, killing seven and injuring nineteen others.
+- 1959: Lee Petty wins the first Daytona 500.
+- 1958: Following a plebiscite in both countries the previous day, Egypt and Syria join to form the United Arab Republic.
+- 1957: Ngô Đình Diệm of South Vietnam survives a communist shooting assassination attempt in Buôn Ma Thuột.
+- 1946: The "Long Telegram", proposing how the United States should deal with the Soviet Union, arrives from the US embassy in Moscow.
+- 1944: World War II: The Soviet Red Army recaptures Krivoi Rog.
+- 1944: World War II: American aircraft mistakenly bomb the Dutch towns of Nijmegen, Arnhem, Enschede and Deventer, resulting in 800 dead in Nijmegen alone.
+- 1943: Yankee Clipper crashes while landing on the Tagus in Lisbon, killing 24.
+- 1943: World War II: Members of the White Rose resistance, Sophie Scholl, Hans Scholl, and Christoph Probst are executed in Nazi Germany.
 
 Data from muffinlabs
-*(Updated at: 2026-02-21 02:22:47 UTC)*
+*(Updated at: 2026-02-22 02:34:04 UTC)*
 
 # 历史上的今天 
 
-- - 2022年：在2022年俄罗斯入侵乌克兰的前奏中，俄罗斯总统弗拉基米尔·普京宣布卢甘斯克人民共和国和顿涅茨克人民共和国从乌克兰独立，并向该地区派遣军队。这一行动遭到联合国的谴责。
-- - 2013 年：印度海得拉巴市发生多起爆炸事件，造成至少 17 人死亡、119 人受伤。
-- - 1995 年：史蒂夫·福塞特 (Steve Fossett) 降落在加拿大萨斯喀彻温省的利德 (Leader)，成为单人乘坐热气球飞越太平洋的第一人。
-- - 1994 年：奥尔德里奇·艾姆斯因向苏联出售国家机密而在弗吉尼亚州阿灵顿县被联邦调查局逮捕。
-- - 1975 年：水门事件丑闻：美国前司法部长约翰·N·米切尔 (John N. Mitchell) 和前白宫助手 H. R. 霍尔德曼 (H. R. Haldeman) 和约翰·埃利希曼 (John Ehrlichman) 被判入狱。
-- - 1974 年：根据与埃及的休战协议，最后一批以色列士兵离开苏伊士运河西岸。
-- - 1973 年：在西奈沙漠上空，以色列战斗机击落阿拉伯利比亚航空公司 114 号航班，造成 108 人死亡。
-- - 1972 年：苏联无人宇宙飞船 Luna 20 登陆月球。
-- - 1972年：美国总统理查德·尼克松访问中国，实现中美关系正常化。
-- - 1971 年：《精神药物公约》在维也纳签署。
-- - 1958年：CND标志，又名和平标志，由直接行动委员会委托设计，以抗议原子武器研究机构，由杰拉尔德·霍尔托姆设计并完成。
-- - 1952 年：东巴基斯坦（现孟加拉国）达卡大学发生孟加拉语运动抗议。
-- - 1952 年：温斯顿·丘吉尔领导下的英国政府废除了英国身份证，以“让人民自由”。
-- - 1948 年：NASCAR 成立。
-- - 1947 年：在纽约市，埃德温·兰德 (Edwin Land) 在美国光学学会的一次会议上展示了第一台“拍立得相机”——宝丽来陆地相机。
-- - 1945 年：第二次世界大战：巴西远征军在意大利前线的蒙特卡斯特罗战役中击败德国军队。
-- - 1945 年：第二次世界大战：在硫磺岛战役中，日本神风特攻队飞机击沉了俾斯麦海号护航航空母舰并损坏了萨拉托加号航空母舰。
-- - 1937 年：国际联盟禁止在西班牙内战中招募外国国民“志愿者”。
-- - 1929年：在山东东北部针对中国国民政府的军阀叛乱的第一次战斗中，张宗昌领导的24,000人起义军在芝罘被7,000名国民革命军击败。
-- - 1925 年：《纽约客》出版第一期。
-- - 1921 年：礼萨沙 (Rezā Shah) 在一次成功的政变中控制了德黑兰。
-- - 1921年：格鲁吉亚民主共和国制宪会议通过该国第一部宪法。
-- - 1919 年：德国社会主义者库尔特·艾斯纳 (Kurt Eisner) 被暗杀。他的死导致巴伐利亚苏维埃共和国成立，议会和政府逃离德国慕尼黑。
-- - 1918 年：最后一只卡罗来纳长尾小鹦鹉在辛辛那提动物园的圈养中死亡。
-- - 1916 年：第一次世界大战：在法国，凡尔登战役开始。
-- - 1913 年：巴尔干战争后，约阿尼纳并入希腊国家。
-- - 1896 年：在澳大利亚长大的英国人鲍勃·菲茨西蒙斯 (Bob Fitzsimmons) 在一场美国推广的赛事中与爱尔兰人彼得·马赫 (Peter Maher) 进行了一场比赛，比赛实际上是在墨西哥举行，赢得了 1896 年世界重量级拳击冠军。
-- - 1885 年：新落成的华盛顿纪念碑落成。
-- - 1878 年：第一本电话簿在康涅狄格州纽黑文发行。
-- - 1874 年：《奥克兰每日论坛报》出版第一版。
+- - 2022：Twosday，2022 年 2 月 22 日星期二 2:22:22 出现。
+- - 2018 年：一名男子向黑山波德戈里察的美国大使馆投掷手榴弹。他在第二次爆炸中当场死亡，没有其他人受伤。
+- - 2015年：一艘载有100名乘客的渡轮在帕德玛河倾覆，造成70人死亡。
+- - 2014年：乌克兰总统维克多·亚努科维奇被乌克兰最高拉达以328票对0票弹劾，实现了亲欧盟叛乱的一个主要目标。
+- - 2012 年：阿根廷布宜诺斯艾利斯发生火车相撞事故，造成 51 人死亡、700 人受伤。
+- - 2011年：巴林起义：数万人游行抗议之前的抗议活动中七名受害者被警察和军队杀害。
+- - 2011 年：新西兰第二次最严重的地震，即 2011 年基督城地震，造成 185 人死亡。
+- - 2006 年：Securitas 仓库抢劫案是英国最大的抢劫案。肯特郡汤布里奇的 Securitas 仓库被盗近 5300 万英镑（约合 9250 万美元或 7800 万欧元）。
+- - 2006 年：伊拉克当地时间早上 6:44 左右，伊拉克萨迈拉的阿斯卡里神社发生爆炸。对什叶派伊斯兰教最圣地之一的圣地的袭击导致伊拉克教派紧张局势升级为全面内战。
+- - 2005 年：6.4 兆瓦的扎兰德地震震动了伊朗克尔曼省，最大麦卡利强度为 VIII（严重），造成 612 人死亡、1,411 人受伤。
+- - 2002年：安哥拉政治和叛乱领袖乔纳斯·萨文比在一次军事伏击中身亡。
+- - 1997 年：在中洛锡安的罗斯林，英国科学家宣布成功克隆出一只名为多莉的成年羊。
+- - 1995 年：1959 年至 1972 年存在的 Corona 侦察卫星计划被解密。
+- - 1994 年：奥尔德里奇·艾姆斯和他的妻子被美国司法部指控为苏联从事间谍活动。
+- - 1986 年：菲律宾人民权力革命开始。
+- - 1983 年：臭名昭著的百老汇失败剧《驼鹿谋杀案》于同一晚在尤金·奥尼尔剧院上演和闭幕。
+- - 1980年：冰上奇迹：在纽约普莱西德湖，美国曲棍球队以4-3击败苏联曲棍球队。
+- - 1979 年：圣卢西亚从英国独立。
+- - 1974 年：塞缪尔·拜克试图在巴尔的摩/华盛顿国际机场劫持一架飞机，意图将其撞入白宫刺杀理查德·尼克松，但被警察打伤后自杀。
+- - 1974 年：伊斯兰会议组织峰会在巴基斯坦拉合尔召开。37 个国家出席，22 位国家元首和政府首脑参加。它还承认孟加拉国。
+- - 1973年：冷战：理查德·尼克松总统访问中华人民共和国后，两国同意建立联络处。
+- - 1972 年：官方爱尔兰共和军在奥尔德肖特军营引爆了一枚汽车炸弹，造成七人死亡、十九人受伤。
+- - 1959 年：Lee Petty 赢得首届 Daytona 500 比赛冠军。
+- - 1958 年：前一天两国举行公民投票后，埃及和叙利亚加入组成阿拉伯联合共和国。
+- - 1957 年：南越的吴庭艳 (Ngô Đình Diệm) 在邦美蜀 (Buôn Ma Thuột) 的共产党枪击暗杀事件中幸存。
+- - 1946年：美国驻莫斯科大使馆发出一封“长电报”，建议美国应如何应对苏联。
+- - 1944 年：第二次世界大战：苏联红军夺回克里沃罗格。
+- - 1944 年：第二次世界大战：美国飞机错误轰炸了荷兰城镇奈梅亨、阿纳姆、恩斯赫德和代芬特尔，仅奈梅亨就造成 800 人死亡。
+- - 1943 年：Yankee Clipper 在里斯本塔古斯河着陆时坠毁，造成 24 人死亡。
+- - 1943 年：第二次世界大战：白玫瑰抵抗组织成员苏菲·绍尔、汉斯·绍尔和克里斯托夫·普罗布斯特在纳粹德国被处决。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-02-21 02:22:47 UTC）*
+*（更新于: 2026-02-22 02:34:04 UTC）*
