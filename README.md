@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Twosday, the name given to Tuesday, February 22, 2022, at 2:22:22, occurs.
-- 2018: A man throws a grenade at the U.S. embassy in Podgorica, Montenegro. He dies at the scene from a second explosion, with no one else hurt.
-- 2015: A ferry carrying 100 passengers capsizes in the Padma River, killing 70 people.
-- 2014: President Viktor Yanukovych of Ukraine is impeached by the Verkhovna Rada of Ukraine by a vote of 328-0, fulfilling a major goal of the Euromaidan rebellion.
-- 2012: A train crash in Buenos Aires, Argentina, kills 51 people and injures 700 others.
-- 2011: Bahraini uprising: Tens of thousands of people march in protest against the deaths of seven victims killed by police and army forces during previous protests.
-- 2011: New Zealand's second deadliest earthquake, the 2011 Christchurch earthquake, kills 185 people.
-- 2006: The Securitas depot robbery was the UK's largest heist. Almost £53m (about $92.5 million or €78 million) was stolen from a Securitas depot in Tonbridge, Kent.
-- 2006: At approximately 6:44 a.m.  local Iraqi time, explosions occurred at the al-Askari Shrine in Samarra, Iraq. The attack on the shrine, one of the holiest sites in Shia Islam, caused the escalation of sectarian tensions in Iraq into a full-scale civil war.
-- 2005: The 6.4 Mw  Zarand earthquake shakes the Kerman province of Iran with a maximum Mercalli intensity of VIII (Severe), leaving 612 people dead and 1,411 injured.
-- 2002: Angolan political and rebel leader Jonas Savimbi is killed in a military ambush.
-- 1997: In Roslin, Midlothian, British scientists announce that an adult sheep named Dolly has been successfully cloned.
-- 1995: The Corona reconnaissance satellite program, in existence from 1959 to 1972, is declassified.
-- 1994: Aldrich Ames and his wife are charged by the United States Department of Justice with spying for the Soviet Union.
-- 1986: Start of the People Power Revolution in the Philippines.
-- 1983: The notorious Broadway flop Moose Murders opens and closes on the same night at the Eugene O'Neill Theatre.
-- 1980: Miracle on Ice: In Lake Placid, New York, the United States hockey team defeats the Soviet Union hockey team 4-3.
-- 1979: Saint Lucia gains independence from the United Kingdom.
-- 1974: Samuel Byck attempts to hijack an aircraft at Baltimore/Washington International Airport with the intention of crashing it into the White House to assassinate Richard Nixon, but commits suicide after being wounded by police.
-- 1974: The Organisation of the Islamic Conference summit begins in Lahore, Pakistan. Thirty-seven countries attend and twenty-two heads of state and government participate. It also recognizes Bangladesh.
-- 1973: Cold War: Following President Richard Nixon's visit to the People's Republic of China, the two countries agree to establish liaison offices.
-- 1972: The Official Irish Republican Army detonates a car bomb at Aldershot barracks, killing seven and injuring nineteen others.
-- 1959: Lee Petty wins the first Daytona 500.
-- 1958: Following a plebiscite in both countries the previous day, Egypt and Syria join to form the United Arab Republic.
-- 1957: Ngô Đình Diệm of South Vietnam survives a communist shooting assassination attempt in Buôn Ma Thuột.
-- 1946: The "Long Telegram", proposing how the United States should deal with the Soviet Union, arrives from the US embassy in Moscow.
-- 1944: World War II: The Soviet Red Army recaptures Krivoi Rog.
-- 1944: World War II: American aircraft mistakenly bomb the Dutch towns of Nijmegen, Arnhem, Enschede and Deventer, resulting in 800 dead in Nijmegen alone.
-- 1943: Yankee Clipper crashes while landing on the Tagus in Lisbon, killing 24.
-- 1943: World War II: Members of the White Rose resistance, Sophie Scholl, Hans Scholl, and Christoph Probst are executed in Nazi Germany.
+- 2025: A snap election is held in Germany.
+- 2021: Four simultaneous prison riots leave at least 62 people dead in Ecuador.
+- 2020: Ahmaud Arbery, a 25-year-old African-American citizen, is shot and murdered by three white men after visiting a house under construction while jogging at a neighborhood in Satilla Shores near Brunswick in Glynn County, Georgia.
+- 2019: Atlas Air Flight 3591, a Boeing 767 freighter, crashes into Trinity Bay near Anahuac, Texas, killing all three people on board.
+- 2018: Parliamentary elections are held in Djibouti.
+- 2017: The Turkish-backed Free Syrian Army captures Al-Bab from ISIL.
+- 2012: A series of attacks across Iraq leave at least 83 killed and more than 250 injured.
+- 2010: Unknown criminals pour more than .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}2+1⁄2 million liters of diesel oil and other hydrocarbons into the river Lambro, in northern Italy, sparking an environmental disaster.
+- 2008: The Japanese WINDS satellite is launched.
+- 2008: A United States Air Force B-2 Spirit bomber crashes on Guam, marking  the first operational loss of a B-2.
+- 2007: A train derails on an evening express service near Grayrigg, Cumbria, England, killing one person and injuring 88. This results in hundreds of points being checked over the UK after a few similar accidents.
+- 2002: An Ariane 4 rocket is launched from the Guiana Space Centre carrying Intelsat 904.
+- 1999: An avalanche buries the town of Galtür, Austria, killing 31.
+- 1999: Kurdish rebel leader Abdullah Öcalan is charged with treason in Ankara, Turkey.
+- 1998: In the United States, tornadoes in central Florida destroy or damage 2,600 structures and kill 42 people.
+- 1991: In Thailand, General Sunthorn Kongsompong leads a bloodless coup d'état, deposing Prime Minister Chatichai Choonhavan.
+- 1988: Saddam Hussein begins the Anfal genocide against Kurds and Assyrians in northern Iraq.
+- 1987: Supernova 1987a is seen in the Large Magellanic Cloud.
+- 1983: The United States Environmental Protection Agency announces its intent to buy out and evacuate the dioxin-contaminated community of Times Beach, Missouri.
+- 1981: In Spain, Antonio Tejero attempts a coup d'état by capturing the Spanish Congress of Deputies.
+- 1980: Iran hostage crisis: Supreme Leader Ayatollah Ruhollah Khomeini states that Iran's parliament will decide the fate of the American embassy hostages.
+- 1974: The Symbionese Liberation Army demands $4 million more to release kidnap victim Patty Hearst.
+- 1971: Operation Lam Son 719: South Vietnamese General Do Cao Tri was killed in a helicopter crash en route to taking control of the faltering campaign.
+- 1966: In Syria, Ba'ath Party member Salah Jadid leads an intra-party military coup that replaces the previous government of General Amin al-Hafiz, also a Baathist.
+- 1958: Five-time Argentine Formula One champion Juan Manuel Fangio is kidnapped by rebels involved in the Cuban Revolution, on the eve of the Cuban Grand Prix. He was released the following day after the race.
+- 1954: The first mass inoculation of children against polio with the Salk vaccine begins in Pittsburgh.
+- 1950: General elections are held in the United Kingdom.
+- 1947: International Organization for Standardization is founded.
+- 1945: American Airlines Flight 009 crashes near Rural Retreat, Virginia, killing 17.
+- 1945: World War II: The German town of Pforzheim is annihilated in a raid by 379 British bombers.
 
 Data from muffinlabs
-*(Updated at: 2026-02-22 02:34:04 UTC)*
+*(Updated at: 2026-02-23 02:34:37 UTC)*
 
 # 历史上的今天 
 
-- - 2022：Twosday，2022 年 2 月 22 日星期二 2:22:22 出现。
-- - 2018 年：一名男子向黑山波德戈里察的美国大使馆投掷手榴弹。他在第二次爆炸中当场死亡，没有其他人受伤。
-- - 2015年：一艘载有100名乘客的渡轮在帕德玛河倾覆，造成70人死亡。
-- - 2014年：乌克兰总统维克多·亚努科维奇被乌克兰最高拉达以328票对0票弹劾，实现了亲欧盟叛乱的一个主要目标。
-- - 2012 年：阿根廷布宜诺斯艾利斯发生火车相撞事故，造成 51 人死亡、700 人受伤。
-- - 2011年：巴林起义：数万人游行抗议之前的抗议活动中七名受害者被警察和军队杀害。
-- - 2011 年：新西兰第二次最严重的地震，即 2011 年基督城地震，造成 185 人死亡。
-- - 2006 年：Securitas 仓库抢劫案是英国最大的抢劫案。肯特郡汤布里奇的 Securitas 仓库被盗近 5300 万英镑（约合 9250 万美元或 7800 万欧元）。
-- - 2006 年：伊拉克当地时间早上 6:44 左右，伊拉克萨迈拉的阿斯卡里神社发生爆炸。对什叶派伊斯兰教最圣地之一的圣地的袭击导致伊拉克教派紧张局势升级为全面内战。
-- - 2005 年：6.4 兆瓦的扎兰德地震震动了伊朗克尔曼省，最大麦卡利强度为 VIII（严重），造成 612 人死亡、1,411 人受伤。
-- - 2002年：安哥拉政治和叛乱领袖乔纳斯·萨文比在一次军事伏击中身亡。
-- - 1997 年：在中洛锡安的罗斯林，英国科学家宣布成功克隆出一只名为多莉的成年羊。
-- - 1995 年：1959 年至 1972 年存在的 Corona 侦察卫星计划被解密。
-- - 1994 年：奥尔德里奇·艾姆斯和他的妻子被美国司法部指控为苏联从事间谍活动。
-- - 1986 年：菲律宾人民权力革命开始。
-- - 1983 年：臭名昭著的百老汇失败剧《驼鹿谋杀案》于同一晚在尤金·奥尼尔剧院上演和闭幕。
-- - 1980年：冰上奇迹：在纽约普莱西德湖，美国曲棍球队以4-3击败苏联曲棍球队。
-- - 1979 年：圣卢西亚从英国独立。
-- - 1974 年：塞缪尔·拜克试图在巴尔的摩/华盛顿国际机场劫持一架飞机，意图将其撞入白宫刺杀理查德·尼克松，但被警察打伤后自杀。
-- - 1974 年：伊斯兰会议组织峰会在巴基斯坦拉合尔召开。37 个国家出席，22 位国家元首和政府首脑参加。它还承认孟加拉国。
-- - 1973年：冷战：理查德·尼克松总统访问中华人民共和国后，两国同意建立联络处。
-- - 1972 年：官方爱尔兰共和军在奥尔德肖特军营引爆了一枚汽车炸弹，造成七人死亡、十九人受伤。
-- - 1959 年：Lee Petty 赢得首届 Daytona 500 比赛冠军。
-- - 1958 年：前一天两国举行公民投票后，埃及和叙利亚加入组成阿拉伯联合共和国。
-- - 1957 年：南越的吴庭艳 (Ngô Đình Diệm) 在邦美蜀 (Buôn Ma Thuột) 的共产党枪击暗杀事件中幸存。
-- - 1946年：美国驻莫斯科大使馆发出一封“长电报”，建议美国应如何应对苏联。
-- - 1944 年：第二次世界大战：苏联红军夺回克里沃罗格。
-- - 1944 年：第二次世界大战：美国飞机错误轰炸了荷兰城镇奈梅亨、阿纳姆、恩斯赫德和代芬特尔，仅奈梅亨就造成 800 人死亡。
-- - 1943 年：Yankee Clipper 在里斯本塔古斯河着陆时坠毁，造成 24 人死亡。
-- - 1943 年：第二次世界大战：白玫瑰抵抗组织成员苏菲·绍尔、汉斯·绍尔和克里斯托夫·普罗布斯特在纳粹德国被处决。
+- - 2025 年：德国提前举行选举。
+- - 2021 年：厄瓜多尔同时发生四起监狱骚乱，造成至少 62 人死亡。
+- - 2020 年：25 岁非裔美国公民艾哈迈德·阿伯里 (Ahmaud Arbery) 在佐治亚州格林县不伦瑞克附近的萨蒂拉海岸 (Satilla Shores) 社区慢跑时参观一栋正在建设的房屋后，被三名白人枪杀。
+- - 2019 年：阿特拉斯航空 3591 号航班，一架波音 767 货机，坠入德克萨斯州阿纳瓦克附近的三一湾，机上三人全部遇难。
+- - 2018年：吉布提举行议会选举。
+- - 2017 年：土耳其支持的叙利亚自由军从伊斯兰国手中夺取了巴布。
+- - 2012 年：伊拉克各地发生一系列袭击事件，造成至少 83 人死亡、250 多人受伤。
+- - 2010 年：未知犯罪分子倾倒超过 .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac.den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}2+1⁄2 百万升柴油和其他碳氢化合物流入意大利北部的兰布罗河，引发了环境灾难。
+- - 2008年：日本WINDS卫星发射。
+- - 2008 年：美国空军一架 B-2 Spirit 轰炸机在关岛坠毁，这是 B-2 的首次作战损失。
+- - 2007 年：一列晚间特快列车在英国坎布里亚郡格雷里格附近脱轨，造成 1 人死亡、88 人受伤。在发生了几起类似事故后，英国数百个站点受到检查。
+- - 2002 年：搭载 Intelsat 904 的阿丽亚娜 4 号火箭从圭亚那航天中心发射升空。
+- - 1999 年：一场雪崩掩埋了奥地利加尔蒂镇，造成 31 人死亡。
+- - 1999 年：库尔德叛乱领袖阿卜杜拉·奥贾兰在土耳其安卡拉被指控犯有叛国罪。
+- - 1998 年：在美国，佛罗里达州中部的龙卷风摧毁或损坏了 2,600 座建筑物，并造成 42 人死亡。
+- - 1991 年：在泰国，顺通·孔颂蓬 (Sunthorn Kongsompong) 将军领导了一场不流血的政变，废黜了总理差猜·春哈万 (Chatichai Choonhavan)。
+- - 1988 年：萨达姆·侯赛因在伊拉克北部开始对库尔德人和亚述人进行安法尔种族灭绝。
+- - 1987 年：在大麦哲伦云中看到超新星 1987a。
+- - 1983 年：美国环境保护署宣布有意收购并疏散密苏里州时代海滩受二恶英污染的社区。
+- - 1981 年：在西班牙，安东尼奥·特赫罗 (Antonio Tejero) 试图发动政变，夺取西班牙众议院。
+- - 1980年：伊朗人质危机：最高领袖霍梅尼表示伊朗议会将决定美国大使馆人质的命运。
+- - 1974 年：共生解放军要求额外支付 400 万美元才能释放绑架受害者帕蒂·赫斯特。
+- - 1971 年：林山 719 行动：南越将军 Do Cao Tri 在控制这场摇摇欲坠的战役的途中因直升机坠毁身亡。
+- - 1966 年：在叙利亚，复兴党成员萨拉赫·贾迪德领导了一场党内军事政变，取代了同为复兴党的阿明·哈菲兹将军的前任政府。
+- - 1958 年：五届阿根廷一级方程式冠军胡安·曼努埃尔·方吉奥在古巴大奖赛前夕被参与古巴革命的叛军绑架。比赛后第二天他就被释放了。
+- - 1954 年：匹兹堡开始为儿童大规模接种索尔克疫苗，以预防脊髓灰质炎。
+- - 1950年：英国举行大选。
+- - 1947 年：国际标准化组织成立。
+- - 1945 年：美国航空 009 号航班在弗吉尼亚州 Rural Retreat 附近坠毁，造成 17 人死亡。
+- - 1945 年：第二次世界大战：德国城镇普福尔茨海姆在 379 架英国轰炸机的袭击中被摧毁。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-02-22 02:34:04 UTC）*
+*（更新于: 2026-02-23 02:34:37 UTC）*
