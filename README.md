@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: A snap election is held in Germany.
-- 2021: Four simultaneous prison riots leave at least 62 people dead in Ecuador.
-- 2020: Ahmaud Arbery, a 25-year-old African-American citizen, is shot and murdered by three white men after visiting a house under construction while jogging at a neighborhood in Satilla Shores near Brunswick in Glynn County, Georgia.
-- 2019: Atlas Air Flight 3591, a Boeing 767 freighter, crashes into Trinity Bay near Anahuac, Texas, killing all three people on board.
-- 2018: Parliamentary elections are held in Djibouti.
-- 2017: The Turkish-backed Free Syrian Army captures Al-Bab from ISIL.
-- 2012: A series of attacks across Iraq leave at least 83 killed and more than 250 injured.
-- 2010: Unknown criminals pour more than .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}2+1⁄2 million liters of diesel oil and other hydrocarbons into the river Lambro, in northern Italy, sparking an environmental disaster.
-- 2008: The Japanese WINDS satellite is launched.
-- 2008: A United States Air Force B-2 Spirit bomber crashes on Guam, marking  the first operational loss of a B-2.
-- 2007: A train derails on an evening express service near Grayrigg, Cumbria, England, killing one person and injuring 88. This results in hundreds of points being checked over the UK after a few similar accidents.
-- 2002: An Ariane 4 rocket is launched from the Guiana Space Centre carrying Intelsat 904.
-- 1999: An avalanche buries the town of Galtür, Austria, killing 31.
-- 1999: Kurdish rebel leader Abdullah Öcalan is charged with treason in Ankara, Turkey.
-- 1998: In the United States, tornadoes in central Florida destroy or damage 2,600 structures and kill 42 people.
-- 1991: In Thailand, General Sunthorn Kongsompong leads a bloodless coup d'état, deposing Prime Minister Chatichai Choonhavan.
-- 1988: Saddam Hussein begins the Anfal genocide against Kurds and Assyrians in northern Iraq.
-- 1987: Supernova 1987a is seen in the Large Magellanic Cloud.
-- 1983: The United States Environmental Protection Agency announces its intent to buy out and evacuate the dioxin-contaminated community of Times Beach, Missouri.
-- 1981: In Spain, Antonio Tejero attempts a coup d'état by capturing the Spanish Congress of Deputies.
-- 1980: Iran hostage crisis: Supreme Leader Ayatollah Ruhollah Khomeini states that Iran's parliament will decide the fate of the American embassy hostages.
-- 1974: The Symbionese Liberation Army demands $4 million more to release kidnap victim Patty Hearst.
-- 1971: Operation Lam Son 719: South Vietnamese General Do Cao Tri was killed in a helicopter crash en route to taking control of the faltering campaign.
-- 1966: In Syria, Ba'ath Party member Salah Jadid leads an intra-party military coup that replaces the previous government of General Amin al-Hafiz, also a Baathist.
-- 1958: Five-time Argentine Formula One champion Juan Manuel Fangio is kidnapped by rebels involved in the Cuban Revolution, on the eve of the Cuban Grand Prix. He was released the following day after the race.
-- 1954: The first mass inoculation of children against polio with the Salk vaccine begins in Pittsburgh.
-- 1950: General elections are held in the United Kingdom.
-- 1947: International Organization for Standardization is founded.
-- 1945: American Airlines Flight 009 crashes near Rural Retreat, Virginia, killing 17.
-- 1945: World War II: The German town of Pforzheim is annihilated in a raid by 379 British bombers.
+- 2022: Russo-Ukrainian War: Days after recognising Donetsk and Luhansk as independent states, Russian president Vladimir Putin orders the 2022 Russian invasion of Ukraine.
+- 2020: Mahathir Mohamad resigns as Prime Minister of Malaysia following an attempt to replace the Pakatan Harapan government, which triggered the 2020-2022 Malaysian political crisis.
+- 2016: Tara Air Flight 193, a de Havilland Canada DHC-6 Twin Otter aircraft, crashed, with 23 fatalities, in Solighopte, Myagdi District, Dhaulagiri Zone, while en route from Pokhara Airport to Jomsom Airport.
+- 2015: A Metrolink train derails in Oxnard, California following a collision with a truck, leaving more than 30 injured.
+- 2008: Fidel Castro retires as the President of Cuba and the Council of Ministers after 32 years. He remained as head of the Communist Party for another three years.
+- 2007: Japan launches its fourth spy satellite, stepping up its ability to monitor potential threats such as North Korea.
+- 2006: Philippine President Gloria Macapagal Arroyo declares Proclamation 1017 placing the country in a state of emergency in attempt to subdue a possible military coup.
+- 2004: The 6.3 Mw Al Hoceima earthquake strikes northern Morocco with a maximum Mercalli intensity of IX (Violent). At least 628 people are killed, 926 are injured, and up to 15,000 are displaced.
+- 1999: China Southwest Airlines Flight 4509, a Tupolev Tu-154 aircraft, crashes in Rui'an, Zhejiang, China. All 61 people on board are killed.
+- 1996: Two civilian airplanes operated by the Miami-based group Brothers to the Rescue are shot down in international waters by the Cuban Air Force.
+- 1991: Gulf War: Ground troops cross the Saudi Arabian border and enter Iraq, thus beginning the ground phase of the war.
+- 1989: United Airlines Flight 811, bound for New Zealand from Honolulu, rips open during flight, blowing nine passengers out of the business-class section.
+- 1984: Tyrone Mitchell perpetrates the 49th Street Elementary School shooting in Los Angeles, killing two children and injuring 12 more.
+- 1983: A special commission of the United States Congress condemns the Japanese American internment during World War II.
+- 1981: The 6.7 .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Ms Gulf of Corinth earthquake affected Central Greece with a maximum Mercalli intensity of VIII (Severe). Twenty-two people were killed, 400 were injured, and damage totaled $812 million.
+- 1978: The Yuba County Five disappear in California. Four of their bodies are found four months later.
+- 1976: The 1976 constitution of Cuba is formally proclaimed.
+- 1971: The All India Forward Bloc holds an emergency central committee meeting after its chairman, Hemantha Kumar Bose, is killed three days earlier. P.K. Mookiah Thevar is appointed as the new chairman.
+- 1968: Vietnam War: The Tet Offensive is halted; South Vietnamese forces led by Ngo Quang Truong recapture the citadel of Hué.
+- 1967: Cultural Revolution: Zhang Chunqiao announces the dissolution of the Shanghai People's Commune, replacing its local government with a revolutionary committee.
+- 1966: Ghanaian coup d'état by National Liberation Council overthrows Kwame Nkrumah's Government
+- 1949: The Armistice Agreements are signed, to formally end the hostilities of the 1948 Arab-Israeli War.
+- 1946: Colonel Juan Perón, founder of the political movement that became known as Peronism, is elected to his first term as President of Argentina.
+- 1945: Egyptian Premier Ahmad Mahir Pasha is killed in Parliament after reading a decree.
+- 1943: World War II: First large-scale protest march resulting in clashes with the Axis occupation forces and collaborationist police in Athens against rumours of forced mobilization of Greek workers for work in Germany.
+- 1942: The Battle of Los Angeles: A false alarm led to an anti-aircraft barrage that lasted into the early hours of February 25.
+- 1942: Seven hundred ninety-one Romanian Jewish refugees and crew members are killed after the MV Struma is torpedoed by the Soviet Navy.
+- 1920: The Nazi Party (NSDAP) was founded by Adolf Hitler in the Hofbräuhaus beer hall in Munich, Germany.
+- 1920: Nancy Astor becomes the first woman to speak in the House of Commons of the United Kingdom following her election as a Member of Parliament (MP) three months earlier.
+- 1918: Estonian Declaration of Independence.
 
 Data from muffinlabs
-*(Updated at: 2026-02-23 02:34:37 UTC)*
+*(Updated at: 2026-02-24 02:31:18 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：德国提前举行选举。
-- - 2021 年：厄瓜多尔同时发生四起监狱骚乱，造成至少 62 人死亡。
-- - 2020 年：25 岁非裔美国公民艾哈迈德·阿伯里 (Ahmaud Arbery) 在佐治亚州格林县不伦瑞克附近的萨蒂拉海岸 (Satilla Shores) 社区慢跑时参观一栋正在建设的房屋后，被三名白人枪杀。
-- - 2019 年：阿特拉斯航空 3591 号航班，一架波音 767 货机，坠入德克萨斯州阿纳瓦克附近的三一湾，机上三人全部遇难。
-- - 2018年：吉布提举行议会选举。
-- - 2017 年：土耳其支持的叙利亚自由军从伊斯兰国手中夺取了巴布。
-- - 2012 年：伊拉克各地发生一系列袭击事件，造成至少 83 人死亡、250 多人受伤。
-- - 2010 年：未知犯罪分子倾倒超过 .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac.den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}2+1⁄2 百万升柴油和其他碳氢化合物流入意大利北部的兰布罗河，引发了环境灾难。
-- - 2008年：日本WINDS卫星发射。
-- - 2008 年：美国空军一架 B-2 Spirit 轰炸机在关岛坠毁，这是 B-2 的首次作战损失。
-- - 2007 年：一列晚间特快列车在英国坎布里亚郡格雷里格附近脱轨，造成 1 人死亡、88 人受伤。在发生了几起类似事故后，英国数百个站点受到检查。
-- - 2002 年：搭载 Intelsat 904 的阿丽亚娜 4 号火箭从圭亚那航天中心发射升空。
-- - 1999 年：一场雪崩掩埋了奥地利加尔蒂镇，造成 31 人死亡。
-- - 1999 年：库尔德叛乱领袖阿卜杜拉·奥贾兰在土耳其安卡拉被指控犯有叛国罪。
-- - 1998 年：在美国，佛罗里达州中部的龙卷风摧毁或损坏了 2,600 座建筑物，并造成 42 人死亡。
-- - 1991 年：在泰国，顺通·孔颂蓬 (Sunthorn Kongsompong) 将军领导了一场不流血的政变，废黜了总理差猜·春哈万 (Chatichai Choonhavan)。
-- - 1988 年：萨达姆·侯赛因在伊拉克北部开始对库尔德人和亚述人进行安法尔种族灭绝。
-- - 1987 年：在大麦哲伦云中看到超新星 1987a。
-- - 1983 年：美国环境保护署宣布有意收购并疏散密苏里州时代海滩受二恶英污染的社区。
-- - 1981 年：在西班牙，安东尼奥·特赫罗 (Antonio Tejero) 试图发动政变，夺取西班牙众议院。
-- - 1980年：伊朗人质危机：最高领袖霍梅尼表示伊朗议会将决定美国大使馆人质的命运。
-- - 1974 年：共生解放军要求额外支付 400 万美元才能释放绑架受害者帕蒂·赫斯特。
-- - 1971 年：林山 719 行动：南越将军 Do Cao Tri 在控制这场摇摇欲坠的战役的途中因直升机坠毁身亡。
-- - 1966 年：在叙利亚，复兴党成员萨拉赫·贾迪德领导了一场党内军事政变，取代了同为复兴党的阿明·哈菲兹将军的前任政府。
-- - 1958 年：五届阿根廷一级方程式冠军胡安·曼努埃尔·方吉奥在古巴大奖赛前夕被参与古巴革命的叛军绑架。比赛后第二天他就被释放了。
-- - 1954 年：匹兹堡开始为儿童大规模接种索尔克疫苗，以预防脊髓灰质炎。
-- - 1950年：英国举行大选。
-- - 1947 年：国际标准化组织成立。
-- - 1945 年：美国航空 009 号航班在弗吉尼亚州 Rural Retreat 附近坠毁，造成 17 人死亡。
-- - 1945 年：第二次世界大战：德国城镇普福尔茨海姆在 379 架英国轰炸机的袭击中被摧毁。
+- - 2022 年：俄乌战争：在承认顿涅茨克和卢甘斯克为独立国家几天后，俄罗斯总统弗拉基米尔·普京下令俄罗斯于 2022 年入侵乌克兰。
+- - 2020年：马哈蒂尔·穆罕默德在试图取代希盟政府后辞去马来西亚总理职务，引发2020-2022年马来西亚政治危机。
+- - 2016 年：塔拉航空 193 号航班（一架加拿大德哈维兰 DHC-6 双水獭飞机）在从博卡拉机场飞往乔姆索姆机场的途中，在道拉吉里区 Myagdi 区 Solighopte 坠毁，造成 23 人死亡。
+- - 2015 年：一列 Metrolink 列车在加利福尼亚州奥克斯纳德与一辆卡车相撞后脱轨，造成 30 多人受伤。
+- - 2008 年：菲德尔·卡斯特罗 (Fidel Castro) 在担任古巴总统和部长会议 32 年后退休。他又继续担任共产党主席三年。
+- - 2007 年：日本发射了第四颗间谍卫星，增强了监视朝鲜等潜在威胁的能力。
+- - 2006 年：菲律宾总统格洛丽亚·马卡帕加尔·阿罗约宣布第 1017 号公告，将该国置于紧急状态，试图平息可能发生的军事政变。
+- - 2004 年：摩洛哥北部发生 6.3 Mw 胡塞马地震，最大 Mercalli 强度为 IX（强烈）。至少 628 人死亡、926 人受伤、多达 15,000 人流离失所。
+- - 1999 年：中国西南航空 4509 号航班，一架图波列夫 Tu-154 飞机，在中国浙江瑞安坠毁。机上61人全部遇难。
+- - 1996 年：总部位于迈阿密的兄弟救援组织运营的两架民用飞机在国际水域被古巴空军击落。
+- - 1991年：海湾战争：地面部队越过沙特阿拉伯边境进入伊拉克，从而开始了战争的地面阶段。
+- - 1989 年：从檀香山飞往新西兰的联合航空 811 号航班在飞行途中裂开，导致商务舱内的 9 名乘客被炸飞。
+- - 1984 年：泰隆·米切尔 (Tyrone Mitchell) 在洛杉矶第 49 街小学实施枪击事件，造成 2 名儿童死亡、12 人受伤。
+- - 1983 年：美国国会特别委员会谴责二战期间对日裔美国人的拘留。
+- - 1981 年：6.7 .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}科林斯湾地震影响了希腊中部，最大 Mercalli 强度为 VIII（严重）。22 人死亡、400 人受伤，损失总计 8.12 亿美元。
+- - 1978 年：尤巴县五人组在加利福尼亚州消失。四个月后，他们的四具尸体被发现。
+- - 1976年：古巴1976年宪法正式颁布。
+- - 1971 年：三天前，全印度前进集团主席赫曼莎·库马尔·博斯 (Hemantha Kumar Bose) 遇害后，召开了紧急中央委员会会议。PKMookiah Thevar 被任命为新任董事长。
+- - 1968年：越南战争：春节攻势停止；吴光长率领的南越军队夺回了顺化城堡。
+- - 1967年：文化大革命：张春桥宣布解散上海人民公社，以革委会取代当地政府。
+- - 1966年：加纳民族解放委员会发动政变，推翻夸梅·恩克鲁玛政府
+- - 1949 年：签署《停战协定》，正式结束 1948 年阿以战争的敌对行动。
+- - 1946 年：后来被称为庇隆主义的政治运动创始人胡安·庇隆上校当选为阿根廷总统，开始他的第一个任期。
+- - 1945 年：埃及总理艾哈迈德·马希尔帕夏在议会宣读法令后被杀。
+- - 1943 年：第二次世界大战：第一次大规模抗议游行导致与轴心国占领军和雅典通敌警察发生冲突，反对强迫动员希腊工人到德国工作的谣言。
+- - 1942 年：洛杉矶之战：一场误报导致防空炮火持续到 2 月 25 日凌晨。
+- - 1942 年：MV Struma 号被苏联海军鱼雷击中，七百九十一名罗马尼亚犹太难民和船员丧生。
+- - 1920年：阿道夫·希特勒在德国慕尼黑的皇家啤酒屋成立纳粹党（NSDAP）。
+- - 1920 年：南希·阿斯特 (Nancy Astor) 三个月前当选议员 (MP)，成为第一位在英国下议院发言的女性。
+- - 1918 年：爱沙尼亚独立宣言。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-02-23 02:34:37 UTC）*
+*（更新于: 2026-02-24 02:31:18 UTC）*
