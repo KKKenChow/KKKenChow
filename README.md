@@ -1,71 +1,69 @@
 # History of Today 
 
-- 2022: Russo-Ukrainian War: Days after recognising Donetsk and Luhansk as independent states, Russian president Vladimir Putin orders the 2022 Russian invasion of Ukraine.
-- 2020: Mahathir Mohamad resigns as Prime Minister of Malaysia following an attempt to replace the Pakatan Harapan government, which triggered the 2020-2022 Malaysian political crisis.
-- 2016: Tara Air Flight 193, a de Havilland Canada DHC-6 Twin Otter aircraft, crashed, with 23 fatalities, in Solighopte, Myagdi District, Dhaulagiri Zone, while en route from Pokhara Airport to Jomsom Airport.
-- 2015: A Metrolink train derails in Oxnard, California following a collision with a truck, leaving more than 30 injured.
-- 2008: Fidel Castro retires as the President of Cuba and the Council of Ministers after 32 years. He remained as head of the Communist Party for another three years.
-- 2007: Japan launches its fourth spy satellite, stepping up its ability to monitor potential threats such as North Korea.
-- 2006: Philippine President Gloria Macapagal Arroyo declares Proclamation 1017 placing the country in a state of emergency in attempt to subdue a possible military coup.
-- 2004: The 6.3 Mw Al Hoceima earthquake strikes northern Morocco with a maximum Mercalli intensity of IX (Violent). At least 628 people are killed, 926 are injured, and up to 15,000 are displaced.
-- 1999: China Southwest Airlines Flight 4509, a Tupolev Tu-154 aircraft, crashes in Rui'an, Zhejiang, China. All 61 people on board are killed.
-- 1996: Two civilian airplanes operated by the Miami-based group Brothers to the Rescue are shot down in international waters by the Cuban Air Force.
-- 1991: Gulf War: Ground troops cross the Saudi Arabian border and enter Iraq, thus beginning the ground phase of the war.
-- 1989: United Airlines Flight 811, bound for New Zealand from Honolulu, rips open during flight, blowing nine passengers out of the business-class section.
-- 1984: Tyrone Mitchell perpetrates the 49th Street Elementary School shooting in Los Angeles, killing two children and injuring 12 more.
-- 1983: A special commission of the United States Congress condemns the Japanese American internment during World War II.
-- 1981: The 6.7 .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Ms Gulf of Corinth earthquake affected Central Greece with a maximum Mercalli intensity of VIII (Severe). Twenty-two people were killed, 400 were injured, and damage totaled $812 million.
-- 1978: The Yuba County Five disappear in California. Four of their bodies are found four months later.
-- 1976: The 1976 constitution of Cuba is formally proclaimed.
-- 1971: The All India Forward Bloc holds an emergency central committee meeting after its chairman, Hemantha Kumar Bose, is killed three days earlier. P.K. Mookiah Thevar is appointed as the new chairman.
-- 1968: Vietnam War: The Tet Offensive is halted; South Vietnamese forces led by Ngo Quang Truong recapture the citadel of Hué.
-- 1967: Cultural Revolution: Zhang Chunqiao announces the dissolution of the Shanghai People's Commune, replacing its local government with a revolutionary committee.
-- 1966: Ghanaian coup d'état by National Liberation Council overthrows Kwame Nkrumah's Government
-- 1949: The Armistice Agreements are signed, to formally end the hostilities of the 1948 Arab-Israeli War.
-- 1946: Colonel Juan Perón, founder of the political movement that became known as Peronism, is elected to his first term as President of Argentina.
-- 1945: Egyptian Premier Ahmad Mahir Pasha is killed in Parliament after reading a decree.
-- 1943: World War II: First large-scale protest march resulting in clashes with the Axis occupation forces and collaborationist police in Athens against rumours of forced mobilization of Greek workers for work in Germany.
-- 1942: The Battle of Los Angeles: A false alarm led to an anti-aircraft barrage that lasted into the early hours of February 25.
-- 1942: Seven hundred ninety-one Romanian Jewish refugees and crew members are killed after the MV Struma is torpedoed by the Soviet Navy.
-- 1920: The Nazi Party (NSDAP) was founded by Adolf Hitler in the Hofbräuhaus beer hall in Munich, Germany.
-- 1920: Nancy Astor becomes the first woman to speak in the House of Commons of the United Kingdom following her election as a Member of Parliament (MP) three months earlier.
-- 1918: Estonian Declaration of Independence.
+- 2016:  Three people are killed and fourteen others injured in a series of shootings in the small Kansas cities of Newton and Hesston.
+- 2015:  At least 310 people are killed in avalanches in northeastern Afghanistan.
+- 2009:  Turkish Airlines Flight 1951 crashed during landing at the Amsterdam Schiphol Airport, Netherlands, primarily due to a faulty radio altimeter, resulting in the death of nine passengers and crew including all three pilots.
+- 2009:  Soldiers of the Bangladesh Rifles mutiny at their headquarters in Pilkhana, Dhaka, Bangladesh, resulting in 74 deaths, including 57 army officials.
+- 1999: Alitalia Flight 1553 crashes at Genoa Cristoforo Colombo Airport in Genoa, Italy, killing four.
+- 1994: American-Israeli extremist Baruch Goldstein commits a mass shooting at the Cave of the Patriarchs mausoleum, leaving 29 dead and over 100 injured before he was disarmed and beaten to death by survivors.
+- 1991: Disbandment of the Warsaw Pact at a meeting of its members in Budapest.
+- 1986: People Power Revolution: President of the Philippines Ferdinand Marcos flees the nation after 20 years of rule; Corazon Aquino becomes the Philippines' first female president.
+- 1980: The government of Suriname is overthrown by a military coup led by Dési Bouterse.
+- 1956: In his speech On the Cult of Personality and Its Consequences, Nikita Khrushchev, leader of the Soviet Union, denounces Stalin.
+- 1951: The first Pan American Games are officially opened in Buenos Aires by Argentine President Juan Perón.
+- 1948: In a coup d'état led by Klement Gottwald, the Communist Party of Czechoslovakia takes control of government in Prague to end the Third Czechoslovak Republic.
+- 1947: Soviet NKVD forces in Hungary abduct Béla Kovács—secretary-general of the majority Independent Smallholders' Party—and deport him to the USSR in defiance of Parliament. His arrest is an important turning point in the Communist takeover of Hungary.
+- 1947: The formal abolition of Prussia is proclaimed by the Allied Control Council, the Prussian government having already been abolished by the Preußenschlag of 1932.
+- 1941: The outlawed Communist Party of the Netherlands organises a general strike in German-occupied Amsterdam to protest against Nazi persecution of Dutch Jews.
+- 1939: As part of British air raid precautions, the first of 2.5 million Anderson shelters is constructed in a garden in Islington, north London.
+- 1933: Launch of the USS Ranger at Newport News, Virginia. It is the first purpose-built aircraft carrier to be commissioned by the US Navy.
+- 1932: Adolf Hitler, having been stateless for seven years, obtains German citizenship when he is appointed a Brunswick state official by Dietrich Klagges, a fellow Nazi. As a result, Hitler is able to run for Reichspräsident in the 1932 election.
+- 1921: Georgian capital Tbilisi falls to the invading Russian forces after heavy fighting and the Russians declare the Georgian Soviet Socialist Republic.
+- 1918: World War I: German forces capture Tallinn to virtually complete the occupation of Estonia.
+- 1916: World War I: In the Battle of Verdun, a German unit captures Fort Douaumont, keystone of the French defences, without a fight.
+- 1912: Marie-Adélaïde, the eldest of six daughters of Guillaume IV, becomes the first reigning Grand Duchess of Luxembourg.
+- 1875: Guangxu Emperor of Qing dynasty China begins his reign, under Empress Dowager Cixi's regency.
+- 1870: Hiram Rhodes Revels, a Republican from Mississippi, is sworn into the United States Senate, becoming the first African American ever to sit in Congress.
+- 1843: Lord George Paulet occupies the Kingdom of Hawaii in the name of Great Britain in the Paulet affair.
+- 1836: Samuel Colt is granted a United States patent for his revolver firearm.
+- 1705:  George Frideric Handel's opera Nero premiered in Hamburg.
+- 628: Khosrow II, the last great Shah of the Sasanian Empire (Iran), is overthrown by his son Kavadh II.
+- 138: Roman emperor Hadrian adopts Antoninus Pius as his son, effectively making him his successor.
 
 Data from muffinlabs
-*(Updated at: 2026-02-24 02:31:18 UTC)*
+*(Updated at: 2026-02-25 02:32:29 UTC)*
 
 # 历史上的今天 
 
-- - 2022 年：俄乌战争：在承认顿涅茨克和卢甘斯克为独立国家几天后，俄罗斯总统弗拉基米尔·普京下令俄罗斯于 2022 年入侵乌克兰。
-- - 2020年：马哈蒂尔·穆罕默德在试图取代希盟政府后辞去马来西亚总理职务，引发2020-2022年马来西亚政治危机。
-- - 2016 年：塔拉航空 193 号航班（一架加拿大德哈维兰 DHC-6 双水獭飞机）在从博卡拉机场飞往乔姆索姆机场的途中，在道拉吉里区 Myagdi 区 Solighopte 坠毁，造成 23 人死亡。
-- - 2015 年：一列 Metrolink 列车在加利福尼亚州奥克斯纳德与一辆卡车相撞后脱轨，造成 30 多人受伤。
-- - 2008 年：菲德尔·卡斯特罗 (Fidel Castro) 在担任古巴总统和部长会议 32 年后退休。他又继续担任共产党主席三年。
-- - 2007 年：日本发射了第四颗间谍卫星，增强了监视朝鲜等潜在威胁的能力。
-- - 2006 年：菲律宾总统格洛丽亚·马卡帕加尔·阿罗约宣布第 1017 号公告，将该国置于紧急状态，试图平息可能发生的军事政变。
-- - 2004 年：摩洛哥北部发生 6.3 Mw 胡塞马地震，最大 Mercalli 强度为 IX（强烈）。至少 628 人死亡、926 人受伤、多达 15,000 人流离失所。
-- - 1999 年：中国西南航空 4509 号航班，一架图波列夫 Tu-154 飞机，在中国浙江瑞安坠毁。机上61人全部遇难。
-- - 1996 年：总部位于迈阿密的兄弟救援组织运营的两架民用飞机在国际水域被古巴空军击落。
-- - 1991年：海湾战争：地面部队越过沙特阿拉伯边境进入伊拉克，从而开始了战争的地面阶段。
-- - 1989 年：从檀香山飞往新西兰的联合航空 811 号航班在飞行途中裂开，导致商务舱内的 9 名乘客被炸飞。
-- - 1984 年：泰隆·米切尔 (Tyrone Mitchell) 在洛杉矶第 49 街小学实施枪击事件，造成 2 名儿童死亡、12 人受伤。
-- - 1983 年：美国国会特别委员会谴责二战期间对日裔美国人的拘留。
-- - 1981 年：6.7 .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}科林斯湾地震影响了希腊中部，最大 Mercalli 强度为 VIII（严重）。22 人死亡、400 人受伤，损失总计 8.12 亿美元。
-- - 1978 年：尤巴县五人组在加利福尼亚州消失。四个月后，他们的四具尸体被发现。
-- - 1976年：古巴1976年宪法正式颁布。
-- - 1971 年：三天前，全印度前进集团主席赫曼莎·库马尔·博斯 (Hemantha Kumar Bose) 遇害后，召开了紧急中央委员会会议。PKMookiah Thevar 被任命为新任董事长。
-- - 1968年：越南战争：春节攻势停止；吴光长率领的南越军队夺回了顺化城堡。
-- - 1967年：文化大革命：张春桥宣布解散上海人民公社，以革委会取代当地政府。
-- - 1966年：加纳民族解放委员会发动政变，推翻夸梅·恩克鲁玛政府
-- - 1949 年：签署《停战协定》，正式结束 1948 年阿以战争的敌对行动。
-- - 1946 年：后来被称为庇隆主义的政治运动创始人胡安·庇隆上校当选为阿根廷总统，开始他的第一个任期。
-- - 1945 年：埃及总理艾哈迈德·马希尔帕夏在议会宣读法令后被杀。
-- - 1943 年：第二次世界大战：第一次大规模抗议游行导致与轴心国占领军和雅典通敌警察发生冲突，反对强迫动员希腊工人到德国工作的谣言。
-- - 1942 年：洛杉矶之战：一场误报导致防空炮火持续到 2 月 25 日凌晨。
-- - 1942 年：MV Struma 号被苏联海军鱼雷击中，七百九十一名罗马尼亚犹太难民和船员丧生。
-- - 1920年：阿道夫·希特勒在德国慕尼黑的皇家啤酒屋成立纳粹党（NSDAP）。
-- - 1920 年：南希·阿斯特 (Nancy Astor) 三个月前当选议员 (MP)，成为第一位在英国下议院发言的女性。
-- - 1918 年：爱沙尼亚独立宣言。
+- - 2016 年：堪萨斯州小城牛顿和赫斯顿发生一系列枪击事件，造成 3 人死亡、14 人受伤。
+- - 2015 年：阿富汗东北部至少有 310 人在雪崩中丧生。
+- - 2009 年：土耳其航空 1951 号航班在荷兰阿姆斯特丹史基浦机场着陆时坠毁，主要原因是无线电高度计故障，导致包括所有三名飞行员在内的 9 名乘客和机组人员死亡。
+- - 2009年：孟加拉国步枪队士兵在孟加拉国达卡皮尔卡纳总部发生兵变，导致74人死亡，其中包括57名军官。
+- - 1999 年：意大利航空 1553 号航班在意大利热那亚的热那亚克里斯托福罗·科伦坡机场坠毁，造成四人死亡。
+- - 1994年：美国-以色列极端分子巴鲁克·戈尔茨坦在族长墓穴内发动大规模枪击事件，造成29人死亡、100多人受伤，随后他被幸存者解除武装并殴打致死。
+- - 1991 年：华沙条约组织在布达佩斯举行的一次成员会议上解散。
+- - 1986年：人民权力革命：菲律宾总统费迪南德·马科斯在统治20年后逃离国家；科拉松·阿基诺成为菲律宾第一位女总统。
+- - 1980 年：苏里南政府被德西·鲍特瑟领导的军事政变推翻。
+- - 1956年：苏联领导人尼基塔·赫鲁晓夫在《论个人崇拜及其后果》的演讲中谴责斯大林。
+- - 1951 年：第一届泛美运动会在阿根廷总统胡安·庇隆的布宜诺斯艾利斯正式开幕。
+- - 1948 年：在克莱门特·戈特瓦尔德领导的政变中，捷克斯洛伐克共产党控制了布拉格政府，结束了捷克斯洛伐克第三共和国。
+- - 1947 年：匈牙利的苏联内务人民委员部绑架了占多数的独立小农党秘书长贝拉·科瓦奇，并将他无视议会驱逐到苏联。他的被捕是共产党接管匈牙利的一个重要转折点。
+- - 1947年：盟军控制委员会宣布正式废除普鲁士，普鲁士政府已被1932年的普鲁士政府废除。
+- - 1941 年：被取缔的荷兰共产党在德国占领的阿姆斯特丹组织总罢工，抗议纳粹对荷兰犹太人的迫害。
+- - 1939 年：作为英国空袭预防措施的一部分，250 万个安德森避难所中的第一个避难所在伦敦北部伊斯灵顿的一个花园中建成。
+- - 1933 年：美国游骑兵号在弗吉尼亚州纽波特纽斯下水。它是美国海军服役的第一艘专用航空母舰。
+- - 1932 年：无国籍七年的阿道夫·希特勒 (Adolf Hitler) 被纳粹同僚迪特里希·克拉格斯 (Dietrich Klagges) 任命为不伦瑞克州官员，从而获得了德国公民身份。结果，希特勒得以在 1932 年的选举中竞选德国总统。
+- - 1921 年：经过激烈战斗，格鲁吉亚首都第比利斯落入入侵的俄罗斯军队之手，俄罗斯宣布成立格鲁吉亚苏维埃社会主义共和国。
+- - 1918 年：第一次世界大战：德军占领塔林，几乎完成了对爱沙尼亚的占领。
+- - 1916 年：第一次世界大战：在凡尔登战役中，一支德国部队不战而屈人之兵，占领了法国防御的基石杜奥蒙堡。
+- - 1912 年：纪尧姆四世六个女儿中的长女玛丽-阿德莱德成为卢森堡第一位在位女大公。
+- - 1875年：中国清朝光绪皇帝登基，由慈禧太后摄政。
+- - 1870 年：来自密西西比州的共和党人海勒姆·罗兹·雷维尔斯 (Hiram Rhodes Revels) 宣誓就职美国参议院，成为第一位进入国会的非裔美国人。
+- - 1843年：乔治·保莱特勋爵在保莱特事件中以大不列颠的名义占领夏威夷王国。
+- - 1836 年：塞缪尔·柯尔特 (Samuel Colt) 的左轮手枪获得美国专利。
+- - 1705 年：乔治·弗里德里克·亨德尔的歌剧《尼禄》在汉堡首演。
+- - 628：萨珊王朝（伊朗）最后一位伟大的国王科斯罗二世被他的儿子卡瓦德二世推翻。
+- - 138：罗马皇帝哈德良收养安东尼努斯·皮乌斯作为他的儿子，实际上使他成为他的继承人。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-02-24 02:31:18 UTC）*
+*（更新于: 2026-02-25 02:32:29 UTC）*
