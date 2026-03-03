@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Russian forces capture the city of Kherson during the Russian invasion of Ukraine, which subsequently began the start of the Russian occupation and military-civilian administration in Kherson. Kherson is the only regional capital in Ukraine that Russia captured.
-- 2017: The elements Moscovium, Tennessine, and Oganesson are officially added to the periodic table at a conference in Moscow, Russia.
-- 2014: The Oscar Selfie, regarded as one of the most influential and important images of all time, is taken at the 86th Academy Awards.
-- 2012: A tornado outbreak occurs over a large section of the Southern United States and into the Ohio Valley region, resulting in 40 tornado-related fatalities.
-- 2006: In Monterrey, Mexico, a man identified as Diego Santoy Riveroll committed a double murder against two children, followed by an attempted murder of his ex-partner, Erika. The incident is popularly known as the Cumbres case.
-- 2004: War in Iraq: Al-Qaeda carries out the Ashoura Massacre in Iraq, killing 170 and wounding over 500.
-- 2002: U.S. invasion of Afghanistan: Operation Anaconda begins, (ending on March 19 after killing 500 Taliban and al-Qaeda fighters, with 11 Western troop fatalities).
-- 1998: Data sent from the Galileo spacecraft indicates that Jupiter's moon Europa has a liquid ocean under a thick crust of ice.
-- 1995: Space Shuttle Endeavour launches from the Kennedy Space Center on STS-67, carrying the ASTRO-2 spacelab observatory.
-- 1995: Researchers at Fermilab announce the discovery of the top quark.
-- 1992: Armenia, Azerbaijan, Kazakhstan, Kyrgyzstan, Moldova, San Marino, Tajikistan, Turkmenistan and Uzbekistan, all of which (except San Marino) were former Soviet republics, join the United Nations.
-- 1992: Start of the war in Transnistria.
-- 1991: Battle at Rumaila oil field brings an end to the 1991 Gulf War.
-- 1991: Establishment of Kuwait Democratic Forum, center-left political organization in Kuwait.
-- 1990: Nelson Mandela is elected deputy president of the African National Congress.
-- 1989: Twelve European Community nations agree to ban the production of all chlorofluorocarbons (CFCs) by the end of the century.
-- 1986: Aeroflot Flight F-77 crashes near Bugulma Airport, killing all 38 people aboard.
-- 1983: Compact discs and players are released for the first time in the United States and other markets. They had previously been available only in Japan.
-- 1978: The late iconic actor Charlie Chaplin's coffin is stolen from his grave in Switzerland.
-- 1978: Czech Vladimír Remek becomes the first non-Russian or non-American to go into space, when he is launched aboard Soyuz 28.
-- 1977: Libya becomes the Socialist People's Libyan Arab Jamahiriya as the General People's Congress adopted the "Declaration on the Establishment of the Authority of the People".
-- 1972: The Pioneer 10 space probe is launched from Cape Canaveral, Florida with a mission to explore the outer planets.
-- 1970: Rhodesia declares itself a republic, breaking its last links with the British crown.
-- 1969: In Toulouse, France, the first test flight of the Anglo-French Concorde is conducted.
-- 1968: Baggeridge Colliery closes marking the end of over 300 years of coal mining in the Black Country.
-- 1965: The US and Republic of Vietnam Air Force begin Operation Rolling Thunder, a sustained bombing campaign against North Vietnam.
-- 1962: Wilt Chamberlain sets the single-game scoring record in the National Basketball Association by scoring 100 points.
-- 1962: In Burma, the army led by General Ne Win seizes power in a coup d'état.
-- 1955: Norodom Sihanouk, king of Cambodia, abdicates the throne in favor of his father, Norodom Suramarit.
-- 1949: Captain James Gallagher lands his B-50 Superfortress Lucky Lady II in Fort Worth, Texas, after completing the first non-stop around-the-world airplane flight in 94 hours and one minute.
+- 2013: A bomb blast in Karachi, Pakistan, kills at least 48 people and injured 200 others in a predominantly Shia Muslim area.
+- 2005: Margaret Wilson is elected as Speaker of the New Zealand House of Representatives, beginning a period lasting until August 23, 2006, where all the highest political offices (including Elizabeth II as Head of State), were occupied by women, making New Zealand the first country for this to occur.
+- 2005: Steve Fossett becomes the first person to fly an airplane non-stop around the world solo without refueling.
+- 2005: James Roszko murders four Royal Canadian Mounted Police constables during a drug bust at his property in Rochfort Bridge, Alberta, then commits suicide. This is the deadliest peace-time incident for the RCMP since 1885 and the North-West Rebellion.
+- 1991: United Airlines Flight 585 crashes on its final approach to Colorado Springs killing everyone on board.
+- 1991: An amateur video captures the beating of Rodney King by Los Angeles police officers.
+- 1986: The Australia Act 1986 commences, causing Australia to become fully independent from the United Kingdom.
+- 1985: A magnitude 8.3 earthquake strikes the Valparaíso Region of Chile, killing 177 and leaving nearly a million people homeless.
+- 1980: The USS Nautilus is decommissioned and stricken from the Naval Vessel Register.
+- 1974: Turkish Airlines Flight 981 crashes at Ermenonville near Paris, France killing all 346 aboard.
+- 1972: Mohawk Airlines Flight 405 crashes as a result of a control malfunction and insufficient training in emergency procedures.
+- 1969: Apollo program: NASA launches Apollo 9 to test the lunar module.
+- 1958: Nuri al-Said becomes Prime Minister of Iraq for the eighth time.
+- 1953: A De Havilland Comet (Canadian Pacific Air Lines) crashes in Karachi, Pakistan, killing 11 people.
+- 1945: World War II: In poor visibility, the RAF mistakenly bombs the Bezuidenhout area of The Hague, Netherlands, killing 511 people.
+- 1944: A freight train carrying stowaway passengers stalls in a tunnel shortly after departing from Balvano, Basilicata, Italy just after midnight, with 517 dying from carbon monoxide poisoning.
+- 1944: The Order of Nakhimov and Order of Ushakov are instituted in USSR as the highest naval awards.
+- 1943: World War II: In London, 173 people are killed in a crush while trying to enter an air-raid shelter at Bethnal Green tube station.
+- 1942: World War II: Ten Japanese warplanes raid Broome, Western Australia, killing more than 100 people.
+- 1940: Five people are killed in an arson attack on the offices of the communist newspaper Flamman in Luleå, Sweden.
+- 1939: In Bombay, Mohandas Gandhi begins a hunger strike in protest at the autocratic rule in British India.
+- 1938: Oil is discovered in Saudi Arabia.
+- 1924: The Free State of Fiume is annexed by the Kingdom of Italy.
+- 1924: The Ottoman Caliphate is abolished, when the Caliph Abdülmecid II of the Ottoman dynasty is deposed. The last remnant of the old monarchy gives way to the reformed Turkey of Kemal Atatürk.
+- 1923: US magazine Time publishes its first issue.
+- 1918: Russia signs the Treaty of Brest-Litovsk, agreeing to withdraw from World War I, and conceding German control of the Baltic States, Belarus and Ukraine. It also conceded Turkish control of Ardahan, Kars and Batumi.
+- 1913: Thousands of women march in the Woman Suffrage Procession in Washington, D.C.
+- 1891: Shoshone National Forest is established as the first national forest in the US and world.
+- 1878: The Russo-Turkish War ends with Bulgaria regaining its independence from the Ottoman Empire according to the Treaty of San Stefano.
+- 1875: Bizet's opera Carmen is first performed at the Opéra-Comique in Paris.
 
 Data from muffinlabs
-*(Updated at: 2026-03-02 02:30:09 UTC)*
+*(Updated at: 2026-03-03 02:32:40 UTC)*
 
 # 历史上的今天 
 
-- - 2022年：俄罗斯军队在俄罗斯入侵乌克兰期间占领了赫尔松市，随后开始了俄罗斯对赫尔松的占领和军民管理。赫尔松是俄罗斯占领的乌克兰唯一的地区首府。
-- - 2017 年：在俄罗斯莫斯科举行的一次会议上，Moscovium、Tennessine 和 Oganesson 元素被正式添加到元素周期表中。
-- - 2014 年：第 86 届奥斯卡颁奖典礼上拍摄的奥斯卡自拍照被认为是有史以来最具影响力和最重要的照片之一。
-- - 2012 年：美国南部大部分地区和俄亥俄河谷地区爆发龙卷风，造成 40 人与龙卷风相关的死亡。
-- - 2006 年：在墨西哥蒙特雷，一名名叫迭戈·桑托伊·里弗罗尔 (Diego Santoy Riveroll) 的男子对两名儿童实施了双重谋杀，随后又企图谋杀他的前伴侣埃里卡 (Erika)。该事件通常被称为“孔布雷斯案”。
-- - 2004年：伊拉克战争：基地组织在伊拉克实施阿舒拉大屠杀，造成170人死亡、500多人受伤。
-- - 2002 年：美国入侵阿富汗：蟒蛇行动开始（杀死 500 名塔利班和基地组织战士，11 名西方部队死亡，于 3 月 19 日结束）。
-- - 1998年：伽利略号宇宙飞船发送的数据表明，木星的卫星木卫二在厚厚的冰壳下有一个液态海洋。
-- - 1995 年：奋进号航天飞机搭载 STS-67 从肯尼迪航天中心发射升空，搭载 ASTRO-2 太空实验室天文台。
-- - 1995 年：费米实验室的研究人员宣布发现顶夸克。
-- - 1992年：亚美尼亚、阿塞拜疆、哈萨克斯坦、吉尔吉斯斯坦、摩尔多瓦、圣马力诺、塔吉克斯坦、土库曼斯坦和乌兹别克斯坦（除圣马力诺外）均是前苏联加盟共和国，加入联合国。
-- - 1992 年：德涅斯特河沿岸战争爆发。
-- - 1991 年：鲁迈拉油田之战结束了 1991 年海湾战争。
-- - 1991年：科威特民主论坛成立，这是科威特的中左翼政治组织。
-- - 1990 年：纳尔逊·曼德拉当选非洲人国民大会副主席。
-- - 1989 年：十二个欧洲共同体国家同意在本世纪末禁止生产所有氯氟烃 (CFC)。
-- - 1986 年：俄罗斯航空公司 F-77 航班在布古马机场附近坠毁，机上 38 人全部遇难。
-- - 1983 年：光盘和播放器首次在美国和其他市场发布。此前，它们仅在日本销售。
-- - 1978 年：已故演员查理·卓别林位于瑞士的坟墓中的棺材被盗。
-- - 1978 年：捷克人弗拉基米尔·雷梅克 (Vladimír Remek) 搭乘联盟号 28 号飞船升空，成为第一个进入太空的非俄罗斯人或非美国人。
-- - 1977年：全国人民代表大会通过《建立人民政权宣言》，利比亚成为阿拉伯利比亚人民社会主义民众国。
-- - 1972 年：先锋 10 号太空探测器从佛罗里达州卡纳维拉尔角发射升空，其任务是探索外行星。
-- - 1970 年：罗德西亚宣布自己为共和国，结束了与英国王室的最后联系。
-- - 1969 年：在法国图卢兹，英法协和式飞机进行了首次试飞。
-- - 1968 年：巴格里奇煤矿关闭，标志着黑国 300 多年煤炭开采的结束。
-- - 1965 年：美国和越南共和国空军开始“滚雷行动”，这是针对北越的持续轰炸行动。
-- - 1962 年：威尔特·张伯伦 (Wilt Chamberlain) 拿下 100 分，创造了美国国家篮球协会 (NBA) 的单场得分纪录。
-- - 1962 年：在缅甸，奈温将军领导的军队通过政变夺取了政权。
-- - 1955 年：柬埔寨国王诺罗敦·西哈努克 (Norodom Sihanouk) 将王位让给他的父亲诺罗敦·苏拉玛里 (Norodom Suramarit)。
-- - 1949 年：詹姆斯·加拉格尔 (James Gallagher) 机长在 94 小时 1 分钟内完成首次不间断环球飞机飞行后，将他的 B-50 Superfortress Lucky Lady II 降落在德克萨斯州沃思堡。
+- - 2013 年：巴基斯坦卡拉奇的一次炸弹爆炸导致什叶派穆斯林占主导地位的至少 48 人死亡、200 人受伤。
+- - 2005年：玛格丽特·威尔逊当选为新西兰众议院议长，任期一直持续到2006年8月23日，所有最高政治职位（包括作为国家元首的伊丽莎白二世）均由女性担任，使新西兰成为第一个出现这种情况的国家。
+- - 2005 年：史蒂夫·福塞特 (Steve Fossett) 成为第一个独自驾驶飞机不间断环球飞行且无需加油的人。
+- - 2005 年：詹姆斯·罗斯科 (James Roszko) 在阿尔伯塔省罗奇福特桥 (Rochfort Bridge) 的住所缉毒行动中谋杀了四名加拿大皇家骑警，然后自杀。这是加拿大皇家骑警自 1885 年和西北叛乱以来最严重的和平时期事件。
+- - 1991 年：联合航空 585 号航班在飞往科罗拉多斯普林斯的最后进场时坠毁，机上所有人全部遇难。
+- - 1991 年：一段业余视频记录了洛杉矶警察殴打罗德尼·金的情况。
+- - 1986 年：《1986 年澳大利亚法案》生效，使澳大利亚完全独立于英国。
+- - 1985 年：智利瓦尔帕莱索地区发生里氏 8.3 级地震，造成 177 人死亡，近一百万人无家可归。
+- - 1980 年：鹦鹉螺号航空母舰退役并从海军舰艇登记册上除名。
+- - 1974 年：土耳其航空 981 号航班在法国巴黎附近的埃默农维尔坠毁，机上 346 人全部遇难。
+- - 1972 年：莫霍克航空公司 405 号航班因控制故障和紧急程序培训不足而坠毁。
+- - 1969 年：阿波罗计划：美国宇航局发射阿波罗 9 号来测试登月舱。
+- - 1958 年：努里·赛义德第八次成为伊拉克总理。
+- - 1953 年：一架德哈维兰彗星（加拿大太平洋航空​​公司）在巴基斯坦卡拉奇坠毁，造成 11 人死亡。
+- - 1945 年：第二次世界大战：在能见度不佳的情况下，英国皇家空军误炸了荷兰海牙的 Bezuidenhout 地区，造成 511 人死亡。
+- - 1944 年：午夜过后，一列载有偷渡乘客的货运列车从意大利巴斯利卡塔巴尔瓦诺出发后不久在隧道中失速，造成 517 人死于一氧化碳中毒。
+- - 1944年：苏联设立纳希莫夫勋章和乌沙科夫勋章作为海军最高奖项。
+- - 1943 年：第二次世界大战：在伦敦，173 人在试图进入 Bethnal Green 地铁站防空洞时的挤压中丧生。
+- - 1942 年：第二次世界大战：十架日本战机袭击西澳大利亚布鲁姆，造成 100 多人死亡。
+- - 1940 年：瑞典吕勒奥共产主义报纸 Flamman 的办公室遭到纵火袭击，造成 5 人死亡。
+- - 1939 年：在孟买，莫罕达斯·甘地开始绝食抗议英属印度的独裁统治。
+- - 1938 年：沙特阿拉伯发现石油。
+- - 1924 年：阜姆自由邦被意大利王国吞并。
+- - 1924 年：奥斯曼王朝哈里发阿卜杜勒梅吉德二世被废黜，奥斯曼哈里发国被废除。旧君主制的最后残余让位于凯末尔·阿塔图尔克改革后的土耳其。
+- - 1923 年：美国杂志《时代》出版第一期。
+- - 1918 年：俄罗斯签署布列斯特-立托夫斯克条约，同意退出第一次世界大战，并承认德国对波罗的海国家、白俄罗斯和乌克兰的控制。它还承认土耳其对阿尔达汉、卡尔斯和巴统的控制。
+- - 1913 年：数千名妇女参加华盛顿特区的妇女选举权游行
+- - 1891 年：肖肖尼国家森林 (Shoshone National Forest) 建立，成为美国和世界上第一座国家森林。
+- - 1878 年：俄土战争结束，保加利亚根据《圣斯特凡诺条约》从奥斯曼帝国手中重新获得独立。
+- - 1875 年：比才的歌剧《卡门》首次在巴黎喜歌剧院上演。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-03-02 02:30:09 UTC）*
+*（更新于: 2026-03-03 02:32:40 UTC）*
