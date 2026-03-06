@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: A group of four prisoners escape from the Nouakchott Civil Prison, before being caught the next day.
-- 2023: The 2023 Estonian parliamentary election is held, with two centre-right liberal parties gaining an absolute majority for the first time.
-- 2021: Twenty people are killed and 30 injured in a suicide car bombing in Mogadishu, Somalia.
-- 2021: Pope Francis begins a historical visit to Iraq amidst the COVID-19 pandemic.
-- 2018: Syrian civil war: The Syrian Democratic Forces (SDF) pause the Deir ez-Zor campaign due to the Turkish-led invasion of Afrin.
-- 2012: Two people are killed and six more are injured in a shooting at a hair salon in Bucharest, Romania.
-- 2012: Tropical Storm Irina kills over 75 as it passes through Madagascar.
-- 2011: An Antonov An-148 crashes in Russia's Alexeyevsky District, Belgorod Oblast during a test flight, killing all seven aboard.
-- 2003: In Haifa, 17 Israeli civilians are killed in the Haifa bus 37 suicide bombing.
-- 2002: An earthquake in Mindanao, Philippines, kills 15 people and injures more than 100.
-- 2001: In Mina, Saudi Arabia, 35 pilgrims are killed in a stampede on the Jamaraat Bridge during the Hajj.
-- 1993: Palair Macedonian Airlines Flight 301 crashes at Skopje International Airport in Petrovec, North Macedonia, killing 83.
-- 1991: Aeropostal Alas de Venezuela Flight 109 crashes in Venezuela, killing 45.
-- 1982: Soviet probe Venera 14 lands on Venus.
-- 1981: The ZX81, a pioneering British home computer, is launched by Sinclair Research and would go on to sell over 1.mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}1⁄2 million units around the world.
-- 1979: Soviet probes Venera 11, Venera 12 and the German-American solar satellite Helios II all are hit by "off the scale" gamma rays leading to the discovery of soft gamma repeaters.
-- 1978: The Landsat 3 is launched from Vandenberg Air Force Base in California.
-- 1974: Yom Kippur War: Israeli forces withdraw from the west bank of the Suez Canal.
-- 1973: An Iberia McDonnell Douglas DC-9 collide in mid-air with a Spantax Convair 990 Coronado over Nantes, France, killing all 68 people aboard the DC-9, including music manager Michael Jeffery.
-- 1970: The Treaty on the Non-Proliferation of Nuclear Weapons goes into effect after ratification by 43 nations.
-- 1968: Air France Flight 212 crashes into La Grande Soufrière, killing all 63 aboard.
-- 1967: Lake Central Airlines Flight 527 crashes near Marseilles, Ohio, killing 38.
-- 1966: BOAC Flight 911, a Boeing 707 aircraft, breaks apart in mid-air due to clear-air turbulence and crashes into Mount Fuji, Japan, killing all 124 people on board.
-- 1965: March Intifada: A Leftist uprising erupts in Bahrain against the British colonial presence.
-- 1963: Aeroflot Flight 191 crashes while landing at Aşgabat International Airport, killing 12.
-- 1963: American country music stars Patsy Cline, Hawkshaw Hawkins, Cowboy Copas and their pilot Randy Hughes are killed in a plane crash in Camden, Tennessee.
-- 1960: Indonesian President Sukarno dismissed the Dewan Perwakilan Rakyat (DPR), 1955 democratically elected parliament, and replaced with DPR-GR, the parliament of his own selected members.
-- 1957: Sutton Wick air crash a Blackburn Beverley of 53 Squadron, Royal Air Forces, crashes into the village of Sutton Wick, Berkshire (now Oxfordshire) killing most of the crew and passengers and two local residents.
-- 1953: Joseph Stalin, the longest serving leader of the Soviet Union, dies at his Volynskoe dacha in Moscow after suffering a cerebral hemorrhage four days earlier.
-- 1946: Cold War: Winston Churchill delivers his famous "Iron Curtain" speech at Westminster College, Missouri.
+- 2020: 32 people are killed and 82 are injured when gunmen open fire on a ceremony in Kabul, Afghanistan. The Islamic State claims responsibility for the attack.
+- 2018: Forbes names Jeff Bezos as the world's richest person, for the first time, at $112 billion net worth.
+- 2008: A suicide bomber kills 68 people (including first responders) in Baghdad on the same day that a gunman kills eight students in Jerusalem.
+- 2003: Air Algérie Flight 6289 crashes at the Aguenar - Hadj Bey Akhamok Airport in Tamanrasset, Algeria, killing 102 out of the 103 people on board.
+- 1992: The Michelangelo computer virus begins to affect computers.
+- 1988: Three Provisional Irish Republican Army volunteers are shot dead by the SAS in Gibraltar in Operation Flavius.
+- 1987: The British ferry MS Herald of Free Enterprise capsizes in about 90 seconds, killing 193.
+- 1984: In the United Kingdom, a walkout at Cortonwood Colliery in Brampton Bierlow signals the start of a strike that lasted almost a year and involved the majority of the country's miners.
+- 1975: Algiers Accord: Iran and Iraq announce a settlement of their border dispute.
+- 1975: The Zapruder film of the assassination of John F. Kennedy is shown in motion to a national TV audience for the first time by Robert J. Groden and Dick Gregory.
+- 1970: An explosion at the Weather Underground safe house in Greenwich Village kills three.
+- 1968: Three rebels are executed by Rhodesia, the first executions since UDI, prompting international condemnation.
+- 1967: Cold War: Joseph Stalin's daughter Svetlana Alliluyeva defects to the United States.
+- 1965: Premier Tom Playford of South Australia loses power after 27 years in office.
+- 1964: Constantine II becomes the last King of Greece.
+- 1964: Nation of Islam leader Elijah Muhammad officially gives boxing champion Cassius Clay the name Muhammad Ali.
+- 1957: Ghana becomes the first Sub-Saharan country to gain independence from the British.
+- 1953: Georgy Malenkov succeeds Joseph Stalin as Premier of the Soviet Union and First Secretary of the Communist Party of the Soviet Union.
+- 1951: Cold War: The trial of Ethel and Julius Rosenberg begins.
+- 1946: Ho Chi Minh signs an agreement with France which recognizes Vietnam as an autonomous state in the Indochinese Federation and the French Union.
+- 1945: World War II: Cologne is captured by American troops. On the same day, Operation Spring Awakening, the last major German offensive of the war, begins.
+- 1944: World War II: Soviet Air Forces bomb an evacuated town of Narva in German-occupied Estonia, destroying the entire historical Swedish-era town.
+- 1943: World War II: The Battle of Fardykambos, one of the first major battles between the Greek Resistance and the occupying Royal Italian Army, ends with the surrender of an entire Italian battalion, the bulk of the garrison of the town of Grevena, leading to its liberation a fortnight later.
+- 1943: World War II: Generalfeldmarschall Erwin Rommel launches the Battle of Medenine in an attempt to slow down the British Eighth Army. It fails, and he leaves Africa three days later.
+- 1943: Norman Rockwell published Freedom from Want in The Saturday Evening Post with a matching essay by Carlos Bulosan as part of the Four Freedoms series.
+- 1930: International Unemployment Day demonstrations globally initiated by the Comintern.
+- 1912: Italo-Turkish War: Italian forces become the first to use airships in war, as two dirigibles drop bombs on Turkish troops encamped at Janzur, from an altitude of 1,800 m.
+- 1904: Scottish National Antarctic Expedition: Led by William Speirs Bruce, the Antarctic region of Coats Land was discovered from the Scotia.
+- 1901: Anarchist assassin tries to kill German Emperor Wilhelm II.
+- 1857: The Supreme Court of the United States rules 7-2 in the Dred Scott v. Sandford case that the Constitution does not confer citizenship on black people.
 
 Data from muffinlabs
-*(Updated at: 2026-03-05 02:28:18 UTC)*
+*(Updated at: 2026-03-06 02:26:41 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：四名囚犯从努瓦克肖特民事监狱越狱，第二天被捕。
-- - 2023年：2023年爱沙尼亚议会选举举行，两个中右翼自由党首次获得绝对多数。
-- - 2021 年：索马里摩加迪沙发生自杀式汽车爆炸，造成 20 人死亡、30 人受伤。
-- - 2021 年：教皇方济各在 COVID-19 大流行期间开始对伊拉克进行历史性访问。
-- - 2018年：叙利亚内战：由于土耳其领导的对阿夫林的入侵，叙利亚民主力量（SDF）暂停了代尔祖尔战役。
-- - 2012年：罗马尼亚布加勒斯特一家发廊发生枪击事件，造成两人死亡、六人受伤。
-- - 2012 年：热带风暴伊琳娜在穿过马达加斯加时造成超过 75 人死亡。
-- - 2011 年：一架安东诺夫 An-148 飞机在俄罗斯别尔哥罗德州阿列克谢耶夫斯基区试飞时坠毁，机上七人全部遇难。
-- - 2003年：在海法，17名以色列平民在海法巴士37号自杀式爆炸事件中丧生。
-- - 2002年：菲律宾棉兰老岛发生地震，造成15人死亡、100多人受伤。
-- - 2001 年：在沙特阿拉伯米纳，朝觐期间，35 名朝圣者在 Jamaraat 桥上的踩踏事件中丧生。
-- - 1993 年：帕莱尔马其顿航空公司 301 号航班在北马其顿彼得罗韦茨斯科普里国际机场坠毁，造成 83 人死亡。
-- - 1991 年：委内瑞拉阿拉斯邮政航空 109 号航班在委内瑞拉坠毁，造成 45 人死亡。
-- - 1982 年：苏联探测器金星 14 号登陆金星。
-- - 1981 年：英国家用电脑先锋 ZX81 由 Sinclair Research 推出，销量超过 1.mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac.den{字体大小:80%;行高:0;垂直对齐:超级}.mw-解析器输出.frac .den{垂直对齐:子}.mw-解析器输出.sr-only{边框:0;剪辑:矩形(0,0,0,0);剪辑路径:多边形(0px 0px,0px 0px,0px0px);高度:1px;边距:-1px;溢出:隐藏;填充:0;位置:绝对;宽度:1px}全球1⁄2百万个单位。
-- - 1979 年：苏联探测器金星 11 号、金星 12 号和德美太阳卫星赫利俄斯 II 号均遭到“超标”伽马射线撞击，从而发现了软伽马中继器。
-- - 1978 年：Landsat 3 从加利福尼亚州范登堡空军基地发射。
-- - 1974 年：赎罪日战争：以色列军队从苏伊士运河西岸撤军。
-- - 1973 年：一架 Iberia McDonnell Douglas DC-9 在法国南特上空与一架 Spatax Convair 990 Coronado 飞机相撞，导致 DC-9 上的 68 人全部遇难，其中包括音乐经理 Michael Jeffery。
-- - 1970年：《不扩散核武器条约》在43个国家批准后生效。
-- - 1968 年：法航 212 号航班坠入大苏弗里耶尔，机上 63 人全部遇难。
-- - 1967 年：中央湖航空 527 号航班在俄亥俄州马赛附近坠毁，造成 38 人死亡。
-- - 1966年：BOAC 911航班，一架波音707飞机，由于晴空湍流在半空中解体，坠入日本富士山，机上124人全部遇难。
-- - 1965 年：三月起义：巴林爆发左翼起义，反对英国殖民统治。
-- - 1963 年：俄罗斯航空公司 191 号航班在阿什哈巴德国际机场降落时坠毁，造成 12 人死亡。
-- - 1963 年：美国乡村音乐明星 Patsy Cline、Hawkshaw Hawkins、Cowboy Copas 和他们的飞行员 Randy Hughes 在田纳西州卡姆登的一次飞机失事中丧生。
-- - 1960年：印度尼西亚总统苏加诺解散了1955年民主选举产生的议会Dewan Perwakilan Rakyat (DPR)，并以他自己选定的成员组成的议会DPR-GR取而代之。
-- - 1957 年：萨顿威克空难 皇家空军第 53 中队的一架布莱克本贝弗利飞机坠入伯克郡（现牛津郡）萨顿威克村，造成大部分机组人员和乘客以及两名当地居民死亡。
-- - 1953 年：苏联任期最长的领导人约瑟夫·斯大林 (Joseph Stalin) 四天前因脑溢血在莫斯科沃林斯科别墅去世。
-- - 1946 年：冷战：温斯顿·丘吉尔在密苏里州威斯敏斯特学院发表著名的“铁幕”演讲。
+- - 2020 年：武装分子在阿富汗喀布尔举行的仪式上开枪，造成 32 人死亡、82 人受伤。伊斯兰国声称对此次袭击负责。
+- - 2018 年：《福布斯》将杰夫·贝索斯 (Jeff Bezos) 首次列为全球首富，净资产达 1,120 亿美元。
+- - 2008 年：一名自杀式炸弹袭击者在巴格达杀死了 68 人（包括急救人员），同一天一名枪手在耶路撒冷杀死了 8 名学生。
+- - 2003 年：阿尔及利亚航空 6289 号航班在阿尔及利亚塔曼拉塞特的 Aguenar - Hadj Bey Akhamok 机场坠毁，机上 103 人中有 102 人死亡。
+- - 1992 年：米开朗基罗计算机病毒开始影响计算机。
+- - 1988 年：在弗拉维乌斯行动中，三名临时爱尔兰共和军志愿者在直布罗陀被 SAS 枪杀。
+- - 1987 年：英国渡轮 MS Herald of Free Enterprise 在大约 90 秒内倾覆，造成 193 人死亡。
+- - 1984 年：在英国，布兰普顿比尔洛 (Brampton Bierlow) 的科顿伍德煤矿 (Cortonwood Colliery) 发生罢工，标志着持续近一年、涉及该国大多数矿工的罢工的开始。
+- - 1975 年：阿尔及尔协议：伊朗和伊拉克宣布解决边界争端。
+- - 1975 年：罗伯特·J·格罗登 (Robert J. Groden) 和迪克·格雷戈里 (Dick Gregory) 首次向全国电视观众放映由扎普鲁德 (Zapruder) 拍摄的关于刺杀约翰·F·肯尼迪 (John F. Kennedy) 的电影。
+- - 1970 年：格林威治村的 Weather Underground 安全屋发生爆炸，造成三人死亡。
+- - 1968 年：三名叛乱分子被罗德西亚处决，这是自 UDI 以来的首次处决，引发了国际谴责。
+- - 1967 年：冷战：约瑟夫·斯大林的女儿斯维特兰娜·阿利卢耶娃叛逃到美国。
+- - 1965 年：南澳大利亚州州长汤姆·普雷福德 (Tom Playford) 在执政 27 年后失去权力。
+- - 1964 年：君士坦丁二世成为希腊最后一位国王。
+- - 1964 年：伊斯兰国家领袖伊利亚·穆罕默德 (Elijah Muhammad) 正式将拳击冠军卡修斯·克莱 (Cassius Clay) 命名为穆罕默德·阿里 (Muhammad Ali)。
+- - 1957 年：加纳成为第一个脱离英国统治获得独立的撒哈拉以南非洲国家。
+- - 1953年：格奥尔基·马林科夫接替约瑟夫·斯大林担任苏联总理和苏联共产党第一书记。
+- - 1951 年：冷战：对埃塞尔和朱利叶斯·罗森伯格的审判开始。
+- - 1946年：胡志明与法国签署协议，承认越南为印度支那联邦和法国联盟的自治国家。
+- - 1945 年：第二次世界大战：科隆被美军占领。同一天，德国在战争中的最后一次重大攻势“春天觉醒”行动开始。
+- - 1944 年：第二次世界大战：苏联空军轰炸了德国占领的爱沙尼亚的纳尔瓦小镇，摧毁了整个瑞典时代的历史小镇。
+- - 1943 年：第二次世界大战：法迪坎博斯战役是希腊抵抗运动与占领的意大利皇家军队之间的首批重大战役之一，以整个意大利营投降而结束，该营是格雷韦纳镇的主要驻军，两周后该镇获得解放。
+- - 1943 年：第二次世界大战：埃尔温·隆美尔元帅发动梅德宁战役，试图减缓英国第八集团军的速度。但失败了，三天后他离开了非洲。
+- - 1943 年：诺曼·洛克威尔 (Norman Rockwell) 在《周六晚邮报》上发表了《免于匮乏的自由》，并附上了卡洛斯·布洛桑 (Carlos Bulosan) 的配套文章，作为“四大自由”系列的一部分。
+- - 1930 年：共产国际在全球范围内发起国际失业日示威活动。
+- - 1912 年：意大利-土耳其战争：意大利军队成为第一个在战争中使用飞艇的军队，两艘飞艇从 1,800 米的高度向驻扎在 Janzur 的土耳其军队投掷炸弹。
+- - 1904 年：苏格兰国家南极探险队：由威廉·斯皮尔斯·布鲁斯 (William Speirs Bruce) 领导，从斯科舍省发现了科茨地南极地区。
+- - 1901 年：无政府主义刺客试图刺杀德国皇帝威廉二世。
+- - 1857年：美国最高法院在德雷德·斯科特诉桑福德案中以7比2的裁决裁定宪法不赋予黑人公民身份。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-03-05 02:28:18 UTC）*
+*（更新于: 2026-03-06 02:26:41 UTC）*
