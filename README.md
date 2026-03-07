@@ -1,71 +1,65 @@
 # History of Today 
 
-- 2020: 32 people are killed and 82 are injured when gunmen open fire on a ceremony in Kabul, Afghanistan. The Islamic State claims responsibility for the attack.
-- 2018: Forbes names Jeff Bezos as the world's richest person, for the first time, at $112 billion net worth.
-- 2008: A suicide bomber kills 68 people (including first responders) in Baghdad on the same day that a gunman kills eight students in Jerusalem.
-- 2003: Air Algérie Flight 6289 crashes at the Aguenar - Hadj Bey Akhamok Airport in Tamanrasset, Algeria, killing 102 out of the 103 people on board.
-- 1992: The Michelangelo computer virus begins to affect computers.
-- 1988: Three Provisional Irish Republican Army volunteers are shot dead by the SAS in Gibraltar in Operation Flavius.
-- 1987: The British ferry MS Herald of Free Enterprise capsizes in about 90 seconds, killing 193.
-- 1984: In the United Kingdom, a walkout at Cortonwood Colliery in Brampton Bierlow signals the start of a strike that lasted almost a year and involved the majority of the country's miners.
-- 1975: Algiers Accord: Iran and Iraq announce a settlement of their border dispute.
-- 1975: The Zapruder film of the assassination of John F. Kennedy is shown in motion to a national TV audience for the first time by Robert J. Groden and Dick Gregory.
-- 1970: An explosion at the Weather Underground safe house in Greenwich Village kills three.
-- 1968: Three rebels are executed by Rhodesia, the first executions since UDI, prompting international condemnation.
-- 1967: Cold War: Joseph Stalin's daughter Svetlana Alliluyeva defects to the United States.
-- 1965: Premier Tom Playford of South Australia loses power after 27 years in office.
-- 1964: Constantine II becomes the last King of Greece.
-- 1964: Nation of Islam leader Elijah Muhammad officially gives boxing champion Cassius Clay the name Muhammad Ali.
-- 1957: Ghana becomes the first Sub-Saharan country to gain independence from the British.
-- 1953: Georgy Malenkov succeeds Joseph Stalin as Premier of the Soviet Union and First Secretary of the Communist Party of the Soviet Union.
-- 1951: Cold War: The trial of Ethel and Julius Rosenberg begins.
-- 1946: Ho Chi Minh signs an agreement with France which recognizes Vietnam as an autonomous state in the Indochinese Federation and the French Union.
-- 1945: World War II: Cologne is captured by American troops. On the same day, Operation Spring Awakening, the last major German offensive of the war, begins.
-- 1944: World War II: Soviet Air Forces bomb an evacuated town of Narva in German-occupied Estonia, destroying the entire historical Swedish-era town.
-- 1943: World War II: The Battle of Fardykambos, one of the first major battles between the Greek Resistance and the occupying Royal Italian Army, ends with the surrender of an entire Italian battalion, the bulk of the garrison of the town of Grevena, leading to its liberation a fortnight later.
-- 1943: World War II: Generalfeldmarschall Erwin Rommel launches the Battle of Medenine in an attempt to slow down the British Eighth Army. It fails, and he leaves Africa three days later.
-- 1943: Norman Rockwell published Freedom from Want in The Saturday Evening Post with a matching essay by Carlos Bulosan as part of the Four Freedoms series.
-- 1930: International Unemployment Day demonstrations globally initiated by the Comintern.
-- 1912: Italo-Turkish War: Italian forces become the first to use airships in war, as two dirigibles drop bombs on Turkish troops encamped at Janzur, from an altitude of 1,800 m.
-- 1904: Scottish National Antarctic Expedition: Led by William Speirs Bruce, the Antarctic region of Coats Land was discovered from the Scotia.
-- 1901: Anarchist assassin tries to kill German Emperor Wilhelm II.
-- 1857: The Supreme Court of the United States rules 7-2 in the Dred Scott v. Sandford case that the Constitution does not confer citizenship on black people.
+- 2024: Hannah Gutierrez-Reed is found guilty of involuntary manslaughter in the death of Halyna Hutchins on the set of the movie Rust, the first time someone has been found guilty for causing a death on a movie set.
+- 2024: Sweden officially joins NATO, becoming its 32nd member.
+- 2021: At least 108 die and 615 are injured in the 2021 Bata explosions in Bata, Equatorial Guinea.
+- 2009: Massereene Barracks shooting: The Real Irish Republican Army kills two British soldiers and injures two other soldiers and two civilians at Massereene Barracks, the first British military deaths in Northern Ireland since the end of The Troubles.
+- 2007: Garuda Indonesia Flight 200 crashes at Adisutjipto International Airport in the Special Region of Yogyakarta, Indonesia, killing 21 people.
+- 2007: Reform of the House of Lords: The British House of Commons votes to make the upper chamber, the House of Lords, 100% elected.
+- 2006: The terrorist organisation Lashkar-e-Taiba coordinates a series of bombings in Varanasi, India.
+- 1989: Iran and the United Kingdom break diplomatic relations after a fight over Salman Rushdie and his controversial novel, The Satanic Verses.
+- 1986: Challenger Disaster: Divers from the USS Preserver locate the crew cabin of Challenger on the ocean floor.
+- 1965: Aeroflot Flight 542 crashes in the Yermakovsky District, killing all 31 aboard.
+- 1965: Bloody Sunday: A group of 600 civil rights marchers are brutally attacked by state and local police in Selma, Alabama.
+- 1951: Iranian prime minister Ali Razmara is assassinated by Khalil Tahmasebi, a member of the Islamic fundamentalist Fada'iyan-e Islam, outside a mosque in Tehran.
+- 1951: Korean War: Operation Ripper: United Nations troops led by General Matthew Ridgway begin an assault against Chinese forces.
+- 1951: Northwest Orient Airlines Flight 307 crashes in Lynnhurst, Minneapolis, killing 15 people.
+- 1941: Günther Prien and the crew of German submarine U-47, one of the most successful U-boats of World War II, disappear without a trace.
+- 1931: The Parliament House of Finland is officially inaugurated in Helsinki, Finland.
+- 1921: The short-lived socialist Labin Republic is proclaimed.
+- 1902: Second Boer War: Boers, led by Koos de la Rey, defeat the British at the Battle of Tweebosch.
+- 1876: Alexander Graham Bell is granted a patent for an invention he calls the "telephone".
+- 1850: Senator Daniel Webster gives his "Seventh of March" speech endorsing the Compromise of 1850 in order to prevent a possible civil war.
+- 1826: Shrigley abduction: 15-year old Ellen Turner is abducted by Edward Gibbon Wakefield, a future figure in the establishment of colonies in South Australia and New Zealand.
+- 1814: Emperor Napoleon I of France wins the Battle of Craonne.
+- 1799: Napoleon Bonaparte captures Jaffa in Palestine and his troops proceed to kill more than 2,000 Albanian captives.
+- 1573: A peace treaty is signed between the Ottoman Empire and the Republic of Venice, ending the Ottoman-Venetian War and leaving Cyprus in Ottoman hands.
+- 1277: The University of Paris issues the last in a series of condemnations of various philosophical and theological theses.
+- 1138: Konrad III von Hohenstaufen was elected king of Germany at Coblenz in the presence of the papal legate Theodwin.
+- 161: Marcus Aurelius and L. Commodus (who changes his name to Lucius Verus) become joint emperors of Rome on the death of Antoninus Pius.
 
 Data from muffinlabs
-*(Updated at: 2026-03-06 02:26:41 UTC)*
+*(Updated at: 2026-03-07 02:20:13 UTC)*
 
 # 历史上的今天 
 
-- - 2020 年：武装分子在阿富汗喀布尔举行的仪式上开枪，造成 32 人死亡、82 人受伤。伊斯兰国声称对此次袭击负责。
-- - 2018 年：《福布斯》将杰夫·贝索斯 (Jeff Bezos) 首次列为全球首富，净资产达 1,120 亿美元。
-- - 2008 年：一名自杀式炸弹袭击者在巴格达杀死了 68 人（包括急救人员），同一天一名枪手在耶路撒冷杀死了 8 名学生。
-- - 2003 年：阿尔及利亚航空 6289 号航班在阿尔及利亚塔曼拉塞特的 Aguenar - Hadj Bey Akhamok 机场坠毁，机上 103 人中有 102 人死亡。
-- - 1992 年：米开朗基罗计算机病毒开始影响计算机。
-- - 1988 年：在弗拉维乌斯行动中，三名临时爱尔兰共和军志愿者在直布罗陀被 SAS 枪杀。
-- - 1987 年：英国渡轮 MS Herald of Free Enterprise 在大约 90 秒内倾覆，造成 193 人死亡。
-- - 1984 年：在英国，布兰普顿比尔洛 (Brampton Bierlow) 的科顿伍德煤矿 (Cortonwood Colliery) 发生罢工，标志着持续近一年、涉及该国大多数矿工的罢工的开始。
-- - 1975 年：阿尔及尔协议：伊朗和伊拉克宣布解决边界争端。
-- - 1975 年：罗伯特·J·格罗登 (Robert J. Groden) 和迪克·格雷戈里 (Dick Gregory) 首次向全国电视观众放映由扎普鲁德 (Zapruder) 拍摄的关于刺杀约翰·F·肯尼迪 (John F. Kennedy) 的电影。
-- - 1970 年：格林威治村的 Weather Underground 安全屋发生爆炸，造成三人死亡。
-- - 1968 年：三名叛乱分子被罗德西亚处决，这是自 UDI 以来的首次处决，引发了国际谴责。
-- - 1967 年：冷战：约瑟夫·斯大林的女儿斯维特兰娜·阿利卢耶娃叛逃到美国。
-- - 1965 年：南澳大利亚州州长汤姆·普雷福德 (Tom Playford) 在执政 27 年后失去权力。
-- - 1964 年：君士坦丁二世成为希腊最后一位国王。
-- - 1964 年：伊斯兰国家领袖伊利亚·穆罕默德 (Elijah Muhammad) 正式将拳击冠军卡修斯·克莱 (Cassius Clay) 命名为穆罕默德·阿里 (Muhammad Ali)。
-- - 1957 年：加纳成为第一个脱离英国统治获得独立的撒哈拉以南非洲国家。
-- - 1953年：格奥尔基·马林科夫接替约瑟夫·斯大林担任苏联总理和苏联共产党第一书记。
-- - 1951 年：冷战：对埃塞尔和朱利叶斯·罗森伯格的审判开始。
-- - 1946年：胡志明与法国签署协议，承认越南为印度支那联邦和法国联盟的自治国家。
-- - 1945 年：第二次世界大战：科隆被美军占领。同一天，德国在战争中的最后一次重大攻势“春天觉醒”行动开始。
-- - 1944 年：第二次世界大战：苏联空军轰炸了德国占领的爱沙尼亚的纳尔瓦小镇，摧毁了整个瑞典时代的历史小镇。
-- - 1943 年：第二次世界大战：法迪坎博斯战役是希腊抵抗运动与占领的意大利皇家军队之间的首批重大战役之一，以整个意大利营投降而结束，该营是格雷韦纳镇的主要驻军，两周后该镇获得解放。
-- - 1943 年：第二次世界大战：埃尔温·隆美尔元帅发动梅德宁战役，试图减缓英国第八集团军的速度。但失败了，三天后他离开了非洲。
-- - 1943 年：诺曼·洛克威尔 (Norman Rockwell) 在《周六晚邮报》上发表了《免于匮乏的自由》，并附上了卡洛斯·布洛桑 (Carlos Bulosan) 的配套文章，作为“四大自由”系列的一部分。
-- - 1930 年：共产国际在全球范围内发起国际失业日示威活动。
-- - 1912 年：意大利-土耳其战争：意大利军队成为第一个在战争中使用飞艇的军队，两艘飞艇从 1,800 米的高度向驻扎在 Janzur 的土耳其军队投掷炸弹。
-- - 1904 年：苏格兰国家南极探险队：由威廉·斯皮尔斯·布鲁斯 (William Speirs Bruce) 领导，从斯科舍省发现了科茨地南极地区。
-- - 1901 年：无政府主义刺客试图刺杀德国皇帝威廉二世。
-- - 1857年：美国最高法院在德雷德·斯科特诉桑福德案中以7比2的裁决裁定宪法不赋予黑人公民身份。
+- - 2024 年：汉娜·古铁雷斯-里德 (Hannah Gutierrez-Reed) 在电影《铁锈》片场杀害哈利娜·哈钦斯 (Halyna Hutchins) 时被判犯有过失杀人罪，这是第一次有人因在电影片场致人死亡而被判有罪。
+- - 2024年：瑞典正式加入北约，成为其第32个成员国。
+- - 2021 年：2021 年赤道几内亚巴塔发生的巴塔爆炸至少造成 108 人死亡、615 人受伤。
+- - 2009年：马塞林军营枪击事件：真正的爱尔兰共和军在马塞林军营杀死了两名英国士兵，并打伤了另外两名士兵和两名平民，这是自麻烦结束以来北爱尔兰首次出现英国军人死亡事件。
+- - 2007年：印尼鹰航200号航班在印度尼西亚日惹特区的Adisutjipto国际机场坠毁，造成21人死亡。
+- - 2007年：上议院改革：英国下议院投票使上院即上议院100%由选举产生。
+- - 2006 年：恐怖组织虔诚军在印度瓦拉纳西策划了一系列爆炸事件。
+- - 1989 年：伊朗和英国因萨尔曼·拉什迪及其备受争议的小说《撒旦诗篇》发生争执而断绝外交关系。
+- - 1986 年：挑战者号灾难：保护者号航空母舰的潜水员在海底找到了挑战者号的船员舱。
+- - 1965 年：俄罗斯航空公司 542 号航班在叶尔马科夫斯基区坠毁，机上 31 人全部遇难。
+- - 1965 年：血腥星期日：在阿拉巴马州塞尔玛，一群 600 名民权游行者遭到州和地方警察的残酷袭击。
+- - 1951 年：伊朗总理阿里·拉兹马拉 (Ali Razmara) 在德黑兰一座清真寺外被伊斯兰原教旨主义组织 Fada'iyan-e Islam 成员哈利勒·塔赫马塞比 (Khalil Tahmasebi) 刺杀。
+- - 1951 年：朝鲜战争：开膛手行动：马修·李奇微将军领导的联合国部队开始攻击中国军队。
+- - 1951 年：西北东方航空公司 307 号航班在明尼阿波利斯林赫斯特坠毁，造成 15 人死亡。
+- - 1941 年：冈瑟·普里恩 (Günther Prien) 和德国潜艇 U-47（二战中最成功的 U 型潜艇之一）的船员消失得无影无踪。
+- - 1931 年：芬兰议会大厦在芬兰赫尔辛基正式落成。
+- - 1921 年：短暂的社会主义拉宾共和国宣告成立。
+- - 1902 年：第二次布尔战争：库斯·德拉雷 (Koos de la Rey) 领导的布尔人在特威博什战役 (Battle of Tweebosch) 中击败了英国人。
+- - 1876 年：亚历山大·格雷厄姆·贝尔 (Alexander Graham Bell) 获得一项他称之为“电话”的发明专利。
+- - 1850 年：参议员丹尼尔·韦伯斯特发表“三月七日”演讲，支持 1850 年妥协方案，以防止可能发生的内战。
+- - 1826 年：施里格利绑架：15 岁的艾伦·特纳 (Ellen Turner) 被爱德华·吉本·韦克菲尔德 (Edward Gibbon Wakefield) 绑架，后者是南澳大利亚和新西兰建立殖民地的未来人物。
+- - 1814 年：法国皇帝拿破仑一世赢得克拉奥讷战役。
+- - 1799 年：拿破仑·波拿巴占领巴勒斯坦的雅法，他的军队开始杀害 2,000 多名阿尔巴尼亚俘虏。
+- - 1573年：奥斯曼帝国与威尼斯共和国签署和平条约，结束了奥斯曼-威尼斯战争，并将塞浦路斯置于奥斯曼手中。
+- - 1277：巴黎大学对各种哲学和神学论文发表了一系列谴责中的最后一个。
+- - 1138 年：康拉德三世·冯·霍亨施陶芬在科布伦茨在教皇使节特奥德温的见证下当选为德国国王。
+- - 161年：安东尼努斯·皮乌斯去世后，马库斯·奥勒留和L·康茂德（改名为卢修斯·维鲁斯）成为罗马联合皇帝。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-03-06 02:26:41 UTC）*
+*（更新于: 2026-03-07 02:20:13 UTC）*
