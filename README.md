@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: Twenty-eight political institutions in Myanmar establish the National Unity Consultative Council, a historic alliance of ethnic armed organizations and democratically elected leaders in response to the 2021 Myanmar coup d'état
-- 2021: International Women's Day marches in Mexico become violent with 62 police officers and 19 civilians injured in Mexico City alone.
-- 2018: The first Aurat March (social/political demonstration) was held being International Women's Day in Karachi, Pakistan, since then annually held  across Pakistan and feminist slogan Mera Jism Meri Marzi (My body, my choice), in demand for women's right to bodily autonomy and against gender-based violence came into vogue in Pakistan.
-- 2017: The Azure Window, a natural arch on the Maltese island of Gozo, collapses in stormy weather.
-- 2014: In one of aviation's greatest mysteries, Malaysia Airlines Flight 370, carrying a total of 239 people, disappears en route from Kuala Lumpur to Beijing. The fate of the flight remains unknown.
-- 2010: Headlined by Hulk Hogan and Ric Flair, TNA Wrestling moved its flagship program, TNA Impact!, to Monday night. This effort to go "big time live" failed but is notable in the history of professional wrestling television.
-- 2004: A new constitution is signed by Iraq's Governing Council.
-- 2001: Space Shuttle Discovery launches on STS-102, carrying the Expedition 2 crew to the International Space Station.
-- 1994: A collision at Indira Gandhi International Airport kills 9 people.
-- 1988: Aeroflot Flight 3379 is hijacked by the Ovechkin family and diverted to Veshchevo in the Soviet Union.
-- 1985: A supposed failed assassination attempt on Islamic cleric Sayyed Mohammad Hussein Fadlallah in Beirut, Lebanon kills 80 and injures 200 others.
-- 1983: Cold War: While addressing a convention of Evangelicals, U.S. President Ronald Reagan labels the Soviet Union an "evil empire".
-- 1979: Images taken by Voyager 1 prove the existence of volcanoes on Io, a moon of Jupiter.
-- 1979: Philips demonstrates the compact disc publicly for the first time.
-- 1966: Nelson's Pillar in Dublin, Ireland, is destroyed by a bomb.
-- 1965: Aeroflot Flight 513 crashes during takeoff from Kuybyshev Airport, killing 30 and injuring 9.
-- 1965: Vietnam War: US Marines arrive at Da Nang.
-- 1963: The Ba'ath Party comes to power in Syria in a coup d'état.
-- 1962: A Turkish Airlines Fokker F27 Friendship crashes into Mount Medetsiz in the Taurus Mountains of Turkey, killing all 11 people on board.
-- 1950: The iconic Volkswagen Type 2 "Bus" begins production.
-- 1949: President of France Vincent Auriol and ex-Vietnamese emperor Bảo Đại sign the Élysée Accords, giving Vietnam greater independence from France and creating the State of Vietnam to oppose Viet Minh-led Democratic Republic of Vietnam.
-- 1942: World War II: Imperial Japanese Army forces captured Rangoon, Burma from British.
-- 1942: World War II: The Dutch East Indies surrender Java to the Imperial Japanese Army.
-- 1937: Spanish Civil War: The Battle of Guadalajara begins.
-- 1936: Daytona Beach and Road Course holds its first oval stock car race.
-- 1924: A mine disaster kills 172 coal miners near Castle Gate, Utah.
-- 1921: Spanish Prime Minister Eduardo Dato Iradier is assassinated while on his way home from the parliament building in Madrid.
-- 1917: The United States Senate votes to limit filibusters by adopting the cloture rule.
-- 1917: International Women's Day protests in Petrograd mark the beginning of the February Revolution (February 23 in the Julian calendar).
-- 1916: World War I: A British force unsuccessfully attempts to relieve the siege of Kut (present-day Iraq) in the Battle of Dujaila.
+- 2023: A shooting in the Alsterdorf quarter of Hamburg, Germany, kills eight people and injures another eight.
+- 2020: Giuseppe Conte, Prime Minister of Italy, announces in a televised address and signs the decree imposing the first nationwide COVID-19 lockdown in the world.
+- 2015: Two Eurocopter AS350 Écureuil helicopters collide in mid-air over Villa Castelli, Argentina, killing all 10 people on board both aircraft, including French athletes Florence Arthaud, Camille Muffat and Alexis Vastine, as well as producers and guests for the French TV show Dropped.
+- 2012: A truce between the Salvadoran government and gangs in the country goes into effect when 30 gang leaders are transferred to lower security prisons.
+- 2011: Space Shuttle Discovery makes its final landing after 39 flights.
+- 2000: Nupedia, a multi-language online encyclopedia, is launched.
+- 1997: Comet Hale-Bopp: Observers in China, Mongolia and eastern Siberia are treated to a rare double feature as an eclipse permits Hale-Bopp to be seen during the day.
+- 1987: Chrysler announces its acquisition of American Motors Corporation.
+- 1978: President Soeharto inaugurated Jagorawi Toll Road, the first toll highway in Indonesia, connecting Jakarta, Bogor and Ciawi, West Java.
+- 1977: The Hanafi Siege: In a 39-hour standoff, armed Hanafi Muslims seize three Washington, D.C., buildings.
+- 1976: Forty-two people die in the Cavalese cable car disaster, the deadliest cable car accident in history.
+- 1974: The Mars 7 Flyby bus releases the descent module too early, missing Mars.
+- 1967: Trans World Airlines Flight 553 crashes in a field in Concord Township, Ohio, following a mid-air collision with a Beechcraft Baron, killing 26 people.
+- 1961: Sputnik 9 successfully launches, carrying a dog and a human dummy, and demonstrating that the Soviet Union was ready to begin human spaceflight.
+- 1960: Dr. Belding Hibbard Scribner implants for the first time a shunt he invented into a patient, which allows the patient to receive hemodialysis on a regular basis.
+- 1959: The Barbie doll makes its debut at the American International Toy Fair in New York.
+- 1957: The 8.6 Mw  Andreanof Islands earthquake shakes the Aleutian Islands, causing over $5 million in damage from ground movement and a destructive tsunami.
+- 1956: Soviet forces suppress mass demonstrations in the Georgian SSR, reacting to Nikita Khrushchev's de-Stalinization policy.
+- 1954: McCarthyism: CBS television broadcasts the See It Now episode, "A Report on Senator Joseph McCarthy", produced by Fred Friendly.
+- 1946: Bolton Wanderers stadium disaster at Burnden Park, Bolton, England, kills 33 and injures hundreds more.
+- 1945: World War II: Allied forces carry out firebombing over Tokyo, destroying most of the capital and killing over 100,000 civilians.
+- 1945: World War II: A coup d'état by Japanese forces in French Indochina removes the French from power.
+- 1944: World War II: Soviet Army planes attack Tallinn, Estonia.
+- 1942: World War II: Dutch East Indies unconditionally surrendered to the Japanese forces in Kalijati, Subang, West Java, and the Japanese completed their Dutch East Indies campaign.
+- 1933: Great Depression: President Franklin D. Roosevelt submits the Emergency Banking Act to Congress, the first of his New Deal policies.
+- 1916: Mexican Revolution: Pancho Villa leads nearly 500 Mexican raiders in an attack against the border town of Columbus, New Mexico.
+- 1908: Inter Milan was founded on Football Club Internazionale, following a schism from A.C. Milan.
+- 1883: Demonstration of 9 March 1883 :  Parisian anarchists, unemployed and carpenters narrowly miss the Presidential palace during a violent protest; first use of the black flag as a symbol of anarchism by Louise Michel.
+- 1862: American Civil War: USS Monitor and CSS Virginia (rebuilt from the engines and lower hull of the USS Merrimack) fight to a draw in the Battle of Hampton Roads, the first battle between two ironclad warships.
+- 1847: Mexican-American War: The first large-scale amphibious assault in U.S. history is launched in the Siege of Veracruz.
 
 Data from muffinlabs
-*(Updated at: 2026-03-08 02:31:41 UTC)*
+*(Updated at: 2026-03-09 02:32:46 UTC)*
 
 # 历史上的今天 
 
-- - 2021 年：缅甸 28 个政治机构成立民族团结协商委员会，这是一个由民族武装组织和民主选举领导人组成的历史性联盟，以应对 2021 年缅甸政变
-- - 2021 年：墨西哥的国际妇女节游行变得暴力，仅墨西哥城就有 62 名警察和 19 名平民受伤。
-- - 2018年：第一次Aurat游行（社会/政治示威）在巴基斯坦卡拉奇举行，恰逢国际妇女节，此后每年在巴基斯坦各地举行，女权主义口号Mera Jism Meri Marzi（我的身体，我的选择）在巴基斯坦流行，要求妇女享有身体自主权和反对性别暴力。
-- - 2017 年：马耳他戈佐岛的天然拱门“蔚蓝之窗”在暴风雨天气中倒塌。
-- - 2014 年：航空界最大的谜团之一，载有 239 人的马来西亚航空 370 航班在从吉隆坡飞往北京的途中失踪。这架航班的命运仍然未知。
-- - 2010 年：由 Hulk Hogan 和 Ric Flair 领衔的 TNA Wrestling 将其旗舰节目 TNA Impact! 移至周一晚上。这种“大场面直播”的努力失败了，但在职业摔跤电视史上是值得注意的。
-- - 2004年：伊拉克管理委员会签署新宪法。
-- - 2001 年：发现号航天飞机搭乘 STS-102 升空，搭载远征 2 号机组人员前往国际空间站。
-- - 1994 年：英迪拉·甘地国际机场发生碰撞事故，造成 9 人死亡。
-- - 1988 年：俄罗斯航空公司 3379 号航班被奥维契金家族劫持并改道飞往苏联的维谢沃。
-- - 1985 年：黎巴嫩贝鲁特对伊斯兰神职人员赛义德·穆罕默德·侯赛因·法德拉拉 (Sayyed Mohammad Hussein Fadlallah) 的暗杀未遂，造成 80 人死亡、200 人受伤。
-- - 1983 年：冷战：美国总统罗纳德·里根在福音派大会上发表讲话时将苏联称为“邪恶帝国”。
-- - 1979 年：航海者一号拍摄的图像证明了木星卫星木卫一上存在火山。
-- - 1979 年：飞利浦首次公开展示光盘。
-- - 1966 年：爱尔兰都柏林的纳尔逊之柱被炸弹摧毁。
-- - 1965 年：俄罗斯航空公司 513 号航班在从古比雪夫机场起飞时坠毁，造成 30 人死亡、9 人受伤。
-- - 1965 年：越南战争：美国海军陆战队抵达岘港。
-- - 1963 年：阿拉伯复兴社会党通过政变在叙利亚上台。
-- - 1962 年：土耳其航空公司的一架福克 F27 友谊号飞机坠入土耳其托罗斯山脉的梅德西兹山，机上 11 人全部遇难。
-- - 1950 年：标志性的大众 Type 2“巴士”开始生产。
-- - 1949 年：法国总统文森特·奥里奥尔 (Vincent Auriol) 和前越南皇帝保大签署《爱丽舍宫协议》，赋予越南更大的独立于法国的地位，并建立越南国家以反对越盟领导的越南民主共和国。
-- - 1942 年：第二次世界大战：日本帝国陆军从英国手中夺取缅甸仰光。
-- - 1942 年：第二次世界大战：荷属东印度群岛将爪哇岛交给日本帝国陆军。
-- - 1937 年：西班牙内战：瓜达拉哈拉战役开始。
-- - 1936 年：代托纳海滩和公路球场举办了第一届椭圆形赛车比赛。
-- - 1924 年：犹他州 Castle Gate 附近的一场矿难导致 172 名煤矿工人死亡。
-- - 1921 年：西班牙首相爱德华多·达托·伊拉迪耶 (Eduardo Dato Iradier) 在从马德里议会大厦回家的路上遇刺身亡。
-- - 1917 年：美国参议院投票通过结束规则来限制阻挠议事。
-- - 1917 年：彼得格勒的国际妇女节抗议活动标志着二月革命的开始（儒略历 2 月 23 日）。
-- - 1916 年：第一次世界大战：在杜贾拉战役中，英国军队试图解除对库特（今伊拉克）的围困，但没有成功。
+- - 2023 年：德国汉堡阿尔斯特多夫区发生枪击事件，造成 8 人死亡、8 人受伤。
+- - 2020 年：意大利总理朱塞佩·孔戴 (Giuseppe Conte) 在电视讲话中宣布并签署了世界上首次在全国范围内实施 COVID-19 封锁的法令。
+- - 2015 年：两架 Eurocopter AS350 Écureuil 直升机在阿根廷 Villa Castelli 上空相撞，两架飞机上的 10 人全部遇难，其中包括法国运动员 Florence Arthaud、Camille Muffat 和 Alexis Vastine，以及法国电视节目 Dropped 的制作人和嘉宾。
+- - 2012年：萨尔瓦多政府与国内帮派之间的休战协议生效，30名帮派头目被转移到安全级别较低的监狱。
+- - 2011 年：发现号航天飞机在 39 次飞行后最终着陆。
+- - 2000年：推出多语言在线百科全书Nupedia。
+- - 1997 年：海尔-波普彗星：中国、蒙古和东西伯利亚的观测者看到了罕见的双重特征，因为日食允许在白天看到海尔-波普彗星。
+- - 1987 年：克莱斯勒宣布收购美国汽车公司。
+- - 1978年：苏哈托总统为雅戈拉维收费公路揭幕，这是印度尼西亚第一条收费公路，连接雅加达、茂物和西爪哇的恰维。
+- - 1977 年：哈乃斐围攻：在长达 39 小时的对峙中，武装的哈乃斐穆斯林占领了华盛顿特区的三座建筑物。
+- - 1976 年：Cavalese 缆车事故造成四十二人死亡，这是历史上最致命的缆车事故。
+- - 1974 年：火星 7 号飞越巴士过早释放下降舱，错过了火星。
+- - 1967 年：环球航空公司 553 号航班在俄亥俄州康科德镇的一片空地上与 Beechcraft Baron 飞机相撞后坠毁，造成 26 人死亡。
+- - 1961 年：人造卫星 9 号成功发射，载着一只狗和一个人体假人，这表明苏联已准备好开始载人航天。
+- - 1960 年：Belding Hibbard Scribner 博士首次将他发明的分流器植入患者体内，使患者能够定期接受血液透析。
+- - 1959 年：芭比娃娃在纽约美国国际玩具博览会上首次亮相。
+- - 1957 年：安德里亚诺夫群岛 8.6 兆瓦地震震动了阿留申群岛，地面运动和破坏性海啸造成了超过 500 万美元的损失。
+- - 1956 年：苏联军队镇压格鲁吉亚苏维埃社会主义共和国的大规模示威活动，以回应尼基塔·赫鲁晓夫的去斯大林化政策。
+- - 1954 年：麦卡锡主义：哥伦比亚广播公司 (CBS) 电视台播放“立即观看”一集“关于参议员约瑟夫·麦卡锡的报告”，由弗雷德·弗兰德利制作。
+- - 1946 年：英格兰博尔顿伯恩登公园的博尔顿流浪者队体育场发生灾难，造成 33 人死亡、数百人受伤。
+- - 1945 年：第二次世界大战：盟军对东京进行燃烧弹轰炸，摧毁了首都的大部分地区并杀死了超过 100,000 名平民。
+- - 1945 年：第二次世界大战：日本军队在法属印度支那发动政变，推翻了法国的权力。
+- - 1944 年：第二次世界大战：苏联陆军飞机攻击爱沙尼亚塔林。
+- - 1942年：第二次世界大战：荷属东印度群岛在西爪哇的卡利贾蒂、苏邦向日军无条件投降，日军完成了荷属东印度群岛战役。
+- - 1933 年：大萧条：富兰克林·罗斯福总统向国会提交《紧急银行法》，这是他的第一项新政政策。
+- - 1916 年：墨西哥革命：潘乔·维拉 (Pancho Villa) 率领近 500 名墨西哥袭击者袭击新墨西哥州边境小镇哥伦布。
+- - 1908年：国际米兰在与AC米兰分裂后，在国际米兰足球俱乐部的基础上成立。
+- - 1883 年：1883 年 3 月 9 日示威：巴黎无政府主义者、失业者和木匠在一场暴力抗议中险些进入总统府；路易丝·米歇尔（Louise Michel）首次使用黑旗作为无政府主义的象征。
+- - 1862 年：美国内战：“莫尼特”号航空母舰和“弗吉尼亚”号航空母舰（由“梅里马克”号航空母舰的发动机和下层船体重建而成）在汉普顿路战役中打成平手，这是两艘铁甲战舰之间的首次战斗。
+- - 1847年：美墨战争：美国历史上第一次大规模两栖攻击在韦拉克鲁斯围城战中发动。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-03-08 02:31:41 UTC）*
+*（更新于: 2026-03-09 02:32:46 UTC）*
