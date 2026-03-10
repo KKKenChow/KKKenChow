@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: A shooting in the Alsterdorf quarter of Hamburg, Germany, kills eight people and injures another eight.
-- 2020: Giuseppe Conte, Prime Minister of Italy, announces in a televised address and signs the decree imposing the first nationwide COVID-19 lockdown in the world.
-- 2015: Two Eurocopter AS350 Écureuil helicopters collide in mid-air over Villa Castelli, Argentina, killing all 10 people on board both aircraft, including French athletes Florence Arthaud, Camille Muffat and Alexis Vastine, as well as producers and guests for the French TV show Dropped.
-- 2012: A truce between the Salvadoran government and gangs in the country goes into effect when 30 gang leaders are transferred to lower security prisons.
-- 2011: Space Shuttle Discovery makes its final landing after 39 flights.
-- 2000: Nupedia, a multi-language online encyclopedia, is launched.
-- 1997: Comet Hale-Bopp: Observers in China, Mongolia and eastern Siberia are treated to a rare double feature as an eclipse permits Hale-Bopp to be seen during the day.
-- 1987: Chrysler announces its acquisition of American Motors Corporation.
-- 1978: President Soeharto inaugurated Jagorawi Toll Road, the first toll highway in Indonesia, connecting Jakarta, Bogor and Ciawi, West Java.
-- 1977: The Hanafi Siege: In a 39-hour standoff, armed Hanafi Muslims seize three Washington, D.C., buildings.
-- 1976: Forty-two people die in the Cavalese cable car disaster, the deadliest cable car accident in history.
-- 1974: The Mars 7 Flyby bus releases the descent module too early, missing Mars.
-- 1967: Trans World Airlines Flight 553 crashes in a field in Concord Township, Ohio, following a mid-air collision with a Beechcraft Baron, killing 26 people.
-- 1961: Sputnik 9 successfully launches, carrying a dog and a human dummy, and demonstrating that the Soviet Union was ready to begin human spaceflight.
-- 1960: Dr. Belding Hibbard Scribner implants for the first time a shunt he invented into a patient, which allows the patient to receive hemodialysis on a regular basis.
-- 1959: The Barbie doll makes its debut at the American International Toy Fair in New York.
-- 1957: The 8.6 Mw  Andreanof Islands earthquake shakes the Aleutian Islands, causing over $5 million in damage from ground movement and a destructive tsunami.
-- 1956: Soviet forces suppress mass demonstrations in the Georgian SSR, reacting to Nikita Khrushchev's de-Stalinization policy.
-- 1954: McCarthyism: CBS television broadcasts the See It Now episode, "A Report on Senator Joseph McCarthy", produced by Fred Friendly.
-- 1946: Bolton Wanderers stadium disaster at Burnden Park, Bolton, England, kills 33 and injures hundreds more.
-- 1945: World War II: Allied forces carry out firebombing over Tokyo, destroying most of the capital and killing over 100,000 civilians.
-- 1945: World War II: A coup d'état by Japanese forces in French Indochina removes the French from power.
-- 1944: World War II: Soviet Army planes attack Tallinn, Estonia.
-- 1942: World War II: Dutch East Indies unconditionally surrendered to the Japanese forces in Kalijati, Subang, West Java, and the Japanese completed their Dutch East Indies campaign.
-- 1933: Great Depression: President Franklin D. Roosevelt submits the Emergency Banking Act to Congress, the first of his New Deal policies.
-- 1916: Mexican Revolution: Pancho Villa leads nearly 500 Mexican raiders in an attack against the border town of Columbus, New Mexico.
-- 1908: Inter Milan was founded on Football Club Internazionale, following a schism from A.C. Milan.
-- 1883: Demonstration of 9 March 1883 :  Parisian anarchists, unemployed and carpenters narrowly miss the Presidential palace during a violent protest; first use of the black flag as a symbol of anarchism by Louise Michel.
-- 1862: American Civil War: USS Monitor and CSS Virginia (rebuilt from the engines and lower hull of the USS Merrimack) fight to a draw in the Battle of Hampton Roads, the first battle between two ironclad warships.
-- 1847: Mexican-American War: The first large-scale amphibious assault in U.S. history is launched in the Siege of Veracruz.
+- 2024: 2024 Portuguese legislative election: Elections are held in Portugal for all 230 seats in the Assembly of the Republic. The Partido Socialista loses its absolute majority to the Partido Social Democrata, winning 77 and 79 seats respectively.
+- 2023: Silicon Valley Bank collapses due to a run on its deposits, in the second largest bank failure in US history. Its operations are taken over by the FDIC.
+- 2022: 2022 Hungarian presidential election: The National Assembly of Hungary elects former minister for Family Affairs, Katalin Novák, as president of Hungary in a 137-51 vote, becoming the first female president in the country's history.
+- 2019: Ethiopian Airlines Flight 302, a Boeing 737 MAX, crashes shortly after take off, killing all 157 passengers and crew. This and the prior Lion Air Flight 610 led to all 387 Boeing 737 MAX aircraft being grounded worldwide.
+- 2017: The impeachment of President Park Geun-hye of South Korea in response to a major political scandal is unanimously upheld by the country's Constitutional Court, ending her presidency.
+- 2006: The Mars Reconnaissance Orbiter arrives at Mars.
+- 2000: The Dot-com bubble peaks with the NASDAQ Composite stock market index reaching 5,048.62.
+- 1991: 1991 Salvadoran legislative election: The Nationalist Republican Alliance wins 39 of the 84 seats in the Legislative Assembly of El Salvador.
+- 1990: In Haiti, Prosper Avril is ousted eighteen months after seizing power in a coup d'état in September 1988.
+- 1989: Air Ontario Flight 1363, a Fokker F-28 Fellowship, crashes at Dryden Regional Airport in Dryden, Ontario, Canada, killing 24.
+- 1982: Syzygy: All nine planets recognized at this time — Mercury to Pluto — align on the same side of the Sun.
+- 1979: 1979 International Women's Day protests in Tehran: Protestor involvement peaks with 15,000 Iranian women and girls performing a three‐hour-long sit‐in at the Courthouse of Tehran.
+- 1977: Astronomers discover the rings of Uranus.
+- 1975: Vietnam War: Ho Chi Minh Campaign: North Vietnamese troops attack Ban Mê Thuột in the South on their way to capturing Saigon in the final push for victory over South Vietnam.
+- 1974: 1974 Belgian general election: Elections are held in Belgium for all 212 seats in the Chamber of Representatives, the Belgian Socialist Party taking the majority with 59.
+- 1971: John Gorton resigns as Prime Minister of Australia and the leader of the Liberal Party of Australia after a secret ballot vote of confidence, being replaced in both positions by William McMahon.
+- 1970: Vietnam War: Captain Ernest Medina is charged by the U.S. military with My Lai war crimes.
+- 1969: In Memphis, Tennessee, James Earl Ray pleads guilty to assassinating Martin Luther King Jr. He later unsuccessfully attempts to recant.
+- 1966: Military Prime Minister of South Vietnam Nguyễn Cao Kỳ sacks rival General Nguyễn Chánh Thi, precipitating large-scale civil and military dissension in parts of the nation.
+- 1959: Tibetan uprising: Fearing an abduction attempt by China, thousands of Tibetans surround the Dalai Lama's palace to prevent his removal.
+- 1952: Fulgencio Batista leads a successful coup in Cuba.
+- 1949: Mildred Gillars ("Axis Sally") is convicted of treason.
+- 1945: World War II: The U.S. Army Air Force firebombs Tokyo, and the resulting conflagration kills more than 100,000 people, mostly civilians.
+- 1944: Greek Civil War: The Political Committee of National Liberation is established in Greece by the National Liberation Front.
+- 1933: The Long Beach earthquake affects the Greater Los Angeles Area, leaving around 108 people dead.
+- 1922: Mahatma Gandhi is arrested in India, tried for sedition, and sentenced to six years in prison, only to be released after nearly two years for an appendicitis operation.
+- 1909: By signing the Anglo-Siamese Treaty of 1909, Thailand relinquishes its sovereignty over the Malay states of Kedah, Kelantan, Perlis and Terengganu, which become British protectorates.
+- 1906: The Courrières mine disaster, Europe's worst ever, kills 1099 miners in northern France.
+- 1891: Almon Strowger patents the Strowger switch, a device which led to the automation of telephone circuit switching.
+- 1876: The first successful test of a telephone is made by Alexander Graham Bell.
 
 Data from muffinlabs
-*(Updated at: 2026-03-09 02:32:46 UTC)*
+*(Updated at: 2026-03-10 02:24:51 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：德国汉堡阿尔斯特多夫区发生枪击事件，造成 8 人死亡、8 人受伤。
-- - 2020 年：意大利总理朱塞佩·孔戴 (Giuseppe Conte) 在电视讲话中宣布并签署了世界上首次在全国范围内实施 COVID-19 封锁的法令。
-- - 2015 年：两架 Eurocopter AS350 Écureuil 直升机在阿根廷 Villa Castelli 上空相撞，两架飞机上的 10 人全部遇难，其中包括法国运动员 Florence Arthaud、Camille Muffat 和 Alexis Vastine，以及法国电视节目 Dropped 的制作人和嘉宾。
-- - 2012年：萨尔瓦多政府与国内帮派之间的休战协议生效，30名帮派头目被转移到安全级别较低的监狱。
-- - 2011 年：发现号航天飞机在 39 次飞行后最终着陆。
-- - 2000年：推出多语言在线百科全书Nupedia。
-- - 1997 年：海尔-波普彗星：中国、蒙古和东西伯利亚的观测者看到了罕见的双重特征，因为日食允许在白天看到海尔-波普彗星。
-- - 1987 年：克莱斯勒宣布收购美国汽车公司。
-- - 1978年：苏哈托总统为雅戈拉维收费公路揭幕，这是印度尼西亚第一条收费公路，连接雅加达、茂物和西爪哇的恰维。
-- - 1977 年：哈乃斐围攻：在长达 39 小时的对峙中，武装的哈乃斐穆斯林占领了华盛顿特区的三座建筑物。
-- - 1976 年：Cavalese 缆车事故造成四十二人死亡，这是历史上最致命的缆车事故。
-- - 1974 年：火星 7 号飞越巴士过早释放下降舱，错过了火星。
-- - 1967 年：环球航空公司 553 号航班在俄亥俄州康科德镇的一片空地上与 Beechcraft Baron 飞机相撞后坠毁，造成 26 人死亡。
-- - 1961 年：人造卫星 9 号成功发射，载着一只狗和一个人体假人，这表明苏联已准备好开始载人航天。
-- - 1960 年：Belding Hibbard Scribner 博士首次将他发明的分流器植入患者体内，使患者能够定期接受血液透析。
-- - 1959 年：芭比娃娃在纽约美国国际玩具博览会上首次亮相。
-- - 1957 年：安德里亚诺夫群岛 8.6 兆瓦地震震动了阿留申群岛，地面运动和破坏性海啸造成了超过 500 万美元的损失。
-- - 1956 年：苏联军队镇压格鲁吉亚苏维埃社会主义共和国的大规模示威活动，以回应尼基塔·赫鲁晓夫的去斯大林化政策。
-- - 1954 年：麦卡锡主义：哥伦比亚广播公司 (CBS) 电视台播放“立即观看”一集“关于参议员约瑟夫·麦卡锡的报告”，由弗雷德·弗兰德利制作。
-- - 1946 年：英格兰博尔顿伯恩登公园的博尔顿流浪者队体育场发生灾难，造成 33 人死亡、数百人受伤。
-- - 1945 年：第二次世界大战：盟军对东京进行燃烧弹轰炸，摧毁了首都的大部分地区并杀死了超过 100,000 名平民。
-- - 1945 年：第二次世界大战：日本军队在法属印度支那发动政变，推翻了法国的权力。
-- - 1944 年：第二次世界大战：苏联陆军飞机攻击爱沙尼亚塔林。
-- - 1942年：第二次世界大战：荷属东印度群岛在西爪哇的卡利贾蒂、苏邦向日军无条件投降，日军完成了荷属东印度群岛战役。
-- - 1933 年：大萧条：富兰克林·罗斯福总统向国会提交《紧急银行法》，这是他的第一项新政政策。
-- - 1916 年：墨西哥革命：潘乔·维拉 (Pancho Villa) 率领近 500 名墨西哥袭击者袭击新墨西哥州边境小镇哥伦布。
-- - 1908年：国际米兰在与AC米兰分裂后，在国际米兰足球俱乐部的基础上成立。
-- - 1883 年：1883 年 3 月 9 日示威：巴黎无政府主义者、失业者和木匠在一场暴力抗议中险些进入总统府；路易丝·米歇尔（Louise Michel）首次使用黑旗作为无政府主义的象征。
-- - 1862 年：美国内战：“莫尼特”号航空母舰和“弗吉尼亚”号航空母舰（由“梅里马克”号航空母舰的发动机和下层船体重建而成）在汉普顿路战役中打成平手，这是两艘铁甲战舰之间的首次战斗。
-- - 1847年：美墨战争：美国历史上第一次大规模两栖攻击在韦拉克鲁斯围城战中发动。
+- - 2024年：2024年葡萄牙立法选举：在葡萄牙举行共和国议会全部230个席位的选举。社会民主党失去绝对多数席位，社会民主党分别赢得 77 和 79 个席位。
+- - 2023 年：硅谷银行因存款挤兑而倒闭，这是美国历史上第二大银行倒闭。其业务由 FDIC 接管。
+- - 2022年：2022年匈牙利总统选举：匈牙利国民议会以137票对51票选举前家庭事务部长卡塔琳·诺瓦克为匈牙利总统，成为该国历史上第一位女总统。
+- - 2019 年：埃塞俄比亚航空 302 号航班（一架波音 737 MAX）在起飞后不久坠毁，造成 157 名乘客和机组人员全部遇难。这次航班和之前的狮航 610 航班导致所有 387 架波音 737 MAX 飞机在全球范围内停飞。
+- - 2017年：韩国宪法法院一致支持因重大政治丑闻而弹劾韩国总统朴槿惠，结束了她的总统任期。
+- - 2006 年：火星勘测轨道飞行器抵达火星。
+- - 2000 年：互联网泡沫达到顶峰，纳斯达克综合股票市场指数达到 5,048.62。
+- - 1991年：1991年萨尔瓦多立法选举：民族主义共和联盟赢得萨尔瓦多立法议会84个席位中的39个。
+- - 1990 年：在海地，普罗斯珀·艾薇儿 (Prosper Avril) 在 1988 年 9 月的政变中夺取政权十八个月后被赶下台。
+- - 1989 年：福克 F-28 Fellowship 型安大略航空 1363 号航班在加拿大安大略省德莱顿的德莱顿地区机场坠毁，造成 24 人死亡。
+- - 1982 年：Syzygy：此时识别的所有九颗行星——水星到冥王星——都排列在太阳的同一侧。
+- - 1979 年：1979 年德黑兰国际妇女节抗议活动：抗议者的参与达到顶峰，15,000 名伊朗妇女和女孩在德黑兰法院进行了长达三个小时的静坐。
+- - 1977 年：天文学家发现天王星环。
+- - 1975 年：越南战争：胡志明战役：北越军队在攻占西贡的途中攻击南方的 Ban Mê Thuột，为战胜南越做最后的努力。
+- - 1974年：1974年比利时大选：比利时举行众议院全部212个席位的选举，比利时社会党以59个席位获得多数席位。
+- - 1971 年：约翰·戈顿在一次无记名信任投票后辞去澳大利亚总理和澳大利亚自由党领袖职务，由威廉·麦克马洪接任。
+- - 1970 年：越南战争：美国军方指控欧内斯特·梅迪纳上尉犯有美莱战争罪。
+- - 1969 年：在田纳西州孟菲斯，詹姆斯·厄尔·雷 (James Earl Ray) 承认刺杀马丁·路德·金 (Martin Luther King Jr.) 的罪名。后来他试图放弃信仰，但未成功。
+- - 1966 年：南越军事总理阮高珩解雇了竞争对手阮正氏将军，在该国部分地区引发了大规模的民事和军事纠纷。
+- - 1959 年：西藏起义：由于担心中国企图绑架达赖喇嘛，数千名藏人包围了达赖喇嘛的宫殿，阻止他被驱逐。
+- - 1952 年：富尔亨西奥·巴蒂斯塔 (Fulgencio Batista) 在古巴领导了一场成功的政变。
+- - 1949 年：米尔德里德·吉拉斯（“轴心国莎莉”）被判叛国罪。
+- - 1945 年：第二次世界大战：美国陆军空军向东京投掷燃烧弹，引发的大火导致超过 10 万人死亡，其中大部分是平民。
+- - 1944年：希腊内战：民族解放阵线在希腊成立民族解放政治委员会。
+- - 1933 年：长滩地震影响大洛杉矶地区，造成约 108 人死亡。
+- - 1922 年：圣雄甘地在印度被捕，因煽动叛乱罪受审，被判处六年监禁，仅在接受阑尾炎手术近两年后才被释放。
+- - 1909 年：通过签署 1909 年英暹条约，泰国放弃了对吉打、吉兰丹、玻璃市和丁加奴等马来州的主权，这些州成为英国的保护国。
+- - 1906 年：欧洲有史以来最严重的 Courrières 矿难在法国北部造成 1099 名矿工死亡。
+- - 1891 年：Almon Strowger 获得了 Strowger 交换机的专利，该设备实现了电话电路交换的自动化。
+- - 1876 年：亚历山大·格雷厄姆·贝尔 (Alexander Graham Bell) 首次成功测试电话。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-03-09 02:32:46 UTC）*
+*（更新于: 2026-03-10 02:24:51 UTC）*
