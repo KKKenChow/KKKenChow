@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: The Burmese military kills at least 30 villagers, including 3 Buddhist monks, during the Pinlaung massacre in Shan State, Myanmar.
-- 2021: US President Joe Biden signs the $1.9 trillion American Rescue Plan into law.
-- 2020: The World Health Organization (WHO) declares the COVID-19 virus epidemic a pandemic.
-- 2018: A Bombardier Challenger 604 crashes into the Zagros Mountains near the Iranian city of Shar-e-kord, killing all 11 people on board.
-- 2012: A U.S. soldier kills 16 civilians in the Panjwayi District of Afghanistan near Kandahar.
-- 2011: An earthquake measuring 9.0 in magnitude strikes 130 km (81 mi) east of Sendai, Japan, triggering a tsunami killing thousands of people. This event also triggered the second largest nuclear accident in history, and one of only two events to be classified as a Level 7 on the International Nuclear Event Scale.
-- 2010: Economist and businessman Sebastián Piñera is sworn in as President of Chile. Aftershocks of the 2010 Pichilemu earthquakes hit central Chile during the ceremony.
-- 2009: Winnenden school shooting: Fifteen are killed and nine are injured before recent graduate Tim Kretschmer shoots and kills himself, leading to tightened weapons restrictions in Germany.
-- 2008: Space Shuttle Endeavour launches on STS-123, carrying the first component of the Japanese Kibō module to the International Space Station.
-- 2006: Michelle Bachelet is inaugurated as the first female president of Chile.
-- 2004: Madrid train bombings: Simultaneous explosions on rush hour trains in Madrid, Spain kill 191 people.
-- 2003: The International Criminal Court holds its inaugural session in The Hague.
-- 1990: Patricio Aylwin is sworn in as the first democratically elected President of Chile since 1970.
-- 1990: Lithuania declares independence from the Soviet Union.
-- 1985: Mikhail Gorbachev is elected to the position of General Secretary of the Communist Party of the Soviet Union, making Gorbachev the USSR's de facto, and last, head of state.
-- 1983: Bob Hawke is appointed Prime Minister of Australia.
-- 1982: Fifteen people are killed when Widerøe Flight 933 crashes into the Barents Sea near Gamvik, Norway.
-- 1981: Hundreds of students protest in the University of Pristina in Kosovo, then part of Yugoslavia, to give their province more political rights. The protests then became a nationwide movement.
-- 1978: Coastal Road massacre: At least 37 are killed and more than 70 are wounded when Fatah hijack an Israeli bus, prompting Israel's Operation Litani.
-- 1977: The 1977 Hanafi Siege: Around 150 hostages held in Washington, D.C., by Hanafi Muslims are set free after ambassadors from three Islamic nations join negotiations.
-- 1946: Rudolf Höss, the first commandant of Auschwitz concentration camp, is captured by British troops.
-- 1945: World War II: The Empire of Vietnam, a short-lived Japanese puppet state, is established.
-- 1945: World War II:  The Imperial Japanese Navy attempts a large-scale kamikaze attack on the U.S. Pacific Fleet anchored at Ulithi atoll in Operation Tan No. 2.
-- 1941: World War II: United States President Franklin D. Roosevelt signs the Lend-Lease Act into law, allowing American-built war supplies to be shipped to the Allies on loan.
-- 1927: In New York City, Samuel Roxy Rothafel opens the Roxy Theatre.
-- 1917: World War I: Mesopotamian campaign: Baghdad falls to Anglo-Indian forces commanded by General Frederick Stanley Maude.
-- 1892: The Saint-Germain bombing ushers France into the Ère des attentats (1892-1894).
-- 1888: The Great Blizzard of 1888 begins along the eastern seaboard of the United States, shutting down commerce and killing more than 400 people.
-- 1879: Shō Tai formally abdicates his position of King of Ryūkyū, under orders from Tokyo, ending the Ryukyu Kingdom.
-- 1872: Construction of the Seven Sisters Colliery, South Wales, begins; it is located on one of the richest coal sources in Britain.
+- 2020: The United States suspends travel from Europe due to the COVID-19 pandemic.
+- 2019: In the House of Commons, the revised EU Withdrawal Bill was rejected by a margin of 149 votes.
+- 2018: US-Bangla Airlines Flight 211 crashes at Tribhuvan International Airport in Katmandu, killing 51 and injuring 20.
+- 2014: A gas explosion in the New York City neighborhood of East Harlem kills eight and injures 70 others.
+- 2011: A reactor at the Fukushima Daiichi Nuclear Power Plant explodes and releases radioactivity into the atmosphere a day after the 2011 Tōhoku earthquake and tsunami.
+- 2009: Financier Bernie Madoff pleads guilty to one of the largest frauds in Wall Street's history.
+- 2004: President of South Korea, Roh Moo-hyun, is impeached by its National Assembly, the first such impeachment in the nation's history.
+- 2003: The World Health Organization officially release a global warning of outbreaks of Severe acute respiratory syndrome (SARS).
+- 2003: Zoran Đinđić, Prime Minister of Serbia, is assassinated in Belgrade.
+- 1999: Former Warsaw Pact members the Czech Republic, Hungary and Poland join NATO.
+- 1993: North Korea announces that it will withdraw from the Treaty on the Non-Proliferation of Nuclear Weapons and refuses to allow inspectors access to its nuclear sites.
+- 1993: Several bombs explode in Mumbai, India, killing about 300 people and injuring hundreds more.
+- 1992: Mauritius becomes a republic while remaining a member of the Commonwealth of Nations.
+- 1989: Tim Berners-Lee submits his proposal to CERN for an information management system, which subsequently develops into the World Wide Web.
+- 1971: The 1971 Turkish military memorandum is sent to the Süleyman Demirel government of Turkey and the government resigns.
+- 1968: Mauritius gains independence from the United Kingdom.
+- 1967: Suharto takes power from Sukarno when the Provisional People's Consultative Assembly inaugurate him as Acting President of Indonesia.
+- 1950: The Llandow air disaster kills 80 people when the aircraft they are travelling in crashes near Sigingstone, Wales. At the time this was the world's deadliest air disaster.
+- 1947: Cold War: The Truman Doctrine is proclaimed to help stem the spread of Communism.
+- 1942: The Battle of Java ends with the surrender of the American-British-Dutch-Australian Command to the Empire of Japan in Bandung, West Java, Dutch East Indies.
+- 1940: The most destructive train accident in Finnish history kills 39 and injures 69 people in Turenki, Janakkala.
+- 1940: Winter War: Finland signs the Moscow Peace Treaty with the Soviet Union, ceding almost all of Finnish Karelia.
+- 1938: Anschluss: German troops occupy and annex Austria.
+- 1933: Great Depression: Franklin D. Roosevelt addresses the nation for the first time as President of the United States. This is also the first of his "fireside chats".
+- 1930: Mahatma Gandhi begins the Salt March, a 200-mile (320 km) march to the sea to protest the British monopoly on salt in India.
+- 1928: In California, the St. Francis Dam fails; the resulting floods kill 431 people.
+- 1920: The Kapp Putsch begins when the Marinebrigade Ehrhardt is ordered to march on Berlin.
+- 1918: Moscow becomes the capital of Russia again after Saint Petersburg held this status for most of the period since 1713.
+- 1913: The future capital of Australia is officially named Canberra.
+- 1912: The Girl Guides (later renamed the Girl Scouts of the USA) are founded in the United States.
 
 Data from muffinlabs
-*(Updated at: 2026-03-11 02:24:18 UTC)*
+*(Updated at: 2026-03-12 02:30:16 UTC)*
 
 # 历史上的今天 
 
-- - 2023年：缅甸军方在缅甸掸邦宾朗大屠杀中杀害了至少30名村民，其中包括3名佛教僧侣。
-- - 2021 年：美国总统乔·拜登将 1.9 万亿美元的美国救援计划签署为法律。
-- - 2020 年：世界卫生组织 (WHO) 宣布 COVID-19 病毒流行为大流行病。
-- - 2018 年：一架庞巴迪挑战者 604 坠入伊朗城市 Shar-e-kord 附近的扎格罗斯山脉，机上 11 人全部遇难。
-- - 2012 年：一名美国士兵在坎大哈附近的阿富汗潘杰瓦伊地区杀害了 16 名平民。
-- - 2011 年：日本仙台以东 130 公里（81 英里）处发生了一场里氏 9.0 级的地震，引发海啸，造成数千人死亡。该事件还引发了历史上第二大核事故，也是国际核事件等级中仅有的两次被列为七级的事件之一。
-- - 2010 年：经济学家兼商人塞巴斯蒂安·皮涅拉宣誓就任智利总统。仪式期间，2010 年皮奇勒穆地震的余震袭击了智利中部。
-- - 2009 年：温南登校园枪击事件：15 人死亡、9 人受伤，随后应届毕业生 Tim Kretschmer 开枪自杀，导致德国加强了武器限制。
-- - 2008 年：奋进号航天飞机搭乘 STS-123 发射，将日本希望舱的第一个组件运送到国际空间站。
-- - 2006 年：米歇尔·巴切莱特就任智利第一位女总统。
-- - 2004 年：马德里火车爆炸事件：西班牙马德里高峰时段火车同时发生爆炸，造成 191 人死亡。
-- - 2003 年：国际刑事法院在海牙举行首次会议。
-- - 1990 年：帕特里西奥·艾尔文宣誓就职，成为 1970 年以来智利第一位民选总统。
-- - 1990 年：立陶宛宣布脱离苏联独立。
-- - 1985年：米哈伊尔·戈尔巴乔夫当选为苏联共产党总书记，使戈尔巴乔夫成为苏联事实上的也是最后一位国家元首。
-- - 1983 年：鲍勃·霍克被任命为澳大利亚总理。
-- - 1982 年：Widerøe 933 航班在挪威加姆维克附近坠入巴伦支海，造成 15 人死亡。
-- - 1981 年：数百名学生在科索沃（当时是南斯拉夫的一部分）的普里什蒂纳大学抗议，要求给予他们的省份更多政治权利。抗议活动随后演变为一场全国性的运动。
-- - 1978 年：沿海公路大屠杀：法塔赫劫持一辆以色列巴士，导致至少 37 人死亡、70 多人受伤，促使以色列发起利塔尼行动。
-- - 1977 年：1977 年哈乃斐围攻：在三个伊斯兰国家的大使加入谈判后，哈乃斐穆斯林在华盛顿特区扣押的约 150 名人质获释。
-- - 1946 年：奥斯维辛集中营第一任指挥官鲁道夫·霍斯 (Rudolf Höss) 被英国军队俘虏。
-- - 1945 年：第二次世界大战：越南帝国，一个短命的日本傀儡国家成立。
-- - 1945 年：第二次世界大战：日本帝国海军在第 2 号谭行动中尝试对停泊在乌利西环礁的美国太平洋舰队进行大规模神风特攻队攻击。
-- - 1941 年：第二次世界大战：美国总统富兰克林·罗斯福签署《租借法案》成为法律，允许将美国制造的战争物资借用给盟国。
-- - 1927 年：Samuel Roxy Rothafel 在纽约市开设了 Roxy Theatre。
-- - 1917 年：第一次世界大战：美索不达米亚战役：巴格达落入弗雷德里克·斯坦利·莫德将军指挥的英印联军之手。
-- - 1892 年：圣日耳曼爆炸事件将法国带入了 Ère des attentats（1892-1894 年）。
-- - 1888 年：1888 年的大暴风雪沿着美国东海岸开始，导致商业中断并造成 400 多人死亡。
-- - 1879年：尚太奉东京之命正式放弃琉球国王之位，琉球王国结束。
-- - 1872 年：南威尔士七姐妹煤矿开始建设；它位于英国最丰富的煤炭资源之一。
+- - 2020 年：由于 COVID-19 大流行，美国暂停从欧洲出发的旅行。
+- - 2019年：修订后的欧盟脱欧法案在下议院以149票的优势被否决。
+- - 2018 年：美国孟加拉航空公司 211 号航班在加德满都特里布万国际机场坠毁，造成 51 人死亡、20 人受伤。
+- - 2014 年：纽约市东哈莱姆区发生瓦斯爆炸，造成 8 人死亡、70 人受伤。
+- - 2011 年：2011 年东北地震和海啸发生后的第二天，福岛第一核电站的反应堆发生爆炸，并向大气中释放放射性物质。
+- - 2009 年：金融家伯尼·麦道夫承认犯有华尔街历史上最大的欺诈案之一。
+- - 2004 年：韩国总统卢武铉被国民议会弹劾，这是该国历史上的首次弹劾。
+- - 2003年：世界卫生组织正式发布严重急性呼吸系统综合症（SARS）爆发的全球警告。
+- - 2003年：塞尔维亚总理佐兰·季因季奇在贝尔格莱德遇刺身亡。
+- - 1999 年：前华约成员国捷克共和国、匈牙利和波兰加入北约。
+- - 1993年：朝鲜宣布将退出《不扩散核武器条约》，并拒绝允许核查人员进入其核设施。
+- - 1993 年：印度孟买发生多枚炸弹爆炸，造成约 300 人死亡、数百人受伤。
+- - 1992 年：毛里求斯成为共和国，同时仍是英联邦成员国。
+- - 1989 年：蒂姆·伯纳斯·李向欧洲核子研究组织 (CERN) 提交了他的信息管理系统提案，该系统随后发展成为万维网。
+- - 1971年：1971年土耳其军事备忘录被发送给土耳其苏莱曼·德米雷尔政府，政府辞职。
+- - 1968 年：毛里求斯从英国独立。
+- - 1967 年：临时人民协商会议任命苏哈托为印度尼西亚代总统，苏哈托从苏加诺手中夺取权力。
+- - 1950 年：兰多空难，80 人乘坐的飞机在威尔士西金斯通附近坠毁，造成 80 人死亡。当时这是世界上最严重的空难。
+- - 1947 年：冷战：杜鲁门主义被宣布为阻止共产主义的蔓延。
+- - 1942 年：爪哇战役结束，美英荷澳大利亚司令部向位于荷属东印度群岛西爪哇万隆的日本帝国投降。
+- - 1940 年：芬兰历史上最具破坏性的火车事故在贾纳卡拉的图伦基造成 39 人死亡、69 人受伤。
+- - 1940 年：冬季战争：芬兰与苏联签署莫斯科和平条约，割让几乎整个芬兰卡累利阿。
+- - 1938 年：德奥合并：德国军队占领并吞并奥地利。
+- - 1933 年：大萧条：富兰克林·D·罗斯福作为美国总统首次向全国发表讲话。这也是他的第一次“炉边谈话”。
+- - 1930 年：圣雄甘地开始盐游行，这是一次 200 英里（320 公里）的海边游行，抗议英国对印度盐的垄断。
+- - 1928 年：加利福尼亚州的圣弗朗西斯大坝溃坝；由此引发的洪水导致 431 人死亡。
+- - 1920 年：当埃尔哈特海军陆战队奉命向柏林进军时，卡普政变开始。
+- - 1918年：继圣彼得堡自1713年以来的大部分时间里保持这一地位后，莫斯科再次成为俄罗斯的首都。
+- - 1913 年：澳大利亚未来的首都正式命名为堪培拉。
+- - 1912 年：女童子军（后来更名为美国女童子军）在美国成立。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-03-11 02:24:18 UTC）*
+*（更新于: 2026-03-12 02:30:16 UTC）*
