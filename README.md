@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2020: Katerina Sakellaropoulou is sworn in as the first female President of Greece amid strict COVID-19 measures.
-- 2020: Breonna Taylor is killed by police officers who were forcibly entering her home in Louisville, Kentucky; her death sparked extensive protests against racism and police brutality.
-- 2020: President Donald Trump declares the COVID-19 pandemic to be a national emergency in the United States.
-- 2016: Three gunmen attack two hotels in the Ivory Coast town of Grand-Bassam, killing at least 19 people.
-- 2016: The Ankara bombing kills at least 37 people.
-- 2013: The 2013 papal conclave elects Cardinal Jorge Mario Bergoglio taking the name Pope Francis as the 266th Pope of the Catholic Church.
-- 2012: The Sierre coach crash kills 28 people, including 22 children.
-- 2003: An article in Nature identifies the Ciampate del Diavolo as 350,000-year-old hominid footprints.
-- 1997: The Missionaries of Charity choose Sister Nirmala to succeed Mother Teresa as their leader.
-- 1996: The Dunblane massacre leads to the death of sixteen primary school children and one teacher in Dunblane, Scotland.
-- 1993: The 1993 Storm of the Century affects the eastern United States, dropping feet of snow in many areas.
-- 1992: The Mw  6.6 Erzincan earthquake strikes eastern Turkey with a maximum Mercalli intensity of VIII (Severe).
-- 1989: Space Shuttle Discovery launches on STS-29 carrying the TDRS-4 satellite.
-- 1988: The Seikan Tunnel, the longest tunnel in the world with an undersea segment, opens between Aomori and Hakodate, Japan.
-- 1979: The New Jewel Movement, headed by Maurice Bishop, ousts the Prime Minister of Grenada, Eric Gairy, in a coup d'état.
-- 1974: Sierra Pacific Airlines Flight 802 crashes into the White Mountains near Bishop, California, killing 36.
-- 1969: Apollo 9 returns safely to Earth after testing the Lunar Module.
-- 1964: Kitty Genovese is murdered in New York City, prompting research into the bystander effect due to the false story that neighbors witnessed the killing and did nothing to help her.
-- 1957: Cuban student revolutionaries storm the presidential palace in Havana in a failed attempt on the life of President Fulgencio Batista.
-- 1954: The Battle of Điện Biên Phủ begins with an artillery barrage by Viet Minh forces under Võ Nguyên Giáp; Viet Minh victory led to the end of the First Indochina War and French withdrawal from Vietnam.
-- 1943: The Holocaust: German forces liquidate the Jewish ghetto in Kraków.
-- 1940: The Winter War between Finland and the Soviet Union officially ends after the signing of the Moscow Peace Treaty.
-- 1930: The news of the discovery of Pluto is announced by Lowell Observatory.
-- 1920: The Kapp Putsch briefly ousts the Weimar Republic government from Berlin.
-- 1900: British forces occupy Bloemfontein, Orange Free State, during the Second Boer War.
-- 1888: The eruption of Ritter Island triggers tsunamis that kill up to 3,000 people on nearby islands.
-- 1884: The Siege of Khartoum begins. It lasts until January 26, 1885.
-- 1862: The Act Prohibiting the Return of Slaves is passed by the United States Congress, effectively annulling the Fugitive Slave Act of 1850 and setting the stage for the Emancipation Proclamation.
-- 1848: The German revolutions of 1848-1849 begin in Vienna.
-- 1845: Felix Mendelssohn's Violin Concerto receives its première performance in Leipzig with Ferdinand David as soloist.
+- 2021: Burmese security forces kill at least 65 civilians in the Hlaingthaya massacre.
+- 2019: Cyclone Idai makes landfall near Beira, Mozambique, causing devastating floods and over 1,000 deaths.
+- 2017: A naming ceremony for the chemical element nihonium takes place in Tokyo, with then Crown Prince Naruhito in attendance.
+- 2008: A series of riots, protests, and demonstrations erupt in Lhasa and subsequently spread elsewhere in Tibet.
+- 2007: The Nandigram violence in Nandigram, West Bengal, results in the deaths of at least 14 people.
+- 2006: Operation Bringing Home the Goods: Israeli troops raid an American-supervised Palestinian prison in Jericho to capture six Palestinian prisoners, including PFLP chief Ahmad Sa'adat.
+- 2006: The 2006 Chadian coup d'état attempt ends in failure.
+- 1995: Norman Thagard becomes the first American astronaut to ride to space on board a Russian launch vehicle.
+- 1991: Escondida in Chile's Atacama Desert -which was to become the worlds most productive copper mine- is officially inaugurated.
+- 1988: In the Johnson South Reef Skirmish Chinese forces defeat Vietnamese forces in an altercation over control of one of the Spratly Islands.
+- 1982: The South African government bombs the headquarters of the African National Congress in London.
+- 1980: LOT Polish Airlines Flight 007 crashes during final approach near Warsaw, Poland, killing 87 people, including a 14-man American boxing team.
+- 1979: Alia Royal Jordanian Flight 600 crashes at Doha International Airport, killing 45 people.
+- 1978: The Israel Defense Forces launch Operation Litani, a seven-day campaign to invade and occupy southern Lebanon.
+- 1972: Sterling Airways Flight 296 crashes near Kalba, United Arab Emirates while on approach to Dubai International Airport, killing 112 people.
+- 1967: The body of U.S. President John F. Kennedy is moved to a permanent burial place at Arlington National Cemetery.
+- 1964: Jack Ruby is convicted of killing Lee Harvey Oswald, the assassin who had shot and killed John F. Kennedy in the previous year.
+- 1961: A USAF B-52 bomber carrying nuclear weapons crashes near Yuba City, California.
+- 1951: Korean War: United Nations troops recapture Seoul for the second time.
+- 1945: The R.A.F. drop the Grand Slam bomb in action for the first time, on a railway viaduct near Bielefeld, Germany.
+- 1943: The Holocaust: The liquidation of the Kraków Ghetto is completed.
+- 1942: Anne Miller becomes the first American patient to be treated with penicillin, under the care of Orvan Hess and John Bumstead.
+- 1939: Slovakia declares independence under German pressure.
+- 1931: Alam Ara, India's first talking film, is released.
+- 1926: The El Virilla train accident, Costa Rica, kills 248 people and wounds another 93 when a train falls off a bridge over the Río Virilla between Heredia and Tibás.
+- 1923: Charlie Daly and three other members of the Irish Republican Army are executed by Irish Free State forces.
+- 1921: Six members of a group of Irish Republican Army activists known as the Forgotten Ten, are hanged in Dublin's Mountjoy Prison.
+- 1920: In the second of the 1920 Schleswig plebiscites, about 80% of the population in Zone II votes to remain part of Weimar Germany.
+- 1916: Battle of Verdun: German attack captured Côte 265 at the west end of Mort-Homme but the French 75th Infantry Brigade managed to hold Côte 295 at the east end.
+- 1903: Pelican Island National Wildlife Refuge, the first national wildlife refuge in the US, is established by President Theodore Roosevelt.
 
 Data from muffinlabs
-*(Updated at: 2026-03-13 02:28:11 UTC)*
+*(Updated at: 2026-03-14 02:25:55 UTC)*
 
 # 历史上的今天 
 
-- - 2020 年：卡特琳娜·萨克拉罗普卢 (Katerina Sakellaropoulou) 在严格的 COVID-19 措施下宣誓就任希腊第一位女总统。
-- - 2020 年：布伦娜·泰勒 (Breonna Taylor) 在强行进入她位于肯塔基州路易斯维尔的家中时被警察杀害；她的死引发了针对种族主义和警察暴行的广泛抗议。
-- - 2020 年：唐纳德·特朗普总统宣布 COVID-19 大流行为美国国家紧急状态。
-- - 2016 年：三名枪手袭击了科特迪瓦大巴萨姆镇的两家酒店，造成至少 19 人死亡。
-- - 2016 年：安卡拉爆炸事件造成至少 37 人死亡。
-- - 2013年：2013年教皇秘密会议选举红衣主教豪尔赫·马里奥·贝尔戈利奥（Jorge Mario Bergoglio），以教皇方济各的名字为天主教会第266任教皇。
-- - 2012 年：Sierre 客车事故造成 28 人死亡，其中包括 22 名儿童。
-- - 2003 年：《自然》杂志上的一篇文章将 Ciampate del Diavolo 确定为 35 万年前的原始人类足迹。
-- - 1997年：仁爱传教修女会选择尼尔玛拉修女接替特蕾莎修女担任他们的领袖。
-- - 1996 年：苏格兰邓布兰发生的邓布兰大屠杀导致 16 名小学生和一名教师死亡。
-- - 1993 年：1993 年的世纪风暴影响了美国东部，许多地区降雪数英尺。
-- - 1992 年：土耳其东部发生里氏 6.6 级埃尔津詹地震，最大麦卡利强度为 VIII（严重）。
-- - 1989 年：发现号航天飞机搭载 TDRS-4 卫星搭载 STS-29 发射升空。
-- - 1988 年：世界上最长的海底隧道青函隧道在日本青森县和函馆市之间开通。
-- - 1979 年：莫里斯·毕晓普 (Maurice Bishop) 领导的新珠宝运动在一场政变中推翻了格林纳达总理埃里克·盖里 (Eric Gairy)。
-- - 1974 年：塞拉太平洋航空公司 802 号航班在加利福尼亚州毕夏普附近的怀特山坠毁，造成 36 人死亡。
-- - 1969 年：阿波罗 9 号在测试登月舱后安全返回地球。
-- - 1964 年：基蒂·吉诺维斯 (Kitty Genovese) 在纽约市被谋杀，由于邻居目睹了杀戮却没有采取任何帮助的虚假故事，促使人们对旁观者效应进行研究。
-- - 1957 年：古巴学生革命者冲进哈瓦那总统府，企图刺杀总统富尔亨西奥·巴蒂斯塔，但未成功。
-- - 1954年：定边府战役以武元甲领导的越盟军队的炮火攻击开始；越盟的胜利导致第一次印度支那战争的结束和法国从越南撤军。
-- - 1943 年：大屠杀：德国军队清理了克拉科夫的犹太人聚居区。
-- - 1940年：莫斯科和平条约签署后，芬兰与苏联之间的冬季战争正式结束。
-- - 1930年：洛厄尔天文台宣布发现冥王星的消息。
-- - 1920 年：卡普政变将魏玛共和国政府短暂驱逐出柏林。
-- - 1900 年：第二次布尔战争期间，英国军队占领奥兰治自由邦的布隆方丹。
-- - 1888 年：里特岛喷发引发海啸，导致附近岛屿多达 3,000 人死亡。
-- - 1884 年：喀土穆围城战开始。它持续到1885年1月26日。
-- - 1862 年：美国国会通过了《禁止奴隶回归法案》，有效废除了 1850 年的《逃亡奴隶法案》，并为《解放奴隶宣言》奠定了基础。
-- - 1848 年：1848 年至 1849 年的德国革命在维也纳爆发。
-- - 1845 年：费利克斯·门德尔松的小提琴协奏曲在莱比锡首演，费迪南德·大卫担任独奏家。
+- - 2021 年：缅甸安全部队在 Hlaingthaya 大屠杀中杀害了至少 65 名平民。
+- - 2019 年：气旋“伊代”在莫桑比克贝拉附近登陆，造成毁灭性洪水，造成 1,000 多人死亡。
+- - 2017 年：化学元素镍的命名仪式在东京举行，当时的德仁皇太子出席了仪式。
+- - 2008年：拉萨爆发一系列骚乱、抗议和示威活动，随后蔓延至西藏其他地区。
+- - 2007年：西孟加拉邦南迪格拉姆发生的南迪格拉姆暴力事件导致至少14人死亡。
+- - 2006年：“带货回家”行动：以色列军队袭击了位于杰里科的一处由美国监管的巴勒斯坦监狱，俘虏了六名巴勒斯坦囚犯，其中包括人阵主席艾哈迈德·萨阿达特。
+- - 2006年：2006年乍得政变企图以失败告终。
+- - 1995 年：诺曼·萨加德 (Norman Thagard) 成为第一位乘坐俄罗斯运载火箭进入太空的美国宇航员。
+- - 1991 年：智利阿塔卡马沙漠的埃斯康迪达铜矿正式落成，该矿将成为世界上产量最高的铜矿。
+- - 1988 年：在赤瓜礁小规模冲突中，中国军队在争夺南沙群岛之一控制权的争端中击败了越南军队。
+- - 1982 年：南非政府轰炸了位于伦敦的非洲人国民大会总部。
+- - 1980 年：波兰航空 007 号航班在波兰华沙附近最后进近时坠毁，造成 87 人死亡，其中包括 14 名美国拳击队队员。
+- - 1979 年：约旦皇家航空 600 号航班在多哈国际机场坠毁，造成 45 人死亡。
+- - 1978 年：以色列国防军发起利塔尼行动，这是一场为期 7 天的入侵和占领黎巴嫩南部的战役。
+- - 1972 年：斯特林航空 296 号航班在飞往迪拜国际机场时在阿拉伯联合酋长国卡尔巴附近坠毁，造成 112 人死亡。
+- - 1967 年：美国总统约翰·F·肯尼迪的遗体被移至阿灵顿国家公墓的永久埋葬地。
+- - 1964 年：杰克·鲁比因杀害李·哈维·奥斯瓦尔德而被定罪，李·哈维·奥斯瓦尔德是前一年枪杀约翰·F·肯尼迪的刺客。
+- - 1961 年：一架携带核武器的美国空军 B-52 轰炸机在加利福尼亚州尤巴市附近坠毁。
+- - 1951 年：朝鲜战争：联合国军队第二次夺回首尔。
+- - 1945 年：英国皇家空军第一次在德国比勒费尔德附近的铁路高架桥上投放大满贯炸弹。
+- - 1943 年：大屠杀：克拉科夫隔都的清理工作完成。
+- - 1942 年：安妮·米勒 (Anne Miller) 在奥万·赫斯 (Orvan Hess) 和约翰·邦斯特德 (John Bumstead) 的照顾下成为第一位接受青霉素治疗的美国患者。
+- - 1939 年：斯洛伐克在德国压力下宣布独立。
+- - 1931 年：印度第一部有声电影《Alam Ara》上映。
+- - 1926 年：哥斯达黎加埃尔维利亚 (El Virilla) 火车事故，一列火车从埃雷迪亚 (Heredia) 和蒂巴斯 (Tibás) 之间的里奥维利亚 (Río Virilla) 大桥上坠落，造成 248 人死亡、93 人受伤。
+- - 1923 年：查理·戴利和爱尔兰共和军的其他三名成员被爱尔兰自由邦军队处决。
+- - 1921 年：被称为“被遗忘的十人”的爱尔兰共和军活动分子团体的六名成员在都柏林芒特乔伊监狱被绞死。
+- - 1920 年：在 1920 年石勒苏益格公民投票中的第二次中，第二区约 80% 的人口投票决定继续留在魏玛德国。
+- - 1916 年：凡尔登战役：德军进攻占领了莫特霍姆西端的 265 丘，但法国第 75 步兵旅成功守住了东端的 295 丘。
+- - 1903 年：西奥多·罗斯福总统建立了美国第一个国家野生动物保护区——鹈鹕岛国家野生动物保护区。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-03-13 02:28:11 UTC）*
+*（更新于: 2026-03-14 02:25:55 UTC）*
