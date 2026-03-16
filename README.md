@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: The 2022 Sri Lankan protests begins amidst Sri Lanka's economic collapse.
-- 2019: Approximately 1.4 million young people in 123 countries go on strike to protest climate change.
-- 2019: Beginning of the 2019-20 Hong Kong protests.
-- 2019: Fifty-one people are killed in the Christchurch mosque shootings.
-- 2011: Beginning of the Syrian revolution.
-- 2008: Stockpiles of obsolete ammunition explode at an ex-military ammunition depot in the village of Gërdec, Albania, killing 26 people.
-- 1991: Cold War: The Treaty on the Final Settlement with Respect to Germany comes into effect, granting full sovereignty to the Federal Republic of Germany.
-- 1990: Mikhail Gorbachev is elected as the first President of the Soviet Union.
-- 1986: Collapse of Hotel New World: Thirty-three people die when the Hotel New World in Singapore collapses.
-- 1978: Somalia and Ethiopia signed a truce to end the Ethio-Somali War.
-- 1974: Fifteen people are killed when Sterling Airways Flight 901, a Sud Aviation Caravelle, catches fire following a landing gear collapse at Mehrabad International Airport in Tehran, Iran.
-- 1965: President Lyndon B. Johnson, responding to the Selma crisis, tells U.S. Congress "We shall overcome" while advocating the Voting Rights Act.
-- 1961: At the 1961 Commonwealth Prime Ministers' Conference, South Africa announces that it will withdraw from the Commonwealth when the South African Constitution of 1961 comes into effect.
-- 1951: Iranian oil industry is nationalized.
-- 1943: World War II: Third Battle of Kharkiv: The Germans retake the city of Kharkiv from the Soviet armies.
-- 1939: Carpatho-Ukraine declares itself an independent republic, but is annexed by Hungary the next day.
-- 1939: Germany occupies Czechoslovakia.
-- 1927: The first Women's Boat Race between the University of Oxford and the University of Cambridge takes place on The Isis in Oxford.
-- 1922: After Egypt gains nominal independence from the United Kingdom, Fuad I becomes King of Egypt.
-- 1921: Talaat Pasha, former Grand Vizir of the Ottoman Empire and chief architect of the Armenian genocide is assassinated in Berlin by a 23-year-old Armenian, Soghomon Tehlirian.
-- 1919: The American Legion is founded.
-- 1919: Ukrainian War of Independence: The Kontrrazvedka is established as the counterintelligence division of the Revolutionary Insurgent Army of Ukraine.
-- 1918: Finnish Civil War: The battle of Tampere begins.
-- 1917: Tsar Nicholas II of Russia abdicates the Russian throne, ending the 304-year Romanov dynasty.
-- 1907: The first parliamentary elections of Finland (at the time the Grand Duchy of Finland) are held.
-- 1894: Madeleine bombing by Désiré Pauwels during the Ère des attentats.
-- 1892: The Lobau bombing is one of the first attacks of the Ère des attentats (1892-1894).
-- 1888: Start of the Anglo-Tibetan War of 1888.
-- 1877: First ever official cricket test match is played: Australia vs England at the MCG Stadium, in Melbourne, Australia.
-- 1875: Archbishop of New York John McCloskey is named the first cardinal in the United States.
+- 2025: A fire breaks out in a nightclub in Kočani, North Macedonia, killing at least 59 people and injuring 155 others.
+- 2022: Mariupol theatre airstrike during the siege of Mariupol.
+- 2022: A 7.4-magnitude earthquake occurs off the coast of Fukushima, Japan, killing 4 people and injuring 225.
+- 2021: Atlanta spa shootings: Eight people are killed and one is injured in a trio of shootings at spas in and near Atlanta, Georgia, U.S. A suspect is arrested the same day.
+- 2020: The Dow Jones Industrial Average falls by 2,997.10, the single largest point drop in history and the second-largest percentage drop ever at 12.93%, an even greater crash than Black Monday (1929). This follows the U.S. Federal Reserve announcing that it will cut its target interest rate to 0-0.25%.
+- 2016: Two suicide bombers detonate their explosives at a mosque during morning prayer on the outskirts of Maiduguri, Nigeria, killing 24 and injuring 18.
+- 2016: A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 30.
+- 2014: Crimea votes in a controversial referendum to secede from Ukraine to join Russia.
+- 2012: Former Indian cricketer Sachin Tendulkar becomes the first batter in history to score 100 centuries in international cricket.
+- 2010: The Kasubi Tombs, Uganda's only cultural World Heritage Site, are destroyed in a fire.
+- 2005: Israel officially hands over Jericho to Palestinian control.
+- 2003: American activist Rachel Corrie is killed in Rafah by being run over by an Israel Defense Forces bulldozer while trying to obstruct the demolition of a home.
+- 2001: A series of bomb blasts in the city of Shijiazhuang, China kill 108 people and injure 38 others, the biggest mass murder in China in decades.
+- 1995: Mississippi formally ratifies the Thirteenth Amendment to the United States Constitution, becoming the last state to approve the abolition of slavery. The Thirteenth Amendment was officially ratified in 1865.
+- 1988: The Troubles: Ulster loyalist militant Michael Stone attacks a Provisional IRA funeral in Belfast with pistols and grenades. Three persons, one of them a member of PIRA are killed, and more than 60 others are wounded.
+- 1988: Halabja chemical attack: The Kurdish town of Halabja in Iraq is attacked with a mix of poison gas and nerve agents on the orders of Saddam Hussein, killing 5,000 people and injuring about 10,000 people.
+- 1988: Iran-Contra affair: Lieutenant Colonel Oliver North and Vice Admiral John Poindexter are indicted on charges of conspiracy to defraud the United States.
+- 1985: Associated Press newsman Terry Anderson is taken hostage in Beirut; he is not released until December 1991.
+- 1984: William Buckley, the CIA station chief in Lebanon, is kidnapped by Hezbollah; he later dies in captivity.
+- 1979: Sino-Vietnamese War: The People's Liberation Army crosses the border back into China, ending the war.
+- 1978: Supertanker Amoco Cadiz splits in two after running aground on the Portsall Rocks, three miles off the coast of Brittany, resulting in the largest oil spill in history at that time.
+- 1978: A Balkan Bulgarian Airlines Tupolev Tu-134 crashes near Gabare, Bulgaria, killing 73.
+- 1978: Former Italian Prime Minister Aldo Moro is kidnapped; he is later murdered by his captors.
+- 1977: Assassination of Kamal Jumblatt, the main leader of the anti-government forces in the Lebanese Civil War.
+- 1969: A Viasa McDonnell Douglas DC-9 crashes in Maracaibo, Venezuela, killing 155.
+- 1968: Vietnam War: My Lai massacre occurs; between 347 and 500 Vietnamese villagers are killed by American troops.
+- 1966: Launch of Gemini 8 with astronauts Neil Armstrong and David Scott. It would perform the first docking of two spacecraft in orbit.
+- 1962: Flying Tiger Line Flight 739 disappears in the western Pacific Ocean with all 107 aboard missing and presumed dead.
+- 1945: Ninety percent of Würzburg, Germany is destroyed in only 20 minutes by British bombers, resulting in at least 4,000 deaths.
+- 1945: World War II: The Battle of Iwo Jima ends, but small pockets of Japanese resistance persist.
 
 Data from muffinlabs
-*(Updated at: 2026-03-15 02:45:55 UTC)*
+*(Updated at: 2026-03-16 02:46:27 UTC)*
 
 # 历史上的今天 
 
-- - 2022年：2022年斯里兰卡抗议活动在斯里兰卡经济崩溃之际开始。
-- - 2019年：123个国家约140万年轻人举行罢工抗议气候变化。
-- - 2019年：2019-20年香港抗议活动开始。
-- - 2019 年：基督城清真寺枪击事件造成 51 人死亡。
-- - 2011 年：叙利亚革命开始。
-- - 2008 年：阿尔巴尼亚 Gërdec 村的一个前军事弹药库库存的废弃弹药爆炸，造成 26 人死亡。
-- - 1991年：冷战：《关于德国的最终解决条约》生效，赋予德意志联邦共和国完全主权。
-- - 1990年：米哈伊尔·戈尔巴乔夫当选为苏联第一任总统。
-- - 1986 年：新世界酒店倒塌：新加坡新世界酒店倒塌，造成 33 人死亡。
-- - 1978年：索马里和埃塞俄比亚签署停战协议，结束埃塞俄比亚-索马里战争。
-- - 1974 年：斯特林航空公司 (Sterling Airways) 901 号航班（一架 Sud Aviation Caravelle）在伊朗德黑兰梅赫拉巴德国际机场起落架倒塌起火，造成 15 人死亡。
-- - 1965 年：林登·B·约翰逊总统在应对塞尔玛危机时告诉美国国会“我们将克服困难”，同时倡导投票权法案。
-- - 1961年：在1961年英联邦总理会议上，南非宣布在1961年南非宪法生效后退出英联邦。
-- - 1951 年：伊朗石油工业国有化。
-- - 1943 年：第二次世界大战：第三次哈尔科夫战役：德国人从苏联军队手中夺回哈尔科夫市。
-- - 1939 年：喀尔巴阡-乌克兰宣布自己为独立共和国，但第二天就被匈牙利吞并。
-- - 1939 年：德国占领捷克斯洛伐克。
-- - 1927 年：牛津大学和剑桥大学之间的第一届女子划船比赛在牛津的 The Isis 举行。
-- - 1922 年：埃及从英国名义上获得独立后，福阿德一世成为埃及国王。
-- - 1921 年：奥斯曼帝国前大维齐尔、亚美尼亚种族灭绝的总策划者塔拉特帕夏在柏林被 23 岁的亚美尼亚人索戈蒙·特利里安 (Soghomon Tehlirian) 暗杀。
-- - 1919 年：美国军团成立。
-- - 1919 年：乌克兰独立战争：Kontrrazvedka 成立，作为乌克兰革命起义军的反情报部门。
-- - 1918 年：芬兰内战：坦佩雷战役开始。
-- - 1917 年：俄罗斯沙皇尼古拉二世退位，结束了 304 年的罗曼诺夫王朝。
-- - 1907 年：芬兰（当时的芬兰大公国）举行第一次议会选举。
-- - 1894 年：Désiré Pauwels 在 Ère des attentats 期间制造了玛德琳爆炸案。
-- - 1892 年：洛鲍爆炸案是“Ère des attentats”（1892-1894 年）的首批袭击之一。
-- - 1888 年：1888 年英藏战争爆发。
-- - 1877 年：首次正式板球测试赛在澳大利亚墨尔本的 MCG 体育场举行：澳大利亚对阵英格兰。
-- - 1875 年：纽约大主教约翰·麦克洛斯基 (John McCloskey) 被任命为美国第一位红衣主教。
+- - 2025 年：北马其顿科查尼一家夜总会发生火灾，造成至少 59 人死亡、155 人受伤。
+- - 2022 年：马里乌波尔围困期间马里乌波尔剧院遭到空袭。
+- - 2022年：日本福岛近海发生7.4级地震，造成4人死亡、225人受伤。
+- - 2021 年：亚特兰大水疗中心枪击事件：美国佐治亚州亚特兰大及其附近的水疗中心发生三起枪击事件，造成 8 人死亡、1 人受伤。同一天，一名嫌疑人被捕。
+- - 2020 年：道琼斯工业平均指数下跌 2,997.10 点，为历史上最大单点跌幅，也是有史以来第二大百分比跌幅，达 12.93%，跌幅甚至比黑色星期一（1929 年）还要严重。此前，美联储宣布将目标利率下调至0-0.25%。
+- - 2016 年：两名自杀式炸弹袭击者在尼日利亚迈杜古里郊区的一座清真寺晨祷期间引爆炸弹，造成 24 人死亡、18 人受伤。
+- - 2016 年：巴基斯坦白沙瓦一辆载有政府雇员的巴士内发生炸弹爆炸，造成 15 人死亡、至少 30 人受伤。
+- - 2014年：克里米亚在一场有争议的公投中投票决定脱离乌克兰并加入俄罗斯。
+- - 2012 年：前印度板球运动员 Sachin Tendulkar 成为历史上第一位在国际板球比赛中打出 100 分的击球手。
+- - 2010 年：乌干达唯一的世界文化遗产卡苏比墓在一场大火中被毁。
+- - 2005年：以色列正式将杰里科移交给巴勒斯坦人控制。
+- - 2003 年：美国活动人士雷切尔·科里 (Rachel Corrie) 在拉法试图阻止拆除房屋时被以色列国防军推土机碾压身亡。
+- - 2001年：中国石家庄市发生一系列炸弹爆炸，造成108人死亡、38人受伤，这是中国几十年来最大规模的谋杀案。
+- - 1995年：密西西比州正式批准美国宪法第十三修正案，成为最后一个批准废除奴隶制的州。第十三修正案于 1865 年正式批准。
+- - 1988 年：麻烦：阿尔斯特效忠武装分子迈克尔·斯通用手枪和手榴弹袭击贝尔法斯特的爱尔兰共和军临时葬礼。三人死亡，其中一名是 PIRA 成员，另有 60 多人受伤。
+- - 1988年：哈莱卜贾化学袭击：伊拉克库尔德城镇哈莱卜贾遭到萨达姆·侯赛因下令使用毒气和神经毒剂的混合袭击，造成 5,000 人死亡，约 10,000 人受伤。
+- - 1988 年：伊朗门事件：奥利弗·诺斯中校和约翰·波因德克斯特中将因串谋诈骗美国而被起诉。
+- - 1985 年：美联社新闻记者特里·安德森在贝鲁特被扣为人质；直到 1991 年 12 月他才被释放。
+- - 1984年：中央情报局驻黎巴嫩站站长威廉·巴克利被真主党绑架；他后来在囚禁中去世。
+- - 1979年：中越战争：人民解放军越过边界回到中国，结束了战争。
+- - 1978 年：超级油轮 Amoco Cadiz 在距离布列塔尼海岸三英里的波特萨尔岩石上搁浅后分成两半，导致了当时历史上最大规模的漏油事件。
+- - 1978 年：巴尔干保加利亚航空公司的一架图波列夫 Tu-134 在保加利亚加巴雷附近坠毁，造成 73 人死亡。
+- - 1978年：意大利前总理阿尔多·莫罗被绑架；他后来被绑架者谋杀。
+- - 1977年：黎巴嫩内战反政府武装主要领导人卡迈勒·琼布拉特被暗杀。
+- - 1969 年：一架 Viasa McDonnell Douglas DC-9 在委内瑞拉马拉开波坠毁，造成 155 人死亡。
+- - 1968年：越南战争：美莱村惨案发生；347 至 500 名越南村民被美军杀害。
+- - 1966 年：与宇航员尼尔·阿姆斯特朗和大卫·斯科特一起发射 Gemini 8。它将执行两个航天器在轨道上的首次对接。
+- - 1962 年：飞虎航空 739 号航班在西太平洋失踪，机上 107 人全部失踪并被推定死亡。
+- - 1945 年：德国维尔茨堡 90% 的地区被英国轰炸机在短短 20 分钟内摧毁，导致至少 4,000 人死亡。
+- - 1945 年：第二次世界大战：硫磺岛战役结束，但日本仍有小股抵抗力量。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-03-15 02:45:55 UTC）*
+*（更新于: 2026-03-16 02:46:27 UTC）*
