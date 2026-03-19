@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: Israel launches widespread aerial bombardments and attacks on the Gaza Strip, killing at least 591 people, including children.
-- 2015: The Bardo National Museum in Tunisia is attacked by gunmen. Twenty-four people, almost all tourists, are killed, and at least 50 other people are wounded.
-- 2014: The parliaments of Russia and Crimea sign an accession treaty.
-- 1997: The tail of a Russian Antonov An-24 charter plane breaks off while en route to Turkey, causing the plane to crash and killing all 50 people on board.
-- 1996: A nightclub fire in Quezon City, Philippines kills 162 people.
-- 1994: Bosnia's Bosniaks and Croats sign the Washington Agreement, ending war between the Croatian Republic of Herzeg-Bosnia and the Republic of Bosnia and Herzegovina, and establishing the Federation of Bosnia and Herzegovina.
-- 1990: In the largest art theft in US history, 12 paintings, collectively worth around $500 million, are stolen from the Isabella Stewart Gardner Museum in Boston.
-- 1990: Germans in the German Democratic Republic vote in the first democratic elections in the former communist dictatorship.
-- 1980: A Vostok-2M rocket at Plesetsk Cosmodrome Site 43 explodes during a fueling operation, killing 48 people.
-- 1974: Güzel İstanbul, a nude sculpture by Gürdal Duyar in Istanbul is torn down in the middle of the night.
-- 1971: Peru: A landslide crashes into Yanawayin Lake, killing 200 people at the mining camp of Chungar.
-- 1970: Lon Nol ousts Prince Norodom Sihanouk of Cambodia.
-- 1969: The United States begins secretly bombing the Sihanouk Trail in Cambodia, used by communist forces to infiltrate South Vietnam.
-- 1968: Gold standard: The U.S. Congress repeals the requirement for a gold reserve to back US currency.
-- 1967: The supertanker Torrey Canyon runs aground off the Cornish coast.
-- 1966: United Arab Airlines Flight 749 crashes on approach to Cairo International Airport in Cairo, Egypt, killing 30 people.
-- 1965: Cosmonaut Alexei Leonov, leaving his spacecraft Voskhod 2 for 12 minutes, becomes the first person to walk in space.
-- 1962: The Évian Accords end the Algerian War of Independence, which had begun in 1954.
-- 1959: The Hawaii Admission Act is signed into law.
-- 1953: An earthquake hits western Turkey, killing at least 1,070 people.
-- 1948: Soviet consultants leave Yugoslavia in the first sign of the Tito-Stalin split.
-- 1945: 40th Infantry Division, spearheaded by the 185th US Infantry Regiment, landed unopposed in Tigbauan forcing the Japanese forces to surrender and General Macario Peralta and Gen. Gen. Eichelberger to declare the Liberation of Panay, Romblon and Guimaras.
-- 1944: Mount Vesuvius in Italy erupts, killing 26 people, causing thousands to flee their homes, and destroying dozens of Allied bombers.
-- 1942: The War Relocation Authority is established in the United States to take Japanese Americans into custody.
-- 1940: World War II: Adolf Hitler and Benito Mussolini meet at the Brenner Pass in the Alps and agree to form an alliance against France and the United Kingdom.
-- 1938: Mexico creates Pemex by expropriating all foreign-owned oil reserves and facilities.
-- 1937: Spanish Civil War: Spanish Republican forces defeat the Italians at the Battle of Guadalajara.
-- 1937: The New London School explosion in New London, Texas, kills 300 people, mostly children.
-- 1925: The 1925 Tri-State tornado hits the Midwestern states of Missouri, Illinois, and Indiana, killing 695 people.
-- 1922: In India, Mohandas Gandhi is sentenced to six years in prison for civil disobedience, of which he serves only two.
+- 2023: The Swiss Government brokers a deal for UBS to buy out rival Credit Suisse in an attempt to calm the 2023 banking crisis.
+- 2019: The first President of Kazakhstan, Nursultan Nazarbayev, resigns from office after nearly three decades, leaving Senate Chairman Kassym-Jomart Tokayev as the acting President and successor.
+- 2016: An explosion occurs in Taksim Square in Istanbul, Turkey, killing five people and injuring 36.
+- 2016: Flydubai Flight 981 crashes while attempting to land at Rostov-on-Don international airport, killing all 62 on board.
+- 2013: A series of bombings and shootings kills at least 98 people and injures 240 others across Iraq.
+- 2011: Libyan Civil War: After the failure of Muammar Gaddafi's forces to take Benghazi, the French Air Force launches Opération Harmattan, beginning foreign military intervention in Libya.
+- 2008: GRB 080319B: A cosmic burst that is the farthest object visible to the naked eye is briefly observed.
+- 2004: The Konginkangas bus disaster kills 23 and injures 14 people in Äänekoski, Finland.
+- 2004: March 19 Shooting Incident: The Republic of China (Taiwan) president Chen Shui-bian is shot just before the country's presidential election on March 20.
+- 2004: Catalina affair: A Swedish DC-3 shot down by a Soviet MiG-15 in 1952 over the Baltic Sea is finally recovered after years of work.
+- 2003: United States President George W. Bush addresses the nation, announcing the invasion of Iraq.
+- 1998: An Ariana Afghan Airlines Boeing 727 crashes on approach to Kabul International Airport, killing all 45 on board.
+- 1990: The ethnic clashes of Târgu Mureș begin four days after the anniversary of the Revolutions of 1848 in the Austrian Empire.
+- 1989: The Egyptian flag is raised at Taba, marking the end of Israeli occupation since the Six Days War in 1967 and the Egypt-Israel peace treaty in 1979.
+- 1982: Falklands War: Argentinian forces land on South Georgia Island, precipitating war with the United Kingdom.
+- 1979: The United States House of Representatives begins broadcasting its day-to-day business via the cable television network C-SPAN.
+- 1969: The 385-metre-tall (1,263 ft) TV-mast at Emley Moor transmitting station, United Kingdom, collapses due to ice build-up.
+- 1965: The wreck of the SS Georgiana, valued at over $50,000,000 and said to have been the most powerful Confederate cruiser, is discovered by teenage diver and pioneer underwater archaeologist E. Lee Spence, exactly 102 years after its destruction.
+- 1964: Over 500,000 Brazilians attend the March of the Family with God for Liberty, in protest against the government of João Goulart and against communism.
+- 1962: The Algerian War of Independence ends.
+- 1958: The Monarch Underwear Company fire leaves 24 dead and 15 injured.
+- 1946: French Guiana, Guadeloupe, Martinique, and Réunion become overseas départements of France.
+- 1945: World War II: Adolf Hitler issues his "Nero Decree" ordering all industries, military installations, shops, transportation facilities, and communications facilities in Germany to be destroyed.
+- 1945: World War II: Off the coast of Japan, a dive bomber hits the aircraft carrier USS Franklin, killing 724 of her crew. Badly damaged, the ship is able to return to the US under her own power.
+- 1944: World War II: The German army occupies Hungary.
+- 1943: Frank Nitti, the Chicago Outfit Boss after Al Capone, commits suicide at the Chicago Central Railyard.
+- 1932: The Sydney Harbour Bridge is opened.
+- 1931: Governor Fred B. Balzar signs a bill legalizing gambling in Nevada.
+- 1921: Irish War of Independence: One of the biggest engagements of the war takes place at Crossbarry, County Cork. About 100 Irish Republican Army (IRA) volunteers escape an attempt by over 1,300 British forces to encircle them.
+- 1920: The United States Senate rejects the Treaty of Versailles for the second time (the first time was on November 19, 1919).
 
 Data from muffinlabs
-*(Updated at: 2026-03-18 02:35:26 UTC)*
+*(Updated at: 2026-03-19 02:36:45 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：以色列对加沙地带发动大范围的空中轰炸和袭击，造成至少 591 人死亡，其中包括儿童。
-- - 2015年：突尼斯巴尔多国家博物馆遭到枪手袭击。共有 24 人死亡，其中几乎全是游客，另有至少 50 人受伤。
-- - 2014年：俄罗斯和克里米亚议会签署加入条约。
-- - 1997 年：一架俄罗斯安东诺夫 An-24 包机在飞往土耳其的途中机尾断裂，导致飞机坠毁，机上 50 人全部遇难。
-- - 1996 年：菲律宾奎松市的一场夜总会火灾导致 162 人死亡。
-- - 1994年：波斯尼亚的波斯尼亚人和克罗地亚人签署《华盛顿协定》，结束了克罗地亚赫塞格-波斯尼亚共和国与波斯尼亚和黑塞哥维那共和国之间的战争，并建立了波斯尼亚和黑塞哥维那联邦。
-- - 1990 年：波士顿伊莎贝拉·斯图尔特·加德纳博物馆 (Isabella Stewart Gardner Museum) 的 12 幅画作被盗，这是美国历史上最大的艺术品盗窃案，总价值约 5 亿美元。
-- - 1990年：德意志民主共和国的德国人在前共产主义独裁政权的第一次民主选举中投票。
-- - 1980 年：普列谢茨克航天发射场 43 号场的一枚 Vostok-2M 火箭在加油作业中爆炸，造成 48 人死亡。
-- - 1974 年：Güzel 伊斯坦布尔，由 Gürdal Duyar 创作的位于伊斯坦布尔的裸体雕塑在半夜被拆除。
-- - 1971 年：秘鲁：山体滑坡冲入 Yanawayin 湖，导致 Chungar 采矿营地的 200 人死亡。
-- - 1970 年：朗诺驱逐柬埔寨亲王诺罗敦·西哈努克。
-- - 1969 年：美国开始秘密轰炸柬埔寨的西哈努克小道，共产党军队利用该小道渗透到南越。
-- - 1968 年：金本位：美国国会废除了以黄金储备支持美元的要求。
-- - 1967 年：超级油轮 Torrey Canyon 在康沃尔海岸搁浅。
-- - 1966 年：阿拉伯联合航空公司 749 号航班在飞往埃及开罗国际机场时坠毁，造成 30 人死亡。
-- - 1965 年：宇航员阿列克谢·列昂诺夫 (Alexei Leonov) 离开他的沃斯克霍德 2 号航天器 12 分钟，成为第一个在太空行走的人。
-- - 1962 年：《埃维昂协议》结束了 1954 年开始的阿尔及利亚独立战争。
-- - 1959 年：《夏威夷入学法案》签署成为法律。
-- - 1953 年：土耳其西部发生地震，造成至少 1,070 人死亡。
-- - 1948 年：苏联顾问离开南斯拉夫，这是铁托与斯大林分裂的第一个迹象。
-- - 1945 年：第 40 步兵师在美国第 185 步兵团的率领下，毫无抵抗地在蒂格鲍安登陆，迫使日军投降，马卡里奥·佩拉尔塔将军和艾切尔伯格将军宣布解放班乃、朗布隆和吉马拉斯。
-- - 1944 年：意大利维苏威火山爆发，造成 26 人死亡，数千人逃离家园，并摧毁了数十架盟军轰炸机。
-- - 1942 年：美国成立战时安置管理局，负责拘留日裔美国人。
-- - 1940 年：第二次世界大战：阿道夫·希特勒和贝尼托·墨索里尼在阿尔卑斯山的布伦纳山口会面，同意结成联盟对抗法国和英国。
-- - 1938 年：墨西哥通过征用所有外资石油储备和设施创建了墨西哥国家石油公司。
-- - 1937 年：西班牙内战：西班牙共和军在瓜达拉哈拉战役中击败意大利人。
-- - 1937 年：德克萨斯州新伦敦的新伦敦学校爆炸，造成 300 人死亡，其中大部分是儿童。
-- - 1925 年：1925 年的三州龙卷风袭击了中西部的密苏里州、伊利诺伊州和印第安纳州，造成 695 人死亡。
-- - 1922 年：在印度，莫罕达斯·甘地因公民抗命罪被判处六年监禁，但他只服刑了两年。
+- - 2023 年：瑞士政府促成瑞银 (UBS) 收购竞争对手瑞士信贷 (Credit Suisse) 的股份，以平息 2023 年的银行业危机。
+- - 2019年：哈萨克斯坦首任总统努尔苏丹·纳扎尔巴耶夫在任职近三十年后辞职，参议院主席卡西姆-乔马尔特·托卡耶夫担任代理总统和继任者。
+- - 2016年：土耳其伊斯坦布尔塔克西姆广场发生爆炸，造成5人死亡、36人受伤。
+- - 2016 年：迪拜航空 981 号航班在试图降落顿河畔罗斯托夫国际机场时坠毁，机上 62 人全部遇难。
+- - 2013 年：伊拉克各地发生一系列爆炸和枪击事件，造成至少 98 人死亡、240 人受伤。
+- - 2011年：利比亚内战：卡扎菲军队攻占班加西失败后，法国空军发起哈马坦行动，开始对利比亚进行外国军事干预。
+- - 2008 年：GRB 080319B：短暂观察到肉眼可见的最远物体的宇宙爆发。
+- - 2004年：芬兰艾内科斯基Konginkangas公交车事故造成23人死亡、14人受伤。
+- - 2004年：3月19日枪击事件：中华民国（台湾）总统陈水扁在3月20日总统选举前夕被枪杀。
+- - 2004 年：卡塔琳娜事件：1952 年在波罗的海上空被苏联 MiG-15 击落的一架瑞典 DC-3 经过多年的工作终于被找到。
+- - 2003年：美国总统乔治·W·布什向全国发表讲话，宣布入侵伊拉克。
+- - 1998 年：阿富汗阿里亚纳航空公司 (Ariana Afghan Airlines) 的一架波音 727 飞机在飞往喀布尔国际机场时坠毁，机上 45 人全部遇难。
+- - 1990 年：特尔古穆列什的种族冲突在奥地利帝国 1848 年革命周年纪念日四天后开始。
+- - 1989 年：埃及国旗在塔巴升起，标志着自 1967 年六日战争和 1979 年埃以和平条约以来以色列占领的结束。
+- - 1982 年：马岛战争：阿根廷军队登陆南乔治亚岛，引发与英国的战争。
+- - 1979 年：美国众议院开始通过有线电视网络 C-SPAN 广播其日常事务。
+- - 1969 年：英国 Emley Moor 发射站 385 米（1,263 英尺）高的电视桅杆因结冰而倒塌。
+- - 1965 年：价值超过 50,000,000 美元、据说是最强大的南方邦联巡洋舰的 SS Georgiana 号残骸被青少年潜水员兼水下考古先驱 E. Lee Spence 发现，此时距其被毁正好 102 年。
+- - 1964 年：超过 500,000 名巴西人参加“家庭与上帝争取自由游行”，抗议若昂·古拉特政府和共产主义。
+- - 1962年：阿尔及利亚独立战争结束。
+- - 1958 年：Monarch 内衣公司火灾造成 24 人死亡、15 人受伤。
+- - 1946 年：法属圭亚那、瓜德罗普岛、马提尼克岛和留尼汪岛成为法国海外省。
+- - 1945年：第二次世界大战：阿道夫·希特勒颁布“尼禄法令”，下令摧毁德国所有工业、军事设施、商店、交通设施和通讯设施。
+- - 1945 年：第二次世界大战：在日本海岸附近，一架俯冲轰炸机击中了富兰克林号航空母舰，造成 724 名船员死亡。这艘船虽然受损严重，但仍能依靠自己的力量返回美国。
+- - 1944 年：第二次世界大战：德国军队占领匈牙利。
+- - 1943 年：阿尔·卡彭之后的芝加哥服装老板弗兰克·尼蒂 (Frank Nitti) 在芝加哥中央火车站自杀。
+- - 1932 年：悉尼海港大桥启用。
+- - 1931 年：州长 Fred B. Balzar 签署了一项法案，使内华达州赌博合法化。
+- - 1921 年：爱尔兰独立战争：这场战争中最大规模的交战之一发生在科克郡的克罗斯巴里。大约 100 名爱尔兰共和军 (IRA) 志愿者逃脱了 1,300 多名英军的围剿。
+- - 1920年：美国参议院第二次拒绝《凡尔赛条约》（第一次是1919年11月19日）。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-03-18 02:35:26 UTC）*
+*（更新于: 2026-03-19 02:36:45 UTC）*
