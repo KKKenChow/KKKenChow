@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: Kassym-Jomart Tokayev is sworn in as acting president of Kazakhstan, following the resignation of long-time president Nursultan Nazarbayev.
-- 2015: Syrian civil war: The Siege of Kobanî is broken by the People's Protection Units (YPG) and Free Syrian Army (FSA), marking a turning point in the Rojava-Islamist conflict.
-- 2015: A Solar eclipse, equinox, and a supermoon all occur on the same day.
-- 2014: Four suspected Taliban members attack the Kabul Serena Hotel, killing at least nine people.
-- 2012: At least 52 people are killed and more than 250 injured in a wave of terror attacks across ten cities in Iraq.
-- 2010: Eyjafjallajökull in Iceland begins eruptions that would last for three months, heavily disrupting air travel in Europe.
-- 2006: Over 150 Chadian soldiers are killed in eastern Chad by members of the rebel UFDC. The rebel movement sought to overthrow Chadian president Idriss Déby.
-- 2003: Iraq War: The United States, the United Kingdom, Australia, and Poland begin an invasion of Iraq.
-- 2000: Jamil Abdullah Al-Amin, a former Black Panther once known as H. Rap Brown, is captured after murdering Georgia sheriff's deputy Ricky Kinchen and critically wounding Deputy Aldranon English.
-- 1999: Legoland California, the first Legoland outside of Europe, opens in Carlsbad, California, US.
-- 1995: The Japanese cult Aum Shinrikyo carries out a sarin gas attack on the Tokyo subway, killing 13 and wounding over 6,200 people.
-- 1993: The Troubles: A Provisional IRA bomb kills two children in Warrington, England. It leads to mass protests in both Britain and Ireland.
-- 1990: Ferdinand Marcos's widow, Imelda Marcos, goes on trial for bribery, embezzlement, and racketeering.
-- 1988: Eritrean War of Independence: Having defeated the Nadew Command, the Eritrean People's Liberation Front enters the town of Afabet, victoriously concluding the Battle of Afabet.
-- 1987: The Food and Drug Administration approves the anti-AIDS drug, AZT.
-- 1985: Libby Riddles becomes the first woman to win the 1,135-mile Iditarod Trail Sled Dog Race.
-- 1972: The Troubles: The first car bombing by the Provisional IRA in Belfast kills seven people and injures 148 others in Northern Ireland.
-- 1969: A United Arab airlines (now Egyptair) Ilyushin Il-18 crashes at Aswan international Airport, killing 100 people.
-- 1964: The precursor of the European Space Agency, ESRO (European Space Research Organisation) is established per an agreement signed on June 14, 1962.
-- 1956: Tunisia gains independence from France.
-- 1952: The US Senate ratifies the Security Treaty Between the United States and Japan.
-- 1951: Fujiyoshida, a city located in Yamanashi Prefecture, Japan, in the center of the Japanese main island of Honshū is founded.
-- 1948: With a Musicians Union ban lifted, the first telecasts of classical music in the United States, under Eugene Ormandy and Arturo Toscanini, are given on CBS and NBC.
-- 1942: World War II: General Douglas MacArthur, at Terowie, South Australia, makes his famous speech regarding the fall of the Philippines, in which he says: "I came out of Bataan and I shall return".
-- 1933: Reichsführer-SS Heinrich Himmler ordered the creation of Dachau concentration camp as Chief of Police of Munich and appointed Theodor Eicke as the camp commandant.
-- 1926: Chiang Kai-shek initiates a purge of communist elements within the National Revolutionary Army in Guangzhou.
-- 1923: The Arts Club of Chicago hosts the opening of Pablo Picasso's first United States showing, entitled Original Drawings by Pablo Picasso, becoming an early proponent of modern art in the United States.
-- 1922: The USS Langley is commissioned as the first United States Navy aircraft carrier.
-- 1921: The Upper Silesia plebiscite, mandated by the Versailles Treaty to determine a section of the border between Weimar Germany and Poland, is held.
-- 1916: Albert Einstein submits his paper, "The Foundation of the General Theory of Relativity", which establishes his general theory of relativity, to the journal Annalen der Physik.
+- 2022: China Eastern Airlines Flight 5735 crashes in Guangxi, China, killing 132 people.
+- 2019: The 2019 Xiangshui chemical plant explosion occurs, killing at least 47 people and injuring 640 others.
+- 2006: The social media site Twitter (now officially named X) is founded.
+- 2000: Pope John Paul II makes his first ever pontifical visit to Israel.
+- 1999: Bertrand Piccard and Brian Jones become the first to circumnavigate the Earth in a hot air balloon.
+- 1994: The United Nations Framework Convention on Climate Change enters into force.
+- 1990: Namibia becomes independent after 75 years of South African rule.
+- 1989: Transbrasil Flight 801 crashes into a slum near São Paulo/Guarulhos International Airport, killing 25 people.
+- 1986: Debi Thomas became the first African American to win the World Figure Skating Championships.
+- 1985: Canadian paraplegic athlete and humanitarian Rick Hansen begins his circumnavigation of the globe in a wheelchair in the name of spinal cord injury medical research.
+- 1983: The first cases of the 1983 West Bank fainting epidemic begin; Israelis and Palestinians accuse each other of poison gas, but the cause is later determined mostly to be psychosomatic.
+- 1980: Cold War: American President Jimmy Carter announces a United States boycott of the 1980 Summer Olympics in Moscow to protest the Soviet-Afghan War.
+- 1970: San Diego Comic-Con, the largest pop and culture festival in the world, hosts its inaugural event.
+- 1970: The first Earth Day proclamation is issued by Joseph Alioto, Mayor of San Francisco.
+- 1968: Battle of Karameh in Jordan between the Israel Defense Forces and the combined forces of the Jordanian Armed Forces and PLO.
+- 1965: Martin Luther King Jr. leads 3,200 people on the start of the third and finally successful civil rights march from Selma to Montgomery, Alabama.
+- 1965: Ranger program: NASA launches Ranger 9, the last in a series of uncrewed lunar space probes.
+- 1963: Alcatraz Federal Penitentiary closes.
+- 1960: Apartheid: Sharpeville massacre, South Africa: Police open fire on a group of black South African demonstrators, killing 69 and wounding 180.
+- 1952: Alan Freed presents the Moondog Coronation Ball, the first rock and roll concert, in Cleveland, Ohio.
+- 1946: The Los Angeles Rams sign Kenny Washington, making him the first African American player in professional American football since 1933.
+- 1945: World War II: Bulgaria and the Soviet Union successfully complete their defense of the north bank of the Drava River as the Battle of the Transdanubian Hills concludes.
+- 1945: World War II: Operation Carthage: Royal Air Force planes bomb Gestapo headquarters in Copenhagen, Denmark. They also accidentally hit a school, killing 125 civilians.
+- 1945: World War II: British troops liberate Mandalay, Burma.
+- 1943: Wehrmacht officer Rudolf von Gersdorff plots to assassinate Adolf Hitler by using a suicide bomb, but the plan falls through; von Gersdorff is able to defuse the bomb in time and avoid suspicion.
+- 1937: Ponce massacre: Nineteen unarmed civilians in Ponce, Puerto Rico are gunned down by police in a terrorist attack ordered by the US-appointed Governor, Blanton Winship.
+- 1935: Shah of Iran Reza Shah Pahlavi formally asks the international community to call Persia by its native name, Iran.
+- 1934: The landmark Australian Eastern Mission led by John Latham departs on its three-month tour of East and South-East Asia.
+- 1928: Charles Lindbergh is presented with the Medal of Honor for the first solo trans-Atlantic flight.
+- 1925: Ravel's opera L'enfant et les sortilèges, to a libretto by Colette, is premiered at the Opéra de Monte-Carlo.
 
 Data from muffinlabs
-*(Updated at: 2026-03-20 02:28:44 UTC)*
+*(Updated at: 2026-03-21 02:23:17 UTC)*
 
 # 历史上的今天 
 
-- - 2019年：在长期担任总统的努尔苏丹·纳扎尔巴耶夫辞职后，卡西姆-乔马尔特·托卡耶夫宣誓就任哈萨克斯坦代总统。
-- - 2015 年：叙利亚内战：人民保卫军 (YPG) 和叙利亚自由军 (FSA) 打破了对科巴尼的围困，标志着罗贾瓦-伊斯兰冲突的转折点。
-- - 2015 年：日食、春分和超级月亮都发生在同一天。
-- - 2014年：四名疑似塔利班成员袭击了喀布尔塞雷纳酒店，造成至少九人死亡。
-- - 2012年：伊拉克十个城市发生一波恐怖袭击，造成至少52人死亡、250多人受伤。
-- - 2010 年：冰岛的埃亚菲亚德拉冰盖开始喷发，持续三个月，严重扰乱了欧洲的航空旅行。
-- - 2006年：超过150名乍得士兵在乍得东部被叛军UFDC成员杀害。叛乱运动试图推翻乍得总统伊德里斯·代比。
-- - 2003年：伊拉克战争：美国、英国、澳大利亚和波兰开始入侵伊拉克。
-- - 2000 年：前黑豹成员贾米尔·阿卜杜拉·阿明 (Jamil Abdullah Al-Amin)，曾被称为 H. Rap Brown，在谋杀佐治亚州副警长瑞奇·金钦 (Ricky Kinchen) 并重伤副警长阿尔德拉农·英格利希 (Aldranon English) 后被捕。
-- - 1999 年：欧洲以外的第一家乐高乐园——加州乐高乐园在美国加利福尼亚州卡尔斯巴德开业。
-- - 1995 年：日本邪教奥姆真理教对东京地铁发动沙林毒气袭击，造成 13 人死亡、6,200 多人受伤。
-- - 1993 年：麻烦：一枚临时爱尔兰共和军炸弹在英格兰沃灵顿炸死了两名儿童。这引发了英国和爱尔兰的大规模抗议。
-- - 1990 年：费迪南德·马科斯的遗孀伊梅尔达·马科斯因贿赂、贪污和敲诈勒索罪受审。
-- - 1988年：厄立特里亚独立战争：厄立特里亚人民解放阵线击败纳杜指挥部后，进入阿法贝特镇，胜利结束阿法贝特战役。
-- - 1987年：美国食品和药物管理局批准了抗艾滋病药物AZT。
-- - 1985 年：Libby Riddles 成为第一位赢得 1,135 英里艾迪塔罗德狗拉雪橇比赛的女性。
-- - 1972 年：麻烦：北爱尔兰临时爱尔兰共和军在贝尔法斯特发生第一起汽车爆炸事件，造成 7 人死亡、148 人受伤。
-- - 1969 年：阿拉伯联合航空公司（现为埃及航空公司）的一架 Ilyushin Il-18 在阿斯旺国际机场坠毁，造成 100 人死亡。
-- - 1964 年：欧洲航天局的前身 ESRO（欧洲空间研究组织）根据 1962 年 6 月 14 日签署的协议成立。
-- - 1956 年：突尼斯从法国手中获得独立。
-- - 1952 年：美国参议院批准《美日安保条约》。
-- - 1951 年：位于日本山梨县、日本主岛本州岛中心的富士吉田市成立。
-- - 1948 年：随着音乐家联盟禁令的解除，尤金·奥曼迪 (Eugene Ormandy) 和阿图罗·托斯卡尼尼 (Arturo Toscanini) 主持的美国古典音乐首次电视转播在哥伦比亚广播公司 (CBS) 和全国广播公司 (NBC) 上播出。
-- - 1942 年：第二次世界大战：道格拉斯·麦克阿瑟将军在南澳大利亚特罗维发表了关于菲律宾沦陷的著名演讲，其中他说：“我从巴丹岛出来，我将会回来”。
-- - 1933 年：党卫军帝国元首海因里希·希姆莱 (Heinrich Himmler) 作为慕尼黑警察局长下令建立达豪集中营，并任命西奥多·艾克 (Theodor Eicke) 为集中营指挥官。
-- - 1926 年：蒋介石在广州发起对国民革命军内部共产主义分子的清洗。
-- - 1923 年：芝加哥艺术俱乐部举办了巴勃罗·毕加索在美国的首次展览，题为《巴勃罗·毕加索的原创绘画》，成为美国现代艺术的早期支持者。
-- - 1922 年：兰利号航空母舰作为美国海军第一艘航空母舰服役。
-- - 1921 年：根据《凡尔赛条约》的授权，举行了上西里西亚公民投票，以确定魏玛德国和波兰之间的一段边界。
-- - 1916 年：阿尔伯特·爱因斯坦向《物理学年鉴》杂志提交了他的论文“广义相对论的基础”，该论文建立了他的广义相对论。
+- - 2022 年：中国东方航空 5735 航班在中国广西坠毁，造成 132 人死亡。
+- - 2019年：2019年响水化工厂发生爆炸，造成至少47人死亡、640人受伤。
+- - 2006 年：社交媒体网站 Twitter（现正式名称为 X）成立。
+- - 2000 年：教皇约翰·保罗二世首次对以色列进行宗座访问。
+- - 1999 年：伯特兰·皮卡德 (Bertrand Piccard) 和布莱恩·琼斯 (Brian Jones) 成为第一个乘坐热气球环绕地球飞行的人。
+- - 1994年：《联合国气候变化框架公约》生效。
+- - 1990 年：纳米比亚在南非统治 75 年后独立。
+- - 1989 年：巴西航空 801 号航班坠入圣保罗/瓜鲁柳斯国际机场附近的贫民窟，造成 25 人死亡。
+- - 1986 年：黛比·托马斯 (Debi Thomas) 成为第一位赢得世界花样滑冰锦标赛冠军的非裔美国人。
+- - 1985 年：加拿大截瘫运动员和人道主义者 Rick Hansen 以脊髓损伤医学研究的名义开始坐在轮椅上环球航行。
+- - 1983 年：1983 年西岸昏厥流行病的第一批病例开始出现；以色列人和巴勒斯坦人互相指责对方使用毒气，但后来确定原因主要是心身问题。
+- - 1980 年：冷战：美国总统吉米·卡特宣布美国抵制 1980 年莫斯科夏季奥运会，以抗议苏阿战争。
+- - 1970 年：世界上最大的流行文化节圣地亚哥动漫展举办了首届活动。
+- - 1970 年：旧金山市长 Joseph Alioto 发布了第一个地球日公告。
+- - 1968 年：以色列国防军与约旦武装部队和巴解组织联合部队在约旦发生卡拉梅战役。
+- - 1965 年：小马丁·路德·金 (Martin Luther King Jr.) 带领 3,200 人发起了第三次民权游行，从塞尔玛到阿拉巴马州蒙哥马利，最终取得了成功。
+- - 1965 年：游侠计划：美国宇航局发射游侠 9 号，这是一系列无人月球太空探测器中的最后一个。
+- - 1963 年：恶魔岛联邦监狱关闭。
+- - 1960 年：种族隔离：南非沙佩维尔大屠杀：警察向一群南非黑人示威者开枪，造成 69 人死亡、180 人受伤。
+- - 1952 年：艾伦·弗里德 (Alan Freed) 在俄亥俄州克利夫兰举办了 Moondog 加冕舞会，这是第一场摇滚音乐会。
+- - 1946 年：洛杉矶公羊队签下肯尼·华盛顿，使他成为自 1933 年以来第一位进入职业美式橄榄球的非洲裔美国球员。
+- - 1945 年：第二次世界大战：保加利亚和苏联成功完成了对德拉瓦河北岸的防御，跨多瑙河山战役结束。
+- - 1945 年：第二次世界大战：迦太基行动：英国皇家空军飞机轰炸了位于丹麦哥本哈根的盖世太保总部。他们还意外击中了一所学校，造成 125 名平民死亡。
+- - 1945 年：第二次世界大战：英国军队解放缅甸曼德勒。
+- - 1943年：国防军军官鲁道夫·冯·格斯多夫密谋使用自杀式炸弹刺杀阿道夫·希特勒，但计划失败；冯·格斯多夫及时拆除了炸弹，避免了嫌疑。
+- - 1937 年：庞塞大屠杀：波多黎各庞塞的 19 名手无寸铁的平民在美国任命的总督布兰顿·温希普下令的恐怖袭击中被警察枪杀。
+- - 1935 年：伊朗国王礼萨·沙阿·巴列维正式要求国际社会使用波斯的本土名称“伊朗”。
+- - 1934 年：约翰·莱瑟姆 (John Latham) 领导的具有里程碑意义的澳大利亚东方传教团启程，开始为期三个月的东亚和东南亚之旅。
+- - 1928 年：查尔斯·林德伯格 (Charles Lindbergh) 因首次独自跨大西洋飞行而被授予荣誉勋章。
+- - 1925 年：拉威尔的歌剧《孩子与排序》（L'enfant et les sortilèges）在蒙特卡洛歌剧院首演，剧本由科莱特创作。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-03-20 02:28:44 UTC）*
+*（更新于: 2026-03-21 02:23:17 UTC）*
