@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: China Eastern Airlines Flight 5735 crashes in Guangxi, China, killing 132 people.
-- 2019: The 2019 Xiangshui chemical plant explosion occurs, killing at least 47 people and injuring 640 others.
-- 2006: The social media site Twitter (now officially named X) is founded.
-- 2000: Pope John Paul II makes his first ever pontifical visit to Israel.
-- 1999: Bertrand Piccard and Brian Jones become the first to circumnavigate the Earth in a hot air balloon.
-- 1994: The United Nations Framework Convention on Climate Change enters into force.
-- 1990: Namibia becomes independent after 75 years of South African rule.
-- 1989: Transbrasil Flight 801 crashes into a slum near São Paulo/Guarulhos International Airport, killing 25 people.
-- 1986: Debi Thomas became the first African American to win the World Figure Skating Championships.
-- 1985: Canadian paraplegic athlete and humanitarian Rick Hansen begins his circumnavigation of the globe in a wheelchair in the name of spinal cord injury medical research.
-- 1983: The first cases of the 1983 West Bank fainting epidemic begin; Israelis and Palestinians accuse each other of poison gas, but the cause is later determined mostly to be psychosomatic.
-- 1980: Cold War: American President Jimmy Carter announces a United States boycott of the 1980 Summer Olympics in Moscow to protest the Soviet-Afghan War.
-- 1970: San Diego Comic-Con, the largest pop and culture festival in the world, hosts its inaugural event.
-- 1970: The first Earth Day proclamation is issued by Joseph Alioto, Mayor of San Francisco.
-- 1968: Battle of Karameh in Jordan between the Israel Defense Forces and the combined forces of the Jordanian Armed Forces and PLO.
-- 1965: Martin Luther King Jr. leads 3,200 people on the start of the third and finally successful civil rights march from Selma to Montgomery, Alabama.
-- 1965: Ranger program: NASA launches Ranger 9, the last in a series of uncrewed lunar space probes.
-- 1963: Alcatraz Federal Penitentiary closes.
-- 1960: Apartheid: Sharpeville massacre, South Africa: Police open fire on a group of black South African demonstrators, killing 69 and wounding 180.
-- 1952: Alan Freed presents the Moondog Coronation Ball, the first rock and roll concert, in Cleveland, Ohio.
-- 1946: The Los Angeles Rams sign Kenny Washington, making him the first African American player in professional American football since 1933.
-- 1945: World War II: Bulgaria and the Soviet Union successfully complete their defense of the north bank of the Drava River as the Battle of the Transdanubian Hills concludes.
-- 1945: World War II: Operation Carthage: Royal Air Force planes bomb Gestapo headquarters in Copenhagen, Denmark. They also accidentally hit a school, killing 125 civilians.
-- 1945: World War II: British troops liberate Mandalay, Burma.
-- 1943: Wehrmacht officer Rudolf von Gersdorff plots to assassinate Adolf Hitler by using a suicide bomb, but the plan falls through; von Gersdorff is able to defuse the bomb in time and avoid suspicion.
-- 1937: Ponce massacre: Nineteen unarmed civilians in Ponce, Puerto Rico are gunned down by police in a terrorist attack ordered by the US-appointed Governor, Blanton Winship.
-- 1935: Shah of Iran Reza Shah Pahlavi formally asks the international community to call Persia by its native name, Iran.
-- 1934: The landmark Australian Eastern Mission led by John Latham departs on its three-month tour of East and South-East Asia.
-- 1928: Charles Lindbergh is presented with the Medal of Honor for the first solo trans-Atlantic flight.
-- 1925: Ravel's opera L'enfant et les sortilèges, to a libretto by Colette, is premiered at the Opéra de Monte-Carlo.
+- 2024: At least 145 people are killed and 551 injured in a bombing and mass shooting at the Crocus City Hall in Krasnogorsk, Russia.
+- 2021: Ten people are killed in a mass shooting in Boulder, Colorado.
+- 2020: Greek Prime Minister Kyriakos Mitsotakis announces a national lockdown and the country's first ever self-imposed curfew, in an effort to fight the spread of COVID-19.
+- 2020: Indian Prime Minister Narendra Modi announces the country's largest ever self-imposed curfew, in an effort to fight the spread of COVID-19.
+- 2019: Two buses crashed in Kitampo, a town north of Ghana's capital Accra, killing at least 50 people.
+- 2019: The Special Counsel investigation on the 2016 United States presidential election concludes when Robert Mueller submits his report to the United States Attorney General.
+- 2017: Syrian civil war: Five hundred members of the Syrian Democratic Forces (SDF) are airlifted south of the Euphrates by United States Air Force helicopters, beginning the Battle of Tabqa.
+- 2017: A terrorist attack in London near the Houses of Parliament leaves four people dead and at least 20 injured.
+- 2016: Three suicide bombers kill 32 people and injure 316 in the 2016 Brussels bombings at the airport and at the Maelbeek/Maalbeek metro station.
+- 2013: At least 37 people are killed and 200 are injured after a fire destroys a camp containing Burmese refugees near Ban Mae, Thailand.
+- 2006: Three Christian Peacemaker Team (CPT) hostages are freed by British forces in Baghdad after 118 days of captivity and the murder of their colleague from the U.S., Tom Fox.
+- 2004: Ahmed Yassin, co-founder and leader of the Palestinian Sunni Islamist group Hamas, two bodyguards, and nine civilian bystanders are killed in the Gaza Strip when hit by Israeli Air Force Hellfire missiles.
+- 1997: Comet Hale-Bopp reaches its closest approach to Earth at 1.315 AU.
+- 1997: Tara Lipinski, aged 14 years and nine months, becomes the youngest women's World Figure Skating Champion.
+- 1996: NASA's Space Shuttle Atlantis is launched on its 16th mission, STS-76.
+- 1995: Cosmonaut Valeri Polyakov returns to earth after setting a record of 438 days in space.
+- 1993: The Intel Corporation ships the first Pentium chips (80586), featuring a 60 MHz clock speed, 100+ MIPS, and a 64 bit data path.
+- 1992: Fall of communism in Albania: The Democratic Party of Albania wins a decisive majority in the parliamentary election.
+- 1992: USAir Flight 405 crashes shortly after takeoff from New York City's LaGuardia Airport, leading to a number of studies into the effect that ice has on aircraft.
+- 1988: The United States Congress votes to override President Ronald Reagan's veto of the Civil Rights Restoration Act of 1987.
+- 1982: NASA's Space Shuttle Columbia is launched from the Kennedy Space Center on its third mission, STS-3.
+- 1978: Karl Wallenda of The Flying Wallendas dies after falling off a tight-rope suspended between two hotels in San Juan, Puerto Rico.
+- 1975: A fire at the Browns Ferry Nuclear Power Plant in Decatur, Alabama, causes a dangerous reduction in cooling water levels.
+- 1972: In Eisenstadt v. Baird, the United States Supreme Court decides that unmarried persons have the right to possess contraceptives.
+- 1972: The United States Congress sends the Equal Rights Amendment to the states for ratification.
+- 1963: The Beatles release their debut album Please Please Me.
+- 1960: Arthur Leonard Schawlow and Charles Hard Townes receive the first patent for a laser.
+- 1957: A United States Air Force aircraft disappears with all 67 people on board somewhere over the Pacific Ocean.
+- 1955: A United States Navy Douglas R6D-1 Liftmaster crashes into Hawaii's Waiʻanae Range, killing 66.
+- 1946: The United Kingdom grants full independence to Transjordan.
 
 Data from muffinlabs
-*(Updated at: 2026-03-21 02:23:17 UTC)*
+*(Updated at: 2026-03-22 02:37:45 UTC)*
 
 # 历史上的今天 
 
-- - 2022 年：中国东方航空 5735 航班在中国广西坠毁，造成 132 人死亡。
-- - 2019年：2019年响水化工厂发生爆炸，造成至少47人死亡、640人受伤。
-- - 2006 年：社交媒体网站 Twitter（现正式名称为 X）成立。
-- - 2000 年：教皇约翰·保罗二世首次对以色列进行宗座访问。
-- - 1999 年：伯特兰·皮卡德 (Bertrand Piccard) 和布莱恩·琼斯 (Brian Jones) 成为第一个乘坐热气球环绕地球飞行的人。
-- - 1994年：《联合国气候变化框架公约》生效。
-- - 1990 年：纳米比亚在南非统治 75 年后独立。
-- - 1989 年：巴西航空 801 号航班坠入圣保罗/瓜鲁柳斯国际机场附近的贫民窟，造成 25 人死亡。
-- - 1986 年：黛比·托马斯 (Debi Thomas) 成为第一位赢得世界花样滑冰锦标赛冠军的非裔美国人。
-- - 1985 年：加拿大截瘫运动员和人道主义者 Rick Hansen 以脊髓损伤医学研究的名义开始坐在轮椅上环球航行。
-- - 1983 年：1983 年西岸昏厥流行病的第一批病例开始出现；以色列人和巴勒斯坦人互相指责对方使用毒气，但后来确定原因主要是心身问题。
-- - 1980 年：冷战：美国总统吉米·卡特宣布美国抵制 1980 年莫斯科夏季奥运会，以抗议苏阿战争。
-- - 1970 年：世界上最大的流行文化节圣地亚哥动漫展举办了首届活动。
-- - 1970 年：旧金山市长 Joseph Alioto 发布了第一个地球日公告。
-- - 1968 年：以色列国防军与约旦武装部队和巴解组织联合部队在约旦发生卡拉梅战役。
-- - 1965 年：小马丁·路德·金 (Martin Luther King Jr.) 带领 3,200 人发起了第三次民权游行，从塞尔玛到阿拉巴马州蒙哥马利，最终取得了成功。
-- - 1965 年：游侠计划：美国宇航局发射游侠 9 号，这是一系列无人月球太空探测器中的最后一个。
-- - 1963 年：恶魔岛联邦监狱关闭。
-- - 1960 年：种族隔离：南非沙佩维尔大屠杀：警察向一群南非黑人示威者开枪，造成 69 人死亡、180 人受伤。
-- - 1952 年：艾伦·弗里德 (Alan Freed) 在俄亥俄州克利夫兰举办了 Moondog 加冕舞会，这是第一场摇滚音乐会。
-- - 1946 年：洛杉矶公羊队签下肯尼·华盛顿，使他成为自 1933 年以来第一位进入职业美式橄榄球的非洲裔美国球员。
-- - 1945 年：第二次世界大战：保加利亚和苏联成功完成了对德拉瓦河北岸的防御，跨多瑙河山战役结束。
-- - 1945 年：第二次世界大战：迦太基行动：英国皇家空军飞机轰炸了位于丹麦哥本哈根的盖世太保总部。他们还意外击中了一所学校，造成 125 名平民死亡。
-- - 1945 年：第二次世界大战：英国军队解放缅甸曼德勒。
-- - 1943年：国防军军官鲁道夫·冯·格斯多夫密谋使用自杀式炸弹刺杀阿道夫·希特勒，但计划失败；冯·格斯多夫及时拆除了炸弹，避免了嫌疑。
-- - 1937 年：庞塞大屠杀：波多黎各庞塞的 19 名手无寸铁的平民在美国任命的总督布兰顿·温希普下令的恐怖袭击中被警察枪杀。
-- - 1935 年：伊朗国王礼萨·沙阿·巴列维正式要求国际社会使用波斯的本土名称“伊朗”。
-- - 1934 年：约翰·莱瑟姆 (John Latham) 领导的具有里程碑意义的澳大利亚东方传教团启程，开始为期三个月的东亚和东南亚之旅。
-- - 1928 年：查尔斯·林德伯格 (Charles Lindbergh) 因首次独自跨大西洋飞行而被授予荣誉勋章。
-- - 1925 年：拉威尔的歌剧《孩子与排序》（L'enfant et les sortilèges）在蒙特卡洛歌剧院首演，剧本由科莱特创作。
+- - 2024 年：俄罗斯克拉斯诺戈尔斯克克洛库斯市政厅发生爆炸和大规模枪击事件，造成至少 145 人死亡、551 人受伤。
+- - 2021 年：科罗拉多州博尔德发生大规模枪击事件，造成 10 人死亡。
+- - 2020 年：希腊总理基里亚科斯·米佐塔基斯 (Kyriakos Mitsotakis) 宣布全国封锁和该国首次自我实施宵禁，以抗击 COVID-19 的传播。
+- - 2020 年：印度总理纳伦德拉·莫迪 (Narendra Modi) 宣布该国有史以来最大规模的自我实施宵禁，以遏制 COVID-19 的传播。
+- - 2019年：两辆巴士在加纳首都阿克拉以北的基坦波镇相撞，造成至少50人死亡。
+- - 2019年：特别检察官对2016年美国总统选举的调查结束，罗伯特·穆勒向美国司法部长提交了报告。
+- - 2017 年：叙利亚内战：美国空军直升机将 500 名叙利亚民主力量 (SDF) 成员空运到幼发拉底河以南，塔布卡战役开始。
+- - 2017 年：伦敦议会大厦附近发生恐怖袭击，造成 4 人死亡、至少 20 人受伤。
+- - 2016 年：2016 年布鲁塞尔机场和马尔贝克/马尔贝克地铁站爆炸案中，三名自杀式炸弹袭击者造成 32 人死亡、316 人受伤。
+- - 2013 年：泰国 Ban Mae 附近一座缅甸难民营地发生火灾，造成至少 37 人死亡、200 人受伤。
+- - 2006 年：英国军队在巴格达释放了三名基督教和平缔造者小组 (CPT) 人质，他们的美国同事汤姆·福克斯 (Tom Fox) 被囚禁了 118 天并被谋杀。
+- - 2004年：巴勒斯坦逊尼派伊斯兰组织哈马斯联合创始人兼领导人艾哈迈德·亚辛、两名保镖和九名平民旁观者在加沙地带被以色列空军地狱火导弹击中身亡。
+- - 1997 年：海尔-波普彗星在 1.315 个天文单位处到达最接近地球的位置。
+- - 1997 年：14 岁零 9 个月的塔拉·利平斯基 (Tara Lipinski) 成为最年轻的女子花样滑冰世界冠军。
+- - 1996 年：NASA 亚特兰蒂斯号航天飞机发射升空，执行其第 16 次任务，STS-76。
+- - 1995 年：宇航员瓦列里·波利亚科夫 (Valeri Polyakov) 在创造了在太空停留 438 天的记录后返回地球。
+- - 1993 年：英特尔公司推出第一批奔腾芯片 (80586)，具有 60 MHz 时钟速度、100+ MIPS 和 64 位数据路径。
+- - 1992年：阿尔巴尼亚共产主义垮台：阿尔巴尼亚民主党在议会选举中赢得决定性多数。
+- - 1992 年：美国航空 405 号航班从纽约拉瓜迪亚机场起飞后不久坠毁，引发了一系列关于冰对飞机影响的研究。
+- - 1988 年：美国国会投票推翻罗纳德·里根总统对 1987 年《民权恢复法案》的否决。
+- - 1982 年：美国宇航局哥伦比亚号航天飞机从肯尼迪航天中心发射升空，执行其第三次任务 STS-3。
+- - 1978 年：The Flying Wallendas 的 Karl Wallenda 从悬挂在波多黎各圣胡安两家酒店之间的钢丝上坠落身亡。
+- - 1975 年：阿拉巴马州迪凯特的布朗斯费里核电站发生火灾，导致冷却水位严重下降。
+- - 1972 年：在艾森斯塔特诉贝尔德案中，美国最高法院裁定未婚者有权拥有避孕药具。
+- - 1972 年：美国国会将《平等权利修正案》送交各州批准。
+- - 1963 年：披头士乐队发行首张专辑 Please Please Me。
+- - 1960 年：Arthur Leonard Schawlow 和 Charles Hard Townes 获得第一个激光器专利。
+- - 1957 年：一架美国空军飞机在太平洋上空失踪，机上载有 67 名乘客。
+- - 1955 年：一架美国海军道格拉斯 R6D-1 Liftmaster 坠入夏威夷怀阿奈山脉，造成 66 人死亡。
+- - 1946 年：英国给予外约旦完全独立。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-03-21 02:23:17 UTC）*
+*（更新于: 2026-03-22 02:37:45 UTC）*
