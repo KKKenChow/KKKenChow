@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: The 2024 Senegalese presidential election is held following anti-government protests.
-- 2023: An EF4 tornado strikes the towns of Rolling Fork and Silver City, Mississippi, causing mass destruction.
-- 2019: Jakarta MRT, a rapid transit system in Jakarta, began operation.
-- 2018: Students across the United States stage the March for Our Lives demanding gun control in response to the Stoneman Douglas High School shooting.
-- 2018: Syrian civil war: The Turkish Armed Forces (TAF) and Syrian National Army (SNA) take full control of Afrin District, marking the end of the Afrin offensive.
-- 2015: Germanwings Flight 9525 crashes in the French Alps in an apparent pilot mass murder-suicide, killing all 150 people on board.
-- 2008: Bhutan officially becomes a democracy, with its first ever general election.
-- 2003: The Arab League votes 21-1 in favor of a resolution demanding an end to the 2003 invasion of Iraq.
-- 1999: A lorry carrying margarine and flour catches fire inside the Mont Blanc Tunnel, creating an inferno that kills 39 people.
-- 1999: Kosovo War: NATO began attacks on Yugoslavia without United Nations Security Council (UNSC) approval, marking the first time NATO has attacked a sovereign country.
-- 1998: Dr. Rüdiger Marmulla performed the first computer-assisted Bone Segment Navigation at the University of Regensburg, Germany.
-- 1998: A tornado sweeps through Dantan in India, killing 250 people and injuring 3,000 others.
-- 1998: Mitchell Johnson and Andrew Golden, aged 11 and 13 respectively, open fire upon teachers and students at Westside Middle School in Jonesboro, Arkansas; five people are killed and ten are wounded.
-- 1993: Comet Shoemaker-Levy 9 is discovered by Carolyn and Eugene Shoemaker, and David Levy at the Palomar Observatory in California.
-- 1992: Space Shuttle Atlantis launches on STS-45.
-- 1990: Indian intervention in the Sri Lankan Civil War ends with last ship of Indian Peace Keeping Force leaving Sri Lanka.
-- 1989: In Prince William Sound in Alaska, the Exxon Valdez spills 240,000 barrels (38,000 m3) of crude oil after running aground.
-- 1986: The Loscoe gas explosion leads to new UK laws on landfill gas migration and gas protection on landfill sites.
-- 1982: Bangladeshi President Abdus Sattar is deposed in a bloodless coup led by Army Chief Lieutenant general Hussain Muhammad Ershad, who suspends the Constitution and imposes martial law.
-- 1980: El Salvadorian Archbishop Óscar Romero is assassinated while celebrating Mass in San Salvador.
-- 1977: Morarji Desai became the prime minister of India, the first prime minister not to belong to Indian National Congress.
-- 1976: In Argentina, the armed forces overthrow the constitutional government of President Isabel Perón and start a seven-year dictatorial period self-styled the National Reorganization Process.
-- 1972: Direct rule is imposed on Northern Ireland by the Government of the United Kingdom under Edward Heath.
-- 1961: The Quebec Board of the French Language is established.
-- 1949: Hanns Albin Rauter, a chief SS and Police Leader, in the Netherlands, is convicted and executed for crimes against humanity.
-- 1946: A British Cabinet Mission arrives in India to discuss and plan for the transfer of power from the British Raj to Indian leadership.
-- 1944: World War II: In an event later dramatized in the movie The Great Escape, 76 Allied prisoners of war begin breaking out of the German camp Stalag Luft III.
-- 1944: German troops massacre 335 Italian civilians in Rome.
-- 1939: The 1939 Liechtenstein putsch takes place; approximately 40 members of the VBDL starting from Nendeln march towards Vaduz with the intention of overthrowing the government and provoking Liechtenstein's annexation into Germany.
-- 1934: The Tydings-McDuffie Act is passed by the United States Congress, allowing the Philippines to become a self-governing commonwealth.
+- 2018: Syrian civil war: Following the completion of the Afrin offensive, the Syrian Democratic Forces (SDF) initiate an insurgency against the Turkish occupation of the Afrin District.
+- 2006: Protesters demanding a new election in Belarus, following the rigged 2006 Belarusian presidential election, clash with riot police. Opposition leader Aleksander Kozulin is among several protesters arrested.
+- 2006: Capitol Hill massacre: A gunman kills six people before taking his own life at a party in Seattle's Capitol Hill neighborhood.
+- 1996: The European Union's Veterinarian Committee bans the export of British beef and its by-products as a result of mad cow disease (Bovine spongiform encephalopathy).
+- 1995: WikiWikiWeb, the world's first wiki, and part of the Portland Pattern Repository, is made public by Ward Cunningham.
+- 1988: The Candle demonstration in Bratislava is the first mass demonstration of the 1980s against the communist regime in Czechoslovakia.
+- 1979: The first fully functional Space Shuttle orbiter, Columbia, is delivered to the John F. Kennedy Space Center to be prepared for its first launch.
+- 1975: Faisal of Saudi Arabia is shot and killed by his nephew.
+- 1971: The Army of the Republic of Vietnam abandon an attempt to cut off the Ho Chi Minh trail in Laos.
+- 1965: Civil rights activists led by Martin Luther King Jr. successfully complete their 4-day 50-mile (80 km) march from Selma to the capitol in Montgomery, Alabama.
+- 1959: Chain Island is sold by the State of California to Russell Gallaway III, a Sacramento businessman who plans to use it as a "hunting and fishing retreat", for $5,258.20 ($58,072 in 2025).
+- 1957: The European Economic Community is established with West Germany, France, Italy, Belgium, Netherlands and Luxembourg as the first members.
+- 1957: United States Customs seizes copies of Allen Ginsberg's poem "Howl" on obscenity grounds.
+- 1949: More than 92,000 kulaks are suddenly deported from the Baltic states to Siberia.
+- 1948: The first successful tornado forecast predicts that a tornado will strike Tinker Air Force Base, Oklahoma.
+- 1947: An explosion in a coal mine in Centralia, Illinois kills 111.
+- 1941: The Kingdom of Yugoslavia joins the Axis powers with the signing of the Tripartite Pact.
+- 1932: The Tomb of the Unknown Soldier is unveiled in Athens.
+- 1931: The Scottsboro Boys are arrested in Alabama and charged with rape.
+- 1924: On the anniversary of Greek Independence, Alexandros Papanastasiou proclaims the Second Hellenic Republic.
+- 1919: The Tetiev pogrom occurs in Ukraine, becoming the prototype of mass murder during the Holocaust.
+- 1918: The Belarusian People's Republic is established.
+- 1917: The Georgian Orthodox Church restores its autocephaly abolished by Imperial Russia in 1811.
+- 1914: The Greek multi-sport club Aris Thessaloniki is founded in Thessaloniki.
+- 1911: Andrey Yushchinsky is murdered in Kiev, leading to the Beilis affair.
+- 1911: In New York City, the Triangle Shirtwaist Factory fire kills 146 garment workers.
+- 1905: The Greek football club P.A.E. G.S. Diagoras is founded in the city of Rhodes.
+- 1894: Coxey's Army, the first significant American protest march, departs Massillon, Ohio for Washington, D.C.
+- 1878: Last issue of the Bulletin de la Fédération jurassienne, the first or one of the first anarchist newspapers.
+- 1865: American Civil War: In Virginia during the Siege of Petersburg, Confederate forces temporarily capture Fort Stedman from the Union before being repulsed.
 
 Data from muffinlabs
-*(Updated at: 2026-03-24 02:29:32 UTC)*
+*(Updated at: 2026-03-25 02:34:31 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：2024 年塞内加尔总统选举在反政府抗议后举行。
-- - 2023 年：EF4 龙卷风袭击密西西比州罗灵福克和银城城镇，造成大规模破坏。
-- - 2019年：雅加达捷运系统雅加达地铁开始运营。
-- - 2018 年：美国各地的学生举行“为我们的生命游行”活动，要求控制枪支，以应对斯通曼·道格拉斯高中枪击事件。
-- - 2018年：叙利亚内战：土耳其武装部队（TAF）和叙利亚国民军（SNA）完全控制阿夫林地区，标志着阿夫林攻势的结束。
-- - 2015 年：德国之翼 9525 号航班在法国阿尔卑斯山坠毁，飞行员疑似集体谋​​杀自杀，机上 150 人全部遇难。
-- - 2008 年：不丹举行首次大选，正式成为民主国家。
-- - 2003 年：阿拉伯联盟以 21 比 1 投票赞成一项要求结束 2003 年入侵伊拉克的决议。
-- - 1999 年：一辆载有人造黄油和面粉的卡车在勃朗峰隧道内着火，造成 39 人死亡。
-- - 1999年：科索沃战争：北约在未经联合国安理会（UNSC）批准的情况下开始袭击南斯拉夫，这是北约第一次袭击一个主权国家。
-- - 1998 年：Rüdiger Marmulla 博士在德国雷根斯堡大学进行了首例计算机辅助骨段导航。
-- - 1998 年：龙卷风席卷印度丹坦，造成 250 人死亡、3,000 人受伤。
-- - 1998 年：分别为 11 岁和 13 岁的米切尔·约翰逊 (Mitchell Johnson) 和安德鲁·戈尔登 (Andrew Golden) 在阿肯色州琼斯伯勒市西区中学向教师和学生开枪；五人死亡，十人受伤。
-- - 1993 年：舒梅克-利维 9 号彗星由卡罗琳·舒梅克、尤金·舒梅克和大卫·利维在加利福尼亚州帕洛玛天文台发现。
-- - 1992 年：亚特兰蒂斯号航天飞机搭载 STS-45 发射升空。
-- - 1990年：印度对斯里兰卡内战的干预随着印度维和部队最后一艘舰艇离开斯里兰卡而结束。
-- - 1989 年：在阿拉斯加的威廉王子湾，Exxon Valdez 号搁浅后泄漏了 240,000 桶（38,000 立方米）原油。
-- - 1986 年：Loscoe 气体爆炸导致英国制定了关于垃圾填埋场气体迁移和垃圾填埋场气体保护的新法律。
-- - 1982 年：孟加拉国总统阿卜杜勒·萨塔尔在陆军参谋长侯赛因·穆罕默德·艾尔沙德中将领导的一场不流血政变中被废黜，政变中止了宪法并实施戒严。
-- - 1980 年：萨尔瓦多大主教奥斯卡·罗梅罗在圣萨尔瓦多庆祝弥撒时被暗杀。
-- - 1977年：莫拉尔吉·德赛就任印度总理，是第一位不属于印度国大党的总理。
-- - 1976年：在阿根廷，武装部队推翻了伊莎贝尔·庇隆总统的宪政政府，开始了长达七年的独裁时期，自称为国家重组进程。
-- - 1972 年：爱德华·希思 (Edward Heath) 领导下的联合王国政府对北爱尔兰实行直接统治。
-- - 1961 年：魁北克法语委员会成立。
-- - 1949 年：荷兰党卫军首席兼警察领导人汉斯·阿尔宾·劳特 (Hanns Albin Rauter) 因反人类罪被定罪并处决。
-- - 1946 年：英国内阁代表团抵达印度，讨论和计划将权力从英属印度移交给印度领导层。
-- - 1944 年：第二次世界大战：在电影《大逃亡》中戏剧化的事件中，76 名盟军战俘开始逃离德国斯塔拉格·拉夫特三号 (Stalag Luft III) 集中营。
-- - 1944 年：德国军队在罗马屠杀了 335 名意大利平民。
-- - 1939 年：1939 年列支敦士登政变发生；大约40名VBDL成员从Nendeln出发向瓦杜兹进军，意图推翻政府并挑衅列支敦士登并入德国。
-- - 1934 年：美国国会通过《泰丁斯-麦克杜菲法案》，允许菲律宾成为一个自治联邦。
+- - 2018年：叙利亚内战：阿夫林攻势完成后，叙利亚民主力量（SDF）发起叛乱，反对土耳其占领阿夫林地区。
+- - 2006年：继2006年白俄罗斯总统选举被操纵后，要求在白俄罗斯举行新选举的抗议者与防暴警察发生冲突。反对派领袖亚历山大·科祖林是被捕的几名抗议者之一。
+- - 2006 年：国会山大屠杀：一名枪手在西雅图国会山附近的一次聚会上杀死了六人，然后结束了自己的生命。
+- - 1996 年：由于疯牛病（牛海绵状脑病），欧盟兽医委员会禁止出口英国牛肉及其副产品。
+- - 1995 年：WikiWikiWeb，世界上第一个 wiki，也是波特兰模式存储库的一部分，由 Ward Cunningham 公开。
+- - 1988年：布拉迪斯拉发的蜡烛示威是20世纪80年代第一次针对捷克斯洛伐克共产主义政权的大规模示威。
+- - 1979 年：第一架功能齐全的航天飞机轨道飞行器“哥伦比亚”被运送到约翰·F·肯尼迪航天中心，为首次发射做好准备。
+- - 1975年：沙特阿拉伯的费萨尔被他的侄子枪杀。
+- - 1971 年：越南共和国军队放弃切断老挝境内胡志明小道的企图。
+- - 1965 年：小马丁·路德·金领导的民权活动家成功完成了从塞尔玛到阿拉巴马州蒙哥马利国会大厦为期 4 天的 50 英里（80 公里）游行。
+- - 1959 年：链岛被加利福尼亚州以 5,258.20 美元（2025 年 58,072 美元）的价格出售给萨克拉门托商人 Russell Gallaway III，他计划将其用作“狩猎和钓鱼胜地”。
+- - 1957年：欧洲经济共同体成立，西德、法国、意大利、比利时、荷兰和卢森堡为首批成员。
+- - 1957 年：美国海关以淫秽为由没收了艾伦·金斯堡 (Allen Ginsberg) 的诗《嚎叫》(Howl)。
+- - 1949 年：超过 92,000 名富农突然从波罗的海国家流放到西伯利亚。
+- - 1948 年：第一次成功的龙卷风预报预测龙卷风将袭击俄克拉荷马州廷克空军基地。
+- - 1947 年：伊利诺伊州森特勒利亚的一座煤矿发生爆炸，造成 111 人死亡。
+- - 1941 年：南斯拉夫王国签署三方条约加入轴心国。
+- - 1932 年：无名烈士墓在雅典揭幕。
+- - 1931 年：斯科茨伯勒男孩在阿拉巴马州被捕并被指控强奸。
+- - 1924 年：在希腊独立周年纪念日，亚历山德罗斯·帕帕纳斯塔西奥 (Alexandros Papanastasiou) 宣布成立希腊第二共和国。
+- - 1919年：乌克兰发生捷季耶夫大屠杀，成为大屠杀期间大规模屠杀的原型。
+- - 1918年：白俄罗斯人民共和国成立。
+- - 1917 年：格鲁吉亚东正教恢复 1811 年被俄罗斯帝国废除的独立地位。
+- - 1914 年：希腊综合运动俱乐部 Aris Thessaloniki 在塞萨洛尼基成立。
+- - 1911 年：安德烈·尤申斯基 (Andrey Yushchinsky) 在基辅被谋杀，导致贝利斯事件。
+- - 1911 年：纽约市三角衬衫工厂火灾导致 146 名制衣工人死亡。
+- - 1905 年：希腊足球俱乐部 P.A.E.G.S. Diagoras 在罗德市成立。
+- - 1894 年：美国第一次重要的抗议游行考克西军队从俄亥俄州马西隆出发前往华盛顿特区。
+- - 1878 年：最后一期《侏罗纪联邦公报》，第一份或最早的无政府主义报纸之一。
+- - 1865 年：美国内战：在弗吉尼亚州，圣彼得堡围城战期间，南方邦军暂时从联邦手中夺取了斯特德曼堡，然后被击退。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-03-24 02:29:32 UTC）*
+*（更新于: 2026-03-25 02:34:31 UTC）*
