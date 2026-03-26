@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2018: Syrian civil war: Following the completion of the Afrin offensive, the Syrian Democratic Forces (SDF) initiate an insurgency against the Turkish occupation of the Afrin District.
-- 2006: Protesters demanding a new election in Belarus, following the rigged 2006 Belarusian presidential election, clash with riot police. Opposition leader Aleksander Kozulin is among several protesters arrested.
-- 2006: Capitol Hill massacre: A gunman kills six people before taking his own life at a party in Seattle's Capitol Hill neighborhood.
-- 1996: The European Union's Veterinarian Committee bans the export of British beef and its by-products as a result of mad cow disease (Bovine spongiform encephalopathy).
-- 1995: WikiWikiWeb, the world's first wiki, and part of the Portland Pattern Repository, is made public by Ward Cunningham.
-- 1988: The Candle demonstration in Bratislava is the first mass demonstration of the 1980s against the communist regime in Czechoslovakia.
-- 1979: The first fully functional Space Shuttle orbiter, Columbia, is delivered to the John F. Kennedy Space Center to be prepared for its first launch.
-- 1975: Faisal of Saudi Arabia is shot and killed by his nephew.
-- 1971: The Army of the Republic of Vietnam abandon an attempt to cut off the Ho Chi Minh trail in Laos.
-- 1965: Civil rights activists led by Martin Luther King Jr. successfully complete their 4-day 50-mile (80 km) march from Selma to the capitol in Montgomery, Alabama.
-- 1959: Chain Island is sold by the State of California to Russell Gallaway III, a Sacramento businessman who plans to use it as a "hunting and fishing retreat", for $5,258.20 ($58,072 in 2025).
-- 1957: The European Economic Community is established with West Germany, France, Italy, Belgium, Netherlands and Luxembourg as the first members.
-- 1957: United States Customs seizes copies of Allen Ginsberg's poem "Howl" on obscenity grounds.
-- 1949: More than 92,000 kulaks are suddenly deported from the Baltic states to Siberia.
-- 1948: The first successful tornado forecast predicts that a tornado will strike Tinker Air Force Base, Oklahoma.
-- 1947: An explosion in a coal mine in Centralia, Illinois kills 111.
-- 1941: The Kingdom of Yugoslavia joins the Axis powers with the signing of the Tripartite Pact.
-- 1932: The Tomb of the Unknown Soldier is unveiled in Athens.
-- 1931: The Scottsboro Boys are arrested in Alabama and charged with rape.
-- 1924: On the anniversary of Greek Independence, Alexandros Papanastasiou proclaims the Second Hellenic Republic.
-- 1919: The Tetiev pogrom occurs in Ukraine, becoming the prototype of mass murder during the Holocaust.
-- 1918: The Belarusian People's Republic is established.
-- 1917: The Georgian Orthodox Church restores its autocephaly abolished by Imperial Russia in 1811.
-- 1914: The Greek multi-sport club Aris Thessaloniki is founded in Thessaloniki.
-- 1911: Andrey Yushchinsky is murdered in Kiev, leading to the Beilis affair.
-- 1911: In New York City, the Triangle Shirtwaist Factory fire kills 146 garment workers.
-- 1905: The Greek football club P.A.E. G.S. Diagoras is founded in the city of Rhodes.
-- 1894: Coxey's Army, the first significant American protest march, departs Massillon, Ohio for Washington, D.C.
-- 1878: Last issue of the Bulletin de la Fédération jurassienne, the first or one of the first anarchist newspapers.
-- 1865: American Civil War: In Virginia during the Siege of Petersburg, Confederate forces temporarily capture Fort Stedman from the Union before being repulsed.
+- 2024: The Francis Scott Key Bridge collapses following a collision between the MV Dali container ship and one of the bridge's support pillars, killing 6 people.
+- 2017: Russia-wide anti-corruption protests in 99 cities. The Levada Center survey showed that 38% of surveyed Russians supported protests and that 67 percent held Putin personally responsible for high-level corruption.
+- 2010: The South Korean Navy corvette Cheonan is torpedoed, killing 46 sailors. After an international investigation, the President of the United Nations Security Council blames North Korea.
+- 2005: Around 200,000 to 300,000 Taiwanese demonstrate in Taipei in opposition to the Anti-Secession Law of  China.
+- 1998: During the Algerian Civil War, the Oued Bouaicha massacre sees fifty-two people, mostly infants, killed with axes and knives.
+- 1997: Thirty-nine bodies are found in the Heaven's Gate mass suicides.
+- 1991: Singapore Airlines Flight 117 is hijacked by four Pakistani terrorists and diverted to Changi Airport.
+- 1991: Argentina, Brazil, Uruguay and Paraguay sign the Treaty of Asunción, establishing Mercosur, the South Common Market.
+- 1982: A groundbreaking ceremony for the Vietnam Veterans Memorial is held in Washington, D.C.
+- 1981: Social Democratic Party (UK) is founded as a party.
+- 1979: An Interflug Ilyushin Il-18 crashes at Quatro de Fevereiro Airport during a rejected takeoff, killing 10.
+- 1979: Anwar al-Sadat, Menachem Begin and Jimmy Carter sign the Egypt-Israel peace treaty in Washington, D.C.
+- 1975: The Biological Weapons Convention comes into force.
+- 1971: East Pakistan, then province of Pakistan, declares its independence from Pakistan to form Bangladesh; the Bangladesh's War of Independence begins.
+- 1970: South Vietnamese President Nguyễn Văn Thiệu implements a land reform program to solve the problem of land tenancy.
+- 1967: Ten thousand people gather for one of many Central Park be-ins in New York City.
+- 1958: The African Regroupment Party is launched at a meeting in Paris.
+- 1958: The United States Army launches Explorer 3.
+- 1955: Pan Am Flight 845/26 ditches in the Pacific Ocean off the coast of Oregon, killing four.
+- 1954: Nuclear weapons testing: The Romeo shot of Operation Castle is detonated at Bikini Atoll. Yield: 11 megatons.
+- 1945: World War II: The Battle of Iwo Jima ends as the island is officially secured by American forces.
+- 1942: World War II: The first female prisoners arrive at Auschwitz concentration camp in German-occupied Poland.
+- 1939: Spanish Civil War: Nationalists begin their final offensive of the war.
+- 1934: The United Kingdom driving test is introduced.
+- 1931: Ho Chi Minh Communist Youth Union is founded in Vietnam.
+- 1931: Swissair is founded as the national airline of Switzerland.
+- 1922: The German Social Democratic Party is founded in Poland.
+- 1917: World War I: First Battle of Gaza: British troops are halted after 17,000 Turks block their advance.
+- 1915: The Vancouver Millionaires win the 1915 Stanley Cup Finals, the first championship played between the Pacific Coast Hockey Association and the National Hockey Association.
+- 1913: First Balkan War: Bulgarian forces capture Adrianople.
 
 Data from muffinlabs
-*(Updated at: 2026-03-25 02:34:31 UTC)*
+*(Updated at: 2026-03-26 02:41:52 UTC)*
 
 # 历史上的今天 
 
-- - 2018年：叙利亚内战：阿夫林攻势完成后，叙利亚民主力量（SDF）发起叛乱，反对土耳其占领阿夫林地区。
-- - 2006年：继2006年白俄罗斯总统选举被操纵后，要求在白俄罗斯举行新选举的抗议者与防暴警察发生冲突。反对派领袖亚历山大·科祖林是被捕的几名抗议者之一。
-- - 2006 年：国会山大屠杀：一名枪手在西雅图国会山附近的一次聚会上杀死了六人，然后结束了自己的生命。
-- - 1996 年：由于疯牛病（牛海绵状脑病），欧盟兽医委员会禁止出口英国牛肉及其副产品。
-- - 1995 年：WikiWikiWeb，世界上第一个 wiki，也是波特兰模式存储库的一部分，由 Ward Cunningham 公开。
-- - 1988年：布拉迪斯拉发的蜡烛示威是20世纪80年代第一次针对捷克斯洛伐克共产主义政权的大规模示威。
-- - 1979 年：第一架功能齐全的航天飞机轨道飞行器“哥伦比亚”被运送到约翰·F·肯尼迪航天中心，为首次发射做好准备。
-- - 1975年：沙特阿拉伯的费萨尔被他的侄子枪杀。
-- - 1971 年：越南共和国军队放弃切断老挝境内胡志明小道的企图。
-- - 1965 年：小马丁·路德·金领导的民权活动家成功完成了从塞尔玛到阿拉巴马州蒙哥马利国会大厦为期 4 天的 50 英里（80 公里）游行。
-- - 1959 年：链岛被加利福尼亚州以 5,258.20 美元（2025 年 58,072 美元）的价格出售给萨克拉门托商人 Russell Gallaway III，他计划将其用作“狩猎和钓鱼胜地”。
-- - 1957年：欧洲经济共同体成立，西德、法国、意大利、比利时、荷兰和卢森堡为首批成员。
-- - 1957 年：美国海关以淫秽为由没收了艾伦·金斯堡 (Allen Ginsberg) 的诗《嚎叫》(Howl)。
-- - 1949 年：超过 92,000 名富农突然从波罗的海国家流放到西伯利亚。
-- - 1948 年：第一次成功的龙卷风预报预测龙卷风将袭击俄克拉荷马州廷克空军基地。
-- - 1947 年：伊利诺伊州森特勒利亚的一座煤矿发生爆炸，造成 111 人死亡。
-- - 1941 年：南斯拉夫王国签署三方条约加入轴心国。
-- - 1932 年：无名烈士墓在雅典揭幕。
-- - 1931 年：斯科茨伯勒男孩在阿拉巴马州被捕并被指控强奸。
-- - 1924 年：在希腊独立周年纪念日，亚历山德罗斯·帕帕纳斯塔西奥 (Alexandros Papanastasiou) 宣布成立希腊第二共和国。
-- - 1919年：乌克兰发生捷季耶夫大屠杀，成为大屠杀期间大规模屠杀的原型。
-- - 1918年：白俄罗斯人民共和国成立。
-- - 1917 年：格鲁吉亚东正教恢复 1811 年被俄罗斯帝国废除的独立地位。
-- - 1914 年：希腊综合运动俱乐部 Aris Thessaloniki 在塞萨洛尼基成立。
-- - 1911 年：安德烈·尤申斯基 (Andrey Yushchinsky) 在基辅被谋杀，导致贝利斯事件。
-- - 1911 年：纽约市三角衬衫工厂火灾导致 146 名制衣工人死亡。
-- - 1905 年：希腊足球俱乐部 P.A.E.G.S. Diagoras 在罗德市成立。
-- - 1894 年：美国第一次重要的抗议游行考克西军队从俄亥俄州马西隆出发前往华盛顿特区。
-- - 1878 年：最后一期《侏罗纪联邦公报》，第一份或最早的无政府主义报纸之一。
-- - 1865 年：美国内战：在弗吉尼亚州，圣彼得堡围城战期间，南方邦军暂时从联邦手中夺取了斯特德曼堡，然后被击退。
+- - 2024 年：MV Dali 集装箱船与大桥一根支柱相撞后，弗朗西斯·斯科特大桥倒塌，造成 6 人死亡。
+- - 2017年：俄罗斯99个城市爆发反腐败抗议活动。列瓦达中心的调查显示，38%的受访俄罗斯人支持抗议活动，67%的人认为普京个人对高层腐败负有责任。
+- - 2010 年：韩国海军天安号护卫舰被鱼雷击中，造成 46 名水手死亡。经过国际调查后，联合国安理会主席指责朝鲜。
+- - 2005年：大约20万至30万台湾人在台北举行示威，反对中国的《反分裂国家法》。
+- - 1998 年：阿尔及利亚内战期间，Oued Bouaicha 大屠杀导致 52 人被斧头和刀杀害，其中大部分是婴儿。
+- - 1997年：天堂之门大规模自杀事件中发现三十九具尸体。
+- - 1991年：新加坡航空117号航班被四名巴基斯坦恐怖分子劫持并改道飞往樟宜机场。
+- - 1991 年：阿根廷、巴西、乌拉圭和巴拉圭签署《亚松森条约》，建立南方共同市场。
+- - 1982 年：越战纪念碑奠基仪式在华盛顿特区举行
+- - 1981 年：社会民主党（英国）成立。
+- - 1979 年：一架 Interflug Ilyushin Il-18 在 Quatro de Fevereiro 机场起飞失败时坠毁，造成 10 人死亡。
+- - 1979 年：安瓦尔·萨达特、梅纳赫姆·贝京和吉米·卡特在华盛顿特区签署埃以和平条约
+- - 1975 年：《生物武器公约》生效。
+- - 1971年：东巴基斯坦（当时的巴基斯坦省）宣布从巴基斯坦独立，成立孟加拉国；孟加拉国独立战争开始。
+- - 1970年：南越总统阮文绍实施土地改革计划以解决土地租赁问题。
+- - 1967 年：一万人聚集在纽约中央公园的众多聚会之一。
+- - 1958 年：非洲重组党在巴黎的一次会议上成立。
+- - 1958 年：美国陆军推出 Explorer 3。
+- - 1955 年：泛美航空 845/26 航班在俄勒冈州海岸附近的太平洋上迫降，造成四人死亡。
+- - 1954 年：核武器试验：城堡行动中的罗密欧炮弹在比基尼环礁引爆。产量：11兆吨。
+- - 1945 年：第二次世界大战：硫磺岛战役结束，美军正式占领该岛。
+- - 1942 年：第二次世界大战：第一批女囚犯抵达德占波兰的奥斯威辛集中营。
+- - 1939 年：西班牙内战：民族主义者开始发动最后的战争攻势。
+- - 1934 年：英国引入驾驶考试。
+- - 1931年：胡志明共产主义青年团在越南成立。
+- - 1931 年：瑞士航空成立，成为瑞士国家航空公司。
+- - 1922年：德国社会民主党在波兰成立。
+- - 1917 年：第一次世界大战：第一次加沙之战：英国军队因 17,000 名土耳其人阻挡前进而停止。
+- - 1915 年：温哥华百万富翁队赢得 1915 年斯坦利杯决赛，这是太平洋海岸曲棍球协会和国家曲棍球协会之间举行的首个冠军赛。
+- - 1913 年：第一次巴尔干战争：保加利亚军队占领阿德里安堡。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-03-25 02:34:31 UTC）*
+*（更新于: 2026-03-26 02:41:52 UTC）*
