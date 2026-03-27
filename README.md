@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: The Francis Scott Key Bridge collapses following a collision between the MV Dali container ship and one of the bridge's support pillars, killing 6 people.
-- 2017: Russia-wide anti-corruption protests in 99 cities. The Levada Center survey showed that 38% of surveyed Russians supported protests and that 67 percent held Putin personally responsible for high-level corruption.
-- 2010: The South Korean Navy corvette Cheonan is torpedoed, killing 46 sailors. After an international investigation, the President of the United Nations Security Council blames North Korea.
-- 2005: Around 200,000 to 300,000 Taiwanese demonstrate in Taipei in opposition to the Anti-Secession Law of  China.
-- 1998: During the Algerian Civil War, the Oued Bouaicha massacre sees fifty-two people, mostly infants, killed with axes and knives.
-- 1997: Thirty-nine bodies are found in the Heaven's Gate mass suicides.
-- 1991: Singapore Airlines Flight 117 is hijacked by four Pakistani terrorists and diverted to Changi Airport.
-- 1991: Argentina, Brazil, Uruguay and Paraguay sign the Treaty of Asunción, establishing Mercosur, the South Common Market.
-- 1982: A groundbreaking ceremony for the Vietnam Veterans Memorial is held in Washington, D.C.
-- 1981: Social Democratic Party (UK) is founded as a party.
-- 1979: An Interflug Ilyushin Il-18 crashes at Quatro de Fevereiro Airport during a rejected takeoff, killing 10.
-- 1979: Anwar al-Sadat, Menachem Begin and Jimmy Carter sign the Egypt-Israel peace treaty in Washington, D.C.
-- 1975: The Biological Weapons Convention comes into force.
-- 1971: East Pakistan, then province of Pakistan, declares its independence from Pakistan to form Bangladesh; the Bangladesh's War of Independence begins.
-- 1970: South Vietnamese President Nguyễn Văn Thiệu implements a land reform program to solve the problem of land tenancy.
-- 1967: Ten thousand people gather for one of many Central Park be-ins in New York City.
-- 1958: The African Regroupment Party is launched at a meeting in Paris.
-- 1958: The United States Army launches Explorer 3.
-- 1955: Pan Am Flight 845/26 ditches in the Pacific Ocean off the coast of Oregon, killing four.
-- 1954: Nuclear weapons testing: The Romeo shot of Operation Castle is detonated at Bikini Atoll. Yield: 11 megatons.
-- 1945: World War II: The Battle of Iwo Jima ends as the island is officially secured by American forces.
-- 1942: World War II: The first female prisoners arrive at Auschwitz concentration camp in German-occupied Poland.
-- 1939: Spanish Civil War: Nationalists begin their final offensive of the war.
-- 1934: The United Kingdom driving test is introduced.
-- 1931: Ho Chi Minh Communist Youth Union is founded in Vietnam.
-- 1931: Swissair is founded as the national airline of Switzerland.
-- 1922: The German Social Democratic Party is founded in Poland.
-- 1917: World War I: First Battle of Gaza: British troops are halted after 17,000 Turks block their advance.
-- 1915: The Vancouver Millionaires win the 1915 Stanley Cup Finals, the first championship played between the Pacific Coast Hockey Association and the National Hockey Association.
-- 1913: First Balkan War: Bulgarian forces capture Adrianople.
+- 2023: Forty people are killed in a fire at a migrant detention facility in Ciudad Juárez, Mexico.
+- 2023: Seven people, including the perpetrator, are killed in a mass shooting at the Covenant School in Nashville, Tennessee.
+- 2020: North Macedonia becomes the 30th member of NATO.
+- 2016: A suicide blast in Gulshan-e-Iqbal Park, Lahore claims over 70 lives and leaves almost 300 others injured. The target of the bombing are Christians celebrating Easter.
+- 2015: Al-Shabab militants attack and temporarily occupy a Mogadishu hotel leaving at least 20 people dead.
+- 2014: Philippines signs a peace accord with the largest Muslim rebel group, the Moro Islamic Liberation Front, ending decades of conflict.
+- 2009: The dam forming Situ Gintung, an artificial lake in Indonesia, fails, killing at least 99 people.
+- 2004: HMS Scylla, a decommissioned Leander-class frigate, is sunk as an artificial reef off Cornwall, the first of its kind in Europe.
+- 2002: Nanterre massacre: In Nanterre, France, a gunman opens fire at the end of a town council meeting, resulting in the deaths of eight councilors; 19 other people are injured.
+- 2002: Passover massacre: A Palestinian suicide bomber kills 29 people at a Passover seder in Netanya, Israel.
+- 2000: A Phillips Petroleum plant explosion in Pasadena, Texas kills one person and injures 71 others.
+- 1999: Kosovo War: An American Lockheed F-117A Nighthawk is shot down by a Yugoslav Army SAM, the first and only Nighthawk to be lost in combat.
+- 1998: The Food and Drug Administration approves Viagra for use as a treatment for erectile dysfunction, the first pill to be approved for this condition in the United States.
+- 1993: Italian former minister and Christian Democracy leader Giulio Andreotti is accused of mafia allegiance by the tribunal of Palermo.
+- 1993: Jiang Zemin is appointed President of the People's Republic of China.
+- 1990: The United States begins broadcasting anti-Castro propaganda to Cuba on TV Martí.
+- 1986: A car bomb explodes outside Russell Street Police HQ in Melbourne, Australia, killing one police officer and injuring 21 people.
+- 1981: The Solidarity movement in Poland stages a warning strike, in which at least 12 million Poles walk off their jobs for four hours.
+- 1980: The Norwegian oil platform Alexander L. Kielland collapses in the North Sea, killing 123 of its crew of 212.
+- 1977: Tenerife airport disaster: Two Boeing 747 airliners collide on a foggy runway on Tenerife in the Canary Islands, killing 583 (all 248 on KLM and 335 on Pan Am). Sixty-one survived on the Pan Am flight. This is the deadliest aviation accident in history.
+- 1976: The first section of the Washington Metro opens to the public.
+- 1975: Construction of the Trans-Alaska Pipeline System begins.
+- 1964: The Good Friday earthquake, the most powerful earthquake recorded in North American history at a magnitude of 9.2 strikes Southcentral Alaska, killing 125 people and inflicting massive damage to the city of Anchorage.
+- 1958: Nikita Khrushchev becomes Chairman of the Council of Ministers of the Soviet Union.
+- 1945: World War II: Operation Starvation, the aerial mining of Japan's ports and waterways begins. Argentina declares war on the Axis Powers.
+- 1943: World War II: Battle of the Komandorski Islands: In the Aleutian Islands the battle begins when United States Navy forces intercept Japanese attempting to reinforce a garrison at Kiska.
+- 1942: The Holocaust: Nazi Germany and Vichy France begin the deportation of 65,000 Jews from Drancy internment camp to German extermination camps.
+- 1941: World War II: Yugoslav Air Force officers topple the pro-Axis government in a bloodless coup.
+- 1938: Second Sino-Japanese War: The Battle of Taierzhuang begins, resulting several weeks later in the war's first major Chinese victory over Japan.
+- 1933: Japanese invasion of Manchuria: Japan leaves the League of Nations after it approves the Lytton Report that ruled in favour of China.
 
 Data from muffinlabs
-*(Updated at: 2026-03-26 02:41:52 UTC)*
+*(Updated at: 2026-03-27 02:44:17 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：MV Dali 集装箱船与大桥一根支柱相撞后，弗朗西斯·斯科特大桥倒塌，造成 6 人死亡。
-- - 2017年：俄罗斯99个城市爆发反腐败抗议活动。列瓦达中心的调查显示，38%的受访俄罗斯人支持抗议活动，67%的人认为普京个人对高层腐败负有责任。
-- - 2010 年：韩国海军天安号护卫舰被鱼雷击中，造成 46 名水手死亡。经过国际调查后，联合国安理会主席指责朝鲜。
-- - 2005年：大约20万至30万台湾人在台北举行示威，反对中国的《反分裂国家法》。
-- - 1998 年：阿尔及利亚内战期间，Oued Bouaicha 大屠杀导致 52 人被斧头和刀杀害，其中大部分是婴儿。
-- - 1997年：天堂之门大规模自杀事件中发现三十九具尸体。
-- - 1991年：新加坡航空117号航班被四名巴基斯坦恐怖分子劫持并改道飞往樟宜机场。
-- - 1991 年：阿根廷、巴西、乌拉圭和巴拉圭签署《亚松森条约》，建立南方共同市场。
-- - 1982 年：越战纪念碑奠基仪式在华盛顿特区举行
-- - 1981 年：社会民主党（英国）成立。
-- - 1979 年：一架 Interflug Ilyushin Il-18 在 Quatro de Fevereiro 机场起飞失败时坠毁，造成 10 人死亡。
-- - 1979 年：安瓦尔·萨达特、梅纳赫姆·贝京和吉米·卡特在华盛顿特区签署埃以和平条约
-- - 1975 年：《生物武器公约》生效。
-- - 1971年：东巴基斯坦（当时的巴基斯坦省）宣布从巴基斯坦独立，成立孟加拉国；孟加拉国独立战争开始。
-- - 1970年：南越总统阮文绍实施土地改革计划以解决土地租赁问题。
-- - 1967 年：一万人聚集在纽约中央公园的众多聚会之一。
-- - 1958 年：非洲重组党在巴黎的一次会议上成立。
-- - 1958 年：美国陆军推出 Explorer 3。
-- - 1955 年：泛美航空 845/26 航班在俄勒冈州海岸附近的太平洋上迫降，造成四人死亡。
-- - 1954 年：核武器试验：城堡行动中的罗密欧炮弹在比基尼环礁引爆。产量：11兆吨。
-- - 1945 年：第二次世界大战：硫磺岛战役结束，美军正式占领该岛。
-- - 1942 年：第二次世界大战：第一批女囚犯抵达德占波兰的奥斯威辛集中营。
-- - 1939 年：西班牙内战：民族主义者开始发动最后的战争攻势。
-- - 1934 年：英国引入驾驶考试。
-- - 1931年：胡志明共产主义青年团在越南成立。
-- - 1931 年：瑞士航空成立，成为瑞士国家航空公司。
-- - 1922年：德国社会民主党在波兰成立。
-- - 1917 年：第一次世界大战：第一次加沙之战：英国军队因 17,000 名土耳其人阻挡前进而停止。
-- - 1915 年：温哥华百万富翁队赢得 1915 年斯坦利杯决赛，这是太平洋海岸曲棍球协会和国家曲棍球协会之间举行的首个冠军赛。
-- - 1913 年：第一次巴尔干战争：保加利亚军队占领阿德里安堡。
+- - 2023 年：墨西哥华雷斯城一处移民拘留设施发生火灾，造成 40 人死亡。
+- - 2023 年：田纳西州纳什维尔圣约学校发生大规模枪击事件，包括肇事者在内的 7 人死亡。
+- - 2020年：北马其顿成为北约第30个成员国。
+- - 2016 年：拉合尔 Gulshan-e-Iqbal 公园发生自杀式爆炸，造成 70 多人死亡，近 300 人受伤。爆炸的目标是庆祝复活节的基督徒。
+- - 2015 年：青年党武装分子袭击并暂时占领摩加迪沙一家酒店，造成至少 20 人死亡。
+- - 2014 年：菲律宾与最大的穆斯林反叛组织摩洛伊斯兰解放阵线签署和平协议，结束了数十年的冲突。
+- - 2009 年：印度尼西亚 Situ Gintung 人工湖的水坝溃坝，造成至少 99 人死亡。
+- - 2004 年：英国皇家海军锡拉号 (HMS Scylla) 是一艘退役的利安德级护卫舰，在康沃尔郡附近的人工鱼礁中沉没，这是欧洲首例此类事件。
+- - 2002年：楠泰尔大屠杀：在法国楠泰尔，一名枪手在镇议会会议结束时开枪，导致八名议员死亡；另有19人受伤。
+- - 2002 年：逾越节大屠杀：一名巴勒斯坦自杀式炸弹袭击者在以色列内坦亚的逾越节家宴上造成 29 人死亡。
+- - 2000 年：德克萨斯州帕萨迪纳市菲利普斯石油公司发生爆炸，造成 1 人死亡、71 人受伤。
+- - 1999 年：科索沃战争：一架美国洛克希德 F-117A 夜鹰被南斯拉夫陆军 SAM 击落，这是第一架也是唯一一架在战斗中损失的夜鹰。
+- - 1998 年：美国食品和药物管理局批准伟哥用于治疗勃起功能障碍，这是美国批准用于治疗这种疾病的第一种药物。
+- - 1993 年：意大利前部长、基督教民主党领袖朱利奥·安德烈奥蒂被巴勒莫法庭指控效忠黑手党。
+- - 1993年：江泽民被任命为中华人民共和国主席。
+- - 1990 年：美国开始在马蒂电视台向古巴播放反卡斯特罗宣传。
+- - 1986 年：澳大利亚墨尔本罗素街警察总部外发生汽车炸弹爆炸，造成 1 名警察死亡、21 人受伤。
+- - 1981 年：波兰团结工会发起警告性罢工，至少 1200 万波兰人罢工四个小时。
+- - 1980 年：挪威石油平台 Alexander L. Kielland 在北海倒塌，造成 212 名船员中的 123 人死亡。
+- - 1977 年：特内里费岛机场灾难：两架波音 747 客机在加那利群岛特内里费岛的一条雾蒙蒙的跑道上相撞，造成 583 人死亡（荷兰皇家航空 248 人，泛美航空 335 人）。泛美航空航班上有 61 人幸存。这是历史上最致命的航空事故。
+- - 1976 年：华盛顿地铁第一部分向公众开放。
+- - 1975 年：跨阿拉斯加管道系统开始建设。
+- - 1964 年：耶稣受难日地震，这是北美历史上有记录以来最强烈的 9.2 级地震，袭击了阿拉斯加中南部，造成 125 人死亡，并对安克雷奇市造成巨大破坏。
+- - 1958年：尼基塔·赫鲁晓夫成为苏联部长会议主席。
+- - 1945 年：第二次世界大战：饥饿行动，日本港口和水道开始空中布雷。阿根廷向轴心国宣战。
+- - 1943 年：第二次世界大战：科曼多尔斯基群岛之战：在阿留申群岛，美国海军拦截试图增援基斯卡驻军的日军，战斗由此开始。
+- - 1942 年：大屠杀：纳粹德国和维希法国开始将 65,000 名犹太人从德兰西拘留营驱逐到德国灭绝营。
+- - 1941 年：第二次世界大战：南斯拉夫空军军官在一场不流血的政变中推翻了亲轴心国政府。
+- - 1938 年：第二次中日战争：台儿庄战役开始，几周后中国首次取得对日本的重大胜利。
+- - 1933 年：日本入侵满洲：日本在批准有利于中国的利顿报告后退出国际联盟。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-03-26 02:41:52 UTC）*
+*（更新于: 2026-03-27 02:44:17 UTC）*
