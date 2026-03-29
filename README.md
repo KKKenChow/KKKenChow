@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: An earthquake strikes close to Mandalay, Myanmar with a magnitude of 7.7, killing over 100 people.
-- 2006: At least one million union members, students and unemployed take to the streets in France in protest at the government's proposed First Employment Contract law.
-- 2005: An earthquake shakes northern Sumatra with a magnitude of 8.6 and killing over 1000 people.
-- 2003: In a friendly fire incident, two American A-10 Thunderbolt II aircraft attack British tanks participating in the 2003 invasion of Iraq, killing one soldier.
-- 2001: Athens International Airport Eleftherios Venizelos begins operation.
-- 1999: Kosovo War: Serb paramilitary and military forces kill at least 130 Kosovo Albanians in Izbica.
-- 1994: In South Africa, African National Congress security guards kill dozens of Inkatha Freedom Party protesters.
-- 1990: United States President George H. W. Bush posthumously awards Jesse Owens the Congressional Gold Medal.
-- 1979: The British House of Commons passes a vote of no confidence against James Callaghan's government by one vote, precipitating a general election.
-- 1979: A coolant leak at the Three Mile Island's Unit 2 nuclear reactor outside Harrisburg, Pennsylvania leads to the core overheating and a partial meltdown.
-- 1978: The US Supreme Court hands down 5-3 decision in Stump v. Sparkman, a controversial case involving involuntary sterilization and judicial immunity.
-- 1970: An earthquake strikes western Turkey at about 23:05 local time, killing 1,086 and injuring at least 1,200.
-- 1969: Greek poet and Nobel Prize laureate Giorgos Seferis makes a famous statement on the BBC World Service opposing the junta in Greece.
-- 1968: Brazilian high school student Edson Luís de Lima Souto is killed by military police at a student protest.
-- 1965: An Mw  7.4 earthquake in Chile sets off a series of tailings dam failures, burying the town of El Cobre and killing at least 500 people.
-- 1961: ČSA Flight 511 crashes in Igensdorf, Germany, killing 52.
-- 1959: The State Council of the People's Republic of China dissolves the government of Tibet.
-- 1946: Cold War: The United States Department of State releases the Acheson-Lilienthal Report, outlining a plan for the international control of nuclear power.
-- 1942: World War II: A British combined force permanently disables the Louis Joubert Lock in Saint-Nazaire in order to keep the German battleship Tirpitz away from the mid-ocean convoy lanes.
-- 1941: World War II: First day of the Battle of Cape Matapan in Greece between the navies of the United Kingdom and Australia, and the Royal Italian navy.
-- 1939: Spanish Civil War: Generalissimo Francisco Franco conquers Madrid after a three-year siege.
-- 1933: The Imperial Airways biplane City of Liverpool is believed to be the first airliner lost to sabotage when a passenger sets a fire on board.
-- 1920: Palm Sunday tornado outbreak of 1920 affects the Great Lakes region and Deep South states.
-- 1918: Finnish Civil War: On the so-called "Bloody Maundy Thursday of Tampere", the Whites force the Reds to attack the city center, where the city's fiercest battles being fought in Kalevankangas with large casualties on both sides. During the same day, an explosion at the Red headquarters of Tampere kills several commanders.
-- 1918: General John J. Pershing, during World War I, cancels 42nd 'Rainbow' Division's orders to Rolampont for further training and diverted it to the occupy the Baccarat sector. Rainbow Division becomes "the first American division to take over an entire sector on its own, which it held longer than any other American division-occupied sector alone for a period of three months".
-- 1910: Henri Fabre becomes the first person to fly a seaplane, the Fabre Hydravion, after taking off from water runway Étang le Barre, near Marseille.
-- 1862: American Civil War: In the Battle of Glorieta Pass, Union forces stop the Confederate invasion of the New Mexico Territory. The battle began on March 26.
-- 1860: First Taranaki War: The Battle of Waireka begins.
-- 1854: Crimean War: France and Britain declare war on Russia.
-- 1842: First concert of the Vienna Philharmonic Orchestra, conducted by Otto Nicolai.
+- 2021: The ship Ever Given was dislodged from the Suez Canal.
+- 2017: Prime Minister Theresa May invokes Article 50 of the Treaty on European Union, formally beginning the United Kingdom's withdrawal from the European Union.
+- 2016: A United States Air Force F-16 crashes during takeoff from Bagram Airfield in Afghanistan.
+- 2015: Air Canada Flight 624 skids off the runway at Halifax Stanfield International Airport, after arriving from Toronto shortly past midnight. All 133 passengers and five crews on board survive, with 23 treated for minor injuries.
+- 2014: The first same-sex marriages in England and Wales are performed.
+- 2013: At least 36 people are killed when a 16-floor building collapses in the commercial capital Dar es Salaam, Tanzania.
+- 2010: Two suicide bombers hit the Moscow Metro system at the peak of the morning rush hour, killing 40.
+- 2004: The Council on Tall Buildings and Urban Habitat certifies Taipei 101 as the world's tallest building, based on the building having been topped out on 1 July 2003, even though the building was not completed until 31 December 2004.
+- 2004: Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia, and Slovenia join NATO as full members.
+- 2002: In reaction to the Passover massacre two days prior, Israel launches Operation Defensive Shield against Palestinian militants, its largest military operation in the West Bank since the 1967 Six-Day War.
+- 2001: A Gulfstream III crashes on approach to Aspen/Pitkin County Airport in Aspen, Colorado. All 18 people on board are killed.
+- 1999: A magnitude 6.8 earthquake in India strikes the Chamoli district in Uttar Pradesh, killing 103.
+- 1999: The Dow Jones Industrial Average closes above the 10,000 mark (10,006.78) for the first time, during the height of the dot-com bubble.
+- 1990: The Czechoslovak parliament is unable to reach an agreement on what to call the country after the fall of Communism, sparking the so-called Hyphen War.
+- 1984: The Baltimore Colts load its possessions onto fifteen Mayflower moving trucks in the early morning hours and transfer its operations to Indianapolis.
+- 1982: The Canada Act 1982 receives the Royal Assent from Queen Elizabeth II, setting the stage for the Queen of Canada to proclaim the Constitution Act, 1982.
+- 1979: Quebecair Flight 255 crashes after takeoff from Québec City Jean Lesage International Airport in Quebec City, killing 17.
+- 1974: Terracotta Army was discovered in Shaanxi province, China.
+- 1974: NASA's Mariner 10 becomes the first space probe to fly by Mercury.
+- 1973: Operation Barrel Roll, a covert American bombing campaign in Laos to stop communist infiltration of South Vietnam, ends.
+- 1973: Vietnam War: The last United States combat soldiers leave South Vietnam.
+- 1971: My Lai massacre: Lieutenant William Calley is convicted of premeditated murder and sentenced to life in prison.
+- 1968: The funeral of Yuri Gagarin, the first man in space, started in Moscow, with thousands of people in attendance.
+- 1962: Arturo Frondizi, the president of Argentina, is overthrown in a military coup by Argentina's armed forces, ending an .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}11+1⁄2 day constitutional crisis.
+- 1961: The Twenty-third Amendment to the United States Constitution is ratified, allowing residents of Washington, D.C., to vote in presidential elections.
+- 1957: The New York, Ontario and Western Railway makes its final run, the first major U.S. railroad to be abandoned in its entirety.
+- 1951: Hypnosis murders in Copenhagen.
+- 1951: Julius and Ethel Rosenberg are convicted of conspiracy to commit espionage.
+- 1947: The Malagasy Uprising against French colonial rule begins in Madagascar.
+- 1942: The Bombing of Lübeck in World War II is the first major success for the RAF Bomber Command against Germany and a German city.
 
 Data from muffinlabs
-*(Updated at: 2026-03-28 02:33:42 UTC)*
+*(Updated at: 2026-03-29 02:48:12 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：缅甸曼德勒附近发生里氏 7.7 级地震，造成 100 多人死亡。
-- - 2006年：至少一百万工会成员、学生和失业者走上法国街头，抗议政府提议的《首次就业合同法》。
-- - 2005 年：苏门答腊岛北部发生里氏 8.6 级地震，造成 1000 多人死亡。
-- - 2003年：在一次误伤事件中，两架美国A-10 Thunderbolt II飞机攻击了参加2003年入侵伊拉克的英国坦克，造成一名士兵死亡。
-- - 2001 年：雅典埃莱夫塞里奥斯·韦尼泽洛斯国际机场开始运营。
-- - 1999年：科索沃战争：塞族准军事部队和军队在伊兹比卡杀害了至少130名科索沃阿尔巴尼亚人。
-- - 1994 年：在南非，非洲人国民大会保安人员杀害了数十名因卡塔自由党抗议者。
-- - 1990 年：美国总统乔治·H·W·布什追授杰西·欧文斯国会金质奖章。
-- - 1979 年：英国下议院以一票之差通过了对詹姆斯​​·卡拉汉政府的不信任投票，从而引发了大选。
-- - 1979 年：宾夕法尼亚州哈里斯堡郊外的三哩岛 2 号核反应堆发生冷却剂泄漏，导致堆芯过热和部分熔毁。
-- - 1978 年：美国最高法院在 Stump 诉 Sparkman 案中以 5 比 3 的结果作出裁决，这是一起涉及非自愿绝育和司法豁免的争议案件。
-- - 1970 年：当地时间 23:05 左右，土耳其西部发生地震，造成 1,086 人死亡、至少 1,200 人受伤。
-- - 1969 年：希腊诗人、诺贝尔奖获得者乔治·塞费里斯 (Giorgos Seferis) 在 BBC 世界频道发表了反对希腊军政府的著名声明。
-- - 1968 年：巴西高中生埃德森·路易斯·德利马·苏托在一次学生抗议活动中被军警杀害。
-- - 1965 年：智利发生 7.4 级地震，引发一系列尾矿坝溃坝，掩埋了 El Cobre 镇，造成至少 500 人死亡。
-- - 1961 年：ČSA 511 航班在德国伊根斯多夫坠毁，造成 52 人死亡。
-- - 1959年：中华人民共和国国务院解散西藏政府。
-- - 1946 年：冷战：美国国务院发布艾奇逊-李林塔尔报告，概述了国际核电控制计划。
-- - 1942 年：第二次世界大战：英国联合部队永久禁用了圣纳泽尔的路易斯朱伯特船闸，以使德国战列舰提尔皮茨号远离大洋中的护航航道。
-- - 1941 年：第二次世界大战：英国、澳大利亚海军和意大利皇家海军在希腊马塔潘角海战的第一天。
-- - 1939 年：西班牙内战：弗朗西斯科·佛朗哥大元帅在经历了三年的围困后征服了马德里。
-- - 1933 年：利物浦市的帝国航空双翼飞机被认为是第一架因乘客在机上纵火而遭到破坏的客机。
-- - 1920 年：1920 年棕枝主日龙卷风爆发，影响了五大湖地区和南方腹地各州。
-- - 1918 年：芬兰内战：在所谓的“坦佩雷血腥濯足节”，白军迫使红军进攻市中心，该市最激烈的战斗在卡莱万坎加斯进行，双方伤亡惨重。同一天，坦佩雷红军总部发生爆炸，导致数名指挥官死亡。
-- - 1918 年：第一次世界大战期间，约翰·J·潘兴 (John J. Pershing) 将军取消了第 42 彩虹师前往罗兰蓬 (Rolampont) 进行进一步训练的命令，并将其转移到占领巴卡拉 (Baccarat) 地区。彩虹师成为“第一个独自接管整个星区的美国师，它比任何其他美国师单独占领星区的时间都长”。
-- - 1910 年：亨利·法布尔 (Henri Fabre) 从马赛附近的 Étang le Barre 水上跑道起飞，成为驾驶水上飞机 Fabre Hydravion 的第一人。
-- - 1862 年：美国内战：在格罗列塔山口战役中，联邦军队阻止了南方联盟对新墨西哥领地的入侵。战斗于3月26日打响。
-- - 1860 年：第一次塔拉纳基战争：怀伊卡战役开始。
-- - 1854 年：克里米亚战争：法国和英国向俄罗斯宣战。
-- - 1842 年：维也纳爱乐乐团首场音乐会，由奥托·尼古拉指挥。
+- - 2021 年：“Ever Give”号船被从苏伊士运河上移出。
+- - 2017年：首相特雷莎·梅援引《欧盟条约》第50条，正式开始英国退出欧盟。
+- - 2016 年：美国空军一架 F-16 从阿富汗巴格拉姆机场起飞时坠毁。
+- - 2015 年：加拿大航空 624 号航班在午夜刚过从多伦多抵达后在哈利法克斯斯坦菲尔德国际机场滑出跑道。机上 133 名乘客和 5 名机组人员全部生还，其中 23 人受轻伤。
+- - 2014 年：英格兰和威尔士首次同性婚姻举行。
+- - 2013 年：坦桑尼亚商业首都达累斯萨拉姆一栋 16 层建筑倒塌，造成至少 36 人死亡。
+- - 2010年：两名自杀式炸弹袭击者在早高峰时段袭击了莫斯科地铁系统，造成 40 人死亡。
+- - 2004年：高层建筑与城市人居委员会认证台北101大楼为世界最高建筑，因为该大楼已于2003年7月1日封顶，尽管该大楼直到2004年12月31日才竣工。
+- - 2004年：保加利亚、爱沙尼亚、拉脱维亚、立陶宛、罗马尼亚、斯洛伐克和斯洛文尼亚作为正式成员加入北约。
+- - 2002 年：为应对两天前的逾越节大屠杀，以色列针对巴勒斯坦武装分子发起了防御盾牌行动，这是自 1967 年六日战争以来在西岸最大规模的军事行动。
+- - 2001 年：一架湾流 III 在飞往科罗拉多州阿斯彭/皮特金县机场时坠毁。机上18人全部遇难。
+- - 1999 年：印度北方邦查莫利地区发生 6.8 级地震，造成 103 人死亡。
+- - 1999 年：在互联网泡沫最严重的时期，道琼斯工业平均指数首次收于 10,000 点大关 (10,006.78) 之上。
+- - 1990年：捷克斯洛伐克议会未能就共产主义垮台后的国家名称达成协议，引发了所谓的连字符战争。
+- - 1984 年：巴尔的摩小马队在清晨将其财产装载到 15 辆五月花号搬运卡车上，并将其运营转移到印第安纳波利斯。
+- - 1982 年：《1982 年加拿大法案》获得伊丽莎白二世女王的御准，为加拿大女王宣布《1982 年宪法法案》奠定了基础。
+- - 1979 年：魁北克航空 255 号航班从魁北克市让·勒萨热国际机场起飞后坠毁，造成 17 人死亡。
+- - 1974年：兵马俑在中国陕西省被发现。
+- - 1974 年：NASA 的水手 10 号成为第一个飞越水星的太空探测器。
+- - 1973 年：“滚桶行动”结束，这是美国在老挝进行的一项秘密轰炸行动，目的是阻止共产党对南越的渗透。
+- - 1973 年：越南战争：最后一批美国战斗士兵离开南越。
+- - 1971年：美莱惨案：威廉·卡利中尉被判犯有预谋谋杀罪，被判处终身监禁。
+- - 1968 年：太空第一人尤里·加加林的葬礼在莫斯科举行，数千人参加。
+- - 1962 年：阿根廷总统阿图罗·弗隆迪齐 (Arturo Frondizi) 在一场军事政变中被阿根廷武装部队推翻，结束了 .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac.den{字体大小:80%;行高:0;垂直对齐:超级}.mw-解析器输出.frac .den{垂直对齐:子}.mw-解析器输出.sr-only{边框:0;剪辑:矩形(0,0,0,0);剪辑路径:多边形(0px 0px,0px 0px,0px0px);高度:1px;边距:-1px;溢出:隐藏;填充:0;位置:绝对;宽度:1px}11+1⁄2 天宪法危机。
+- - 1961年：美国宪法第二十三条修正案获得批准，允许华盛顿特区的居民在总统选举中投票。
+- - 1957 年：纽约、安大略和西部铁路进行最后一次运营，这是美国第一条完全废弃的主要铁路。
+- - 1951 年：哥本哈根催眠谋杀案。
+- - 1951 年：朱利叶斯·罗森伯格和埃塞尔·罗森伯格被判串谋从事间谍活动。
+- - 1947 年：反对法国殖民统治的马达加斯加起义在马达加斯加爆发。
+- - 1942 年：第二次世界大战中对吕贝克的轰炸是英国皇家空军轰炸机司令部针对德国和德国城市的首次重大成功。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-03-28 02:33:42 UTC）*
+*（更新于: 2026-03-29 02:48:12 UTC）*
