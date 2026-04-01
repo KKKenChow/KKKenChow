@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: A historic tornado outbreak occurs in the American Midwest and South.
-- 2018: Baldi's Basics in education and learning was publicly released.
-- 2018: Start of the 2018 Armenian revolution.
-- 2016: NASA astronaut Scott Kelly and Roscosmos cosmonaut Mikhail Kornienko return to Earth after a yearlong mission at the International Space Station.
-- 2005: The dwarf planet Makemake is discovered by a team led by astronomer Michael E. Brown at the Palomar Observatory.
-- 2004: Iraq War in Anbar Province: In Fallujah, Iraq, four American private military contractors working for Blackwater USA, are killed after being ambushed.
-- 1998: Netscape releases Mozilla source code under an open source license.
-- 1995: TAROM Flight 371, an Airbus A310-300, crashes near Balotesti, Romania, killing all 60 people on board.
-- 1995: Selena is murdered by her fan club president Yolanda Saldívar at a Days Inn in Corpus Christi, Texas.
-- 1993: The Macao Basic Law is adopted by the Eighth National People's Congress of China to take effect December 20, 1999. Resumption by China of the Exercise of Sovereignty over Macao
-- 1992: The Treaty of Federation is signed in Moscow.
-- 1992: The USS Missouri, the last active United States Navy battleship, is decommissioned in Long Beach, California.
-- 1991: The Warsaw Pact formally disbands.
-- 1991: Georgian independence referendum: Nearly 99 percent of the voters support the country's independence from the Soviet Union.
-- 1990: Approximately 200,000 protesters take to the streets of London to protest against the newly introduced Poll Tax.
-- 1986: Mexicana de Aviación Flight 940 crashes into the Sierra Madre Oriental mountain range near the Mexican town of Maravatío, killing 167.
-- 1980: The Chicago, Rock Island and Pacific Railroad operates its final train after being ordered to liquidate its assets because of bankruptcy and debts owed to creditors.
-- 1970: Explorer 1 re-enters the Earth's atmosphere after 12 years in orbit.
-- 1968: American President Lyndon B. Johnson speaks to the nation of "Steps to Limit the War in Vietnam" in a television address. At the conclusion of his speech, he announces: "I shall not seek, and I will not accept, the nomination of my party for another term as your President."
-- 1966: The Labour Party under Harold Wilson wins the 1966 United Kingdom general election.
-- 1966: The Soviet Union launches Luna 10 which later becomes the first space probe to enter orbit around the Moon.
-- 1964: Brazilian General Olímpio Mourão Filho orders his troops to move towards Rio de Janeiro, beginning the coup d'état and 21 years of military dictatorship.
-- 1959: The 14th Dalai Lama crosses the border into India and is granted political asylum.
-- 1958: In the Canadian federal election, the Progressive Conservatives, led by John Diefenbaker, win the largest percentage of seats in Canadian history, with 208 seats of 265.
-- 1957: Elections to the Territorial Assembly of the French colony Upper Volta are held. After the elections PDU and MDV form a government.
-- 1951: Remington Rand delivers the first UNIVAC I computer to the United States Census Bureau.
-- 1949: The Dominion of Newfoundland joins the Canadian Confederation and becomes the 10th Province of Canada.
-- 1945: World War II: A defecting German pilot delivers a Messerschmitt Me 262A-1, the world's first operational jet-powered fighter aircraft, to the Americans, the first to fall into Allied hands.
-- 1942: World War II: Japanese forces invade Christmas Island, then a British possession.
-- 1939: Events preceding World War II in Europe: Prime Minister Neville Chamberlain pledges British military support to the Second Polish Republic in the event of an invasion by Nazi Germany.
+- 2016: The 2016 Nagorno-Karabakh conflict begins along the Nagorno-Karabakh Line of Contact.
+- 2011: After protests against the burning of the Quran turn violent, a mob attacks a United Nations compound in Mazar-i-Sharif, Afghanistan, resulting in the deaths of fourteen people, including seven UN workers.
+- 2006: Serious Organised Crime Agency (SOCA) of the Government of the United Kingdom is enforced, but later merged into National Crime Agency on 7 October 2013.
+- 2004: Google launches its Email service Gmail.
+- 2001: Same-sex marriage becomes legal in the Netherlands, the first contemporary country to allow it.
+- 2001: Former President of Federal Republic of Yugoslavia Slobodan Milošević surrenders to police special forces, to be tried on war crimes charges.
+- 2001: An EP-3E United States Navy surveillance aircraft collides with a Chinese People's Liberation Army Shenyang J-8 fighter jet. The Chinese pilot ejected but is subsequently lost. The Navy crew makes an emergency landing in Hainan, China and is detained.
+- 1999: Nunavut is established as a Canadian territory carved out of the eastern part of the Northwest Territories.
+- 1997: Comet Hale-Bopp is seen passing at perihelion.
+- 1993: NASCAR champion Alan Kulwicki is killed in a plane crash near the Tri-Cities Regional Airport in Blountville, Tennessee.
+- 1989: Margaret Thatcher's new local government tax, the Community Charge (commonly known as the "poll tax"), is introduced in Scotland.
+- 1986: Communist Party of Nepal (Mashal) cadres attack a number of police stations in Kathmandu, seeking to incite a popular rebellion.
+- 1984: Singer Marvin Gaye is shot to death by his father in his home in Arlington Heights, Los Angeles, California.
+- 1979: Iran becomes an Islamic republic by a 99% vote, officially overthrowing the Shah.
+- 1976: Steve Jobs and Steve Wozniak found Apple Computer, Inc.
+- 1974: The Local Government Act 1972 of England and Wales comes into effect.
+- 1973: Project Tiger, a tiger conservation project, is launched in the Jim Corbett National Park, India.
+- 1971: Bangladesh Liberation War: The Pakistan Army massacre more than a thousand people in Keraniganj Upazila, Bangladesh.
+- 1970: A Royal Air Maroc Sud Aviation Caravelle crashes near Berrechid, Morocco, killing 61.
+- 1970: President Richard Nixon signs the Public Health Cigarette Smoking Act into law.
+- 1969: The Hawker Siddeley Harrier, the first operational fighter aircraft with Vertical/Short Takeoff and Landing capabilities, enters service with the Royal Air Force.
+- 1964: The British Admiralty, War Office and Air Ministry are replaced by a unified Defence Council of the United Kingdom.
+- 1960: The TIROS-1 satellite transmits the first television picture from space.
+- 1955: The EOKA rebellion against the British Empire begins in Cyprus, with the goal of unifying with Greece.
+- 1954: United States President Dwight D. Eisenhower authorizes the creation of the United States Air Force Academy in Colorado Springs, Colorado.
+- 1949: The Government of Canada repeals Japanese-Canadian internment after seven years.
+- 1949: Chinese Civil War: The Chinese Communist Party holds unsuccessful peace talks with the Nationalist Party in Beijing, after three years of fighting.
+- 1948: Faroe Islands gain autonomy from Denmark.
+- 1948: Cold War: Communist forces respond to the introduction of the Deutsche Mark by attempting to force the western powers to withdraw from Berlin.
+- 1947: The only mutiny in the history of the Royal New Zealand Navy begins.
 
 Data from muffinlabs
-*(Updated at: 2026-03-31 02:43:42 UTC)*
+*(Updated at: 2026-04-01 02:55:39 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：美国中西部和南部爆发历史性龙卷风。
-- - 2018年：巴尔迪的《教育和学习基础》公开发布。
-- - 2018年：2018年亚美尼亚革命开始。
-- - 2016 年：美国宇航局宇航员斯科特·凯利和俄罗斯航天局宇航员米哈伊尔·科尔尼延科在国际空间站完成一年的任务后返回地球。
-- - 2005 年：帕洛玛天文台天文学家 Michael E. Brown 领导的团队发现了矮行星鸟神星。
-- - 2004年：安巴尔省伊拉克战争：在伊拉克费卢杰，四名为美国黑水公司工作的美国私人军事承包商遭到伏击后身亡。
-- - 1998 年：Netscape 在开源许可下发布了 Mozilla 源代码。
-- - 1995 年：罗马尼亚航空 371 号航班，一架空客 A310-300，在罗马尼亚巴洛特什蒂附近坠毁，机上 60 人全部遇难。
-- - 1995 年：赛琳娜在德克萨斯州科珀斯克里斯蒂市的戴斯酒店被她的粉丝俱乐部主席约兰达·萨尔迪瓦 (Yolanda Saldívar) 谋杀。
-- - 1993年：中华人民共和国第八届全国人民代表大会通过《澳门基本法》，于1999年12月20日生效。中国恢复对澳门行使主权
-- - 1992年：《联邦条约》在莫斯科签署。
-- - 1992 年：最后一艘现役美国海军战列舰密苏里号在加利福尼亚州长滩退役。
-- - 1991 年：华沙条约组织正式解散。
-- - 1991年：格鲁吉亚独立公投：近99%的选民支持该国脱离苏联独立。
-- - 1990年：大约20万抗议者走上伦敦街头抗议新实行的人头税。
-- - 1986 年：墨西哥航空 940 号航班坠入墨西哥马拉瓦蒂奥镇附近的东方马德雷山脉，造成 167 人死亡。
-- - 1980 年：芝加哥、罗克岛和太平洋铁路公司因破产和欠债权人的债务而被勒令清算其资产后，运营着最后一趟列车。
-- - 1970 年：探索者 1 号在轨道运行 12 年后重新进入地球大气层。
-- - 1968 年：美国总统林登·约翰逊 (Lyndon B. Johnson) 在电视讲话中向全国发表“限制越南战争的步骤”的讲话。在演讲结束时，他宣布：“我不会寻求、也不会接受我党的连任总统提名。”
-- - 1966 年：哈罗德·威尔逊 (Harold Wilson) 领导的工党赢得 1966 年英国大选。
-- - 1966 年：苏联发射了 Luna 10，后来成为第一个进入绕月轨道的太空探测器。
-- - 1964 年：巴西将军小奥林皮奥·莫朗 (Olímpio Mourão Filho) 命令他的部队向里约热内卢进发，开始了政变和 21 年的军事独裁。
-- - 1959年：第十四世达赖喇嘛越境进入印度并获得政治庇护。
-- - 1958年：在加拿大联邦选举中，约翰·迪芬贝克领导的进步保守党以265个席位中的208个席位赢得了加拿大历史上最高比例的席位。
-- - 1957 年：法国殖民地上沃尔特领土议会选举举行。选举后，PDU和MDV组成政府。
-- - 1951 年：雷明顿兰德向美国人口普查局交付第一台 UNIVAC I 计算机。
-- - 1949 年：纽芬兰省加入加拿大联邦，成为加拿大第十个省。
-- - 1945 年：第二次世界大战：一名叛逃的德国飞行员向美国人交付了一架梅塞施密特 Me 262A-1，这是世界上第一架可投入使用的喷气式战斗机，也是第一架落入盟军手中的飞机。
-- - 1942 年：第二次世界大战：日本军队入侵当时属于英国的圣诞岛。
-- - 1939 年：第二次世界大战前欧洲发生的事件：英国首相内维尔·张伯伦承诺，如果纳粹德国入侵，英国将向波兰第二共和国提供军事支持。
+- - 2016年：2016年纳戈尔诺-卡拉巴赫冲突沿着纳戈尔诺-卡拉巴赫接触线爆发。
+- - 2011 年：抗议焚烧《古兰经》的抗议活动演变为暴力事件后，一群暴徒袭击了阿富汗马扎里沙里夫的联合国驻地，导致 14 人死亡，其中包括 7 名联合国工作人员。
+- - 2006年：英国政府严重有组织犯罪局（SOCA）成立，但后来于2013年10月7日并入国家犯罪局。
+- - 2004 年：Google 推出电子邮件服务 Gmail。
+- - 2001 年：同性婚姻在荷兰合法化，成为第一个允许同性婚姻的当代国家。
+- - 2001年：南斯拉夫联盟共和国前总统斯洛博丹·米洛舍维奇向警察特种部队自首，因战争罪指控接受审判。
+- - 2001年：一架EP-3E美国海军侦察机与一架中国人民解放军沉阳J-8战斗机相撞。中国飞行员弹射逃生，但随后失踪。海军船员紧急迫降中国海南并被拘留。
+- - 1999 年：努纳武特地区成为从西北地区东部划分出来的加拿大领土。
+- - 1997 年：海尔-波普彗星经过近日点。
+- - 1993 年：NASCAR 冠军艾伦·库尔维奇 (Alan Kulwicki) 在田纳西州布朗特维尔三城地区机场附近的一次飞机失事中丧生。
+- - 1989 年：玛格丽特·撒切尔 (Margaret Thatcher) 的新地方政府税——社区税（俗称“人头税”）在苏格兰引入。
+- - 1986年：尼泊尔共产党（Mashal）干部袭击了加德满都的多个警察局，试图煽动民众叛乱。
+- - 1984 年：歌手马文·盖伊在加利福尼亚州洛杉矶阿灵顿高地的家中被父亲枪杀。
+- - 1979年：伊朗以99%的选票成为伊斯兰共和国，正式推翻了国王。
+- - 1976 年：史蒂夫·乔布斯和史蒂夫·沃兹尼亚克创立了苹果电脑公司。
+- - 1974 年：英格兰和威尔士《1972 年地方政府法》生效。
+- - 1973 年：老虎保护项目“老虎计划”在印度吉姆·科贝特国家公园启动。
+- - 1971年：孟加拉国解放战争：巴基斯坦军队在孟加拉国凯拉尼甘杰乌帕齐拉屠杀了千余人。
+- - 1970 年：摩洛哥皇家航空的一架南摩洛哥航空 Caravelle 在摩洛哥贝雷希德附近坠毁，造成 61 人死亡。
+- - 1970 年：理查德·尼克松总统签署《公共卫生吸烟法》成为法律。
+- - 1969 年：霍克·西德利鹞式战斗机，第一架具有垂直/短距起飞和着陆能力的战斗机，进入英国皇家空军服役。
+- - 1964年：英国海军部、陆军部和空军部被统一的英国国防委员会取代。
+- - 1960 年：TIROS-1 卫星从太空传输第一张电视图像。
+- - 1955 年：针对大英帝国的 EOKA 叛乱在塞浦路斯爆发，目标是与希腊统一。
+- - 1954 年：美国总统德怀特·D·艾森豪威尔授权在科罗拉多州科罗拉多斯普林斯创建美国空军学院。
+- - 1949 年：加拿大政府在七年后废除了对日裔加拿大人的拘留。
+- - 1949年：中国内战：经过三年的战斗，中国共产党与国民党在北京举行和谈，但没有成功。
+- - 1948 年：法罗群岛从丹麦手中获得自治权。
+- - 1948 年：冷战：共产党军队对德国马克的引入作出反应，试图迫使西方列强从柏林撤军。
+- - 1947 年：新西兰皇家海军历史上唯一的叛变开始。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-03-31 02:43:42 UTC）*
+*（更新于: 2026-04-01 02:55:39 UTC）*
