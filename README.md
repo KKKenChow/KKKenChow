@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2018: A bus carrying the Humboldt Broncos junior ice hockey team collides with a semi-truck in Saskatchewan, Canada, killing 16 people and injuring 13 others.
-- 2017: U.S. military launches 59 Tomahawk cruise missiles at an air base in Syria. Russia describes the strikes as an "aggression", adding they significantly damage US-Russia ties.
-- 2012: Azawad declares itself independent from the Republic of Mali.
-- 2011: In San Fernando, Tamaulipas, Mexico, over 193 victims of Los Zetas were exhumed from several mass graves.
-- 2010: Maoist rebels kill 76 CRPF officers in Dantewada district, India.
-- 2009: A 6.3 magnitude earthquake strikes near L'Aquila, Italy, killing 307.
-- 2008: The 2008 Egyptian general strike starts led by Egyptian workers later to be adopted by April 6 Youth Movement and Egyptian activists.
-- 2005: Kurdish leader Jalal Talabani becomes Iraqi president; Shiite Arab Ibrahim al-Jaafari is named premier the next day.
-- 2004: Rolandas Paksas becomes the first president of Lithuania to be peacefully removed from office by impeachment.
-- 1998: Nuclear weapons testing: Pakistan tests medium-range missiles capable of reaching India.
-- 1997: In Greene County, Tennessee, the Lillelid murders occur.
-- 1994: The Rwandan genocide begins when the aircraft carrying Rwandan president Juvénal Habyarimana and Burundian president Cyprien Ntaryamira is shot down.
-- 1992: The Bosnian War begins.
-- 1985: Sudanese President Gaafar Nimeiry is ousted from power in a coup d'état led by Field Marshal Abdel Rahman Swar al-Dahab.
-- 1984: Members of Cameroon's Republican Guard unsuccessfully attempt to overthrow the government headed by Paul Biya.
-- 1974: The first California Jam festival takes place at the Ontario Motor Speedway in Ontario, California. Co-headlined by Deep Purple and Emerson, Lake & Palmer. The festival set what were then records for the loudest amplification system ever installed, the highest paid attendance, and highest gross in history.
-- 1974: In Brighton, United Kingdom, ABBA wins the 1974 edition of the Eurovision Song Contest with "Waterloo", the first of a joint-record seven Swedish wins.
-- 1973: The American League of Major League Baseball begins using the designated hitter.
-- 1973: Launch of Pioneer 11 spacecraft.
-- 1972: Vietnam War: Easter Offensive: American forces begin sustained air strikes and naval bombardments.
-- 1970: Newhall massacre: Four California Highway Patrol officers are killed in a shootout.
-- 1968: Pierre Elliott Trudeau wins the Liberal Party leadership election, and becomes Prime Minister of Canada soon afterward.
-- 1968: In the downtown district of Richmond, Indiana, a double explosion kills 41 and injures 150.
-- 1965: Launch of Early Bird, the first commercial communications satellite to be placed in geosynchronous orbit.
-- 1958: Capital Airlines Flight 67 crashes in Tittabawassee Township, Michigan, near Freeland Tri-City Airport, killing 47.
-- 1957: The flag carrier airline of Greece for decades, Olympic Airways, is founded by Aristotle Onassis following the acquisition of "TAE - Greek National Airlines".
-- 1948: The Finno-Soviet Treaty is signed in Moscow.
-- 1947: The first Tony Awards are presented for theatrical achievement.
-- 1945: World War II: The Battle of Slater's Knoll on Bougainville comes to an end.
-- 1945: World War II: Sarajevo is liberated from German and Croatian forces by the Yugoslav Partisans.
+- 2022: Ketanji Brown Jackson is confirmed for the Supreme Court of the United States, becoming the first black female justice.
+- 2021: COVID-19 pandemic: The Centers for Disease Control and Prevention announces that the SARS-CoV-2 Alpha variant has become the dominant strain of COVID-19 in the United States.
+- 2020: COVID-19 pandemic: Acting Secretary of the Navy Thomas Modly resigns for his handling of the COVID-19 pandemic on USS Theodore Roosevelt and the dismissal of Brett Crozier.
+- 2020: COVID-19 pandemic: China ends its lockdown in Wuhan.
+- 2018: Syria launches the Douma chemical attack during the Eastern Ghouta offensive of the Syrian Civil War.
+- 2018: Former Brazilian president, Luiz Inácio Lula da Silva, is arrested for corruption by determination of Judge Sérgio Moro, from the "Car-Wash Operation". Lula stayed imprisoned for 580 days, after being released by the Brazilian Supreme Court.
+- 2017: U.S. President Donald Trump orders the 2017 Shayrat missile strike against Syria in retaliation for the Khan Shaykhun chemical attack.
+- 2017: A man deliberately drives a hijacked truck into a crowd of people in Stockholm, Sweden, killing five people and injuring fifteen others.
+- 2011: A gunman opens fire at an elementary school in Rio de Janeiro, Brazil, killing twelve children and injuring 22 others before committing suicide.
+- 2011: The Israel Defense Forces use their Iron Dome missile system to successfully intercept a BM-21 Grad launched from Gaza, marking the first short-range missile intercept ever.
+- 2009: Mass protests begin across Moldova under the belief that results from the parliamentary election are fraudulent.
+- 2009: Former Peruvian President Alberto Fujimori is sentenced to 25 years in prison for ordering killings and kidnappings by security forces.
+- 2005: First release of Git distributed version control system.
+- 2003: Haitian president Jean-Bertrand Aristide demands reparations of $21 billion from France for the Haiti Independence Debt.
+- 2003: Iraq War: U.S. troops capture Baghdad; Saddam Hussein's Ba'athist regime falls two days later.
+- 2001: NASA launches the 2001 Mars Odyssey orbiter.
+- 1999: Turkish Airlines Flight 5904 crashes near Ceyhan in southern Turkey, killing six people.
+- 1995: First Chechen War: Russian paramilitary troops begin a massacre of civilians in Samashki, Chechnya.
+- 1994: Auburn Calloway attempts to destroy Federal Express Flight 705 in order to allow his family to benefit from his life insurance policy.
+- 1994: Rwandan genocide: Massacres of Tutsis begin in Kigali, Rwanda, and soldiers kill the civilian Prime Minister Agathe Uwilingiyimana.
+- 1990: John Poindexter is convicted for his role in the Iran-Contra affair. In 1991 the convictions are reversed on appeal.
+- 1990: A fire breaks out on the passenger ferry Scandinavian Star, killing 159 people.
+- 1989: Soviet submarine Komsomolets sinks in the Barents Sea off the coast of Norway, killing 42 sailors.
+- 1988: Soviet Defense Minister Dmitry Yazov orders the Soviet withdrawal from Afghanistan.
+- 1983: During STS-6, astronauts Story Musgrave and Don Peterson perform the first Space Shuttle spacewalk.
+- 1982: Iranian Foreign Affairs Minister Sadegh Ghotbzadeh is arrested.
+- 1980: During the Iran hostage crisis, the United States severs relations with Iran.
+- 1978: Development of the neutron bomb is canceled by President Jimmy Carter.
+- 1977: German Federal prosecutor Siegfried Buback and his driver are shot by two Red Army Faction members while waiting at a red light.
+- 1976: Member of Parliament and suspected spy John Stonehouse resigns from the Labour Party after being arrested for faking his own death.
 
 Data from muffinlabs
-*(Updated at: 2026-04-06 02:51:47 UTC)*
+*(Updated at: 2026-04-07 02:45:18 UTC)*
 
 # 历史上的今天 
 
-- - 2018年：一辆载有洪堡野马队青少年冰球队的巴士在加拿大萨斯喀彻温省与一辆半挂卡车相撞，造成16人死亡、13人受伤。
-- - 2017 年：美国军方向叙利亚空军基地发射了 59 枚战斧巡航导弹。俄罗斯将这次袭击描述为“侵略”，并补充说它们严重损害了美俄关系。
-- - 2012年：阿扎瓦德宣布从马里共和国独立。
-- - 2011 年：在墨西哥塔毛利帕斯州圣费尔南多，超过 193 名洛斯泽塔斯事件受害者从多个乱葬坑中被挖出。
-- - 2010年：毛派叛乱分子在印度丹特瓦达地区杀害了76名中央后备警察部队军官。
-- - 2009 年：意大利拉奎拉附近发生 6.3 级地震，造成 307 人死亡。
-- - 2008年：2008年埃及总罢工由埃及工人领导，后来被4月6日青年运动和埃及活动家采纳。
-- - 2005年：库尔德领导人贾拉勒·塔拉巴尼成为伊拉克总统；第二天，什叶派阿拉伯人易卜拉欣·贾法里被任命为总理。
-- - 2004 年：罗兰达斯·帕克萨斯成为立陶宛第一位通过弹劾和平下台的总统。
-- - 1998 年：核武器试验：巴基斯坦试验能够到达印度的中程导弹。
-- - 1997 年：田纳西州格林县发生利勒利德谋杀案。
-- - 1994年：卢旺达总统朱韦纳尔·哈比亚利马纳和布隆迪总统西普里安·恩塔里亚米拉乘坐的飞机被击落，卢旺达种族灭绝开始。
-- - 1992 年：波斯尼亚战争开始。
-- - 1985 年：苏丹总统加法尔·尼迈里在阿卜杜勒·拉赫曼·斯瓦尔·达哈卜元帅领导的政变中被赶下台。
-- - 1984 年：喀麦隆共和国卫队成员试图推翻保罗·比亚领导的政府，但没有成功。
-- - 1974 年：第一届 California Jam 音乐节在加利福尼亚州安大略省的安大略赛车场举行。由 Deep Purple 和 Emerson, Lake & Palmer 联合主推。该音乐节创下了历史上安装的最响亮的扩音系统、最高的观众收入和最高的票房记录。
-- - 1974 年：在英国布莱顿，ABBA 凭借歌曲《Waterloo》赢得了 1974 年欧洲歌唱大赛冠军，这是瑞典队七次获胜纪录中的第一场。
-- - 1973 年：美国职业棒球大联盟开始使用指定击球手。
-- - 1973 年：发射先锋 11 号航天器。
-- - 1972 年：越南战争：复活节攻势：美军开始持续空袭和海上轰炸。
-- - 1970 年：纽霍尔惨案：四名加州公路巡警在枪战中丧生。
-- - 1968年：皮埃尔·埃利奥特·特鲁多赢得自由党领袖选举，不久就成为加拿大总理。
-- - 1968 年：印第安纳州里士满市中心发生两次爆炸，造成 41 人死亡、150 人受伤。
-- - 1965 年：发射“早鸟”，这是第一颗被放置在地球同步轨道上的商业通信卫星。
-- - 1958 年：首都航空 67 号航班在密歇根州蒂塔巴瓦西镇弗里兰三城机场附近坠毁，造成 47 人死亡。
-- - 1957 年：亚里士多德·奥纳西斯 (Aristotle Onassis) 在收购“TAE - 希腊国家航空公司”后创立了希腊数十年的旗舰航空公司奥林匹克航空公司。
-- - 1948 年：《芬苏条约》在莫斯科签署。
-- - 1947 年：首届托尼奖颁发给戏剧成就。
-- - 1945 年：第二次世界大战：布干维尔岛斯莱特山战役结束。
-- - 1945 年：第二次世界大战：南斯拉夫游击队从德国和克罗地亚军队手中解放了萨拉热窝。
+- - 2022 年：科坦吉·布朗·杰克逊 (Ketanji Brown Jackson) 被确认为美国最高法院法官，成为第一位黑人女法官。
+- - 2021 年：COVID-19 大流行：疾病控制与预防中心宣布 SARS-CoV-2 Alpha 变种已成为美国 COVID-19 的主要毒株。
+- - 2020 年：新冠肺炎 (COVID-19) 大流行：代理海军部长托马斯·莫德利 (Thomas Modly) 因处理西奥多·罗斯福号航空母舰上的新冠肺炎 (COVID-19) 大流行以及布雷特·克罗泽尔 (Brett Crozier) 被解职而辞职。
+- - 2020 年：COVID-19 大流行：中国结束了对武汉的封锁。
+- - 2018年：叙利亚内战东古塔攻势期间，叙利亚发动杜马化学袭击。
+- - 2018 年：巴西前总统路易斯·伊纳西奥·卢拉·达席尔瓦因“洗车行动”法官塞尔吉奥·莫罗的腐败罪名被捕。卢拉在被巴西最高法院释放后被监禁了 580 天。
+- - 2017 年：美国总统唐纳德·特朗普下令 2017 年对叙利亚进行谢拉特导弹袭击，以报复汗谢洪化学袭击。
+- - 2017 年：瑞典斯德哥尔摩，一名男子故意驾驶一辆被劫持的卡车撞向人群，造成 5 人死亡、15 人受伤。
+- - 2011 年：一名枪手在巴西里约热内卢的一所小学开枪，造成 12 名儿童死亡，另有 22 人受伤，然后自杀。
+- - 2011 年：以色列国防军使用铁穹导弹系统成功拦截从加沙发射的 BM-21 Grad，这是有史以来首次短程导弹拦截。
+- - 2009年：摩尔多瓦各地爆发大规模抗议活动，人们认为议会选举结果存在舞弊。
+- - 2009年：秘鲁前总统阿尔贝托·藤森因下令安全部队杀人和绑架而被判处25年监禁。
+- - 2005年：Git分布式版本控制系统首次发布。
+- - 2003年：海地总统让-贝特朗·阿里斯蒂德要求法国赔偿海地独立债务210亿美元。
+- - 2003年：伊拉克战争：美军占领巴格达；两天后，萨达姆·侯赛因的复兴党政权垮台。
+- - 2001 年：NASA 发射了 2001 火星奥德赛轨道器。
+- - 1999 年：土耳其航空 5904 号航班在土耳其南部杰伊汉附近坠毁，造成六人死亡。
+- - 1995 年：第一次车臣战争：俄罗斯准军事部队在车臣萨马什基开始屠杀平民。
+- - 1994 年：奥本·卡洛韦 (Auburn Calloway) 试图摧毁联邦快递 705 航班，以便让家人从他的人寿保险中受益。
+- - 1994 年：卢旺达种族灭绝：卢旺达基加利开始发生图西族大屠杀，士兵杀害了文职总理阿加特·乌维林吉伊马纳。
+- - 1990 年：约翰·波因德克斯特因参与伊朗门事件而被定罪。1991 年，上诉后判决被撤销。
+- - 1990 年：斯堪的纳维亚之星 (Scandinavian Star) 客轮发生火灾，造成 159 人死亡。
+- - 1989 年：苏联潜艇 Komsomolets 在挪威海岸附近的巴伦支海沉没，造成 42 名水手死亡。
+- - 1988 年：苏联国防部长德米特里·亚佐夫命令苏联从阿富汗撤军。
+- - 1983 年：在 STS-6 期间，宇航员斯托里·马斯格雷夫 (Story Musgrave) 和唐·彼得森 (Don Peterson) 进行了首次航天飞机太空行走。
+- - 1982 年：伊朗外交部长 Sadegh Ghotbzadeh 被捕。
+- - 1980年：伊朗人质危机期间，美国与伊朗断绝关系。
+- - 1978 年：吉米·卡特总统取消了中子弹的研制。
+- - 1977年：德国联邦检察官齐格弗里德·布巴克（Siegfried Buback）和他的司机在等红灯时被两名红军派成员开枪射杀。
+- - 1976 年：国会议员兼间谍嫌疑人约翰·斯通豪斯 (John Stonehouse) 在因伪造死亡被捕后辞去工党职务。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-04-06 02:51:47 UTC）*
+*（更新于: 2026-04-07 02:45:18 UTC）*
