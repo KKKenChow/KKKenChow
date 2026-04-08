@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Ketanji Brown Jackson is confirmed for the Supreme Court of the United States, becoming the first black female justice.
-- 2021: COVID-19 pandemic: The Centers for Disease Control and Prevention announces that the SARS-CoV-2 Alpha variant has become the dominant strain of COVID-19 in the United States.
-- 2020: COVID-19 pandemic: Acting Secretary of the Navy Thomas Modly resigns for his handling of the COVID-19 pandemic on USS Theodore Roosevelt and the dismissal of Brett Crozier.
-- 2020: COVID-19 pandemic: China ends its lockdown in Wuhan.
-- 2018: Syria launches the Douma chemical attack during the Eastern Ghouta offensive of the Syrian Civil War.
-- 2018: Former Brazilian president, Luiz Inácio Lula da Silva, is arrested for corruption by determination of Judge Sérgio Moro, from the "Car-Wash Operation". Lula stayed imprisoned for 580 days, after being released by the Brazilian Supreme Court.
-- 2017: U.S. President Donald Trump orders the 2017 Shayrat missile strike against Syria in retaliation for the Khan Shaykhun chemical attack.
-- 2017: A man deliberately drives a hijacked truck into a crowd of people in Stockholm, Sweden, killing five people and injuring fifteen others.
-- 2011: A gunman opens fire at an elementary school in Rio de Janeiro, Brazil, killing twelve children and injuring 22 others before committing suicide.
-- 2011: The Israel Defense Forces use their Iron Dome missile system to successfully intercept a BM-21 Grad launched from Gaza, marking the first short-range missile intercept ever.
-- 2009: Mass protests begin across Moldova under the belief that results from the parliamentary election are fraudulent.
-- 2009: Former Peruvian President Alberto Fujimori is sentenced to 25 years in prison for ordering killings and kidnappings by security forces.
-- 2005: First release of Git distributed version control system.
-- 2003: Haitian president Jean-Bertrand Aristide demands reparations of $21 billion from France for the Haiti Independence Debt.
-- 2003: Iraq War: U.S. troops capture Baghdad; Saddam Hussein's Ba'athist regime falls two days later.
-- 2001: NASA launches the 2001 Mars Odyssey orbiter.
-- 1999: Turkish Airlines Flight 5904 crashes near Ceyhan in southern Turkey, killing six people.
-- 1995: First Chechen War: Russian paramilitary troops begin a massacre of civilians in Samashki, Chechnya.
-- 1994: Auburn Calloway attempts to destroy Federal Express Flight 705 in order to allow his family to benefit from his life insurance policy.
-- 1994: Rwandan genocide: Massacres of Tutsis begin in Kigali, Rwanda, and soldiers kill the civilian Prime Minister Agathe Uwilingiyimana.
-- 1990: John Poindexter is convicted for his role in the Iran-Contra affair. In 1991 the convictions are reversed on appeal.
-- 1990: A fire breaks out on the passenger ferry Scandinavian Star, killing 159 people.
-- 1989: Soviet submarine Komsomolets sinks in the Barents Sea off the coast of Norway, killing 42 sailors.
-- 1988: Soviet Defense Minister Dmitry Yazov orders the Soviet withdrawal from Afghanistan.
-- 1983: During STS-6, astronauts Story Musgrave and Don Peterson perform the first Space Shuttle spacewalk.
-- 1982: Iranian Foreign Affairs Minister Sadegh Ghotbzadeh is arrested.
-- 1980: During the Iran hostage crisis, the United States severs relations with Iran.
-- 1978: Development of the neutron bomb is canceled by President Jimmy Carter.
-- 1977: German Federal prosecutor Siegfried Buback and his driver are shot by two Red Army Faction members while waiting at a red light.
-- 1976: Member of Parliament and suspected spy John Stonehouse resigns from the Labour Party after being arrested for faking his own death.
+- 2024: Solar eclipse of April 8, 2024: A total solar eclipse takes place at the Moon's ascending node, visible across North America.
+- 2020: Bernie Sanders ends his presidential campaign, leaving Joe Biden as the Democratic Party's nominee.
+- 2014: Windows XP reaches its standard End Of Life and is no longer supported.
+- 2010: U.S. President Barack Obama and Russian President Dmitry Medvedev sign the New START Treaty.
+- 2005: A solar eclipse occurs, visible over areas of the Pacific Ocean and Latin American countries such as Costa Rica, Panama, Colombia and Venezuela.
+- 2002: The Space Shuttle Atlantis is launched on mission STS-110, carrying the S0 truss to the International Space Station. Astronaut Jerry L. Ross also becomes the first person to fly on seven spaceflights.
+- 1993: The Space Shuttle Discovery is launched on mission STS-56.
+- 1990: The conservative New Democracy party of Constantine Mitsotakis is elected in the Greek parliamentary election.
+- 1975: Voyageurs National Park is established by the U.S. Congress
+- 1974: Hank Aaron passes Babe Ruth as the all-time leader in career home runs by hitting his 715th home run off of Al Downing at Atlanta-Fulton County Stadium.
+- 1970:  Bahr El-Baqar primary school bombing: Israeli bombers strike an Egyptian school. Forty-six children are killed.
+- 1968:  BOAC Flight 712 catches fire shortly after takeoff. As a result of her actions in the accident, Barbara Jane Harrison is awarded a posthumous George Cross, the only GC awarded to a woman in peacetime.
+- 1960:  The Netherlands and West Germany sign an agreement to negotiate the return of German land annexed by the Dutch in return for 280 million German marks as Wiedergutmachung.
+- 1959:  The Organization of American States drafts an agreement to create the Inter-American Development Bank.
+- 1959:  A team of computer manufacturers, users, and university people led by Grace Hopper meets to discuss the creation of a new programming language that would be called COBOL.
+- 1954:  South African Airways Flight 201: A de Havilland DH.106 Comet 1 crashes into the sea during night killing 21 people.
+- 1954:  A Royal Canadian Air Force Canadair Harvard collides with a Trans-Canada Airlines Canadair North Star over Moose Jaw, Saskatchewan, killing 37 people.
+- 1940: The Central Committee of the Mongolian People's Revolutionary Party elects Yumjaagiin Tsedenbal as General Secretary, marking the beginning of his 44-year-long tenure as de facto leader of Mongolia.
+- 1904: The French Third Republic and the United Kingdom of Great Britain and Ireland sign the Entente cordiale.
+- 1895: In Pollock v. Farmers' Loan & Trust Co. the Supreme Court of the United States declares unapportioned income tax to be unconstitutional.
+- 1886: William Ewart Gladstone introduces the first Irish Home Rule Bill into the British House of Commons.
+- 1866: Austro-Prussian War: Italy and Prussia sign a secret alliance against the Austrian Empire.
+- 1832: Black Hawk War: Around 300 United States 6th Infantry troops leave St. Louis, Missouri to fight the Sauk Native Americans.
+- 1820: The Venus de Milo is discovered on the Aegean island of Milos.
+- 1812: Czar Alexander I, the Russian Emperor and the Grand Duke of Finland, officially announces the transfer of the status of the Finnish capital from Turku to Helsinki.
+- 1730: Shearith Israel, the first synagogue in continental North America, is dedicated.
+- 1605: The city of Oulu, Finland, is founded by Charles IX of Sweden.
+- 1271: In Syria, sultan Baibars conquers the Krak des Chevaliers.
+- 1250: Seventh Crusade: Ayyubids of Egypt capture King Louis IX of France in the Battle of Fariskur.
+- 1232: Mongol-Jin War: The Mongols begin their siege on Kaifeng, the capital of the Jin dynasty.
 
 Data from muffinlabs
-*(Updated at: 2026-04-07 02:45:18 UTC)*
+*(Updated at: 2026-04-08 02:46:17 UTC)*
 
 # 历史上的今天 
 
-- - 2022 年：科坦吉·布朗·杰克逊 (Ketanji Brown Jackson) 被确认为美国最高法院法官，成为第一位黑人女法官。
-- - 2021 年：COVID-19 大流行：疾病控制与预防中心宣布 SARS-CoV-2 Alpha 变种已成为美国 COVID-19 的主要毒株。
-- - 2020 年：新冠肺炎 (COVID-19) 大流行：代理海军部长托马斯·莫德利 (Thomas Modly) 因处理西奥多·罗斯福号航空母舰上的新冠肺炎 (COVID-19) 大流行以及布雷特·克罗泽尔 (Brett Crozier) 被解职而辞职。
-- - 2020 年：COVID-19 大流行：中国结束了对武汉的封锁。
-- - 2018年：叙利亚内战东古塔攻势期间，叙利亚发动杜马化学袭击。
-- - 2018 年：巴西前总统路易斯·伊纳西奥·卢拉·达席尔瓦因“洗车行动”法官塞尔吉奥·莫罗的腐败罪名被捕。卢拉在被巴西最高法院释放后被监禁了 580 天。
-- - 2017 年：美国总统唐纳德·特朗普下令 2017 年对叙利亚进行谢拉特导弹袭击，以报复汗谢洪化学袭击。
-- - 2017 年：瑞典斯德哥尔摩，一名男子故意驾驶一辆被劫持的卡车撞向人群，造成 5 人死亡、15 人受伤。
-- - 2011 年：一名枪手在巴西里约热内卢的一所小学开枪，造成 12 名儿童死亡，另有 22 人受伤，然后自杀。
-- - 2011 年：以色列国防军使用铁穹导弹系统成功拦截从加沙发射的 BM-21 Grad，这是有史以来首次短程导弹拦截。
-- - 2009年：摩尔多瓦各地爆发大规模抗议活动，人们认为议会选举结果存在舞弊。
-- - 2009年：秘鲁前总统阿尔贝托·藤森因下令安全部队杀人和绑架而被判处25年监禁。
-- - 2005年：Git分布式版本控制系统首次发布。
-- - 2003年：海地总统让-贝特朗·阿里斯蒂德要求法国赔偿海地独立债务210亿美元。
-- - 2003年：伊拉克战争：美军占领巴格达；两天后，萨达姆·侯赛因的复兴党政权垮台。
-- - 2001 年：NASA 发射了 2001 火星奥德赛轨道器。
-- - 1999 年：土耳其航空 5904 号航班在土耳其南部杰伊汉附近坠毁，造成六人死亡。
-- - 1995 年：第一次车臣战争：俄罗斯准军事部队在车臣萨马什基开始屠杀平民。
-- - 1994 年：奥本·卡洛韦 (Auburn Calloway) 试图摧毁联邦快递 705 航班，以便让家人从他的人寿保险中受益。
-- - 1994 年：卢旺达种族灭绝：卢旺达基加利开始发生图西族大屠杀，士兵杀害了文职总理阿加特·乌维林吉伊马纳。
-- - 1990 年：约翰·波因德克斯特因参与伊朗门事件而被定罪。1991 年，上诉后判决被撤销。
-- - 1990 年：斯堪的纳维亚之星 (Scandinavian Star) 客轮发生火灾，造成 159 人死亡。
-- - 1989 年：苏联潜艇 Komsomolets 在挪威海岸附近的巴伦支海沉没，造成 42 名水手死亡。
-- - 1988 年：苏联国防部长德米特里·亚佐夫命令苏联从阿富汗撤军。
-- - 1983 年：在 STS-6 期间，宇航员斯托里·马斯格雷夫 (Story Musgrave) 和唐·彼得森 (Don Peterson) 进行了首次航天飞机太空行走。
-- - 1982 年：伊朗外交部长 Sadegh Ghotbzadeh 被捕。
-- - 1980年：伊朗人质危机期间，美国与伊朗断绝关系。
-- - 1978 年：吉米·卡特总统取消了中子弹的研制。
-- - 1977年：德国联邦检察官齐格弗里德·布巴克（Siegfried Buback）和他的司机在等红灯时被两名红军派成员开枪射杀。
-- - 1976 年：国会议员兼间谍嫌疑人约翰·斯通豪斯 (John Stonehouse) 在因伪造死亡被捕后辞去工党职务。
+- - 2024 年：2024 年 4 月 8 日日食：日全食发生在月球的升交点，整个北美地区都可见。
+- - 2020 年：伯尼·桑德斯结束总统竞选，乔·拜登成为民主党提名人。
+- - 2014 年：Windows XP 达到其标准生命周期终止状态，不再受支持。
+- - 2010年：美国总统巴拉克·奥巴马和俄罗斯总统德米特里·梅德韦杰夫签署新《削减战略武器条约》。
+- - 2005 年：发生日食，在太平洋地区以及哥斯达黎加、巴拿马、哥伦比亚和委内瑞拉等拉丁美洲国家上空可见。
+- - 2002 年：亚特兰蒂斯号航天飞机执行 STS-110 任务发射升空，携带 S0 桁架前往国际空间站。宇航员杰里·L·罗斯也成为第一个完成七次太空飞行的人。
+- - 1993 年：发现号航天飞机执行 STS-56 任务发射升空。
+- - 1990年：康斯坦丁·米佐塔基斯领导的保守派新民主党在希腊议会选举中当选。
+- - 1975 年：美国国会设立 Voyageurs 国家公园
+- - 1974 年：汉克·阿伦 (Hank Aaron) 在亚特兰大富尔顿县体育场 (Atlanta-Fulton County Stadium) 击出艾尔·唐宁 (Al Downing) 的第 715 个本垒打，超越贝比·鲁斯 (Babe Ruth)，成为职业生涯本垒打历史领先者。
+- - 1970 年：Bahr El-Baqar 小学爆炸事件：以色列轰炸机袭击了埃及一所学校。四十六名儿童被杀。
+- - 1968 年：BOAC 712 航班起飞后不久起火。由于她在事故中的行为，芭芭拉·简·哈里森死后被授予乔治十字勋章，这是和平时期唯一授予女性的勋章。
+- - 1960 年：荷兰和西德签署协议，就归还荷兰吞并的德国土地进行谈判，以换取 2.8 亿德国马克作为 Wiedergutmachung。
+- - 1959 年：美洲国家组织起草了一项创建美洲开发银行的协议。
+- - 1959 年：由 Grace Hopper 领导的一个由计算机制造商、用户和大学人员组成的团队开会讨论创建一种称为 COBOL 的新编程语言。
+- - 1954 年：南非航空公司 201 号航班：一架德哈维兰 DH.106 彗星 1 号在夜间坠入大海，造成 21 人死亡。
+- - 1954 年：加拿大皇家空军的一架加拿大航空哈佛号在萨斯喀彻温省穆斯乔上空与加拿大横贯航空的一架加拿大航空北极星号相撞，造成 37 人死亡。
+- - 1940年：蒙古人民革命党中央委员会选举雍贾金·策登巴尔为总书记，标志着他作为蒙古事实上的领导人长达44年的任期的开始。
+- - 1904年：法兰西第三共和国与大不列颠及爱尔兰联合王国签署友好协约。
+- - 1895 年：在 Pollock 诉 Farmers' Loan & Trust Co. 案中，美国最高法院宣布未分配的所得税违宪。
+- - 1886 年：威廉·尤尔特·格拉德斯通 (William Ewart Gladstone) 向英国下议院提出第一个爱尔兰地方自治法案。
+- - 1866 年：普奥战争：意大利和普鲁士签署反对奥地利帝国的秘密联盟。
+- - 1832 年：黑鹰战争：约 300 名美国第六步兵团士兵离开密苏里州圣路易斯，与索克美洲原住民作战。
+- - 1820 年：米洛斯岛的维纳斯在爱琴海的米洛斯岛被发现。
+- - 1812 年：沙皇亚历山大一世、俄罗斯皇帝兼芬兰大公正式宣布芬兰首都地位从图尔库转移到赫尔辛基。
+- - 1730 年：北美大陆第一座犹太教堂 Shearith Israel 落成。
+- - 1605 年：芬兰奥卢市由瑞典国王查理九世建立。
+- - 1271 年：在叙利亚，苏丹拜巴尔征服了骑士堡。
+- - 1250 年：第七次十字军东征：埃及阿尤布王朝在法里斯库尔战役中俘虏了法国国王路易九世。
+- - 1232年：蒙金战争：蒙古人开始围攻金朝首都开封。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-04-07 02:45:18 UTC）*
+*（更新于: 2026-04-08 02:46:17 UTC）*
