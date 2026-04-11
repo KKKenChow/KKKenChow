@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: A mass shooting occurs at the Old National Bank in Louisville, Kentucky that leaves five victims dead and eight wounded.
-- 2016: An earthquake of 6.6 magnitude strikes 39 km west-southwest of Ashkasham, impacting India, Afghanistan, Tajikistan, Srinagar and Pakistan.
-- 2016: The Paravur temple accident in which a devastating fire caused by the explosion of firecrackers stored for Vishu, kills more than one hundred people out of the thousands gathered for seventh day of Bhadrakali worship.
-- 2010: Polish Air Force Tu-154M crashes near Smolensk, Russia, killing 96 people, including Polish President Lech Kaczyński, his wife, and dozens of other senior officials and dignitaries.
-- 2009: President of Fiji Ratu Josefa Iloilo announces the abrogation of the constitution and assumes all governance in the country, creating a constitutional crisis.
-- 1998: The Good Friday Agreement is signed in Northern Ireland.
-- 1991: A rare tropical storm develops in the South Atlantic Ocean near Angola; the first to be documented by satellites.
-- 1991: Italian ferry MS Moby Prince collides with an oil tanker in dense fog off Livorno, Italy, killing 140.
-- 1988: The Ojhri Camp explosion kills or injures more than 1,000 people in Rawalpindi and Islamabad, Pakistan.
-- 1981:  Imprisoned IRA hunger striker Bobby Sands was elected to Westminster as the MP for Fermanagh and South Tyrone, Northern Ireland. He died twenty-six days later.
-- 1979: Red River Valley tornado outbreak: A tornado lands in Wichita Falls, Texas killing 42 people.
-- 1973: Invicta International Airlines Flight 435 crashes in a snowstorm on approach to Basel, Switzerland, killing 108 people.
-- 1972: Vietnam War: For the first time since November 1967, American B-52 bombers reportedly begin bombing North Vietnam.
-- 1972: Tombs containing bamboo slips, among them Sun Tzu's Art of War and Sun Bin's lost military treatise, are discovered by construction workers in Shandong.
-- 1970: Paul McCartney announces that he is leaving The Beatles for personal and professional reasons.
-- 1968: The TEV Wahine, a New Zealand ferry sinks in Wellington harbour due to a fierce storm - the strongest winds ever in Wellington. Out of the 734 people on board, fifty-three died.
-- 1963: One hundred twenty-nine American sailors die when the submarine USS Thresher sinks at sea.
-- 1944: Rudolf Vrba and Alfréd Wetzler escape from Birkenau death camp.
-- 1941: World War II: The Axis powers establish the Independent State of Croatia.
-- 1925: The Russian city of Tsaritsyn was renamed Stalingrad to honor the Soviet leader Joseph Stalin, Soviet Communist Party General Secretary, who had guided the defense of Tsaritsyn during the Russian Civil War in 1920.
-- 1919: The Third Regional Congress of Peasants, Workers and Insurgents is held by the Makhnovshchina at Huliaipole.
-- 1919: Mexican Revolution leader Emiliano Zapata is ambushed and shot dead by government forces in Morelos.
-- 1912: RMS Titanic sets sail from Southampton, UK, on her maiden and only voyage.
-- 1900: British suffer a sharp defeat by the Boers south of Brandfort. 600 British troops are killed and wounded and 800 taken prisoner.
-- 1896: 1896 Summer Olympics: The Olympic marathon is run ending with the victory of Greek athlete Spyridon Louis.
-- 1887: On Easter Sunday, Pope Leo XIII authorizes the establishment of the Catholic University of America.
-- 1872: The first Arbor Day is celebrated in Nebraska.
-- 1868: At Arogee in Abyssinia, British and Indian forces defeat an army of Emperor Tewodros II. While 700 Ethiopians are killed and many more injured, only two British/Indian troops die.
-- 1866: The American Society for the Prevention of Cruelty to Animals (ASPCA) is founded in New York City by Henry Bergh.
-- 1865: American Civil War: A day after his surrender to Union forces, Confederate General Robert E. Lee addresses his troops for the last time.
+- 2023: During the Pazigyi massacre, an airstrike conducted by the Myanmar Air Force kills at least 100 villagers in Pazigyi, Sagaing Region.
+- 2021: Twenty year old Daunte Wright is shot and killed in Brooklyn Center, Minnesota by officer Kimberly Potter, sparking protests in the city, when the officer mistakes her pistol for her taser.
+- 2018: An Ilyushin Il-76 which was owned and operated by the Algerian Air Force crashes near Boufarik, Algeria, killing 257.
+- 2017: The tour bus of the German football team Borussia Dortmund was attacked with roadside bombs in Dortmund, Germany. Three bombs exploded as the bus ferried the team to the Westfalenstadion for the first leg of their quarter-final against Monaco.
+- 2012: A pair of great earthquakes occur in the Wharton Basin west of Sumatra in Indonesia. The maximum Mercalli intensity of this strike-slip doublet earthquake is VII (Very strong). Ten are killed, twelve are injured, and a non-destructive tsunami is observed on the island of Nias.
+- 2011: An explosion in the Minsk Metro, Belarus kills 15 people and injures 204 others.
+- 2008: Kata Air Transport Flight 007 crashes while attempting an emergency landing at Chișinău International Airport, killing eight.
+- 2007: Algiers bombings: Two bombings in Algiers kill 33 people and wound a further 222 others.
+- 2006: Iranian president Mahmoud Ahmadinejad announces Iran's claim to have successfully enriched uranium.
+- 2002: Over two hundred thousand people march in Caracas towards the presidential palace to demand the resignation of President Hugo Chávez. Nineteen protesters are killed.
+- 2002: The Ghriba synagogue bombing by al-Qaeda kills 21 in Tunisia.
+- 2001: The Australia national men's soccer team sets a world record for the largest victory in an international association football match, winning the game 31-0 against American Samoa at the 2002 FIFA World Cup qualifiers for OFC. Australia's Archie Thompson also breaks the record for most goals scored by a player in an international match by scoring 13 goals.
+- 2001: The detained crew of a United States EP-3E aircraft that landed in Hainan, China after a collision with a J-8 fighter, is released.
+- 1993: Guillem Agulló, pro-Catalan independence and anti-fascist Valencian young activist is assassinated by a group of Spanish nationalists and neo-nazis in Montanejos.
+- 1993: Four hundred fifty prisoners rioted at the Southern Ohio Correctional Facility in Lucasville, Ohio, and continued to do so for ten days, citing grievances related to prison conditions, as well as the forced vaccination of Nation of Islam prisoners (for tuberculosis) against their religious beliefs.
+- 1990: Customs officers in Middlesbrough, England, seize what they believe to be the barrel of a massive gun on a ship bound for Iraq.
+- 1987: The London Agreement is secretly signed between Israeli Foreign Affairs Minister Shimon Peres and King Hussein of Jordan.
+- 1986: FBI Miami Shootout: A gun battle in broad daylight in Dade County, Florida between two bank/armored car robbers and pursuing FBI agents. During the firefight, FBI agents Jerry L. Dove and Benjamin P. Grogan were killed, while five other agents were wounded. As a result, the popular .40 S&W cartridge was developed.
+- 1982: American-Israeli reservist Alan Harry Goodman carried out a mass shooting at the Dome of the Rock, killing two Palestinians and injured at least seven others.
+- 1981: A massive riot in Brixton, south London results in almost 300 police injuries and 65 serious civilian injuries.
+- 1979: Ugandan dictator Idi Amin is deposed.
+- 1977: London Transport's Silver Jubilee AEC Routemaster buses are launched.
+- 1976: The Apple I is created.
+- 1970: Apollo Program: Apollo 13 is launched.
+- 1968: A failed assassination attempt on Rudi Dutschke, leader of the German student movement, leaves Dutschke suffering from brain damage.
+- 1968: US President Lyndon B. Johnson signs the Civil Rights Act of 1968, prohibiting discrimination in the sale, rental, and financing of housing.
+- 1965: The Palm Sunday tornado outbreak of 1965: Fifty-five tornadoes hit in six Midwestern states of the United States, killing 266 people.
+- 1964: Brazilian Marshal Humberto de Alencar Castelo Branco is elected president by the National Congress.
+- 1963: Pope John XXIII issues Pacem in terris, the first encyclical addressed to all Christians instead of only Catholics, and which described the conditions for world peace in human terms.
+- 1961: The trial of Adolf Eichmann begins in Jerusalem.
 
 Data from muffinlabs
-*(Updated at: 2026-04-10 02:52:33 UTC)*
+*(Updated at: 2026-04-11 02:36:58 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：肯塔基州路易斯维尔的旧国家银行发生大规模枪击事件，造成 5 人死亡、8 人受伤。
-- - 2016 年：阿什卡舍姆西南偏西 39 公里处发生了 6.6 级地震，影响到印度、阿富汗、塔吉克斯坦、斯利那加和巴基斯坦。
-- - 2016 年：Paravur 寺庙发生事故，为 Vishu 储存的鞭炮爆炸引发毁灭性火灾，导致第七天 Bhadrakali 礼拜聚集的数千人死亡，其中 100 多人丧生。
-- - 2010 年：波兰空军 Tu-154M 在俄罗斯斯摩棱斯克附近坠毁，造成 96 人死亡，其中包括波兰总统莱赫·卡钦斯基、他的妻子以及数十名其他高级官员和政要。
-- - 2009年：斐济总统拉图·何塞法·伊洛伊洛宣布废除宪法并接管国家所有治理，造成宪法危机。
-- - 1998 年：北爱尔兰签署耶稣受难日协议。
-- - 1991 年：安哥拉附近的南大西洋出现罕见的热带风暴；第一个被卫星记录下来的。
-- - 1991 年：意大利渡轮 MS Moby Prince 在意大利利沃诺附近浓雾中与一艘油轮相撞，造成 140 人死亡。
-- - 1988 年：巴基斯坦拉瓦尔品第和伊斯兰堡的 Ojhri 难民营爆炸造成 1,000 多人死伤。
-- - 1981 年：被监禁的爱尔兰共和军绝食抗议者鲍比·桑兹 (Bobby Sands) 被选为威斯敏斯特北爱尔兰弗马纳和南蒂龙的议员。二十六天后他去世了。
-- - 1979 年：红河谷龙卷风爆发：一场龙卷风登陆德克萨斯州威奇托福尔斯，造成 42 人死亡。
-- - 1973 年：英维克塔国际航空公司 435 号航班在飞往瑞士巴塞尔的途中在暴风雪中坠毁，造成 108 人死亡。
-- - 1972 年：越南战争：据报道，美国 B-52 轰炸机自 1967 年 11 月以来首次开始轰炸北越。
-- - 1972年：山东的建筑工人发现了含有竹简的墓葬，其中有《孙子兵法》和孙膑失传的军事论文。
-- - 1970 年：保罗·麦卡特尼宣布他因个人和职业原因离开披头士乐队。
-- - 1968 年：一艘新西兰渡轮 TEV Wahine 在惠灵顿港遭遇猛烈风暴（惠灵顿有史以来最强的风暴）而沉没。机上 734 人中有 53 人死亡。
-- - 1963 年：美国长尾鲨号潜艇在海上沉没，129 名美国水手丧生。
-- - 1944 年：鲁道夫·弗尔巴 (Rudolf Vrba) 和阿尔弗雷德·韦茨勒 (Alfred Wetzler) 逃离比克瑙死亡营。
-- - 1941 年：第二次世界大战：轴心国建立克罗地亚独立国。
-- - 1925 年：俄罗斯城市察里津更名为斯大林格勒，以纪念苏联领导人、苏联共产党总书记约瑟夫·斯大林，他在 1920 年俄罗斯内战期间指导了察里津的防御工作。
-- - 1919年：马赫诺运动在胡利亚坡勒召开了第三次农民、工人和起义者地区代表大会。
-- - 1919 年：墨西哥革命领袖埃米利亚诺·萨帕塔在莫雷洛斯州遭到政府军伏击并被枪杀。
-- - 1912 年：泰坦尼克号从英国南安普敦起航，开始其首次也是唯一一次航行。
-- - 1900 年：英国人在布兰德福特以南被布尔人惨败。600 名英军阵亡、受伤，800 人被俘。
-- - 1896 年：1896 年夏季奥运会：奥林匹克马拉松比赛以希腊运动员斯皮里登·路易斯 (Spyridon Louis) 的胜利而告终。
-- - 1887 年：复活节星期日，教皇利奥十三世授权建立美国天主教大学。
-- - 1872 年：内布拉斯加州庆祝第一个植树节。
-- - 1868 年：在阿比西尼亚的阿罗吉，英国和印度军队击败了皇帝特沃德罗斯二世的军队。虽然有 700 名埃塞俄比亚人被杀，还有更多人受伤，但只有两名英国/印度士兵死亡。
-- - 1866 年：亨利·伯格 (Henry Bergh) 在纽约市创立了美国防止虐待动物协会 (ASPCA)。
-- - 1865 年：美国内战：在向联邦军队投降后的第二天，南部邦联将军罗伯特·E·李最后一次向他的部队发表讲话。
+- - 2023年：在帕济吉大屠杀期间，缅甸空军发动空袭，造成实皆地区帕济吉至少100名村民死亡。
+- - 2021 年：20 岁的道特·赖特 (Daunte Wright) 在明尼苏达州布鲁克林中心被警官金伯利·波特 (Kimberly Potter) 枪杀，该警官误将她的手枪当成了泰瑟枪，引发了该市的抗议活动。
+- - 2018 年：阿尔及利亚空军拥有和运营的一架 Ilyushin Il-76 在阿尔及利亚布法里克附近坠毁，造成 257 人死亡。
+- - 2017年：德国多特蒙德足球队的旅游巴士在德国多特蒙德遭到路边炸弹袭击。当巴士载着球队前往威斯特法伦体育场参加四分之一决赛对阵摩纳哥的第一回合比赛时，三枚炸弹爆炸。
+- - 2012年：印度尼西亚苏门答腊岛以西的沃顿盆地发生两次大地震。这次走滑双重地震的最大麦卡利烈度为VII级（很强）。尼亚斯岛发生非破坏性海啸，造成 10 人死亡、12 人受伤。
+- - 2011年：白俄罗斯明斯克地铁发生爆炸，造成15人死亡、204人受伤。
+- - 2008 年：卡塔航空运输 007 号航班在基希讷乌国际机场试图紧急降落时坠毁，造成 8 人死亡。
+- - 2007 年：阿尔及尔爆炸事件：阿尔及尔发生的两起爆炸事件造成 33 人死亡，另有 222 人受伤。
+- - 2006年：伊朗总统内贾德宣布伊朗声称已成功浓缩铀。
+- - 2002年：超过二十万人在加拉加斯向总统府游行，要求总统乌戈·查韦斯辞职。十九名抗议者被杀。
+- - 2002 年：突尼斯基地组织对 Ghriba 犹太教堂进行爆炸袭击，造成 21 人死亡。
+- - 2001年：澳大利亚国家男子足球队在2002年OFC世界杯预选赛中以31-0战胜美属萨摩亚队，创造了国际足球比赛最大胜利的世界纪录。澳大利亚球员阿奇·汤普森也以 13 粒进球打破了球员在国际比赛中进球最多的纪录。
+- - 2001年：一架美国EP-3E飞机在与一架J-8战斗机相撞后降落在中国海南，被拘留的机组人员被释放。
+- - 1993 年：支持加泰罗尼亚独立和反法西斯巴伦西亚青年活动家吉列姆·阿古洛 (Guillem Agulló) 在蒙塔内霍斯被一群西班牙民族主义者和新纳粹分子暗杀。
+- - 1993 年：450 名囚犯在俄亥俄州卢卡斯维尔的南俄亥俄州惩教所发生骚乱，骚乱持续了十天，他们的理由是对监狱条件的不满，以及违背其宗教信仰而强迫伊斯兰国家组织囚犯接种疫苗（结核病）。
+- - 1990 年：英国米德尔斯堡的海关官员在一艘开往伊拉克的船上查获了他们认为是一把大枪的枪管。
+- - 1987年：以色列外交部长西蒙·佩雷斯和约旦国王侯赛因秘密签署《伦敦协议》。
+- - 1986 年：FBI 迈阿密枪战：光天化日之下，佛罗里达州戴德县两名银行/装甲车劫匪与追捕的 FBI 特工之间发生枪战。在交火中，联邦调查局特工杰里·L·多夫和本杰明·P·格罗根被杀，其他五名特工受伤。结果，流行的 .40 S&W 墨盒被开发出来。
+- - 1982年：美国-以色列预备役军人艾伦·哈里·古德曼在圆顶清真寺实施大规模枪击事件，造成两名巴勒斯坦人死亡，至少七人受伤。
+- - 1981 年：伦敦南部布里克斯顿发生大规模骚乱，造成近 300 名警察受伤和 65 名平民重伤。
+- - 1979 年：乌干达独裁者伊迪·阿明被废黜。
+- - 1977 年：伦敦交通银禧 AEC Routemaster 巴士推出。
+- - 1976 年：Apple I 诞生。
+- - 1970 年：阿波罗计划：阿波罗 13 号发射。
+- - 1968 年：对德国学生运动领袖鲁迪·杜奇克 (Rudi Dutschke) 的暗杀未遂，导致杜奇克脑部受损。
+- - 1968 年：美国总统林登·约翰逊 (Lyndon B. Johnson) 签署 1968 年民权法案，禁止住房销售、租赁和融资方面的歧视。
+- - 1965 年：1965 年棕枝主日龙卷风爆发：美国中西部六个州发生 55 场龙卷风袭击，造成 266 人死亡。
+- - 1964 年：巴西元帅温贝托·德阿伦卡尔·卡斯特洛·布兰科 (Humberto de Alencar Castelo Branco) 被国民议会选举为总统。
+- - 1963年：教皇约翰二十三世发布了《Pacem in terris》，这是第一部针对所有基督徒而不仅仅是天主教徒的通谕，其中以人性的方式描述了世界和平的条件。
+- - 1961 年：阿道夫·艾希曼 (Adolf Eichmann) 的审判在耶路撒冷开始。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-04-10 02:52:33 UTC）*
+*（更新于: 2026-04-11 02:36:58 UTC）*
