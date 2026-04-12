@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: During the Pazigyi massacre, an airstrike conducted by the Myanmar Air Force kills at least 100 villagers in Pazigyi, Sagaing Region.
-- 2021: Twenty year old Daunte Wright is shot and killed in Brooklyn Center, Minnesota by officer Kimberly Potter, sparking protests in the city, when the officer mistakes her pistol for her taser.
-- 2018: An Ilyushin Il-76 which was owned and operated by the Algerian Air Force crashes near Boufarik, Algeria, killing 257.
-- 2017: The tour bus of the German football team Borussia Dortmund was attacked with roadside bombs in Dortmund, Germany. Three bombs exploded as the bus ferried the team to the Westfalenstadion for the first leg of their quarter-final against Monaco.
-- 2012: A pair of great earthquakes occur in the Wharton Basin west of Sumatra in Indonesia. The maximum Mercalli intensity of this strike-slip doublet earthquake is VII (Very strong). Ten are killed, twelve are injured, and a non-destructive tsunami is observed on the island of Nias.
-- 2011: An explosion in the Minsk Metro, Belarus kills 15 people and injures 204 others.
-- 2008: Kata Air Transport Flight 007 crashes while attempting an emergency landing at Chișinău International Airport, killing eight.
-- 2007: Algiers bombings: Two bombings in Algiers kill 33 people and wound a further 222 others.
-- 2006: Iranian president Mahmoud Ahmadinejad announces Iran's claim to have successfully enriched uranium.
-- 2002: Over two hundred thousand people march in Caracas towards the presidential palace to demand the resignation of President Hugo Chávez. Nineteen protesters are killed.
-- 2002: The Ghriba synagogue bombing by al-Qaeda kills 21 in Tunisia.
-- 2001: The Australia national men's soccer team sets a world record for the largest victory in an international association football match, winning the game 31-0 against American Samoa at the 2002 FIFA World Cup qualifiers for OFC. Australia's Archie Thompson also breaks the record for most goals scored by a player in an international match by scoring 13 goals.
-- 2001: The detained crew of a United States EP-3E aircraft that landed in Hainan, China after a collision with a J-8 fighter, is released.
-- 1993: Guillem Agulló, pro-Catalan independence and anti-fascist Valencian young activist is assassinated by a group of Spanish nationalists and neo-nazis in Montanejos.
-- 1993: Four hundred fifty prisoners rioted at the Southern Ohio Correctional Facility in Lucasville, Ohio, and continued to do so for ten days, citing grievances related to prison conditions, as well as the forced vaccination of Nation of Islam prisoners (for tuberculosis) against their religious beliefs.
-- 1990: Customs officers in Middlesbrough, England, seize what they believe to be the barrel of a massive gun on a ship bound for Iraq.
-- 1987: The London Agreement is secretly signed between Israeli Foreign Affairs Minister Shimon Peres and King Hussein of Jordan.
-- 1986: FBI Miami Shootout: A gun battle in broad daylight in Dade County, Florida between two bank/armored car robbers and pursuing FBI agents. During the firefight, FBI agents Jerry L. Dove and Benjamin P. Grogan were killed, while five other agents were wounded. As a result, the popular .40 S&W cartridge was developed.
-- 1982: American-Israeli reservist Alan Harry Goodman carried out a mass shooting at the Dome of the Rock, killing two Palestinians and injured at least seven others.
-- 1981: A massive riot in Brixton, south London results in almost 300 police injuries and 65 serious civilian injuries.
-- 1979: Ugandan dictator Idi Amin is deposed.
-- 1977: London Transport's Silver Jubilee AEC Routemaster buses are launched.
-- 1976: The Apple I is created.
-- 1970: Apollo Program: Apollo 13 is launched.
-- 1968: A failed assassination attempt on Rudi Dutschke, leader of the German student movement, leaves Dutschke suffering from brain damage.
-- 1968: US President Lyndon B. Johnson signs the Civil Rights Act of 1968, prohibiting discrimination in the sale, rental, and financing of housing.
-- 1965: The Palm Sunday tornado outbreak of 1965: Fifty-five tornadoes hit in six Midwestern states of the United States, killing 266 people.
-- 1964: Brazilian Marshal Humberto de Alencar Castelo Branco is elected president by the National Congress.
-- 1963: Pope John XXIII issues Pacem in terris, the first encyclical addressed to all Christians instead of only Catholics, and which described the conditions for world peace in human terms.
-- 1961: The trial of Adolf Eichmann begins in Jerusalem.
+- 2014: The Great Fire of Valparaíso ravages the Chilean city of Valparaíso, killing 16 people, displacing nearly 10,000, and destroying over 2,000 homes.
+- 2013: Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali.
+- 2010: Merano derailment: A rail accident in South Tyrol kills nine people and injures a further 28.
+- 2009: Zimbabwe officially abandons the Zimbabwean dollar as its official currency.
+- 2007: A suicide bomber penetrates the Green Zone and detonates in a cafeteria within a parliament building, killing Iraqi MP Mohammed Awad and wounding more than twenty other people.
+- 2002: A suicide bomber blows herself up at the entrance to Jerusalem's Mahane Yehuda Market, killing seven people and wounding 104.
+- 1999: During the NATO bombing of Yugoslavia, an American McDonnell Douglas F-15E Strike Eagle shoots a passenger train, killing between 20 and 60 people.
+- 1999: United States President Bill Clinton is cited for contempt of court for giving "intentionally false statements" in a civil lawsuit; he is later fined and disbarred.
+- 1992: The Euro Disney Resort officially opens with its theme park Euro Disneyland; the resort and its park's name are subsequently changed to Disneyland Resort Paris.
+- 1990: Widerøe Flight 839 crashes after takeoff from Værøy Airport in Norway, killing five people.
+- 1990: Jim Gary's "Twentieth Century Dinosaurs" exhibition opens at the Smithsonian Institution National Museum of Natural History in Washington, D.C. He is the only sculptor ever invited to present a solo exhibition there.
+- 1985: Space Shuttle Discovery launches on STS-51D to deploy two communications satellites.
+- 1983: Harold Washington is elected as the first black mayor of Chicago.
+- 1981: The first launch of a Space Shuttle (Columbia) takes place: The STS-1 mission.
+- 1980: Canadian runner and athlete, Terry Fox begins his Marathon of Hope Run in St. John's, NF
+- 1980: Transbrasil Flight 303, a Boeing 727, crashes on approach to Hercílio Luz International Airport in Florianópolis, Brazil. Fifty-five out of the 58 people on board are killed.
+- 1980: The Americo-Liberian government of Liberia is violently deposed.
+- 1970: Soviet submarine K-8, carrying four nuclear torpedoes, sinks in the Bay of Biscay four days after a fire on board.
+- 1963: The Soviet nuclear-powered submarine K-33 collides with the Finnish merchant vessel M/S Finnclipper in the Danish straits.[citation needed]
+- 1961: Space Race: The Soviet cosmonaut Yuri Gagarin becomes the first human to travel into outer space and perform the first crewed orbital flight, Vostok 1.
+- 1955: The polio vaccine, developed by Dr. Jonas Salk, is declared safe and effective.
+- 1945: World War II: The U.S. Ninth Army under General William H. Simpson crosses the Elbe River astride Magdeburg, and reaches Tangermünde—only 80 kilometres from Berlin.
+- 1945: U.S. President Franklin D. Roosevelt dies in office; Vice President Harry S. Truman becomes President upon Roosevelt's death.
+- 1937: Sir Frank Whittle ground-tests the first jet engine designed to power an aircraft, at Rugby, England.
+- 1934: The U.S. Auto-Lite strike begins, culminating in a five-day melee between Ohio National Guard troops and 6,000 strikers and picketers.[citation needed]
+- 1934: The strongest surface wind gust in the world at the time of 231 mph, is measured on the summit of Mount Washington, New Hampshire. It has since been surpassed.
+- 1928: The Bremen, a German Junkers W 33 type aircraft, takes off for the first successful transatlantic aeroplane flight from east to west.
+- 1927: Rocksprings, Texas is hit by an F5 tornado that destroys 235 of the 247 buildings in the town, kills 72 townspeople, and injures 205; third deadliest tornado in Texas history.
+- 1927: Shanghai massacre of 1927: Chiang Kai-shek orders the Chinese Communist Party members executed in Shanghai, ending the First United Front.[citation needed]
+- 1917: World War I: Canadian forces successfully complete the taking of Vimy Ridge from the Germans.
 
 Data from muffinlabs
-*(Updated at: 2026-04-11 02:36:58 UTC)*
+*(Updated at: 2026-04-12 02:56:10 UTC)*
 
 # 历史上的今天 
 
-- - 2023年：在帕济吉大屠杀期间，缅甸空军发动空袭，造成实皆地区帕济吉至少100名村民死亡。
-- - 2021 年：20 岁的道特·赖特 (Daunte Wright) 在明尼苏达州布鲁克林中心被警官金伯利·波特 (Kimberly Potter) 枪杀，该警官误将她的手枪当成了泰瑟枪，引发了该市的抗议活动。
-- - 2018 年：阿尔及利亚空军拥有和运营的一架 Ilyushin Il-76 在阿尔及利亚布法里克附近坠毁，造成 257 人死亡。
-- - 2017年：德国多特蒙德足球队的旅游巴士在德国多特蒙德遭到路边炸弹袭击。当巴士载着球队前往威斯特法伦体育场参加四分之一决赛对阵摩纳哥的第一回合比赛时，三枚炸弹爆炸。
-- - 2012年：印度尼西亚苏门答腊岛以西的沃顿盆地发生两次大地震。这次走滑双重地震的最大麦卡利烈度为VII级（很强）。尼亚斯岛发生非破坏性海啸，造成 10 人死亡、12 人受伤。
-- - 2011年：白俄罗斯明斯克地铁发生爆炸，造成15人死亡、204人受伤。
-- - 2008 年：卡塔航空运输 007 号航班在基希讷乌国际机场试图紧急降落时坠毁，造成 8 人死亡。
-- - 2007 年：阿尔及尔爆炸事件：阿尔及尔发生的两起爆炸事件造成 33 人死亡，另有 222 人受伤。
-- - 2006年：伊朗总统内贾德宣布伊朗声称已成功浓缩铀。
-- - 2002年：超过二十万人在加拉加斯向总统府游行，要求总统乌戈·查韦斯辞职。十九名抗议者被杀。
-- - 2002 年：突尼斯基地组织对 Ghriba 犹太教堂进行爆炸袭击，造成 21 人死亡。
-- - 2001年：澳大利亚国家男子足球队在2002年OFC世界杯预选赛中以31-0战胜美属萨摩亚队，创造了国际足球比赛最大胜利的世界纪录。澳大利亚球员阿奇·汤普森也以 13 粒进球打破了球员在国际比赛中进球最多的纪录。
-- - 2001年：一架美国EP-3E飞机在与一架J-8战斗机相撞后降落在中国海南，被拘留的机组人员被释放。
-- - 1993 年：支持加泰罗尼亚独立和反法西斯巴伦西亚青年活动家吉列姆·阿古洛 (Guillem Agulló) 在蒙塔内霍斯被一群西班牙民族主义者和新纳粹分子暗杀。
-- - 1993 年：450 名囚犯在俄亥俄州卢卡斯维尔的南俄亥俄州惩教所发生骚乱，骚乱持续了十天，他们的理由是对监狱条件的不满，以及违背其宗教信仰而强迫伊斯兰国家组织囚犯接种疫苗（结核病）。
-- - 1990 年：英国米德尔斯堡的海关官员在一艘开往伊拉克的船上查获了他们认为是一把大枪的枪管。
-- - 1987年：以色列外交部长西蒙·佩雷斯和约旦国王侯赛因秘密签署《伦敦协议》。
-- - 1986 年：FBI 迈阿密枪战：光天化日之下，佛罗里达州戴德县两名银行/装甲车劫匪与追捕的 FBI 特工之间发生枪战。在交火中，联邦调查局特工杰里·L·多夫和本杰明·P·格罗根被杀，其他五名特工受伤。结果，流行的 .40 S&W 墨盒被开发出来。
-- - 1982年：美国-以色列预备役军人艾伦·哈里·古德曼在圆顶清真寺实施大规模枪击事件，造成两名巴勒斯坦人死亡，至少七人受伤。
-- - 1981 年：伦敦南部布里克斯顿发生大规模骚乱，造成近 300 名警察受伤和 65 名平民重伤。
-- - 1979 年：乌干达独裁者伊迪·阿明被废黜。
-- - 1977 年：伦敦交通银禧 AEC Routemaster 巴士推出。
-- - 1976 年：Apple I 诞生。
-- - 1970 年：阿波罗计划：阿波罗 13 号发射。
-- - 1968 年：对德国学生运动领袖鲁迪·杜奇克 (Rudi Dutschke) 的暗杀未遂，导致杜奇克脑部受损。
-- - 1968 年：美国总统林登·约翰逊 (Lyndon B. Johnson) 签署 1968 年民权法案，禁止住房销售、租赁和融资方面的歧视。
-- - 1965 年：1965 年棕枝主日龙卷风爆发：美国中西部六个州发生 55 场龙卷风袭击，造成 266 人死亡。
-- - 1964 年：巴西元帅温贝托·德阿伦卡尔·卡斯特洛·布兰科 (Humberto de Alencar Castelo Branco) 被国民议会选举为总统。
-- - 1963年：教皇约翰二十三世发布了《Pacem in terris》，这是第一部针对所有基督徒而不仅仅是天主教徒的通谕，其中以人性的方式描述了世界和平的条件。
-- - 1961 年：阿道夫·艾希曼 (Adolf Eichmann) 的审判在耶路撒冷开始。
+- - 2014 年：瓦尔帕莱索大火肆虐智利城市瓦尔帕莱索，造成 16 人死亡、近 10,000 人流离失所，并摧毁了 2,000 多所房屋。
+- - 2013 年：马里基达尔的一个市场上，两名自杀式炸弹袭击者杀死了三名乍得士兵，并炸伤了数十名平民。
+- - 2010 年：梅拉诺出轨：南蒂罗尔州发生铁路事故，造成 9 人死亡、28 人受伤。
+- - 2009年：津巴布韦正式放弃津巴布韦元作为其官方货币。
+- - 2007 年：一名自杀式炸弹袭击者渗透绿区，在议会大楼内的一家自助餐厅爆炸，炸死伊拉克议员穆罕默德·阿瓦德，炸伤 20 多人。
+- - 2002 年：一名自杀式炸弹袭击者在耶路撒冷 Mahane Yehuda 市场入口处引爆炸弹，造成 7 人死亡、104 人受伤。
+- - 1999 年：北约轰炸南斯拉夫期间，一架美国麦道 F-15E 攻击鹰击中一列客运列车，造成 20 至 60 人死亡。
+- - 1999年：美国总统比尔·克林顿因在民事诉讼中做出“故意虚假陈述”而被指控藐视法庭；他后来被罚款并被取消律师资格。
+- - 1992 年：欧洲迪士尼度假区及其主题公园欧洲迪士尼乐园正式开业；该度假村及其公园的名称随后更改为巴黎迪士尼乐园度假区。
+- - 1990 年：Widerøe 839 航班从挪威 Værøy 机场起飞后坠毁，造成 5 人死亡。
+- - 1990 年：吉姆·加里 (Jim Gary) 的“二十世纪恐龙”展览在华盛顿特区的史密森学会国家自然历史博物馆开幕。他是唯一受邀在那里举办个展的雕塑家。
+- - 1985 年：发现号航天飞机搭载 STS-51D 发射，部署两颗通信卫星。
+- - 1983 年：哈罗德·华盛顿当选为芝加哥第一位黑人市长。
+- - 1981 年：哥伦比亚号航天飞机首次发射：STS-1 任务。
+- - 1980 年：加拿大跑步运动员和运动员 Terry Fox 在北卡罗来纳州圣约翰斯开始他的希望马拉松
+- - 1980 年：Transbrasil 303 航班（一架波音 727）在飞往巴西弗洛里亚诺波利斯埃尔西利奥·卢斯国际机场时坠毁。机上58人中有55人遇难。
+- - 1980年：利比里亚美利比政府被暴力废黜。
+- - 1970 年：携带四枚核鱼雷的苏联潜艇 K-8 在船上起火四天后在比斯开湾沉没。
+- - 1963 年：苏联核动力潜艇 K-33 在丹麦海峡与芬兰商船 M/S Finnclipper 相撞。[需要引用]
+- - 1961 年：太空竞赛：苏联宇航员尤里·加加林成为第一个进入外太空并进行首次载人轨道飞行“东方 1 号”的人。
+- - 1955 年：乔纳斯·索尔克博士开发的脊髓灰质炎疫苗被宣布安全有效。
+- - 1945 年：第二次世界大战：威廉·H·辛普森 (William H. Simpson) 将军率领的美国第九集团军跨过马格德堡跨过易北河，到达距离柏林仅 80 公里的唐格明德 (Tangermünde)。
+- - 1945 年：美国总统富兰克林·罗斯福在任内去世；罗斯福去世后，副总统哈里·S·杜鲁门继任总统。
+- - 1937 年：弗兰克·惠特尔爵士在英国拉格比对第一台为飞机提供动力的喷气发动机进行了地面测试。
+- - 1934 年：美国 Auto-Lite 罢工开始，最终导致俄亥俄州国民警卫队与 6,000 名罢工者和纠察队之间为期五天的混战。[需要引用]
+- - 1934 年：在新罕布什尔州华盛顿山顶测得的世界上最强的地面阵风，时速为 231 英里/小时。此后已被超越。
+- - 1928 年：德国 Junkers W 33 型飞机 Bremen 起飞，首次成功实现从东到西的跨大西洋飞机飞行。
+- - 1927 年：德克萨斯州罗克斯普林斯遭受 F5 龙卷风袭击，摧毁了该镇 247 栋建筑中的 235 栋，造成 72 名镇民死亡、205 人受伤；德克萨斯州历史上第三次最致命的龙卷风。
+- - 1927年：1927年上海大屠杀：蒋介石下令在上海处决中国共产党成员，结束第一次统一战线。[需要引用]
+- - 1917 年：第一次世界大战：加拿大军队成功从德国人手中夺取维米岭。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-04-11 02:36:58 UTC）*
+*（更新于: 2026-04-12 02:56:10 UTC）*
