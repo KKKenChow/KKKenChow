@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Flooding in the Persian Gulf starts, killing 19 in Oman.
-- 2023: The Jupiter Icy Moons Explorer (JUICE) is launched by the European Space Agency.
-- 2022: 2022 Russian invasion of Ukraine: The Russian warship Moskva sinks.
-- 2016: The foreshock of a major earthquake occurs in Kumamoto, Japan.
-- 2014: Boko Haram abducts 276 girls from a school in Chibok, Nigeria.
-- 2014: Two bombs detonate at a bus station in Nyanya, Nigeria, killing at least 88 people and injuring hundreds. Boko Haram claims responsibility.
-- 2006: Twin blasts triggered by crude bombs during Asr prayer in the Jama Masjid mosque in Delhi injure 13 people.
-- 2005: The Oregon Supreme Court nullifies marriage licenses issued to same-sex couples a year earlier by Multnomah County.
-- 2003: U.S. troops in Baghdad capture Abu Abbas, leader of the Palestinian group that killed an American on the hijacked cruise liner MS Achille Lauro in 1985.
-- 2003: The Human Genome Project is completed with 99% of the human genome sequenced to an accuracy of 99.99%.
-- 2002: Venezuelan president Hugo Chávez returns to office two days after being ousted and arrested by the country's military.
-- 1999: A severe hailstorm strikes Sydney, Australia causing A$2.3 billion in insured damages, the most costly natural disaster in Australian history.
-- 1999: NATO mistakenly bombs a convoy of ethnic Albanian refugees. Yugoslav officials say 75 people were killed.
-- 1997: Pai Hsiao-yen, daughter of Taiwanese artiste Pai Bing-bing is kidnapped on her way to school, preceding her murder.
-- 1994: In a friendly fire incident during Operation Provide Comfort in northern Iraq, two U.S. Air Force aircraft mistakenly shoot-down two U.S. Army helicopters, killing 26 people.
-- 1991: The Republic of Georgia introduces the post of President following its declaration of independence from the Soviet Union.
-- 1988: In a United Nations ceremony in Geneva, Switzerland, the Soviet Union signs an agreement pledging to withdraw its troops from Afghanistan.
-- 1988: The USS Samuel B. Roberts strikes a mine in the Persian Gulf during Operation Earnest Will.
-- 1986: The heaviest hailstones ever recorded, each weighing 1 kilogram (2.2 lb), fall on the Gopalganj district of Bangladesh, killing 92.
-- 1981: STS-1: The first operational Space Shuttle, Columbia completes its first test flight.
-- 1979: The Progressive Alliance of Liberia stages a protest, without a permit, against an increase in rice prices proposed by the government, with clashes between protestors and the police resulting in over 70 deaths and over 500 injuries.
-- 1978: Tbilisi demonstrations: Thousands of Georgians demonstrate against Soviet attempts to change the constitutional status of the Georgian language.
-- 1967: Gnassingbé Eyadéma overthrows Nicolas Grunitzky and installs himself as the new President of Togo, a title he will hold for the next 38 years.
-- 1958: The Soviet satellite Sputnik 2 falls from orbit after a mission duration of 162 days. This was the first spacecraft to carry a living animal, a female dog named Laika, who likely lived only a few hours.
-- 1945: Razing of Friesoythe: The 4th Canadian (Armoured) Division deliberately destroys the German town of Friesoythe on the orders of Major General Christopher Vokes.
-- 1944: Bombay explosion: A massive explosion in Bombay harbor kills 300 and causes economic damage valued at 20 million pounds.
-- 1941: World War II: German and Italian forces attack Tobruk, Libya.
-- 1940: World War II: Royal Marines land in Namsos, Norway, preceding a larger force which will arrive two days later.
-- 1935: The Black Sunday dust storm, considered one of the worst storms of the Dust Bowl, sweeps across the Oklahoma and Texas panhandles and neighboring areas.
-- 1931: The Second Spanish Republic is proclaimed and King Alfonso XIII goes to exile. Meanwhile, in Barcelona, Francesc Macià proclaims the Catalan Republic.
+- 2021: A mass shooting occurred at a Fedex Ground facility in Indianapolis, Indiana, killing nine and injuring seven.
+- 2019: The cathedral of Notre-Dame de Paris in France is seriously damaged by a large fire.
+- 2014: In the worst massacre of the South Sudanese Civil War, more than 400 civilians are gunned down after seeking refuge in houses of worship as well as hospitals.
+- 2013: A wave of bombings across Iraq kills at least 75 people.
+- 2013: Two bombs explode near the finish line at the Boston Marathon in Boston, Massachusetts, killing three people and injuring over 500 others.
+- 2002: Air China Flight 129 crashes on approach to Gimhae International Airport in Busan, South Korea, killing 129 people.
+- 1994: Marrakesh Agreement relating to foundation of World Trade Organization is adopted.
+- 1989: Upon Hu Yaobang's death, the Tiananmen Square protests of 1989 begin in China.
+- 1989: Hillsborough disaster: A human crush occurs at Hillsborough Stadium, home of Sheffield Wednesday, in the FA Cup Semi-final, resulting in the deaths of 97 Liverpool fans.
+- 1986: The United States launches Operation El Dorado Canyon, its bombing raids against Libyan targets in response to a discotheque bombing in West Germany that killed two U.S. servicemen.
+- 1970: During the Cambodian Civil War, massacre of the Vietnamese minority results in 800 bodies flowing down the Mekong river into South Vietnam.
+- 1969: The EC-121 shootdown incident: North Korea shoots down a United States Navy aircraft over the Sea of Japan, killing all 31 on board.
+- 1960: At Shaw University in Raleigh, North Carolina, Ella Baker leads a conference that results in the creation of the Student Nonviolent Coordinating Committee, one of the principal organizations of the civil rights movement in the 1960s.
+- 1955: McDonald's restaurant dates its founding to the opening of a franchised restaurant by Ray Kroc, in Des Plaines, Illinois.
+- 1952: First flight of the Boeing B-52 Stratofortress.
+- 1947: Jackie Robinson debuts for the Brooklyn Dodgers, breaking baseball's color line.
+- 1945: Bergen-Belsen concentration camp is liberated.
+- 1942: The George Cross is awarded "to the island fortress of Malta" by King George VI.
+- 1941: In the Belfast Blitz, 200 bombers of the German Luftwaffe attack Belfast, killing some 1,000 people.
+- 1936: First day of the Arab revolt in Mandatory Palestine.
+- 1923: Racially motivated Nihon Shōgakkō fire lit by a serial arsonist kills 10 children in Sacramento, California.
+- 1923: Insulin becomes generally available for use by people with diabetes.
+- 1922: U.S. Senator John B. Kendrick of Wyoming introduces a resolution calling for an investigation of a secret land deal, which leads to the discovery of the Teapot Dome scandal.
+- 1920: Two security guards are murdered during a robbery in South Braintree, Massachusetts. Anarchists Sacco and Vanzetti would be convicted of and executed for the crime, amid much controversy.
+- 1912: The British passenger liner RMS Titanic sinks in the North Atlantic at 2:20 a.m., two hours and forty minutes after hitting an iceberg. Only 710 of 2,224 passengers and crew on board survive.
+- 1900: Philippine-American War: Filipino guerrillas launch a surprise attack on U.S. infantry and begin a four-day siege of Catubig, Philippines.
+- 1896: Closing ceremony of the Games of the I Olympiad in Athens, Greece.
+- 1892: The General Electric Company is formed.
+- 1865: President Abraham Lincoln dies after being shot the previous evening by actor John Wilkes Booth. Three hours later, Vice President Andrew Johnson is sworn in as president.
+- 1861: President Abraham Lincoln calls for 75,000 militiamen to quell the insurrection that soon became the American Civil War.
 
 Data from muffinlabs
-*(Updated at: 2026-04-14 02:53:44 UTC)*
+*(Updated at: 2026-04-15 02:51:19 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：波斯湾发生洪水，造成阿曼 19 人死亡。
-- - 2023 年：欧洲航天局发射木星冰卫星探测器（JUICE）。
-- - 2022年：2022年俄罗斯入侵乌克兰：俄罗斯军舰莫斯科号沉没。
-- - 2016年：日本熊本发生大地震前震。
-- - 2014 年：博科圣地在尼日利亚奇博克的一所学校绑架了 276 名女孩。
-- - 2014 年：尼日利亚尼亚亚的一个公交车站发生两枚炸弹爆炸，造成至少 88 人死亡、数百人受伤。博科圣地声称对此负责。
-- - 2006年：德里贾玛清真寺在晡礼期间发生两起爆炸，造成13人受伤。
-- - 2005 年：俄勒冈州最高法院宣布摩特诺玛县一年前向同性伴侣发放的结婚证无效。
-- - 2003 年：美军在巴格达抓获了巴勒斯坦组织领导人阿布·阿巴斯 (Abu Abbas)，该组织于 1985 年在被劫持的 MS Achille Lauro 游轮上杀害了一名美国人。
-- - 2003年：人类基因组计划完成，99%的人类基因组已完成测序，准确度达到99.99%。
-- - 2002 年：委内瑞拉总统乌戈·查韦斯 (Hugo Chávez) 在被该国军方驱逐和逮捕两天后重返办公室。
-- - 1999 年：一场严重的冰雹袭击澳大利亚悉尼，造成 23 亿澳元的保险损失，这是澳大利亚历史上损失最惨重的自然灾害。
-- - 1999 年：北约错误地轰炸了一支阿尔巴尼亚难民车队。南斯拉夫官员称75人死亡。
-- - 1997 年：台湾艺人白冰冰的女儿白晓燕在上学途中被绑架，随后被谋杀。
-- - 1994年：在伊拉克北部“提供安慰”行动中发生的一次误伤事件中，两架美国空军飞机误击落了两架美国陆军直升机，造成26人死亡。
-- - 1991年：格鲁吉亚共和国在宣布脱离苏联独立后设立了总统职位。
-- - 1988 年：在瑞士日内瓦举行的联合国仪式上，苏联签署了一项协议，承诺从阿富汗撤军。
-- - 1988 年：塞缪尔·B·罗伯茨号航空母舰在“认真意志”行动中在波斯湾触雷。
-- - 1986 年：有记录以来最重的冰雹落在孟加拉国戈帕尔甘杰地区，造成 92 人死亡，每块冰雹重 1 公斤（2.2 磅）。
-- - 1981 年：STS-1：第一架投入使用的哥伦比亚号航天飞机完成首次试飞。
-- - 1979年：利比里亚进步联盟未经许可举行抗议活动，反对政府提出的提高大米价格的建议，抗议者与警察发生冲突，造成70多人死亡、500多人受伤。
-- - 1978 年：第比利斯示威活动：数千名格鲁吉亚人示威反对苏联改变格鲁吉亚语宪法地位的企图。
-- - 1967 年：纳辛贝·埃亚德马 (Gnassingbé Eyadéma) 推翻尼古拉斯·格鲁尼茨基 (Nicolas Grunitzky) 并自立为多哥新总统，他将在接下来的 38 年中担任这一头衔。
-- - 1958 年：苏联人造卫星 2 号在执行了 162 天的任务后从轨道坠落。这是第一艘运载活体动物的航天器，这是一只名叫莱卡的母狗，它可能只活了几个小时。
-- - 1945 年：夷平弗里索伊特：加拿大第 4（装甲）师按照克里斯托弗·沃克斯少将的命令故意摧毁了德国城镇弗里索伊特。
-- - 1944 年：孟买爆炸：孟买港口发生大规模爆炸，造成 300 人死亡，造成价值 2000 万英镑的经济损失。
-- - 1941 年：第二次世界大战：德国和意大利军队进攻利比亚托布鲁克。
-- - 1940 年：第二次世界大战：皇家海军陆战队在挪威纳姆索斯登陆，两天后一支更大规模的部队将抵达。
-- - 1935 年：黑色星期日沙尘暴席卷了俄克拉荷马州和德克萨斯州的狭长地带及邻近地区，被认为是沙尘暴期间最严重的风暴之一。
-- - 1931 年：西班牙第二共和国成立，国王阿方索十三世流亡。与此同时，弗朗西斯科·马西亚在巴塞罗那宣布加泰罗尼亚共和国成立。
+- - 2021 年：印第安纳州印第安纳波利斯的联邦快递地面设施发生大规模枪击事件，造成 9 人死亡、7 人受伤。
+- - 2019年：法国巴黎圣母院大教堂因大火严重受损。
+- - 2014 年：南苏丹内战最严重的屠杀中，400 多名平民在礼拜堂和医院寻求庇护后被枪杀。
+- - 2013 年：伊拉克各地发生一波爆炸事件，造成至少 75 人死亡。
+- - 2013 年：马萨诸塞州波士顿的波士顿马拉松比赛终点线附近发生两枚炸弹爆炸，造成 3 人死亡、500 多人受伤。
+- - 2002年：中国国际航空公司129号航班在飞往韩国釜山金海国际机场时坠毁，造成129人死亡。
+- - 1994年：通过有关建立世界贸易组织的马拉喀什协定。
+- - 1989年：胡耀邦去世后，1989年的天安门广场抗议活动在中国开始。
+- - 1989年：希尔斯堡惨案：足总杯半决赛中，谢菲尔德星期三主场希尔斯堡球场发生人员挤压事件，导致97名利物浦球迷死亡。
+- - 1986 年：美国发起“埃尔多拉多峡谷”行动，对利比亚目标进行轰炸袭击，以回应西德迪斯科舞厅爆炸事件，造成两名美国军人死亡。
+- - 1970 年：柬埔寨内战期间，对越南少数民族的屠杀导致 800 具尸体顺湄公河流入南越。
+- - 1969 年：EC-121 击落事件：朝鲜在日本海击落一架美国海军飞机，机上 31 人全部遇难。
+- - 1960 年：在北卡罗来纳州罗利市的逸夫大学，埃拉·贝克 (Ella Baker) 主持了一次会议，会议最终成立了学生非暴力协调委员会，该委员会是 20 世纪 60 年代民权运动的主要组织之一。
+- - 1955 年：雷·克罗克 (Ray Kroc) 在伊利诺伊州德斯普兰斯市开设了一家特许经营餐厅，麦当劳餐厅由此成立。
+- - 1952 年：波音 B-52 Stratofortress 首次飞行。
+- - 1947 年：杰基·罗宾逊 (Jackie Robinson) 首次代表布鲁克林道奇队 (Brooklyn Dodgers) 首次亮相，打破了棒球界的肤色界限。
+- - 1945 年：贝尔根-贝尔森集中营解放。
+- - 1942 年：乔治六世国王将乔治十字勋章授予“马耳他岛要塞”。
+- - 1941 年：在贝尔法斯特闪电战中，德国空军 200 架轰炸机袭击贝尔法斯特，造成约 1,000 人死亡。
+- - 1936 年：托管巴勒斯坦阿拉伯起义的第一天。
+- - 1923 年：加利福尼亚州萨克拉门托，一名连环纵火犯出于种族动机在日本小学放火，导致 10 名儿童死亡。
+- - 1923 年：糖尿病患者普遍可以使用胰岛素。
+- - 1922 年：怀俄明州的美国参议员约翰·B·肯德里克 (John B. Kendrick) 提出一项决议，要求对一项秘密土地交易进行调查，从而导致茶壶穹顶丑闻的曝光。
+- - 1920 年：两名保安在马萨诸塞州南布伦特里的一次抢劫中被谋杀。无政府主义者萨科和万泽蒂将因这一罪行被定罪并被处决，引发了诸多争议。
+- - 1912 年：英国邮轮泰坦尼克号于凌晨 2 点 20 分在北大西洋沉没，即撞上冰山两小时四十分钟后。机上 2,224 名乘客和机组人员中只有 710 人幸存。
+- - 1900 年：菲美战争：菲律宾游击队对美国步兵发起突然袭击，并开始对菲律宾卡图比格进行为期四天的围困。
+- - 1896 年：希腊雅典第一届奥林匹克运动会闭幕式。
+- - 1892 年：通用电气公司成立。
+- - 1865 年：亚伯拉罕·林肯总统在前一天晚上被演员约翰·威尔克斯·布斯枪杀后去世。三小时后，副总统安德鲁·约翰逊宣誓就任总统。
+- - 1861 年：亚伯拉罕·林肯总统号召 75,000 名民兵镇压叛乱，这场叛乱很快演变为美国内战。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-04-14 02:53:44 UTC）*
+*（更新于: 2026-04-15 02:51:19 UTC）*
