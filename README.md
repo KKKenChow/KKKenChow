@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: A mass shooting occurred at a Fedex Ground facility in Indianapolis, Indiana, killing nine and injuring seven.
-- 2019: The cathedral of Notre-Dame de Paris in France is seriously damaged by a large fire.
-- 2014: In the worst massacre of the South Sudanese Civil War, more than 400 civilians are gunned down after seeking refuge in houses of worship as well as hospitals.
-- 2013: A wave of bombings across Iraq kills at least 75 people.
-- 2013: Two bombs explode near the finish line at the Boston Marathon in Boston, Massachusetts, killing three people and injuring over 500 others.
-- 2002: Air China Flight 129 crashes on approach to Gimhae International Airport in Busan, South Korea, killing 129 people.
-- 1994: Marrakesh Agreement relating to foundation of World Trade Organization is adopted.
-- 1989: Upon Hu Yaobang's death, the Tiananmen Square protests of 1989 begin in China.
-- 1989: Hillsborough disaster: A human crush occurs at Hillsborough Stadium, home of Sheffield Wednesday, in the FA Cup Semi-final, resulting in the deaths of 97 Liverpool fans.
-- 1986: The United States launches Operation El Dorado Canyon, its bombing raids against Libyan targets in response to a discotheque bombing in West Germany that killed two U.S. servicemen.
-- 1970: During the Cambodian Civil War, massacre of the Vietnamese minority results in 800 bodies flowing down the Mekong river into South Vietnam.
-- 1969: The EC-121 shootdown incident: North Korea shoots down a United States Navy aircraft over the Sea of Japan, killing all 31 on board.
-- 1960: At Shaw University in Raleigh, North Carolina, Ella Baker leads a conference that results in the creation of the Student Nonviolent Coordinating Committee, one of the principal organizations of the civil rights movement in the 1960s.
-- 1955: McDonald's restaurant dates its founding to the opening of a franchised restaurant by Ray Kroc, in Des Plaines, Illinois.
-- 1952: First flight of the Boeing B-52 Stratofortress.
-- 1947: Jackie Robinson debuts for the Brooklyn Dodgers, breaking baseball's color line.
-- 1945: Bergen-Belsen concentration camp is liberated.
-- 1942: The George Cross is awarded "to the island fortress of Malta" by King George VI.
-- 1941: In the Belfast Blitz, 200 bombers of the German Luftwaffe attack Belfast, killing some 1,000 people.
-- 1936: First day of the Arab revolt in Mandatory Palestine.
-- 1923: Racially motivated Nihon Shōgakkō fire lit by a serial arsonist kills 10 children in Sacramento, California.
-- 1923: Insulin becomes generally available for use by people with diabetes.
-- 1922: U.S. Senator John B. Kendrick of Wyoming introduces a resolution calling for an investigation of a secret land deal, which leads to the discovery of the Teapot Dome scandal.
-- 1920: Two security guards are murdered during a robbery in South Braintree, Massachusetts. Anarchists Sacco and Vanzetti would be convicted of and executed for the crime, amid much controversy.
-- 1912: The British passenger liner RMS Titanic sinks in the North Atlantic at 2:20 a.m., two hours and forty minutes after hitting an iceberg. Only 710 of 2,224 passengers and crew on board survive.
-- 1900: Philippine-American War: Filipino guerrillas launch a surprise attack on U.S. infantry and begin a four-day siege of Catubig, Philippines.
-- 1896: Closing ceremony of the Games of the I Olympiad in Athens, Greece.
-- 1892: The General Electric Company is formed.
-- 1865: President Abraham Lincoln dies after being shot the previous evening by actor John Wilkes Booth. Three hours later, Vice President Andrew Johnson is sworn in as president.
-- 1861: President Abraham Lincoln calls for 75,000 militiamen to quell the insurrection that soon became the American Civil War.
+- 2024:  The historic Børsen in Copenhagen, Denmark, is severely damaged by a fire.
+- 2018: The New York Times and the New Yorker win the Pulitzer Prize for Public Service for breaking news of the Harvey Weinstein sexual abuse scandal.
+- 2016: Ecuador's worst earthquake in nearly 40 years kills 676 and injures more than 230,000.
+- 2014: The South Korean ferry MV Sewol capsizes and sinks near Jindo Island, killing 304 passengers and crew and leading to widespread criticism of the South Korean government, media, and shipping authorities.
+- 2013: The 2013 Baga massacre is started when Boko Haram militants engage government soldiers in Baga.
+- 2013: A 7.8-magnitude earthquake strikes Sistan and Balochistan province, Iran, killing at least 35 people and injuring 117 others.
+- 2012: The Pulitzer Prize winners were announced, it was the first time since 1977 that no book won the Fiction Prize.
+- 2012: The trial for Anders Behring Breivik, the perpetrator of the 2011 Norway attacks, begins in Oslo, Norway.
+- 2008: The U.S. Supreme Court rules in the Baze v. Rees decision that execution by lethal injection does not violate the Eighth Amendment ban against cruel and unusual punishment.
+- 2007: Virginia Tech shooting: Seung-Hui Cho murders 32 people and injures 17 before committing suicide.
+- 2003: The Treaty of Accession is signed in Athens admitting ten new member states to the European Union.
+- 2001: India and Bangladesh begin a five-day border conflict, but are unable to resolve the disputes about their border.
+- 1972: Apollo program: The launch of Apollo 16 from Cape Canaveral, Florida.
+- 1963: U.S. civil rights campaigner Dr. Martin Luther King Jr. writes his open letter from Birmingham Jail, sometimes known as "The Negro Is Your Brother", while incarcerated in Birmingham, Alabama, for protesting against segregation.
+- 1961: In a nationally broadcast speech, Cuban leader Fidel Castro declares that he is a Marxist-Leninist and that Cuba is going to adopt Communism.
+- 1948: The Organization of European Economic Co-operation is formed.
+- 1947: Bernard Baruch first applies the term "Cold War" to describe the relationship between the United States and the Soviet Union.
+- 1947: An explosion on board a freighter in port causes the city of Texas, United States, to catch fire, killing almost 600 people.
+- 1945: More than 7,000 die when the German transport ship Goya is sunk by a Soviet submarine.
+- 1945: The United States Army liberates Nazi Sonderlager (high security) prisoner-of-war camp Oflag IV-C (better known as Colditz).
+- 1945: World War II: The Red Army begins the final assault on German forces around Berlin, with nearly one million troops fighting in the Battle of the Seelow Heights.
+- 1944: World War II: Allied forces start bombing Belgrade, killing about 1,100 people. This bombing fell on the Orthodox Christian Easter.
+- 1943: Albert Hofmann accidentally discovers the hallucinogenic effects of the research drug LSD. He intentionally takes the drug three days later on April 19.
+- 1942: King George VI awards the George Cross to the people of Malta in appreciation of their heroism.
+- 1941: World War II: The Nazi-affiliated Ustaše is put in charge of the Independent State of Croatia by the Axis powers after Operation 25 is effected.
+- 1941: World War II: The Italian-German Tarigo convoy is attacked and destroyed by British ships.
+- 1925: During the Communist St Nedelya Church assault in Sofia, Bulgaria, 150 are killed and 500 are wounded.
+- 1922: The Treaty of Rapallo, pursuant to which Germany and the Soviet Union re-establish diplomatic relations, is signed.
+- 1919: Polish-Lithuanian War: The Polish Army launches the Vilna offensive to capture Vilnius in modern Lithuania.
+- 1919: Mohandas Gandhi organizes a day of "prayer and fasting" in response to the killing of Indian protesters in the Jallianwala Bagh massacre by the British colonial troops three days earlier.
 
 Data from muffinlabs
-*(Updated at: 2026-04-15 02:51:19 UTC)*
+*(Updated at: 2026-04-16 03:17:59 UTC)*
 
 # 历史上的今天 
 
-- - 2021 年：印第安纳州印第安纳波利斯的联邦快递地面设施发生大规模枪击事件，造成 9 人死亡、7 人受伤。
-- - 2019年：法国巴黎圣母院大教堂因大火严重受损。
-- - 2014 年：南苏丹内战最严重的屠杀中，400 多名平民在礼拜堂和医院寻求庇护后被枪杀。
-- - 2013 年：伊拉克各地发生一波爆炸事件，造成至少 75 人死亡。
-- - 2013 年：马萨诸塞州波士顿的波士顿马拉松比赛终点线附近发生两枚炸弹爆炸，造成 3 人死亡、500 多人受伤。
-- - 2002年：中国国际航空公司129号航班在飞往韩国釜山金海国际机场时坠毁，造成129人死亡。
-- - 1994年：通过有关建立世界贸易组织的马拉喀什协定。
-- - 1989年：胡耀邦去世后，1989年的天安门广场抗议活动在中国开始。
-- - 1989年：希尔斯堡惨案：足总杯半决赛中，谢菲尔德星期三主场希尔斯堡球场发生人员挤压事件，导致97名利物浦球迷死亡。
-- - 1986 年：美国发起“埃尔多拉多峡谷”行动，对利比亚目标进行轰炸袭击，以回应西德迪斯科舞厅爆炸事件，造成两名美国军人死亡。
-- - 1970 年：柬埔寨内战期间，对越南少数民族的屠杀导致 800 具尸体顺湄公河流入南越。
-- - 1969 年：EC-121 击落事件：朝鲜在日本海击落一架美国海军飞机，机上 31 人全部遇难。
-- - 1960 年：在北卡罗来纳州罗利市的逸夫大学，埃拉·贝克 (Ella Baker) 主持了一次会议，会议最终成立了学生非暴力协调委员会，该委员会是 20 世纪 60 年代民权运动的主要组织之一。
-- - 1955 年：雷·克罗克 (Ray Kroc) 在伊利诺伊州德斯普兰斯市开设了一家特许经营餐厅，麦当劳餐厅由此成立。
-- - 1952 年：波音 B-52 Stratofortress 首次飞行。
-- - 1947 年：杰基·罗宾逊 (Jackie Robinson) 首次代表布鲁克林道奇队 (Brooklyn Dodgers) 首次亮相，打破了棒球界的肤色界限。
-- - 1945 年：贝尔根-贝尔森集中营解放。
-- - 1942 年：乔治六世国王将乔治十字勋章授予“马耳他岛要塞”。
-- - 1941 年：在贝尔法斯特闪电战中，德国空军 200 架轰炸机袭击贝尔法斯特，造成约 1,000 人死亡。
-- - 1936 年：托管巴勒斯坦阿拉伯起义的第一天。
-- - 1923 年：加利福尼亚州萨克拉门托，一名连环纵火犯出于种族动机在日本小学放火，导致 10 名儿童死亡。
-- - 1923 年：糖尿病患者普遍可以使用胰岛素。
-- - 1922 年：怀俄明州的美国参议员约翰·B·肯德里克 (John B. Kendrick) 提出一项决议，要求对一项秘密土地交易进行调查，从而导致茶壶穹顶丑闻的曝光。
-- - 1920 年：两名保安在马萨诸塞州南布伦特里的一次抢劫中被谋杀。无政府主义者萨科和万泽蒂将因这一罪行被定罪并被处决，引发了诸多争议。
-- - 1912 年：英国邮轮泰坦尼克号于凌晨 2 点 20 分在北大西洋沉没，即撞上冰山两小时四十分钟后。机上 2,224 名乘客和机组人员中只有 710 人幸存。
-- - 1900 年：菲美战争：菲律宾游击队对美国步兵发起突然袭击，并开始对菲律宾卡图比格进行为期四天的围困。
-- - 1896 年：希腊雅典第一届奥林匹克运动会闭幕式。
-- - 1892 年：通用电气公司成立。
-- - 1865 年：亚伯拉罕·林肯总统在前一天晚上被演员约翰·威尔克斯·布斯枪杀后去世。三小时后，副总统安德鲁·约翰逊宣誓就任总统。
-- - 1861 年：亚伯拉罕·林肯总统号召 75,000 名民兵镇压叛乱，这场叛乱很快演变为美国内战。
+- - 2024 年：丹麦哥本哈根历史悠久的交易所 (Børsen) 因火灾严重受损。
+- - 2018 年：《纽约时报》和《纽约客》因哈维·韦恩斯坦性虐待丑闻的突发新闻而荣获普利策公共服务奖。
+- - 2016 年：厄瓜多尔发生近 40 年来最严重的地震，造成 676 人死亡、超过 23 万人受伤。
+- - 2014年：韩国渡轮“世越号”在珍岛附近倾覆沉没，造成304名乘客和船员死亡，并引发韩国政府、媒体和航运当局的广泛批评。
+- - 2013 年：2013 年巴加大屠杀始于博科圣地武装分子在巴加与政府士兵交战。
+- - 2013年：伊朗锡斯坦和俾路支省发生7.8级地震，造成至少35人死亡、117人受伤。
+- - 2012年：普利策奖获奖者揭晓，这是自1977年以来首次没有书籍获得小说奖。
+- - 2012 年：2011 年挪威袭击事件的肇事者安德斯·贝林·布雷维克 (Anders Behring Breivik) 在挪威奥斯陆开始受审。
+- - 2008年：美国最高法院在贝兹诉里斯案的判决中裁定，注射死刑并不违反第八修正案禁止残忍和非常刑罚的规定。
+- - 2007 年：弗吉尼亚理工大学枪击事件：赵承熙 (Seung-Hui Cho) 谋杀了 32 人，打伤 17 人，然后自杀。
+- - 2003年：在雅典签署加入条约，接纳十个新成员国加入欧盟。
+- - 2001年：印度和孟加拉国开始为期五天的边界冲突，但无法解决边界争端。
+- - 1972 年：阿波罗计划：阿波罗 16 号从佛罗里达州卡纳维拉尔角发射。
+- - 1963 年：美国民权运动家马丁·路德·金博士在阿拉巴马州伯明翰被监禁期间，在伯明翰监狱（有时被称为“黑人是你的兄弟”）写了一封公开信，抗议种族隔离。
+- - 1961年：古巴领导人菲德尔·卡斯特罗在全国广播讲话中宣称他是马克思列宁主义者，古巴将实行共产主义。
+- - 1948 年：欧洲经济合作组织成立。
+- - 1947年：伯纳德·巴鲁克首次使用“冷战”一词来描述美国和苏联之间的关系。
+- - 1947 年：美国德克萨斯州港口一艘货轮发生爆炸，引发火灾，造成近 600 人死亡。
+- - 1945 年：德国运输船戈雅号被苏联潜艇击沉，造成 7,000 多人死亡。
+- - 1945 年：美国陆军解放纳粹 Sonderlager（高度戒备）战俘营 Oflag IV-C（更广为人知的名称为 Colditz）。
+- - 1945 年：第二次世界大战：红军开始对柏林周边的德军进行最后的进攻，近百万士兵参加了施劳夫高地战役。
+- - 1944 年：第二次世界大战：盟军开始轰炸贝尔格莱德，造成约 1,100 人死亡。这次爆炸发生在东正教复活节当天。
+- - 1943 年：阿尔伯特·霍夫曼 (Albert Hofmann) 意外发现了研究药物 LSD 的致幻作用。三天后，也就是 4 月 19 日，他故意服药。
+- - 1942 年：乔治六世国王向马耳他人民授予乔治十字勋章，以表彰他们的英雄主义。
+- - 1941 年：第二次世界大战：第 25 号行动实施后，轴心国将隶属纳粹的乌斯塔沙任命为克罗地亚独立国的负责人。
+- - 1941 年：第二次世界大战：意大利-德国塔里戈船队遭到英国船只的攻击并被摧毁。
+- - 1925 年：共产党对保加利亚索非亚圣内德利亚教堂发动袭击，造成 150 人死亡、500 人受伤。
+- - 1922 年：签署《拉帕洛条约》，德国和苏联根据该条约重新建立外交关系。
+- - 1919 年：波兰-立陶宛战争：波兰军队发动维尔纳攻势，占领现代立陶宛的维尔纽斯。
+- - 1919 年：莫罕达斯·甘地组织了一天的“祈祷和禁食”活动，以回应三天前英国殖民军队在贾里安瓦拉园大屠杀中杀害印度抗议者的事件。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-04-15 02:51:19 UTC）*
+*（更新于: 2026-04-16 03:17:59 UTC）*
