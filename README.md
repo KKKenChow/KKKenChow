@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024:  The historic Børsen in Copenhagen, Denmark, is severely damaged by a fire.
-- 2018: The New York Times and the New Yorker win the Pulitzer Prize for Public Service for breaking news of the Harvey Weinstein sexual abuse scandal.
-- 2016: Ecuador's worst earthquake in nearly 40 years kills 676 and injures more than 230,000.
-- 2014: The South Korean ferry MV Sewol capsizes and sinks near Jindo Island, killing 304 passengers and crew and leading to widespread criticism of the South Korean government, media, and shipping authorities.
-- 2013: The 2013 Baga massacre is started when Boko Haram militants engage government soldiers in Baga.
-- 2013: A 7.8-magnitude earthquake strikes Sistan and Balochistan province, Iran, killing at least 35 people and injuring 117 others.
-- 2012: The Pulitzer Prize winners were announced, it was the first time since 1977 that no book won the Fiction Prize.
-- 2012: The trial for Anders Behring Breivik, the perpetrator of the 2011 Norway attacks, begins in Oslo, Norway.
-- 2008: The U.S. Supreme Court rules in the Baze v. Rees decision that execution by lethal injection does not violate the Eighth Amendment ban against cruel and unusual punishment.
-- 2007: Virginia Tech shooting: Seung-Hui Cho murders 32 people and injures 17 before committing suicide.
-- 2003: The Treaty of Accession is signed in Athens admitting ten new member states to the European Union.
-- 2001: India and Bangladesh begin a five-day border conflict, but are unable to resolve the disputes about their border.
-- 1972: Apollo program: The launch of Apollo 16 from Cape Canaveral, Florida.
-- 1963: U.S. civil rights campaigner Dr. Martin Luther King Jr. writes his open letter from Birmingham Jail, sometimes known as "The Negro Is Your Brother", while incarcerated in Birmingham, Alabama, for protesting against segregation.
-- 1961: In a nationally broadcast speech, Cuban leader Fidel Castro declares that he is a Marxist-Leninist and that Cuba is going to adopt Communism.
-- 1948: The Organization of European Economic Co-operation is formed.
-- 1947: Bernard Baruch first applies the term "Cold War" to describe the relationship between the United States and the Soviet Union.
-- 1947: An explosion on board a freighter in port causes the city of Texas, United States, to catch fire, killing almost 600 people.
-- 1945: More than 7,000 die when the German transport ship Goya is sunk by a Soviet submarine.
-- 1945: The United States Army liberates Nazi Sonderlager (high security) prisoner-of-war camp Oflag IV-C (better known as Colditz).
-- 1945: World War II: The Red Army begins the final assault on German forces around Berlin, with nearly one million troops fighting in the Battle of the Seelow Heights.
-- 1944: World War II: Allied forces start bombing Belgrade, killing about 1,100 people. This bombing fell on the Orthodox Christian Easter.
-- 1943: Albert Hofmann accidentally discovers the hallucinogenic effects of the research drug LSD. He intentionally takes the drug three days later on April 19.
-- 1942: King George VI awards the George Cross to the people of Malta in appreciation of their heroism.
-- 1941: World War II: The Nazi-affiliated Ustaše is put in charge of the Independent State of Croatia by the Axis powers after Operation 25 is effected.
-- 1941: World War II: The Italian-German Tarigo convoy is attacked and destroyed by British ships.
-- 1925: During the Communist St Nedelya Church assault in Sofia, Bulgaria, 150 are killed and 500 are wounded.
-- 1922: The Treaty of Rapallo, pursuant to which Germany and the Soviet Union re-establish diplomatic relations, is signed.
-- 1919: Polish-Lithuanian War: The Polish Army launches the Vilna offensive to capture Vilnius in modern Lithuania.
-- 1919: Mohandas Gandhi organizes a day of "prayer and fasting" in response to the killing of Indian protesters in the Jallianwala Bagh massacre by the British colonial troops three days earlier.
+- 2021: The funeral of Prince Philip, Duke of Edinburgh, takes place at St George's Chapel, Windsor Castle.
+- 2014: NASA's Kepler space telescope confirms the discovery of the first Earth-size planet in the habitable zone of another star.
+- 2013: An explosion at a fertilizer plant in the city of West, Texas, kills 15 people and injures 160 others.
+- 2006: A Palestinian suicide bomber detonates an explosive device in a Tel Aviv restaurant, killing 11 people and injuring 70.
+- 2003: Anneli Jäätteenmäki takes office as the first female prime minister of Finland.
+- 1998: Space Shuttle Columbia is launched on STS-90, the final Spacelab mission.
+- 1992: The Katina P is deliberately run aground off Maputo, Mozambique, and 60,000 tons of crude oil spill into the ocean.
+- 1986: An alleged state of war lasting 335 years between the Netherlands and the Isles of Scilly declared peace bringing an end to any hypothetical war that may have been legally considered to exist.
+- 1982: Constitution Act, 1982 Patriation of the Canadian constitution in Ottawa by Proclamation of Elizabeth II, Queen of Canada.
+- 1978: Mir Akbar Khyber is assassinated, provoking the Saur Revolution in Afghanistan.
+- 1975: The Cambodian Civil War ends and the Cambodian Genocide begins. The Khmer Rouge captures the capital Phnom Penh and Cambodian government forces surrender.
+- 1971: The Provisional Government of Bangladesh is formed.
+- 1970: Apollo program: The damaged Apollo 13 spacecraft returns to Earth safely.
+- 1969: Communist Party of Czechoslovakia chairman Alexander Dubček is deposed.
+- 1969: Sirhan Sirhan is convicted of assassinating Robert F. Kennedy.
+- 1964: Jerrie Mock completes the first around-the-world airplane flight by a woman. Her solo flight in the Spirit of Columbus, which took 29 1/2 days, took off and landed at the Port Columbus International Airport in Ohio.
+- 1961: Bay of Pigs Invasion: A group of Cuban exiles financed and trained by the CIA lands at the Bay of Pigs in Cuba with the aim of ousting Fidel Castro.
+- 1951: The Peak District becomes the United Kingdom's first National Park.
+- 1946: The last French troops are withdrawn from Syria.
+- 1945: Historian Tran Trong Kim is appointed the Prime Minister of the Empire of Vietnam.
+- 1945: World War II: Montese, Italy, is liberated from Nazi forces.
+- 1944: Forces of the Communist-controlled Greek People's Liberation Army attack the smaller National and Social Liberation resistance group, which surrenders. Its leader Dimitrios Psarros is murdered.
+- 1942: French prisoner of war General Henri Giraud escapes from his castle prison in Königstein Fortress.
+- 1941: World War II: The Axis powers invasion of Yugoslavia is completed when it signs an armistice with Germany and Italy.
+- 1931: After negotiations between Catalan and Spanish provisional governments, the Catalan Republic proclaimed in April 14 becomes the Generalitat de Catalunya, the autonomous government of Catalonia within the Spanish Republic.
+- 1925: The Communist Party of Korea (CPK) was founded in Japanese-ruled Korea (Chōsen) in Keijō (now Seoul) by Kim Yong-bom and Pak Hon-yong.
+- 1912: Russian troops open fire on striking goldfield workers in northeast Siberia, killing at least 150.
+- 1907: The Ellis Island immigration center processes 11,747 people, more than on any other day.
+- 1905: The Supreme Court of the United States decides Lochner v. New York, which holds that the "right to free contract" is implicit in the due process clause of the Fourteenth Amendment to the United States Constitution.
+- 1895: The Treaty of Shimonoseki between China and Japan is signed. This marks the end of the First Sino-Japanese War, and the defeated Qing Empire is forced to renounce its claims on Korea and to concede the southern portion of the Fengtian province, Taiwan and the Penghu to Japan.
 
 Data from muffinlabs
-*(Updated at: 2026-04-16 03:17:59 UTC)*
+*(Updated at: 2026-04-17 02:53:58 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：丹麦哥本哈根历史悠久的交易所 (Børsen) 因火灾严重受损。
-- - 2018 年：《纽约时报》和《纽约客》因哈维·韦恩斯坦性虐待丑闻的突发新闻而荣获普利策公共服务奖。
-- - 2016 年：厄瓜多尔发生近 40 年来最严重的地震，造成 676 人死亡、超过 23 万人受伤。
-- - 2014年：韩国渡轮“世越号”在珍岛附近倾覆沉没，造成304名乘客和船员死亡，并引发韩国政府、媒体和航运当局的广泛批评。
-- - 2013 年：2013 年巴加大屠杀始于博科圣地武装分子在巴加与政府士兵交战。
-- - 2013年：伊朗锡斯坦和俾路支省发生7.8级地震，造成至少35人死亡、117人受伤。
-- - 2012年：普利策奖获奖者揭晓，这是自1977年以来首次没有书籍获得小说奖。
-- - 2012 年：2011 年挪威袭击事件的肇事者安德斯·贝林·布雷维克 (Anders Behring Breivik) 在挪威奥斯陆开始受审。
-- - 2008年：美国最高法院在贝兹诉里斯案的判决中裁定，注射死刑并不违反第八修正案禁止残忍和非常刑罚的规定。
-- - 2007 年：弗吉尼亚理工大学枪击事件：赵承熙 (Seung-Hui Cho) 谋杀了 32 人，打伤 17 人，然后自杀。
-- - 2003年：在雅典签署加入条约，接纳十个新成员国加入欧盟。
-- - 2001年：印度和孟加拉国开始为期五天的边界冲突，但无法解决边界争端。
-- - 1972 年：阿波罗计划：阿波罗 16 号从佛罗里达州卡纳维拉尔角发射。
-- - 1963 年：美国民权运动家马丁·路德·金博士在阿拉巴马州伯明翰被监禁期间，在伯明翰监狱（有时被称为“黑人是你的兄弟”）写了一封公开信，抗议种族隔离。
-- - 1961年：古巴领导人菲德尔·卡斯特罗在全国广播讲话中宣称他是马克思列宁主义者，古巴将实行共产主义。
-- - 1948 年：欧洲经济合作组织成立。
-- - 1947年：伯纳德·巴鲁克首次使用“冷战”一词来描述美国和苏联之间的关系。
-- - 1947 年：美国德克萨斯州港口一艘货轮发生爆炸，引发火灾，造成近 600 人死亡。
-- - 1945 年：德国运输船戈雅号被苏联潜艇击沉，造成 7,000 多人死亡。
-- - 1945 年：美国陆军解放纳粹 Sonderlager（高度戒备）战俘营 Oflag IV-C（更广为人知的名称为 Colditz）。
-- - 1945 年：第二次世界大战：红军开始对柏林周边的德军进行最后的进攻，近百万士兵参加了施劳夫高地战役。
-- - 1944 年：第二次世界大战：盟军开始轰炸贝尔格莱德，造成约 1,100 人死亡。这次爆炸发生在东正教复活节当天。
-- - 1943 年：阿尔伯特·霍夫曼 (Albert Hofmann) 意外发现了研究药物 LSD 的致幻作用。三天后，也就是 4 月 19 日，他故意服药。
-- - 1942 年：乔治六世国王向马耳他人民授予乔治十字勋章，以表彰他们的英雄主义。
-- - 1941 年：第二次世界大战：第 25 号行动实施后，轴心国将隶属纳粹的乌斯塔沙任命为克罗地亚独立国的负责人。
-- - 1941 年：第二次世界大战：意大利-德国塔里戈船队遭到英国船只的攻击并被摧毁。
-- - 1925 年：共产党对保加利亚索非亚圣内德利亚教堂发动袭击，造成 150 人死亡、500 人受伤。
-- - 1922 年：签署《拉帕洛条约》，德国和苏联根据该条约重新建立外交关系。
-- - 1919 年：波兰-立陶宛战争：波兰军队发动维尔纳攻势，占领现代立陶宛的维尔纽斯。
-- - 1919 年：莫罕达斯·甘地组织了一天的“祈祷和禁食”活动，以回应三天前英国殖民军队在贾里安瓦拉园大屠杀中杀害印度抗议者的事件。
+- - 2021 年：爱丁堡公爵菲利普亲王的葬礼在温莎城堡圣乔治教堂举行。
+- - 2014 年：美国宇航局的开普勒太空望远镜证实在另一颗恒星的宜居带中发现了第一颗地球大小的行星。
+- - 2013 年：德克萨斯州韦斯特市一家化肥厂发生爆炸，造成 15 人死亡、160 人受伤。
+- - 2006年：一名巴勒斯坦自杀式炸弹袭击者在特拉维夫一家餐馆引爆爆炸装置，造成11人死亡、70人受伤。
+- - 2003 年：Anneli Jäätteenmäki 就任芬兰第一位女总理。
+- - 1998 年：哥伦比亚号航天飞机搭载 STS-90 升空，这是最后一次太空实验室任务。
+- - 1992年：“Katina P”号在莫桑比克马普托附近故意搁浅，6万吨原油泄漏入海。
+- - 1986 年：荷兰和锡利群岛之间据称持续 335 年的战争状态宣布和平，结束了任何在法律上可能被认为存在的假想战争。
+- - 1982 年：《宪法法案》，1982 年加拿大女王伊丽莎白二世在渥太华宣布加拿大宪法归国。
+- - 1978 年：米尔·阿克巴尔·开伯尔被暗杀，引发了阿富汗的绍尔革命。
+- - 1975 年：柬埔寨内战结束，柬埔寨种族灭绝开始。红色高棉占领首都金边，柬埔寨政府军投降。
+- - 1971 年：孟加拉国临时政府成立。
+- - 1970 年：阿波罗计划：受损的阿波罗 13 号航天器安全返回地球。
+- - 1969年：捷克斯洛伐克共产党主席亚历山大·杜布切克被废黜。
+- - 1969 年：Sirhan Sirhan 因刺杀罗伯特·F·肯尼迪而被定罪。
+- - 1964 年：Jerrie Mock 完成了女性首次环球飞行。她乘坐“哥伦布精神”号单人飞行，历时 29 1/2 天，在俄亥俄州哥伦布港国际机场起飞和降落。
+- - 1961年：猪湾入侵：一群由中央情报局资助和训练的古巴流亡者登陆古巴猪湾，目的是推翻菲德尔·卡斯特罗。
+- - 1951 年：峰区成为英国第一个国家公园。
+- - 1946 年：最后一批法国军队从叙利亚撤出。
+- - 1945 年：历史学家陈仲金 (Tran Trong Kim) 被任命为越南帝国总理。
+- - 1945 年：第二次世界大战：意大利蒙特塞从纳粹势力手中解放。
+- - 1944 年：共产党控制的希腊人民解放军攻击规模较小的民族和社会解放抵抗组织，该组织投降。其领导人迪米特里奥斯·普萨罗斯被谋杀。
+- - 1942 年：法国战俘将军亨利·吉罗 (Henri Giraud) 从他位于国王石堡垒 (Königstein Fortress) 的城堡监狱越狱。
+- - 1941年：第二次世界大战：轴心国对南斯拉夫的入侵在南斯拉夫与德国和意大利签署停战协定后完成。
+- - 1931年：经过加泰罗尼亚和西班牙临时政府谈判，4月14日宣布成立加泰罗尼亚共和国，成为加泰罗尼亚自治区政府，西班牙共和国境内的加泰罗尼亚自治政府。
+- - 1925 年：朝鲜共产党 (CPK) 在日本统治的朝鲜（朝鲜）京城（现首尔）由 Kim Yong-bom 和 Pak Hon-yong 成立。
+- - 1912 年：俄罗斯军队向西伯利亚东北部罢工的金矿工人开枪，造成至少 150 人死亡。
+- - 1907 年：埃利斯岛移民中心接待了 11,747 人，比任何其他日子都多。
+- - 1905年：美国最高法院对洛克纳诉纽约一案作出判决，认为“自由契约权”隐含在美国宪法第十四修正案的正当程序条款中。
+- - 1895年：中日签订《马关条约》。这标志着甲午战争的结束，战败的清帝国被迫放弃对朝鲜的主权，并将奉天省南部、台湾和澎湖割让给日本。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-04-16 03:17:59 UTC）*
+*（更新于: 2026-04-17 02:53:58 UTC）*
