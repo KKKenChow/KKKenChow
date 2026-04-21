@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: SpaceX's Starship rocket, the largest and most powerful rocket ever built, launches for the first time. It explodes four minutes into flight.
-- 2021: State of Minnesota v. Derek Michael Chauvin: Derek Chauvin is found guilty of all charges in the murder of George Floyd by the Fourth Judicial District Court of Minnesota.
-- 2020: For the first time in history, oil prices drop below zero, an effect of the 2020 Russia-Saudi Arabia oil price war.
-- 2015: Ten people are killed in a bomb attack on a convoy carrying food supplies to a United Nations compound in Garowe in the Somali region of Puntland.
-- 2013: A 6.6-magnitude earthquake strikes Lushan County, Ya'an, in China's Sichuan province, killing at least 193 people and injuring thousands.
-- 2012: One hundred twenty-seven people are killed when a plane crashes in a residential area near the Benazir Bhutto International Airport near Islamabad, Pakistan.
-- 2010: The Deepwater Horizon drilling rig explodes in the Gulf of Mexico, killing eleven workers and beginning an oil spill that lasted six months.
-- 2008: Danica Patrick wins the Indy Japan 300 becoming the first female driver in history to win an Indy car race.
-- 2007: Johnson Space Center shooting: William Phillips barricades himself with a handgun in NASA's Johnson Space Center in Houston, Texas before killing a male hostage and himself.
-- 2004: The Nicoll Highway in Singapore collapsed, killing four workers.
-- 1999: Columbine High School massacre: Eric Harris and Dylan Klebold kill 14 people and injure 23 others before committing suicide at Columbine High School in Columbine, Colorado.
-- 1998: Air France Flight 422 crashes after taking off from El Dorado International Airport in Bogotá, Colombia, killing all 53 people on board.
-- 1985: University of California, Riverside 1985 laboratory raid: Animal Liberation Front rescues 467 animals being tested in a lab at University of California, Riverside in Riverside, California, causing $700,000 in damages to the laboratory in advocation for Animal rights.
-- 1972: Apollo program: Apollo 16 Lunar Module, commanded by John Young and piloted by Charles Duke, lands on the Moon.
-- 1968: South African Airways Flight 228 crashes near J.G. Strijdom Airport in South West Africa (now Hosea Kutako International Airport in Namibia), killing 123 people.
-- 1968: English politician Enoch Powell makes his controversial "Rivers of Blood" speech.
-- 1961: Cold War: Failure of the Bay of Pigs Invasion of US-backed Cuban exiles against Cuba.
-- 1949: Amethyst incident: The People's Liberation Army attacks HMS Amethyst (F116) travelling to the British embassy in Nanjing during the Chinese Civil War.
-- 1946: The League of Nations officially dissolves, giving most of its power to the United Nations.
-- 1945: Twenty Jewish children used in medical experiments at Neuengamme are killed in the basement of the Bullenhuser Damm school.
-- 1945: World War II: Führerbunker: On his 56th birthday Adolf Hitler makes his last trip to the surface to award Iron Crosses to boy soldiers of the Hitler Youth.
-- 1945: World War II: U.S. troops capture Leipzig, Germany, only to later cede the city to the Soviet Union.
-- 1922: The Soviet government creates South Ossetian Autonomous Oblast within Georgian SSR.
-- 1918: Manfred von Richthofen, a.k.a. The Red Baron, shoots down his 79th and 80th victims, his final victories before his death the following day.
-- 1914: Nineteen men, women, and children participating in a strike are killed in the Ludlow Massacre during the Colorado Coalfield War.
-- 1908: Opening day of competition in the New South Wales Rugby League.
-- 1902: Pierre and Marie Curie refine radium chloride.
-- 1898: U.S. President William McKinley signs a joint resolution to Congress for declaration of war against Spain, beginning the Spanish-American War.
-- 1884: Pope Leo XIII publishes the encyclical Humanum genus, condemning Freemasonry.
-- 1876: The April Uprising begins. Its suppression shocks European opinion, and Bulgarian independence becomes a condition for ending the Russo-Turkish War.
+- 2021: Indonesian Navy submarine KRI Nanggala (402) sinks in the Bali Sea during a military drill, killing all 53 on board.
+- 2019: Eight bombs explode at churches, hotels, and other locations in Sri Lanka on Easter Sunday, killing at least 269.
+- 2014: The American city of Flint, Michigan switches its water source to the Flint River, beginning the ongoing Flint water crisis which has caused lead poisoning in up to 12,000 people, and at least 12 deaths from Legionnaires' disease, ultimately leading to criminal indictments against 15 people, five of whom have been charged with involuntary manslaughter.
+- 2012: Two trains are involved in a head-on collision near Sloterdijk, Amsterdam, in the Netherlands, killing one person and injuring 116 others.
+- 2010: The controversial Kharkiv Pact (Russian Ukrainian Naval Base for Gas Treaty) is signed in Kharkiv, Ukraine, by Ukrainian president Viktor Yanukovych and Russian president Dmitry Medvedev; it was unilaterally terminated by Russia on March 31, 2014.
+- 2004: Five suicide car bombers target police stations in and around Basra, killing 74 people and wounding 160.
+- 1993: The Supreme Court in La Paz, Bolivia, sentences former dictator Luis García Meza to 30 years in jail without parole for murder, theft, fraud and violating the constitution.
+- 1989: Tiananmen Square protests of 1989: In Beijing, around 100,000 students gather in Tiananmen Square to commemorate Chinese reform leader Hu Yaobang.
+- 1987: The Tamil Tigers are blamed for a car bomb that detonates in the Sri Lankan capital city of Colombo, killing 106 people.
+- 1985: The compound of the militant group The Covenant, The Sword, and the Arm of the Lord surrenders to federal authorities in Arkansas after a two-day government siege.
+- 1982: Baseball: Rollie Fingers of the Milwaukee Brewers becomes the first pitcher to record 300 saves.
+- 1977: Annie opens on Broadway.
+- 1975: Vietnam War: President of South Vietnam Nguyễn Văn Thiệu flees Saigon, as Xuân Lộc, the last South Vietnamese outpost blocking a direct North Vietnamese assault on Saigon, falls.
+- 1972: Astronauts John Young and Charles Duke fly Apollo 16's Apollo Lunar Module to the Moon's surface, the fifth NASA Apollo Program crewed lunar landing.
+- 1967: A tornado outbreak in Illinois, United States, kills over 50 and injures over 1000. Belvidere sustains over 500 casualties as a violent tornado strikes the high school. Another tornado near Chicago causes another 500 casualties, devastating Oak Lawn.
+- 1967: A few days before the general election in Greece, Colonel George Papadopoulos leads a coup d'état, establishing a military regime that lasts for seven years.
+- 1966: Rastafari movement: Haile Selassie of Ethiopia visits Jamaica, an event now celebrated as Grounation Day.
+- 1965: The 1964-1965 New York World's Fair opens for its second and final season.
+- 1964: A Transit-5bn satellite fails to reach orbit after launch; as it re-enters the atmosphere, 2.1 pounds (0.95 kg) of radioactive plutonium in its SNAP RTG power source is widely dispersed.
+- 1963: The first election of the Universal House of Justice is held, marking its establishment as the supreme governing institution of the Baháʼí Faith.
+- 1962: The Seattle World's Fair (Century 21 Exposition) opens. It is the first World's Fair in the United States since World War II.
+- 1960: Brasília, Brazil's capital, is officially inaugurated. At 09:30, the Three Powers of the Republic are simultaneously transferred from the old capital, Rio de Janeiro.
+- 1958: United Air Lines Flight 736 collides with a United States Air Force fighter jet near Arden, Nevada in what is now Enterprise, Nevada.
+- 1952: Secretary's Day (now Administrative Professionals' Day) is first celebrated.
+- 1950: The Nainital wedding massacre occurs, killing 22 members of the Harijan caste.
+- 1948: United Nations Security Council Resolution 47 relating to Kashmir conflict is adopted.
+- 1946: The U.S. Weather Bureau records that a tornado which struck Timber Lake, South Dakota was 4 miles (6.4 km), among the widest tornadoes on record.
+- 1945: World War II: Soviet forces south of Berlin at Zossen attack the German High Command headquarters.
+- 1934: The "Surgeon's Photograph", the most famous photo allegedly showing the Loch Ness Monster, is published in the Daily Mail (in 1994, it is revealed to be a hoax).
+- 1926: Al-Baqi cemetery, former site of the mausoleum of four Shi'a Imams, is leveled to the ground by Wahhabis.
 
 Data from muffinlabs
-*(Updated at: 2026-04-20 03:21:43 UTC)*
+*(Updated at: 2026-04-21 02:55:05 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：SpaceX 的 Starship 火箭，有史以来最大、最强大的火箭，首次发射。它在飞行四分钟后爆炸。
-- - 2021 年：明尼苏达州诉德里克·迈克尔·肖文：明尼苏达州第四司法地区法院判定德里克·肖文犯有谋杀乔治·弗洛伊德的所有指控。
-- - 2020 年：受 2020 年俄罗斯与沙特阿拉伯石油价格战的影响，油价历史上首次跌破零。
-- - 2015 年：向索马里邦特兰地区加罗韦联合国驻地运送食品的车队遭到炸弹袭击，造成 10 人死亡。
-- - 2013年：中国四川省雅安市芦山县发生6.6级地震，造成至少193人死亡、数千人受伤。
-- - 2012 年：一架飞机在巴基斯坦伊斯兰堡附近贝娜齐尔·布托国际机场附近的住宅区坠毁，造成 127 人死亡。
-- - 2010 年：深水地平线钻井平台在墨西哥湾爆炸，造成 11 名工人死亡，并引发了持续六个月的石油泄漏。
-- - 2008 年：丹尼卡·帕特里克 (Danica Patrick) 赢得印地日本 300 大赛冠军，成为历史上第一位赢得印地赛车比赛的女车手。
-- - 2007 年：约翰逊航天中心枪击事件：威廉·菲利普斯在得克萨斯州休斯敦的美国宇航局约翰逊航天中心用手枪将自己挡住，然后杀死了一名男性人质和他自己。
-- - 2004年：新加坡尼诰高速公路塌陷，造成四名工人死亡。
-- - 1999 年：哥伦拜恩高中惨案：埃里克·哈里斯 (Eric Harris) 和迪伦·克莱伯德 (Dylan Klebold) 在科罗拉多州哥伦拜恩市的哥伦拜恩高中杀死 14 人，打伤 23 人，然后自杀。
-- - 1998 年：法航 422 号航班从哥伦比亚波哥大埃尔多拉多国际机场起飞后坠毁，机上 53 人全部遇难。
-- - 1985年：加州大学河滨分校 1985年实验室突袭：动物解放阵线在加利福尼亚州河滨市的加州大学河滨分校的实验室中营救了467只正在测试的动物，对实验室造成了70万美元的损失，以倡导动物权利。
-- - 1972 年：阿波罗计划：由约翰·杨指挥、查尔斯·杜克驾驶的阿波罗 16 号登月舱登陆月球。
-- - 1968 年：南非航空 228 号航班在 J.G. 附近坠毁。西南非洲斯特莱敦机场（现纳米比亚霍齐亚·库塔科国际机场），造成123人死亡。
-- - 1968 年：英国政治家伊诺克·鲍威尔发表备受争议的“血河”演讲。
-- - 1961 年：冷战：猪湾事件失败美国支持的古巴流亡者入侵古巴。
-- - 1949 年：紫水晶号事件：中国内战期间，中国人民解放军袭击了前往英国驻南京大使馆的紫水晶号 (F116)。
-- - 1946 年：国际联盟正式解散，将其大部分权力交给联合国。
-- - 1945 年：诺因加默医学实验中使用的 20 名犹太儿童在 Bullenhuser Damm 学校的地下室被杀害。
-- - 1945 年：第二次世界大战：元首地堡：在阿道夫·希特勒 56 岁生日那天，阿道夫·希特勒最后一次前往地面，向希特勒青年团的男孩士兵授予铁十字勋章。
-- - 1945 年：第二次世界大战：美国军队占领德国莱比锡，但后来将该城市割让给苏联。
-- - 1922 年：苏联政府在格鲁吉亚苏维埃社会主义共和国内创建南奥塞梯自治州。
-- - 1918 年：曼弗雷德·冯·里希特霍芬，又名“红男爵”，击落了他的第 79 名和第 80 名受害者，这是他在第二天去世前的最后胜利。
-- - 1914 年：科罗拉多煤田战争期间的勒德洛大屠杀中，参加罢工的 19 名男女和儿童被杀。
-- - 1908 年：新南威尔士州橄榄球联盟比赛开幕日。
-- - 1902 年：皮埃尔·居里和玛丽·居里精炼氯化镭。
-- - 1898 年：美国总统威廉·麦金莱向国会签署联合决议，向西班牙宣战，美西战争爆发。
-- - 1884 年：教皇利奥十三世出版通谕《Humanum genus》，谴责共济会。
-- - 1876 年：四月起义开始。它的镇压震惊了欧洲舆论，保加利亚独立成为结束俄土战争的条件。
+- - 2021 年：印度尼西亚海军潜艇 KRI Nanggala (402) 在一次军事演习中在巴厘海沉没，船上 53 人全部遇难。
+- - 2019 年：复活节周日，斯里兰卡的教堂、酒店和其他地点发生八枚炸弹爆炸，造成至少 269 人死亡。
+- - 2014年：美国密歇根州弗林特市将水源改用弗林特河，引发持续的弗林特水危机，导致多达12,000人铅中毒，至少12人死于退伍军人病，最终导致15人受到刑事起诉，其中5人被指控过失杀人。
+- - 2012年：荷兰阿姆斯特丹斯劳特戴克附近两列火车正面相撞，造成1人死亡、116人受伤。
+- - 2010年：乌克兰总统维克多·亚努科维奇和俄罗斯总统德米特里·梅德韦杰夫在乌克兰哈尔科夫签署了备受争议的《哈尔科夫条约》（俄罗斯乌克兰海军基地天然气条约）；2014年3月31日，俄罗斯单方面终止该协议。
+- - 2004 年：五名自杀式汽车炸弹袭击者袭击了巴士拉及其周边地区的警察局，造成 74 人死亡、160 人受伤。
+- - 1993 年：玻利维亚拉巴斯最高法院以谋杀、盗窃、欺诈和违反宪法罪判处前独裁者路易斯·加西亚·梅萨 30 年监禁，不得假释。
+- - 1989年：1989年的天安门广场抗议活动：在北京，大约10万名学生聚集在天安门广场纪念中国改革领袖胡耀邦。
+- - 1987 年：泰米尔猛虎组织被指责在斯里兰卡首都科伦坡引爆汽车炸弹，造成 106 人死亡。
+- - 1985 年：在政府为期两天的围困后，激进组织“圣约、圣剑和主之臂”的大院向阿肯色州联邦当局投降。
+- - 1982 年：棒球：密尔沃基酿酒人队 (Milwaukee Brewers) 的罗利·芬格斯 (Rollie Fingers) 成为第一个完成 300 次扑救的投手。
+- - 1977 年：《安妮》在百老汇上演。
+- - 1975 年：越南战争：南越总统阮文绍逃离西贡，而阻止北越直接进攻西贡的最后一个南越前哨基地春禄则陷落。
+- - 1972 年：宇航员约翰·杨和查尔斯·杜克驾驶阿波罗 16 号阿波罗登月舱飞往月球表面，这是美国宇航局阿波罗计划第五次载人登月。
+- - 1967 年：美国伊利诺伊州爆发龙卷风，造成 50 多人死亡、1000 多人受伤。贝尔维代尔的一所高中遭受猛烈龙卷风袭击，造成 500 多人伤亡。芝加哥附近的另一场龙卷风摧毁了奥克草坪，造成另外 500 人伤亡。
+- - 1967 年：希腊大选前几天，乔治·帕帕佐普洛斯上校领导政变，建立了持续七年的军事政权。
+- - 1966 年：拉斯特法里运动：埃塞俄比亚的海尔·塞拉西 (Haile Selassie) 访问牙买加，这一活动现在被庆祝为“格罗恩日”(Grounation Day)。
+- - 1965 年：1964-1965 年纽约世界博览会第二季也是最后一季开幕。
+- - 1964 年：一颗 Transit-50 亿卫星发射后未能进入轨道；当它重新进入大气层时，其 SNAP RTG 电源中的 2.1 磅（0.95 千克）放射性钚被广泛分散。
+- - 1963年：世界正义院举行第一次选举，标志着其成为巴哈伊信仰的最高管理机构。
+- - 1962 年：西雅图世界博览会（21 世纪博览会）开幕。这是二战以来首次在美国举办的世界博览会。
+- - 1960 年：巴西首都巴西利亚正式落成。09时30分，共和国三权同时从旧首都里约热内卢转移。
+- - 1958 年：联合航空 736 号航班在内华达州阿登附近（现在的内华达州企业）与一架美国空军战斗机相撞。
+- - 1952 年：首次庆祝秘书节（现行政专业人员节）。
+- - 1950 年：奈尼塔尔婚礼大屠杀发生，造成 22 名哈里詹种姓成员死亡。
+- - 1948年：联合国安理会通过有关克什米尔冲突的第47号决议。
+- - 1946 年：美国气象局记录称，袭击南达科他州廷布尔湖的龙卷风长达 4 英里（6.4 公里），是有记录以来最宽的龙卷风之一。
+- - 1945 年：第二次世界大战：柏林以南佐森的苏联军队袭击了德国最高统帅部总部。
+- - 1934 年：“外科医生的照片”，据称是最著名的尼斯湖水怪照片，发表在《每日邮报》上（1994 年，它被揭露为骗局）。
+- - 1926 年：巴齐公墓（四位什叶派伊玛目陵墓的旧址）被瓦哈比派夷为平地。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-04-20 03:21:43 UTC）*
+*（更新于: 2026-04-21 02:55:05 UTC）*
