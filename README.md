@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2015: At least 8,962 are killed in Nepal after a massive 7.8 magnitude earthquake strikes Nepal.
-- 2014: The Flint water crisis begins when officials at Flint, Michigan switch the city's water supply to the Flint River, leading to lead and bacteria contamination.
-- 2007: Boris Yeltsin's funeral: The first to be sanctioned by the Russian Orthodox Church for a head of state since the funeral of Emperor Alexander III in 1894.
-- 2005: Bulgaria and Romania sign the Treaty of Accession 2005 to join the European Union.
-- 2005: A seven-car commuter train derails and crashes into an apartment building near Amagasaki Station in Japan, killing 107, including the driver.
-- 2005: The final piece of the Obelisk of Axum is returned to Ethiopia after being stolen by the invading Italian army in 1937.
-- 2004: The March for Women's Lives brings over one million protesters, mostly pro-choice, to Washington D.C. to protest the Partial-Birth Abortion Ban Act of 2003, and other restrictions on abortion.
-- 2001: President George W. Bush pledges U.S. military support in the event of a Chinese attack on Taiwan.
-- 1990: Violeta Chamorro takes office as the President of Nicaragua, the first woman to hold the position.
-- 1983: Pioneer 10 travels beyond Pluto's orbit.
-- 1983: Cold War: American schoolgirl Samantha Smith is invited to visit the Soviet Union by its leader Yuri Andropov after he read her letter in which she expressed fears about nuclear war.
-- 1982: Israel completes its withdrawal from the Sinai Peninsula per the Camp David Accords.
-- 1981: More than 100 workers are exposed to radiation during repairs of at the Tsuruga Nuclear Power Plant in Japan.
-- 1980: One hundred forty-six people are killed when Dan-Air Flight 1008 crashes near Los Rodeos Airport in Tenerife, Canary Islands.
-- 1974: Carnation Revolution: A leftist military coup in Portugal overthrows the authoritarian-conservative Estado Novo regime.
-- 1972: Vietnam War: Nguyen Hue Offensive: The North Vietnamese 320th Division forces 5,000 South Vietnamese troops to retreat and traps about 2,500 others northwest of Kontum.
-- 1961: Robert Noyce is granted a patent for an integrated circuit.
-- 1960: The United States Navy submarine USS Triton completes the first submerged circumnavigation of the globe.
-- 1959: The Saint Lawrence Seaway, linking the North American Great Lakes and the Atlantic Ocean, officially opens to shipping.
-- 1954: The first practical solar cell is publicly demonstrated by Bell Telephone Laboratories.
-- 1953: Francis Crick and James Watson publish "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid" describing the double helix structure of DNA.
-- 1951: Korean War: Assaulting Chinese forces are forced to withdraw after heavy fighting with UN forces, primarily made up of Australian and Canadian troops, at the Battle of Kapyong.
-- 1945: World War II: The last German troops retreat from Finnish soil in Lapland, ending the Lapland War. Military actions of the Second World War end in Finland.
-- 1945: United Nations Conference on International Organization: Founding negotiations for the United Nations begin in San Francisco.
-- 1945: World War II: Liberation Day (Italy): The National Liberation Committee for Northern Italy calls for a general uprising against the German occupation and the Italian Social Republic.
-- 1945: World War II: United States and Soviet reconnaissance troops meet in Torgau and Strehla along the River Elbe, cutting the Wehrmacht of Nazi Germany in two. This would be later known as Elbe Day.
-- 1944: The United Negro College Fund is incorporated.
-- 1938: U.S. Supreme Court delivers its opinion in Erie Railroad Co. v. Tompkins and overturns a century of federal common law.
-- 1933: Nazi Germany issues the Law Against Overcrowding in Schools and Universities limiting the number of Jewish students able to attend public schools and universities.
-- 1920: At the San Remo conference, the principal Allied Powers of World War I adopt a resolution to determine the allocation of Class "A" League of Nations mandates for administration of the former Ottoman-ruled lands of the Middle East.
+- 2025: A car ramming attack at a Lapu-Lapu Day festival kills 11 people and injures at least 30 in Vancouver, Canada.
+- 2015: Nursultan Nazarbayev is re-elected President of Kazakhstan with 97.7% of the vote, one of the biggest vote shares in Kazakhstan's history.
+- 2005: Cedar Revolution: Under international pressure, Syria withdraws the last of its 14,000 troop military garrison in Lebanon, ending its 29-year military domination of that country (Syrian occupation of Lebanon).
+- 2002: Robert Steinhäuser kills 16 at Gutenberg-Gymnasium in Erfurt, Germany before committing suicide.
+- 1999: Outbreak of CIH computer virus.
+- 1994: South Africa begins its first multiracial election, which is won by Nelson Mandela's African National Congress.
+- 1994: China Airlines Flight 140 crashes at Nagoya Airport in Japan, killing 264 of the 271 people on board.
+- 1993: The Space Shuttle Columbia is launched on mission STS-55 to conduct experiments aboard the Spacelab module.
+- 1991: Fifty-five tornadoes break out in the central United States. Before the outbreak's end, Andover, Kansas, would record the year's only F5 tornado.
+- 1989: People's Daily publishes the April 26 Editorial which inflames the nascent Tiananmen Square protests.
+- 1989: The deadliest known tornado strikes Central Bangladesh, killing upwards of 1,300, injuring 12,000, and leaving as many as 80,000 homeless.
+- 1986: The Chernobyl disaster occurs in the Ukrainian Soviet Socialist Republic.
+- 1981: Dr. Michael R. Harrison of the University of California, San Francisco Medical Center performs the world's first human open fetal surgery.
+- 1970: The Convention Establishing the World Intellectual Property Organization enters into force.
+- 1966: A new government is formed in the Republic of the Congo, led by Ambroise Noumazalaye.
+- 1966: The magnitude 5.1 Tashkent earthquake affects the largest city in Soviet Central Asia with a maximum MSK intensity of VII (Very strong). Tashkent is mostly destroyed and 15-200 are killed.
+- 1964: Tanganyika and Zanzibar merge to form the United Republic of Tanzania.
+- 1963: In Libya, amendments to the constitution transform Libya (United Kingdom of Libya) into one national unity (Kingdom of Libya) and allows for female participation in elections.
+- 1962: The British space programme launches its first satellite, the Ariel 1.
+- 1962: NASA's Ranger 4 spacecraft crashes into the Moon.
+- 1960: Forced out by the April Revolution, President of South Korea Syngman Rhee resigns after 12 years of dictatorial rule.
+- 1958: Final run of the Baltimore and Ohio Railroad's Royal Blue from Washington, D.C., to New York City after 68 years, the first U.S. passenger train to use electric locomotives.
+- 1956: SS Ideal X, the world's first successful container ship, leaves Port Newark, New Jersey, for Houston, Texas.
+- 1954: The first clinical trials of Jonas Salk's polio vaccine begin in Fairfax County, Virginia.
+- 1954: The Geneva Conference, an effort to restore peace in Indochina and Korea, begins.
+- 1945: World War II: Filipino troops of the 66th Infantry Regiment, Philippine Commonwealth Army, USAFIP-NL and the American troops of the 33rd and 37th Infantry Division, United States Army liberate Baguio as they fight against the Japanese forces under General Tomoyuki Yamashita.
+- 1945: World War II: Battle of Bautzen: Last successful German tank-offensive of the war and last noteworthy victory of the Wehrmacht.
+- 1944: Heinrich Kreipe is captured by Allied commandos in occupied Crete.
+- 1944: Georgios Papandreou becomes head of the Greek government-in-exile based in Egypt.
+- 1943: The Easter Riots break out in Uppsala, Sweden.
 
 Data from muffinlabs
-*(Updated at: 2026-04-25 02:47:09 UTC)*
+*(Updated at: 2026-04-26 03:24:31 UTC)*
 
 # 历史上的今天 
 
-- - 2015 年：尼泊尔发生 7.8 级大地震，造成至少 8,962 人死亡。
-- - 2014 年：密歇根州弗林特市的官员将城市供水改为弗林特河，导致铅和细菌污染，弗林特水危机由此开始。
-- - 2007 年：鲍里斯·叶利钦 (Boris Yeltsin) 的葬礼：自 1894 年亚历山大三世皇帝的葬礼以来，第一位获得俄罗斯东正教认可的国家元首。
-- - 2005年：保加利亚和罗马尼亚签署2005年加入欧盟条约。
-- - 2005 年：一列七节车厢的通勤列车脱轨并撞向日本尼崎站附近的一栋公寓楼，造成包括司机在内的 107 人死亡。
-- - 2005 年：阿克苏姆方尖碑的最后一块在 1937 年被入侵的意大利军队偷走后被归还埃塞俄比亚。
-- - 2004 年：“争取妇女生命大游行”吸引了超过 100 万抗议者（其中大部分是支持堕胎）前往华盛顿特区，抗议 2003 年《部分出生堕胎禁令法案》以及其他堕胎限制。
-- - 2001年：乔治·W·布什总统承诺，如果中国攻击台湾，美国将提供军事支持。
-- - 1990 年：维奥莱塔·查莫罗就任尼加拉瓜总统，成为第一位担任该职位的女性。
-- - 1983 年：先锋 10 号飞越冥王星轨道。
-- - 1983 年：冷战：美国女学生萨曼莎·史密斯在信中表达了对核战争的恐惧后，苏联领导人尤里·安德罗波夫邀请她访问苏联。
-- - 1982年：以色列根据戴维营协议完成从西奈半岛的撤军。
-- - 1981 年：日本敦贺核电站的维修过程中，100 多名工人受到辐射。
-- - 1980 年：丹航 1008 号航班在加那利群岛特内里费岛洛斯罗迪奥斯机场附近坠毁，造成 146 人死亡。
-- - 1974 年：康乃馨革命：葡萄牙左翼军事政变推翻了专制保守的新国家政权。
-- - 1972 年：越南战争：阮惠攻势：北越第 320 师迫使 5,000 名南越军队撤退，并在昆嵩西北部困住了约 2,500 名南越军队。
-- - 1961 年：罗伯特·诺伊斯获得集成电路专利。
-- - 1960 年：美国海军潜艇 Triton 号完成了首次水下环球航行。
-- - 1959年：连接北美五大湖和大西洋的圣劳伦斯海道正式通航。
-- - 1954 年：贝尔电话实验室公开展示了第一个实用的太阳能电池。
-- - 1953 年：弗朗西斯·克里克 (Francis Crick) 和詹姆斯·沃森 (James Watson) 发表了“核酸的分子结构：脱氧核糖核酸的结构”，描述了 DNA 的双螺旋结构。
-- - 1951 年：朝鲜战争：在卡平战役中，进攻的中国军队与主要由澳大利亚和加拿大军队组成的联合国部队激战后被迫撤军。
-- - 1945 年：第二次世界大战：最后一批德国军队从拉普兰的芬兰领土撤退，拉普兰战争结束。第二次世界大战的军事行动在芬兰结束。
-- - 1945 年：联合国国际组织会议：联合国成立谈判在旧金山开始。
-- - 1945 年：第二次世界大战：解放日（意大利）：意大利北部民族解放委员会呼吁发动普遍起义，反对德国占领和意大利社会共和国。
-- - 1945 年：第二次世界大战：美国和苏联侦察部队在易北河沿岸的托尔高和斯特雷拉会师，将纳粹德国国防军一分为二。这后来被称为易北河日。
-- - 1944 年：联合黑人学院基金成立。
-- - 1938 年：美国最高法院在伊利铁路公司诉汤普金斯案中发表意见，推翻了一个世纪以来的联邦普通法。
-- - 1933 年：纳粹德国颁布了《反对学校和大学过度拥挤法》，限制了能够就读公立学校和大学的犹太学生的数量。
-- - 1920 年：在圣雷莫会议上，第一次世界大战的主要同盟国通过了一项决议，确定“A”级国际联盟管理中东前奥斯曼统治土地的任务分配。
+- - 2025 年：加拿大温哥华拉普拉普日节日期间发生的汽车撞击事件造成 11 人死亡、至少 30 人受伤。
+- - 2015年：努尔苏丹·纳扎尔巴耶夫以97.7%的得票率再次当选哈萨克斯坦总统，这是哈萨克斯坦历史上得票率最高的国家之一。
+- - 2005年：雪松革命：在国际压力下，叙利亚撤出了在黎巴嫩的最后14,000名驻军，结束了对该国29年的军事统治（叙利亚对黎巴嫩的占领）。
+- - 2002 年：罗伯特·施泰因豪瑟 (Robert Steinhäuser) 在德国埃尔富特的古腾堡体育馆杀死了 16 人，然后自杀。
+- - 1999年：CIH计算机病毒爆发。
+- - 1994 年：南非开始首次多种族选举，纳尔逊·曼德拉领导的非洲人国民大会获胜。
+- - 1994年：中华航空140号航班在日本名古屋机场坠毁，机上271人中的264人丧生。
+- - 1993 年：哥伦比亚号航天飞机执行 STS-55 任务，在太空实验室模块上进行实验。
+- - 1991 年：美国中部爆发了 55 场龙卷风。在疫情结束之前，堪萨斯州安多弗将记录今年唯一的 F5 级龙卷风。
+- - 1989年：《人民日报》发表4月26日社论，激怒了刚刚兴起的天安门广场抗议活动。
+- - 1989 年：已知最致命的龙卷风袭击了孟加拉国中部，造成 1,300 多人死亡、12,000 人受伤、多达 80,000 人无家可归。
+- - 1986年：乌克兰苏维埃社会主义共和国发生切尔诺贝利灾难。
+- - 1981 年：加利福尼亚大学旧金山医学中心的 Michael R. Harrison 博士进行了世界上首例人体开放胎儿手术。
+- - 1970年：《建立世界知识产权组织公约》生效。
+- - 1966 年：刚果共和国成立新政府，由 Ambroise Noumazalaye 领导。
+- - 1966 年：5.1 级塔什干地震影响了苏联中亚最大的城市，MSK 最大烈度为 VII（非常强）。塔什干大部分被毁，15-200人死亡。
+- - 1964 年：坦噶尼喀和桑给巴尔合并成立坦桑尼亚联合共和国。
+- - 1963 年：在利比亚，宪法修正案将利比亚（利比亚联合王国）转变为一个国家统一体（利比亚王国），并允许女性参与选举。
+- - 1962 年：英国太空计划发射了第一颗卫星 Ariel 1。
+- - 1962 年：美国宇航局的游骑兵 4 号宇宙飞船坠毁在月球上。
+- - 1960年：因四月革命而被迫下台的韩国总统李承晚在经历了12年的独裁统治后辞职。
+- - 1958 年：巴尔的摩和俄亥俄铁路公司的皇家蓝号列车时隔 68 年从华盛顿特区开往纽约市，这是美国第一列使用电力机车的客运列车。
+- - 1956 年：世界上第一艘成功的集装箱船 SS Ideal X 离开新泽西州纽瓦克港，前往德克萨斯州休斯顿。
+- - 1954 年：乔纳斯·索尔克 (Jonas Salk) 的脊髓灰质炎疫苗的首次临床试验在弗吉尼亚州费尔法克斯县开始。
+- - 1954 年：旨在恢复印度支那和朝鲜和平的日内瓦会议开始。
+- - 1945 年：第二次世界大战：菲律宾英联邦军第 66 步兵团、USAFIP-NL 的菲律宾军队以及美国陆军第 33 和第 37 步兵师的美军在与山下智之将军领导的日本军队作战时解放了碧瑶。
+- - 1945 年：第二次世界大战：包岑战役：战争中德国最后一次成功的坦克进攻，也是国防军最后一次值得注意的胜利。
+- - 1944 年：海因里希·克莱佩 (Heinrich Kreipe) 在被占领的克里特岛被盟军突击队俘获。
+- - 1944 年：乔治斯·帕潘德里欧 (Georgios Papandreou) 成为驻埃及的希腊流亡政府首脑。
+- - 1943 年：瑞典乌普萨拉爆发复活节骚乱。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-04-25 02:47:09 UTC）*
+*（更新于: 2026-04-26 03:24:31 UTC）*
