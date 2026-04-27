@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: A car ramming attack at a Lapu-Lapu Day festival kills 11 people and injures at least 30 in Vancouver, Canada.
-- 2015: Nursultan Nazarbayev is re-elected President of Kazakhstan with 97.7% of the vote, one of the biggest vote shares in Kazakhstan's history.
-- 2005: Cedar Revolution: Under international pressure, Syria withdraws the last of its 14,000 troop military garrison in Lebanon, ending its 29-year military domination of that country (Syrian occupation of Lebanon).
-- 2002: Robert Steinhäuser kills 16 at Gutenberg-Gymnasium in Erfurt, Germany before committing suicide.
-- 1999: Outbreak of CIH computer virus.
-- 1994: South Africa begins its first multiracial election, which is won by Nelson Mandela's African National Congress.
-- 1994: China Airlines Flight 140 crashes at Nagoya Airport in Japan, killing 264 of the 271 people on board.
-- 1993: The Space Shuttle Columbia is launched on mission STS-55 to conduct experiments aboard the Spacelab module.
-- 1991: Fifty-five tornadoes break out in the central United States. Before the outbreak's end, Andover, Kansas, would record the year's only F5 tornado.
-- 1989: People's Daily publishes the April 26 Editorial which inflames the nascent Tiananmen Square protests.
-- 1989: The deadliest known tornado strikes Central Bangladesh, killing upwards of 1,300, injuring 12,000, and leaving as many as 80,000 homeless.
-- 1986: The Chernobyl disaster occurs in the Ukrainian Soviet Socialist Republic.
-- 1981: Dr. Michael R. Harrison of the University of California, San Francisco Medical Center performs the world's first human open fetal surgery.
-- 1970: The Convention Establishing the World Intellectual Property Organization enters into force.
-- 1966: A new government is formed in the Republic of the Congo, led by Ambroise Noumazalaye.
-- 1966: The magnitude 5.1 Tashkent earthquake affects the largest city in Soviet Central Asia with a maximum MSK intensity of VII (Very strong). Tashkent is mostly destroyed and 15-200 are killed.
-- 1964: Tanganyika and Zanzibar merge to form the United Republic of Tanzania.
-- 1963: In Libya, amendments to the constitution transform Libya (United Kingdom of Libya) into one national unity (Kingdom of Libya) and allows for female participation in elections.
-- 1962: The British space programme launches its first satellite, the Ariel 1.
-- 1962: NASA's Ranger 4 spacecraft crashes into the Moon.
-- 1960: Forced out by the April Revolution, President of South Korea Syngman Rhee resigns after 12 years of dictatorial rule.
-- 1958: Final run of the Baltimore and Ohio Railroad's Royal Blue from Washington, D.C., to New York City after 68 years, the first U.S. passenger train to use electric locomotives.
-- 1956: SS Ideal X, the world's first successful container ship, leaves Port Newark, New Jersey, for Houston, Texas.
-- 1954: The first clinical trials of Jonas Salk's polio vaccine begin in Fairfax County, Virginia.
-- 1954: The Geneva Conference, an effort to restore peace in Indochina and Korea, begins.
-- 1945: World War II: Filipino troops of the 66th Infantry Regiment, Philippine Commonwealth Army, USAFIP-NL and the American troops of the 33rd and 37th Infantry Division, United States Army liberate Baguio as they fight against the Japanese forces under General Tomoyuki Yamashita.
-- 1945: World War II: Battle of Bautzen: Last successful German tank-offensive of the war and last noteworthy victory of the Wehrmacht.
-- 1944: Heinrich Kreipe is captured by Allied commandos in occupied Crete.
-- 1944: Georgios Papandreou becomes head of the Greek government-in-exile based in Egypt.
-- 1943: The Easter Riots break out in Uppsala, Sweden.
+- 2018: The Panmunjom Declaration is signed between North and South Korea, officially declaring their intentions to end the Korean conflict.
+- 2012: At least four explosions hit the Ukrainian city of Dnipropetrovsk with at least 27 people injured.
+- 2011: The 2011 Super Outbreak devastates parts of the Southeastern United States, especially the states of Alabama, Mississippi, Georgia, and Tennessee. Two hundred five tornadoes touched down on April 27 alone, killing more than 300 and injuring hundreds more.
+- 2007: Israeli archaeologists discover the tomb of Herod the Great south of Jerusalem.
+- 2007: Estonian authorities remove the Bronze Soldier, a Soviet Red Army war memorial in Tallinn, amid political controversy with Russia.
+- 2006: Construction begins on the Freedom Tower (later renamed One World Trade Center) in New York City.
+- 2005: Airbus A380 aircraft has its maiden test flight.
+- 1994: South African general election: The first democratic general election in South Africa, in which black citizens could vote. The Interim Constitution comes into force.
+- 1993: Most of the Zambia national football team lose their lives in a plane crash off Libreville, Gabon en route to Dakar, Senegal to play a 1994 FIFA World Cup qualifying match against Senegal.
+- 1992: The Russian Federation and 12 other former Soviet republics become members of the International Monetary Fund and the World Bank.
+- 1992: Betty Boothroyd becomes the first woman to be elected Speaker of the British House of Commons in its 700-year history.
+- 1992: The Federal Republic of Yugoslavia, comprising Serbia and Montenegro, is proclaimed.
+- 1989: The April 27 demonstrations, student-led protests responding to the April 26 Editorial, during the Tiananmen Square protests of 1989.
+- 1987: The U.S. Department of Justice bars Austrian President Kurt Waldheim (and his wife, Elisabeth, who had also been a Nazi) from entering the US, charging that he had aided in the deportations and executions of thousands of Jews and others as a German Army officer during World War II.
+- 1986: The city of Pripyat and surrounding areas are evacuated due to the Chernobyl disaster.
+- 1978: Willow Island disaster: In the deadliest construction accident in United States history, 51 construction workers are killed when a cooling tower under construction collapses at the Pleasants Power Station in Willow Island, West Virginia.
+- 1978: The Saur Revolution begins in Afghanistan, ending the following morning with the murder of Afghan President Mohammed Daoud Khan and the establishment of the Democratic Republic of Afghanistan.
+- 1978: John Ehrlichman, a former aide to U.S. President Richard Nixon, is released from the Federal Correctional Institution, Safford, Arizona, after serving 18 months for Watergate-related crimes.
+- 1976: Thirty-seven people are killed when American Airlines Flight 625 crashes at Cyril E. King Airport in Saint Thomas, U.S. Virgin Islands.
+- 1974: 109 people are killed in a plane crash near Pulkovo Airport.
+- 1967: Expo 67 officially opens in Montreal, Quebec, Canada with a large opening ceremony broadcast around the world. It opens to the public the next day.
+- 1953: Operation Moolah offers $50,000 to any pilot who defects with a fully mission-capable Mikoyan-Gurevich MiG-15 to South Korea. The first pilot was to receive $100,000.
+- 1945: World War II: Benito Mussolini is arrested by Italian partisans in Dongo, while attempting escape disguised as a German soldier.
+- 1945: World War II: The last German formations withdraw from Finland to Norway. The Lapland War and thus, World War II in Finland, comes to an end and the Raising the Flag on the Three-Country Cairn photograph is taken.
+- 1941: World War II: German troops enter Athens.
+- 1936: The United Auto Workers (UAW) gains autonomy from the American Federation of Labor.
+- 1927: Carabineros de Chile (Chilean national police force and gendarmerie) are created.
+- 1911: The Second Canton Uprising took place in Guangzhou, Qing China but was suppressed.
+- 1909: Sultan of Ottoman Empire Abdul Hamid II is overthrown, and is succeeded by his brother, Mehmed V.
+- 1906: The State Duma of the Russian Empire meets for the first time.
 
 Data from muffinlabs
-*(Updated at: 2026-04-26 03:24:31 UTC)*
+*(Updated at: 2026-04-27 03:29:05 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：加拿大温哥华拉普拉普日节日期间发生的汽车撞击事件造成 11 人死亡、至少 30 人受伤。
-- - 2015年：努尔苏丹·纳扎尔巴耶夫以97.7%的得票率再次当选哈萨克斯坦总统，这是哈萨克斯坦历史上得票率最高的国家之一。
-- - 2005年：雪松革命：在国际压力下，叙利亚撤出了在黎巴嫩的最后14,000名驻军，结束了对该国29年的军事统治（叙利亚对黎巴嫩的占领）。
-- - 2002 年：罗伯特·施泰因豪瑟 (Robert Steinhäuser) 在德国埃尔富特的古腾堡体育馆杀死了 16 人，然后自杀。
-- - 1999年：CIH计算机病毒爆发。
-- - 1994 年：南非开始首次多种族选举，纳尔逊·曼德拉领导的非洲人国民大会获胜。
-- - 1994年：中华航空140号航班在日本名古屋机场坠毁，机上271人中的264人丧生。
-- - 1993 年：哥伦比亚号航天飞机执行 STS-55 任务，在太空实验室模块上进行实验。
-- - 1991 年：美国中部爆发了 55 场龙卷风。在疫情结束之前，堪萨斯州安多弗将记录今年唯一的 F5 级龙卷风。
-- - 1989年：《人民日报》发表4月26日社论，激怒了刚刚兴起的天安门广场抗议活动。
-- - 1989 年：已知最致命的龙卷风袭击了孟加拉国中部，造成 1,300 多人死亡、12,000 人受伤、多达 80,000 人无家可归。
-- - 1986年：乌克兰苏维埃社会主义共和国发生切尔诺贝利灾难。
-- - 1981 年：加利福尼亚大学旧金山医学中心的 Michael R. Harrison 博士进行了世界上首例人体开放胎儿手术。
-- - 1970年：《建立世界知识产权组织公约》生效。
-- - 1966 年：刚果共和国成立新政府，由 Ambroise Noumazalaye 领导。
-- - 1966 年：5.1 级塔什干地震影响了苏联中亚最大的城市，MSK 最大烈度为 VII（非常强）。塔什干大部分被毁，15-200人死亡。
-- - 1964 年：坦噶尼喀和桑给巴尔合并成立坦桑尼亚联合共和国。
-- - 1963 年：在利比亚，宪法修正案将利比亚（利比亚联合王国）转变为一个国家统一体（利比亚王国），并允许女性参与选举。
-- - 1962 年：英国太空计划发射了第一颗卫星 Ariel 1。
-- - 1962 年：美国宇航局的游骑兵 4 号宇宙飞船坠毁在月球上。
-- - 1960年：因四月革命而被迫下台的韩国总统李承晚在经历了12年的独裁统治后辞职。
-- - 1958 年：巴尔的摩和俄亥俄铁路公司的皇家蓝号列车时隔 68 年从华盛顿特区开往纽约市，这是美国第一列使用电力机车的客运列车。
-- - 1956 年：世界上第一艘成功的集装箱船 SS Ideal X 离开新泽西州纽瓦克港，前往德克萨斯州休斯顿。
-- - 1954 年：乔纳斯·索尔克 (Jonas Salk) 的脊髓灰质炎疫苗的首次临床试验在弗吉尼亚州费尔法克斯县开始。
-- - 1954 年：旨在恢复印度支那和朝鲜和平的日内瓦会议开始。
-- - 1945 年：第二次世界大战：菲律宾英联邦军第 66 步兵团、USAFIP-NL 的菲律宾军队以及美国陆军第 33 和第 37 步兵师的美军在与山下智之将军领导的日本军队作战时解放了碧瑶。
-- - 1945 年：第二次世界大战：包岑战役：战争中德国最后一次成功的坦克进攻，也是国防军最后一次值得注意的胜利。
-- - 1944 年：海因里希·克莱佩 (Heinrich Kreipe) 在被占领的克里特岛被盟军突击队俘获。
-- - 1944 年：乔治斯·帕潘德里欧 (Georgios Papandreou) 成为驻埃及的希腊流亡政府首脑。
-- - 1943 年：瑞典乌普萨拉爆发复活节骚乱。
+- - 2018年：朝鲜和韩国签署《板门店宣言》，正式宣布结束朝鲜冲突的意图。
+- - 2012年：乌克兰第聂伯罗彼得罗夫斯克市发生至少四起爆炸，造成至少27人受伤。
+- - 2011 年：2011 年超级疫情爆发摧毁了美国东南部部分地区，特别是阿拉巴马州、密西西比州、佐治亚州和田纳西州。仅 4 月 27 日就有 205 场龙卷风袭击，造成 300 多人死亡、数百人受伤。
+- - 2007 年：以色列考古学家在耶路撒冷南部发现了希律大帝的坟墓。
+- - 2007年：由于与俄罗斯的政治争议，爱沙尼亚当局拆除了位于塔林的苏联红军战争纪念碑——青铜士兵。
+- - 2006 年：纽约市自由塔（后更名为世界贸易中心一号大楼）开始建设。
+- - 2005年：空客A380飞机进行首次试飞。
+- - 1994年：南非大选：南非第一次民主大选，黑人公民可以投票。临时宪法生效。
+- - 1993年：赞比亚国家足球队在飞往塞内加尔达喀尔参加1994年世界杯预选赛对阵塞内加尔的途中，在加蓬利伯维尔起飞的飞机失事中丧生。
+- - 1992年：俄罗斯联邦和其他12个前苏联加盟共和国成为国际货币基金组织和世界银行的成员。
+- - 1992 年：贝蒂·布思罗伊德 (Betty Boothroyd) 成为英国下议院 700 年历史上第一位当选议长的女性。
+- - 1992年：由塞尔维亚和黑山组成的南斯拉夫联盟共和国宣告成立。
+- - 1989 年：1989 年天安门广场抗议期间，4 月 27 日的示威活动，学生领导的抗议活动，回应 4 月 26 日的社论。
+- - 1987 年：美国司法部禁止奥地利总统库尔特·瓦尔德海姆（及其妻子伊丽莎白，也是纳粹分子）进入美国，指控他在二战期间作为德国军官协助驱逐和处决了数千名犹太人和其他人。
+- - 1986年：普里皮亚季市及周边地区因切尔诺贝利灾难而被疏散。
+- - 1978 年：柳岛灾难：西弗吉尼亚州柳岛普莱森茨发电站一座正在施工的冷却塔倒塌，造成美国历史上最严重的建筑事故，造成 51 名建筑工人死亡。
+- - 1978 年：萨乌尔革命在阿富汗爆发，次日早晨阿富汗总统穆罕默德·达乌德·汗被谋杀并成立阿富汗民主共和国。
+- - 1978 年：美国总统理查德·尼克松 (Richard Nixon) 的前助手约翰·埃利希曼 (John Ehrlichman) 在因水门事件相关罪行服刑 18 个月后从亚利桑那州萨福德的联邦惩教所释放。
+- - 1976 年：美国航空 625 号航班在美属维尔京群岛圣托马斯的西里尔·E·金机场坠毁，造成 37 人死亡。
+- - 1974 年：普尔科沃机场附近发生飞机失事，造成 109 人死亡。
+- - 1967年：第67届世博会在加拿大魁北克省蒙特利尔正式开幕，大型开幕式向世界各地转播。第二天向公众开放。
+- - 1953 年：“穆拉行动”向任何驾驶完全具备执行任务能力的米高扬-古列维奇 MiG-15 前往韩国的飞行员提供 50,000 美元奖励。第一位飞行员将获得 10 万美元。
+- - 1945 年：第二次世界大战：贝尼托·墨索里尼 (Benito Mussolini) 在东戈 (Dongo) 被意大利游击队逮捕，当时他伪装成德国士兵试图逃跑。
+- - 1945 年：第二次世界大战：最后一批德国部队从芬兰撤至挪威。拉普兰战争以及芬兰的第二次世界大战结束了，拍摄了“三国石碑上升起旗帜”的照片。
+- - 1941 年：第二次世界大战：德国军队进入雅典。
+- - 1936 年：美国汽车工人联合会 (UAW) 从美国劳工联合会获得自治权。
+- - 1927 年：Carabineros de Chile（智利国家警察部队和宪兵队）成立。
+- - 1911年：第二次广州起义在中国清朝广州爆发，但遭到镇压。
+- - 1909 年：奥斯曼帝国苏丹阿卜杜勒·哈米德二世被推翻，其兄弟穆罕默德五世继位。
+- - 1906 年：俄罗斯帝国国家杜马首次召开会议。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-04-26 03:24:31 UTC）*
+*（更新于: 2026-04-27 03:29:05 UTC）*
