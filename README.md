@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: Ethnic violence breaks out between the Meitei and the Kuki Zo people in the state of Manipur.
-- 2023: Nine students and a security guard are killed in the Belgrade school shooting, the first attack of its kind in Serbia.
-- 2021: Twenty-six people are killed and ninety-eight are injured after an elevated section of the Mexico City Metro collapses.
-- 2016: Eighty-eight thousand people are evacuated from their homes in Fort McMurray, Alberta, Canada as a wildfire rips through the community, destroying approximately 2,400 homes and buildings.
-- 2015: Two gunmen launch an attempted attack on an anti-Islam event in Garland, Texas, which was held in response to the Charlie Hebdo shooting.
-- 2007: The three-year-old British girl Madeleine McCann disappears in Praia da Luz, Portugal, starting "the most heavily reported missing-person case in modern history".
-- 2006: Armavia Flight 967 crashes into the Black Sea near Sochi International Airport in Sochi, Russia, killing 113 people.
-- 2001: The United States loses its seat on the U.N. Human Rights Commission for the first time since the commission was formed in 1947.
-- 2000: The sport of geocaching begins, with the first cache placed and the coordinates from a GPS posted on Usenet.
-- 1999: Infiltration of Pakistani soldiers on Indian side results in the Kargil War.
-- 1999: The southwestern portion of Oklahoma City is devastated by an F5 tornado, killing forty-five people, injuring 665, and causing $1 billion in damage. The tornado is one of 66 from the 1999 Oklahoma tornado outbreak. This tornado also produces the highest wind speed ever recorded, measured at 484 ± 32 kilometres per hour (301 ± 20 mph). In meteorology, the term "May 3" is synonymous with the F5 tornado.
-- 1987: A crash by Bobby Allison at the Talladega Superspeedway, Alabama fencing at the start-finish line would lead NASCAR to develop the restrictor plate for the following season both at Daytona International Speedway and Talladega.
-- 1986: Twenty-one people are killed and forty-one are injured after a bomb explodes on Air Lanka Flight 512 at Colombo airport in Sri Lanka.
-- 1979: Margaret Thatcher wins the United Kingdom general election. The following day, she becomes the first female British Prime Minister.
-- 1978: The first unsolicited bulk commercial email (which would later become known as "spam") is sent by a Digital Equipment Corporation marketing representative to every ARPANET address on the west coast of the United States.
-- 1971: Erich Honecker becomes First Secretary of the Socialist Unity Party of Germany, remaining in power until 1989.
-- 1968: Eighty-five people are killed when Braniff International Airways Flight 352 crashes near Dawson, Texas.
-- 1963: The police force in Birmingham, Alabama switches tactics and responds with violent force to stop the "Birmingham campaign" protesters. Images of the violent suppression are transmitted worldwide, bringing new-found attention to the civil rights movement.
-- 1957: Walter O'Malley, the owner of the Brooklyn Dodgers, agrees to move the team from Brooklyn to Los Angeles.
-- 1953: Two men are rescued from a semitrailer that crashed over the side of the Pit River Bridge before it fell into the Sacramento River. Amateur photographer Virginia Schau photographs "Rescue on Pit River Bridge", the first and only winning submission for the Pulitzer Prize for Photography to have been taken by a woman.
-- 1952: The Kentucky Derby is televised nationally for the first time, on the CBS network.
-- 1952: Lieutenant Colonels Joseph O. Fletcher and William P. Benedict of the United States land a plane at the North Pole.
-- 1951: The United States Senate Committee on Armed Services and United States Senate Committee on Foreign Relations begin their closed door hearings into the relief of Douglas MacArthur by U.S. President Harry Truman.
-- 1951: London's Royal Festival Hall opens with the Festival of Britain.
-- 1948: The U.S. Supreme Court rules in Shelley v. Kraemer that covenants prohibiting the sale of real estate to blacks and other minorities are legally unenforceable.
-- 1947: New post-war Japanese constitution goes into effect.
-- 1945: World War II: Sinking of the prison ships Cap Arcona, Thielbek and Deutschland by the Royal Air Force in  Lübeck Bay.
-- 1942: World War II: Japanese naval troops invade Tulagi Island in the Solomon Islands during the first part of Operation Mo that results in the Battle of the Coral Sea between Japanese forces and forces from the United States and Australia.
-- 1939: The All India Forward Bloc is formed by Netaji Subhas Chandra Bose.
-- 1928: The Jinan incident begins with the deaths of twelve Japanese civilians by Chinese forces in Jinan, China, which leads to Japanese retaliation and the deaths of over 2,000 Chinese civilians in the following days.
+- 2023: Nine people are killed and thirteen injured in a spree shooting in Mladenovac and Smederevo, Serbia. It is the second mass shooting in the country in two days.
+- 2019: The inaugural all-female motorsport series, W Series, takes place at Hockenheimring. The race was won by Jamie Chadwick, who would go on to become the inaugural season's champion.
+- 2014: Three people are killed and 62 injured in a pair of bombings on buses in Nairobi, Kenya.
+- 2007: Greensburg, Kansas is almost completely destroyed by the 2007 Greensburg tornado, a 1.7-mile wide EF5 tornado. It was the first-ever tornado to be rated as such with the new Enhanced Fujita scale.
+- 2002: One hundred three people are killed and 51 are injured in a plane crash near Mallam Aminu Kano International Airport in Kano, Nigeria.
+- 2000: Ken Livingstone becomes the first Mayor of London (an office separate from that of the Lord Mayor of London).
+- 1998: A federal judge in Sacramento, California, gives "Unabomber" Theodore Kaczynski four life sentences plus 30 years after Kaczynski accepts a plea agreement sparing him from the death penalty.
+- 1994: Israeli Prime Minister Yitzhak Rabin and PLO leader Yasser Arafat sign a peace accord, granting self-rule in the Gaza Strip and Jericho.
+- 1990: Latvia declares independence from the Soviet Union.
+- 1989: Space Shuttle Atlantis launches on mission STS-30 to deploy the Venus-bound Magellan space probe.
+- 1989: Iran-Contra affair: Former White House aide Oliver North is convicted of three crimes and acquitted of nine other charges; the convictions are later overturned on appeal.
+- 1988: The PEPCON disaster rocks Henderson, Nevada, as tons of Space Shuttle fuel detonate during a fire.
+- 1982: Twenty sailors are killed when the British Type 42 destroyer HMS Sheffield is hit by an Argentinian Exocet missile during the Falklands War.
+- 1979: Margaret Thatcher becomes the first female Prime Minister of the United Kingdom.
+- 1978: The South African Defence Force attacks a SWAPO base at Cassinga in southern Angola, killing about 600 people.
+- 1973: The 108-story Sears Tower in Chicago is topped out at 1,451 feet (442 m) as the world's tallest building.
+- 1972: The Don't Make A Wave Committee, a fledgling environmental organization founded in Canada in 1971, officially changes its name to "Greenpeace Foundation".
+- 1970: Vietnam War: Kent State shootings: The Ohio National Guard, sent to Kent State University after disturbances in the city of Kent the weekend before, opens fire killing four unarmed students and wounding nine others. The students were protesting the Cambodian Campaign of the United States and South Vietnam.
+- 1961: Malcolm Ross and Victor Prather attain a new altitude record for manned balloon flight ascending in the Strato-Lab V open gondola to 113,740 feet (34.67 km).
+- 1961: American civil rights movement: The "Freedom Riders" begin a bus trip through the South.
+- 1959: The 1st Annual Grammy Awards are held.
+- 1953: Ernest Hemingway wins the Pulitzer Prize for The Old Man and the Sea.
+- 1949: The entire Torino football team (except for two players who did not take the trip: Sauro Tomà, due to an injury and Renato Gandolfi, because of coach request) is killed in a plane crash.
+- 1946: In San Francisco Bay, U.S. Marines from the nearby Treasure Island Naval Base stop a two-day riot at Alcatraz Federal Penitentiary.  Five people are killed in the riot.
+- 1945: World War II: The German surrender at Lüneburg Heath is signed, coming into effect the following day. It encompasses all Wehrmacht units in the Netherlands, Denmark and northwest Germany.
+- 1945: World War II: Neuengamme concentration camp near Hamburg is liberated by the British Army.
+- 1942: World War II: The Battle of the Coral Sea begins with an attack by aircraft from the United States aircraft carrier USS Yorktown on Japanese naval forces at Tulagi Island in the Solomon Islands. The Japanese forces had invaded Tulagi the day before.
+- 1932: Having been incarcerated at the Cook County Jail since his sentencing on October 24, 1931, mobster Al Capone is transferred to the federal penitentiary in Atlanta after the U.S. Supreme Court denies his appeal for conviction of tax evasion.
+- 1927: The Academy of Motion Picture Arts and Sciences is incorporated.
+- 1926: The United Kingdom general strike begins.
 
 Data from muffinlabs
-*(Updated at: 2026-05-03 03:36:58 UTC)*
+*(Updated at: 2026-05-04 03:35:26 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：曼尼普尔邦梅泰人和库基佐人之间爆发种族暴力。
-- - 2023 年：贝尔格莱德学校枪击事件造成九名学生和一名保安死亡，这是塞尔维亚首次发生此类袭击。
-- - 2021 年：墨西哥城地铁高架部分倒塌，造成 26 人死亡、98 人受伤。
-- - 2016 年：加拿大艾伯塔省麦克默里堡的一场野火席卷社区，摧毁了约 2,400 所房屋和建筑物，88,000 人从家中撤离。
-- - 2015 年：两名枪手试图袭击德克萨斯州加兰市的一场反伊斯兰活动，该活动是为了回应《查理周刊》枪击事件而举行的。
-- - 2007年：三岁的英国女孩玛德琳·麦肯在葡萄​​牙普拉亚达卢斯失踪，开启了“现代史上报道最多的失踪案”。
-- - 2006年：阿玛维亚航空967号航班在俄罗斯索契索契国际机场附近坠入黑海，造成113人死亡。
-- - 2001 年：美国自 1947 年联合国人权委员会成立以来首次失去其在该委员会的席位。
-- - 2000 年：地理藏宝运动开始，第一个藏宝处被放置，GPS 坐标发布在 Usenet 上。
-- - 1999年：巴基斯坦士兵渗透到印度一侧导致卡吉尔战争。
-- - 1999 年：俄克拉荷马城西南部遭受 F5 级龙卷风摧毁，造成 45 人死亡、665 人受伤，造成 10 亿美元的损失。这场龙卷风是 1999 年俄克拉荷马州爆发的 66 场龙卷风之一。这场龙卷风还产生了有记录以来最高的风速，测量为每小时 484 ± 32 公里（301 ± 20 英里/小时）。在气象学中，“5月3日”一词与F5龙卷风同义。
-- - 1987 年：鲍比·艾利森 (Bobby Allison) 在阿拉巴马州塔拉迪加超级赛道 (Talladega Superspeedway) 击剑起终点线发生事故，导致 NASCAR 在代托纳国际赛道 (Daytona International Speedway) 和塔拉迪加 (Talladega) 的下一赛季开发限制板。
-- - 1986 年：斯里兰卡航空 512 号航班在斯里兰卡科伦坡机场发生炸弹爆炸，造成 21 人死亡、41 人受伤。
-- - 1979 年：玛格丽特·撒切尔赢得英国大选。第二天，她成为英国第一位女首相。
-- - 1978 年：第一封未经请求的批量商业电子邮件（后来被称为“垃圾邮件”）由数字设备公司营销代表发送到美国西海岸的每个阿帕网地址。
-- - 1971 年：埃里希·昂纳克 (Erich Honecker) 成为德国统一社会党第一书记，一直执政到 1989 年。
-- - 1968 年：布兰尼夫国际航空公司 352 号航班在德克萨斯州道森附近坠毁，造成 85 人死亡。
-- - 1963年：阿拉巴马州伯明翰的警察部队改变策略，以暴力回应，以制止“伯明翰运动”抗议者。暴力镇压的画面传遍世界各地，为民权运动带来了新的关注。
-- - 1957 年：布鲁克林道奇队老板沃尔特·奥马利同意将球队从布鲁克林迁至洛杉矶。
-- - 1953 年：一辆半挂车在坠入萨克拉门托河之前从皮特河大桥一侧坠毁，两名男子被救出。业余摄影师 Virginia Schau 拍摄的《皮特河大桥救援》是第一张也是唯一一张由女性拍摄的普利策摄影奖获奖作品。
-- - 1952 年：肯塔基德比首次在哥伦比亚广播公司 (CBS) 网络上进行全国转播。
-- - 1952 年：美国中校约瑟夫·O·弗莱彻 (Joseph O. Fletcher) 和威廉·P·本尼迪克特 (William P. Benedict) 驾驶飞机降落在北极。
-- - 1951 年：美国参议院军事委员会和美国参议院外交关系委员会开始就美国总统哈里·杜鲁门 (Harry Truman) 救济道格拉斯·麦克阿瑟 (Douglas MacArthur) 问题举行闭门听证会。
-- - 1951 年：伦敦皇家节日音乐厅随着英国音乐节开幕。
-- - 1948 年：美国最高法院在雪莱诉克雷默案中裁定，禁止向黑人和其他少数族裔出售房地产的契约在法律上无法执行。
-- - 1947 年：日本战后新宪法生效。
-- - 1945 年：第二次世界大战：英国皇家空军在吕贝克湾击沉了囚船 Cap Arcona、Thielbek 和 Deutschland。
-- - 1942 年：第二次世界大战：日本海军部队在 Mo 行动的第一阶段入侵所罗门群岛的图拉吉岛，导致日本军队与美国和澳大利亚军队之间发生珊瑚海海战。
-- - 1939 年：内塔吉·苏巴斯·钱德拉·博斯 (Netaji Subhas Chandra Bose) 组建全印度前进集团。
-- - 1928年：济南事变始于中国军队在中国济南杀害12名日本平民，随后日本展开报复，并在随后的几天内造成2000多名中国平民死亡。
+- - 2023 年：塞尔维亚姆拉德诺瓦茨和斯梅代雷沃发生疯狂枪击事件，造成 9 人死亡、13 人受伤。这是该国两天内发生的第二起大规模枪击事件。
+- - 2019 年：首届全女性赛车系列赛 W 系列在霍根海姆赛道举行。杰米·查德威克 (Jamie Chadwick) 赢得了这场比赛，他后来成为首个赛季的冠军。
+- - 2014 年：肯尼亚内罗毕发生两起公交车爆炸事件，造成 3 人死亡、62 人受伤。
+- - 2007 年：堪萨斯州格林斯堡几乎被 2007 年格林斯堡龙卷风（1.7 英里宽的 EF5 龙卷风）完全摧毁。这是有史以来第一个被新的增强型藤田等级评定为龙卷风的龙卷风。
+- - 2002 年：尼日利亚卡诺马拉阿米努卡诺国际机场附近发生飞机失事，造成 103 人死亡、51 人受伤。
+- - 2000 年：肯·利文斯通 (Ken Livingstone) 成为首任伦敦市长（与伦敦市长的办公室分开）。
+- - 1998 年：加利福尼亚州萨克拉门托市的一名联邦法官判处“大学炸弹客”西奥多·卡钦斯基 (Theodore Kaczynski) 四项无期徒刑，并在卡钦斯基接受认罪协议后免于死刑，另加 30 年监禁。
+- - 1994年：以色列总理伊扎克·拉宾和巴解组织领导人亚西尔·阿拉法特签署和平协议，授予加沙地带和杰里科自治权。
+- - 1990 年：拉脱维亚宣布脱离苏联独立。
+- - 1989 年：亚特兰蒂斯号航天飞机执行 STS-30 任务发射，部署金星麦哲伦太空探测器。
+- - 1989 年：伊朗门事件：前白宫助手奥利弗·诺斯被判犯有三项罪名，并被判无罪释放其他九项指控；这些定罪后来在上诉中被推翻。
+- - 1988 年：PEPCON 灾难震撼了内华达州亨德森，大量航天飞机燃料在火灾中爆炸。
+- - 1982 年：马岛战争期间，英国 42 型驱逐舰谢菲尔德号被阿根廷飞鱼导弹击中，造成 20 名水手死亡。
+- - 1979 年：玛格丽特·撒切尔成为英国第一位女首相。
+- - 1978 年：南非国防军袭击了安哥拉南部卡辛加的 SWAPO 基地，造成约 600 人死亡。
+- - 1973 年：芝加哥 108 层的西尔斯大厦 (Sears Tower) 封顶，高度为 1,451 英尺（442 米），成为世界上最高的建筑。
+- - 1972 年：Don’t Make A Wave 委员会，一个于 1971 年在加拿大成立的新兴环保组织，正式更名为“绿色和平基金会”。
+- - 1970 年：越南战争：肯特州立大学枪击事件：上周末肯特市发生骚乱后，俄亥俄州国民警卫队被派往肯特州立大学，开枪打死四名手无寸铁的学生，打伤九人。学生们抗议美国和南越的柬埔寨运动。
+- - 1961 年：马尔科姆·罗斯 (Malcolm Ross) 和维克多·普拉瑟 (Victor Prather) 乘坐 Strato-Lab V 开放式缆车上升至 113,740 英尺（34.67 公里），创造了载人气球飞行的新高度记录。
+- - 1961 年：美国民权运动：“自由骑士”开始穿越南方的巴士之旅。
+- - 1959 年：第一届格莱美颁奖典礼举行。
+- - 1953 年：欧内斯特·海明威凭借《老人与海》获得普利策奖。
+- - 1949 年：整个都灵足球队（除了两名没有参加此次旅行的球员：萨罗·托玛（Sauro Tomà）因伤和雷纳托·甘多菲（Renato Gandolfi）因教练要求）在一次飞机失事中丧生。
+- - 1946 年：在旧金山湾，来自附近金银岛海军基地的美国海军陆战队人员制止了恶魔岛联邦监狱持续两天的骚乱。骚乱中有五人死亡。
+- - 1945 年：第二次世界大战：德国在吕讷堡荒原签署投降书，并于第二天生效。它包括荷兰、丹麦和德国西北部的所有国防军部队。
+- - 1945 年：第二次世界大战：汉堡附近的诺因加默集中营被英国军队解放。
+- - 1942 年：第二次世界大战：珊瑚海海战始于美国约克城号航空母舰的飞机对所罗门群岛图拉吉岛的日本海军发动攻击。日本军队前一天入侵图拉吉岛。
+- - 1932 年：黑帮阿尔·卡彭 (Al Capone) 自 1931 年 10 月 24 日宣判以来一直被监禁在库克县监狱，美国最高法院驳回了他对逃税定罪的上诉后，他被转移到亚特兰大的联邦监狱。
+- - 1927 年：电影艺术与科学学院成立。
+- - 1926 年：英国大罢工开始。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-05-03 03:36:58 UTC）*
+*（更新于: 2026-05-04 03:35:26 UTC）*
