@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: Eight people are killed and seven injured in a mass shooting in Allen, Texas. The perpetrator is killed by a police officer.
-- 2023: The coronation of Charles III and Camilla as King and Queen of the United Kingdom and the other Commonwealth realms is held in Westminster Abbey, London.
-- 2013: Three women, kidnapped and missing for more than a decade, are found alive in Cleveland, Ohio, in the United States.
-- 2010: In just 36 minutes, the Dow Jones Industrial Average plunged nearly 1,000 points in what is known as the 2010 Flash Crash.
-- 2004: The final episode of the television sitcom Friends was aired.
-- 2002: Founding of SpaceX.
-- 2002: Dutch politician Pim Fortuyn is assassinated following a radio-interview at the Mediapark in Hilversum.
-- 2001: During a trip to Syria, Pope John Paul II becomes the first pope to enter a mosque.
-- 1999: The first elections to the devolved Scottish Parliament and Welsh Assembly are held.
-- 1998: Steve Jobs of Apple Inc. unveils the first iMac.
-- 1998: Kerry Wood strikes out 20 Houston Astros to tie the major league record held by Roger Clemens. He threw a one-hitter and did not walk a batter in his fifth career start.
-- 1997: The Bank of England is given independence from political control, the most significant change in the bank's 300-year history.
-- 1996: The body of former CIA director William Colby is found washed up on a riverbank in southern Maryland, eight days after he disappeared.
-- 1994: Elizabeth II of the United Kingdom and French President François Mitterrand officiate at the opening of the Channel Tunnel.
-- 1988: All thirty-six passengers and crew were killed when Widerøe Flight 710 crashed into Mt. Torghatten in Brønnøy.
-- 1984: One hundred and three Korean Martyrs are canonized by Pope John Paul II in Seoul.
-- 1983: The Hitler Diaries are revealed as a hoax after being examined by new experts.
-- 1976: The 6.5 Mw  Friuli earthquake affected Northern Italy with a maximum Mercalli intensity of X (Extreme), leaving 900-978 dead and 1,700-2,400 injured.
-- 1975: During a lull in fighting, 100,000 Armenians gather in Beirut for the 60th anniversary commemorations of the Armenian genocide.
-- 1972: Deniz Gezmiş, Yusuf Aslan and Hüseyin İnan are executed in Ankara after being convicted of attempting to overthrow the Constitutional order.
-- 1966: Myra Hindley and Ian Brady are sentenced to life imprisonment for the Moors murders in England.
-- 1960: More than 20 million viewers watch the first televised royal wedding when Princess Margaret marries Antony Armstrong-Jones at Westminster Abbey.
-- 1954: Roger Bannister becomes the first person to run the mile in under four minutes.
-- 1949: EDSAC, the first practical electronic digital stored-program computer, runs its first operation.
-- 1945: World War II: The Prague Offensive, the last major battle of the Eastern Front, begins.
-- 1945: World War II: Axis Sally delivers her last propaganda broadcast to Allied troops.
-- 1942: World War II: On Corregidor, the last American forces in the Philippines surrender to the Japanese.
-- 1941: The first flight of the Republic P-47 Thunderbolt.
-- 1941: At California's March Field, Bob Hope performs his first USO show.
-- 1940: John Steinbeck is awarded the Pulitzer Prize for his novel The Grapes of Wrath.
+- 2025: The Indian Army and the Indian Air Force conduct surgical strikes code-named Operation SINDOOR on terrorist hideouts in Pakistan in response to the Pahalgam Attack that killed 26 people.
+- 2023: 2023 Tanur boat disaster, At least 22 people are killed when a boat carrying tourists capsizes in Tanur, Malappuram, Kerala, India.
+- 2004: American businessman Nick Berg is beheaded by Islamist militants. The act is recorded on videotape and released on the Internet.
+- 2002: A China Northern Airlines MD-82 plunges into the Yellow Sea, killing 112 people.
+- 2002: An EgyptAir Boeing 737-500 crashes on approach to Tunis-Carthage International Airport, killing 14 people.
+- 2000: Vladimir Putin is inaugurated as president of Russia.
+- 1999: In Guinea-Bissau, President João Bernardo Vieira is ousted in a military coup.
+- 1999: Kosovo War: Three Chinese citizens are killed and 20 wounded when a NATO aircraft inadvertently bombs the Chinese embassy in Belgrade, Serbia.
+- 1999: Pope John Paul II travels to Romania, becoming the first pope to visit a predominantly Eastern Orthodox country since the Great Schism in 1054.
+- 1998: Mercedes-Benz buys Chrysler for US$40 billion and forms DaimlerChrysler in the largest industrial merger in history.
+- 1994: Edvard Munch's painting The Scream is recovered undamaged after being stolen from the National Gallery of Norway in February.
+- 1992: Three employees at a McDonald's Restaurant in Sydney, Nova Scotia, Canada, are brutally murdered and a fourth permanently disabled after a botched robbery. It is the first "fast-food murder" in Canada.
+- 1992: Space Shuttle program: The Space Shuttle Endeavour is launched on its first mission, STS-49.
+- 1992: Michigan ratifies a 203-year-old proposed amendment to the United States Constitution making the 27th Amendment law. This amendment bars the U.S. Congress from giving itself a mid-term pay raise.
+- 1991: A fire and explosion occurs at a fireworks factory at Sungai Buloh, Malaysia, killing 26.
+- 1986: Canadian Patrick Morrow becomes the first person to climb each of the Seven Summits.
+- 1964: Pacific Airlines Flight 773 is hijacked by Francisco Gonzales and crashes in Contra Costa County, California, killing 44.
+- 1960: Cold War: U-2 Crisis of 1960: Soviet leader Nikita Khrushchev announces that his nation is holding American U-2 pilot Gary Powers.
+- 1954: Indochina War: The Battle of Dien Bien Phu ends in a French defeat and a Viet Minh victory (the battle began on March 13).
+- 1952: The concept of the integrated circuit, the basis for all modern computers, is first published by Geoffrey Dummer.
+- 1948: The Council of Europe is founded during the Hague Congress.
+- 1946: Tokyo Telecommunications Engineering (later renamed Sony) is founded.
+- 1945: World War II: Last German U-boat attack of the war, two freighters are sunk off the Firth of Forth, Scotland.
+- 1942: World War II: During the Battle of the Coral Sea, United States Navy aircraft carrier aircraft attack and sink the Imperial Japanese Navy light aircraft carrier Shōhō; the battle marks the first time in naval history that two enemy fleets fight without visual contact between warring ships.
+- 1940: World War II: The Norway Debate in the British House of Commons begins, and leads to the replacement of Prime Minister Neville Chamberlain with Winston Churchill three days later.
+- 1937: Spanish Civil War: The German Condor Legion, equipped with Heinkel He 51 biplanes, arrives in Spain to assist Francisco Franco's forces.
+- 1931: The stand-off between criminal Francis Crowley and 300 members of the New York Police Department takes place in his fifth-floor apartment on West 91st Street, New York City.
+- 1930: The 7.1 Mw  Salmas earthquake shakes northwestern Iran and southeastern Turkey with a maximum Mercalli intensity of IX (Violent). Up to three-thousand people were killed.
+- 1920: Treaty of Moscow: Soviet Russia recognizes the independence of the Democratic Republic of Georgia only to invade the country six months later.
+- 1920: Polish-Soviet War: Kyiv offensive: Polish troops led by Józef Piłsudski and Edward Rydz-Śmigły and assisted by a symbolic Ukrainian force capture Kyiv only to be driven out by the Red Army counter-offensive a month later.
 
 Data from muffinlabs
-*(Updated at: 2026-05-06 03:32:05 UTC)*
+*(Updated at: 2026-05-07 03:32:21 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：德克萨斯州艾伦发生大规模枪击事件，造成 8 人死亡、7 人受伤。肇事者被一名警察杀死。
-- - 2023年：查理三世和卡米拉作为英国和其他英联邦国家的国王和王后的加冕典礼在伦敦威斯敏斯特教堂举行。
-- - 2013 年：三名被绑架失踪十多年的妇女在美国俄亥俄州克利夫兰被发现还活着。
-- - 2010 年：道琼斯工业平均指数在短短 36 分钟内暴跌近 1,000 点，即所谓的 2010 年闪电崩盘。
-- - 2004年：电视情景喜剧《老友记》最后一集播出。
-- - 2002 年：SpaceX 成立。
-- - 2002 年：荷兰政治家 Pim Fortuyn 在希尔弗瑟姆 Mediapark 接受电台采访后被暗杀。
-- - 2001年：在访问叙利亚期间，教皇约翰·保罗二世成为第一位进入清真寺的教皇。
-- - 1999 年：举行了权力下放的苏格兰议会和威尔士议会的第一次选举。
-- - 1998 年：苹果公司的史蒂夫·乔布斯推出第一台 iMac。
-- - 1998 年：克里·伍德 (Kerry Wood) 三振了 20 名休斯顿太空人队球员，追平了罗杰·克莱门斯 (Roger Clemens) 保持的大联盟纪录。在他职业生涯的第五次首发中，他投出了一垒安打，但没有上垒。
-- - 1997 年：英格兰银行获得独立于政治控制，这是该银行 300 年历史上最重大的变化。
-- - 1996 年：前中央情报局局长威廉·科尔比失踪八天后，他的尸体被发现被冲到马里兰州南部的河岸上。
-- - 1994 年：英国伊丽莎白二世和法国总统弗朗索瓦·密特朗主持英吉利海峡隧道的开通。
-- - 1988 年：Widerøe 710 航班坠入布伦尼 (Brønnøy) 的托尔加滕山 (Mt. Torghatten)，机上 36 名乘客和机组人员全部遇难。
-- - 1984年：一百零三名韩国烈士在首尔被教皇约翰·保罗二世册封为圣人。
-- - 1983 年：新专家检查后发现希特勒日记是一场骗局。
-- - 1976 年：意大利北部发生了 6.5 Mw 弗留利地震，最大 Mercalli 烈度为 X（极端），造成 900-978 人死亡、1,700-2,400 人受伤。
-- - 1975 年：在战斗平静期间，10 万亚美尼亚人聚集在贝鲁特，纪念亚美尼亚种族灭绝 60 周年。
-- - 1972 年：德尼兹·盖兹米斯 (Deniz Gezmiş)、优素福·阿斯兰 (Yusuf Aslan) 和侯赛因·伊南 (Hüseyin ïnan) 因企图推翻宪法秩序而被定罪，在安卡拉被处决。
-- - 1966 年：迈拉·欣德利 (Myra Hindley) 和伊恩·布雷迪 (Ian Brady) 因英格兰摩尔人谋杀案被判处终身监禁。
-- - 1960 年：超过 2000 万观众观看了玛格丽特公主在威斯敏斯特教堂与安东尼·阿姆斯特朗·琼斯举行的第一场电视转播的皇室婚礼。
-- - 1954 年：罗杰·班尼斯特 (Roger Bannister) 成为第一个在四分钟内跑完一英里的人。
-- - 1949 年：第一台实用电子数字存储程序计算机 EDSAC 首次运行。
-- - 1945 年：第二次世界大战：东线最后一场重大战役布拉格攻势开始。
-- - 1945 年：第二次世界大战：轴心国莎莉向盟军进行最后一次宣传广播。
-- - 1942 年：第二次世界大战：在科雷希多岛，菲律宾的最后一支美军向日本投降。
-- - 1941 年：共和国 P-47 Thunderbolt 首飞。
-- - 1941 年：在加利福尼亚州的 March Field，鲍勃·霍普 (Bob Hope) 进行了他的首次 USO 表演。
-- - 1940 年：约翰·斯坦贝克因其小说《愤怒的葡萄》获得普利策奖。
+- - 2025 年：印度陆军和印度空军对巴基斯坦境内的恐怖分子藏身处进行代号为“SINDOOR 行动”的外科手术式打击，以应对导致 26 人死亡的帕哈加姆袭击事件。
+- - 2023年：2023年塔努尔船难，一艘载有游客的船只在印度喀拉拉邦马拉普兰塔努尔倾覆，造成至少22人死亡。
+- - 2004 年：美国商人尼克·伯格被伊斯兰武装分子斩首。该行为被录制成录像带并在互联网上发布。
+- - 2002年：中国北方航空公司一架MD-82飞机坠入黄海，造成112人死亡。
+- - 2002 年：埃及航空一架波音 737-500 客机在飞往突尼斯迦太基国际机场时坠毁，造成 14 人死亡。
+- - 2000 年：弗拉基米尔·普京就任俄罗斯总统。
+- - 1999 年：几内亚比绍总统若昂·贝尔纳多·维埃拉在军事政变中被赶下台。
+- - 1999年：科索沃战争：一架北约飞机无意中轰炸了中国驻塞尔维亚贝尔格莱德大使馆，造成三名中国公民死亡、二十人受伤。
+- - 1999 年：教皇约翰·保罗二世访问罗马尼亚，成为自 1054 年大分裂以来第一位访问东正教占主导地位的国家的教皇。
+- - 1998 年：梅赛德斯-奔驰以 400 亿美元收购克莱斯勒，并成立戴姆勒克莱斯勒，这是历史上最大的工业合并。
+- - 1994 年：爱德华·蒙克 (Edvard Munch) 的画作《呐喊》于 2 月份在挪威国家美术馆被盗后被完好无损地找回。
+- - 1992 年：加拿大新斯科舍省悉尼一家麦当劳餐厅的三名员工在一次拙劣的抢劫后被残忍杀害，第四名员工永久残疾。这是加拿大首例“快餐谋杀案”。
+- - 1992 年：航天飞机计划：奋进号航天飞机在其首次任务 STS-49 中发射升空。
+- - 1992 年：密歇根州批准了 203 年前提出的美国宪法修正案，制定了第 27 条修正案。该修正案禁止美国国会中期加薪。
+- - 1991年：马来西亚双溪毛糯的一家烟花工厂发生火灾和爆炸，造成26人死亡。
+- - 1986 年：加拿大人帕特里克·莫罗 (Patrick Morrow) 成为攀登七大高峰的第一人。
+- - 1964 年：太平洋航空 773 号航班被弗朗西斯科·冈萨雷斯 (Francisco Gonzales) 劫持，并在加利福尼亚州康特拉科斯塔县坠毁，造成 44 人死亡。
+- - 1960 年：冷战：1960 年 U-2 危机：苏联领导人尼基塔·赫鲁晓夫宣布他的国家扣押了美国 U-2 飞行员加里·鲍尔斯。
+- - 1954 年：印度支那战争：奠边府战役以法国失败和越盟胜利而告终（战斗于 3 月 13 日开始）。
+- - 1952 年：Geoffrey Dummer 首次提出了集成电路的概念，这是所有现代计算机的基础。
+- - 1948 年：欧洲委员会在海牙会议期间成立。
+- - 1946 年：东京电讯工程公司（后更名为索尼公司）成立。
+- - 1945 年：第二次世界大战：战争中德国潜艇的最后一次攻击，两艘货轮在苏格兰福斯湾被击沉。
+- - 1942年：第二次世界大战：珊瑚海海战中，美国海军航空母舰攻击并击沉日本帝国海军轻型航空母舰翔凤号；这场战斗标志着海军历史上第一次两支敌方舰队在交战舰艇之间没有视觉接触的情况下进行战斗。
+- - 1940 年：第二次世界大战：英国下议院的挪威辩论开始，三天后温斯顿·丘吉尔取代了首相内维尔·张伯伦。
+- - 1937 年：西班牙内战：装备 Heinkel He 51 双翼飞机的德国秃鹰军团抵达西班牙协助弗朗西斯科·佛朗哥的军队。
+- - 1931 年：罪犯弗朗西斯·克劳利 (Francis Crowley) 与纽约警察局 300 名成员之间的对峙发生在他位于纽约市西 91 街五楼的公寓中。
+- - 1930 年：7.1 兆瓦萨尔马斯地震震动了伊朗西北部和土耳其东南部，最大麦卡利强度为 IX（强烈）。多达三千人被杀。
+- - 1920 年：莫斯科条约：苏维埃俄罗斯承认格鲁吉亚民主共和国的独立，但六个月后入侵该国。
+- - 1920 年：波苏战争：基辅攻势：由约瑟夫·毕苏斯基和爱德华·雷兹-希米格利领导的波兰军队在象征性的乌克兰军队的协助下占领了基辅，但一个月后被红军的反攻驱逐。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-05-06 03:32:05 UTC）*
+*（更新于: 2026-05-07 03:32:21 UTC）*
