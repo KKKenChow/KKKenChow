@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Start of the May 2024 Solar Storms, the most powerful set of Geomagnetic storms since the 2003 Halloween solar storms.
-- 2022: Queen Elizabeth II misses the State Opening of Parliament for the first time in 59 years. It was the first time that a new session of Parliament was opened by the Prince of Wales and the Duke of Cambridge acting as Counsellors of State.
-- 2017: Syrian civil war: The Syrian Democratic Forces (SDF) capture the last footholds of the Islamic State of Iraq and the Levant (ISIL) in Al-Tabqah, bringing the Battle of Tabqa to an end.
-- 2013: One World Trade Center becomes the tallest building in the Western Hemisphere.
-- 2012: The Damascus bombings are carried out using a pair of car bombs detonated by suicide bombers outside a military intelligence complex in Damascus, Syria, killing 55 people.
-- 2005: A hand grenade thrown by Vladimir Arutyunian lands about 20 m from U.S. President George W. Bush while he is giving a speech to a crowd in Tbilisi, Georgia, but it malfunctions and does not detonate.
-- 2002: FBI agent Robert Hanssen is sentenced to life imprisonment without the possibility of parole for selling United States secrets to Russia for $1.4 million in cash and diamonds.
-- 1997: The 7.3 Mw Qayen earthquake strikes Iran's Khorasan Province killing 1,567 people.
-- 1996: A blizzard strikes Mount Everest, killing eight climbers by the next day.
-- 1994: Nelson Mandela is inaugurated as South Africa's first black president.
-- 1993: In Thailand, a fire at the Kader Toy Factory kills over 200 workers.
-- 1975: Sony introduces the Betamax videocassette recorder.
-- 1969: Vietnam War: The Battle of Dong Ap Bia begins with an assault on Hill 937. It will ultimately become known as Hamburger Hill.
-- 1967: The Northrop M2-F2 crashes on landing, becoming the inspiration for the novel Cyborg and TV series The Six Million Dollar Man.
-- 1962: Marvel Comics publishes the first issue of The Incredible Hulk.
-- 1961: Air France Flight 406 is destroyed by a bomb over the Sahara, killing 78.
-- 1946: First successful launch of an American V-2 rocket at White Sands Proving Ground.
-- 1942: World War II: The Thai Phayap Army invades the Shan States during the Burma Campaign.
-- 1941: World War II: Rudolf Hess parachutes into Scotland to try to negotiate a peace deal between the United Kingdom and Nazi Germany.
-- 1941: World War II: The House of Commons in London is damaged by the Luftwaffe in an air raid.
-- 1940: World War II: Winston Churchill is appointed Prime Minister of the United Kingdom following the resignation of Neville Chamberlain. On the same day, Germany invades France, The Netherlands, Belgium and Luxembourg. Meanwhile, the United Kingdom occupies Iceland.
-- 1940: World War II: German fighters accidentally bomb the German city of Freiburg.
-- 1933: Censorship: In Germany, the Nazis stage massive public book burnings.
-- 1924: J. Edgar Hoover is appointed first Director of the United States' Federal Bureau of Investigation (FBI), and remains so until his death in 1972.
-- 1922: The United States annexes the Kingman Reef.
-- 1916: Sailing in the lifeboat James Caird, Ernest Shackleton arrives at South Georgia after a journey of 800 nautical miles from Elephant Island.
-- 1908: Mother's Day is observed for the first time in the United States, in Grafton, West Virginia.
-- 1904: The Horch & Cir. Motorwagenwerke AG is founded. It would eventually become the Audi company.
-- 1899: Finnish farmworker Karl Emil Malmelin kills seven people with an axe at the Simola croft in the village of Klaukkala.
-- 1881: Carol I is crowned the King of the Romanian Kingdom.
+- 2024: The 68th edition of the Eurovision Song Contest is held in Malmö, Sweden. Nemo from Switzerland wins with their song "The Code", making them the contest's first non-binary winner.
+- 2024: Start/Middle of the May 2024 Solar Storms, the most powerful set of Geomagnetic storms since the 2003 Halloween solar storms.
+- 2022: Palestinian-American journalist Shireen Abu Akleh is killed while covering a raid in Jenin. Israel eventually admitted and apologized for the murder, after initial denials.
+- 2022: The Burmese military executes at least 37 villagers during the Mon Taing Pin massacre in Sagaing, Myanmar.
+- 2016: One hundred and ten people are killed in an ISIL bombing in Baghdad.
+- 2014: Fifteen people are killed and 46 injured in Kinshasa, DRC, in a stampede caused by tear gas being thrown into soccer stands by police officers.
+- 2013: Fifty-two people are killed in a bombing in Reyhanlı, Turkey.
+- 2011: The Istanbul Convention is signed in Istanbul, Turkey.
+- 2011: An earthquake of magnitude 5.1 hits Lorca, Spain.
+- 2010: David Cameron takes office as Prime Minister of the United Kingdom as the Conservatives and Liberal Democrats form the country's first coalition government since the Second World War.
+- 2009: Space Shuttle Atlantis is launched on the final mission to service the Hubble Space Telescope.
+- 2009: An American soldier in Iraq opens fire on a counseling center at Camp Liberty in Baghdad, killing five other US soldiers and wounding three.
+- 2000: Second Chechen War: Chechen separatists ambush Russian paramilitary forces in the Republic of Ingushetia.
+- 1998: India conducts three underground atomic tests in Pokhran.
+- 1997: Deep Blue, a chess-playing supercomputer, defeats Garry Kasparov in the last game of the rematch, becoming the first computer to beat a world-champion chess player in a classic match format.
+- 1996: After the aircraft's departure from Miami, a fire started by improperly handled chemical oxygen generators in the cargo hold of Atlanta-bound ValuJet Airlines Flight 592 causes the Douglas DC-9 to crash in the Florida Everglades, killing all 110 on board.
+- 1987: Klaus Barbie goes on trial in Lyon for war crimes committed during World War II.
+- 1985: Fifty-six spectators die and more than 200 are injured in the Bradford City stadium fire.
+- 1973: Aeroflot Flight 6551 crashes in Semey, Kazakh Soviet Socialist Republic (now Kazakhstan), killing all 63 aboard.
+- 1973: Citing government misconduct, Daniel Ellsberg's charges for his involvement in releasing the Pentagon Papers to The New York Times are dismissed.
+- 1970: The 1970 Lubbock tornado kills 26 and causes $250 million in damage.
+- 1919: Uruguay becomes a signatory to the Buenos Aires copyright treaty.
+- 1894: Four thousand Pullman Palace Car Company workers go on a wildcat strike.
+- 1889: An attack upon a U.S. Army paymaster and escort results in the theft of over $28,000 and the award of two Medals of Honor.
+- 1880: Seven people are killed in the Mussel Slough Tragedy, a gun battle in California.
+- 1878: Hödel assassination attempt by anarchist Max Hödel targeting the German Kaiser, Wilhelm I.
+- 1857: Indian Rebellion of 1857: Indian rebels seize Delhi from the British.
+- 1813: William Lawson, Gregory Blaxland and William Wentworth discover a route across the Blue Mountains, opening up inland Australia to settlement.
+- 1812: Prime Minister Spencer Perceval is assassinated by John Bellingham in the lobby of the British House of Commons.
+- 1713: Great Northern War: After losing the Battle of Helsinki to the Russians, the Swedish and Finnish troops burn the entire city, so that it would not remain intact in the hands of the Russians.
 
 Data from muffinlabs
-*(Updated at: 2026-05-10 03:39:30 UTC)*
+*(Updated at: 2026-05-11 03:53:06 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：2024 年 5 月太阳风暴开始，这是自 2003 年万圣节太阳风暴以来最强大的一组地磁风暴。
-- - 2022 年：英国女王伊丽莎白二世 59 年来首次错过议会开幕式。这是第一次由威尔士亲王和剑桥公爵担任国务顾问主持新一届议会会议。
-- - 2017年：叙利亚内战：叙利亚民主力量（SDF）占领了伊拉克和黎凡特伊斯兰国（ISIL）在塔布卡的最后据点，结束了塔布卡之战。
-- - 2013 年：世贸中心一号大楼成为西半球最高的建筑。
-- - 2012年：叙利亚大马士革军事情报中心外，自杀式炸弹袭击者使用两枚汽车炸弹引爆了大马士革爆炸事件，造成 55 人死亡。
-- - 2005 年：美国总统乔治·W·布什 (George W. Bush) 在格鲁吉亚第比利斯向人群发表演讲时，弗拉基米尔·阿鲁图尼安 (Vladimir Arutyunian) 投掷的一枚手榴弹落在距他约 20 m 的地方，但手榴弹发生故障，没有爆炸。
-- - 2002 年：联邦调查局特工罗伯特·汉森因以 140 万美元现金和钻石向俄罗斯出售美国机密而被判处终身监禁，不得假释。
-- - 1997 年：伊朗呼罗珊省发生 7.3 Mw Qayen 地震，造成 1,567 人死亡。
-- - 1996 年：一场暴风雪袭击了珠穆朗玛峰，第二天就造成 8 名登山者死亡。
-- - 1994 年：纳尔逊·曼德拉就任南非第一位黑人总统。
-- - 1993 年：泰国卡德尔玩具厂发生火灾，导致 200 多名工人死亡。
-- - 1975 年：索尼推出 Betamax 盒式磁带录像机。
-- - 1969 年：越南战争：Dong Ap Bia 战役以攻击 937 号山开始。该山最终被称为汉堡山。
-- - 1967 年：诺斯罗普 M2-F2 在着陆时坠毁，成为小说《机器人》和电视剧《六百万美元的人》的灵感来源。
-- - 1962 年：漫威漫画出版《无敌浩克》第一期。
-- - 1961 年：法航 406 号航班在撒哈拉沙漠上空被一枚炸弹摧毁，造成 78 人死亡。
-- - 1946 年：美国 V-2 火箭在白沙试验场首次成功发射。
-- - 1942 年：第二次世界大战：缅甸战役期间，泰国帕亚普军入侵掸邦。
-- - 1941 年：第二次世界大战：鲁道夫·赫斯空降到苏格兰，试图在英国与纳粹德国之间谈判达成和平协议。
-- - 1941 年：第二次世界大战：伦敦下议院在一次空袭中被德国空军损坏。
-- - 1940 年：第二次世界大战：内维尔·张伯伦辞职后，温斯顿·丘吉尔被任命为英国首相。同一天，德国入侵法国、荷兰、比利时和卢森堡。与此同时，英国占领了冰岛。
-- - 1940 年：第二次世界大战：德国战斗机意外轰炸了德国城市弗莱堡。
-- - 1933 年：审查制度：在德国，纳粹分子大规模焚烧公共书籍。
-- - 1924 年：J. 埃德加·胡佛 (J. Edgar Hoover) 被任命为美国联邦调查局 (FBI) 首任局长，直至 1972 年去世。
-- - 1922 年：美国吞并金曼礁。
-- - 1916 年：欧内斯特·沙克尔顿 (Ernest Shackleton) 乘坐救生艇詹姆斯·凯尔德 (James Caird) 从象岛出发，经过 800 海里的旅程抵达南乔治亚岛。
-- - 1908 年：美国西弗吉尼亚州格拉夫顿首次庆祝母亲节。
-- - 1904 年：Horch & Cir。Motorwagenwerke AG 成立。它最终成为奥迪公司。
-- - 1899 年：芬兰农场工人卡尔·埃米尔·马尔梅林 (Karl Emil Malmelin) 在克劳卡拉 (Klaukkala) 村的西莫拉 (Simola) 农庄用斧头杀死了 7 人。
-- - 1881 年：卡罗尔一世加冕为罗马尼亚王国国王。
+- - 2024 年：第 68 届欧洲歌唱大赛在瑞典马尔默举行。来自瑞士的 Nemo 凭借歌曲《The Code》获胜，成为本次比赛的第一位非二元获胜者。
+- - 2024 年：2024 年 5 月太阳风暴开始/中旬，这是自 2003 年万圣节太阳风暴以来最强大的一组地磁风暴。
+- - 2022 年：巴勒斯坦裔美国记者 Shireen Abu Akleh 在报道杰宁的一次袭击时被杀。在最初否认后，以色列最终承认了这起谋杀案并道歉。
+- - 2022 年：缅甸军方在缅甸实皆市 Mon Taing Pin 大屠杀期间处决了至少 37 名村民。
+- - 2016 年：110 人在巴格达的伊斯兰国爆炸事件中丧生。
+- - 2014 年：刚果金沙萨发生警察向足球场投掷催泪瓦斯引发的踩踏事件，造成 15 人死亡、46 人受伤。
+- - 2013 年：土耳其雷伊汉利发生爆炸，造成 52 人死亡。
+- - 2011年：《伊斯坦布尔公约》在土耳其伊斯坦布尔签署。
+- - 2011 年：西班牙洛尔卡发生 5.1 级地震。
+- - 2010年：戴维·卡梅伦就任英国首相，保守党和自由民主党组成英国自第二次世界大战以来的第一个联合政府。
+- - 2009 年：亚特兰蒂斯号航天飞机发射升空，执行为哈勃太空望远镜服务的最后任务。
+- - 2009年：一名驻伊拉克美军士兵向巴格达自由营的一个咨询中心开枪，造成另外五名美军士兵死亡，三人受伤。
+- - 2000年：第二次车臣战争：车臣分裂分子在印古什共和国伏击俄罗斯准军事部队。
+- - 1998 年：印度在博克兰进行了三次地下原子试验。
+- - 1997年：国际象棋超级计算机“深蓝”在复赛的最后一场比赛中击败了加里·卡斯帕罗夫，成为第一台以经典比赛形式击败世界冠军国际象棋选手的计算机。
+- - 1996 年：飞机从迈阿密起飞后，飞往亚特兰大的 ValuJet 航空公司 592 号航班货舱内化学氧气发生器处理不当引发火灾，导致道格拉斯 DC-9 在佛罗里达大沼泽地坠毁，机上 110 人全部遇难。
+- - 1987 年：克劳斯·芭比因二战期间犯下的战争罪在里昂接受审判。
+- - 1985 年：布拉德福德市体育场火灾导致 56 名观众死亡、200 多人受伤。
+- - 1973 年：俄罗斯航空公司 6551 航班在哈萨克斯坦苏维埃社会主义共和国（现哈萨克斯坦）塞米伊坠毁，机上 63 人全部遇难。
+- - 1973 年：丹尼尔·埃尔斯伯格以政府不当行为为由，对他参与向《纽约时报》泄露五角大楼文件的指控被驳回。
+- - 1970 年：1970 年的拉伯克龙卷风造成 26 人死亡并造成 2.5 亿美元的损失。
+- - 1919 年：乌拉圭成为布宜诺斯艾利斯版权条约的签署国。
+- - 1894 年：四千名普尔曼宫汽车公司工人举行野猫罢工。
+- - 1889 年：一名美国陆军出纳员和护送人员遭到袭击，导致超过 28,000 美元被盗，并被授予两枚荣誉勋章。
+- - 1880 年：加利福尼亚州发生的枪战“贻贝沼泽惨案”，造成 7 人死亡。
+- - 1878 年：无政府主义者马克斯·霍德尔 (Max Hödel) 企图刺杀德国皇帝威廉一世。
+- - 1857 年：1857 年印度叛乱：印度叛军从英国手中夺取德里。
+- - 1813 年：William Lawson、Gregory Blaxland 和 William Wentworth 发现了一条穿越蓝山的路线，开辟了澳大利亚内陆定居点。
+- - 1812 年：英国首相斯宾塞·珀西瓦尔在英国下议院大厅被约翰·贝林厄姆刺杀。
+- - 1713年：大北方战争：在赫尔辛基战役中输给俄国人后，瑞典和芬兰军队烧毁了整座城市，以免它在俄国人手中完好无损。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-05-10 03:39:30 UTC）*
+*（更新于: 2026-05-11 03:53:06 UTC）*
