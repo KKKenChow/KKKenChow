@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: The 68th edition of the Eurovision Song Contest is held in Malmö, Sweden. Nemo from Switzerland wins with their song "The Code", making them the contest's first non-binary winner.
-- 2024: Start/Middle of the May 2024 Solar Storms, the most powerful set of Geomagnetic storms since the 2003 Halloween solar storms.
-- 2022: Palestinian-American journalist Shireen Abu Akleh is killed while covering a raid in Jenin. Israel eventually admitted and apologized for the murder, after initial denials.
-- 2022: The Burmese military executes at least 37 villagers during the Mon Taing Pin massacre in Sagaing, Myanmar.
-- 2016: One hundred and ten people are killed in an ISIL bombing in Baghdad.
-- 2014: Fifteen people are killed and 46 injured in Kinshasa, DRC, in a stampede caused by tear gas being thrown into soccer stands by police officers.
-- 2013: Fifty-two people are killed in a bombing in Reyhanlı, Turkey.
-- 2011: The Istanbul Convention is signed in Istanbul, Turkey.
-- 2011: An earthquake of magnitude 5.1 hits Lorca, Spain.
-- 2010: David Cameron takes office as Prime Minister of the United Kingdom as the Conservatives and Liberal Democrats form the country's first coalition government since the Second World War.
-- 2009: Space Shuttle Atlantis is launched on the final mission to service the Hubble Space Telescope.
-- 2009: An American soldier in Iraq opens fire on a counseling center at Camp Liberty in Baghdad, killing five other US soldiers and wounding three.
-- 2000: Second Chechen War: Chechen separatists ambush Russian paramilitary forces in the Republic of Ingushetia.
-- 1998: India conducts three underground atomic tests in Pokhran.
-- 1997: Deep Blue, a chess-playing supercomputer, defeats Garry Kasparov in the last game of the rematch, becoming the first computer to beat a world-champion chess player in a classic match format.
-- 1996: After the aircraft's departure from Miami, a fire started by improperly handled chemical oxygen generators in the cargo hold of Atlanta-bound ValuJet Airlines Flight 592 causes the Douglas DC-9 to crash in the Florida Everglades, killing all 110 on board.
-- 1987: Klaus Barbie goes on trial in Lyon for war crimes committed during World War II.
-- 1985: Fifty-six spectators die and more than 200 are injured in the Bradford City stadium fire.
-- 1973: Aeroflot Flight 6551 crashes in Semey, Kazakh Soviet Socialist Republic (now Kazakhstan), killing all 63 aboard.
-- 1973: Citing government misconduct, Daniel Ellsberg's charges for his involvement in releasing the Pentagon Papers to The New York Times are dismissed.
-- 1970: The 1970 Lubbock tornado kills 26 and causes $250 million in damage.
-- 1919: Uruguay becomes a signatory to the Buenos Aires copyright treaty.
-- 1894: Four thousand Pullman Palace Car Company workers go on a wildcat strike.
-- 1889: An attack upon a U.S. Army paymaster and escort results in the theft of over $28,000 and the award of two Medals of Honor.
-- 1880: Seven people are killed in the Mussel Slough Tragedy, a gun battle in California.
-- 1878: Hödel assassination attempt by anarchist Max Hödel targeting the German Kaiser, Wilhelm I.
-- 1857: Indian Rebellion of 1857: Indian rebels seize Delhi from the British.
-- 1813: William Lawson, Gregory Blaxland and William Wentworth discover a route across the Blue Mountains, opening up inland Australia to settlement.
-- 1812: Prime Minister Spencer Perceval is assassinated by John Bellingham in the lobby of the British House of Commons.
-- 1713: Great Northern War: After losing the Battle of Helsinki to the Russians, the Swedish and Finnish troops burn the entire city, so that it would not remain intact in the hands of the Russians.
+- 2024: Middle/End of the May 2024 Solar Storms, the most powerful set of Geomagnetic storms since the 2003 Halloween solar storms.
+- 2018: Paris knife attack: A man is fatally shot by police in Paris after killing one and injuring several others.
+- 2017: The WannaCry ransomware attack impacts over 400,000 computers worldwide, targeting computers of the United Kingdom's National Health Services and Telefónica computers.
+- 2015: Massive Nepal earthquake kills 218 people and injures more than 3,500.
+- 2015: A train derailment in Philadelphia, United States, kills eight people and injures more than 200.
+- 2010: Afriqiyah Airways Flight 771 crashes on final approach to Tripoli International Airport in Tripoli, Libya, killing 103 out of the 104 people on board.
+- 2008: U.S. Immigration and Customs Enforcement conducts the largest-ever raid of a workplace in Postville, Iowa, arresting nearly 400 immigrants for identity theft and document fraud.
+- 2008: An earthquake (measuring around 8.0 magnitude) occurs in Sichuan, China, killing over 69,000 people.
+- 2006: Iranian Azeris interpret a cartoon published in an Iranian magazine as insulting, resulting in massive riots throughout the country.
+- 2006: Mass unrest by the Primeiro Comando da Capital begins in São Paulo (Brazil), leaving at least 150 dead.
+- 2003: The Riyadh compound bombings in Saudi Arabia, carried out by al-Qaeda, kill 39 people.
+- 2002: Former US President Jimmy Carter arrives in Cuba for a five-day visit with Fidel Castro, becoming the first President of the United States, in or out of office, to visit the island since the Cuban Revolution.
+- 1989: The San Bernardino train disaster kills four people, only to be followed a week later by an underground gasoline pipeline explosion, which kills two more people.
+- 1982: During a procession outside the shrine of the Virgin Mary in Fátima, Portugal, security guards overpower Juan María Fernández y Krohn before he can attack Pope John Paul II with a bayonet.
+- 1978: In Zaire, rebels occupy the city of Kolwezi, the mining center of the province of Shaba (now known as Katanga); the local government asks the US, France and Belgium to restore order.
+- 1975: Indochina Wars: Democratic Kampuchea naval forces capture the SS Mayaguez.
+- 1968: Vietnam War: North Vietnamese and Viet Cong forces attack Australian troops defending Fire Support Base Coral.
+- 1965: The Soviet spacecraft Luna 5 crashes on the Moon.
+- 1949: Cold War: The Soviet Union lifts its blockade of Berlin.
+- 1942: World War II: The U.S. tanker SS Virginia is torpedoed in the mouth of the Mississippi River by the German submarine U-507.
+- 1942: World War II: Second Battle of Kharkov: In eastern Ukraine, Red Army forces under Marshal Semyon Timoshenko launch a major offensive from the Izium bridgehead, only to be encircled and destroyed by the troops of Army Group South two weeks later.
+- 1941: Konrad Zuse presents the Z3, the world's first working programmable, fully automatic computer, in Berlin.
+- 1937: King George VI and Queen Elizabeth of the United Kingdom are crowned in Westminster Abbey.
+- 1933: President Roosevelt signs legislation creating the Federal Emergency Relief Administration, the predecessor of the Federal Emergency Management Agency.
+- 1933: The Agricultural Adjustment Act, which restricts agricultural production through government purchase of livestock for slaughter and paying subsidies to farmers when they remove land from planting, is signed into law by President Franklin D. Roosevelt.
+- 1932: Ten weeks after his abduction, Charles Jr., the infant son of Charles Lindbergh, is found dead near Hopewell, New Jersey, just a few miles from the Lindberghs' home.
+- 1926: The 1926 United Kingdom general strike ends.
+- 1926: The Italian-built airship Norge becomes the first vessel to fly over the North Pole.
+- 1885: North-West Rebellion: The four-day Battle of Batoche, pitting rebel Métis against the Canadian government, comes to an end with a decisive rebel defeat.
+- 1881: In North Africa, Tunisia becomes a French protectorate.
 
 Data from muffinlabs
-*(Updated at: 2026-05-11 03:53:06 UTC)*
+*(Updated at: 2026-05-12 03:36:19 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：第 68 届欧洲歌唱大赛在瑞典马尔默举行。来自瑞士的 Nemo 凭借歌曲《The Code》获胜，成为本次比赛的第一位非二元获胜者。
-- - 2024 年：2024 年 5 月太阳风暴开始/中旬，这是自 2003 年万圣节太阳风暴以来最强大的一组地磁风暴。
-- - 2022 年：巴勒斯坦裔美国记者 Shireen Abu Akleh 在报道杰宁的一次袭击时被杀。在最初否认后，以色列最终承认了这起谋杀案并道歉。
-- - 2022 年：缅甸军方在缅甸实皆市 Mon Taing Pin 大屠杀期间处决了至少 37 名村民。
-- - 2016 年：110 人在巴格达的伊斯兰国爆炸事件中丧生。
-- - 2014 年：刚果金沙萨发生警察向足球场投掷催泪瓦斯引发的踩踏事件，造成 15 人死亡、46 人受伤。
-- - 2013 年：土耳其雷伊汉利发生爆炸，造成 52 人死亡。
-- - 2011年：《伊斯坦布尔公约》在土耳其伊斯坦布尔签署。
-- - 2011 年：西班牙洛尔卡发生 5.1 级地震。
-- - 2010年：戴维·卡梅伦就任英国首相，保守党和自由民主党组成英国自第二次世界大战以来的第一个联合政府。
-- - 2009 年：亚特兰蒂斯号航天飞机发射升空，执行为哈勃太空望远镜服务的最后任务。
-- - 2009年：一名驻伊拉克美军士兵向巴格达自由营的一个咨询中心开枪，造成另外五名美军士兵死亡，三人受伤。
-- - 2000年：第二次车臣战争：车臣分裂分子在印古什共和国伏击俄罗斯准军事部队。
-- - 1998 年：印度在博克兰进行了三次地下原子试验。
-- - 1997年：国际象棋超级计算机“深蓝”在复赛的最后一场比赛中击败了加里·卡斯帕罗夫，成为第一台以经典比赛形式击败世界冠军国际象棋选手的计算机。
-- - 1996 年：飞机从迈阿密起飞后，飞往亚特兰大的 ValuJet 航空公司 592 号航班货舱内化学氧气发生器处理不当引发火灾，导致道格拉斯 DC-9 在佛罗里达大沼泽地坠毁，机上 110 人全部遇难。
-- - 1987 年：克劳斯·芭比因二战期间犯下的战争罪在里昂接受审判。
-- - 1985 年：布拉德福德市体育场火灾导致 56 名观众死亡、200 多人受伤。
-- - 1973 年：俄罗斯航空公司 6551 航班在哈萨克斯坦苏维埃社会主义共和国（现哈萨克斯坦）塞米伊坠毁，机上 63 人全部遇难。
-- - 1973 年：丹尼尔·埃尔斯伯格以政府不当行为为由，对他参与向《纽约时报》泄露五角大楼文件的指控被驳回。
-- - 1970 年：1970 年的拉伯克龙卷风造成 26 人死亡并造成 2.5 亿美元的损失。
-- - 1919 年：乌拉圭成为布宜诺斯艾利斯版权条约的签署国。
-- - 1894 年：四千名普尔曼宫汽车公司工人举行野猫罢工。
-- - 1889 年：一名美国陆军出纳员和护送人员遭到袭击，导致超过 28,000 美元被盗，并被授予两枚荣誉勋章。
-- - 1880 年：加利福尼亚州发生的枪战“贻贝沼泽惨案”，造成 7 人死亡。
-- - 1878 年：无政府主义者马克斯·霍德尔 (Max Hödel) 企图刺杀德国皇帝威廉一世。
-- - 1857 年：1857 年印度叛乱：印度叛军从英国手中夺取德里。
-- - 1813 年：William Lawson、Gregory Blaxland 和 William Wentworth 发现了一条穿越蓝山的路线，开辟了澳大利亚内陆定居点。
-- - 1812 年：英国首相斯宾塞·珀西瓦尔在英国下议院大厅被约翰·贝林厄姆刺杀。
-- - 1713年：大北方战争：在赫尔辛基战役中输给俄国人后，瑞典和芬兰军队烧毁了整座城市，以免它在俄国人手中完好无损。
+- - 2024 年：2024 年 5 月中/末太阳风暴，这是自 2003 年万圣节太阳风暴以来最强大的一组地磁风暴。
+- - 2018 年：巴黎持刀袭击：一名男子在巴黎被警察开枪打死，造成一人死亡、多人受伤。
+- - 2017 年：WannaCry 勒索软件攻击影响了全球超过 400,000 台计算机，目标是英国国家卫生服务部门的计算机和 Telefónica 的计算机。
+- - 2015 年：尼泊尔大地震造成 218 人死亡、3,500 多人受伤。
+- - 2015年：美国费城火车出轨，造成8人死亡、200多人受伤。
+- - 2010 年：非洲航空 771 号航班在飞往利比亚的黎波里国际机场的最后进场时坠毁，机上 104 人中有 103 人死亡。
+- - 2008 年：美国移民和海关执法局对爱荷华州波斯特维尔的工作场所进行了有史以来最大规模的突击搜查，逮捕了近 400 名因身份盗窃和文件欺诈罪名的移民。
+- - 2008 年：中国四川省发生地震（里氏 8 级左右），造成 69,000 多人死亡。
+- - 2006年：伊朗阿塞拜疆人将伊朗杂志上发表的漫画视为侮辱性的，导致全国发生大规模骚乱。
+- - 2006 年：首都圣保罗 (巴西) 发生大规模骚乱，造成至少 150 人死亡。
+- - 2003年：基地组织在沙特阿拉伯利雅得发生爆炸，造成39人死亡。
+- - 2002年：美国前总统吉米·卡特抵达古巴，与菲德尔·卡斯特罗进行为期五天的访问，成为古巴革命以来第一位访问古巴的美国总统，无论是在任还是在任。
+- - 1989 年：圣贝纳迪诺火车灾难造成四人死亡，一周后又发生地下汽油管道爆炸，造成两人死亡。
+- - 1982 年：在葡萄牙法蒂玛圣母玛利亚神殿外的游行中，保安人员在胡安·玛丽亚·费尔南德斯·克罗恩用刺刀攻击教皇约翰·保罗二世之前制服了他。
+- - 1978年：在扎伊尔，叛乱分子占领了沙巴省（现称为加丹加）的采矿中心科卢韦齐市；当地政府要求美国、法国和比利时恢复秩序。
+- - 1975 年：印度支那战争：民主柬埔寨海军夺取了 SS 马亚圭斯号。
+- - 1968 年：越南战争：北越和越共军队攻击保卫珊瑚火力支援基地的澳大利亚军队。
+- - 1965 年：苏联月球 5 号宇宙飞船在月球上坠毁。
+- - 1949 年：冷战：苏联解除对柏林的封锁。
+- - 1942 年：第二次世界大战：美国油轮 SS Virginia 在密西西比河河口被德国潜艇 U-507 鱼雷击中。
+- - 1942年：第二次世界大战：第二次哈尔科夫战役：在乌克兰东部，谢苗·铁莫申科元帅领导的红军部队从伊济乌姆桥头堡发起大规模进攻，但两周后被南方集团军群的部队包围并摧毁。
+- - 1941 年：Konrad Zuse 在柏林推出了 Z3，这是世界上第一台可用的可编程全自动计算机。
+- - 1937 年：英国国王乔治六世和伊丽莎白女王在威斯敏斯特教堂加冕。
+- - 1933 年：罗斯福总统签署立法，成立联邦紧急救援管理局，即联邦紧急事务管理局的前身。
+- - 1933 年：《农业调整法案》由富兰克林·罗斯福总统签署成为法律，该法案通过政府购买用于屠宰的牲畜并在农民停止种植土地时向农民提供补贴来限制农业生产。
+- - 1932 年：查尔斯·林德伯格 (Charles Lindbergh) 的小儿子小查尔斯 (Charles Jr.) 被绑架十周后，被发现死在新泽西州霍普韦尔 (Hopewell) 附近，距离林德伯格 (Lindbergh) 家仅几英里。
+- - 1926 年：1926 年英国大罢工结束。
+- - 1926 年：意大利制造的 Norge 飞艇成为第一艘飞越北极的船只。
+- - 1885 年：西北叛乱：为期四天的巴托什战役，叛军梅蒂斯人与加拿大政府对峙，最终以叛军的决定性失败而结束。
+- - 1881 年：在北非，突尼斯成为法国的保护国。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-05-11 03:53:06 UTC）*
+*（更新于: 2026-05-12 03:36:19 UTC）*
