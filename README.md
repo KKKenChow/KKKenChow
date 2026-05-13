@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Middle/End of the May 2024 Solar Storms, the most powerful set of Geomagnetic storms since the 2003 Halloween solar storms.
-- 2018: Paris knife attack: A man is fatally shot by police in Paris after killing one and injuring several others.
-- 2017: The WannaCry ransomware attack impacts over 400,000 computers worldwide, targeting computers of the United Kingdom's National Health Services and Telefónica computers.
-- 2015: Massive Nepal earthquake kills 218 people and injures more than 3,500.
-- 2015: A train derailment in Philadelphia, United States, kills eight people and injures more than 200.
-- 2010: Afriqiyah Airways Flight 771 crashes on final approach to Tripoli International Airport in Tripoli, Libya, killing 103 out of the 104 people on board.
-- 2008: U.S. Immigration and Customs Enforcement conducts the largest-ever raid of a workplace in Postville, Iowa, arresting nearly 400 immigrants for identity theft and document fraud.
-- 2008: An earthquake (measuring around 8.0 magnitude) occurs in Sichuan, China, killing over 69,000 people.
-- 2006: Iranian Azeris interpret a cartoon published in an Iranian magazine as insulting, resulting in massive riots throughout the country.
-- 2006: Mass unrest by the Primeiro Comando da Capital begins in São Paulo (Brazil), leaving at least 150 dead.
-- 2003: The Riyadh compound bombings in Saudi Arabia, carried out by al-Qaeda, kill 39 people.
-- 2002: Former US President Jimmy Carter arrives in Cuba for a five-day visit with Fidel Castro, becoming the first President of the United States, in or out of office, to visit the island since the Cuban Revolution.
-- 1989: The San Bernardino train disaster kills four people, only to be followed a week later by an underground gasoline pipeline explosion, which kills two more people.
-- 1982: During a procession outside the shrine of the Virgin Mary in Fátima, Portugal, security guards overpower Juan María Fernández y Krohn before he can attack Pope John Paul II with a bayonet.
-- 1978: In Zaire, rebels occupy the city of Kolwezi, the mining center of the province of Shaba (now known as Katanga); the local government asks the US, France and Belgium to restore order.
-- 1975: Indochina Wars: Democratic Kampuchea naval forces capture the SS Mayaguez.
-- 1968: Vietnam War: North Vietnamese and Viet Cong forces attack Australian troops defending Fire Support Base Coral.
-- 1965: The Soviet spacecraft Luna 5 crashes on the Moon.
-- 1949: Cold War: The Soviet Union lifts its blockade of Berlin.
-- 1942: World War II: The U.S. tanker SS Virginia is torpedoed in the mouth of the Mississippi River by the German submarine U-507.
-- 1942: World War II: Second Battle of Kharkov: In eastern Ukraine, Red Army forces under Marshal Semyon Timoshenko launch a major offensive from the Izium bridgehead, only to be encircled and destroyed by the troops of Army Group South two weeks later.
-- 1941: Konrad Zuse presents the Z3, the world's first working programmable, fully automatic computer, in Berlin.
-- 1937: King George VI and Queen Elizabeth of the United Kingdom are crowned in Westminster Abbey.
-- 1933: President Roosevelt signs legislation creating the Federal Emergency Relief Administration, the predecessor of the Federal Emergency Management Agency.
-- 1933: The Agricultural Adjustment Act, which restricts agricultural production through government purchase of livestock for slaughter and paying subsidies to farmers when they remove land from planting, is signed into law by President Franklin D. Roosevelt.
-- 1932: Ten weeks after his abduction, Charles Jr., the infant son of Charles Lindbergh, is found dead near Hopewell, New Jersey, just a few miles from the Lindberghs' home.
-- 1926: The 1926 United Kingdom general strike ends.
-- 1926: The Italian-built airship Norge becomes the first vessel to fly over the North Pole.
-- 1885: North-West Rebellion: The four-day Battle of Batoche, pitting rebel Métis against the Canadian government, comes to an end with a decisive rebel defeat.
-- 1881: In North Africa, Tunisia becomes a French protectorate.
+- 2014: An explosion at an underground coal mine in southwest Turkey kills 301 miners.
+- 2013: American physician Kermit Gosnell is found guilty in Pennsylvania of murdering three infants born alive during attempted abortions, involuntary manslaughter of a woman during an abortion procedure, and other charges.
+- 2012: Forty-nine dismembered bodies are discovered by Mexican authorities on Mexican Federal Highway 40.
+- 2011: Two bombs explode in the Charsadda District of Pakistan killing 98 people and wounding 140 others.
+- 2006: São Paulo violence: Rebellions occur in several prisons in Brazil.
+- 2005: Andijan uprising, Uzbekistan; Troops open fire on crowds of protestors after a prison break; at least 187 people were killed according to official estimates.
+- 2000: A fireworks storage depot explodes in a residential neighborhood in Enschede, Netherlands, killing 23 people and injuring 950 others.
+- 1999: Kosovo War: NATO bombs the village of Koriša, killing at least 87 people.
+- 1998: India carries out two nuclear weapon tests at Pokhran, following the three conducted on May 11. The United States and Japan impose economic sanctions on India.
+- 1998: Race riots break out in Jakarta, Indonesia, where shops owned by Indonesians of Chinese descent are looted and women raped.
+- 1996: Severe thunderstorms and a tornado in Bangladesh kill 600 people.
+- 1995: Alison Hargreaves, a 33-year-old British mother, becomes the first woman to ascend Everest without oxygen or the help of sherpas.
+- 1992: Li Hongzhi gives the first public lecture on Falun Gong in Changchun, People's Republic of China.
+- 1990: The Dinamo-Red Star riot took place at Maksimir Stadium in Zagreb, Croatia between the Bad Blue Boys (fans of Dinamo Zagreb) and the Delije (fans of Red Star Belgrade).
+- 1989: Large groups of students occupy Tiananmen Square and begin a hunger strike.
+- 1985: Police bombed MOVE headquarters in Philadelphia, killing six adults and five children, and destroying the homes of 250 city residents.
+- 1981: Mehmet Ali Ağca attempts to assassinate Pope John Paul II in St. Peter's Square in Rome. The Pope is rushed to the Agostino Gemelli University Polyclinic to undergo emergency surgery and survives.
+- 1980: An F3 tornado hits Kalamazoo County, Michigan. President Jimmy Carter declares it a federal disaster area.
+- 1972: The Troubles: A car bombing outside a crowded pub in Belfast sparks a two-day gun battle involving the Provisional IRA, Ulster Volunteer Force and British Army. Seven people are killed and over 66 injured.
+- 1972: A fire occurs in the Sennichi Department Store in Osaka, Japan. Blocked exits and non-functional elevators result in 118 fatalities (many victims leaping to their deaths).
+- 1969: In the aftermath of the 1969 Malaysian general election, Sino-Malay sectarian violence erupted in Kuala Lumpur, Malaysia.
+- 1967: Dr. Zakir Husain becomes the third President of India. He is the first Muslim President of the Indian Union. He holds this position until August 24, 1969.
+- 1960: Hundreds of University of California, Berkeley students congregate for the first day of protest against a visit by the House Committee on Un-American Activities.
+- 1958: Ben Carlin becomes the first (and only) person to circumnavigate the world by amphibious vehicle, having travelled over 17,000 kilometres (11,000 mi) by sea and 62,000 kilometres (39,000 mi) by land during a ten-year journey.
+- 1958: May 1958 crisis: A group of French military officers lead a coup in Algiers demanding that a government of national unity be formed with Charles de Gaulle at its head in order to defend French control of Algeria.
+- 1958: During a visit to Caracas, Venezuela, the US Vice President Richard Nixon's car is attacked by anti-American demonstrators.
+- 1954: The anti-National Service Riots, by Chinese middle school students in Singapore, take place.
+- 1952: The Rajya Sabha, the upper house of the Parliament of India, holds its first sitting.
+- 1951: The 400th anniversary of the founding of the National University of San Marcos is commemorated by the opening of the first large-capacity stadium in Peru.
+- 1950: The inaugural Formula One World Championship race takes place at Silverstone Circuit. The race was won by Giuseppe Farina, who would go on to become the inaugural champion that year.
 
 Data from muffinlabs
-*(Updated at: 2026-05-12 03:36:19 UTC)*
+*(Updated at: 2026-05-13 03:45:11 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：2024 年 5 月中/末太阳风暴，这是自 2003 年万圣节太阳风暴以来最强大的一组地磁风暴。
-- - 2018 年：巴黎持刀袭击：一名男子在巴黎被警察开枪打死，造成一人死亡、多人受伤。
-- - 2017 年：WannaCry 勒索软件攻击影响了全球超过 400,000 台计算机，目标是英国国家卫生服务部门的计算机和 Telefónica 的计算机。
-- - 2015 年：尼泊尔大地震造成 218 人死亡、3,500 多人受伤。
-- - 2015年：美国费城火车出轨，造成8人死亡、200多人受伤。
-- - 2010 年：非洲航空 771 号航班在飞往利比亚的黎波里国际机场的最后进场时坠毁，机上 104 人中有 103 人死亡。
-- - 2008 年：美国移民和海关执法局对爱荷华州波斯特维尔的工作场所进行了有史以来最大规模的突击搜查，逮捕了近 400 名因身份盗窃和文件欺诈罪名的移民。
-- - 2008 年：中国四川省发生地震（里氏 8 级左右），造成 69,000 多人死亡。
-- - 2006年：伊朗阿塞拜疆人将伊朗杂志上发表的漫画视为侮辱性的，导致全国发生大规模骚乱。
-- - 2006 年：首都圣保罗 (巴西) 发生大规模骚乱，造成至少 150 人死亡。
-- - 2003年：基地组织在沙特阿拉伯利雅得发生爆炸，造成39人死亡。
-- - 2002年：美国前总统吉米·卡特抵达古巴，与菲德尔·卡斯特罗进行为期五天的访问，成为古巴革命以来第一位访问古巴的美国总统，无论是在任还是在任。
-- - 1989 年：圣贝纳迪诺火车灾难造成四人死亡，一周后又发生地下汽油管道爆炸，造成两人死亡。
-- - 1982 年：在葡萄牙法蒂玛圣母玛利亚神殿外的游行中，保安人员在胡安·玛丽亚·费尔南德斯·克罗恩用刺刀攻击教皇约翰·保罗二世之前制服了他。
-- - 1978年：在扎伊尔，叛乱分子占领了沙巴省（现称为加丹加）的采矿中心科卢韦齐市；当地政府要求美国、法国和比利时恢复秩序。
-- - 1975 年：印度支那战争：民主柬埔寨海军夺取了 SS 马亚圭斯号。
-- - 1968 年：越南战争：北越和越共军队攻击保卫珊瑚火力支援基地的澳大利亚军队。
-- - 1965 年：苏联月球 5 号宇宙飞船在月球上坠毁。
-- - 1949 年：冷战：苏联解除对柏林的封锁。
-- - 1942 年：第二次世界大战：美国油轮 SS Virginia 在密西西比河河口被德国潜艇 U-507 鱼雷击中。
-- - 1942年：第二次世界大战：第二次哈尔科夫战役：在乌克兰东部，谢苗·铁莫申科元帅领导的红军部队从伊济乌姆桥头堡发起大规模进攻，但两周后被南方集团军群的部队包围并摧毁。
-- - 1941 年：Konrad Zuse 在柏林推出了 Z3，这是世界上第一台可用的可编程全自动计算机。
-- - 1937 年：英国国王乔治六世和伊丽莎白女王在威斯敏斯特教堂加冕。
-- - 1933 年：罗斯福总统签署立法，成立联邦紧急救援管理局，即联邦紧急事务管理局的前身。
-- - 1933 年：《农业调整法案》由富兰克林·罗斯福总统签署成为法律，该法案通过政府购买用于屠宰的牲畜并在农民停止种植土地时向农民提供补贴来限制农业生产。
-- - 1932 年：查尔斯·林德伯格 (Charles Lindbergh) 的小儿子小查尔斯 (Charles Jr.) 被绑架十周后，被发现死在新泽西州霍普韦尔 (Hopewell) 附近，距离林德伯格 (Lindbergh) 家仅几英里。
-- - 1926 年：1926 年英国大罢工结束。
-- - 1926 年：意大利制造的 Norge 飞艇成为第一艘飞越北极的船只。
-- - 1885 年：西北叛乱：为期四天的巴托什战役，叛军梅蒂斯人与加拿大政府对峙，最终以叛军的决定性失败而结束。
-- - 1881 年：在北非，突尼斯成为法国的保护国。
+- - 2014 年：土耳其西南部一座地下煤矿发生爆炸，造成 301 名矿工死亡。
+- - 2013 年：美国医生克米特·戈斯内尔 (Kermit Gosnell) 在宾夕法尼亚州被判犯有谋杀三名在试图堕胎时活产的婴儿、在堕胎过程中非自愿杀害一名妇女以及其他指控的罪名。
+- - 2012 年：墨西哥当局在墨西哥 40 号联邦高速公路上发现了 49 具被肢解的尸体。
+- - 2011年：巴基斯坦查萨达地区两枚炸弹爆炸，造成98人死亡、140人受伤。
+- - 2006 年：圣保罗暴力事件：巴西多所监狱发生叛乱。
+- - 2005年：乌兹别克斯坦安集延起义；越狱后，军队向抗议人群开枪；据官方估计，至少有 187 人死亡。
+- - 2000 年：荷兰恩斯赫德一个居民区的烟花储存库发生爆炸，造成 23 人死亡、950 人受伤。
+- - 1999 年：科索沃战争：北约轰炸科里萨村，造成至少 87 人死亡。
+- - 1998年：继5月11日进行三次核武器试验后，印度在博克兰进行了两次核武器试验。美国和日本对印度实施经济制裁。
+- - 1998年：印度尼西亚雅加达爆发种族骚乱，印度尼西亚华裔拥有的商店被抢劫，妇女被强奸。
+- - 1996 年：孟加拉国发生严重雷暴和龙卷风，造成 600 人死亡。
+- - 1995 年：33 岁的英国母亲艾莉森·哈格里夫斯 (Alison Hargreaves) 成为第一位在没有氧气或夏尔巴人帮助的情况下登上珠穆朗玛峰的女性。
+- - 1992年：李洪志在中华人民共和国长春首次公开讲授法轮功。
+- - 1990年：克罗地亚萨格勒布马克西米尔体育场发生了“坏蓝男孩”（萨格勒布迪纳摩球迷）和“德利杰”（贝尔格莱德红星球迷）之间的骚乱。
+- - 1989年：大批学生占领天安门广场并开始绝食。
+- - 1985 年：警方轰炸了费城 MOVE 总部，造成 6 名成人和 5 名儿童死亡，并摧毁了 250 名城市居民的房屋。
+- - 1981 年：穆罕默德·阿里·阿卡 (Mehmet Ali Ağca) 试图在罗马圣彼得广场刺杀教皇约翰·保罗二世。教皇被紧急送往阿戈斯蒂诺·杰梅利大学综合诊所接受紧急手术并幸存。
+- - 1980 年：F3 龙卷风袭击密歇根州卡拉马祖县。吉米·卡特总统宣布这里为联邦灾区。
+- - 1972 年：麻烦：贝尔法斯特一家拥挤的酒吧外发生的汽车爆炸事件引发了临时爱尔兰共和军、阿尔斯特志愿军和英国陆军参与的为期两天的枪战。7 人死亡，超过 66 人受伤。
+- - 1972 年：日本大阪千日百货店发生火灾。出口堵塞和电梯无法使用导致 118 人死亡（许多受害者跳楼身亡）。
+- - 1969年：1969年马来西亚大选后，马来西亚吉隆坡爆发中马来教派暴力冲突。
+- - 1967 年：扎基尔·侯赛因博士成为印度第三任总统。他是印度联邦第一位穆斯林总统。他担任此职务直至 1969 年 8 月 24 日。
+- - 1960 年：数百名加州大学伯克利分校的学生第一天聚集在一起，抗议众议院非美活动委员会的访问。
+- - 1958 年：本·卡林 (Ben Carlin) 成为第一位（也是唯一一位）乘坐两栖车辆环游世界的人，在十年的旅程中，他的海上行程超过 17,000 公里（11,000 英里），陆路行程超过 62,000 公里（39,000 英里）。
+- - 1958年：1958年5月危机：一群法国军官在阿尔及尔发动政变，要求组建以戴高乐为首的民族团结政府，以捍卫法国对阿尔及利亚的控制。
+- - 1958年：在访问委内瑞拉加拉加斯期间，美国副总统理查德·尼克松的汽车遭到反美示威者的袭击。
+- - 1954年：新加坡发生华裔中学生反服兵役暴乱。
+- - 1952 年：印度议会上院 Rajya Sabha 举行第一次会议。
+- - 1951年：为纪念圣马科斯国立大学建校400周年，秘鲁第一个大容量体育场落成启用。
+- - 1950 年：首届一级方程式世界锦标赛在银石赛道举行。这场比赛由朱塞佩·法里纳 (Giuseppe Farina) 获胜，他后来成为当年的首届冠军。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-05-12 03:36:19 UTC）*
+*（更新于: 2026-05-13 03:45:11 UTC）*
