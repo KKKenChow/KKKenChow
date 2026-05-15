@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Ten people are killed in a mass shooting in Buffalo, New York.
-- 2021: China successfully lands Zhurong, the country's first Mars rover.
-- 2012: Agni Air Flight CHT crashes in Nepal after a failed go-around, killing 15 people.
-- 2010: Space Shuttle Atlantis launches on the STS-132 mission to deliver the first shuttle-launched Russian ISS component — Rassvet. This was originally slated to be the final launch of Atlantis, before Congress approved STS-135.
-- 2008: Battle of Piccadilly Gardens in Manchester city centre between Zenit supporters and Rangers supporters and the Greater Manchester Police, 39 policemen injured, one police-dog injured and 39 arrested.
-- 2004: Rico Linhas Aéreas Flight 4815 crashes into the Amazon rainforest during approach to Eduardo Gomes International Airport in Manaus, Brazil, killing 33 people.
-- 2004: Crown Prince Frederik of Denmark and Mary Donaldson are married at Copenhagen Cathedral.
-- 2004: The Constitutional Court of South Korea overturns the impeachment of President Roh Moo-hyun.
-- 1988: Carrollton bus collision: A drunk driver traveling the wrong way on Interstate 71 near Carrollton, Kentucky hits a converted school bus carrying a church youth group. Twenty-seven die in the crash and ensuing fire.
-- 1987: Fijian Prime Minister Timoci Bavadra is ousted from power in a coup d'état led by Lieutenant colonel Sitiveni Rabuka.
-- 1980: Salvadoran Civil War: the Sumpul River massacre occurs in Chalatenango, El Salvador.
-- 1977: A Dan-Air Boeing 707 leased to IAS Cargo Airlines crashes on approach to Lusaka International Airport in Lusaka, Zambia, killing six people.
-- 1973: Skylab, the United States' first space station, is launched.
-- 1970: Andreas Baader is freed from custody by Ulrike Meinhof, Gudrun Ensslin and others, a pivotal moment in the formation of the Red Army Faction.
-- 1961: Civil rights movement: A white mob twice attacks a Freedom Riders bus near Anniston, Alabama, before fire-bombing the bus and attacking the civil rights protesters who flee the burning vehicle.
-- 1955: Cold War: Eight Communist bloc countries, including the Soviet Union, sign a mutual defense treaty called the Warsaw Pact.
-- 1953: Approximately 7,100 brewery workers in Milwaukee perform a walkout, marking the start of the 1953 Milwaukee brewery strike.
-- 1951: Trains run on the Talyllyn Railway in Wales for the first time since preservation, making it the first railway in the world to be operated by volunteers.
-- 1948: Israel is declared to be an independent state and a provisional government is established. Immediately after the declaration, Israel is attacked by the neighboring Arab states, triggering the 1948 Arab-Israeli War.
-- 1943: World War II: A Japanese submarine sinks AHS Centaur off the coast of Queensland.
-- 1940: World War II: Rotterdam, Netherlands is bombed by the Luftwaffe of Nazi Germany despite a ceasefire, killing about 900 people and destroying the historic city center.
-- 1939: Lina Medina becomes the youngest confirmed mother in medical history at the age of five.
-- 1935: The Constitution of the Philippines is ratified by a popular vote.
-- 1931: Five unarmed civilians are killed in the Ådalen shootings, as the Swedish military is called in to deal with protesting workers.
-- 1925: Mrs Dalloway, one of Virginia Woolf's earliest and best-known novels, was published.
-- 1918: Cape Town Mayor, Sir Harry Hands, inaugurates the Two-minute silence.
-- 1915: The May 14 Revolt takes place in Lisbon, Portugal.
-- 1913: Governor of New York William Sulzer approves the charter for the Rockefeller Foundation, which begins operations with a $100 million donation from John D. Rockefeller.
-- 1900: Opening of World Amateur championship at the Paris Exposition Universelle, also known as Olympic Games.
-- 1879: The first group of 463 Indian indentured laborers arrives in Fiji aboard the Leonidas.
+- 2024: Prime Minister of Slovakia Robert Fico is shot and critically injured while meeting with supporters at an event in Handlová.
+- 2023: The UN commemorates the Palestinian Nakba Day for the first time.
+- 2013: An upsurge in violence in Iraq leaves more than 389 people dead over three days.
+- 2010: Jessica Watson becomes the youngest person to sail, non-stop and unassisted around the world solo.
+- 2008: California becomes the second U.S. state after Massachusetts in 2004 to legalize same-sex marriage after the state's own Supreme Court rules a previous ban unconstitutional.
+- 2004: Arsenal F.C. go an entire league campaign unbeaten in the English Premier League, joining Preston North End F.C. with the right to claim the title "The Invincibles".
+- 2001: A CSX EMD SD40-2 8888 rolls out of a train yard in Walbridge, Ohio, with 47 freight cars, including some tank cars with flammable chemical, after its engineer fails to reboard it after setting a yard switch. It travels south driverless for 66 miles (106 km) until it was brought to a halt near Kenton. The incident became the inspiration for the 2010 film Unstoppable.
+- 1997: The Space Shuttle Atlantis launches on STS-84 to dock with the Russian space station Mir.
+- 1997: The United States government acknowledges the existence of the "Secret War" in Laos and dedicates the Laos Memorial in honor of Hmong and other "Secret War" veterans.
+- 1991: Édith Cresson becomes France's first female Prime Minister.
+- 1988: Soviet-Afghan War: After more than eight years of fighting, the Soviet Army begins to withdraw 115,000 troops from Afghanistan.
+- 1976: Aeroflot Flight 1802 crashes near Viktorivka, Chernihiv Raion, Chernihiv Oblast, killing 52.
+- 1974: Ma'alot massacre: Members of the Democratic Front for the Liberation of Palestine attack and take hostages at an Israeli school; a total of 31 people are killed, including 22 schoolchildren.
+- 1972: The Ryukyu Islands, under U.S. military governance since its conquest in 1945, reverts to Japanese control.
+- 1970: President Richard Nixon appoints Anna Mae Hays and Elizabeth P. Hoisington the first female United States Army generals.
+- 1963: Project Mercury: The launch of the final Mercury mission, Mercury-Atlas 9 with astronaut Gordon Cooper on board. He becomes the first American to spend more than a day in space, and the last American to go into space alone.
+- 1957: At Malden Island in the Pacific Ocean, Britain tests its first hydrogen bomb in Operation Grapple.
+- 1948: Following the expiration of The British Mandate for Palestine, the Kingdom of Egypt, Transjordan, Lebanon, Syria, Iraq and Saudi Arabia invade Israel thus starting the 1948 Arab-Israeli War.
+- 1945: World War II: The Battle of Poljana, the final skirmish in Europe is fought near Prevalje, Slovenia.
+- 1943: Joseph Stalin dissolves the Comintern (or Third International).
+- 1942: World War II: In the United States, a bill creating the Women's Army Auxiliary Corps (WAAC) is signed into law.
+- 1941: First flight of the Gloster E.28/39 the first British and Allied jet aircraft.
+- 1940: Richard and Maurice McDonald open the first McDonald's restaurant.
+- 1940: World War II: The Battle of the Netherlands: After fierce fighting, the poorly trained and equipped Dutch troops surrender to Germany, marking the beginning of five years of occupation.
+- 1940: USS Sailfish is recommissioned. It was originally the USS Squalus.
+- 1934: A self coup by prime minister Kārlis Ulmanis succeeded in Latvia, suspending its constitution and dissolving its Saeima.
+- 1933: All military aviation organizations within or under the control of the RLM of Germany were officially merged in a covert manner to form its Wehrmacht military's air arm, the Luftwaffe.
+- 1932: In an attempted coup d'état, the Prime Minister of Japan Inukai Tsuyoshi is assassinated.
+- 1929: A fire at the Cleveland Clinic in Cleveland, Ohio kills 123.
+- 1919: Greek occupation of Smyrna. During the occupation, the Greek army kills or wounds 350 Turks; those responsible are punished by Greek commander Aristides Stergiades.
 
 Data from muffinlabs
-*(Updated at: 2026-05-14 03:44:02 UTC)*
+*(Updated at: 2026-05-15 03:49:19 UTC)*
 
 # 历史上的今天 
 
-- - 2022 年：纽约州布法罗发生大规模枪击事件，造成 10 人死亡。
-- - 2021年：中国首次火星探测器“祝融”号成功着陆。
-- - 2012 年：烈火航空 CHT 航班复飞失败后在尼泊尔坠毁，造成 15 人死亡。
-- - 2010 年：亚特兰蒂斯号航天飞机执行 STS-132 任务，运送第一个由航天飞机发射的俄罗斯国际空间站组件 — Rassvet。这原本是国会批准 STS-135 之前亚特兰蒂斯号的最后一次发射。
-- - 2008年：泽尼特支持者和流浪者队支持者与大曼彻斯特警察之间在曼彻斯特市中心的皮卡迪利花园之战，造成39名警察受伤，一只警犬受伤，39人被捕。
-- - 2004 年：Rico Linhas Aéreas 4815 航班在飞往巴西马瑙斯爱德华多·戈麦斯国际机场时坠入亚马逊雨林，造成 33 人死亡。
-- - 2004年：丹麦王储弗雷德里克和玛丽·唐纳森在哥本哈根大教堂举行婚礼。
-- - 2004年：韩国宪法法院推翻了对总统卢武铉的弹劾。
-- - 1988 年：卡罗尔顿公交车相撞：一名醉酒司机在肯塔基州卡罗尔顿附近的 71 号州际公路上逆行，撞上了一辆载有教会青年团体的改装校车。二十七人在坠机和随后发生的火灾中丧生。
-- - 1987 年：斐济总理蒂莫西·巴瓦德拉 (Timoci Bavadra) 在西蒂维尼·拉布卡 (Sitiveni Rabuka) 中校领导的政变中被赶下台。
-- - 1980 年：萨尔瓦多内战：萨尔瓦多查拉特南戈发生苏普尔河大屠杀。
-- - 1977 年：一架租给 IAS Cargo Airlines 的 Dan-Air 波音 707 在飞往赞比亚卢萨卡卢萨卡国际机场时坠毁，造成 6 人死亡。
-- - 1973 年：美国第一个空间站天空实验室发射升空。
-- - 1970 年：安德烈亚斯·巴德尔 (Andreas Baader) 被乌尔里克·迈因霍夫 (Ulrike Meinhof)、古德伦·恩斯林 (Gudrun Ensslin) 等人释放，这是红军派系形成的关键时刻。
-- - 1961 年：民权运动：白人暴徒两次袭击阿拉巴马州安尼斯顿附近的自由乘车者巴士，然后对巴士进行燃烧弹攻击，并攻击逃离燃烧车辆的民权抗议者。
-- - 1955 年：冷战：包括苏联在内的八个共产主义集团国家签署了一项共同防御条约，称为华沙条约。
-- - 1953 年：密尔沃基大约 7,100 名啤酒厂工人举行罢工，标志着 1953 年密尔沃基啤酒厂罢工的开始。
-- - 1951年：威尔士的Talylyn铁路自保存以来首次运行火车，使其成为世界上第一条由志愿者运营的铁路。
-- - 1948年：以色列宣布独立并成立临时政府。宣言发布后，以色列立即遭到周边阿拉伯国家的攻击，引发了1948年的阿以战争。
-- - 1943 年：第二次世界大战：一艘日本潜艇在昆士兰州海岸击沉了 AHS Centaur。
-- - 1940 年：第二次世界大战：荷兰鹿特丹尽管停火，仍遭到纳粹德国空军的轰炸，造成约 900 人死亡，历史悠久的市中心被毁。
-- - 1939 年：Lina Medina 年仅五岁，成为医学史上最年轻的确诊母亲。
-- - 1935 年：菲律宾宪法经全民投票批准。
-- - 1931 年：五名手无寸铁的平民在奥达伦枪击事件中被杀，瑞典军队被召集来对付抗议的工人。
-- - 1925 年：弗吉尼亚·伍尔夫最早、最著名的小说之一《达洛维夫人》出版。
-- - 1918 年：开普敦市长 Harry Hands 爵士宣布两分钟默哀。
-- - 1915 年：葡萄牙里斯本发生 5 月 14 日起义。
-- - 1913 年：纽约州州长威廉·苏尔泽 (William Sulzer) 批准了洛克菲勒基金会的章程，该基金会在约翰·D·洛克菲勒 (John D. Rockefeller) 的 1 亿美元捐赠下开始运营。
-- - 1900 年：世界业余锦标赛在巴黎世界博览会（也称为奥运会）上开幕。
-- - 1879 年：第一批 463 名印度契约劳工乘坐列奥尼达号抵达斐济。
+- - 2024 年：斯洛伐克总理罗伯特·菲科在汉德洛瓦举行的一次活动中与支持者会面时被枪杀，身受重伤。
+- - 2023 年：联合国首次纪念巴勒斯坦灾难日。
+- - 2013 年：伊拉克暴力事件激增，三天内造成超过 389 人死亡。
+- - 2010 年：杰西卡·沃森 (Jessica Watson) 成为最年轻的独自不间断、无协助地环球航行的最年轻的人。
+- - 2008年：加利福尼亚州最高法院裁定之前的禁令违宪，该州成为继2004年马萨诸塞州之后第二个将同性婚姻合法化的美国州。
+- - 2004 年：阿森纳足球俱乐部加盟普雷斯顿北区足球俱乐部，在英超联赛中保持整个联赛不败。拥有“无敌”称号的权利。
+- - 2001 年：一辆 CSX EMD SD40-2 8888 从俄亥俄州沃尔布里奇的一个火车调车场驶出，车上装有 47 节货车，其中包括一些装有易燃化学品的罐车，因为工程师在设置调车场开关后未能重新登上该车。它在无人驾驶情况下向南行驶 66 英里（106 公里），直到在肯顿附近停下来。这一事件成为 2010 年电影《势不可挡》的灵感来源。
+- - 1997 年：亚特兰蒂斯号航天飞机搭乘 STS-84 发射升空，与俄罗斯和平号空间站对接。
+- - 1997年：美国政府承认老挝存在“秘密战争”，并为苗族和其他“秘密战争”退伍军人设立老挝纪念碑。
+- - 1991 年：艾迪丝·克雷松 (Édith Cresson) 成为法国第一位女总理。
+- - 1988年：苏阿战争：经过八年多的战斗，苏联军队开始从阿富汗撤军115,000人。
+- - 1976 年：俄罗斯航空公司 1802 号航班在切尔尼戈夫州切尔尼戈夫赖翁维克托里夫卡附近坠毁，造成 52 人死亡。
+- - 1974年：马阿洛特大屠杀：解放巴勒斯坦民主阵线成员袭击以色列一所学校并劫持人质；共有31人死亡，其中包括22名学童。
+- - 1972 年：琉球群岛自 1945 年被美国占领以来一直处于美国军事统治之下，回到日本的控制之下。
+- - 1970 年：理查德·尼克松总统任命安娜·梅·海斯和伊丽莎白·P·霍辛顿为美国陆军首位女将军。
+- - 1963 年：水星计划：最后一次水星任务 Mercury-Atlas 9 的发射，宇航员戈登·库珀 (Gordon Cooper) 登船。他成为第一个在太空停留超过一天的美国人，也是最后一个独自进入太空的美国人。
+- - 1957 年：在太平洋的马尔登岛，英国在“抓斗行动”中测试了第一颗氢弹。
+- - 1948年：英国对巴勒斯坦的委任统治到期后，埃及王国、外约旦、黎巴嫩、叙利亚、伊拉克和沙特阿拉伯入侵以色列，从而引发了1948年的阿以战争。
+- - 1945 年：第二次世界大战：欧洲最后一场小规模冲突——波利亚纳战役在斯洛文尼亚普雷瓦列附近发生。
+- - 1943 年：约瑟夫·斯大林解散共产国际（或第三国际）。
+- - 1942 年：第二次世界大战：在美国，一项创建女子陆军辅助部队 (WAAC) 的法案签署成为法律。
+- - 1941 年：英国和盟军第一架喷气式飞机 Gloster E.28/39 首飞。
+- - 1940 年：理查德·麦克唐纳 (Richard McDonald) 和莫里斯·麦克唐纳 (Maurice McDonald) 开设了第一家麦当劳餐厅。
+- - 1940年：第二次世界大战：荷兰之战：经过激烈的战斗，训练有素、装备不足的荷兰军队向德国投降，标志着五年占领的开始。
+- - 1940 年：旗鱼号航空母舰重新服役。它最初是USS Squalus。
+- - 1934 年：拉脱维亚总理卡利斯·乌尔马尼斯发动政变成功，暂停宪法并解散议会。
+- - 1933 年：德国 RLM 内部或控制下的所有军事航空组织以秘密方式正式合并，组建德国国防军的空中力量——德国空军。
+- - 1932 年：在一次未遂政变中，日本首相犬养刚被暗杀。
+- - 1929 年：俄亥俄州克利夫兰克利夫兰诊所发生火灾，造成 123 人死亡。
+- - 1919 年：希腊占领士麦那。占领期间，希腊军队杀伤350名土耳其人；希腊指挥官阿里斯蒂德斯·斯特吉亚德斯对相关责任人进行了惩罚。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-05-14 03:44:02 UTC）*
+*（更新于: 2026-05-15 03:49:19 UTC）*
