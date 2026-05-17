@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: A devastating EF4 tornado kills nineteen people in Southeast Kentucky, hitting the towns of Somerset and London.
-- 2014: Twelve people are killed in two explosions in the Gikomba market area of Nairobi, Kenya.
-- 2011: STS-134 (ISS assembly flight ULF6), launched from the Kennedy Space Center on the 25th and final flight for Space Shuttle Endeavour.
-- 2005: Kuwait permits women's suffrage in a 35-23 National Assembly vote.
-- 2003: In Morocco, 33 civilians are killed and more than 100 people are injured in the Casablanca terrorist attacks.
-- 1997: Mobutu Sese Seko, the President of Zaire, flees the country.
-- 1991: Queen Elizabeth II of the United Kingdom addresses a joint session of the United States Congress. She is the first British monarch to address the U.S. Congress.
-- 1988: A report by the Surgeon General of the United States C. Everett Koop states that the addictive properties of nicotine are similar to those of heroin and cocaine.
-- 1975: Junko Tabei from Japan becomes the first woman to reach the summit of Mount Everest.
-- 1974: Josip Broz Tito is elected president for life of Yugoslavia.
-- 1972: An Antonov An-24 crashes into a kindergarten building in Svetlogorsk, killing 35.
-- 1969: Venera program: Venera 5, a Soviet space probe, lands on Venus.
-- 1966: The Chinese Communist Party issues the "May 16 Notice", marking the beginning of the Cultural Revolution.
-- 1961: Park Chung Hee leads a coup d'état to overthrow the Second Republic of South Korea.
-- 1960: Theodore Maiman operates the first optical laser (a ruby laser), at Hughes Research Laboratories in Malibu, California.
-- 1959: The Tritons' Fountain in Valletta, Malta is turned on for the first time.
-- 1954: Beginning of the Kengir uprising in the Gulag.
-- 1951: The first regularly scheduled transatlantic flights begin between Idlewild Airport (now John F Kennedy International Airport) in New York City and Heathrow Airport in London, operated by El Al Israel Airlines.
-- 1945: Beginning of the Levant Crisis between Britain and France in Syria. The latter try to quell nationalist protests but backs down after threat of military action by the British.
-- 1943: Operation Chastise is undertaken by RAF Bomber Command with specially equipped Avro Lancasters to destroy the Mohne, Sorpe, and Eder dams in the Ruhr valley.
-- 1943: The Holocaust: The Warsaw Ghetto Uprising ends.
-- 1929: In Hollywood, the first Academy Awards ceremony takes place.
-- 1925: The first modern performance of Claudio Monteverdi's opera Il ritorno d'Ulisse in patria occurred in Paris.
-- 1920: In Rome, Pope Benedict XV canonizes Joan of Arc.
-- 1919: A naval Curtiss NC-4 aircraft commanded by Albert Cushing Read leaves Trepassey, Newfoundland, for Lisbon via the Azores on the first transatlantic flight.
-- 1918: The Sedition Act of 1918 is passed by the U.S. Congress, making criticism of the government during wartime an imprisonable offense. It will be repealed less than two years later.
-- 1916: The United Kingdom of Great Britain and Ireland and the French Third Republic sign the secret wartime Sykes-Picot Agreement partitioning former Ottoman territories such as Iraq and Syria.
-- 1891: The International Electrotechnical Exhibition opened in Frankfurt, Germany, featuring the world's first long-distance transmission of high-power, three-phase electric current (the most common form today).
-- 1888: Nikola Tesla delivers a lecture describing the equipment which will allow efficient generation and use of alternating currents to transmit electric power over long distances.
-- 1877: The 16 May 1877 crisis occurs in France, ending with the dissolution of the National Assembly 22 June and affirming the interpretation of the Constitution of 1875 as a parliamentary rather than presidential system. The elections held in October 1877 led to the defeat of the royalists as a formal political movement in France.
+- 2014: A military plane crash in northern Laos kills 17 people.
+- 2010: Pamir Airways Flight 112 crashes in Afghanistan's Shakardara District, killing 44.
+- 2007: Trains from North and South Korea cross the 38th Parallel in a test-run agreed by both governments. This is the first time that trains have crossed the Demilitarized Zone since 1953.
+- 2006: The aircraft carrier USS Oriskany is sunk in the Gulf of Mexico as an artificial reef.
+- 2004: The first legal same-sex marriages in the U.S. are performed in the state of Massachusetts.
+- 2000: Arsenal and Galatasaray fans clash in the 2000 UEFA Cup Final riots in Copenhagen
+- 1997: Troops of Laurent-Désiré Kabila march into Kinshasa. Zaire is officially renamed Democratic Republic of the Congo.
+- 1995: Shawn Nelson steals an M60 tank from the California Army National Guard Armory in San Diego and proceeds to go on a rampage.
+- 1994: Malawi holds its first multi-party elections.
+- 1992: Three days of popular protests against the government of Prime Minister of Thailand Suchinda Kraprayoon begin in Bangkok, leading to a military crackdown that results in 52 officially confirmed deaths, hundreds of injuries, many disappearances, and more than 3,500 arrests.
+- 1990: The General Assembly of the World Health Organization (WHO) eliminates homosexuality from the list of psychiatric diseases.
+- 1987: Iran-Iraq War: An Iraqi Dassault Mirage F1 fighter jet fires two missiles into the U.S. Navy warship USS Stark, killing 37 and injuring 21 of her crew.
+- 1984: Prince Charles calls a proposed addition to the National Gallery, London, a "monstrous carbuncle on the face of a much-loved and elegant friend", sparking controversies on the proper role of the Royal Family and the course of modern architecture.
+- 1983: Lebanon, Israel, and the United States sign an agreement on Israeli withdrawal from Lebanon.
+- 1983: The U.S. Department of Energy declassifies documents showing world's largest mercury pollution event in Oak Ridge, Tennessee (ultimately found to be 4.2 million pounds [1.9 kt]), in response to the Appalachian Observer's Freedom of Information Act request.
+- 1980: On the eve of presidential elections, Maoist guerrilla group Shining Path attacks a polling location in Chuschi (a town in Ayacucho), starting the Internal conflict in Peru.
+- 1980: General Chun Doo-hwan of South Korea seizes control of the government and declares martial law in order to suppress student demonstrations.
+- 1977: Nolan Bushnell opened the first Chuck E. Cheese's Pizza Time Theatre (later renamed Chuck E. Cheese) in San Jose, California.
+- 1974: Police in Los Angeles raid the Symbionese Liberation Army's headquarters, killing six members, including Camilla Hall.
+- 1974: The Troubles: Thirty-three civilians are killed and 300 injured when the Ulster Volunteer Force (UVF) detonates four car bombs in Dublin and Monaghan, Ireland.
+- 1973: Watergate scandal: Televised hearings begin in the United States Senate.
+- 1969: Venera program: Soviet Venera 6 begins its descent into the atmosphere of Venus, sending back atmospheric data before being crushed by pressure.
+- 1967: Six-Day War: President Gamal Abdel Nasser of Egypt demands dismantling of the peace-keeping UN Emergency Force in Egypt.
+- 1954: The United States Supreme Court hands down a unanimous decision in Brown v. Board of Education of Topeka, Kansas, outlawing racial segregation in public schools.
+- 1953: Delta Air Lines Flight 318 crashes near Marshall, Texas, killing 19.
+- 1943: World War II: Dambuster Raids commence by No. 617 Squadron RAF.
+- 1940: World War II: Germany occupies Brussels, Belgium.
+- 1939: The Columbia Lions and the Princeton Tigers play in the United States' first televised sporting event, a collegiate baseball game in New York City.
+- 1937: Spanish Civil War: The Largo Caballero government resigns in the wake of the Barcelona May Days, leading Juan Negrín to form a government, without the anarcho-syndicalist CNT, in its stead.
+- 1933: Vidkun Quisling and Johan Bernhard Hjort form Nasjonal Samling — the national-socialist party of Norway.
 
 Data from muffinlabs
-*(Updated at: 2026-05-16 03:31:25 UTC)*
+*(Updated at: 2026-05-17 03:49:25 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：一场毁灭性的 EF4 龙卷风袭击了萨默塞特和伦敦城镇，造成肯塔基州东南部 19 人死亡。
-- - 2014 年：肯尼亚内罗毕吉孔巴市场区发生两起爆炸，造成 12 人死亡。
-- - 2011年：STS-134（国际空间站组装航班ULF6），于25日从肯尼迪航天中心发射升空，也是奋进号航天飞机的最后一次飞行。
-- - 2005 年：科威特国民议会以 35 比 23 的投票结果允许妇女享有选举权。
-- - 2003年：摩洛哥卡萨布兰卡恐怖袭击造成33名平民死亡、100多人受伤。
-- - 1997 年：扎伊尔总统蒙博托·塞塞·塞科逃离该国。
-- - 1991 年：英国女王伊丽莎白二世在美国国会联席会议上发表讲话。她是第一位在美国国会发表讲话的英国君主。
-- - 1988 年：美国卫生局局长 C. Everett Koop 的一份报告指出，尼古丁的成瘾特性与海洛因和可卡因相似。
-- - 1975 年：来自日本的 Junko Tabei 成为第一位登上珠穆朗玛峰顶峰的女性。
-- - 1974 年：约瑟普·布罗兹·铁托当选南斯拉夫终身总统。
-- - 1972 年：一架安东诺夫 An-24 坠入斯韦特洛戈尔斯克的一所幼儿园大楼，造成 35 人死亡。
-- - 1969 年：金星计划：苏联太空探测器金星 5 号登陆金星。
-- - 1966年：中国共产党发出“5月16日通知”，标志着文化大革命的开始。
-- - 1961年：朴正熙领导政变，推翻韩国第二共和国。
-- - 1960 年：Theodore Maiman 在加利福尼亚州马里布的休斯研究实验室操作了第一台光学激光器（红宝石激光器）。
-- - 1959 年：马耳他瓦莱塔的特里同喷泉首次开启。
-- - 1954 年：古拉格肯吉尔起义开始。
-- - 1951 年：首个定期跨大西洋航班在纽约市艾德维尔德机场（现为约翰·F·肯尼迪国际机场）和伦敦希思罗机场之间开通，由以色列航空公司运营。
-- - 1945 年：英国和法国在叙利亚爆发黎凡特危机。后者试图平息民族主义抗议活动，但在英国威胁采取军事行动后做出了让步。
-- - 1943 年：英国皇家空军轰炸机司令部使用专门装备的阿夫罗兰开斯特轰炸机实施惩罚行动，摧毁鲁尔河谷的莫恩水坝、索尔普水坝和埃德水坝。
-- - 1943 年：大屠杀：华沙犹太人区起义结束。
-- - 1929 年：在好莱坞，举行了第一届奥斯卡颁奖典礼。
-- - 1925 年：克劳迪奥·蒙特威尔第 (Claudio Monteverdi) 的歌剧《尤利塞之歌》 (Il ritorno d'Ulisse) 在巴黎首次现代演出。
-- - 1920 年：在罗马，教皇本笃十五世册封圣女贞德为圣。
-- - 1919 年：阿尔伯特·库欣·里德 (Albert Cushing Read) 指挥的一架海军柯蒂斯 NC-4 飞机从纽芬兰特雷帕西出发，经亚速尔群岛飞往里斯本，这是第一次跨大西洋飞行。
-- - 1918 年：美国国会通过了《1918 年煽动叛乱法》，将战时批评政府定为可入狱的罪行。不到两年后它将被废除。
-- - 1916 年：大不列颠及爱尔兰联合王国和法兰西第三共和国签署战时秘密《赛克斯-皮科协定》，划分伊拉克和叙利亚等前奥斯曼帝国领土。
-- - 1891 年：国际电工展览会在德国法兰克福开幕，展示了世界上首次远距离传输大功率三相电流（当今最常见的形式）。
-- - 1888 年：尼古拉·特斯拉 (Nikola Tesla) 发表演讲，描述了能够高效发电和使用交流电长距离传输电力的设备。
-- - 1877年：1877年5月16日法国发生危机，最终于6月22日解散国民议会并确认将1875年宪法解释为议会制而非总统制。1877 年 10 月举行的选举导致保皇党作为法国正式政治运动的失败。
+- - 2014 年：老挝北部发生一架军用飞机失事，造成 17 人死亡。
+- - 2010 年：帕米尔航空 112 号航班在阿富汗沙卡达拉地区坠毁，造成 44 人死亡。
+- - 2007 年：朝鲜和韩国的火车在两国政府同意的试运行中穿越 38 度线。这是自1953年以来火车首次穿越非军事区。
+- - 2006 年：奥里斯卡尼号航空母舰作为人工鱼礁在墨西哥湾沉没。
+- - 2004 年：美国第一桩合法的同性婚姻在马萨诸塞州举行。
+- - 2000年：2000年哥本哈根联盟杯决赛骚乱中，阿森纳和加拉塔萨雷球迷发生冲突
+- - 1997 年：洛朗-德西雷·卡比拉的部队进军金沙萨。扎伊尔正式更名为刚果民主共和国。
+- - 1995 年：肖恩·尼尔森从圣地亚哥的加州陆军国民警卫队军械库偷了一辆 M60 坦克，然后开始横冲直撞。
+- - 1994年：马拉维举行第一次多党选举。
+- - 1992 年：针对泰国总理 Suchinda Kraraprayoon 政府的民众抗议活动在曼谷开始，为期三天，导致军事镇压，造成 52 人正式死亡、数百人受伤、多人失踪以及 3,500 多人被捕。
+- - 1990年：世界卫生组织（WHO）大会将同性恋从精神疾病名单中删除。
+- - 1987 年：两伊战争：一架伊拉克达索幻影 F1 战斗机向美国海军斯塔克号军舰发射两枚导弹，造成 37 人死亡、21 人受伤。
+- - 1984 年：查尔斯王子称伦敦国家美术馆的扩建项目是“一位深爱而优雅的朋友脸上的巨大红宝石”，引发了关于王室的适当角色和现代建筑进程的争议。
+- - 1983年：黎巴嫩、以色列和美国签署以色列从黎巴嫩撤军的协议。
+- - 1983 年：根据《阿巴拉契亚观察家报》的《信息自由法》要求，美国能源部解密了田纳西州橡树岭发生的全球最大汞污染事件的文件（最终发现重达 420 万磅 [1.9 kt]）。
+- - 1980 年：总统选举前夕，毛派游击队组织“光辉之路”袭击了 Chuschi（阿亚库乔镇）的一个投票站，引发了秘鲁的内部冲突。
+- - 1980 年：韩国全斗焕将军夺取政府控制权并宣布戒严以镇压学生示威。
+- - 1977 年：诺兰·布什内尔 (Nolan Bushnell) 在加利福尼亚州圣何塞开设了第一家 Chuck E. Cheese's Pizza Time Theater（后更名为 Chuck E. Cheese）。
+- - 1974 年：洛杉矶警方突袭共生解放军总部，杀死了包括卡米拉·霍尔在内的六名成员。
+- - 1974 年：麻烦：阿尔斯特志愿军 (UVF) 在爱尔兰都柏林和莫纳汉引爆了四枚汽车炸弹，造成 33 名平民死亡、300 人受伤。
+- - 1973 年：水门事件丑闻：美国参议院开始举行电视听证会。
+- - 1969 年：金星计划：苏联金星 6 号开始降落到金星大气层，在被压力压碎之前发回大气数据。
+- - 1967 年：六日战争：埃及总统贾迈勒·阿卜杜勒·纳赛尔要求解散在埃及维持和平的联合国紧急部队。
+- - 1954 年：美国最高法院在布朗诉堪萨斯州托皮卡教育委员会一案中一致做出裁决，宣布公立学校的种族隔离为非法。
+- - 1953 年：达美航空 318 号航班在德克萨斯州马歇尔附近坠毁，造成 19 人死亡。
+- - 1943 年：第二次世界大战：英国皇家空军第 617 中队发起 Dambuster 袭击。
+- - 1940 年：第二次世界大战：德国占领比利时布鲁塞尔。
+- - 1939 年：哥伦比亚雄狮队和普林斯顿老虎队参加了美国首次电视转播的体育赛事，即在纽约市举行的大学棒球比赛。
+- - 1937 年：西班牙内战：拉尔戈·卡瓦列罗政府在巴塞罗那五一劳动节后辞职，导致胡安·内格林组建政府，无政府工团主义全劳联取而代之。
+- - 1933 年：Vidkun Quisling 和 Johan Bernhard Hjort 组建 Nasjonal Samling——挪威国家社会主义政党。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-05-16 03:31:25 UTC）*
+*（更新于: 2026-05-17 03:49:25 UTC）*
