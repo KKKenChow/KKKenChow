@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2014: A military plane crash in northern Laos kills 17 people.
-- 2010: Pamir Airways Flight 112 crashes in Afghanistan's Shakardara District, killing 44.
-- 2007: Trains from North and South Korea cross the 38th Parallel in a test-run agreed by both governments. This is the first time that trains have crossed the Demilitarized Zone since 1953.
-- 2006: The aircraft carrier USS Oriskany is sunk in the Gulf of Mexico as an artificial reef.
-- 2004: The first legal same-sex marriages in the U.S. are performed in the state of Massachusetts.
-- 2000: Arsenal and Galatasaray fans clash in the 2000 UEFA Cup Final riots in Copenhagen
-- 1997: Troops of Laurent-Désiré Kabila march into Kinshasa. Zaire is officially renamed Democratic Republic of the Congo.
-- 1995: Shawn Nelson steals an M60 tank from the California Army National Guard Armory in San Diego and proceeds to go on a rampage.
-- 1994: Malawi holds its first multi-party elections.
-- 1992: Three days of popular protests against the government of Prime Minister of Thailand Suchinda Kraprayoon begin in Bangkok, leading to a military crackdown that results in 52 officially confirmed deaths, hundreds of injuries, many disappearances, and more than 3,500 arrests.
-- 1990: The General Assembly of the World Health Organization (WHO) eliminates homosexuality from the list of psychiatric diseases.
-- 1987: Iran-Iraq War: An Iraqi Dassault Mirage F1 fighter jet fires two missiles into the U.S. Navy warship USS Stark, killing 37 and injuring 21 of her crew.
-- 1984: Prince Charles calls a proposed addition to the National Gallery, London, a "monstrous carbuncle on the face of a much-loved and elegant friend", sparking controversies on the proper role of the Royal Family and the course of modern architecture.
-- 1983: Lebanon, Israel, and the United States sign an agreement on Israeli withdrawal from Lebanon.
-- 1983: The U.S. Department of Energy declassifies documents showing world's largest mercury pollution event in Oak Ridge, Tennessee (ultimately found to be 4.2 million pounds [1.9 kt]), in response to the Appalachian Observer's Freedom of Information Act request.
-- 1980: On the eve of presidential elections, Maoist guerrilla group Shining Path attacks a polling location in Chuschi (a town in Ayacucho), starting the Internal conflict in Peru.
-- 1980: General Chun Doo-hwan of South Korea seizes control of the government and declares martial law in order to suppress student demonstrations.
-- 1977: Nolan Bushnell opened the first Chuck E. Cheese's Pizza Time Theatre (later renamed Chuck E. Cheese) in San Jose, California.
-- 1974: Police in Los Angeles raid the Symbionese Liberation Army's headquarters, killing six members, including Camilla Hall.
-- 1974: The Troubles: Thirty-three civilians are killed and 300 injured when the Ulster Volunteer Force (UVF) detonates four car bombs in Dublin and Monaghan, Ireland.
-- 1973: Watergate scandal: Televised hearings begin in the United States Senate.
-- 1969: Venera program: Soviet Venera 6 begins its descent into the atmosphere of Venus, sending back atmospheric data before being crushed by pressure.
-- 1967: Six-Day War: President Gamal Abdel Nasser of Egypt demands dismantling of the peace-keeping UN Emergency Force in Egypt.
-- 1954: The United States Supreme Court hands down a unanimous decision in Brown v. Board of Education of Topeka, Kansas, outlawing racial segregation in public schools.
-- 1953: Delta Air Lines Flight 318 crashes near Marshall, Texas, killing 19.
-- 1943: World War II: Dambuster Raids commence by No. 617 Squadron RAF.
-- 1940: World War II: Germany occupies Brussels, Belgium.
-- 1939: The Columbia Lions and the Princeton Tigers play in the United States' first televised sporting event, a collegiate baseball game in New York City.
-- 1937: Spanish Civil War: The Largo Caballero government resigns in the wake of the Barcelona May Days, leading Juan Negrín to form a government, without the anarcho-syndicalist CNT, in its stead.
-- 1933: Vidkun Quisling and Johan Bernhard Hjort form Nasjonal Samling — the national-socialist party of Norway.
+- 2019: United States presidential election: Joe Biden launches his presidential campaign.
+- 2018: Cubana de Aviación Flight 972 crashes in Santiago de las Vegas after takeoff from José Martí International Airport in Havana, Cuba, killing 112 of the 113 people on board.
+- 2018: A school shooting at Santa Fe High School in Texas kills ten people.
+- 2015: At least 78 people die in a landslide caused by heavy rains in the Colombian town of Salgar.
+- 2009: The LTTE are defeated by the Sri Lankan government, ending almost 26 years of fighting between the two sides.
+- 2006: The post Loktantra Andolan government passes a landmark bill curtailing the power of the monarchy and making Nepal a secular country.
+- 2005: A second photo from the Hubble Space Telescope confirms that Pluto has two additional moons, Nix and Hydra.
+- 1994: Israeli troops finish withdrawing from the Gaza Strip, ceding the area to the Palestinian National Authority to govern.
+- 1993: Riots in Nørrebro, Copenhagen, caused by the approval of the four Danish exceptions in the Maastricht Treaty referendum. Police open fire against civilians for the first time since World War II and injure 11 demonstrators.
+- 1991: Northern Somalia declares independence from the rest of Somalia as the Republic of Somaliland.
+- 1990: In France, a modified TGV train achieves a new rail world speed record of 515.3 km/h (320.2 mph).
+- 1980: Students in Gwangju, South Korea begin demonstrations calling for democratic reforms.
+- 1980: Mount St. Helens erupts in Washington, United States, killing 57 people and causing $3 billion in damage.
+- 1977: Likud party wins the 1977 Israeli legislative election, with Menachem Begin, its founder, as the sixth Prime Minister of Israel.
+- 1974: Nuclear weapons testing: Under project Smiling Buddha, India successfully detonates its first nuclear weapon becoming the sixth nation to do so.
+- 1973: Aeroflot Flight 109 is hijacked mid-flight and the aircraft is subsequently destroyed when the hijacker's bomb explodes, killing all 82 people on board.
+- 1972: During approach to Kharkiv International Airport, Aeroflot Flight 1491 crashes near Ruska Lozova, killing all 112 aboard.
+- 1969: Apollo program: Apollo 10 is launched.
+- 1965: Israeli spy Eli Cohen is hanged in Damascus, Syria.
+- 1955: Operation Passage to Freedom, the evacuation of 310,000 Vietnamese civilians, soldiers and non-Vietnamese members of the French Army from communist North Vietnam to South Vietnam following the end of the First Indochina War, ends.
+- 1953: Jacqueline Cochran becomes the first woman to break the sound barrier.
+- 1948: The First Legislative Yuan of the Republic of China officially convenes in Nanking.
+- 1944: Deportation of Crimean Tatars by the Soviet Union.
+- 1944: World War II: Battle of Monte Cassino: Conclusion after seven days of the fourth battle as German paratroopers evacuate Monte Cassino.
+- 1933: New Deal: President Franklin D. Roosevelt signs an act creating the Tennessee Valley Authority.
+- 1927: After being founded for 20 years, the Nationalist government approves Tongji University to be among the its first national universities.
+- 1927: The Bath School disaster: Forty-five people, including many children, are killed by bombs planted by a disgruntled school-board member in Bath Township, Michigan.
+- 1926: Evangelist Aimee Semple McPherson disappears in Venice, California.
+- 1922: Seamus Woods leads an Irish Republican Army attack on the headquarters of the Royal Irish Constabulary in Belfast.
+- 1917: World War I: The Selective Service Act of 1917 is passed, giving the President of the United States the power of conscription.
 
 Data from muffinlabs
-*(Updated at: 2026-05-17 03:49:25 UTC)*
+*(Updated at: 2026-05-18 04:01:13 UTC)*
 
 # 历史上的今天 
 
-- - 2014 年：老挝北部发生一架军用飞机失事，造成 17 人死亡。
-- - 2010 年：帕米尔航空 112 号航班在阿富汗沙卡达拉地区坠毁，造成 44 人死亡。
-- - 2007 年：朝鲜和韩国的火车在两国政府同意的试运行中穿越 38 度线。这是自1953年以来火车首次穿越非军事区。
-- - 2006 年：奥里斯卡尼号航空母舰作为人工鱼礁在墨西哥湾沉没。
-- - 2004 年：美国第一桩合法的同性婚姻在马萨诸塞州举行。
-- - 2000年：2000年哥本哈根联盟杯决赛骚乱中，阿森纳和加拉塔萨雷球迷发生冲突
-- - 1997 年：洛朗-德西雷·卡比拉的部队进军金沙萨。扎伊尔正式更名为刚果民主共和国。
-- - 1995 年：肖恩·尼尔森从圣地亚哥的加州陆军国民警卫队军械库偷了一辆 M60 坦克，然后开始横冲直撞。
-- - 1994年：马拉维举行第一次多党选举。
-- - 1992 年：针对泰国总理 Suchinda Kraraprayoon 政府的民众抗议活动在曼谷开始，为期三天，导致军事镇压，造成 52 人正式死亡、数百人受伤、多人失踪以及 3,500 多人被捕。
-- - 1990年：世界卫生组织（WHO）大会将同性恋从精神疾病名单中删除。
-- - 1987 年：两伊战争：一架伊拉克达索幻影 F1 战斗机向美国海军斯塔克号军舰发射两枚导弹，造成 37 人死亡、21 人受伤。
-- - 1984 年：查尔斯王子称伦敦国家美术馆的扩建项目是“一位深爱而优雅的朋友脸上的巨大红宝石”，引发了关于王室的适当角色和现代建筑进程的争议。
-- - 1983年：黎巴嫩、以色列和美国签署以色列从黎巴嫩撤军的协议。
-- - 1983 年：根据《阿巴拉契亚观察家报》的《信息自由法》要求，美国能源部解密了田纳西州橡树岭发生的全球最大汞污染事件的文件（最终发现重达 420 万磅 [1.9 kt]）。
-- - 1980 年：总统选举前夕，毛派游击队组织“光辉之路”袭击了 Chuschi（阿亚库乔镇）的一个投票站，引发了秘鲁的内部冲突。
-- - 1980 年：韩国全斗焕将军夺取政府控制权并宣布戒严以镇压学生示威。
-- - 1977 年：诺兰·布什内尔 (Nolan Bushnell) 在加利福尼亚州圣何塞开设了第一家 Chuck E. Cheese's Pizza Time Theater（后更名为 Chuck E. Cheese）。
-- - 1974 年：洛杉矶警方突袭共生解放军总部，杀死了包括卡米拉·霍尔在内的六名成员。
-- - 1974 年：麻烦：阿尔斯特志愿军 (UVF) 在爱尔兰都柏林和莫纳汉引爆了四枚汽车炸弹，造成 33 名平民死亡、300 人受伤。
-- - 1973 年：水门事件丑闻：美国参议院开始举行电视听证会。
-- - 1969 年：金星计划：苏联金星 6 号开始降落到金星大气层，在被压力压碎之前发回大气数据。
-- - 1967 年：六日战争：埃及总统贾迈勒·阿卜杜勒·纳赛尔要求解散在埃及维持和平的联合国紧急部队。
-- - 1954 年：美国最高法院在布朗诉堪萨斯州托皮卡教育委员会一案中一致做出裁决，宣布公立学校的种族隔离为非法。
-- - 1953 年：达美航空 318 号航班在德克萨斯州马歇尔附近坠毁，造成 19 人死亡。
-- - 1943 年：第二次世界大战：英国皇家空军第 617 中队发起 Dambuster 袭击。
-- - 1940 年：第二次世界大战：德国占领比利时布鲁塞尔。
-- - 1939 年：哥伦比亚雄狮队和普林斯顿老虎队参加了美国首次电视转播的体育赛事，即在纽约市举行的大学棒球比赛。
-- - 1937 年：西班牙内战：拉尔戈·卡瓦列罗政府在巴塞罗那五一劳动节后辞职，导致胡安·内格林组建政府，无政府工团主义全劳联取而代之。
-- - 1933 年：Vidkun Quisling 和 Johan Bernhard Hjort 组建 Nasjonal Samling——挪威国家社会主义政党。
+- - 2019 年：美国总统大选：乔·拜登启动总统竞选活动。
+- - 2018 年：古巴航空 972 号航班从古巴哈瓦那何塞·马蒂国际机场起飞后在拉斯维加斯圣地亚哥坠毁，机上 113 人中有 112 人死亡。
+- - 2018 年：德克萨斯州圣达菲高中发生校园枪击事件，造成 10 人死亡。
+- - 2015 年：哥伦比亚萨尔加镇暴雨引发山体滑坡，造成至少 78 人死亡。
+- - 2009年：猛虎组织被斯里兰卡政府击败，结束了双方近26年的战斗。
+- - 2006年：后Loktantra Andolan政府通过了一项具有里程碑意义的法案，限制君主制权力并使尼泊尔成为一个世俗国家。
+- - 2005 年：哈勃太空望远镜拍摄的第二张照片证实冥王星还有另外两颗卫星：尼克斯 (Nix) 和九头蛇 (Hydra)。
+- - 1994年：以色列军队完成从加沙地带的撤军，将该地区割让给巴勒斯坦民族权力机构管理。
+- - 1993年：由于《马斯特里赫特条约》公投中批准了丹麦的四个例外，导致哥本哈根诺雷布罗发生骚乱。警方自二战以来首次向平民开枪，造成 11 名示威者受伤。
+- - 1991年：索马里北部宣布从索马里其他地区独立，成立索马里兰共和国。
+- - 1990 年：在法国，经过改装的 TGV 列车创下了 515.3 公里/小时（320.2 英里/小时）的新铁路世界速度记录。
+- - 1980 年：韩国光州的学生开始示威呼吁民主改革。
+- - 1980 年：美国华盛顿圣海伦斯火山爆发，造成 57 人死亡并造成 30 亿美元的损失。
+- - 1977年：利库德集团在1977年以色列立法选举中获胜，其创始人梅纳赫姆·贝京成为以色列第六任总理。
+- - 1974 年：核武器试验：在“微笑佛陀”计划下，印度成功引爆了第一枚核武器，成为第六个这样做的国家。
+- - 1973 年：俄罗斯航空公司 109 号航班在飞行途中被劫持，劫机者的炸弹爆炸导致飞机被毁，机上 82 人全部遇难。
+- - 1972 年：在飞往哈尔科夫国际机场时，俄罗斯航空公司 1491 号航班在鲁斯卡洛佐瓦附近坠毁，机上 112 人全部遇难。
+- - 1969 年：阿波罗计划：阿波罗 10 号发射。
+- - 1965 年：以色列间谍伊莱·科恩在叙利亚大马士革被绞死。
+- - 1955 年：第一次印度支那战争结束后，“自由通道”行动结束，将 310,000 名越南平民、士兵和法国军队中的非越南成员从共产主义北越撤离到南越。
+- - 1953 年：杰奎琳·科克伦 (Jacqueline Cochran) 成为第一位突破音障的女性。
+- - 1948年：中华民国第一届立法院在南京正式召开。
+- - 1944 年：苏联驱逐克里米亚鞑靼人。
+- - 1944 年：第二次世界大战：卡西诺山战役：第四次战斗结束 7 天后，德国伞兵撤离卡西诺山。
+- - 1933 年：新政：富兰克林·D·罗斯福总统签署一项法案，创建田纳西河谷管理局。
+- - 1927年：建校20年后，国民党政府批准同济大学成为首批国立大学之一。
+- - 1927 年：巴斯学校灾难：密歇根州巴斯镇一名心怀不满的学校董事会成员放置的炸弹炸死了 45 人，其中包括许多儿童。
+- - 1926 年：传道者艾梅·森普尔·麦克弗森 (Aimee Semple McPherson) 在加利福尼亚州威尼斯失踪。
+- - 1922 年：谢莫斯·伍兹率领爱尔兰共和军袭击贝尔法斯特爱尔兰皇家警察总部。
+- - 1917 年：第一次世界大战：1917 年《兵役法》获得通过，赋予美国总统征兵的权力。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-05-17 03:49:25 UTC）*
+*（更新于: 2026-05-18 04:01:13 UTC）*
