@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: Hypothermia kills 21 runners in the 100 km (60-mile) Gansu ultramarathon disaster in China.
-- 2020: Pakistan International Airlines Flight 8303 crashes in Model Colony near Jinnah International Airport in Karachi, Pakistan, killing 98 people.
-- 2017: United States President Donald Trump visits the Church of the Holy Sepulchre in Jerusalem and becomes the first sitting U.S. president to visit the Western Wall.
-- 2017: Twenty-two people are killed at an Ariana Grande concert in the 2017 Manchester Arena bombing.
-- 2015: The Republic of Ireland becomes the first nation in the world to utilise a public referendum to legalise gay marriage.
-- 2014: An explosion occurs in Ürümqi, capital of China's far-western Xinjiang region, resulting in at least 43 deaths and 91 injuries.
-- 2014: General Prayut Chan-o-cha becomes interim leader of Thailand in a military coup d'état, following six months of political turmoil.
-- 2013: Fusilier Lee Rigby is murdered by 2 Islamic extremists in Woolwich, Southeast London
-- 2012: SpaceX COTS Demo Flight 2 launches a Dragon capsule on a Falcon 9 rocket in the first commercial flight to the International Space Station.
-- 2012: Tokyo Skytree opens to the public. It is the tallest tower in the world (634 m), and the second tallest man-made structure on Earth after Burj Khalifa (829.8 m).
-- 2011: An EF5 tornado strikes Joplin, Missouri, killing 158 people and wreaking $2.8 billion in damages, the costliest and seventh-deadliest single tornado in U.S. history.
-- 2010: Inter Milan beat Bayern Munich 2-0 in the UEFA Champions League final in Madrid, Spain to become the first, and so far only, Italian team to win the historic treble (Serie A, Coppa Italia, Champions League).
-- 2010: Air India Express Flight 812, a Boeing 737 crashes over a cliff upon landing at Mangalore, India, killing 158 of 166 people on board, becoming the deadliest crash involving a Boeing 737 until the crash of Lion Air Flight 610.
-- 2002: Civil rights movement: A jury in Birmingham, Alabama, convicts former Ku Klux Klan member Bobby Frank Cherry of the 1963 murder of four girls in the 16th Street Baptist Church bombing.
-- 2000: In Sri Lanka, over 150 Tamil rebels are killed over two days of fighting for control in Jaffna.
-- 1998: A U.S. federal judge rules that U.S. Secret Service agents can be compelled to testify before a grand jury concerning the Lewinsky scandal involving President Bill Clinton.
-- 1996: The Burmese military regime jails 71 supporters of Aung San Suu Kyi in a bid to block a pro-democracy meeting.
-- 1994: A worldwide trade embargo against Haiti goes into effect to punish its military rulers for not reinstating the country's ousted elected leader, Jean-Bertrand Aristide.
-- 1992: Bosnia and Herzegovina, Croatia and Slovenia join the United Nations.
-- 1990: North and South Yemen are unified to create the Republic of Yemen.
-- 1987: First ever Rugby World Cup kicks off with New Zealand playing Italy at Eden Park in Auckland, New Zealand.
-- 1987: Hashimpura massacre occurs in Meerut, India.
-- 1972: Over 400 women in Derry, Northern Ireland attack the offices of Sinn Féin following the shooting by the Irish Republican Army of a young British soldier on leave.
-- 1972: Ceylon adopts a new constitution, becoming a republic and changing its name to Sri Lanka.
-- 1969: Apollo 10's Lunar Module flies within 8.4 nautical miles (16 km) of the Moon's surface.
-- 1968: The nuclear-powered submarine USS Scorpion sinks with 99 men aboard, 400 nautical miles (740 km) southwest of the Azores.
-- 1967: L'Innovation department store in Brussels, Belgium, burns down, resulting in 323 dead or missing and 150 injured, the most devastating fire in Belgian history.
-- 1967: Egypt closes the Straits of Tiran to Israeli shipping.
-- 1964: U.S. President Lyndon B. Johnson launches his Great Society program.
-- 1963: Greek left-wing politician Grigoris Lambrakis is clubbed over the head, causing his death five days later.
+- 2022: Anthony Albanese of the Australian Labor Party is sworn in as the 31st Prime Minister of Australia after winning the 2022 Australian federal election, ending 9 years of conservative rule.
+- 2021: Ryanair Flight 4978 is forced to land by Belarusian authorities to detain dissident journalist Roman Protasevich.
+- 2021: A cable car falls from a mountain near Lake Maggiore in northern Italy, killing 14 people.
+- 2017: Philippine President Rodrigo Duterte declares martial law in Mindanao, following the Maute's attack in Marawi.
+- 2016: Eight bombings are carried out by the Islamic State of Iraq and Syria in Jableh and Tartus, coastline cities in Syria. One hundred eighty-four people are killed and at least 200 people injured.
+- 2016: Two suicide bombings, conducted by the Islamic State of Iraq and Syria, kill at least 45 potential army recruits in Aden, Yemen.
+- 2015: At least 30 people are killed as a result of floods and tornadoes in Texas, Oklahoma, and northern Mexico.
+- 2014: Seven people, including the perpetrator, are killed and another 14 injured in a killing spree near the campus of University of California, Santa Barbara.
+- 2013: A freeway bridge carrying Interstate 5 over the Skagit River collapses in Mount Vernon, Washington.
+- 2008: The International Court of Justice (ICJ) awards Middle Rocks to Malaysia and Pedra Branca (Pulau Batu Puteh) to Singapore, ending a 29-year territorial dispute between the two countries.
+- 2006: Alaskan stratovolcano Mount Cleveland erupts.
+- 2002: The "55 parties" clause of the Kyoto Protocol is reached after its ratification by Iceland.
+- 1998: The Good Friday Agreement is accepted in a referendum in Northern Ireland with roughly 75% voting yes.
+- 1995: The first version of the Java programming language is released.
+- 1992: Italy's most prominent anti-mafia judge Giovanni Falcone, his wife and three body guards are killed by the Corleonesi clan with a half-ton bomb near Capaci, Sicily. His friend and colleague Paolo Borsellino will be assassinated less than two months later, making 1992 a turning point in the history of Italian Mafia prosecutions.
+- 1991: Aeroflot Flight 8556 crashes at Pulkovo Airport, killing 13.
+- 1978: A Tupolev Tu-144 crashes near the Russian town of Yegoryevsk, killing two.
+- 1971: The Intercontinental Hotel in Bucharest opens, becoming the second-tallest building in the city.
+- 1971: Seventy-eight people are killed when Aviogenex Flight 130 crashes on approach to Rijeka Airport in present-day Rijeka, Croatia (then the Socialist Federal Republic of Yugoslavia).
+- 1960: A tsunami caused by an earthquake in Chile the previous day kills 61 people in Hilo, Hawaii.
+- 1951: Tibetans sign the Seventeen Point Agreement with China.
+- 1949: Cold War: The Western occupying powers approve the Basic Law and establish a new German state, the Federal Republic of Germany.
+- 1948: Thomas C. Wasson, the US Consul-General, is assassinated in Jerusalem, Israel.
+- 1946: The start of a two-day tornado outbreak across the Central United States that spawned at least 15 significant tornadoes.
+- 1945: World War II: Germany's Flensburg Government under Karl Dönitz is dissolved when its members are arrested by British forces.
+- 1945: World War II: Heinrich Himmler, head of the Schutzstaffel, commits suicide while in Allied custody.
+- 1941: World War II: German paratroopers start a series of mass executions of Greek civilians in Missiria for their participation in the ongoing Battle of Crete.
+- 1939: The U.S. Navy submarine USS Squalus sinks off the coast of New Hampshire during a test dive, causing the death of 24 sailors and two civilian technicians. The remaining 32 sailors and one civilian naval architect are rescued the following day.
+- 1934: The Auto-Lite strike culminates in the "Battle of Toledo", a five-day melée between 1,300 troops of the Ohio National Guard and 6,000 picketers.
+- 1934: American bank robbers Bonnie and Clyde are ambushed by police and killed in Bienville Parish, Louisiana.
 
 Data from muffinlabs
-*(Updated at: 2026-05-22 03:59:35 UTC)*
+*(Updated at: 2026-05-23 03:36:42 UTC)*
 
 # 历史上的今天 
 
-- - 2021 年：在中国甘肃 100 公里（60 英里）超级马拉松灾难中，21 名跑步者因体温过低而死亡。
-- - 2020 年：巴基斯坦国际航空 8303 号航班在巴基斯坦卡拉奇真纳国际机场附近的模范殖民地坠毁，造成 98 人死亡。
-- - 2017年：美国总统唐纳德·特朗普参观耶路撒冷圣墓教堂，成为第一位参观西墙的在任美国总统。
-- - 2017 年：2017 年曼彻斯特竞技场爆炸案中，有 22 人在爱莉安娜·格兰德 (Ariana Grande) 音乐会上丧生。
-- - 2015年：爱尔兰共和国成为世界上第一个通过全民公投将同性婚姻合法化的国家。
-- - 2014年：中国最西部的新疆地区首府乌鲁木齐发生爆炸，造成至少43人死亡、91人受伤。
-- - 2014 年：经过六个月的政治动荡，巴育将军在军事政变中成为泰国临时领导人。
-- - 2013年：燧发枪手李·里格比在伦敦东南部的伍尔维奇被两名伊斯兰极端分子谋杀
-- - 2012 年：SpaceX COTS Demo Flight 2 使用 Falcon 9 火箭发射 Dragon 太空舱，这是飞往国际空间站的首次商业飞行。
-- - 2012 年：东京晴空塔向公众开放。它是世界上最高的塔（634 m），也是继哈利法塔（829.8 m）之后地球上第二高的人造建筑。
-- - 2011 年：一场 EF5 龙卷风袭击密苏里州乔普林，造成 158 人死亡，造成 28 亿美元的损失，这是美国历史上损失最惨重、死亡人数排名第七的单一龙卷风。
-- - 2010年：国际米兰在西班牙马德里举行的欧洲冠军联赛决赛中以2-0击败拜仁慕尼黑，成为第一支也是迄今为止唯一一支夺得历史性三冠王（意甲、意大利杯、欧冠）的意大利球队。
-- - 2010 年：印度航空快运 812 号航班的一架波音 737 飞机在印度门格洛尔降落时坠崖坠毁，机上 166 人中有 158 人丧生，成为狮航 610 号航班坠毁之前涉及波音 737 的最严重的坠机事故。
-- - 2002 年：民权运动：阿拉巴马州伯明翰的一个陪审团判定前三K党成员鲍比·弗兰克·切里 (Bobby Frank Cherry) 在 1963 年第 16 街浸信会教堂爆炸案中杀害了四名女孩。
-- - 2000 年：在斯里兰卡，超过 150 名泰米尔叛军在贾夫纳争夺控制权的两天内被杀。
-- - 1998 年：美国联邦法官裁定，美国特勤局特工可以被迫就涉及比尔·克林顿总统的莱温斯基丑闻向大陪审团作证。
-- - 1996 年：缅甸军政权监禁了 71 名昂山素季的支持者，以阻止一场亲民主会议。
-- - 1994 年：针对海地的全球贸易禁运生效，以惩罚其军事统治者不恢复该国被驱逐的民选领导人让-贝特朗·阿里斯蒂德 (Jean-Bertrand Aristide) 的职务。
-- - 1992年：波斯尼亚和黑塞哥维那、克罗地亚和斯洛文尼亚加入联合国。
-- - 1990年：北也门和南也门统一，成立也门共和国。
-- - 1987 年：首届橄榄球世界杯由新西兰队在新西兰奥克兰的伊登公园迎战意大利队拉开帷幕。
-- - 1987年：印度密拉特发生哈希普拉大屠杀。
-- - 1972 年：爱尔兰共和军枪击一名休假的年轻英国士兵后，北爱尔兰德里的 400 多名妇女袭击了新芬党的办公室。
-- - 1972年：锡兰通过新宪法，成为共和国并更名为斯里兰卡。
-- - 1969 年：阿波罗 10 号登月舱在距离月球表面 8.4 海里（16 公里）的范围内飞行。
-- - 1968 年：载有 99 名船员的“蝎子号”核动力潜艇在亚速尔群岛西南 400 海里（740 公里）处沉没。
-- - 1967 年：比利时布鲁塞尔的 L'Innovation 百货商店被烧毁，造成 323 人死亡或失踪，150 人受伤，这是比利时历史上最具破坏性的火灾。
-- - 1967 年：埃及对以色列关闭蒂朗海峡。
-- - 1964 年：美国总统林登·B·约翰逊启动了他的“伟大社会”计划。
-- - 1963 年：希腊左翼政治家格里戈里斯·兰布拉基斯 (Grigoris Lambrakis) 头部被棍打，五天后死亡。
+- - 2022年：澳大利亚工党的安东尼·艾博尼斯在赢得2022年澳大利亚联邦大选后宣誓就任澳大利亚第31任总理，结束了9年的保守派统治。
+- - 2021 年：白俄罗斯当局强迫瑞安航空 4978 号航班降落以拘留持不同政见记者罗曼·普罗塔塞维奇。
+- - 2021 年：一辆缆车从意大利北部马焦雷湖附近的山上坠落，造成 14 人死亡。
+- - 2017 年：毛特人在马拉维发动袭击后，菲律宾总统罗德里戈·杜特尔特宣布在棉兰老岛实行戒严。
+- - 2016年：伊拉克和叙利亚伊斯兰国在叙利亚沿海城市贾布莱和塔尔图斯制造了八起爆炸事件。一百八十四人死亡，至少 200 人受伤。
+- - 2016 年：伊拉克和叙利亚伊斯兰国制造的两起自杀式爆炸事件在也门亚丁造成至少 45 名潜在入伍人员死亡。
+- - 2015 年：德克萨斯州、俄克拉荷马州和墨西哥北部的洪水和龙卷风造成至少 30 人死亡。
+- - 2014年：加州大学圣塔芭芭拉分校校园附近发生疯狂杀戮，造成包括肇事者在内的7人死亡，另有14人受伤。
+- - 2013 年：华盛顿州弗农山的斯卡吉特河上一座承载 5 号州际公路的高速公路桥倒塌。
+- - 2008年：国际法院（ICJ）将中岩礁判给马来西亚，将白礁岛判给新加坡，结束了两国之间长达29年的领土争端。
+- - 2006 年：阿拉斯加的成层火山克利夫兰火山爆发。
+- - 2002年：《京都议定书》的“55个缔约方”条款在冰岛批准后达成。
+- - 1998 年：北爱尔兰的全民公投中接受了《耶稣受难日协议》，大约 75% 的人投了赞成票。
+- - 1995 年：Java 编程语言的第一个版本发布。
+- - 1992 年：意大利最著名的反黑手党法官乔瓦尼·法尔科内、他的妻子和三名保镖在西西里岛卡帕奇附近被科里昂内西家族用半吨炸弹炸死。不到两个月后，他的朋友兼同事保罗·博尔塞利诺 (Paolo Borsellino) 将被暗杀，这使得 1992 年成为意大利黑手党起诉历史上的转折点。
+- - 1991 年：俄罗斯航空公司 8556 号航班在普尔科沃机场坠毁，造成 13 人死亡。
+- - 1978 年：一架图波列夫 Tu-144 在俄罗斯城镇叶戈里耶夫斯克附近坠毁，造成两人死亡。
+- - 1971 年：布加勒​​斯特洲际酒店开业，成为该市第二高的建筑。
+- - 1971 年：Aviogenex 130 号航班在飞往今克罗地亚里耶卡（当时的南斯拉夫社会主义联邦共和国）里耶卡机场时坠毁，造成 78 人死亡。
+- - 1960 年：前一天智利地震引发的海啸在夏威夷希洛造成 61 人死亡。
+- - 1951年：西藏与中国签署《十七点协议》。
+- - 1949年：冷战：西方占领国批准《基本法》并建立一个新的德国国家——德意志联邦共和国。
+- - 1948 年：美国总领事托马斯·C·沃森 (Thomas C. Wasson) 在以色列耶路撒冷被暗杀。
+- - 1946 年：美国中部地区开始爆发为期两天的龙卷风，并引发了至少 15 场严重龙卷风。
+- - 1945 年：第二次世界大战：卡尔·邓尼茨领导下的德国弗伦斯堡政府因其成员被英国军队逮捕而解散。
+- - 1945 年：第二次世界大战：党卫队首领海因里希·希姆莱在盟军拘留期间自杀。
+- - 1941 年：第二次世界大战：德国伞兵在米西里亚开始对参加正在进行的克里特岛战役的希腊平民进行一系列大规模处决。
+- - 1939 年：美国海军潜艇 Squalus 在新罕布什尔州海岸试潜时沉没，造成 24 名水手和两名文职技术人员死亡。其余 32 名水手和一名平民海军建筑师于第二天获救。
+- - 1934 年：Auto-Lite 罢工在“托莱多之战”中达到顶峰，这是一场 1,300 名俄亥俄州国民警卫队士兵和 6,000 名纠察队之间为期五天的混战。
+- - 1934 年：美国银行劫匪邦妮和克莱德在路易斯安那州比恩维尔教区遭到警察伏击并被杀。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-05-22 03:59:35 UTC）*
+*（更新于: 2026-05-23 03:36:42 UTC）*
