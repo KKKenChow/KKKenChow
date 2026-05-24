@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Anthony Albanese of the Australian Labor Party is sworn in as the 31st Prime Minister of Australia after winning the 2022 Australian federal election, ending 9 years of conservative rule.
-- 2021: Ryanair Flight 4978 is forced to land by Belarusian authorities to detain dissident journalist Roman Protasevich.
-- 2021: A cable car falls from a mountain near Lake Maggiore in northern Italy, killing 14 people.
-- 2017: Philippine President Rodrigo Duterte declares martial law in Mindanao, following the Maute's attack in Marawi.
-- 2016: Eight bombings are carried out by the Islamic State of Iraq and Syria in Jableh and Tartus, coastline cities in Syria. One hundred eighty-four people are killed and at least 200 people injured.
-- 2016: Two suicide bombings, conducted by the Islamic State of Iraq and Syria, kill at least 45 potential army recruits in Aden, Yemen.
-- 2015: At least 30 people are killed as a result of floods and tornadoes in Texas, Oklahoma, and northern Mexico.
-- 2014: Seven people, including the perpetrator, are killed and another 14 injured in a killing spree near the campus of University of California, Santa Barbara.
-- 2013: A freeway bridge carrying Interstate 5 over the Skagit River collapses in Mount Vernon, Washington.
-- 2008: The International Court of Justice (ICJ) awards Middle Rocks to Malaysia and Pedra Branca (Pulau Batu Puteh) to Singapore, ending a 29-year territorial dispute between the two countries.
-- 2006: Alaskan stratovolcano Mount Cleveland erupts.
-- 2002: The "55 parties" clause of the Kyoto Protocol is reached after its ratification by Iceland.
-- 1998: The Good Friday Agreement is accepted in a referendum in Northern Ireland with roughly 75% voting yes.
-- 1995: The first version of the Java programming language is released.
-- 1992: Italy's most prominent anti-mafia judge Giovanni Falcone, his wife and three body guards are killed by the Corleonesi clan with a half-ton bomb near Capaci, Sicily. His friend and colleague Paolo Borsellino will be assassinated less than two months later, making 1992 a turning point in the history of Italian Mafia prosecutions.
-- 1991: Aeroflot Flight 8556 crashes at Pulkovo Airport, killing 13.
-- 1978: A Tupolev Tu-144 crashes near the Russian town of Yegoryevsk, killing two.
-- 1971: The Intercontinental Hotel in Bucharest opens, becoming the second-tallest building in the city.
-- 1971: Seventy-eight people are killed when Aviogenex Flight 130 crashes on approach to Rijeka Airport in present-day Rijeka, Croatia (then the Socialist Federal Republic of Yugoslavia).
-- 1960: A tsunami caused by an earthquake in Chile the previous day kills 61 people in Hilo, Hawaii.
-- 1951: Tibetans sign the Seventeen Point Agreement with China.
-- 1949: Cold War: The Western occupying powers approve the Basic Law and establish a new German state, the Federal Republic of Germany.
-- 1948: Thomas C. Wasson, the US Consul-General, is assassinated in Jerusalem, Israel.
-- 1946: The start of a two-day tornado outbreak across the Central United States that spawned at least 15 significant tornadoes.
-- 1945: World War II: Germany's Flensburg Government under Karl Dönitz is dissolved when its members are arrested by British forces.
-- 1945: World War II: Heinrich Himmler, head of the Schutzstaffel, commits suicide while in Allied custody.
-- 1941: World War II: German paratroopers start a series of mass executions of Greek civilians in Missiria for their participation in the ongoing Battle of Crete.
-- 1939: The U.S. Navy submarine USS Squalus sinks off the coast of New Hampshire during a test dive, causing the death of 24 sailors and two civilian technicians. The remaining 32 sailors and one civilian naval architect are rescued the following day.
-- 1934: The Auto-Lite strike culminates in the "Battle of Toledo", a five-day melée between 1,300 troops of the Ohio National Guard and 6,000 picketers.
-- 1934: American bank robbers Bonnie and Clyde are ambushed by police and killed in Bienville Parish, Louisiana.
+- 2022: A mass shooting occurs at Robb Elementary School in Uvalde, Texas, United States, resulting in the deaths of 21 people, including 19 children.
+- 2019: Under pressure over her handling of Brexit, British Prime Minister Theresa May announces her resignation as Leader of the Conservative Party, effective as of June 7.
+- 2019: Twenty-two students die in a fire in Surat (India).
+- 2014: At least three people are killed in a shooting at Brussels' Jewish Museum of Belgium.
+- 2014: A 6.4 magnitude earthquake occurs in the Aegean Sea between Greece and Turkey, injuring 324 people.
+- 2002: Russia and the United States sign the Moscow Treaty.
+- 2000: Israeli troops withdraw from southern Lebanon after 22 years of occupation.
+- 1999: The International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands indicts Slobodan Milošević and four others for war crimes and crimes against humanity committed in Kosovo.
+- 1995: While attempting to return to Leeds Bradford Airport in the United Kingdom, Knight Air Flight 816 crashes in Dunkeswick, North Yorkshire, killing all 12 people on board.
+- 1994: Four men are convicted of bombing the World Trade Center in New York in 1993; each one is sentenced to 240 years in prison.
+- 1993: Roman Catholic Cardinal Juan Jesús Posadas Ocampo and five other people are assassinated in a shootout at Miguel Hidalgo y Costilla Guadalajara International Airport in Mexico.
+- 1993: Eritrea gains its independence from Ethiopia.
+- 1992: The ethnic cleansing in Kozarac, Bosnia and Herzegovina begins when Serbian militia and police forces enter the town.
+- 1992: The last Thai dictator, General Suchinda Kraprayoon, resigns following pro-democracy protests.
+- 1991: Israel conducts Operation Solomon, evacuating Ethiopian Jews to Israel.
+- 1988: Section 28 of the United Kingdom's Local Government Act 1988, a controversial amendment stating that a local authority cannot intentionally promote homosexuality, is enacted.
+- 1982: Liberation of Khorramshahr: Iranians recapture of the port city of Khorramshahr from the Iraqis during the Iran-Iraq War.
+- 1981: Ecuadorian president Jaime Roldós Aguilera, his wife, and his presidential committee die in an aircraft accident while travelling from Quito to Zapotillo minutes after the president gave a famous speech regarding the 24 de mayo anniversary of the Battle of Pichincha.
+- 1976: The Judgment of Paris takes place in France, launching California as a worldwide force in the production of quality wine.
+- 1967: Belle de Jour, directed by Luis Buñuel, is released.
+- 1967: Egypt imposes a blockade and siege of the Red Sea coast of Israel.
+- 1962: Project Mercury: American astronaut Scott Carpenter orbits the Earth three times in the Aurora 7 space capsule.
+- 1961: American civil rights movement: Freedom Riders are arrested in Jackson, Mississippi, for "disturbing the peace" after disembarking from their bus.
+- 1960: Following the 1960 Valdivia earthquake, the largest ever recorded earthquake, Cordón Caulle begins to erupt.
+- 1958: United Press International is formed through a merger of the United Press and the International News Service.
+- 1956: The first Eurovision Song Contest is held in Lugano, Switzerland.
+- 1948: Arab-Israeli War: Egypt captures the Israeli kibbutz of Yad Mordechai, but the five-day effort gives Israeli forces time to prepare enough to stop the Egyptian advance a week later.
+- 1944: Congress of Përmet occurs which establishes a provisional government in Albania in areas under partisan control, the first independent Albanian government since 1939. In honor of this the national emblem of Albania inscribed this date from 1946 until 1992.
+- 1944: Börse Berlin building burns down after being hit in an air raid during World War II.
+- 1941: World War II: Battle of the Atlantic: In the Battle of the Denmark Strait, the German battleship Bismarck sinks the pride of the Royal Navy, HMS Hood, killing all but three crewmen.
 
 Data from muffinlabs
-*(Updated at: 2026-05-23 03:36:42 UTC)*
+*(Updated at: 2026-05-24 03:58:29 UTC)*
 
 # 历史上的今天 
 
-- - 2022年：澳大利亚工党的安东尼·艾博尼斯在赢得2022年澳大利亚联邦大选后宣誓就任澳大利亚第31任总理，结束了9年的保守派统治。
-- - 2021 年：白俄罗斯当局强迫瑞安航空 4978 号航班降落以拘留持不同政见记者罗曼·普罗塔塞维奇。
-- - 2021 年：一辆缆车从意大利北部马焦雷湖附近的山上坠落，造成 14 人死亡。
-- - 2017 年：毛特人在马拉维发动袭击后，菲律宾总统罗德里戈·杜特尔特宣布在棉兰老岛实行戒严。
-- - 2016年：伊拉克和叙利亚伊斯兰国在叙利亚沿海城市贾布莱和塔尔图斯制造了八起爆炸事件。一百八十四人死亡，至少 200 人受伤。
-- - 2016 年：伊拉克和叙利亚伊斯兰国制造的两起自杀式爆炸事件在也门亚丁造成至少 45 名潜在入伍人员死亡。
-- - 2015 年：德克萨斯州、俄克拉荷马州和墨西哥北部的洪水和龙卷风造成至少 30 人死亡。
-- - 2014年：加州大学圣塔芭芭拉分校校园附近发生疯狂杀戮，造成包括肇事者在内的7人死亡，另有14人受伤。
-- - 2013 年：华盛顿州弗农山的斯卡吉特河上一座承载 5 号州际公路的高速公路桥倒塌。
-- - 2008年：国际法院（ICJ）将中岩礁判给马来西亚，将白礁岛判给新加坡，结束了两国之间长达29年的领土争端。
-- - 2006 年：阿拉斯加的成层火山克利夫兰火山爆发。
-- - 2002年：《京都议定书》的“55个缔约方”条款在冰岛批准后达成。
-- - 1998 年：北爱尔兰的全民公投中接受了《耶稣受难日协议》，大约 75% 的人投了赞成票。
-- - 1995 年：Java 编程语言的第一个版本发布。
-- - 1992 年：意大利最著名的反黑手党法官乔瓦尼·法尔科内、他的妻子和三名保镖在西西里岛卡帕奇附近被科里昂内西家族用半吨炸弹炸死。不到两个月后，他的朋友兼同事保罗·博尔塞利诺 (Paolo Borsellino) 将被暗杀，这使得 1992 年成为意大利黑手党起诉历史上的转折点。
-- - 1991 年：俄罗斯航空公司 8556 号航班在普尔科沃机场坠毁，造成 13 人死亡。
-- - 1978 年：一架图波列夫 Tu-144 在俄罗斯城镇叶戈里耶夫斯克附近坠毁，造成两人死亡。
-- - 1971 年：布加勒​​斯特洲际酒店开业，成为该市第二高的建筑。
-- - 1971 年：Aviogenex 130 号航班在飞往今克罗地亚里耶卡（当时的南斯拉夫社会主义联邦共和国）里耶卡机场时坠毁，造成 78 人死亡。
-- - 1960 年：前一天智利地震引发的海啸在夏威夷希洛造成 61 人死亡。
-- - 1951年：西藏与中国签署《十七点协议》。
-- - 1949年：冷战：西方占领国批准《基本法》并建立一个新的德国国家——德意志联邦共和国。
-- - 1948 年：美国总领事托马斯·C·沃森 (Thomas C. Wasson) 在以色列耶路撒冷被暗杀。
-- - 1946 年：美国中部地区开始爆发为期两天的龙卷风，并引发了至少 15 场严重龙卷风。
-- - 1945 年：第二次世界大战：卡尔·邓尼茨领导下的德国弗伦斯堡政府因其成员被英国军队逮捕而解散。
-- - 1945 年：第二次世界大战：党卫队首领海因里希·希姆莱在盟军拘留期间自杀。
-- - 1941 年：第二次世界大战：德国伞兵在米西里亚开始对参加正在进行的克里特岛战役的希腊平民进行一系列大规模处决。
-- - 1939 年：美国海军潜艇 Squalus 在新罕布什尔州海岸试潜时沉没，造成 24 名水手和两名文职技术人员死亡。其余 32 名水手和一名平民海军建筑师于第二天获救。
-- - 1934 年：Auto-Lite 罢工在“托莱多之战”中达到顶峰，这是一场 1,300 名俄亥俄州国民警卫队士兵和 6,000 名纠察队之间为期五天的混战。
-- - 1934 年：美国银行劫匪邦妮和克莱德在路易斯安那州比恩维尔教区遭到警察伏击并被杀。
+- - 2022年：美国德克萨斯州尤瓦尔迪市罗布小学发生大规模枪击事件，造成21人死亡，其中包括19名儿童。
+- - 2019年：英国首相特雷莎·梅迫于处理脱欧问题的压力，宣布辞去保守党领袖职务，自6月7日起生效。
+- - 2019 年：22 名学生在苏拉特（印度）的一场火灾中丧生。
+- - 2014 年：比利时布鲁塞尔犹太博物馆发生枪击事件，造成至少三人死亡。
+- - 2014年：希腊和土耳其之间的爱琴海发生6.4级地震，造成324人受伤。
+- - 2002年：俄罗斯和美国签署莫斯科条约。
+- - 2000 年：以色列军队在占领黎巴嫩南部 22 年后撤出。
+- - 1999年：位于荷兰海牙的前南斯拉夫问题国际刑事法庭起诉斯洛博丹·米洛舍维奇和其他四人，罪名是在科索沃犯下战争罪和危害人类罪。
+- - 1995 年：在试图返回英国利兹布拉德福德机场时，骑士航空 816 号航班在北约克郡邓克斯威克坠毁，机上 12 人全部遇难。
+- - 1994 年：四名男子因 1993 年轰炸纽约世贸中心而被定罪；每人均被判处 240 年监禁。
+- - 1993 年：罗马天主教红衣主教胡安·赫苏斯·波萨达斯·奥坎波和其他五人在墨西哥米格尔·伊达尔戈·科斯蒂利亚·瓜达拉哈拉国际机场的枪战中被暗杀。
+- - 1993 年：厄立特里亚从埃塞俄比亚独立。
+- - 1992年：塞尔维亚民兵和警察部队进入波斯尼亚和黑塞哥维那科扎拉茨镇后，种族清洗开始。
+- - 1992 年：泰国最后一位独裁者苏钦达·克拉帕尤 (Suchinda Kraraprayoon) 将军在支持民主的抗议活动后辞职。
+- - 1991 年：以色列实施所罗门行动，将埃塞俄比亚犹太人疏散到以色列。
+- - 1988 年：英国《1988 年地方政府法》第 28 条颁布，这是一项有争议的修正案，规定地方当局不得故意宣扬同性恋。
+- - 1982 年：霍拉姆沙赫尔的解放：两伊战争期间，伊朗人从伊拉克人手中夺回了港口城市霍拉姆沙赫尔。
+- - 1981 年：厄瓜多尔总统海梅·罗尔多斯·阿奎莱拉、他的妻子和他的总统委员会在从基多飞往萨波蒂略的途中死于飞机事故，几分钟后总统就皮钦查战役 24 周年发表了著名演讲。
+- - 1976 年：巴黎审判在法国举行，使加州成为全球优质葡萄酒生产的力量。
+- - 1967 年：路易斯·布努埃尔执导的《白日美人》上映。
+- - 1967年：埃及对以色列红海沿岸实施封锁和围困。
+- - 1962 年：水星计划：美国宇航员斯科特·卡彭特 (Scott Carpenter) 乘坐极光 7 号太空舱绕地球三圈。
+- - 1961 年：美国民权运动：自由乘车者在密西西比州杰克逊下车后因“扰乱治安”而被捕。
+- - 1960 年：继 1960 年瓦尔迪维亚地震（有记录以来最大的地震）之后，Cordón Caulle 开始喷发。
+- - 1958 年：合众社国际社 (United Press International) 由合众社 (United Press) 和国际新闻社 (International News Service) 合并而成。
+- - 1956年：第一届欧洲歌唱大赛在瑞士卢加诺举行。
+- - 1948 年：阿以战争：埃及占领了以色列的亚德莫迪凯基布兹，但五天的努力让以色列军队有足够的时间做好准备，以阻止埃及一周后的进攻。
+- - 1944 年：佩尔梅特大会召开，在党派控制的地区建立了阿尔巴尼亚临时政府，这是自 1939 年以来第一个独立的阿尔巴尼亚政府。为了纪念这一点，阿尔巴尼亚国徽从 1946 年到 1992 年都刻有这一日期。
+- - 1944 年：第二次世界大战期间，柏林交易所大楼在空袭中被烧毁。
+- - 1941 年：第二次世界大战：大西洋海战：在丹麦海峡海战中，德国战列舰俾斯麦号击沉了英国皇家海军的骄傲胡德号，除三名船员外，其余人员全部遇难。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-05-23 03:36:42 UTC）*
+*（更新于: 2026-05-24 03:58:29 UTC）*
