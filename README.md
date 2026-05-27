@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: 65 people are injured when a car rams into a crowd on Water Street, near Liverpool F.C.'s Premier League trophy parade.
-- 2021: Ten people are killed in a shooting at a VTA rail yard in San Jose, California, United States.
-- 2020: Protests triggered by the murder of George Floyd erupt in Minneapolis-Saint Paul, later becoming widespread across the United States and around the world.
-- 2014: Narendra Modi takes oath as the 15th Prime Minister of India.
-- 2008: Severe flooding begins in eastern and southern China that will ultimately cause 148 deaths and force the evacuation of 1.3 million.
-- 2003: Ukrainian-Mediterranean Airlines Flight 4230 crashes in the Turkish town of Maçka, killing 75.
-- 2002: The tugboat Robert Y. Love collides with a support pier of Interstate 40 on the Arkansas River near Webbers Falls, Oklahoma, resulting in 14 deaths and 11 others injured.
-- 1998: A MIAT Mongolian Airlines Harbin Y-12 crashes near Erdenet, Orkhon Province, Mongolia, resulting in 28 deaths.
-- 1998: The first "National Sorry Day" is held in Australia. Reconciliation events are held nationally, and attended by over a million people.
-- 1998: The Supreme Court of the United States rules in New Jersey v. New York that Ellis Island, the historic gateway for millions of immigrants, is mainly in the state of New Jersey, not New York.
-- 1991: Lauda Air Flight 004 breaks apart in mid-air and crashes in the Phu Toei National Park in the Suphan Buri province of Thailand, killing all 223 people on board.
-- 1991: Zviad Gamsakhurdia becomes the first elected President of the Republic of Georgia in the post-Soviet era.
-- 1986: The European Community adopts the European flag.
-- 1983: The 7.8 Mw  Sea of Japan earthquake shakes northern Honshu with a maximum Mercalli intensity of VIII (Severe). A destructive tsunami is generated that leaves about 100 people dead.
-- 1981: An EA-6B Prowler crashes on the flight deck of the aircraft carrier USS Nimitz, killing 14 crewmen and injuring 45 others.
-- 1981: Italian Prime Minister Arnaldo Forlani and his coalition cabinet resign following a scandal over membership of the pseudo-masonic lodge P2 (Propaganda Due).
-- 1972: Cold War: The United States and the Soviet Union sign the Anti-Ballistic Missile Treaty.
-- 1971: Bangladesh Liberation War: The Pakistan Army slaughters at least 71 Hindus in Burunga, Sylhet, Bangladesh.
-- 1970: The Soviet Tupolev Tu-144 becomes the first commercial transport to exceed Mach 2.
-- 1969: Apollo program: Apollo 10 returns to Earth after a successful eight-day test of all the components needed for the forthcoming first crewed Moon landing.
-- 1968: H-dagurinn in Iceland: Traffic changes from driving on the left to driving on the right overnight.
-- 1967: The Beatles' album Sgt. Pepper's Lonely Hearts Club Band is released.
-- 1966: British Guiana gains independence, becoming Guyana.
-- 1948: The U.S. Congress passes Public Law 80-557, which permanently establishes the Civil Air Patrol as an auxiliary of the United States Air Force.
-- 1942: World War II: The Battle of Gazala begins, in present-day Libya.
-- 1940: World War II: The Siege of Calais ends with the surrender of the British and French garrison.
-- 1940: World War II: Operation Dynamo: In northern France, Allied forces begin a massive evacuation from Dunkirk, France. The Battle of Dunkirk begins simultaneously as Allied defenders fight to slow down the German offensive.
-- 1938: In the United States, the House Un-American Activities Committee begins its first session.
-- 1937: Walter Reuther and members of the United Auto Workers (UAW) clash with Ford Motor Company security guards at the River Rouge Complex in Dearborn, Michigan, during the Battle of the Overpass.
-- 1936: In the House of Commons of Northern Ireland, Tommy Henderson begins speaking on the Appropriation bill. By the time he sits down in the early hours of the following morning, he had spoken for ten hours.
+- 2018: Maryland Flood Event: A flood occurs throughout the Patapsco Valley, causing one death, destroying the entire first floors of buildings on Main Street in Ellicott City, and causing cars to overturn.
+- 2017: Andrew Scheer takes over after Rona Ambrose as the leader of the Conservative Party of Canada.
+- 2016: Barack Obama is the first president of the United States to visit Hiroshima Peace Memorial Park and meet Hibakusha.
+- 2014: The football club Kerala Blasters FC and its first supporters' group Manjappada are formed.
+- 2006: The 6.4 Mw  Yogyakarta earthquake shakes central Java with an MSK intensity of VIII (Damaging), leaving more than 5,700 dead and 37,000 injured.
+- 2001: Members of Abu Sayyaf, an Islamist separatist group, seize twenty hostages from an affluent island resort on Palawan in the Philippines; the hostage crisis would not be resolved until June 2002.
+- 1999: Space Shuttle Discovery is launched on STS-96, the first shuttle mission to dock with the International Space Station.
+- 1998: Oklahoma City bombing: Michael Fortier is sentenced to 12 years in prison and fined $200,000 for failing to warn authorities about the terrorist plot.
+- 1997: The 1997 Central Texas tornado outbreak occurs, spawning multiple tornadoes in Central Texas, including the F5 that killed 27 in Jarrell.
+- 1996: First Chechen War: Russian president Boris Yeltsin meets with Chechen rebels for the first time and negotiates a cease-fire.
+- 1988: Somaliland War of Independence: The Somali National Movement launches a major offensive against Somali government forces in Hargeisa and Burao, then the second- and third-largest cities of Somalia.
+- 1984: The Danube-Black Sea Canal is opened, in a ceremony attended by the Ceaușescus. It had been under construction since the 1950s.
+- 1980: The Gwangju Massacre: Airborne and army troops of South Korea retake the city of Gwangju from civil militias, killing at least 207 and possibly many more.
+- 1977: A plane crash at José Martí International Airport in Havana, Cuba, kills 67.
+- 1975: Dibbles Bridge coach crash near Grassington, in North Yorkshire, England, kills 33 - the highest ever death toll in a road accident in the United Kingdom.
+- 1971: Pakistani forces massacre over 200 civilians, mostly Bengali Hindus, in the Bagbati massacre.
+- 1971: The Dahlerau train disaster, the worst railway accident in West Germany, kills 46 people and injures 25 near Wuppertal.
+- 1967: The U.S. Navy aircraft carrier USS John F. Kennedy is launched by Jacqueline Kennedy and her daughter Caroline.
+- 1967: Australians vote in favor of a constitutional referendum granting the Australian government the power to make laws to benefit Indigenous Australians and to count them in the national census.
+- 1965: Vietnam War: American warships begin the first bombardment of National Liberation Front targets within South Vietnam.
+- 1962: The Centralia mine fire is ignited in the town's landfill above a coal mine.
+- 1960: In Turkey, a military coup removes President Celâl Bayar and the rest of the democratic government from office.
+- 1958: First flight of the McDonnell Douglas F-4 Phantom II.
+- 1950: The Linnanmäki amusement park is opened for the first time in Helsinki.
+- 1942: World War II: In Operation Anthropoid, Reinhard Heydrich is fatally wounded in Prague; he dies of his injuries eight days later.
+- 1941: World War II: The German battleship Bismarck is sunk in the North Atlantic, killing almost 2,100 men.
+- 1941: World War II: U.S. president Franklin D. Roosevelt proclaims an "unlimited national emergency".
+- 1940: World War II: In the Le Paradis massacre, 99 soldiers from a Royal Norfolk Regiment unit are shot after surrendering to German troops; two survive.
+- 1937: In California, the Golden Gate Bridge opens to pedestrian traffic, creating a vital link between San Francisco and Marin County, California.
+- 1935: New Deal: The Supreme Court of the United States declares the National Industrial Recovery Act to be unconstitutional in A.L.A. Schechter Poultry Corp. v. United States, (295 U.S. 495).
 
 Data from muffinlabs
-*(Updated at: 2026-05-26 03:55:45 UTC)*
+*(Updated at: 2026-05-27 04:09:21 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：利物浦足球俱乐部英超奖杯游行附近的水街，一辆汽车冲撞人群，造成 65 人受伤。
-- - 2021 年：美国加利福尼亚州圣何塞 VTA 铁路站发生枪击事件，造成 10 人死亡。
-- - 2020年：乔治·弗洛伊德被谋杀引发的抗议活动在明尼阿波利斯-圣保罗爆发，随后在美国和世界各地广泛传播。
-- - 2014 年：纳伦德拉·莫迪宣誓就任印度第 15 任总理。
-- - 2008 年：中国东部和南部发生严重洪涝，最终导致 148 人死亡，并迫使 130 万人撤离。
-- - 2003 年：乌克兰地中海航空公司 4230 号航班在土耳其小镇马奇卡坠毁，造成 75 人死亡。
-- - 2002 年：拖船 Robert Y. Love 在俄克拉荷马州韦伯斯福尔斯附近的阿肯色河上与 40 号州际公路的支撑码头相撞，造成 14 人死亡、11 人受伤。
-- - 1998年：一架蒙古航空哈尔滨Y-12飞机在蒙古鄂尔浑省额尔登特附近坠毁，造成28人死亡。
-- - 1998年：澳大利亚举办首届“全国抱歉日”。和解活动在全国范围内举行，参加人数超过一百万人。
-- - 1998年：美国最高法院在新泽西诉纽约一案中裁定，数百万移民的历史门户埃利斯岛主要位于新泽西州，而不是纽约。
-- - 1991 年：劳达航空 004 号航班在半空中解体，坠毁在泰国素攀武里府的 Phu Toei 国家公园，机上 223 人全部遇难。
-- - 1991 年：兹维亚德·加姆萨胡迪亚 (Zviad Gamsakhurdia) 成为后苏联时代第一位当选的格鲁吉亚共和国总统。
-- - 1986 年：欧洲共同体采用欧洲国旗。
-- - 1983 年：7.8 兆瓦的日本海地震震动了本州北部，最大麦卡利强度为 VIII（严重）。一场破坏性海啸造成约 100 人死亡。
-- - 1981 年：一架 EA-6B 徘徊者在尼米兹号航空母舰的飞行甲板上坠毁，造成 14 名船员死亡、45 人受伤。
-- - 1981 年：意大利总理阿纳尔多·福拉尼 (Arnaldo Forlani) 及其联合内阁因伪共济会分会 P2（Propaganda Due）会员丑闻而辞职。
-- - 1972年：冷战：美国和苏联签署反弹道导弹条约。
-- - 1971 年：孟加拉国解放战争：巴基斯坦军队在孟加拉国锡尔赫特省布隆加屠杀了至少 71 名印度教徒。
-- - 1970 年：苏联图波列夫 Tu-144 成为第一架超过 2 马赫的商业运输机。
-- - 1969 年：阿波罗计划：阿波罗 10 号在对即将首次载人登月所需的所有组件进行了为期八天的成功测试后返回地球。
-- - 1968 年：冰岛的 H-dagurinn：夜间交通从靠左行驶变为靠右行驶。
-- - 1967 年：披头士乐队的专辑《Sgt.》佩珀的孤独之心俱乐部乐队发行。
-- - 1966 年：英属圭亚那获得独立，成为圭亚那。
-- - 1948 年：美国国会通过第 80-557 号公法，永久设立民用空中巡逻队作为美国空军的辅助部门。
-- - 1942 年：第二次世界大战：加扎拉战役在今利比亚爆发。
-- - 1940 年：第二次世界大战：加莱之围以英法驻军投降而结束。
-- - 1940 年：第二次世界大战：发电机行动：在法国北部，盟军开始从法国敦刻尔克大规模撤离。敦刻尔克战役同时开始，盟军守军正在努力减缓德军的攻势。
-- - 1938 年：在美国，众议院非美活动委员会召开第一届会议。
-- - 1937 年：立交桥之战期间，沃尔特·鲁瑟 (Walter Reuther) 和美国汽车工人联合会 (UAW) 成员在密歇根州迪尔伯恩的鲁日河综合体与福特汽车公司保安发生冲突。
-- - 1936 年：汤米·亨德森在北爱尔兰下议院开始就拨款法案发表讲话。到第二天凌晨他坐下来的时候，他已经讲了十个小时了。
+- - 2018年：马里兰州洪水事件：整个帕塔普斯科山谷发生洪水，造成一人死亡，埃利科特市主街建筑物的整个一楼被毁，并导致汽车翻倒。
+- - 2017 年：安德鲁·谢尔 (Andrew Scheer) 接替罗娜·安布罗斯 (Rona Ambrose) 成为加拿大保守党领袖。
+- - 2016 年：巴拉克·奥巴马 (Barack Obama) 成为第一位访问广岛和平纪念公园并会见原爆幸存者的美国总统。
+- - 2014 年：足球俱乐部 Kerala Blasters FC 及其第一个支持者团体 Manjappada 成立。
+- - 2006 年：日惹 6.4 兆瓦地震震动爪哇中部，MSK 烈度为 VIII（破坏性），造成 5,700 多人死亡、37,000 人受伤。
+- - 2001年：伊斯兰分离主义组织阿布沙耶夫的成员从菲律宾巴拉望岛的一个富裕岛屿度假村扣押了20名人质；人质危机直到2002年6月才得到解决。
+- - 1999 年：发现号航天飞机搭乘 STS-96 升空，这是第一个与国际空间站对接的航天飞机任务。
+- - 1998 年：俄克拉荷马城爆炸案：Michael Fortier 因未能就恐怖阴谋向当局发出警告而被判处 12 年监禁并罚款 20 万美元。
+- - 1997 年：1997 年德克萨斯州中部龙卷风爆发，在德克萨斯州中部产生多场龙卷风，其中包括导致贾雷尔 (Jarrell) 27 人死亡的 F5 龙卷风。
+- - 1996年：第一次车臣战争：俄罗斯总统鲍里斯·叶利钦首次会见车臣叛军并谈判停火。
+- - 1988年：索马里兰独立战争：索马里民族运动在当时索马里第二和第三大城市哈尔格萨和布劳对索马里政府军发动大规模攻势。
+- - 1984 年：多瑙河-黑海运河开通，齐奥塞斯库出席了仪式。它自20世纪50年代以来一直在建设中。
+- - 1980 年：光州大屠杀：韩国空降兵和陆军从民兵手中夺回光州市，造成至少 207 人死亡，甚至可能还有更多人死亡。
+- - 1977 年：古巴哈瓦那何塞·马蒂国际机场发生飞机失事，造成 67 人死亡。
+- - 1975 年：英格兰北约克郡格拉辛顿附近的迪布尔斯桥 (Dibbles Bridge) 客车相撞事故造成 33 人死亡，这是英国有史以来死亡人数最高的交通事故。
+- - 1971 年：巴巴蒂大屠杀中，巴基斯坦军队屠杀了 200 多名平民，其中大部分是孟加拉印度教徒。
+- - 1971 年：达勒劳 (Dahlerau) 火车灾难是西德最严重的铁路事故，在伍珀塔尔 (Wuppertal) 附近造成 46 人死亡、25 人受伤。
+- - 1967 年：美国海军约翰·F·肯尼迪号航空母舰由杰奎琳·肯尼迪和她的女儿卡罗琳下水。
+- - 1967 年：澳大利亚人投票赞成宪法公投，赋予澳大利亚政府制定法律以造福澳大利亚原住民并将其纳入全国人口普查的权力。
+- - 1965 年：越南战争：美国军舰开始首次轰炸南越境内的民族解放阵线目标。
+- - 1962 年：森特勒利亚煤矿火灾在该镇煤矿上方的垃圾填埋场发生。
+- - 1960 年：土耳其发生军事政变，总统塞拉尔·巴亚尔 (Celâl Bayar) 和民主政府其他成员下台。
+- - 1958 年：麦道 F-4 幻影 II 首飞。
+- - 1950 年：Linnanmäki 游乐园首次在赫尔辛基开业。
+- - 1942 年：第二次世界大战：在类人猿行动中，莱因哈德·海德里希在布拉格受了致命伤；八天后他因伤重不治身亡。
+- - 1941 年：第二次世界大战：德国战列舰俾斯麦号在北大西洋沉没，造成近 2,100 人死亡。
+- - 1941 年：第二次世界大战：美国总统富兰克林·罗斯福宣布“无限的国家紧急状态”。
+- - 1940年：第二次世界大战：在天堂大屠杀中，皇家诺福克军团的99名士兵在向德军投降后被枪杀；两个幸存下来。
+- - 1937 年：在加利福尼亚州，金门大桥向行人开放，在旧金山和加利福尼亚州马林县之间建立了重要的联系。
+- - 1935 年：新政：美国最高法院宣布《国家工业复兴法案》在阿拉巴马州违宪。Schechter Poultry Corp. 诉美国，(295 U.S. 495)。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-05-26 03:55:45 UTC）*
+*（更新于: 2026-05-27 04:09:21 UTC）*
