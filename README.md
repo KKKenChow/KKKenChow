@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Tara Air Flight 197 crashes in Nepal's Mustang District, killing 22.
-- 2021: A Cessna Citation I/SP crashes into Percy Priest Lake in Tennessee, killing all six people on board, including actor Joe Lara and his wife Gwen Shamblin Lara.
-- 2020: An oil spill in Norilsk releases 17,500 tons of diesel oil into nearby rivers.
-- 2015: One World Observatory at One World Trade Center opens.
-- 2012: A 5.8-magnitude earthquake hits northern Italy near Bologna, killing at least 24 people.
-- 2008: A doublet earthquake, of combined magnitude 6.1, strikes Iceland near the town of Selfoss, injuring 30 people.
-- 2005: France rejects the Constitution of the European Union in a national referendum.
-- 2004: The National World War II Memorial is dedicated in Washington, D.C.
-- 2001: The U.S. Supreme Court rules that the disabled golfer Casey Martin can use a cart to ride in tournaments.
-- 1999: Space Shuttle Discovery completes the first docking with the International Space Station.
-- 1999: Olusegun Obasanjo takes office as President of Nigeria, the first elected and civilian head of state in Nigeria after 16 years of military rule.
-- 1993: The Miss Sarajevo beauty pageant is held in war-torn Sarajevo drawing global attention to the plight of its citizens.
-- 1990: The Congress of People's Deputies of Russia elects Boris Yeltsin as President of the Russian Soviet Federative Socialist Republic.
-- 1989: Signing of an agreement between Egypt and the United States that allows for the manufacture of F-16 Falcon parts in Egypt.
-- 1988: U.S. President Ronald Reagan begins his first visit to the Soviet Union when he arrives in Moscow for a superpower summit with the Soviet leader Mikhail Gorbachev.
-- 1985: Amputee Steve Fonyo completes cross-Canada marathon at Victoria, British Columbia, after 14 months.
-- 1985: Heysel Stadium disaster: Thirty-nine association football fans die and hundreds are injured when a dilapidated retaining wall collapses.
-- 1982: Falklands War: the British Army defeats the Argentine Army at the Battle of Goose Green.
-- 1982: Pope John Paul II becomes the first pontiff to visit Canterbury Cathedral.
-- 1974: SETA, a Finnish LGBT rights organisation, is founded in Helsinki.
-- 1973: Tom Bradley is elected the first black mayor of Los Angeles, California.
-- 1964: Having deposed them in a January coup South Vietnamese leader Nguyễn Khánh had rival Generals Trần Văn Đôn and Lê Văn Kim convicted of "lax morality".
-- 1964: The Arab League meets in East Jerusalem to discuss the Palestinian question, leading to the formation of the Palestine Liberation Organization.
-- 1962: Chinese police open fire on protesters in Yining, Xinjiang, killing at least five people and wounding a dozen others.
-- 1953: Edmund Hillary and Sherpa Tenzing Norgay become the first people to reach the summit of Mount Everest, on Tenzing Norgay's (adopted) 39th birthday.
-- 1950: The St. Roch, the first ship to circumnavigate North America, arrives in Halifax, Nova Scotia, Canada.
-- 1948: United Nations Truce Supervision Organization is founded.
-- 1947: United Airlines Flight 521 crashes at LaGuardia Airport, killing 43.
-- 1945: First combat mission of the Consolidated B-32 Dominator heavy bomber.
-- 1935: First flight of the Messerschmitt Bf 109 fighter aeroplane.
+- 2024: Donald Trump is convicted of falsifying business records in his New York trial, the first time a former President of the United States has been found guilty in a criminal case.
+- 2020: The Crew Dragon Demo-2 launches from the Kennedy Space Center, becoming the first crewed orbital spacecraft to launch from the United States since 2011 and the first commercial flight to the International Space Station.
+- 2013: Nigeria passes a law banning same-sex marriage.
+- 2012: Former Liberian president Charles Taylor is sentenced to 50 years in prison for his role in atrocities committed during the Sierra Leone Civil War.
+- 2008: TACA Flight 390 overshoots the runway at Toncontín International Airport in Tegucigalpa, Honduras and crashes, killing five people.
+- 2008: Convention on Cluster Munitions is adopted.
+- 2003: Depayin massacre: At least 70 people associated with the National League for Democracy are killed by government-sponsored mob in Burma. Aung San Suu Kyi flees the scene, but is arrested soon afterwards.
+- 1998: Nuclear Testing: Pakistan conducts an underground test in the Kharan Desert. It is reported to be a plutonium device with yield of 20kt TNT equivalent.
+- 1998: The 6.5 Mw  Afghanistan earthquake shook the Takhar Province of northern Afghanistan with a maximum Mercalli intensity of VII (Very strong), killing around 4,000-4,500.
+- 1990: Croatian Parliament is constituted after the first free, multi-party elections, today celebrated as the National Day of Croatia.
+- 1989: Tiananmen Square protests of 1989: The 10-metre high "Goddess of Democracy" statue is unveiled in Tiananmen Square by student demonstrators.
+- 1982: Cold War: Spain joins NATO.
+- 1979: Downeast Flight 46 crashes on approach to Knox County Regional Airport in Rockland, Maine, killing 17.
+- 1975: European Space Agency is established.
+- 1974: The Airbus A300 passenger aircraft first enters service.
+- 1972: In Ben Gurion Airport (at the time: Lod Airport), Israel, members of the Japanese Red Army carry out the Lod Airport massacre, killing 24 people and injuring 78 others.
+- 1972: The Angry Brigade goes on trial over a series of 25 bombings throughout the United Kingdom.
+- 1971: Mariner program: Mariner 9 is launched to map 70% of the surface, and to study temporal changes in the atmosphere and surface, of Mars.
+- 1968: Charles de Gaulle reappears publicly after his flight to Baden-Baden, West Germany, and dissolves the French National Assembly by a radio appeal. Immediately after, less than one million of his supporters march on the Champs-Élysées in Paris. This is the turning point of May 1968 events in France.
+- 1967: The Nigerian Eastern Region declares independence as the Republic of Biafra, sparking a civil war.
+- 1966: Former Congolese Prime Minister, Évariste Kimba, and several other politicians are publicly executed in Kinshasa on the orders of President Joseph Mobutu.
+- 1963: A protest against pro-Catholic discrimination during the Buddhist crisis is held outside South Vietnam's National Assembly, the first open demonstration during the eight-year presidency of Ngo Dinh Diem.
+- 1961: Viasa Flight 897 crashes after takeoff from Lisbon Airport, killing 61.
+- 1961: The long-time Dominican dictator Rafael Trujillo is assassinated in Santo Domingo, Dominican Republic.
+- 1959: The Auckland Harbour Bridge, crossing the Waitemata Harbour in Auckland, New Zealand, is officially opened by Governor-General Charles Lyttelton, 10th Viscount Cobham.
+- 1958: Memorial Day: The remains of two unidentified American servicemen, killed in action during World War II and the Korean War respectively, are buried at the Tomb of the Unknown Soldier in Arlington National Cemetery.
+- 1948: A dike along the flooding Columbia River breaks, obliterating Vanport, Oregon within minutes. Fifteen people die and tens of thousands are left homeless.
+- 1943: The Holocaust: Josef Mengele becomes chief medical officer of the Zigeunerfamilienlager (Romani family camp) at Auschwitz concentration camp.
+- 1942: World War II: One thousand British bombers launch a 90-minute attack on Cologne, Germany.
+- 1941: World War II: Manolis Glezos and Apostolos Santas climb the Athenian Acropolis and tear down the German flag.
 
 Data from muffinlabs
-*(Updated at: 2026-05-29 03:59:30 UTC)*
+*(Updated at: 2026-05-30 03:46:07 UTC)*
 
 # 历史上的今天 
 
-- - 2022 年：塔拉航空 197 号航班在尼泊尔野马区坠毁，造成 22 人死亡。
-- - 2021 年：一架塞斯纳奖状 I/SP 坠入田纳西州的珀西·普里斯特湖，机上六人全部遇难，其中包括演员乔·拉拉 (Joe Lara) 和他的妻子格温·沙姆布林·拉拉 (Gwen Shamblin Lara)。
-- - 2020 年：诺里尔斯克发生漏油事件，导致 17,500 吨柴油流入附近河流。
-- - 2015 年：世贸中心一号大楼观景台开放。
-- - 2012 年：意大利北部博洛尼亚附近发生 5.8 级地震，造成至少 24 人死亡。
-- - 2008 年：冰岛塞尔福斯镇附近发生里氏 6.1 级双重地震，造成 30 人受伤。
-- - 2005年：法国在全民公投中否决了欧盟宪法。
-- - 2004 年：国家二战纪念碑在华盛顿特区落成
-- - 2001年：美国最高法院裁定残疾高尔夫球手凯西·马丁可以使用球车参加比赛。
-- - 1999 年：发现号航天飞机完成与国际空间站的首次对接。
-- - 1999 年：奥卢塞贡·奥巴桑乔 (Olusegun Obasanjo) 就任尼日利亚总统，这是尼日利亚经过 16 年军事统治后第一位民选文职国家元首。
-- - 1993 年：萨拉热窝小姐选美比赛在饱受战争蹂躏的萨拉热窝举行，引起了全球对其公民困境的关注。
-- - 1990年：俄罗斯人民代表大会选举鲍里斯·叶利钦为俄罗斯苏维埃联邦社会主义共和国总统。
-- - 1989 年：埃及和美国签署协议，允许在埃及制造 F-16 猎鹰零部件。
-- - 1988 年：美国总统罗纳德·里根抵达莫斯科，与苏联领导人米哈伊尔·戈尔巴乔夫举行超级大国峰会，开始对苏联的首次访问。
-- - 1985 年：截肢者 Steve Fonyo 在 14 个月后在不列颠哥伦比亚省维多利亚完成了横贯加拿大的马拉松比赛。
-- - 1985 年：海瑟尔体育场灾难：破旧的挡土墙倒塌，导致 39 名足球协会球迷死亡，数百人受伤。
-- - 1982 年：马岛战争：英国军队在古斯格林战役中击败阿根廷军队。
-- - 1982 年：教皇约翰·保罗二世成为第一位参观坎特伯雷大教堂的教皇。
-- - 1974 年：芬兰 LGBT 权利组织 SETA 在赫尔辛基成立。
-- - 1973 年：汤姆·布拉德利 (Tom Bradley) 当选加利福尼亚州洛杉矶市第一位黑人市长。
-- - 1964年：南越领导人阮庆在一月政变中废黜了他们，并以“道德败坏”罪判处竞争对手陈文同将军和黎文金将军。
-- - 1964年：阿拉伯联盟在东耶路撒冷开会讨论巴勒斯坦问题，导致巴勒斯坦解放组织成立。
-- - 1962年：中国警察在新疆伊宁向抗议者开枪，造成至少五人死亡、十几人受伤。
-- - 1953 年：埃德蒙·希拉里 (Edmund Hillary) 和夏尔巴人丹增·诺尔盖 (Tenzing Norgay) 成为第一批登顶珠穆朗玛峰的人，这一天是丹增·诺尔盖 (Tenzing Norgay)（收养的）39 岁生日。
-- - 1950 年：第一艘环绕北美航行的船舶圣罗克号 (St. Roch) 抵达加拿大新斯科舍省哈利法克斯。
-- - 1948年：联合国停战监督组织成立。
-- - 1947 年：联合航空 521 号航班在拉瓜迪亚机场坠毁，造成 43 人死亡。
-- - 1945 年：Consolidated B-32 Dominator 重型轰炸机首次执行战斗任务。
-- - 1935 年：梅塞施密特 Bf 109 战斗机首次飞行。
+- - 2024 年：唐纳德·特朗普在纽约审判中被判犯有伪造商业记录罪，这是美国前总统首次在刑事案件中被判有罪。
+- - 2020 年：载人龙飞船 Demo-2 从肯尼迪航天中心发射，成为自 2011 年以来第一艘从美国发射的载人轨道航天器，也是飞往国际空间站的首次商业飞行。
+- - 2013年：尼日利亚通过一项禁止同性婚姻的法律。
+- - 2012 年：利比里亚前总统查尔斯·泰勒因在塞拉利昂内战期间犯下的暴行而被判处 50 年监禁。
+- - 2008 年：TACA 390 航班在洪都拉斯特古西加尔巴通孔廷国际机场冲出跑道并坠毁，造成 5 人死亡。
+- - 2008年：《集束弹药公约》获得通过。
+- - 2003年：德帕因大屠杀：至少70名与全国民主联盟有联系的人被缅甸政府支持的暴徒杀害。昂山素季逃离现场，但很快被捕。
+- - 1998 年：核试验：巴基斯坦在哈兰沙漠进行地下试验。据报道，这是一个产量为20kt TNT当量的钚装置。
+- - 1998 年：阿富汗北部塔哈尔省发生了 6.5 兆瓦地震，最大麦卡利强度为 VII（非常强），造成约 4,000-4,500 人死亡。
+- - 1990 年：克罗地亚议会在第一次自由、多党选举后成立，今天是克罗地亚国庆日。
+- - 1989年：1989年的天安门广场抗议活动：学生示威者在天安门广场为10米高的“民主女神”雕像揭幕。
+- - 1982 年：冷战：西班牙加入北约。
+- - 1979 年：Downeast 46 号航班在飞往缅因州罗克兰诺克斯县地区机场时坠毁，造成 17 人死亡。
+- - 1975 年：欧洲航天局成立。
+- - 1974 年：空中客车 A300 客机首次投入使用。
+- - 1972年：在以色列本古里安机场（当时：罗德机场），日本红军成员实施了罗德机场大屠杀，造成24人死亡、78人受伤。
+- - 1972 年：“愤怒旅”因在英国各地发生的 25 起系列爆炸事件而接受审判。
+- - 1971 年：水手计划：水手 9 号发射，绘制火星 70% 的表面地图，并研究火星大气和表面的时间变化。
+- - 1968 年：戴高乐飞往西德巴登巴登后再次公开露面，并通过广播呼吁解散法国国民议会。紧接着，他的不到百万支持者在巴黎香榭丽舍大街游行。这是1968年5月法国事件的转折点。
+- - 1967年：尼日利亚东部地区宣布独立，成立比夫拉共和国，引发内战。
+- - 1966 年：刚果前总理埃瓦里斯特·金巴 (Évariste Kimba) 和其他几位政客在金沙萨根据总统约瑟夫·蒙博托 (Joseph Mobutu) 的命令被公开处决。
+- - 1963年：南越国民议会外举行了针对佛教危机期间亲天主教歧视的抗议活动，这是吴庭艳担任总统八年期间的首次公开示威。
+- - 1961 年：Viasa 897 号航班从里斯本机场起飞后坠毁，造成 61 人死亡。
+- - 1961 年：多米尼加长期独裁者拉斐尔·特鲁希略在多米尼加共和国圣多明各被暗杀。
+- - 1959 年：横跨新西兰奥克兰怀特玛塔港的奥克兰海港大桥由总督查尔斯·利特尔顿 (Charles Lyttelton) 第十代科巴姆子爵正式揭幕。
+- - 1958 年：阵亡将士纪念日：分别在第二次世界大战和朝鲜战争中阵亡的两名身份不明的美国军人的遗体被埋葬在阿灵顿国家公墓的无名烈士墓中。
+- - 1948 年：洪水泛滥的哥伦比亚河沿岸的堤坝决堤，几分钟内就淹没了俄勒冈州的范波特。十五人死亡，数万人无家可归。
+- - 1943 年：大屠杀：约瑟夫·门格勒成为奥斯维辛集中营 Zigeunerfamilienlager（罗姆人家庭营）的首席医疗官。
+- - 1942 年：第二次世界大战：一千架英国轰炸机对德国科隆发动了 90 分钟的攻击。
+- - 1941 年：第二次世界大战：马诺利斯·格莱索斯 (Manolis Glezos) 和阿波斯托洛斯·桑塔斯 (Apostolos Santas) 登上雅典卫城并撕毁了德国国旗。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-05-29 03:59:30 UTC）*
+*（更新于: 2026-05-30 03:46:07 UTC）*
