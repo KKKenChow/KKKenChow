@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: A collision between two passenger trains and a parked freight train near the city of Balasor, Odisha in eastern India, results in 296 deaths and more than 1,200 people injured.
-- 2022: Following a request from Ankara, the United Nations officially changed the name of the Republic of Turkey in the organization from what was previously known as "Turkey" to "Türkiye".
-- 2014: Telangana officially becomes the 29th state of India, formed from ten districts of northwestern Andhra Pradesh.
-- 2012: Former Egyptian President Hosni Mubarak is sentenced to life imprisonment for his role in the killing of demonstrators during the 2011 Egyptian revolution.
-- 2003: Europe launches its first voyage to another planet, Mars. The European Space Agency's Mars Express probe launches from the Baikonur space center in Kazakhstan.
-- 1998: Space Shuttle Discovery is launched on STS-91, the final mission of the Shuttle-Mir program.
-- 1997: In Denver, Timothy McVeigh is convicted on 15 counts of murder and conspiracy for his role in the 1995 bombing of the Alfred P. Murrah Federal Building in Oklahoma City, in which 168 people died. He was executed four years later.
-- 1990: The Lower Ohio Valley tornado outbreak spawns 66 confirmed tornadoes in Illinois, Indiana, Kentucky, and Ohio, killing 12.
-- 1983: After an emergency landing because of an in-flight fire, twenty-three passengers aboard Air Canada Flight 797 are killed when a flashover occurs as the plane's doors open. Because of this incident, numerous new safety regulations are put in place.
-- 1979: Pope John Paul II starts his first official visit to his native Poland, becoming the first Pope to visit a Communist country.
-- 1967: Protests in West Berlin against the arrival of the Shah of Iran are brutally suppressed, during which Benno Ohnesorg is killed by a police officer. His death results in the founding of the terrorist group Movement 2 June.
-- 1967: Luis Monge is executed in Colorado's gas chamber, in the last pre-Furman execution in the United States.
-- 1966: Surveyor program: Surveyor 1 lands in Oceanus Procellarum on the Moon, becoming the first U.S. spacecraft to soft-land on another world.
-- 1964: The Palestine Liberation Organization (PLO) is formed.
-- 1962: During the FIFA World Cup, police had to intervene multiple times in fights between Chilean and Italian players in one of the most violent games in football history.
-- 1958: Aeronaves de México Flight 111 crashes on approach to Guadalajara International Airport, killing 45.
-- 1955: The USSR and Yugoslavia sign the Belgrade declaration and thus normalize relations between the two countries, discontinued since 1948.
-- 1953: The coronation of Queen Elizabeth II at Westminster Abbey becomes the first British coronation and one of the first major international events to be televised.
-- 1946: Birth of the Italian Republic: In a referendum, Italians vote to turn Italy from a monarchy into a Republic. After the referendum, King Umberto II of Italy is exiled.
-- 1941: World War II: German paratroopers murder Greek civilians in the villages of Kondomari and Alikianos.
-- 1924: U.S. President Calvin Coolidge signs the Indian Citizenship Act into law, granting citizenship to all Native Americans born within the territorial limits of the United States.
-- 1919: Anarchists simultaneously set off bombs in eight separate U.S. cities.
-- 1910: Charles Rolls, a co-founder of Rolls-Royce Limited, becomes the first man to make a non-stop double crossing of the English Channel by plane.
-- 1909: Alfred Deakin becomes Prime Minister of Australia for the third time.
-- 1896: Guglielmo Marconi applies for a patent for his wireless telegraph.
-- 1878: Nobiling assassination attempt by anarchist Karl Nobiling targeting the German Kaiser, Wilhelm I.
-- 1866: The Fenians defeat Canadian forces at Ridgeway and Fort Erie, but the raids end soon after.
-- 1848: The Slavic Congress opens in Prague.
-- 1805: Napoleonic Wars: A Franco-Spanish fleet recaptures from the British the island of Diamond Rock, which guards the entrance to the bay leading to Fort-de-France, Martinique.
-- 1793: French Revolution: François Hanriot, leader of the Parisian National Guard, arrests 22 Girondists selected by Jean-Paul Marat, setting the stage for the Reign of Terror.
+- 2025: Reconstitution of the Academy of the Distrustful in the Sala Dalmases of the Historical Archive of the City of Barcelona in Barcelona.
+- 2019: Khartoum massacre: In Sudan, over 100 people are killed when security forces accompanied by Janjaweed militiamen storm and open fire on a sit-in protest.
+- 2013: At least 119 people are killed in a fire at a poultry farm in Jilin Province in northeastern China.
+- 2013: The trial of United States Army private Chelsea Manning for leaking classified material to WikiLeaks begins in Fort Meade, Maryland.
+- 2012: The pageant for the Diamond Jubilee of Elizabeth II takes place on the River Thames.
+- 2012: A plane carrying 153 people crashes in a residential neighborhood in Lagos, Nigeria, killing everyone on board plus six people on the ground.
+- 2006: The union of Serbia and Montenegro comes to an end with Montenegro's formal declaration of independence.
+- 1998: After suffering a mechanical failure, a high speed train derails at Eschede, Germany, killing 101 people.
+- 1992: Australian Aboriginal land rights are recognised in Mabo v Queensland (No 2), a case brought by Torres Strait Islander Eddie Mabo which led to the Native Title Act 1993  overturning the long-held colonial assumption of terra nullius.
+- 1991: Mount Unzen erupts in Kyūshū, Japan, killing 43 people, all of them either researchers or journalists.
+- 1989: The government of China sends troops to force protesters out of Tiananmen Square after seven weeks of occupation.
+- 1984: Operation Blue Star, a military offensive, is launched by the Indian government at Harmandir Sahib, also known as the Golden Temple, the holiest shrine for Sikhs, in Amritsar. The operation continues until June 6, with casualties, most of them civilians, in excess of 5,000.
+- 1982: The Israeli ambassador to the United Kingdom, Shlomo Argov, is shot on a London street; he survives but is left paralysed.
+- 1980: The 1980 Grand Island tornado outbreak hits Nebraska, United States, causing five deaths and $300 million (equivalent to $1172 million in 2025) worth of damage.
+- 1979: A blowout at the Ixtoc I oil well in the southern Gulf of Mexico causes at least 3,000,000 barrels (480,000 m3) of oil to be spilled into the waters, the second-worst accidental oil spill ever recorded.
+- 1973: A Soviet supersonic Tupolev Tu-144 crashes near Goussainville, France, killing 14, the first crash of a supersonic passenger aircraft.
+- 1969: Melbourne-Evans collision: off the coast of South Vietnam, the Australian aircraft carrier HMAS Melbourne cuts the U.S. Navy destroyer USS Frank E. Evans in half; resulting in 74 deaths.
+- 1965: The launch of Gemini 4, the first multi-day space mission by a NASA crew. Ed White, a crew member, performs the first American spacewalk.
+- 1963: Soldiers of the South Vietnamese Army attack protesting Buddhists in Huế with liquid chemicals from tear-gas grenades, causing 67 people to be hospitalized for blistering of the skin and respiratory ailments.
+- 1962: At Paris Orly Airport, Air France Flight 007 overruns the runway and explodes when the crew attempts to abort takeoff, killing 130.
+- 1950: Herzog and Lachenal of the French Annapurna expedition become the first climbers to reach the summit of an 8,000-metre peak.
+- 1943: In Los Angeles, California, white U.S. Navy sailors and Marines attack Latino youths in the five-day Zoot Suit Riots.
+- 1942: World War II: Japan begins the Aleutian Islands Campaign by bombing Unalaska Island.
+- 1941: World War II: The Wehrmacht razes the Greek village of Kandanos to the ground and murders 180 of its inhabitants.
+- 1940: Franz Rademacher proposes plans to make Madagascar the "Jewish homeland", an idea that had first been considered by 19th century journalist Theodor Herzl.
+- 1940: World War II: During the Battle of France, the Luftwaffe bombs Paris.
+- 1937: The Duke of Windsor marries Wallis Simpson.
+- 1935: One thousand unemployed Canadian workers board freight cars in Vancouver, beginning a protest trek to Ottawa.
+- 1916: The National Defense Act is signed into law, increasing the size of the United States National Guard by 450,000 men.
+- 1892: Liverpool F.C. is founded by John Houlding.
 
 Data from muffinlabs
-*(Updated at: 2026-06-02 04:18:54 UTC)*
+*(Updated at: 2026-06-03 04:38:28 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：印度东部奥里萨邦巴拉索尔市附近两列客运列车与一列停泊的货运列车相撞，导致 296 人死亡、1,200 多人受伤。
-- - 2022年：根据安卡拉的要求，联合国正式将土耳其共和国在组织中的名称从以前的“土耳其”改为“Türkiye”。
-- - 2014年：特伦甘纳邦正式成为印度第29个邦，由安得拉邦西北部的10个县组成。
-- - 2012 年：埃及前总统胡斯尼·穆巴拉克因在 2011 年埃及革命期间杀害示威者而被判处无期徒刑。
-- - 2003 年：欧洲首次前往另一个星球——火星。欧洲航天局的火星快车探测器从哈萨克斯坦拜科努尔航天中心发射升空。
-- - 1998 年：发现号航天飞机搭载 STS-91 发射升空，这是和平号航天飞机计划的最后一次任务。
-- - 1997 年：在丹佛，蒂莫西·麦克维 (Timothy McVeigh) 因参与 1995 年俄克拉荷马城阿尔弗雷德·P·默拉联邦大楼爆炸案而被判犯有 15 项谋杀和共谋罪，该爆炸案造成 168 人死亡。四年后他被处决。
-- - 1990 年：俄亥俄河谷下游龙卷风爆发，在伊利诺伊州、印第安纳州、肯塔基州和俄亥俄州引发了 66 场已确认的龙卷风，造成 12 人死亡。
-- - 1983 年：加拿大航空 797 航班因机上火灾紧急着陆后，机门打开时发生闪燃，导致 23 名乘客丧生。由于这一事件，许多新的安全法规被制定。
-- - 1979年：教皇约翰·保罗二世开始对祖国波兰进行首次正式访问，成为第一位访问共产主义国家的教皇。
-- - 1967 年：西柏林反对伊朗国王到来的抗议遭到残酷镇压，期间本诺·奥内索格被一名警察杀害。他的死导致恐怖组织“6 月 2 日运动”的成立。
-- - 1967 年：路易斯·蒙日 (Luis Monge) 在科罗拉多州的毒气室中被处决，这是美国在弗曼执行之前的最后一次处决。
-- - 1966 年：测量者计划：测量者 1 号登陆月球上的海神号，成为第一艘在另一个世界软着陆的美国航天器。
-- - 1964 年：巴勒斯坦解放组织（巴解组织）成立。
-- - 1962 年：在 FIFA 世界杯期间，警察不得不多次介入智利和意大利球员之间的斗殴事件，这是足球史上最暴力的比赛之一。
-- - 1958 年：墨西哥航空公司 111 号航班在飞往瓜达拉哈拉国际机场时坠毁，造成 45 人死亡。
-- - 1955年：苏联和南斯拉夫签署贝尔格莱德宣言，实现两国关系正常化（自1948年以来中止）。
-- - 1953 年：伊丽莎白二世女王在威斯敏斯特教堂举行的加冕典礼成为英国首次加冕典礼，也是首批电视转播的重大国际活动之一。
-- - 1946 年：意大利共和国诞生：在全民公投中，意大利人投票决定将意大利从君主制转变为共和国。公投后，意大利国王翁贝托二世被流放。
-- - 1941 年：第二次世界大战：德国伞兵在 Kondomari 和 Alikianos 村庄杀害希腊平民。
-- - 1924 年：美国总统卡尔文·柯立芝签署《印第安公民法》成为法律，向所有在美国领土范围内出生的美洲原住民授予公民身份。
-- - 1919 年：无政府主义者同时在美国八个不同​​的城市引爆炸弹。
-- - 1910 年：劳斯莱斯有限公司联合创始人查尔斯·劳斯 (Charles Rolls) 成为第一个乘坐飞机不间断地双程穿越英吉利海峡的人。
-- - 1909 年：阿尔弗雷德·迪金第三次成为澳大利亚总理。
-- - 1896 年：古列尔莫·马可尼 (Guglielmo Marconi) 为他的无线电报申请了专利。
-- - 1878 年：无政府主义者卡尔·诺比林 (Karl Nobiling) 企图刺杀德国皇帝威廉一世。
-- - 1866 年：芬尼亚人在里奇韦和伊利堡击败加拿大军队，但袭击很快结束。
-- - 1848 年：斯拉夫代表大会在布拉格召开。
-- - 1805 年：拿破仑战争：法国-西班牙舰队从英国手中夺回了钻石岩岛，该岛守卫着通往马提尼克岛法兰西堡的海湾入口。
-- - 1793 年：法国大革命：巴黎国民警卫队领导人弗朗索瓦·汉里奥逮捕了让·保罗·马拉挑选的 22 名吉伦特派分子，为恐怖统治奠定了基础。
+- - 2025 年：在巴塞罗那市历史档案馆萨拉达尔马斯重建不信任学院。
+- - 2019 年：喀土穆大屠杀：在苏丹，安全部队在金戈威德民兵的陪同下对静坐抗议活动进行冲锋和开火，造成 100 多人死亡。
+- - 2013年：中国东北吉林省一家家禽养殖场发生火灾，造成至少119人死亡。
+- - 2013 年：美国陆军二等兵切尔西·曼宁 (Chelsea Manning) 因向维基解密泄露机密材料而受审，审判在马里兰州米德堡开始。
+- - 2012 年：伊丽莎白二世登基五十周年庆典在泰晤士河畔举行。
+- - 2012 年：一架载有 153 人的飞机在尼日利亚拉各斯的一个居民区坠毁，机上所有人以及地面上的 6 人全部遇难。
+- - 2006年：随着黑山正式宣布独立，塞尔维亚和黑山的联盟结束。
+- - 1998 年：一列高速列车在遭遇机械故障后在德国埃斯赫德出轨，造成 101 人死亡。
+- - 1992 年：澳大利亚原住民土地权在“马博诉昆士兰”案（第 2 号）中得到承认，该案由托雷斯海峡岛民埃迪·马博提起，导致 1993 年《原住民土地权法案》推翻了长期以来对无主地的殖民假设。
+- - 1991 年：日本九州云仙山喷发，造成 43 人死亡，其中全部是研究人员或记者。
+- - 1989 年：中国政府在占领天安门广场七周后派遣军队将抗议者赶出天安门广场。
+- - 1984 年：印度政府在阿姆利则的哈曼迪尔萨希布（又称金庙）发起军事进攻“蓝星行动”。行动持续到6月6日，伤亡人数超过5000人，其中大部分是平民。
+- - 1982 年：以色列驻英国大使什洛莫·阿尔戈夫在伦敦街头被枪杀；他活了下来，但全身瘫痪。
+- - 1980 年：1980 年格兰德岛龙卷风袭击美国内布拉斯加州，造成 5 人死亡和价值 3 亿美元（相当于 2025 年 11.72 亿美元）的损失。
+- - 1979 年：墨西哥湾南部 Ixtoc I 油井发生井喷，导致至少 3,000,000 桶（480,000 立方米）石油泄漏到水域中，这是有记录以来第二严重的意外石油泄漏事件。
+- - 1973 年：一架苏联超音速图波列夫 Tu-144 在法国古桑维尔附近坠毁，造成 14 人死亡，这是第一架超音速客机坠毁。
+- - 1969 年：墨尔本-埃文斯号相撞：在南越海岸附近，澳大利亚航空母舰墨尔本号将美国海军驱逐舰弗兰克·E·埃文斯号切成两半；导致74人死亡。
+- - 1965 年：双子座 4 号发射，这是 NASA 机组人员的首次多日太空任务。宇航员埃德·怀特（Ed White）进行了美国首次太空行走。
+- - 1963 年：南越军队士兵用催泪瓦斯手榴弹中的液体化学物质袭击顺化市抗议的佛教徒，导致 67 人因皮肤起泡和呼吸系统疾病而住院。
+- - 1962 年：在巴黎奥利机场，法航 007 号航班冲出跑道，机组人员试图中止起飞时发生爆炸，造成 130 人死亡。
+- - 1950 年：法国安纳布尔纳峰探险队的赫尔佐格和拉切纳尔成为第一批登顶 8000 米山峰的登山者。
+- - 1943 年：在加利福尼亚州洛杉矶，美国白人海军水手和海军陆战队员在为期五天的动物园服骚乱中袭击拉丁裔年轻人。
+- - 1942 年：第二次世界大战：日本通过轰炸乌纳拉斯加岛开始阿留申群岛战役。
+- - 1941 年：第二次世界大战：国防军将希腊村庄坎达诺斯夷为平地，并杀害了 180 名居民。
+- - 1940 年：弗朗兹·拉德马赫 (Franz Rademacher) 提出将马达加斯加打造为“犹太人家园”的计划，这一想法最初由 19 世纪记者西奥多·赫茨尔 (Theodor Herzl) 考虑。
+- - 1940 年：第二次世界大战：法国战役期间，德国空军轰炸巴黎。
+- - 1937 年：温莎公爵与沃利斯·辛普森结婚。
+- - 1935 年：一千名失业的加拿大工人在温哥华登上货车，开始前往渥太华的抗议活动。
+- - 1916 年：《国防法》签署成为法律，美国国民警卫队规模增加 45 万人。
+- - 1892 年：利物浦足球俱乐部由约翰·霍丁创立。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-06-02 04:18:54 UTC）*
+*（更新于: 2026-06-03 04:38:28 UTC）*
