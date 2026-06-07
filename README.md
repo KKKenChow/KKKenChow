@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: The Nintendo Switch 2 video game console is released worldwide.
-- 2024: The Boeing Starliner is launched on its first crewed flight, carrying astronauts Barry Wilmore and Sunita Williams to the International Space Station.
-- 2022: A constitutional referendum is held in Kazakhstan following violent protests and civil unrest against the government.
-- 2017: Six Arab countries—Bahrain, Egypt, Libya, Saudi Arabia, Yemen, and the United Arab Emirates—cut diplomatic ties with Qatar, accusing it of destabilising the region.
-- 2017: Montenegro becomes the 29th member of NATO.
-- 2016: Two shootings in Aktobe, Kazakhstan, kill six people.
-- 2015: An earthquake with a moment magnitude of 6.0 strikes Ranau, Sabah, Malaysia, killing 18 people, including hikers and mountain guides on Mount Kinabalu, after mass landslides that occurred during the earthquake. This is the strongest earthquake to strike Malaysia since 1975.
-- 2012: Last transit of Venus until the year 2117.
-- 2009: A fire at a day-care center kills 49 people in Hermosillo, Mexico.
-- 2009: After 65 straight days of civil disobedience, at least 31 people are killed in clashes between security forces and indigenous people near Bagua, Peru.
-- 2006: Serbia declares independence from the State Union of Serbia and Montenegro.
-- 2004: Noël Mamère, Mayor of Bègles, celebrates marriage for two men for the first time in France.
-- 2003: A severe heat wave across Pakistan and India reaches its peak, as temperatures exceed 50 °C (122 °F) in the region.
-- 2002: Space Shuttle Endeavour launches on STS-111, carrying the Expedition 5 crew to the International Space Station to replace the Expedition 4 crew. Astronaut Franklin Chang-Díaz becomes the second person to have flown on seven spaceflights.
-- 2001: Tropical Storm Allison makes landfall on the upper-Texas coastline as a strong tropical storm and dumps large amounts of rain over Houston. The storm causes $5.5 billion in damages, making Allison the second costliest tropical storm in U.S. history.
-- 2000: The Six-Day War in Kisangani begins in Kisangani, in the Democratic Republic of the Congo, between Ugandan and Rwandan forces. A large part of the city is destroyed.
-- 1998: A strike begins at the General Motors parts factory in Flint, Michigan, that quickly spreads to five other assembly plants. The strike lasts seven weeks.
-- 1997: The Second Republic of the Congo Civil War begins.
-- 1995: The Bose-Einstein condensate is first created.
-- 1993: Portions of the Holbeck Hall Hotel in Scarborough, North Yorkshire, UK, fall into the sea following a landslide.
-- 1991: Space Shuttle Columbia is launched on STS-40, the fifth spacelab mission.
-- 1989: The Tank Man halts the progress of a column of advancing tanks for over half an hour after the Tiananmen Square protests of 1989.
-- 1984: Operation Blue Star: Under orders from India's prime minister, Indira Gandhi, the Indian Army begins an invasion of the Golden Temple, the holiest site of the Sikh religion.
-- 1983: More than 100 people are killed when the Russian river cruise ship Aleksandr Suvorov collides with a girder of the Ulyanovsk Railway Bridge. The collision caused a freight train to derail, further damaging the vessel, yet the ship remained afloat and was eventually restored and returned to service.
-- 1981: The Morbidity and Mortality Weekly Report of the Centers for Disease Control and Prevention reports that five people in Los Angeles, California, have a rare form of pneumonia seen only in patients with weakened immune systems, in what turns out to be the first recognized cases of AIDS.
-- 1976: The Teton Dam in Idaho, United States, collapses. Eleven people are killed as a result of flooding.
-- 1975: The United Kingdom holds its first country-wide referendum on membership of the European Economic Community (EEC).
-- 1975: The Suez Canal opens for the first time since the Six-Day War.
-- 1968: Presidential candidate Robert F. Kennedy is assassinated by Sirhan Sirhan.
-- 1967: The Six-Day War begins: Israel launches surprise strikes against Egyptian air-fields in response to the mobilisation of Egyptian forces on the Israeli border.
+- 2017: A Myanmar Air Force Shaanxi Y-8 crashes into the Andaman Sea near Dawei, Myanmar, killing all 122 aboard.
+- 2000: The United Nations defines the Blue Line as the border between Israel and Lebanon.
+- 1991: Mount Pinatubo erupts, generating an ash column 7 kilometres (4.3 mi) high.
+- 1989: Surinam Airways Flight 764 crashes on approach to Paramaribo-Zanderij International Airport in Suriname because of pilot error, killing 176 of 187 aboard.
+- 1982: Priscilla Presley opens Graceland to the public; the bathroom where Elvis Presley died five years earlier is kept off-limits.
+- 1981: The Israeli Air Force destroys Iraq's Osiraq nuclear reactor during Operation Opera.
+- 1977: Five hundred million people watch the high day of the Silver Jubilee of Queen Elizabeth II begin on television.
+- 1975: Sony launches Betamax, the first videocassette recorder format.
+- 1971: Allegheny Airlines Flight 485 crashes on approach to Tweed New Haven Airport in New Haven, Connecticut, killing 28 of 31 aboard.
+- 1971: The Alcohol, Tobacco, and Firearms Division of the U.S. Internal Revenue Service raids the home of Ken Ballew for illegal possession of hand grenades.
+- 1971: The United States Supreme Court overturns the conviction of Paul Cohen for disturbing the peace, setting the precedent that vulgar writing is protected under the First Amendment to the United States Constitution.
+- 1967: Six-Day War: Israeli soldiers enter Jerusalem.
+- 1965: The Supreme Court of the United States hands down its decision in Griswold v. Connecticut, prohibiting the states from criminalizing the use of contraception by married couples.
+- 1962: The Organisation Armée Secrète (OAS) sets fire to the University of Algiers library building, destroying about 500,000 books.
+- 1955: Lux Radio Theatre signs off the air permanently. The show launched in New York in 1934, and featured radio adaptations of Broadway shows and popular films.
+- 1948: Edvard Beneš resigns as President of Czechoslovakia rather than signing the Ninth-of-May Constitution, making his nation a Communist state.
+- 1948: Anti-Jewish riots in Oujda and Jerada take place.
+- 1946: The United Kingdom's BBC returns to broadcasting its television service, which has been off air for seven years because of World War II.
+- 1945: King Haakon VII of Norway returns from exactly five years in exile during World War II.
+- 1944: World War II: Battle of Normandy: At Ardenne Abbey, members of the SS Division Hitlerjugend massacre 23 Canadian prisoners of war.
+- 1942: World War II: Aleutian Islands Campaign: Imperial Japanese soldiers begin occupying the American islands of Attu and Kiska, in the Aleutian Islands off Alaska.
+- 1942: World War II: The Battle of Midway ends in American victory.
+- 1940: King Haakon VII, Crown Prince Olav and the Norwegian government leave Tromsø and go into exile in London. They return exactly five years later.
+- 1938: Second Sino-Japanese War: The Chinese Nationalist government creates the 1938 Yellow River flood to halt Japanese forces. Five hundred thousand to nine hundred thousand civilians are killed.
+- 1938: The Douglas DC-4E makes its first test flight.
+- 1929: The Lateran Treaty is ratified, bringing Vatican City into existence.
+- 1919: Sette Giugno: Nationalist riots break out in Valletta, the capital of Malta. British soldiers fire into the crowd, killing four people.
+- 1917: World War I: Battle of Messines: Allied soldiers detonate a series of mines underneath German trenches at Messines Ridge, killing 10,000 German troops.
+- 1906: Cunard Line's RMS Lusitania is launched from the John Brown Shipyard, Glasgow (Clydebank), Scotland.
+- 1905: Norway's parliament dissolves its union with Sweden. The vote was confirmed by a national plebiscite on August 13 of that year.
 
 Data from muffinlabs
-*(Updated at: 2026-06-05 04:06:23 UTC)*
+*(Updated at: 2026-06-07 04:16:40 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：Nintendo Switch 2 视频游戏机在全球发布。
-- - 2024 年：波音 Starliner 进行首次载人飞行，搭载宇航员巴里·威尔莫尔 (Barry Wilmore) 和苏尼塔·威廉姆斯 (Sunita Williams) 前往国际空间站。
-- - 2022年：在针对政府的暴力抗议和内乱之后，哈萨克斯坦举行宪法公投。
-- - 2017年：六个阿拉伯国家——巴林、埃及、利比亚、沙特阿拉伯、也门和阿拉伯联合酋长国——与卡塔尔断交，指责卡塔尔破坏该地区稳定。
-- - 2017年：黑山成为北约第29个成员国。
-- - 2016年：哈萨克斯坦阿克托比发生两起枪击事件，造成六人死亡。
-- - 2015年：马来西亚沙巴州拉瑙市发生里氏6.0级地震，地震期间发生大规模山体滑坡，造成18人死亡，其中包括基纳巴卢山的徒步旅行者和登山向导。这是自 1975 年以来马来西亚发生的最强烈地震。
-- - 2012 年：2117 年之前最后一次金星凌日。
-- - 2009 年：墨西哥埃莫西约一家日托中心发生火灾，造成 49 人死亡。
-- - 2009 年：在连续 65 天的非暴力反抗之后，秘鲁巴瓜附近安全部队与原住民之间的冲突造成至少 31 人死亡。
-- - 2006年：塞尔维亚宣布从塞尔维亚和黑山国家联盟独立。
-- - 2004 年：贝格勒市长 Noël Mamère 首次在法国庆祝两名男子结婚。
-- - 2003 年：席卷巴基斯坦和印度的严重热浪达到顶峰，该地区气温超过 50 °C (122 °F)。
-- - 2002 年：奋进号航天飞机在 STS-111 上发射，将远征 5 号机组人员运送到国际空间站，以取代远征 4 号机组人员。宇航员富兰克林·张迪亚兹成为第二位完成七次太空飞行的人。
-- - 2001 年：热带风暴艾利森以强热带风暴的形式登陆德克萨斯州上部海岸线，给休斯敦带来大量降雨。这场风暴造成了 55 亿美元的损失，使艾里森成为美国历史上损失第二大的热带风暴。
-- - 2000年：乌干达和卢旺达军队在刚果民主共和国基桑加尼爆发了为期六天的基桑加尼战争。城市的很大一部分被毁。
-- - 1998 年：密歇根州弗林特的通用汽车零部件工厂开始罢工，罢工迅速蔓延到其他五个装配厂。罢工持续七周。
-- - 1997 年：第二次刚果共和国内战开始。
-- - 1995 年：首次创建玻色-爱因斯坦凝聚态。
-- - 1993 年：英国北约克郡斯卡伯勒的 Holbeck Hall 酒店的部分设施因山体滑坡落入大海。
-- - 1991 年：哥伦比亚号航天飞机执行第五次太空实验室任务 STS-40 发射升空。
-- - 1989 年：1989 年天安门广场抗议活动后，坦克人使一队前进的坦克停止了半个多小时。
-- - 1984 年：蓝星行动：根据印度总理英迪拉·甘地的命令，印度军队开始入侵锡克教圣地金庙。
-- - 1983 年：俄罗斯内河游轮亚历山大·苏沃洛夫 (Aleksandr Suvorov) 与乌里扬诺夫斯克铁路桥的大梁相撞，造成 100 多人死亡。碰撞导致货运列车脱轨，进一步损坏了船只，但该船仍漂浮在水面上，最终被修复并重新投入使用。
-- - 1981 年：美国疾病控制与预防中心的发病率和死亡率周报报告称，加利福尼亚州洛杉矶有 5 人患有一种罕见的肺炎，这种肺炎只出现在免疫系统较弱的患者身上，这也是首例公认的艾滋病病例。
-- - 1976 年：美国爱达荷州的提顿大坝倒塌。洪水导致 11 人死亡。
-- - 1975 年：英国就欧洲经济共同体 (EEC) 成员身份举行首次全国性公投。
-- - 1975 年：苏伊士运河自六日战争以来首次开通。
-- - 1968 年：总统候选人罗伯特·F·肯尼迪被 Sirhan Sirhan 刺杀。
-- - 1967 年：六日战争开始：以色列对埃及机场发动突然袭击，以回应埃及军队在以色列边境的动员。
+- - 2017 年：缅甸空军一架陕西 Y-8 在缅甸土瓦附近坠入安达曼海，机上 122 人全部遇难。
+- - 2000年：联合国将蓝线定义为以色列和黎巴嫩之间的边界。
+- - 1991 年：皮纳图博火山喷发，产生 7 公里（4.3 英里）高的火山灰柱。
+- - 1989 年：苏里南航空 764 号航班在飞往苏里南帕拉马里博-赞德杰国际机场时因飞行员失误坠毁，机上 187 人中的 176 人丧生。
+- - 1982 年：普丽西拉·普雷斯利 (Priscilla Presley) 向公众开放格雷斯兰 (Graceland)；五年前埃尔维斯·普雷斯利去世的浴室被禁止进入。
+- - 1981 年：以色列空军在歌剧行动中摧毁了伊拉克的奥伊拉克核反应堆。
+- - 1977 年：五亿人在电视上观看了伊丽莎白二世女王登基五十周年的盛大日子。
+- - 1975 年：索尼推出 Betamax，第一种盒式磁带录像机格式。
+- - 1971 年：阿勒格尼航空公司 485 号航班在飞往康涅狄格州纽黑文特威德纽黑文机场时坠毁，机上 31 人中有 28 人死亡。
+- - 1971 年：美国国税局酒精、烟草和枪械部门突击搜查肯·巴卢 (Ken Ballew) 的家，指控他非法持有手榴弹。
+- - 1971年：美国最高法院推翻了对保罗·科恩扰乱和平的定罪，开创了粗俗写作受到美国宪法第一修正案保护的先例。
+- - 1967 年：六日战争：以色列士兵进入耶路撒冷。
+- - 1965 年：美国最高法院在格里斯沃尔德诉康涅狄格州案中作出裁决，禁止各州将已婚夫妇使用避孕措施定为刑事犯罪。
+- - 1962 年：秘密武装组织 (OAS) 纵火焚烧阿尔及尔大学图书馆大楼，毁坏了约 500,000 本书。
+- - 1955 年：勒克斯广播剧院永久停播。该节目于 1934 年在纽约推出，以百老汇表演和流行电影的广播改编为特色。
+- - 1948 年：爱德华·贝奈斯辞去捷克斯洛伐克总统职务，而不是签署五月九宪法，使他的国家成为共产主义国家。
+- - 1948 年：乌季达和杰拉达发生反犹太骚乱。
+- - 1946 年：英国 BBC 恢复播出因第二次世界大战而停播七年的电视服务。
+- - 1945 年：挪威国王哈康七世结束二战期间流亡整整五年的时光。
+- - 1944 年：第二次世界大战：诺曼底战役：在阿登修道院，党卫军希特勒青年团成员屠杀了 23 名加拿大战俘。
+- - 1942 年：第二次世界大战：阿留申群岛战役：日本帝国士兵开始占领位于阿拉斯加附近阿留申群岛的美国阿图岛和基斯卡岛。
+- - 1942 年：第二次世界大战：中途岛海战以美国胜利告终。
+- - 1940 年：国王哈康七世、王储奥拉夫和挪威政府离开特罗姆瑟并流亡伦敦。整整五年后，他们回来了。
+- - 1938 年：第二次中日战争：中国国民党政府在 1938 年制造黄河洪水来阻止日本军队。五十万到九十万平民被杀。
+- - 1938 年：道格拉斯 DC-4E 进行首次试飞。
+- - 1929 年：《拉特兰条约》获得批准，梵蒂冈城诞生。
+- - 1919 年：Sette Giugno：马耳他首都瓦莱塔爆发民族主义骚乱。英国士兵向人群开枪，造成四人死亡。
+- - 1917 年：第一次世界大战：麦西尼斯之战：盟军士兵在麦西尼斯山脊的德国战壕下引爆了一系列地雷，杀死了 10,000 名德国士兵。
+- - 1906 年：丘纳德航运公司 (Cunard Line) 的 RMS Lusitania 在苏格兰格拉斯哥（克莱德班克）的约翰·布朗造船厂下水。
+- - 1905 年：挪威议会解散与瑞典的联盟。当年8月13日的全国公民投票确认了这一投票结果。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-06-05 04:06:23 UTC）*
+*（更新于: 2026-06-07 04:16:40 UTC）*
