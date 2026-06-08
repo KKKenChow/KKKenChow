@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2017: A Myanmar Air Force Shaanxi Y-8 crashes into the Andaman Sea near Dawei, Myanmar, killing all 122 aboard.
-- 2000: The United Nations defines the Blue Line as the border between Israel and Lebanon.
-- 1991: Mount Pinatubo erupts, generating an ash column 7 kilometres (4.3 mi) high.
-- 1989: Surinam Airways Flight 764 crashes on approach to Paramaribo-Zanderij International Airport in Suriname because of pilot error, killing 176 of 187 aboard.
-- 1982: Priscilla Presley opens Graceland to the public; the bathroom where Elvis Presley died five years earlier is kept off-limits.
-- 1981: The Israeli Air Force destroys Iraq's Osiraq nuclear reactor during Operation Opera.
-- 1977: Five hundred million people watch the high day of the Silver Jubilee of Queen Elizabeth II begin on television.
-- 1975: Sony launches Betamax, the first videocassette recorder format.
-- 1971: Allegheny Airlines Flight 485 crashes on approach to Tweed New Haven Airport in New Haven, Connecticut, killing 28 of 31 aboard.
-- 1971: The Alcohol, Tobacco, and Firearms Division of the U.S. Internal Revenue Service raids the home of Ken Ballew for illegal possession of hand grenades.
-- 1971: The United States Supreme Court overturns the conviction of Paul Cohen for disturbing the peace, setting the precedent that vulgar writing is protected under the First Amendment to the United States Constitution.
-- 1967: Six-Day War: Israeli soldiers enter Jerusalem.
-- 1965: The Supreme Court of the United States hands down its decision in Griswold v. Connecticut, prohibiting the states from criminalizing the use of contraception by married couples.
-- 1962: The Organisation Armée Secrète (OAS) sets fire to the University of Algiers library building, destroying about 500,000 books.
-- 1955: Lux Radio Theatre signs off the air permanently. The show launched in New York in 1934, and featured radio adaptations of Broadway shows and popular films.
-- 1948: Edvard Beneš resigns as President of Czechoslovakia rather than signing the Ninth-of-May Constitution, making his nation a Communist state.
-- 1948: Anti-Jewish riots in Oujda and Jerada take place.
-- 1946: The United Kingdom's BBC returns to broadcasting its television service, which has been off air for seven years because of World War II.
-- 1945: King Haakon VII of Norway returns from exactly five years in exile during World War II.
-- 1944: World War II: Battle of Normandy: At Ardenne Abbey, members of the SS Division Hitlerjugend massacre 23 Canadian prisoners of war.
-- 1942: World War II: Aleutian Islands Campaign: Imperial Japanese soldiers begin occupying the American islands of Attu and Kiska, in the Aleutian Islands off Alaska.
-- 1942: World War II: The Battle of Midway ends in American victory.
-- 1940: King Haakon VII, Crown Prince Olav and the Norwegian government leave Tromsø and go into exile in London. They return exactly five years later.
-- 1938: Second Sino-Japanese War: The Chinese Nationalist government creates the 1938 Yellow River flood to halt Japanese forces. Five hundred thousand to nine hundred thousand civilians are killed.
-- 1938: The Douglas DC-4E makes its first test flight.
-- 1929: The Lateran Treaty is ratified, bringing Vatican City into existence.
-- 1919: Sette Giugno: Nationalist riots break out in Valletta, the capital of Malta. British soldiers fire into the crowd, killing four people.
-- 1917: World War I: Battle of Messines: Allied soldiers detonate a series of mines underneath German trenches at Messines Ridge, killing 10,000 German troops.
-- 1906: Cunard Line's RMS Lusitania is launched from the John Brown Shipyard, Glasgow (Clydebank), Scotland.
-- 1905: Norway's parliament dissolves its union with Sweden. The vote was confirmed by a national plebiscite on August 13 of that year.
+- 2023: Former US President Donald Trump is indicted on federal charges of misusing classified information.
+- 2007: Space Shuttle Atlantis is launched on STS-117 carrying two truss segments and solar arrays to the International Space Station.
+- 2007: Newcastle, New South Wales, Australia, is hit by the State's worst storms and flooding in 30 years resulting in the death of nine people and the grounding of a trade ship, the MV Pasha Bulker.
+- 2004: The first Venus Transit in well over a century takes place, the previous one being in 1882.
+- 2001: Mamoru Takuma kills eight and injures 15 in a mass stabbing at an elementary school in the Osaka Prefecture of Japan.
+- 1995: Downed U.S. Air Force pilot Captain Scott O'Grady is rescued by U.S. Marines in Bosnia.
+- 1992: GP Express Airlines Flight 861 crashes on approach to Anniston Regional Airport in Anniston, Alabama, killing three.
+- 1992: The first World Oceans Day is celebrated, coinciding with the Earth Summit held in Rio de Janeiro, Brazil.
+- 1987: New Zealand's Labour government establishes a national nuclear-free zone under the New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987.
+- 1984: Homosexuality is decriminalized in the Australian state of New South Wales.
+- 1983: Reeve Aleutian Airways Flight 8 loses one of its propellers in flight resulting in damage to the flight controls. The Lockheed L-188 Electra makes an emergency landing at Anchorage International Airport and there are no injuries.
+- 1982: VASP Flight 168 crashes in Pacatuba, Ceará, Brazil, killing 128 people.
+- 1982: Bluff Cove Air Attacks during the Falklands War: Fifty-six British servicemen are killed by an Argentine air attack on two landing ships, RFA Sir Galahad and RFA Sir Tristram.
+- 1972: Vietnam War: Nine-year-old Phan Thị Kim Phúc is burned by napalm, an event captured by Associated Press photographer Nick Ut moments later while the young girl is seen running naked down a road, in what would become an iconic, Pulitzer Prize-winning photo.
+- 1968: James Earl Ray, the man who assassinated Martin Luther King Jr. is arrested at London Heathrow Airport.
+- 1967: Six-Day War: The USS Liberty incident: A United States Navy spy ship is attacked by the Israeli Air Force and Navy, resulting in 34 deaths and 171 wounded.
+- 1966: Topeka, Kansas, United States is devastated by a tornado that registers as an "F5" on the Fujita scale, exceeding US$200 million in damages. Seventeen people are killed, over five hundred more injured, and thousands of homes damaged or destroyed.
+- 1966: An F-104 Starfighter collides with XB-70 Valkyrie prototype no. 2, destroying both aircraft during a photo shoot near Edwards Air Force Base. Joseph A. Walker, a NASA test pilot, and Carl Cross, a United States Air Force test pilot, are both killed.
+- 1961: Marriage of Prince Edward, Duke of Kent to Katharine Worsley at York Minster.
+- 1959: USS Barbero and the United States Postal Service attempt the delivery of mail via Missile Mail.
+- 1953: The United States Supreme Court rules in District of Columbia v. John R. Thompson Co. that restaurants in Washington, D.C., cannot refuse to serve black patrons.
+- 1953: An F5 tornado hits Beecher, Michigan, United States, killing 116, injuring 844, and destroying 340 homes.
+- 1949: George Orwell's dystopian novel Nineteen Eighty-Four is published in the United States
+- 1943: World War II: The two-day Battle of Porta between the Royal Italian Army and the Greek People's Liberation Army begins.
+- 1942: World War II: The Imperial Japanese Navy submarines I-21 and I-24 shell the Australian cities of Sydney and Newcastle.
+- 1941: World War II: The Allies commence the Syria-Lebanon Campaign against the possessions of Vichy France in the Levant.
+- 1940: World War II: The completion of Operation Alphabet, the evacuation of Allied forces from Narvik at the end of the Norwegian campaign.
+- 1929: Margaret Bondfield is appointed Minister of Labour. She is the first woman appointed to the Cabinet of the United Kingdom.
+- 1928: Second Northern Expedition: The National Revolutionary Army captures Beijing, whose name is changed to Beiping ("Northern Peace").
+- 1924: British Mount Everest expedition: British mountaineers Andrew Irvine and George Mallory go missing.
 
 Data from muffinlabs
-*(Updated at: 2026-06-07 04:16:40 UTC)*
+*(Updated at: 2026-06-08 04:21:01 UTC)*
 
 # 历史上的今天 
 
-- - 2017 年：缅甸空军一架陕西 Y-8 在缅甸土瓦附近坠入安达曼海，机上 122 人全部遇难。
-- - 2000年：联合国将蓝线定义为以色列和黎巴嫩之间的边界。
-- - 1991 年：皮纳图博火山喷发，产生 7 公里（4.3 英里）高的火山灰柱。
-- - 1989 年：苏里南航空 764 号航班在飞往苏里南帕拉马里博-赞德杰国际机场时因飞行员失误坠毁，机上 187 人中的 176 人丧生。
-- - 1982 年：普丽西拉·普雷斯利 (Priscilla Presley) 向公众开放格雷斯兰 (Graceland)；五年前埃尔维斯·普雷斯利去世的浴室被禁止进入。
-- - 1981 年：以色列空军在歌剧行动中摧毁了伊拉克的奥伊拉克核反应堆。
-- - 1977 年：五亿人在电视上观看了伊丽莎白二世女王登基五十周年的盛大日子。
-- - 1975 年：索尼推出 Betamax，第一种盒式磁带录像机格式。
-- - 1971 年：阿勒格尼航空公司 485 号航班在飞往康涅狄格州纽黑文特威德纽黑文机场时坠毁，机上 31 人中有 28 人死亡。
-- - 1971 年：美国国税局酒精、烟草和枪械部门突击搜查肯·巴卢 (Ken Ballew) 的家，指控他非法持有手榴弹。
-- - 1971年：美国最高法院推翻了对保罗·科恩扰乱和平的定罪，开创了粗俗写作受到美国宪法第一修正案保护的先例。
-- - 1967 年：六日战争：以色列士兵进入耶路撒冷。
-- - 1965 年：美国最高法院在格里斯沃尔德诉康涅狄格州案中作出裁决，禁止各州将已婚夫妇使用避孕措施定为刑事犯罪。
-- - 1962 年：秘密武装组织 (OAS) 纵火焚烧阿尔及尔大学图书馆大楼，毁坏了约 500,000 本书。
-- - 1955 年：勒克斯广播剧院永久停播。该节目于 1934 年在纽约推出，以百老汇表演和流行电影的广播改编为特色。
-- - 1948 年：爱德华·贝奈斯辞去捷克斯洛伐克总统职务，而不是签署五月九宪法，使他的国家成为共产主义国家。
-- - 1948 年：乌季达和杰拉达发生反犹太骚乱。
-- - 1946 年：英国 BBC 恢复播出因第二次世界大战而停播七年的电视服务。
-- - 1945 年：挪威国王哈康七世结束二战期间流亡整整五年的时光。
-- - 1944 年：第二次世界大战：诺曼底战役：在阿登修道院，党卫军希特勒青年团成员屠杀了 23 名加拿大战俘。
-- - 1942 年：第二次世界大战：阿留申群岛战役：日本帝国士兵开始占领位于阿拉斯加附近阿留申群岛的美国阿图岛和基斯卡岛。
-- - 1942 年：第二次世界大战：中途岛海战以美国胜利告终。
-- - 1940 年：国王哈康七世、王储奥拉夫和挪威政府离开特罗姆瑟并流亡伦敦。整整五年后，他们回来了。
-- - 1938 年：第二次中日战争：中国国民党政府在 1938 年制造黄河洪水来阻止日本军队。五十万到九十万平民被杀。
-- - 1938 年：道格拉斯 DC-4E 进行首次试飞。
-- - 1929 年：《拉特兰条约》获得批准，梵蒂冈城诞生。
-- - 1919 年：Sette Giugno：马耳他首都瓦莱塔爆发民族主义骚乱。英国士兵向人群开枪，造成四人死亡。
-- - 1917 年：第一次世界大战：麦西尼斯之战：盟军士兵在麦西尼斯山脊的德国战壕下引爆了一系列地雷，杀死了 10,000 名德国士兵。
-- - 1906 年：丘纳德航运公司 (Cunard Line) 的 RMS Lusitania 在苏格兰格拉斯哥（克莱德班克）的约翰·布朗造船厂下水。
-- - 1905 年：挪威议会解散与瑞典的联盟。当年8月13日的全国公民投票确认了这一投票结果。
+- - 2023 年：美国前总统唐纳德·特朗普被联邦指控滥用机密信息。
+- - 2007 年：亚特兰蒂斯号航天飞机搭载 STS-117 发射，携带两个桁架段和太阳能电池板前往国际空间站。
+- - 2007 年：澳大利亚新南威尔士州纽卡斯尔遭受该州 30 年来最严重的风暴和洪水袭击，导致 9 人死亡，一艘贸易船 MV Pasha Bulker 搁浅。
+- - 2004 年：发生了一个多世纪以来的第一次金星凌日，上一次是在 1882 年。
+- - 2001 年：日本大阪府一所小学发生大规模刺伤事件，琢磨守 (Mamoru Takuma) 造成 8 人死亡、15 人受伤。
+- - 1995 年：被击落的美国空军飞行员斯科特·奥格雷迪上尉在波斯尼亚被美国海军陆战队救起。
+- - 1992 年：GP Express 航空公司 861 号航班在飞往阿拉巴马州安尼斯顿安尼斯顿地区机场时坠毁，造成三人死亡。
+- - 1992 年：庆祝第一个世界海洋日，恰逢在巴西里约热内卢举行地球峰会。
+- - 1987 年：新西兰工党政府根据《1987 年新西兰无核区、裁军和军备控制法》建立了国家无核区。
+- - 1984 年：澳大利亚新南威尔士州同性恋合法化。
+- - 1983 年：里夫阿留申航空公司 8 号航班在飞行中失去一个螺旋桨，导致飞行控制装置损坏。洛克希德 L-188 Electra 飞机紧急降落在安克雷奇国际机场，没有造成人员伤亡。
+- - 1982 年：VASP 168 号航班在巴西塞阿拉州帕卡图巴坠毁，造成 128 人死亡。
+- - 1982 年：马岛战争期间布拉夫湾空袭：阿根廷对两艘登陆舰（RFA 加拉哈德爵士号和 RFA 特里斯特瑞姆爵士号）发动空袭，造成 56 名英国军人丧生。
+- - 1972 年：越南战争：9 岁的潘氏金福 (Phan Thị Kim Phúc) 被凝固汽油弹烧伤，美联社摄影师尼克·乌特 (Nick Ut) 不久后捕捉到了这一事件，同时看到这个年轻女孩赤身裸体在路上奔跑，这张照片后来成为了一张获得普利策奖的标志性照片。
+- - 1968 年：暗杀马丁·路德·金的凶手詹姆斯·厄尔·雷 (James Earl Ray) 在伦敦希思罗机场被捕。
+- - 1967年：六​​日战争：自由号事件：一艘美国海军间谍船遭到以色列空军和海军的袭击，造成34人死亡、171人受伤。
+- - 1966 年：美国堪萨斯州托皮卡遭受藤田级“F5”龙卷风的袭击，造成的损失超过 2 亿美元。十七人死亡，五百多人受伤，数千所房屋受损或被毁。
+- - 1966 年：一架 F-104 星际战斗机与 XB-70 Valkyrie 原型机相撞。2、在爱德华兹空军基地附近拍摄照片时摧毁了两架飞机。美国宇航局试飞员约瑟夫·A·沃克 (Joseph A. Walker) 和美国空军试飞员卡尔·克罗斯 (Carl Cross) 双双遇难。
+- - 1961 年：肯特公爵爱德华王子与凯瑟琳·沃斯利在约克大教堂举行婚礼。
+- - 1959 年：巴贝罗号航空母舰和美国邮政局尝试通过导弹邮件投递邮件。
+- - 1953 年：美国最高法院在哥伦比亚特区诉约翰·R·汤普森公司案中裁定，华盛顿特区的餐馆不得拒绝为黑人顾客提供服务。
+- - 1953 年：一场 F5 级龙卷风袭击了美国密歇根州比彻市，造成 116 人死亡、844 人受伤、340 所房屋被毁。
+- - 1949年：乔治·奥威尔的反乌托邦小说《十九八十四》在美国出版
+- - 1943 年：第二次世界大战：意大利皇家陆军和希腊人民解放军之间为期两天的波尔塔战役开始。
+- - 1942 年：第二次世界大战：日本帝国海军潜艇 I-21 和 I-24 炮击澳大利亚城市悉尼和纽卡斯尔。
+- - 1941 年：第二次世界大战：盟军针对维希法国在黎凡特的领地发起叙利亚-黎巴嫩战役。
+- - 1940 年：第二次世界大战：字母表行动完成，挪威战役结束时盟军从纳尔维克撤离。
+- - 1929 年：玛格丽特·邦德菲尔德被任命为劳工部长。她是第一位被任命为英国内阁成员的女性。
+- - 1928年：第二次北伐：国民革命军攻克北京，更名为北平（“北平”）。
+- - 1924 年：英国珠穆朗玛峰探险队：英国登山家安德鲁·欧文 (Andrew Irvine) 和乔治·马洛里 (George Mallory) 失踪。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-06-07 04:16:40 UTC）*
+*（更新于: 2026-06-08 04:21:01 UTC）*
