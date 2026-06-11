@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: Eleven people are killed, including the perpetrator, and eleven others are injured, in a mass shooting at a secondary school in Graz, Austria.
-- 2024: A plane crash in Malawi leaves 10 people dead, including the country's Vice President Saulos Chilima.
-- 2018: Opportunity rover, sends it last message back to Earth. The mission was finally declared over on February 13, 2019.
-- 2009: Eighty-eight year-old James Wenneker von Brunn opens fire inside the United States Holocaust Memorial Museum and fatally shoots Museum Special Police Officer Stephen Tyrone Johns. Other security guards returned fire, wounding von Brunn, who was apprehended.
-- 2008: Sudan Airways Flight 109 crashes at Khartoum International Airport, killing 30 people.
-- 2003: The Spirit rover is launched, beginning NASA's Mars Exploration Rover mission.
-- 2002: The first direct electronic communication experiment between the nervous systems of two humans is carried out by Kevin Warwick in the United Kingdom.
-- 2001: Pope John Paul II canonizes Lebanon's first female saint, Saint Rafqa.
-- 1999: Kosovo War: NATO suspends its airstrikes after Slobodan Milošević agrees to withdraw Serbian forces from Kosovo.
-- 1997: Before fleeing his northern stronghold, Khmer Rouge leader Pol Pot orders the killing of his defense chief Son Sen and 11 of Sen's family members.
-- 1996: Peace talks begin in Northern Ireland without the participation of Sinn Féin.
-- 1994: China conducts a nuclear test for DF-31 warhead at Area C (Beishan), Lop Nur, its prominence being due to the Cox Report.
-- 1991: Eleven-year-old Jaycee Lee Dugard is kidnapped in South Lake Tahoe, California; she would remain a captive until 2009.
-- 1990: British Airways Flight 5390 lands safely at Southampton Airport after a blowout in the cockpit causes the captain to be partially sucked from the cockpit. There are no fatalities.
-- 1987: June Democratic Struggle: The June Democratic Struggle starts in South Korea, and people protest against the government.
-- 1982: Lebanon War: The Syrian Arab Army defeats the Israeli Defense Forces in the Battle of Sultan Yacoub.
-- 1980: The African National Congress in South Africa publishes a call to fight from their imprisoned leader Nelson Mandela.
-- 1977: James Earl Ray escapes from Brushy Mountain State Penitentiary in Petros, Tennessee. He is recaptured three days later.
-- 1967: The Six-Day War ends: Israel and Syria agree to a cease-fire.
-- 1964: United States Senate breaks a 75-day filibuster against the Civil Rights Act of 1964, leading to the bill's passage.
-- 1963: The Equal Pay Act of 1963, aimed at abolishing wage disparity based on sex, was signed into law by John F. Kennedy as part of his New Frontier Program.
-- 1960: Trans Australia Airlines Flight 538 crashes near Mackay Airport in Mackay, Queensland, Australia, killing 29.
-- 1957: John Diefenbaker leads the Progressive Conservative Party of Canada to a stunning upset in the 1957 Canadian federal election, ending 22 years of Liberal Party government.
-- 1947: Saab produces its first automobile.
-- 1945: Australian Imperial Forces land in Brunei Bay to liberate Brunei.
-- 1944: In baseball, 15-year-old Joe Nuxhall of the Cincinnati Reds becomes the youngest player ever in a major-league game.
-- 1944: World War II: In Distomo, Boeotia, Greece, 228 men, women and children are massacred by German troops.
-- 1944: World War II: Six hundred forty-three men, women and children massacred at Oradour-sur-Glane, France.
-- 1942: World War II: The Lidice massacre is perpetrated as a reprisal for the assassination of Obergruppenführer Reinhard Heydrich.
-- 1940: World War II: Military resistance to the German occupation of Norway ends.
+- 2013: Greece's public broadcaster ERT is shut down by then-prime minister Antonis Samaras. It would be opened exactly two years later by then-prime minister Alexis Tsipras.
+- 2012: 75 people die in a landslide triggered by two earthquakes in Afghanistan; an entire village is buried.
+- 2010: The first African FIFA World Cup kicks off in South Africa.
+- 2008: The Fermi Gamma-ray Space Telescope is launched into orbit.
+- 2008: Canadian Prime Minister Stephen Harper makes a historic official apology to Canada's First Nations in regard to abuses at a Canadian Indian residential school.
+- 2007: Mudslides in Chittagong, Bangladesh, kill 130 people.
+- 2004: Cassini-Huygens makes its closest flyby of the Saturn moon Phoebe.
+- 2002: Antonio Meucci is acknowledged as the first inventor of the telephone by the United States Congress.
+- 2001: Timothy McVeigh is executed for his role in the Oklahoma City bombing.
+- 1998: Compaq Computer pays US$9 billion for Digital Equipment Corporation in the largest high-tech acquisition.
+- 1987: Diane Abbott, Paul Boateng and Bernie Grant are elected as the first black MPs in Great Britain.
+- 1981: A magnitude 6.9 earthquake at Golbaf, Iran, kills at least 2,000.
+- 1978: Altaf Hussain founds the student political movement All Pakistan Muhajir Students Organisation (APMSO) in Karachi University.
+- 1971: The U.S. Government forcibly removes the last holdouts to the Native American Occupation of Alcatraz, ending 19 months of control.
+- 1970: After being appointed on May 15, Anna Mae Hays and Elizabeth P. Hoisington officially receive their ranks as U.S. Army general officers, becoming the first women to do so.
+- 1968: Lloyd J. Old identified the first cell surface antigens that could differentiate among different cell types.
+- 1964: World War II veteran Walter Seifert attacks an elementary school in Cologne, Germany, killing at least eight children and two teachers and seriously injuring several more with a home-made flamethrower and a lance.
+- 1963: John F. Kennedy addresses Americans from the Oval Office proposing the Civil Rights Act of 1964, which would revolutionize American society by guaranteeing equal access to public facilities, ending segregation in education, and guaranteeing federal protection for voting rights.
+- 1963: Buddhist monk Thích Quảng Đức burns himself with gasoline in a busy Saigon intersection to protest the lack of religious freedom in South Vietnam.
+- 1963: American Civil Rights Movement: Governor of Alabama George Wallace defiantly stands at the door of Foster Auditorium at the University of Alabama in an attempt to block two black students, Vivian Malone and James Hood, from attending that school. Later in the day, accompanied by federalized National Guard troops, they are able to register.
+- 1962: Frank Morris, John Anglin and Clarence Anglin allegedly become the only prisoners to escape from the prison on Alcatraz Island.
+- 1956: Start of Gal Oya riots, the first reported ethnic riots that target minority Sri Lankan Tamils in the Eastern Province. The total number of deaths is reportedly 150.
+- 1955: Eighty-three spectators are killed and at least one hundred are injured after an Austin-Healey and a Mercedes-Benz collide at the 24 Hours of Le Mans, the deadliest ever accident in motorsports.
+- 1944: USS Missouri, the last battleship built by the United States Navy and future site of the signing of the Japanese Instrument of Surrender, is commissioned.
+- 1942: Free French Forces retreat from Bir Hakeim after having successfully delayed the Axis advance.
+- 1942: World War II: The United States agrees to send Lend-Lease aid to the Soviet Union.
+- 1940: World War II: The Siege of Malta begins with a series of Italian air raids.
+- 1938: Second Sino-Japanese War: The Battle of Wuhan starts.
+- 1937: Great Purge: The Soviet Union under Joseph Stalin executes eight army leaders.
+- 1936: The London International Surrealist Exhibition opens.
 
 Data from muffinlabs
-*(Updated at: 2026-06-10 04:03:42 UTC)*
+*(Updated at: 2026-06-11 04:17:28 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：奥地利格拉茨一所中学发生大规模枪击事件，造成包括行凶者在内的 11 人死亡，另有 11 人受伤。
-- - 2024 年：马拉维发生飞机失事，造成 10 人死亡，其中包括该国副总统萨乌洛斯·奇利马 (Saulos Chilima)。
-- - 2018 年：机遇号火星车将最后一条信息发送回地球。此次任务最终于2019年2月13日宣布结束。
-- - 2009 年：88 岁的詹姆斯·温内克·冯·布伦 (James Wenneker von Brunn) 在美国大屠杀纪念馆内开枪，射杀博物馆特警斯蒂芬·泰隆·琼斯 (Stephen Tyrone Johns)。其他保安人员开枪还击，打伤冯·布伦并被捕。
-- - 2008年：苏丹航空公司109号航班在喀土穆国际机场坠毁，造成30人死亡。
-- - 2003 年：勇气号火星车发射，开始了美国宇航局的火星探索漫游车任务。
-- - 2002 年：英国的凯文·沃里克 (Kevin Warwick) 进行了两个人类神经系统之间的第一个直接电子通信实验。
-- - 2001 年：教皇约翰·保罗二世册封黎巴嫩首位女圣人圣拉夫卡为圣人。
-- - 1999年：科索沃战争：斯洛博丹·米洛舍维奇同意从科索沃撤军后，北约暂停空袭。
-- - 1997 年：在逃离北部据点之前，红色高棉领导人波尔布特下令杀害其国防部长孙森和森的 11 名家人。
-- - 1996 年：北爱尔兰和平谈判开始，新芬党没有参与。
-- - 1994年：中国在罗布泊C区（北山）进行DF-31弹头核试验，该试验因考克斯报告而引人注目。
-- - 1991 年：11 岁的房祖名·李·杜加德 (Jaycee Lee Dugard) 在加利福尼亚州南太浩湖被绑架；她将一直被囚禁到2009年。
-- - 1990 年：英国航空 5390 号航班驾驶舱发生井喷，导致机长部分被吸出驾驶舱，随后安全降落在南安普顿机场。目前没有人员死亡。
-- - 1987年：六月民主斗争：六月民主斗争在韩国开始，人们抗议政府。
-- - 1982 年：黎巴嫩战争：阿拉伯叙利亚军队在苏丹雅各布战役中击败以色列国防军。
-- - 1980 年：南非非洲人国民大会 (African National Conference) 发出被监禁的领导人纳尔逊·曼德拉 (Nelson Mandela) 的战斗号召。
-- - 1977 年：詹姆斯·厄尔·雷 (James Earl Ray) 从田纳西州佩特罗斯的布鲁西山州立监狱越狱。三天后他被重新抓获。
-- - 1967 年：六日战争结束：以色列和叙利亚同意停火。
-- - 1964 年：美国参议院打破了针对 1964 年《民权法案》长达 75 天的阻挠，导致该法案获得通过。
-- - 1963 年：旨在消除基于性别的工资差异的 1963 年同工同酬法案由约翰·F·肯尼迪签署成为法律，作为其新前沿计划的一部分。
-- - 1960 年：澳大利亚横贯航空公司 538 号航班在澳大利亚昆士兰州麦凯机场附近坠毁，造成 29 人死亡。
-- - 1957 年：约翰·迪芬贝克 (John Diefenbaker) 领导加拿大进步保守党在 1957 年加拿大联邦选举中惨败，结束了自由党 22 年的执政。
-- - 1947 年：萨博生产出第一辆汽车。
-- - 1945 年：澳大利亚帝国军队登陆文莱湾，解放文莱。
-- - 1944 年：在棒球界，辛辛那提红人队 15 岁的乔·纳克斯霍尔 (Joe Nuxhall) 成为大联盟比赛中有史以来最年轻的球员。
-- - 1944 年：第二次世界大战：在希腊维奥蒂亚的迪斯托莫，228 名男女老少遭到德军屠杀。
-- - 1944 年：第二次世界大战：法国格拉讷河畔奥拉杜尔有 643 名男人、女人和儿童遭到屠杀。
-- - 1942 年：第二次世界大战：利迪策大屠杀是对刺杀高级领袖莱因哈德·海德里希的报复。
-- - 1940 年：第二次世界大战：对德国占领挪威的军事抵抗结束。
+- - 2013 年：希腊公共广播公司 ERT 被时任总理安东尼斯·萨马拉斯关闭。整整两年后，时任总理亚历克西斯·齐普拉斯 (Alexis Tsipras) 为它揭幕。
+- - 2012年：阿富汗两次地震引发的山体滑坡造成75人死亡；整个村庄都被埋葬了。
+- - 2010年：首届非洲世界杯在南非拉开帷幕。
+- - 2008 年：费米伽马射线太空望远镜发射进入轨道。
+- - 2008 年：加拿大总理斯蒂芬·哈珀就加拿大印第安人寄宿学校的虐待行为向加拿大原住民做出历史性的正式道歉。
+- - 2007 年：孟加拉国吉大港发生泥石流，造成 130 人死亡。
+- - 2004 年：卡西尼-惠更斯号飞越了土星卫星菲比最近的一次。
+- - 2002 年：安东尼奥·梅乌奇 (Antonio Meucci) 被美国国会承认为电话的第一位发明者。
+- - 2001 年：蒂莫西·麦克维因参与俄克拉荷马城爆炸案而被处决。
+- - 1998 年：康柏电脑以 90 亿美元收购数字设备公司，这是最大的高科技收购。
+- - 1987 年：黛安·阿博特 (Diane Abbott)、保罗·博阿滕 (Paul Boateng) 和伯尼·格兰特 (Bernie Grant) 当选为英国首批黑人议员。
+- - 1981 年：伊朗戈尔巴夫发生 6.9 级地震，造成至少 2,000 人死亡。
+- - 1978 年：阿尔塔夫·侯赛因 (Altaf Hussain) 在卡拉奇大学创立学生政治运动全巴基斯坦穆哈吉尔学生组织 (APMSO)。
+- - 1971 年：美国政府强行驱散美洲原住民占领阿尔卡特拉斯岛的最后一批顽固分子，结束了长达 19 个月的控制。
+- - 1970 年：5 月 15 日被任命后，安娜·梅·海斯 (Anna Mae Hays) 和伊丽莎白·P·霍辛顿 (Elizabeth P. Hoisington) 正式获得美国陆军将官军衔，成为首批获得此殊荣的女性。
+- - 1968 年：Lloyd J. Old 发现了第一个可以区分不同细胞类型的细胞表面抗原。
+- - 1964 年：二战老兵沃尔特·塞弗特 (Walter Seifert) 使用自制火焰喷射器和长矛袭击了德国科隆的一所小学，造成至少 8 名儿童和 2 名教师死亡，多人受重伤。
+- - 1963 年：约翰·F·肯尼迪 (John F. Kennedy) 在椭圆形办公室向美国人发表讲话，提出 1964 年《民权法案》，该法案将通过保障平等使用公共设施、结束教育种族隔离以及保障联邦对投票权的保护来彻底改变美国社会。
+- - 1963 年：佛教僧人释广德在西贡繁忙的十字路口用汽油自焚，以抗议南越缺乏宗教自由。
+- - 1963 年：美国民权运动：阿拉巴马州州长乔治·华莱士挑衅地站在阿拉巴马大学福斯特礼堂门口，试图阻止两名黑人学生维维安·马龙和詹姆斯·胡德进入该学校就读。当天晚些时候，他们在联邦国民警卫队的陪同下进行了登记。
+- - 1962 年：弗兰克·莫里斯、约翰·安格林和克拉伦斯·安格林据称成为阿尔卡特拉斯岛监狱中唯一越狱的囚犯。
+- - 1956 年：Gal Oya 骚乱开始，这是首次报道的针对东部省斯里兰卡少数民族泰米尔人的种族骚乱。据报道死亡总人数为150人。
+- - 1955 年：勒芒 24 小时耐力赛上，一辆奥斯汀-希利与一辆梅赛德斯-奔驰相撞，造成 83 名观众死亡、至少 100 人受伤，这是赛车运动史上最严重的事故。
+- - 1944 年：密苏里号战列舰服役，这是美国海军建造的最后一艘战舰，也是日本投降书未来签署地。
+- - 1942 年：自由法国军队在成功阻止轴心国前进后从比尔哈凯姆撤退。
+- - 1942 年：第二次世界大战：美国同意向苏联提供租借援助。
+- - 1940 年：第二次世界大战：马耳他围困始于意大利的一系列空袭。
+- - 1938年：第二次中日战争：武汉会战打响。
+- - 1937 年：大清洗：约瑟夫·斯大林领导下的苏联处决了八名军队领导人。
+- - 1936 年：伦敦国际超现实主义展览开幕。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-06-10 04:03:42 UTC）*
+*（更新于: 2026-06-11 04:17:28 UTC）*
