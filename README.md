@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: Air India Flight 171, a Boeing 787-8 Dreamliner, crashes shortly after takeoff into the B. J. Medical College, Ahmedabad, India, killing 241 out of 242 onboard as well as 19 on the ground. This marked the first fatal crash and hull loss of the Boeing 787 Dreamliner.
-- 2024: A fire in a residential building in Mangaf, Kuwait City kills at least 50 people.
-- 2019: Kassym-Jomart Tokayev is inaugurated as the second president of Kazakhstan.
-- 2018: United States President Donald Trump and Kim Jong-un of North Korea held the first meeting between leaders of their two countries in Singapore.
-- 2016: Forty-nine civilians are killed and 58 others injured in an attack on a gay nightclub in Orlando, Florida, United States; the gunman, Omar Mateen, is killed in a gunfight with police.
-- 2014: Between 1,095 and 1,700 Shia Iraqi people are killed in an attack by the Islamic State of Iraq and the Levant on Camp Speicher in Tikrit, Iraq. It is the second deadliest act of terrorism in history, only behind 9/11.
-- 2009: A disputed presidential election in Iran leads to wide-ranging local and international protests.
-- 1999: Kosovo War: Operation Joint Guardian begins when a NATO-led United Nations peacekeeping force, Kosovo Force (KFor), enters the province of Kosovo in the Federal Republic of Yugoslavia.
-- 1993: An election takes place in Nigeria and is won by Moshood Kashimawo Olawale Abiola. Its results are later annulled by the military government of Ibrahim Babangida.
-- 1991: Kokkadichcholai massacre: The Sri Lankan Army massacres 152 minority Tamil civilians in the village of Kokkadichcholai near the Eastern Province town of Batticaloa.
-- 1991: In modern Russia's first democratic election, Boris Yeltsin is elected as the President of Russia.
-- 1990: Russia Day: The parliament of the Russian Federation formally declares its sovereignty.
-- 1988: Austral Líneas Aéreas Flight 046, a McDonnell Douglas MD-81, crashes short of the runway at Libertador General José de San Martín Airport, killing all 22 people on board.
-- 1987: Cold War: At the Brandenburg Gate, U.S. President Ronald Reagan publicly challenges Mikhail Gorbachev to tear down the Berlin Wall.
-- 1987: The Central African Republic's former emperor Jean-Bédel Bokassa is sentenced to death for crimes he had committed during his 13-year rule.
-- 1982: A nuclear disarmament rally and concert is held in New York City.
-- 1981: The first of the Indiana Jones film franchise, Raiders of the Lost Ark, is released in theaters.
-- 1979: Bryan Allen wins the second Kremer prize for a man-powered flight across the English Channel in the Gossamer Albatross.
-- 1975: State of Uttar Pradesh v. Raj Narain: Judge Jagmohanlal Sinha rules against Indira Gandhi in a case on her election to the Indian Parliament, and that she should be banned from holding any public office, triggering a political crisis.
-- 1967: The United States Supreme Court in Loving v. Virginia declares all U.S. state laws that prohibit interracial marriage to be unconstitutional.
-- 1964: Anti-apartheid activist and ANC leader Nelson Mandela is sentenced to life in prison for sabotage in South Africa.
-- 1963: The film Cleopatra, starring Elizabeth Taylor and Richard Burton, is released in US theaters. It was the most expensive film made at the time.
-- 1963: NAACP field secretary Medgar Evers is murdered in front of his home in Jackson, Mississippi, by Ku Klux Klan member Byron De La Beckwith during the civil rights movement.
-- 1954: Pope Pius XII canonises Dominic Savio, who was 14 years old at the time of his death, as a saint, making him at the time the youngest unmartyred saint in the Roman Catholic Church. In 2017, Francisco and Jacinta Marto, aged ten and nine at the time of their deaths, are declared as saints.
-- 1950: An Air France Douglas DC-4 crashes near Bahrain International Airport, killing 46 people.
-- 1944: World War II: Battle of Carentan: American paratroopers of the 101st Airborne Division secure the town of Carentan, Normandy, France.
-- 1943: The Holocaust: Germany liquidates the Jewish Ghetto in Brzeżany, Poland (now Berezhany, Ukraine). Around 1,180 Jews are led to the city's old Jewish graveyard and shot.
-- 1942: Anne Frank receives a diary for her thirteenth birthday.
-- 1940: World War II: Thirteen thousand British and French troops surrender to General Erwin Rommel at Saint-Valery-en-Caux.
-- 1939: The Baseball Hall of Fame opens in Cooperstown, New York.
+- 2025: Israel initiates air strikes against Iran, initiating the Twelve Day War.
+- 2023: Three people are killed and another three injured in an early morning stabbing and van ramming attack in Nottingham, England.
+- 2023: At least 100 people are killed when a wedding boat capsizes on the Niger River in Kwara State, Nigeria.
+- 2021: A gas explosion in Zhangwan district of Shiyan city, in Hubei province of China kills at least 12 people and wounds over 138 others.
+- 2018: Volkswagen is fined one billion euros over the emissions scandal.
+- 2015: A man opens fire at policemen outside the police headquarters in Dallas, Texas, while a bag containing a pipe bomb is also found. He was later shot dead by police.
+- 2012: A series of bombings across Iraq, including Baghdad, Hillah and Kirkuk, kills at least 93 people and wounds over 300 others.
+- 2010: A capsule of the Japanese spacecraft Hayabusa, containing particles of the asteroid 25143 Itokawa, returns to Earth by landing in the Australian Outback.
+- 2007: The Al Askari Mosque is bombed for a second time.
+- 2005: The jury acquits pop singer Michael Jackson of his charges for allegedly sexually molesting a child in 1993.
+- 2002: The United States withdraws from the Anti-Ballistic Missile Treaty.
+- 2000: Italy pardons Mehmet Ali Ağca, the Turkish gunman who tried to kill Pope John Paul II in 1981.
+- 2000: President Kim Dae-jung of South Korea meets Kim Jong-il, leader of North Korea, for the beginning of the first ever inter-Korea summit, in the northern capital of Pyongyang.
+- 1999: BMW win 1999 24 Hours of Le Mans
+- 1997: The Uphaar Cinema Fire took place at Green Park, Delhi, resulting in the deaths of 59 people and seriously injured 103 others.
+- 1997: A jury sentences Timothy McVeigh to death for his part in the 1995 Oklahoma City bombing.
+- 1996: Garuda Indonesia flight 865 crashes during takeoff from Fukuoka Airport, killing three people and injuring 170.
+- 1996: The Montana Freemen surrender after an 81-day standoff with FBI agents.
+- 1994: A jury in Anchorage, Alaska, blames recklessness by Exxon and Captain Joseph Hazelwood for the Exxon Valdez disaster, allowing victims of the oil spill to seek $15 billion in damages.
+- 1990: First day of the June 1990 Mineriad in Romania. At least 240 strikers and students are arrested or killed in the chaos ensuing from the first post-Ceaușescu elections.
+- 1983: Pioneer 10 becomes the first man-made object to leave the central Solar System when it passes beyond the orbit of Neptune.
+- 1982: Battles of Tumbledown and Wireless Ridge, during the Falklands War.
+- 1982: Fahd becomes King of Saudi Arabia upon the death of his brother, Khalid.
+- 1981: At the Trooping the Colour ceremony in London, a teenager, Marcus Sarjeant, fires six blank shots at Queen Elizabeth II.
+- 1977: Convicted Martin Luther King Jr. assassin James Earl Ray is recaptured after escaping from prison three days before.
+- 1973: In a game versus the Philadelphia Phillies at Veterans Stadium, Los Angeles Dodgers teammates Steve Garvey, Davey Lopes, Ron Cey and Bill Russell play together as an infield for the first time, going on to set the Major League Baseball record of staying together for .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}8+1⁄2 years.
+- 1971: Vietnam War: The New York Times begins publication of the Pentagon Papers.
+- 1967: U.S. President Lyndon B. Johnson nominates Solicitor-General Thurgood Marshall to become the first black justice on the U.S. Supreme Court.
+- 1966: The United States Supreme Court rules in Miranda v. Arizona that the police must inform suspects of their Fifth Amendment rights before questioning them (colloquially known as "Mirandizing").
+- 1952: Catalina affair: A Swedish Douglas DC-3 is shot down by a Soviet MiG-15 fighter.
 
 Data from muffinlabs
-*(Updated at: 2026-06-12 04:19:20 UTC)*
+*(Updated at: 2026-06-13 04:08:14 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：印度航空 171 号航班（一架波音 787-8 梦想客机）在起飞后不久坠入印度艾哈迈达巴德的 B.J. 医学院，造成机上 242 人中的 241 人以及地面上的 19 人死亡。这标志着波音 787 梦想客机首次发生致命空难和机身损失。
-- - 2024 年：科威特市曼加夫一栋住宅楼发生火灾，造成至少 50 人死亡。
-- - 2019年：卡西姆-若马尔特·托卡耶夫就任哈萨克斯坦第二任总统。
-- - 2018年：美国总统唐纳德·特朗普和朝鲜金正恩在新加坡举行两国领导人首次会晤。
-- - 2016年：美国佛罗里达州奥兰多市一家同性恋夜总会发生袭击事件，造成49名平民死亡、58人受伤；枪手奥马尔·马丁在与警方的枪战中身亡。
-- - 2014 年：伊拉克和黎凡特伊斯兰国对伊拉克提克里特的斯派克营地发动袭击，导致 1,095 至 1,700 名什叶派伊拉克人丧生。这是历史上第二致命的恐怖主义行为，仅次于 9/11。
-- - 2009年：伊朗有争议的总统选举引发了广泛的当地和国际抗议。
-- - 1999 年：科索沃战争：联合守护者行动开始，北约领导的联合国维和部队科索沃部队 (KFor) 进入南斯拉夫联盟共和国的科索沃省。
-- - 1993 年：尼日利亚举行选举，Moshood Kashimawo Olawale Abiola 获胜。其结果后来被易卜拉欣·巴班吉达军政府废除。
-- - 1991 年：Kokkadichcholai 屠杀：斯里兰卡军队在东部省拜蒂克洛镇附近的 Kokkadichcholai 村屠杀了 152 名泰米尔少数民族平民。
-- - 1991年：在现代俄罗斯第一次民主选举中，鲍里斯·叶利钦当选为俄罗斯总统。
-- - 1990 年：俄罗斯日：俄罗斯联邦议会正式宣布其主权。
-- - 1988 年：澳大利亚航空公司 046 号航班（一架麦道 MD-81）在解放者何塞·德·圣马丁将军机场跑道附近坠毁，机上 22 人全部遇难。
-- - 1987 年：冷战：在勃兰登堡门，美国总统罗纳德·里根公开挑战米哈伊尔·戈尔巴乔夫推倒柏林墙。
-- - 1987 年：中非共和国前皇帝让-贝德尔·博卡萨因在其 13 年统治期间犯下的罪行被判处死刑。
-- - 1982年：核裁军集会和音乐会在纽约市举行。
-- - 1981 年：夺宝奇兵系列电影的第一部《夺宝奇兵》在影院上映。
-- - 1979 年：布莱恩·艾伦 (Bryan Allen) 凭借驾驶“薄纱信天翁”号穿越英吉利海峡的人力飞行赢得了第二个克雷默奖。
-- - 1975 年：北方邦诉拉吉·纳拉因 (Raj Narain)：贾格莫汉拉尔·辛哈 (Jagmohanlal Sinha) 法官在英迪拉·甘地 (Indira Gandhi) 当选印度议会议员的案件中做出了不利于她的裁决，并禁止她担任任何公职，从而引发了政治危机。
-- - 1967 年：美国最高法院在 Loving 诉弗吉尼亚州案中宣布美国所有禁止异族通婚的州法律均违宪。
-- - 1964 年：反种族隔离活动家、非国大领导人纳尔逊·曼德拉因在南非进行破坏活动被判处终身监禁。
-- - 1963 年：由伊丽莎白·泰勒和理查德·伯顿主演的电影《埃及艳后》在美国影院上映。这是当时制作成本最高的电影。
-- - 1963 年：全国有色人种协进会现场秘书梅德加·埃弗斯 (Medgar Evers) 在民权运动期间在密西西比州杰克逊的家门前被三K党成员拜伦·德拉·贝克威斯 (Byron De La Beckwith) 谋杀。
-- - 1954年：教皇庇护十二世册封去世时年仅14岁的多米尼克·萨维奥为圣人，使他成为当时罗马天主教会中最年轻的未殉道圣人。2017 年，弗朗西斯科·马托 (Francisco Marto) 和杰辛塔·马托 (Jacinta Marto) 去世时分别为十岁和九岁，被宣布为圣人。
-- - 1950 年：一架法航道格拉斯 DC-4 飞机在巴林国际机场附近坠毁，造成 46 人死亡。
-- - 1944 年：第二次世界大战：卡朗坦战役：第 101 空降师的美国伞兵占领了法国诺曼底的卡朗坦镇。
-- - 1943 年：大屠杀：德国清理了波兰布热扎尼（现乌克兰别列扎尼）的犹太人聚居区。大约 1,180 名犹太人被带到该市古老的犹太墓地并被枪杀。
-- - 1942 年：安妮·弗兰克收到一本日记作为她的十三岁生日礼物。
-- - 1940 年：第二次世界大战：一万三千名英国和法国军队在圣瓦莱里昂科克斯向埃尔文·隆美尔将军投降。
-- - 1939 年：棒球名人堂在纽约库珀斯敦开幕。
+- - 2025年：以色列对伊朗发动空袭，十二日战争爆发。
+- - 2023 年：英格兰诺丁汉清晨发生刺伤和货车冲撞袭击，造成 3 人死亡、3 人受伤。
+- - 2023 年：一艘婚礼船在尼日利亚夸拉州尼日尔河倾覆，造成至少 100 人死亡。
+- - 2021 年：中国湖北省十堰市张湾区发生瓦斯爆炸，造成至少 12 人死亡、138 多人受伤。
+- - 2018年：大众汽车因排放丑闻被罚款10亿欧元。
+- - 2015 年：一名男子在德克萨斯州达拉斯警察总部外向警察开枪，同时还发现了一个装有管状炸弹的袋子。他后来被警察开枪打死。
+- - 2012年：包括巴格达、希拉和基尔库克在内的伊拉克各地发生一系列爆炸事件，造成至少93人死亡、300多人受伤。
+- - 2010 年：日本隼鸟号宇宙飞船的太空舱载有小行星 25143 丝川的粒子，在澳大利亚内陆着陆返回地球。
+- - 2007 年：阿斯卡里清真寺第二次遭到轰炸。
+- - 2005 年：陪审团宣告流行歌手迈克尔·杰克逊 (Michael Jackson) 在 1993 年涉嫌性骚扰儿童的指控无罪。
+- - 2002年：美国退出《反弹道导弹条约》。
+- - 2000 年：意大利赦免 1981 年试图刺杀教皇约翰·保罗二世的土耳其枪手穆罕默德·阿里·阿卡 (Mehmet Ali Ağca)。
+- - 2000 年：韩国总统金大中会见朝鲜领导人金正日，在朝鲜首都平壤举行首次朝韩峰会。
+- - 1999 年：BMW 赢得 1999 年勒芒 24 小时耐力赛
+- - 1997年：德里格林公园发生乌法尔电影院火灾，造成59人死亡、103人重伤。
+- - 1997 年：陪审团因蒂莫西·麦克维参与 1995 年俄克拉荷马城爆炸案而判处他死刑。
+- - 1996 年：印尼鹰航 865 号航班从福冈机场起飞时坠毁，造成 3 人死亡、170 人受伤。
+- - 1996 年：蒙大拿州自由民在与联邦调查局特工对峙 81 天后投降。
+- - 1994 年：阿拉斯加安克雷奇的一个陪审团将埃克森瓦尔迪兹灾难归咎于埃克森美孚和约瑟夫·黑泽尔伍德船长的鲁莽行为，允许漏油受害者寻求 150 亿美元的损失赔偿。
+- - 1990 年：1990 年 6 月罗马尼亚 Mineriad 的第一天。齐奥塞斯库后的第一次选举引发的混乱中，至少有 240 名罢工者和学生被捕或被杀。
+- - 1983 年：先锋 10 号超越海王星轨道，成为第一个离开中央太阳系的人造物体。
+- - 1982 年：马岛战争期间的坦布尔当 (Tumbledown) 和无线山脊 (Wireless Ridge) 战役。
+- - 1982 年：法赫德在其兄弟哈立德去世后成为沙特阿拉伯国王。
+- - 1981 年：在伦敦举行的阅兵仪式上，少年马库斯·萨吉特 (Marcus Sarjeant) 向伊丽莎白二世女王开了六枪。
+- - 1977 年：被定罪的马丁·路德·金刺杀者詹姆斯·厄尔·雷三天前越狱后被抓获。
+- - 1973 年：在退伍军人体育场对阵费城费城人队的比赛中，洛杉矶道奇队的队友 Steve Garvey、Davey Lopes、Ron Cey 和 Bill Russell 首次作为内野球员一起比赛，并创造了美国职业棒球大联盟 (MLB) 一起比赛的记录 .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac.num,.mw-解析器输出 .frac .den{字体大小:80%;行高:0;垂直对齐:超级}.mw-解析器输出 .frac .den{垂直对齐:sub}.mw-解析器输出 .sr-only{边框:0;剪辑:矩形(0,0,0,0);剪辑路径:多边形(0px 0px,0px0px,0px 0px);高度:1px;边距:-1px;溢出:隐藏;填充:0;位置:绝对;宽度:1px}8+1⁄2 年。
+- - 1971 年：越南战争：《纽约时报》开始发表五角大楼文件。
+- - 1967 年：美国总统林登·约翰逊 (Lyndon B. Johnson) 提名副检察长瑟古德·马歇尔 (Thurgood Marshall) 成为美国最高法院第一位黑人法官。
+- - 1966 年：美国最高法院在米兰达诉亚利桑那州案中裁定，警方在审讯嫌疑人之前必须告知他们第五修正案的权利（俗称“米兰达化”）。
+- - 1952 年：卡塔琳娜事件：一架瑞典道格拉斯 DC-3 被一架苏联 MiG-15 战斗机击落。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-06-12 04:19:20 UTC）*
+*（更新于: 2026-06-13 04:08:14 UTC）*
