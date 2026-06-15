@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2017: Republican U.S. House Majority Whip Steve Scalise of Louisiana, and three others, are shot and wounded while practicing for the annual Congressional Baseball Game.
-- 2017: The Grenfell Tower fire, a catastrophic fire in a high-rise apartment building in North Kensington, London, UK, leaves 72 people dead and another 74 injured.
-- 2014: A Ukraine military Ilyushin Il-76 airlifter is shot down, killing all 49 people on board.
-- 2002: Near-Earth asteroid 2002 MN misses the Earth by 75,000 miles (121,000 km), about one-third of the distance between the Earth and the Moon.
-- 1994: The 1994 Vancouver Stanley Cup riot occurs after the New York Rangers defeat the Vancouver Canucks to win the Stanley Cup, causing an estimated C$1.1 million, leading to 200 arrests and injuries.
-- 1986: The Mindbender derails, killing three riders and severely injuring one at the Fantasyland (known today as Galaxyland) indoor amusement park at West Edmonton Mall in Edmonton, Alberta.
-- 1985: Five member nations of the European Economic Community sign the Schengen Agreement establishing a free travel zone with no border controls.
-- 1982: Falklands War: Argentine forces in the capital Stanley conditionally surrender to British forces.
-- 1972: Japan Air Lines Flight 471 crashes on approach to Palam International Airport (now Indira Gandhi International Airport) in New Delhi, India, killing 82 of the 87 people on board and four more people on the ground.
-- 1967: Mariner program: Mariner 5 is launched towards Venus.
-- 1966: The Vatican announces the abolition of the Index Librorum Prohibitorum ("index of prohibited books"), which was originally instituted in 1557.
-- 1962: The European Space Research Organisation is established in Paris - later becoming the European Space Agency.
-- 1959: Disneyland Monorail System, the first daily operating monorail system in the Western Hemisphere, opens to the public in Anaheim, California.
-- 1955: Chile becomes a signatory to the Buenos Aires copyright treaty.
-- 1954: U.S. President Dwight D. Eisenhower signs a bill into law that places the words "under God" into the United States Pledge of Allegiance.
-- 1951: UNIVAC I is dedicated by the U.S. Census Bureau.
-- 1950: An Air France Douglas DC-4 crashes near Bahrain International Airport, killing 40 people. This came two days after another Air France DC-4 crashed in the same location.
-- 1949: Albert II, a rhesus monkey, rides a V-2 rocket to an altitude of 134 km (83 mi), thereby becoming the first mammal and first monkey in space.
-- 1945: World War II: Filipino troops of the Philippine Commonwealth Army liberate the captured in Ilocos Sur and start the Battle of Bessang Pass in Northern Luzon.
-- 1944: World War II: After several failed attempts, the British Army abandons Operation Perch, its plan to capture the German-occupied town of Caen.
-- 1941: June deportation: The first major wave of Soviet mass deportations of Estonians, Latvians, and Lithuanians from the occupied Baltic states begins.
-- 1940: Seven hundred and twenty-eight Polish political prisoners from Tarnów become the first inmates of the Auschwitz concentration camp.
-- 1940: The Soviet Union presents an ultimatum to Lithuania, resulting in Lithuanian loss of independence.
-- 1940: World War II: The German occupation of Paris begins.
-- 1937: U.S. House of Representatives passes the Marihuana Tax Act.
-- 1937: Pennsylvania becomes the first (and only) state of the United States to celebrate Flag Day officially as a state holiday.
-- 1934: The landmark Australian Eastern Mission returns from its three-month tour of East and South-East Asia.
-- 1931: A deadly tornado strikes Birmingham, England, damaging 2,221 homes and businesses. 
-- 1926: Brazil leaves the League of Nations.
-- 1919: John Alcock and Arthur Whitten Brown depart from St. John's, Newfoundland on the first nonstop transatlantic flight.
+- 2013: A bomb explodes on a bus in the Pakistani city of Quetta, killing at least 25 people and wounding 22 others.
+- 1996: The Troubles: The Provisional Irish Republican Army (IRA) detonates a powerful truck bomb in the middle of Manchester, England, devastating the city centre and injuring 200 people.
+- 1992: The United States Supreme Court rules in United States v. Álvarez-Machaín that it is permissible for the United States to forcibly extradite suspects in foreign countries and bring them to the United States for trial, without approval from those other countries.
+- 1991: In the Philippines, Mount Pinatubo erupts in the second largest volcanic eruption of the 20th century, killing over 800 people.
+- 1988: The Ariane 4 rocket is launched on its maiden flight.
+- 1977: After the death of dictator Francisco Franco in 1975, the first democratic elections take place in Spain.
+- 1972: Cathay Pacific Flight 700Z is destroyed by a bomb over Pleiku, Vietnam (then South Vietnam) and kills 81 people.
+- 1944: In the Saskatchewan general election, the CCF, led by Tommy Douglas, is elected and forms the first socialist government in North America.
+- 1944: World War II: The United States invades Saipan, capital of Japan's South Seas Mandate.
+- 1940: World War II: Operation Aerial begins: Allied troops start to evacuate France, following Germany's takeover of Paris and most of the nation.
+- 1920: Following the 1920 Schleswig plebiscites, Northern Schleswig is transferred from Germany to Denmark.
+- 1919: John Alcock and Arthur Brown complete the first nonstop transatlantic flight when they reach Clifden, County Galway, Ireland.
+- 1904: A fire aboard the steamboat SS General Slocum in New York City's East River kills 1,000.
+- 1896: One of the deadliest tsunamis in Japan's history kills more than 22,000 people.
+- 1864: American Civil War: The Second Battle of Petersburg begins.
+- 1859: Ambiguity in the Oregon Treaty leads to the "Northwestern Boundary Dispute" between American and British/Canadian settlers.
+- 1846: The Oregon Treaty extends the border between the United States and British North America, established by the Treaty of 1818, westward to the Pacific Ocean.
+- 1834: The looting of Safed commences.
+- 1826: In the Auspicious Incident, the Janissary mutiny against Sultan Mahmud II is defeated and the Janissary corps is disbanded as a result.
+- 1804: New Hampshire approves the Twelfth Amendment to the United States Constitution, ratifying the document.
+- 1607: Virginia Colonists finished building James's Fort, to defend against Spanish and Indian attacks.
+- 1567: Mary, Queen of Scots, and her new husband Bothwell are confronted by disgruntled Scottish nobles in the encounter at Carberry Hill. The stand-off ends with the surrender of queen Mary.
+- 1520: Pope Leo X threatens to excommunicate Martin Luther in Exsurge Domine.
+- 1410: Ottoman Interregnum: Süleyman Çelebi defeats his brother Musa Çelebi outside the Byzantine capital, Constantinople.
+- 1410: In a decisive battle at Onon River, the Mongol forces of Oljei Temur were decimated by the Chinese armies of the Yongle Emperor.
+- 1389: The Ottomans under Sultan Murad I defeat a Serb army under Lazar of Serbia in the battle of Kosovo. Both leaders are killed in the battle.
+- 1312: At the Battle of Rozgony, King Charles I of Hungary wins a decisive victory over the family of Palatine Amade Aba.
+- 1310: The Tiepolo conspiracy, seeking to seize power in the Republic of Venice, is thwarted after bloody street clashes in Venice. The suppression of the revolt will lead to the creation of the Council of Ten.
+- 1285: The Byzantine Empire and the Republic of Venice conclude a treaty. Apart from agreeng on a ten year truce, the Venetians are alloted a commercial quarter in Constantinople and are restored to earlier privileges.
+- 1246: With the death of Frederick II, Duke of Austria, the Babenberg dynasty ends in Austria.
 
 Data from muffinlabs
-*(Updated at: 2026-06-14 04:25:09 UTC)*
+*(Updated at: 2026-06-15 04:48:36 UTC)*
 
 # 历史上的今天 
 
-- - 2017 年：来自路易斯安那州的共和党美国众议院多数党党鞭史蒂夫·斯卡利斯 (Steve Scalise) 和其他三人在一年一度的国会棒球比赛练习时遭到枪击受伤。
-- - 2017 年：英国伦敦北肯辛顿一栋高层公寓楼发生灾难性火灾格伦菲尔塔火灾，造成 72 人死亡、74 人受伤。
-- - 2014 年：一架乌克兰军用伊留申 Il-76 运输机被击落，机上 49 人全部遇难。
-- - 2002 年：近地小行星 2002 MN 偏离地球 75,000 英里（121,000 公里），大约是地球与月球之间距离的三分之一。
-- - 1994 年：1994 年温哥华斯坦利杯骚乱发生在纽约游骑兵队击败温哥华加人队赢得斯坦利杯后，造成估计 110 万加元的损失，导致 200 人被捕和受伤。
-- - 1986 年：阿尔伯塔省埃德蒙顿西埃德蒙顿购物中心的幻想世界（今天称为银河世界）室内游乐园中，Mindbender 出轨，导致三名乘客死亡，一名乘客重伤。
-- - 1985 年：欧洲经济共同体五个成员国签署《申根协定》，建立无边境管制的自由旅行区。
-- - 1982 年：马岛战争：首都斯坦利的阿根廷军队有条件向英军投降。
-- - 1972 年：日本航空 471 号航班在飞往印度新德里帕拉姆国际机场（现英迪拉甘地国际机场）时坠毁，机上 87 人中的 82 人死亡，地面上另有 4 人死亡。
-- - 1967 年：水手计划：水手 5 号向金星发射。
-- - 1966 年：梵蒂冈宣布废除最初于 1557 年制定的 Index Librorum Prohibitorum（“禁书索引”）。
-- - 1962 年：欧洲空间研究组织在巴黎成立 - 后来成为欧洲航天局。
-- - 1959 年：迪士尼乐园单轨铁路系统，西半球第一个日常运营的单轨铁路系统，在加利福尼亚州阿纳海姆向公众开放。
-- - 1955 年：智利成为布宜诺斯艾利斯版权条约的签署国。
-- - 1954 年：美国总统德怀特·D·艾森豪威尔签署一项法案，将“上帝之下”一词纳入美国效忠誓言中。
-- - 1951 年：UNIVAC I 由美国人口普查局专用。
-- - 1950 年：一架法航道格拉斯 DC-4 飞机在巴林国际机场附近坠毁，造成 40 人死亡。两天前，另一架法航 DC-4 在同一地点坠毁。
-- - 1949 年：恒河猴阿尔伯特二世 (Albert II) 乘坐 V-2 火箭到达 134 公里（83 英里）的高度，从而成为第一个进入太空的哺乳动物和第一只猴子。
-- - 1945 年：第二次世界大战：菲律宾联邦军的菲律宾军队解放了南伊罗戈的俘虏，并开始了北吕宋岛的贝桑山口战役。
-- - 1944 年：第二次世界大战：经过几次失败的尝试，英国陆军放弃了夺取德国占领的卡昂小镇的“鲈鱼行动”。
-- - 1941 年：六月驱逐：苏联从被占领的波罗的海国家大规模驱逐爱沙尼亚人、拉脱维亚人和立陶宛人的第一波浪潮开始。
-- - 1940 年：来自塔尔努夫的 728 名波兰政治犯成为奥斯威辛集中营的第一批囚犯。
-- - 1940年：苏联向立陶宛发出最后通牒，导致立陶宛失去独立。
-- - 1940 年：第二次世界大战：德国占领巴黎开始。
-- - 1937 年：美国众议院通过《大麻税法》。
-- - 1937 年：宾夕法尼亚州成为美国第一个（也是唯一一个）将国旗日正式庆祝为州假日的州。
-- - 1934 年：具有里程碑意义的澳大利亚东方传教团结束为期三个月的东亚和东南亚之旅返回。
-- - 1931 年：一场致命的龙卷风袭击了英国伯明翰，摧毁了 2,221 所房屋和企业。
-- - 1926 年：巴西退出国际联盟。
-- - 1919 年：约翰·阿尔科克 (John Alcock) 和阿瑟·惠顿·布朗 (Arthur Whitten Brown) 从纽芬兰圣约翰出发，搭乘首趟直飞跨大西洋航班。
+- - 2013 年：巴基斯坦城市奎达的一辆公共汽车上发生炸弹爆炸，造成至少 25 人死亡、22 人受伤。
+- - 1996 年：麻烦：爱尔兰临时共和军 (IRA) 在英国曼彻斯特市中心引爆了一枚威力强大的卡车炸弹，摧毁了市中心并造成 200 人受伤。
+- - 1992年：美国最高法院在“美国诉阿尔瓦雷斯-马查恩案”中裁定，美国可以在未经其他国家批准的情况下强行引渡外国嫌疑人并将其带到美国接受审判。
+- - 1991 年：菲律宾皮纳图博火山爆发了 20 世纪第二大火山喷发，造成 800 多人死亡。
+- - 1988 年：阿丽亚娜 4 号火箭首次飞行。
+- - 1977年：独裁者弗朗西斯科·佛朗哥于1975年去世后，西班牙举行了第一次民主选举。
+- - 1972 年：国泰航空 700Z 航班在越南波来古（当时的南越）上空被一枚炸弹摧毁，造成 81 人死亡。
+- - 1944年：在萨斯喀彻温省大选中，汤米·道格拉斯领导的CCF当选并组建北美第一个社会主义政府。
+- - 1944 年：第二次世界大战：美国入侵日本南海托管地首都塞班岛。
+- - 1940 年：第二次世界大战：空中行动开始：德国占领巴黎和法国大部分地区后，盟军开始撤离法国。
+- - 1920 年：在 1920 年石勒苏益格公民投票之后，北石勒苏益格从德国转移到丹麦。
+- - 1919 年：约翰·阿尔科克 (John Alcock) 和亚瑟·布朗 (Arthur Brown) 抵达爱尔兰戈尔韦郡克利夫登，完成了首次直飞跨大西洋飞行。
+- - 1904 年：纽约市东河上的 SS General Slocum 轮船发生火灾，造成 1,000 人死亡。
+- - 1896 年：日本历史上最致命的海啸之一造成 22,000 多人死亡。
+- - 1864 年：美国内战：第二次彼得堡战役开始。
+- - 1859 年：俄勒冈条约的模糊性导致美国和英国/加拿大定居者之间的“西北边界争端”。
+- - 1846 年：《俄勒冈条约》将 1818 年条约确立的美国和英属北美之间的边界向西延伸至太平洋。
+- - 1834 年：萨法德的抢劫开始。
+- - 1826年：在吉祥事件中，禁卫军针对苏丹马哈茂德二世的叛变被击败，禁卫军因此被解散。
+- - 1804 年：新罕布什尔州通过了美国宪法第十二修正案，批准了该文件。
+- - 1607 年：弗吉尼亚殖民者完成了詹姆斯堡的建造，以抵御西班牙和印第安人的攻击。
+- - 1567 年：苏格兰女王玛丽和她的新婚丈夫博思韦尔在卡伯里山遭遇心怀不满的苏格兰贵族。这场对峙以玛丽女王投降而告终。
+- - 1520 年：教皇利奥十世在 Exsurge Domine 中威胁要将马丁·路德逐出教会。
+- - 1410 年：奥斯曼帝国空位期：苏莱曼·切莱比在拜占庭首都君士坦丁堡外击败了他的兄弟穆萨·切莱比。
+- - 1410年：在斡难河的一场决定性战役中，额列帖木儿的蒙古军队被永乐皇帝的中国军队歼灭。
+- - 1389年：苏丹穆拉德一世领导下的奥斯曼帝国在科索沃战役中击败了塞尔维亚拉扎尔领导下的塞尔维亚军队。两位领导人都在战斗中阵亡。
+- - 1312 年：在罗兹戈尼战役中，匈牙利国王查理一世对帕拉丁阿马德·阿巴家族取得决定性胜利。
+- - 1310 年：提埃坡罗企图夺取威尼斯共和国权力的阴谋在威尼斯街头发生血腥冲突后遭到挫败。镇压叛乱将导致十人委员会的成立。
+- - 1285年：拜占庭帝国与威尼斯共和国缔结条约。除了达成十年休战协议外，威尼斯人还获得了君士坦丁堡的商业区，并恢复了之前的特权。
+- - 1246年：随着奥地利公爵腓特烈二世的去世，巴本堡王朝在奥地利结束。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-06-14 04:25:09 UTC）*
+*（更新于: 2026-06-15 04:48:36 UTC）*
