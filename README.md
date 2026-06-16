@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2013: A bomb explodes on a bus in the Pakistani city of Quetta, killing at least 25 people and wounding 22 others.
-- 1996: The Troubles: The Provisional Irish Republican Army (IRA) detonates a powerful truck bomb in the middle of Manchester, England, devastating the city centre and injuring 200 people.
-- 1992: The United States Supreme Court rules in United States v. Álvarez-Machaín that it is permissible for the United States to forcibly extradite suspects in foreign countries and bring them to the United States for trial, without approval from those other countries.
-- 1991: In the Philippines, Mount Pinatubo erupts in the second largest volcanic eruption of the 20th century, killing over 800 people.
-- 1988: The Ariane 4 rocket is launched on its maiden flight.
-- 1977: After the death of dictator Francisco Franco in 1975, the first democratic elections take place in Spain.
-- 1972: Cathay Pacific Flight 700Z is destroyed by a bomb over Pleiku, Vietnam (then South Vietnam) and kills 81 people.
-- 1944: In the Saskatchewan general election, the CCF, led by Tommy Douglas, is elected and forms the first socialist government in North America.
-- 1944: World War II: The United States invades Saipan, capital of Japan's South Seas Mandate.
-- 1940: World War II: Operation Aerial begins: Allied troops start to evacuate France, following Germany's takeover of Paris and most of the nation.
-- 1920: Following the 1920 Schleswig plebiscites, Northern Schleswig is transferred from Germany to Denmark.
-- 1919: John Alcock and Arthur Brown complete the first nonstop transatlantic flight when they reach Clifden, County Galway, Ireland.
-- 1904: A fire aboard the steamboat SS General Slocum in New York City's East River kills 1,000.
-- 1896: One of the deadliest tsunamis in Japan's history kills more than 22,000 people.
-- 1864: American Civil War: The Second Battle of Petersburg begins.
-- 1859: Ambiguity in the Oregon Treaty leads to the "Northwestern Boundary Dispute" between American and British/Canadian settlers.
-- 1846: The Oregon Treaty extends the border between the United States and British North America, established by the Treaty of 1818, westward to the Pacific Ocean.
-- 1834: The looting of Safed commences.
-- 1826: In the Auspicious Incident, the Janissary mutiny against Sultan Mahmud II is defeated and the Janissary corps is disbanded as a result.
-- 1804: New Hampshire approves the Twelfth Amendment to the United States Constitution, ratifying the document.
-- 1607: Virginia Colonists finished building James's Fort, to defend against Spanish and Indian attacks.
-- 1567: Mary, Queen of Scots, and her new husband Bothwell are confronted by disgruntled Scottish nobles in the encounter at Carberry Hill. The stand-off ends with the surrender of queen Mary.
-- 1520: Pope Leo X threatens to excommunicate Martin Luther in Exsurge Domine.
-- 1410: Ottoman Interregnum: Süleyman Çelebi defeats his brother Musa Çelebi outside the Byzantine capital, Constantinople.
-- 1410: In a decisive battle at Onon River, the Mongol forces of Oljei Temur were decimated by the Chinese armies of the Yongle Emperor.
-- 1389: The Ottomans under Sultan Murad I defeat a Serb army under Lazar of Serbia in the battle of Kosovo. Both leaders are killed in the battle.
-- 1312: At the Battle of Rozgony, King Charles I of Hungary wins a decisive victory over the family of Palatine Amade Aba.
-- 1310: The Tiepolo conspiracy, seeking to seize power in the Republic of Venice, is thwarted after bloody street clashes in Venice. The suppression of the revolt will lead to the creation of the Council of Ten.
-- 1285: The Byzantine Empire and the Republic of Venice conclude a treaty. Apart from agreeng on a ten year truce, the Venetians are alloted a commercial quarter in Constantinople and are restored to earlier privileges.
-- 1246: With the death of Frederick II, Duke of Austria, the Babenberg dynasty ends in Austria.
+- 2019: Upwards of 2,000,000 people participate in the 2019-20 Hong Kong protests, the largest in Hong Kong's history.
+- 2016: Shanghai Disneyland Park, the first Disney Park in mainland China, opens to the public.
+- 2015: American businessman Donald Trump announces his campaign to run for President of the United States in the upcoming election.
+- 2013: A multi-day cloudburst, centered on the North Indian state of Uttarakhand, causes devastating floods and landslides, becoming the country's worst natural disaster since the 2004 tsunami.
+- 2012: The United States Air Force's robotic Boeing X-37B spaceplane returns to Earth after a classified 469-day orbital mission.
+- 2012: China successfully launches its Shenzhou 9 spacecraft, carrying three astronauts, including the first female Chinese astronaut Liu Yang, to the Tiangong-1 orbital module.
+- 2010: Bhutan becomes the first country to institute a total ban on tobacco.
+- 2002: Padre Pio is canonized by the Roman Catholic Church.
+- 2000: The Secretary-General of the UN reports that Israel has complied with United Nations Security Council Resolution 425, 22 years after its issuance, and completely withdrew from Lebanon. The Resolution does not encompass the Shebaa farms, which is claimed by Israel, Syria and Lebanon.
+- 1997: Fifty people are killed in the Daïat Labguer (M'sila) massacre in Algeria.
+- 1995: The Astronomy Picture of the Day website is launched.
+- 1989: Revolutions of 1989: Imre Nagy, the former Hungarian prime minister, is reburied in Budapest following the collapse of Communism in Hungary.
+- 1981: US President Ronald Reagan awards the Congressional Gold Medal to Ken Taylor, Canada's former ambassador to Iran, for helping six Americans escape from Iran during the hostage crisis of 1979-81; he is the first foreign citizen bestowed the honor.
+- 1977: Oracle Corporation is incorporated in Redwood Shores, California, as Software Development Laboratories (SDL), by Larry Ellison, Bob Miner and Ed Oates.
+- 1976: Soweto uprising: A non-violent march by 15,000 students in Soweto, South Africa, turns into days of rioting when police open fire on the crowd.
+- 1972: The largest single-site hydroelectric power project in Canada is inaugurated at Churchill Falls Generating Station.
+- 1963: In an attempt to resolve the Buddhist crisis in South Vietnam, a Joint Communique was signed between President Ngo Dinh Diem and Buddhist leaders.
+- 1963: Soviet Space Program: Vostok 6 mission: Cosmonaut Valentina Tereshkova becomes the first woman in space.
+- 1961: While on tour with the Kirov Ballet in Paris, Rudolf Nureyev defects from the Soviet Union.
+- 1958: Imre Nagy, Pál Maléter and other leaders of the 1956 Hungarian Uprising are executed.
+- 1955: In a futile effort to topple Argentine President Juan Perón, rogue aircraft pilots of the Argentine Navy drop several bombs upon an unarmed crowd demonstrating in favor of Perón in Buenos Aires, killing 364 and injuring at least 800. At the same time on the ground, some soldiers attempt to stage a coup but are suppressed by loyal forces.
+- 1948: Members of the Malayan Communist Party kill three British plantation managers in Sungai Siput; in response, British Malaya declares a state of emergency.
+- 1940: The Soviet Union occupies Lithuania, which will eventually become the Lithuanian Soviet Socialist Republic (SSR).
+- 1940: World War II: Marshal Henri Philippe Pétain becomes Chief of State of Vichy France (Chef de l'État Français).
+- 1933: The National Industrial Recovery Act is passed in the United States, allowing businesses to avoid antitrust prosecution if they establish voluntary wage, price, and working condition regulations on an industry-wide basis.
+- 1930: Sovnarkom establishes decree time in the USSR.
+- 1925: Artek, the most famous Young Pioneer camp of the Soviet Union, is established.
+- 1922: General election in the Irish Free State: The pro-Treaty Sinn Féin party wins a large majority.
+- 1911: IBM founded as the Computing-Tabulating-Recording Company in Endicott, New York.
+- 1904: Irish author James Joyce begins a relationship with Nora Barnacle and subsequently uses the date to set the actions for his novel Ulysses; this date is now traditionally called "Bloomsday".
 
 Data from muffinlabs
-*(Updated at: 2026-06-15 04:48:36 UTC)*
+*(Updated at: 2026-06-16 04:46:15 UTC)*
 
 # 历史上的今天 
 
-- - 2013 年：巴基斯坦城市奎达的一辆公共汽车上发生炸弹爆炸，造成至少 25 人死亡、22 人受伤。
-- - 1996 年：麻烦：爱尔兰临时共和军 (IRA) 在英国曼彻斯特市中心引爆了一枚威力强大的卡车炸弹，摧毁了市中心并造成 200 人受伤。
-- - 1992年：美国最高法院在“美国诉阿尔瓦雷斯-马查恩案”中裁定，美国可以在未经其他国家批准的情况下强行引渡外国嫌疑人并将其带到美国接受审判。
-- - 1991 年：菲律宾皮纳图博火山爆发了 20 世纪第二大火山喷发，造成 800 多人死亡。
-- - 1988 年：阿丽亚娜 4 号火箭首次飞行。
-- - 1977年：独裁者弗朗西斯科·佛朗哥于1975年去世后，西班牙举行了第一次民主选举。
-- - 1972 年：国泰航空 700Z 航班在越南波来古（当时的南越）上空被一枚炸弹摧毁，造成 81 人死亡。
-- - 1944年：在萨斯喀彻温省大选中，汤米·道格拉斯领导的CCF当选并组建北美第一个社会主义政府。
-- - 1944 年：第二次世界大战：美国入侵日本南海托管地首都塞班岛。
-- - 1940 年：第二次世界大战：空中行动开始：德国占领巴黎和法国大部分地区后，盟军开始撤离法国。
-- - 1920 年：在 1920 年石勒苏益格公民投票之后，北石勒苏益格从德国转移到丹麦。
-- - 1919 年：约翰·阿尔科克 (John Alcock) 和亚瑟·布朗 (Arthur Brown) 抵达爱尔兰戈尔韦郡克利夫登，完成了首次直飞跨大西洋飞行。
-- - 1904 年：纽约市东河上的 SS General Slocum 轮船发生火灾，造成 1,000 人死亡。
-- - 1896 年：日本历史上最致命的海啸之一造成 22,000 多人死亡。
-- - 1864 年：美国内战：第二次彼得堡战役开始。
-- - 1859 年：俄勒冈条约的模糊性导致美国和英国/加拿大定居者之间的“西北边界争端”。
-- - 1846 年：《俄勒冈条约》将 1818 年条约确立的美国和英属北美之间的边界向西延伸至太平洋。
-- - 1834 年：萨法德的抢劫开始。
-- - 1826年：在吉祥事件中，禁卫军针对苏丹马哈茂德二世的叛变被击败，禁卫军因此被解散。
-- - 1804 年：新罕布什尔州通过了美国宪法第十二修正案，批准了该文件。
-- - 1607 年：弗吉尼亚殖民者完成了詹姆斯堡的建造，以抵御西班牙和印第安人的攻击。
-- - 1567 年：苏格兰女王玛丽和她的新婚丈夫博思韦尔在卡伯里山遭遇心怀不满的苏格兰贵族。这场对峙以玛丽女王投降而告终。
-- - 1520 年：教皇利奥十世在 Exsurge Domine 中威胁要将马丁·路德逐出教会。
-- - 1410 年：奥斯曼帝国空位期：苏莱曼·切莱比在拜占庭首都君士坦丁堡外击败了他的兄弟穆萨·切莱比。
-- - 1410年：在斡难河的一场决定性战役中，额列帖木儿的蒙古军队被永乐皇帝的中国军队歼灭。
-- - 1389年：苏丹穆拉德一世领导下的奥斯曼帝国在科索沃战役中击败了塞尔维亚拉扎尔领导下的塞尔维亚军队。两位领导人都在战斗中阵亡。
-- - 1312 年：在罗兹戈尼战役中，匈牙利国王查理一世对帕拉丁阿马德·阿巴家族取得决定性胜利。
-- - 1310 年：提埃坡罗企图夺取威尼斯共和国权力的阴谋在威尼斯街头发生血腥冲突后遭到挫败。镇压叛乱将导致十人委员会的成立。
-- - 1285年：拜占庭帝国与威尼斯共和国缔结条约。除了达成十年休战协议外，威尼斯人还获得了君士坦丁堡的商业区，并恢复了之前的特权。
-- - 1246年：随着奥地利公爵腓特烈二世的去世，巴本堡王朝在奥地利结束。
+- - 2019年：超过200万人参加了2019-20年香港抗议活动，这是香港历史上最大规模的抗议活动。
+- - 2016年：中国大陆首个迪士尼乐园——上海迪士尼乐园向公众开放。
+- - 2015年：美国商人唐纳德·特朗普宣布竞选美国总统。
+- - 2013 年：以印度北部北阿坎德邦为中心的多日暴雨造成毁灭性洪水和山体滑坡，成为该国自 2004 年海啸以来最严重的自然灾害。
+- - 2012 年：美国空军的机器人波音 X-37B 太空飞机在完成 469 天的机密轨道任务后返回地球。
+- - 2012年：中国成功发射神舟九号飞船，将包括中国第一位女航天员刘洋在内的三名宇航员送入天宫一号轨道舱。
+- - 2010年：不丹成为第一个全面禁止烟草的国家。
+- - 2002年：比奥神父被罗马天主教会封为圣人。
+- - 2000 年：联合国秘书长报告说，以色列在联合国安理会第 425 号决议发布 22 年后遵守了该决议，并完全从黎巴嫩撤军。该决议不包括以色列、叙利亚和黎巴嫩声称拥有主权的沙巴阿农场。
+- - 1997 年：阿尔及利亚的 Daïat Labguer (M'sila) 大屠杀造成 50 人死亡。
+- - 1995 年：“每日天文图片”网站推出。
+- - 1989 年：1989 年革命：随着匈牙利共产主义的崩溃，匈牙利前总理伊姆雷·纳吉 (Imre Nagy) 在布达佩斯被重新安葬。
+- - 1981 年：美国总统罗纳德·里根向加拿大前驻伊朗大使肯·泰勒授予国会金质奖章，表彰他在 1979-81 年人质危机期间帮助六名美国人逃离伊朗；他是第一位获此殊荣的外国公民。
+- - 1977 年：Oracle Corporation 由 Larry Ellison、Bob Miner 和 Ed Oates 在加利福尼亚州 Redwood Shores 成立，名称为软件开发实验室 (SDL)。
+- - 1976 年：索韦托起义：南非索韦托 15,000 名学生举行的非暴力游行，因警察向人群开枪而演变成持续数天的骚乱。
+- - 1972 年：加拿大最大的单点水力发电项目在丘吉尔瀑布发电站落成。
+- - 1963年：为了解决南越的佛教危机，总统吴庭艳与佛教领袖签署了联合公报。
+- - 1963 年：苏联太空计划：东方 6 号任务：宇航员瓦伦蒂娜·捷列什科娃 (Valentina Tereshkova) 成为第一位进入太空的女性。
+- - 1961 年：在巴黎基洛夫芭蕾舞团巡演期间，鲁道夫·努里耶夫叛逃苏联。
+- - 1958 年：纳吉伊姆雷 (Imre Nagy)、帕尔·马莱特 (Pál Maléter) 和 1956 年匈牙利起义的其他领导人被处决。
+- - 1955 年：为了推翻阿根廷总统胡安·庇隆，阿根廷海军的流氓飞机飞行员向布宜诺斯艾利斯支持庇隆的手无寸铁的人群投掷了数枚炸弹，造成 364 人死亡、至少 800 人受伤。与此同时，在地面上，一些士兵试图发动政变，但遭到忠诚部队的镇压。
+- - 1948年：马来亚共产党成员在和丰杀死三名英国种植园经理；作为回应，英属马来亚宣布进入紧急状态。
+- - 1940年：苏联占领立陶宛，最终成为立陶宛苏维埃社会主义共和国（SSR）。
+- - 1940 年：第二次世界大战：亨利·菲利普·贝当元帅成为维希法国国家元首 (Chef de l'État Français)。
+- - 1933 年：美国通过《国家工业复兴法案》，允许企业在全行业范围内建立自愿工资、价格和工作条件法规，从而避免反垄断起诉。
+- - 1930 年：国家委员会在苏联设立法令时间。
+- - 1925年：苏联最著名的少先队营“阿尔泰克”成立。
+- - 1922 年：爱尔兰自由邦大选：支持条约的新芬党赢得多数席位。
+- - 1911 年：IBM 在纽约恩迪科特成立计算制表记录公司。
+- - 1904 年：爱尔兰作家詹姆斯·乔伊斯 (James Joyce) 与诺拉·巴纳克尔 (Nora Barnacle) 开始交往，随后利用这一天为他的小说《尤利西斯》设定了情节；这个日期现在传统上被称为“Bloomsday”。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-06-15 04:48:36 UTC）*
+*（更新于: 2026-06-16 04:46:15 UTC）*
