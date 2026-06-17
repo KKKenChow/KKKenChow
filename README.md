@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: Upwards of 2,000,000 people participate in the 2019-20 Hong Kong protests, the largest in Hong Kong's history.
-- 2016: Shanghai Disneyland Park, the first Disney Park in mainland China, opens to the public.
-- 2015: American businessman Donald Trump announces his campaign to run for President of the United States in the upcoming election.
-- 2013: A multi-day cloudburst, centered on the North Indian state of Uttarakhand, causes devastating floods and landslides, becoming the country's worst natural disaster since the 2004 tsunami.
-- 2012: The United States Air Force's robotic Boeing X-37B spaceplane returns to Earth after a classified 469-day orbital mission.
-- 2012: China successfully launches its Shenzhou 9 spacecraft, carrying three astronauts, including the first female Chinese astronaut Liu Yang, to the Tiangong-1 orbital module.
-- 2010: Bhutan becomes the first country to institute a total ban on tobacco.
-- 2002: Padre Pio is canonized by the Roman Catholic Church.
-- 2000: The Secretary-General of the UN reports that Israel has complied with United Nations Security Council Resolution 425, 22 years after its issuance, and completely withdrew from Lebanon. The Resolution does not encompass the Shebaa farms, which is claimed by Israel, Syria and Lebanon.
-- 1997: Fifty people are killed in the Daïat Labguer (M'sila) massacre in Algeria.
-- 1995: The Astronomy Picture of the Day website is launched.
-- 1989: Revolutions of 1989: Imre Nagy, the former Hungarian prime minister, is reburied in Budapest following the collapse of Communism in Hungary.
-- 1981: US President Ronald Reagan awards the Congressional Gold Medal to Ken Taylor, Canada's former ambassador to Iran, for helping six Americans escape from Iran during the hostage crisis of 1979-81; he is the first foreign citizen bestowed the honor.
-- 1977: Oracle Corporation is incorporated in Redwood Shores, California, as Software Development Laboratories (SDL), by Larry Ellison, Bob Miner and Ed Oates.
-- 1976: Soweto uprising: A non-violent march by 15,000 students in Soweto, South Africa, turns into days of rioting when police open fire on the crowd.
-- 1972: The largest single-site hydroelectric power project in Canada is inaugurated at Churchill Falls Generating Station.
-- 1963: In an attempt to resolve the Buddhist crisis in South Vietnam, a Joint Communique was signed between President Ngo Dinh Diem and Buddhist leaders.
-- 1963: Soviet Space Program: Vostok 6 mission: Cosmonaut Valentina Tereshkova becomes the first woman in space.
-- 1961: While on tour with the Kirov Ballet in Paris, Rudolf Nureyev defects from the Soviet Union.
-- 1958: Imre Nagy, Pál Maléter and other leaders of the 1956 Hungarian Uprising are executed.
-- 1955: In a futile effort to topple Argentine President Juan Perón, rogue aircraft pilots of the Argentine Navy drop several bombs upon an unarmed crowd demonstrating in favor of Perón in Buenos Aires, killing 364 and injuring at least 800. At the same time on the ground, some soldiers attempt to stage a coup but are suppressed by loyal forces.
-- 1948: Members of the Malayan Communist Party kill three British plantation managers in Sungai Siput; in response, British Malaya declares a state of emergency.
-- 1940: The Soviet Union occupies Lithuania, which will eventually become the Lithuanian Soviet Socialist Republic (SSR).
-- 1940: World War II: Marshal Henri Philippe Pétain becomes Chief of State of Vichy France (Chef de l'État Français).
-- 1933: The National Industrial Recovery Act is passed in the United States, allowing businesses to avoid antitrust prosecution if they establish voluntary wage, price, and working condition regulations on an industry-wide basis.
-- 1930: Sovnarkom establishes decree time in the USSR.
-- 1925: Artek, the most famous Young Pioneer camp of the Soviet Union, is established.
-- 1922: General election in the Irish Free State: The pro-Treaty Sinn Féin party wins a large majority.
-- 1911: IBM founded as the Computing-Tabulating-Recording Company in Endicott, New York.
-- 1904: Irish author James Joyce begins a relationship with Nora Barnacle and subsequently uses the date to set the actions for his novel Ulysses; this date is now traditionally called "Bloomsday".
+- 2021: Juneteenth National Independence Day, was signed into law by President Joe Biden, to become the first federal holiday established since Martin Luther King Jr. Day in 1983.
+- 2017: A series of wildfires in central Portugal kill at least 64 people and injure 204 others.
+- 2015: Nine people are killed in a mass shooting at Emanuel African Methodist Episcopal Church in Charleston, South Carolina.
+- 1994: Following a televised low-speed highway chase, O. J. Simpson is arrested for the murders of his ex-wife, Nicole Brown Simpson, and her friend Ronald Goldman.
+- 1992: A "joint understanding" agreement on arms reduction is signed by U.S. president George Bush and Russian president Boris Yeltsin (this would be later codified in START II).
+- 1991: Apartheid: The South African Parliament repeals the Population Registration Act which required racial classification of all South Africans at birth.
+- 1989: Interflug Flight 102 crashes during a rejected takeoff from Berlin Schönefeld Airport, killing 21 people.
+- 1987: With the death of the last individual of the species, the dusky seaside sparrow becomes extinct.
+- 1985: Space Shuttle program: STS-51-G mission: Space Shuttle Discovery launches carrying Sultan bin Salman bin Abdulaziz Al Saud, the first Arab and first Muslim in space, as a payload specialist.
+- 1972: Watergate scandal: Five White House operatives are arrested for burgling the offices of the Democratic National Committee during an attempt by members of the administration of President Richard M. Nixon to illegally wiretap the political opposition as part of a broader campaign to subvert the democratic process.
+- 1971: U.S. president Richard Nixon in a televised press conference called drug abuse "America's public enemy number one", starting the war on drugs.
+- 1967: Nuclear weapons testing: China announces a successful test of its first thermonuclear weapon.
+- 1963: A day after South Vietnamese president Ngô Đình Diệm announced the Joint Communiqué to end the Buddhist crisis, a riot involving around 2,000 people breaks out. One person is killed.
+- 1963: The United States Supreme Court rules 8-1 in Abington School District v. Schempp against requiring the reciting of Bible verses and the Lord's Prayer in public schools.
+- 1960: The Nez Perce tribe is awarded $4 million for 7 million acres (28,000 km2) of land undervalued at four cents/acre in the 1863 treaty.
+- 1958: The Ironworkers Memorial Second Narrows Crossing, in the process of being built to connect Vancouver and North Vancouver (Canada), collapses into the Burrard Inlet killing 18 ironworkers and injuring others.
+- 1953: Cold War: East Germany Workers Uprising: In East Germany, the Soviet Union orders a division of troops into East Berlin to quell a rebellion.
+- 1952: Guatemala passes Decree 900, ordering the redistribution of uncultivated land.
+- 1948: United Airlines Flight 624, a Douglas DC-6, crashes near Mount Carmel, Pennsylvania, killing all 43 people on board.
+- 1944: Iceland declares independence from Denmark and becomes a republic.
+- 1940: The three Baltic states of Estonia, Latvia and Lithuania fall under the occupation of the Soviet Union.
+- 1940: World War II: The British Army's 11th Hussars assault and take Fort Capuzzo in Libya from Italian forces.
+- 1940: World War II: RMS Lancastria is attacked and sunk by the Luftwaffe near Saint-Nazaire, France. At least 3,000 are killed in Britain's worst maritime disaster.
+- 1939: Last public guillotining in France: Eugen Weidmann, a convicted murderer, is executed in Versailles outside the Saint-Pierre prison.
+- 1933: Union Station massacre: In Kansas City, Missouri, four FBI agents and captured fugitive Frank Nash are gunned down by gangsters attempting to free Nash.
+- 1932: Bonus Army: Around a thousand World War I veterans amass at the United States Capitol as the U.S. Senate considers a bill that would give them certain benefits.
+- 1930: U.S. president Herbert Hoover signs the Smoot-Hawley Tariff Act into law.
+- 1929: The town of Murchison, New Zealand is rocked by a 7.8 magnitude earthquake killing 17. At the time it was New Zealand's worst natural disaster.
+- 1922: Portuguese naval aviators Gago Coutinho and Sacadura Cabral complete the first aerial crossing of the South Atlantic.
+- 1910: Aurel Vlaicu pilots an A. Vlaicu nr. 1 on its first flight.
 
 Data from muffinlabs
-*(Updated at: 2026-06-16 04:46:15 UTC)*
+*(Updated at: 2026-06-17 04:26:23 UTC)*
 
 # 历史上的今天 
 
-- - 2019年：超过200万人参加了2019-20年香港抗议活动，这是香港历史上最大规模的抗议活动。
-- - 2016年：中国大陆首个迪士尼乐园——上海迪士尼乐园向公众开放。
-- - 2015年：美国商人唐纳德·特朗普宣布竞选美国总统。
-- - 2013 年：以印度北部北阿坎德邦为中心的多日暴雨造成毁灭性洪水和山体滑坡，成为该国自 2004 年海啸以来最严重的自然灾害。
-- - 2012 年：美国空军的机器人波音 X-37B 太空飞机在完成 469 天的机密轨道任务后返回地球。
-- - 2012年：中国成功发射神舟九号飞船，将包括中国第一位女航天员刘洋在内的三名宇航员送入天宫一号轨道舱。
-- - 2010年：不丹成为第一个全面禁止烟草的国家。
-- - 2002年：比奥神父被罗马天主教会封为圣人。
-- - 2000 年：联合国秘书长报告说，以色列在联合国安理会第 425 号决议发布 22 年后遵守了该决议，并完全从黎巴嫩撤军。该决议不包括以色列、叙利亚和黎巴嫩声称拥有主权的沙巴阿农场。
-- - 1997 年：阿尔及利亚的 Daïat Labguer (M'sila) 大屠杀造成 50 人死亡。
-- - 1995 年：“每日天文图片”网站推出。
-- - 1989 年：1989 年革命：随着匈牙利共产主义的崩溃，匈牙利前总理伊姆雷·纳吉 (Imre Nagy) 在布达佩斯被重新安葬。
-- - 1981 年：美国总统罗纳德·里根向加拿大前驻伊朗大使肯·泰勒授予国会金质奖章，表彰他在 1979-81 年人质危机期间帮助六名美国人逃离伊朗；他是第一位获此殊荣的外国公民。
-- - 1977 年：Oracle Corporation 由 Larry Ellison、Bob Miner 和 Ed Oates 在加利福尼亚州 Redwood Shores 成立，名称为软件开发实验室 (SDL)。
-- - 1976 年：索韦托起义：南非索韦托 15,000 名学生举行的非暴力游行，因警察向人群开枪而演变成持续数天的骚乱。
-- - 1972 年：加拿大最大的单点水力发电项目在丘吉尔瀑布发电站落成。
-- - 1963年：为了解决南越的佛教危机，总统吴庭艳与佛教领袖签署了联合公报。
-- - 1963 年：苏联太空计划：东方 6 号任务：宇航员瓦伦蒂娜·捷列什科娃 (Valentina Tereshkova) 成为第一位进入太空的女性。
-- - 1961 年：在巴黎基洛夫芭蕾舞团巡演期间，鲁道夫·努里耶夫叛逃苏联。
-- - 1958 年：纳吉伊姆雷 (Imre Nagy)、帕尔·马莱特 (Pál Maléter) 和 1956 年匈牙利起义的其他领导人被处决。
-- - 1955 年：为了推翻阿根廷总统胡安·庇隆，阿根廷海军的流氓飞机飞行员向布宜诺斯艾利斯支持庇隆的手无寸铁的人群投掷了数枚炸弹，造成 364 人死亡、至少 800 人受伤。与此同时，在地面上，一些士兵试图发动政变，但遭到忠诚部队的镇压。
-- - 1948年：马来亚共产党成员在和丰杀死三名英国种植园经理；作为回应，英属马来亚宣布进入紧急状态。
-- - 1940年：苏联占领立陶宛，最终成为立陶宛苏维埃社会主义共和国（SSR）。
-- - 1940 年：第二次世界大战：亨利·菲利普·贝当元帅成为维希法国国家元首 (Chef de l'État Français)。
-- - 1933 年：美国通过《国家工业复兴法案》，允许企业在全行业范围内建立自愿工资、价格和工作条件法规，从而避免反垄断起诉。
-- - 1930 年：国家委员会在苏联设立法令时间。
-- - 1925年：苏联最著名的少先队营“阿尔泰克”成立。
-- - 1922 年：爱尔兰自由邦大选：支持条约的新芬党赢得多数席位。
-- - 1911 年：IBM 在纽约恩迪科特成立计算制表记录公司。
-- - 1904 年：爱尔兰作家詹姆斯·乔伊斯 (James Joyce) 与诺拉·巴纳克尔 (Nora Barnacle) 开始交往，随后利用这一天为他的小说《尤利西斯》设定了情节；这个日期现在传统上被称为“Bloomsday”。
+- - 2021 年：六月节全国独立日，由乔·拜登总统签署成为法律，成为自 1983 年马丁·路德·金纪念日以来设立的第一个联邦假日。
+- - 2017 年：葡萄牙中部发生一系列山火，造成至少 64 人死亡、204 人受伤。
+- - 2015 年：南卡罗来纳州查尔斯顿伊曼纽尔非洲卫理公会教堂发生大规模枪击事件，造成 9 人死亡。
+- - 1994 年：在一场电视转播的低速高速公路追逐之后，O.J. 辛普森因谋杀前妻妮可·布朗·辛普森和她的朋友罗纳德·戈德曼而被捕。
+- - 1992年：美国总统乔治·布什和俄罗斯总统鲍里斯·叶利钦签署了关于削减军备的“联合谅解”协议（该协议后来被编入《第二阶段削减战略武器条约》）。
+- - 1991 年：种族隔离：南非议会废除了《人口登记法》，该法要求对所有南非人出生时进行种族分类。
+- - 1989 年：Interflug 102 号航班在从柏林舍内菲尔德机场起飞时被拒绝坠毁，造成 21 人死亡。
+- - 1987 年：随着该物种最后一个个体的死亡，暗色海边麻雀灭绝了。
+- - 1985 年：航天飞机计划：STS-51-G 任务：发现号航天飞机发射，载有第一位进入太空的阿拉伯人和第一位穆斯林苏丹·本·萨勒曼·本·阿卜杜勒阿齐兹·阿勒沙特，作为有效载荷专家。
+- - 1972 年：水门事件：理查德·M·尼克松 (Richard M. Nixon) 总统的政府成员试图非法窃听政治反对派，作为颠覆民主进程的更广泛运动的一部分，五名白宫特工因盗窃民主党全国委员会办公室而被捕。
+- - 1971年：美国总统理查德·尼克松在电视新闻发布会上称毒品滥用为“美国的头号公敌”，开始了禁毒战争。
+- - 1967年：核武器试验：中国宣布成功试验其第一枚热核武器。
+- - 1963 年：南越总统吴廷琰宣布结束佛教危机的联合公报一天后，爆发了一场涉及约 2,000 人的骚乱。一人被杀。
+- - 1963 年：美国最高法院在 Abington School District v. Schempp 案中以 8 比 1 的裁决裁定，反对要求公立学校背诵圣经经文和主祷文。
+- - 1960 年：内兹珀斯部落获得了 700 万英亩（28,000 平方公里）土地的 400 万美元，根据 1863 年条约，其价值被低估为每英亩 4 美分。
+- - 1958 年：连接温哥华和北温哥华（加拿大）的钢铁工人纪念第二海峡大桥在建造过程中倒塌到布拉德湾，导致 18 名钢铁工人死亡，其他人受伤。
+- - 1953 年：冷战：东德工人起义：在东德，苏联下令派遣部队进入东柏林镇压叛乱。
+- - 1952 年：危地马拉通过第 900 号法令，命令重新分配未开垦土地。
+- - 1948 年：联合航空 624 号航班（一架道格拉斯 DC-6）在宾夕法尼亚州卡梅尔山附近坠毁，机上 43 人全部遇难。
+- - 1944 年：冰岛宣布脱离丹麦独立并成为共和国。
+- - 1940年：爱沙尼亚、拉脱维亚和立陶宛这三个波罗的海国家落入苏联占领之下。
+- - 1940 年：第二次世界大战：英国陆军第 11 轻骑兵突击队从意大利军队手中夺取了利比亚的卡普佐堡。
+- - 1940 年：第二次世界大战：兰开斯特里亚号在法国圣纳泽尔附近被德国空军攻击并击沉。英国最严重的海难中至少有 3,000 人丧生。
+- - 1939 年：法国最后一次公开断头台：被定罪的杀人犯欧根·魏德曼 (Eugen Weidmann) 在凡尔赛圣皮埃尔监狱外被处决。
+- - 1933 年：联合车站大屠杀：在密苏里州堪萨斯城，四名联邦调查局特工和被捕的逃犯弗兰克·纳什被试图释放纳什的歹徒枪杀。
+- - 1932 年：奖金军：大约一千名第一次世界大战退伍军人聚集在美国国会大厦，美国参议院正在考虑一项会给他们带来某些好处的法案。
+- - 1930 年：美国总统赫伯特·胡佛签署《斯穆特-霍利关税法案》成为法律。
+- - 1929 年：新西兰默奇森镇发生 7.8 级地震，造成 17 人死亡。当时这是新西兰最严重的自然灾害。
+- - 1922 年：葡萄牙海军飞行员加戈·库蒂尼奥 (Gago Coutinho) 和萨卡杜拉·卡布拉尔 (Sacadura Cabral) 完成了首次空中穿越南大西洋的任务。
+- - 1910 年：Aurel Vlaicu 驾驶一架 A. Vlaicu nr.1 首次飞行。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-06-16 04:46:15 UTC）*
+*（更新于: 2026-06-17 04:26:23 UTC）*
