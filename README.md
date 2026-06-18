@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: Juneteenth National Independence Day, was signed into law by President Joe Biden, to become the first federal holiday established since Martin Luther King Jr. Day in 1983.
-- 2017: A series of wildfires in central Portugal kill at least 64 people and injure 204 others.
-- 2015: Nine people are killed in a mass shooting at Emanuel African Methodist Episcopal Church in Charleston, South Carolina.
-- 1994: Following a televised low-speed highway chase, O. J. Simpson is arrested for the murders of his ex-wife, Nicole Brown Simpson, and her friend Ronald Goldman.
-- 1992: A "joint understanding" agreement on arms reduction is signed by U.S. president George Bush and Russian president Boris Yeltsin (this would be later codified in START II).
-- 1991: Apartheid: The South African Parliament repeals the Population Registration Act which required racial classification of all South Africans at birth.
-- 1989: Interflug Flight 102 crashes during a rejected takeoff from Berlin Schönefeld Airport, killing 21 people.
-- 1987: With the death of the last individual of the species, the dusky seaside sparrow becomes extinct.
-- 1985: Space Shuttle program: STS-51-G mission: Space Shuttle Discovery launches carrying Sultan bin Salman bin Abdulaziz Al Saud, the first Arab and first Muslim in space, as a payload specialist.
-- 1972: Watergate scandal: Five White House operatives are arrested for burgling the offices of the Democratic National Committee during an attempt by members of the administration of President Richard M. Nixon to illegally wiretap the political opposition as part of a broader campaign to subvert the democratic process.
-- 1971: U.S. president Richard Nixon in a televised press conference called drug abuse "America's public enemy number one", starting the war on drugs.
-- 1967: Nuclear weapons testing: China announces a successful test of its first thermonuclear weapon.
-- 1963: A day after South Vietnamese president Ngô Đình Diệm announced the Joint Communiqué to end the Buddhist crisis, a riot involving around 2,000 people breaks out. One person is killed.
-- 1963: The United States Supreme Court rules 8-1 in Abington School District v. Schempp against requiring the reciting of Bible verses and the Lord's Prayer in public schools.
-- 1960: The Nez Perce tribe is awarded $4 million for 7 million acres (28,000 km2) of land undervalued at four cents/acre in the 1863 treaty.
-- 1958: The Ironworkers Memorial Second Narrows Crossing, in the process of being built to connect Vancouver and North Vancouver (Canada), collapses into the Burrard Inlet killing 18 ironworkers and injuring others.
-- 1953: Cold War: East Germany Workers Uprising: In East Germany, the Soviet Union orders a division of troops into East Berlin to quell a rebellion.
-- 1952: Guatemala passes Decree 900, ordering the redistribution of uncultivated land.
-- 1948: United Airlines Flight 624, a Douglas DC-6, crashes near Mount Carmel, Pennsylvania, killing all 43 people on board.
-- 1944: Iceland declares independence from Denmark and becomes a republic.
-- 1940: The three Baltic states of Estonia, Latvia and Lithuania fall under the occupation of the Soviet Union.
-- 1940: World War II: The British Army's 11th Hussars assault and take Fort Capuzzo in Libya from Italian forces.
-- 1940: World War II: RMS Lancastria is attacked and sunk by the Luftwaffe near Saint-Nazaire, France. At least 3,000 are killed in Britain's worst maritime disaster.
-- 1939: Last public guillotining in France: Eugen Weidmann, a convicted murderer, is executed in Versailles outside the Saint-Pierre prison.
-- 1933: Union Station massacre: In Kansas City, Missouri, four FBI agents and captured fugitive Frank Nash are gunned down by gangsters attempting to free Nash.
-- 1932: Bonus Army: Around a thousand World War I veterans amass at the United States Capitol as the U.S. Senate considers a bill that would give them certain benefits.
-- 1930: U.S. president Herbert Hoover signs the Smoot-Hawley Tariff Act into law.
-- 1929: The town of Murchison, New Zealand is rocked by a 7.8 magnitude earthquake killing 17. At the time it was New Zealand's worst natural disaster.
-- 1922: Portuguese naval aviators Gago Coutinho and Sacadura Cabral complete the first aerial crossing of the South Atlantic.
-- 1910: Aurel Vlaicu pilots an A. Vlaicu nr. 1 on its first flight.
+- 2023: Titan, a submersible operated by OceanGate Expeditions, imploded while attempting to view the wreck of the Titanic, killing all five people on board including OceanGate co-founder and CEO Stockton Rush in the North Atlantic Ocean.
+- 2018: An earthquake of magnitude 6.1 strikes northern Osaka.
+- 2009: The Lunar Reconnaissance Orbiter (LRO), a NASA robotic spacecraft is launched.
+- 2007: The Charleston Sofa Super Store fire happened in Charleston, South Carolina, killing nine firefighters.
+- 2006: The first Kazakh space satellite, KazSat-1 is launched.
+- 1998: Propair Flight 420 crashes near Montréal-Mirabel International Airport in Quebec, Canada, killing 11.
+- 1994: The Troubles: Members of the Ulster Volunteer Force (UVF) attack a crowded pub with assault rifles in Loughinisland, Northern Ireland. Six Catholic civilians are killed and five wounded. It was crowded with people watching the 1994 FIFA World Cup.
+- 1984: A major clash between about 5,000 police and a similar number of striking miners takes place at Orgreave, South Yorkshire, during the 1984-85 UK miners' strike.
+- 1983: Mona Mahmudnizhad, together with nine other women of the Baháʼí Faith, is sentenced to death and hanged in Shiraz, Iran over her religious beliefs.
+- 1983: Space Shuttle program: STS-7, Astronaut Sally Ride becomes the first American woman in space.
+- 1982: Italian banker Roberto Calvi's body is discovered hanging beneath Blackfriars Bridge in London, England.
+- 1981: The Lockheed F-117 Nighthawk, the first operational aircraft initially designed around stealth technology, makes its first flight.
+- 1979: SALT II is signed by the United States and the Soviet Union.
+- 1972: Staines air disaster: One hundred eighteen people are killed when a BEA H.S. Trident crashes minutes after takeoff from London's Heathrow Airport.
+- 1965: Vietnam War: The United States Air Force uses B-52 bombers to attack guerrilla fighters in South Vietnam.
+- 1958: Benjamin Britten's one-act opera Noye's Fludde premiered at the Aldeburgh Festival.
+- 1954: Carlos Castillo Armas leads an invasion force across the Guatemalan border, setting in motion the 1954 Guatemalan coup d'état.
+- 1953: A United States Air Force C-124 crashes and burns near Tachikawa, Japan, killing 129.
+- 1953: The Egyptian revolution of 1952 ends with the overthrow of the Muhammad Ali dynasty and the declaration of the Republic of Egypt.
+- 1948: Britain, France and the United States announce that on June 21, the Deutsche Mark will be introduced in western Germany and West Berlin. Over the next six days, Communists increasingly restrict access to Berlin.[citation needed]
+- 1948: Columbia Records introduces the long-playing record album in a public demonstration at the Waldorf-Astoria Hotel in New York City.
+- 1946: Dr. Ram Manohar Lohia, a Socialist, calls for a Direct Action Day against the Portuguese in Goa.
+- 1945: William Joyce ("Lord Haw-Haw") is charged with treason for his pro-German propaganda broadcasting during World War II.
+- 1940: The "Finest Hour" speech is delivered by Winston Churchill.
+- 1940: Appeal of 18 June by Charles de Gaulle.
+- 1935: Police in Vancouver, British Columbia, Canada, clash with striking longshoremen, resulting in a total of 60 injuries and 24 arrests.
+- 1928: Aviator Amelia Earhart becomes the first woman to fly in an aircraft across the Atlantic Ocean (she is a passenger; Wilmer Stultz is the pilot and Lou Gordon the mechanic).
+- 1920: The Troubles in Ulster (1920-1922) begin with a week of sectarian violence in Derry.
+- 1908: The University of the Philippines is established.
+- 1908: Japanese immigration to Brazil begins when 781 people arrive in Santos aboard the ship Kasato-Maru.
 
 Data from muffinlabs
-*(Updated at: 2026-06-17 04:26:23 UTC)*
+*(Updated at: 2026-06-18 04:19:35 UTC)*
 
 # 历史上的今天 
 
-- - 2021 年：六月节全国独立日，由乔·拜登总统签署成为法律，成为自 1983 年马丁·路德·金纪念日以来设立的第一个联邦假日。
-- - 2017 年：葡萄牙中部发生一系列山火，造成至少 64 人死亡、204 人受伤。
-- - 2015 年：南卡罗来纳州查尔斯顿伊曼纽尔非洲卫理公会教堂发生大规模枪击事件，造成 9 人死亡。
-- - 1994 年：在一场电视转播的低速高速公路追逐之后，O.J. 辛普森因谋杀前妻妮可·布朗·辛普森和她的朋友罗纳德·戈德曼而被捕。
-- - 1992年：美国总统乔治·布什和俄罗斯总统鲍里斯·叶利钦签署了关于削减军备的“联合谅解”协议（该协议后来被编入《第二阶段削减战略武器条约》）。
-- - 1991 年：种族隔离：南非议会废除了《人口登记法》，该法要求对所有南非人出生时进行种族分类。
-- - 1989 年：Interflug 102 号航班在从柏林舍内菲尔德机场起飞时被拒绝坠毁，造成 21 人死亡。
-- - 1987 年：随着该物种最后一个个体的死亡，暗色海边麻雀灭绝了。
-- - 1985 年：航天飞机计划：STS-51-G 任务：发现号航天飞机发射，载有第一位进入太空的阿拉伯人和第一位穆斯林苏丹·本·萨勒曼·本·阿卜杜勒阿齐兹·阿勒沙特，作为有效载荷专家。
-- - 1972 年：水门事件：理查德·M·尼克松 (Richard M. Nixon) 总统的政府成员试图非法窃听政治反对派，作为颠覆民主进程的更广泛运动的一部分，五名白宫特工因盗窃民主党全国委员会办公室而被捕。
-- - 1971年：美国总统理查德·尼克松在电视新闻发布会上称毒品滥用为“美国的头号公敌”，开始了禁毒战争。
-- - 1967年：核武器试验：中国宣布成功试验其第一枚热核武器。
-- - 1963 年：南越总统吴廷琰宣布结束佛教危机的联合公报一天后，爆发了一场涉及约 2,000 人的骚乱。一人被杀。
-- - 1963 年：美国最高法院在 Abington School District v. Schempp 案中以 8 比 1 的裁决裁定，反对要求公立学校背诵圣经经文和主祷文。
-- - 1960 年：内兹珀斯部落获得了 700 万英亩（28,000 平方公里）土地的 400 万美元，根据 1863 年条约，其价值被低估为每英亩 4 美分。
-- - 1958 年：连接温哥华和北温哥华（加拿大）的钢铁工人纪念第二海峡大桥在建造过程中倒塌到布拉德湾，导致 18 名钢铁工人死亡，其他人受伤。
-- - 1953 年：冷战：东德工人起义：在东德，苏联下令派遣部队进入东柏林镇压叛乱。
-- - 1952 年：危地马拉通过第 900 号法令，命令重新分配未开垦土地。
-- - 1948 年：联合航空 624 号航班（一架道格拉斯 DC-6）在宾夕法尼亚州卡梅尔山附近坠毁，机上 43 人全部遇难。
-- - 1944 年：冰岛宣布脱离丹麦独立并成为共和国。
-- - 1940年：爱沙尼亚、拉脱维亚和立陶宛这三个波罗的海国家落入苏联占领之下。
-- - 1940 年：第二次世界大战：英国陆军第 11 轻骑兵突击队从意大利军队手中夺取了利比亚的卡普佐堡。
-- - 1940 年：第二次世界大战：兰开斯特里亚号在法国圣纳泽尔附近被德国空军攻击并击沉。英国最严重的海难中至少有 3,000 人丧生。
-- - 1939 年：法国最后一次公开断头台：被定罪的杀人犯欧根·魏德曼 (Eugen Weidmann) 在凡尔赛圣皮埃尔监狱外被处决。
-- - 1933 年：联合车站大屠杀：在密苏里州堪萨斯城，四名联邦调查局特工和被捕的逃犯弗兰克·纳什被试图释放纳什的歹徒枪杀。
-- - 1932 年：奖金军：大约一千名第一次世界大战退伍军人聚集在美国国会大厦，美国参议院正在考虑一项会给他们带来某些好处的法案。
-- - 1930 年：美国总统赫伯特·胡佛签署《斯穆特-霍利关税法案》成为法律。
-- - 1929 年：新西兰默奇森镇发生 7.8 级地震，造成 17 人死亡。当时这是新西兰最严重的自然灾害。
-- - 1922 年：葡萄牙海军飞行员加戈·库蒂尼奥 (Gago Coutinho) 和萨卡杜拉·卡布拉尔 (Sacadura Cabral) 完成了首次空中穿越南大西洋的任务。
-- - 1910 年：Aurel Vlaicu 驾驶一架 A. Vlaicu nr.1 首次飞行。
+- - 2023 年：OceanGate Expeditions 运营的一艘潜水器泰坦号在试图查看泰坦尼克号残骸时发生内爆，导致船上五人全部遇难，其中包括北大西洋的 OceanGate 联合创始人兼首席执行官斯托克顿·拉什 (Stockton Rush)。
+- - 2018 年：大阪北部发生里氏 6.1 级地震。
+- - 2009 年：NASA 机器人航天器月球勘测轨道飞行器 (LRO) 发射升空。
+- - 2007年：南卡罗来纳州查尔斯顿发生查尔斯顿沙发超市火灾，造成九名消防员死亡。
+- - 2006年：哈萨克斯坦第一颗太空卫星KazSat-1发射。
+- - 1998 年：Propair 420 航班在加拿大魁北克省蒙特利尔米拉贝尔国际机场附近坠毁，造成 11 人死亡。
+- - 1994 年：麻烦：北爱尔兰洛尼岛，阿尔斯特志愿军 (UVF) 成员用突击步枪袭击了一家拥挤的酒吧。六名天主教平民被杀，五人受伤。那里挤满了观看 1994 年 FIFA 世界杯的人们。
+- - 1984 年：1984-85 年英国矿工罢工期间，南约克郡奥格里夫发生了约 5,000 名警察和类似数量的罢工矿工之间的重大冲突。
+- - 1983 年：莫娜·马哈茂德尼扎德 (Mona Mahmudnizhad) 与其他九名巴哈伊信仰女性因宗教信仰在伊朗设拉子被判处死刑并绞死。
+- - 1983 年：航天飞机计划：STS-7，宇航员 Sally Ride 成为第一位进入太空的美国女性。
+- - 1982 年：意大利银行家罗伯托·卡尔维的尸体被发现悬挂在英国伦敦的布莱克法尔桥下。
+- - 1981 年：洛克希德 F-117 夜鹰 (Lockheed F-117 Nighthawk) 首次飞行，这是第一架最初围绕隐形技术设计的作战飞机。
+- - 1979年：美国和苏联签署SALT II。
+- - 1972 年：斯坦斯空难：一架 BEA H.S. 飞机造成 118 人死亡。三叉戟从伦敦希思罗机场起飞几分钟后坠毁。
+- - 1965年：越南战争：美国空军使用B-52轰炸机攻击南越游击队战士。
+- - 1958 年：本杰明·布里顿的独幕歌剧《诺伊的 Fludde》在奥尔德堡音乐节首演。
+- - 1954 年：卡洛斯·卡斯蒂略·阿马斯率领入侵部队越过危地马拉边境，引发了 1954 年危地马拉政变。
+- - 1953 年：一架美国空军 C-124 在日本立川附近坠毁并起火，造成 129 人死亡。
+- - 1953年：1952年的埃及革命以穆罕默德·阿里王朝的推翻和埃及共和国的成立而结束。
+- - 1948年：英国、法国和美国宣布，6月21日，德国西部和西柏林将启用德国马克。在接下来的六天里，共产党人越来越限制进入柏林。[需要引用]
+- - 1948 年：哥伦比亚唱片公司在纽约华尔道夫酒店的公开演示中推出了这张长期播放的唱片专辑。
+- - 1946 年：社会主义者拉姆·马诺哈尔·洛希亚 (Ram Manohar Lohia) 博士呼吁设立针对果阿葡萄牙人的直接行动日。
+- - 1945 年：威廉·乔伊斯（“Haw-Haw 勋爵”）因在二战期间进行亲德宣传广播而被指控犯有叛国罪。
+- - 1940 年：温斯顿·丘吉尔发表“最美好的时刻”演讲。
+- - 1940 年：戴高乐于 6 月 18 日发出呼吁。
+- - 1935年：加拿大不列颠哥伦比亚省温哥华市警察与罢工的码头工人发生冲突，共造成60人受伤、24人被捕。
+- - 1928 年：飞行员阿米莉亚·埃尔哈特 (Amelia Earhart) 成为第一位驾驶飞机飞越大西洋的女性（她是一名乘客；威尔默·斯图尔茨 (Wilmer Stultz) 是飞行员，卢·戈登 (Lou Gordon) 是机械师）。
+- - 1920 年：阿尔斯特的麻烦（1920-1922）始于德里为期一周的宗派暴力。
+- - 1908 年：菲律宾大学成立。
+- - 1908 年：当 781 人乘坐 Kasato-Maru 轮船抵达桑托斯时，日本开始向巴西移民。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-06-17 04:26:23 UTC）*
+*（更新于: 2026-06-18 04:19:35 UTC）*
