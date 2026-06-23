@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: The United States conducts airstrikes on three Iranian nuclear sites in Fordow, Natanz, and Isfahan.
-- 2022: An earthquake occurs in eastern Afghanistan resulting in over 1,000 deaths.
-- 2015: The Afghan National Assembly building is attacked by gunmen after a suicide bombing. All six of the gunmen are killed and 18 people are injured.
-- 2012: A Turkish Air Force McDonnell Douglas F-4 Phantom II fighter plane is shot down by the Syrian Armed Forces, killing both of the plane's pilots and worsening already-strained relations between Turkey and Syria.
-- 2012: Paraguayan President Fernando Lugo is removed from office by impeachment and succeeded by Federico Franco.
-- 2009: A Washington D.C Metro train traveling southbound near Fort Totten station collides into another train waiting to enter the station. Nine people are killed in the collision (eight passengers and the train operator) and at least 80 others are injured.
-- 2007: The small town of Elie, Manitoba is hit by Canada's most intense tornado on record.
-- 2002: An earthquake measuring 6.5 Mw strikes a region of northwestern Iran killing at least 261 people and injuring 1,300 others and eventually causing widespread public anger due to the slow official response.
-- 2000: Wuhan Airlines Flight 343 is struck by lightning and crashes into Wuhan's Hanyang District, killing 49 people.
-- 1990: Cold War: Checkpoint Charlie is dismantled in Berlin.
-- 1986: The famous Hand of God goal, scored by Diego Maradona in the quarter-finals of the 1986 FIFA World Cup match between Argentina and England, ignites controversy. This was later followed by the Goal of the Century. Argentina wins 2-1 and later goes on to win the World Cup.
-- 1984: Virgin Atlantic launches with its first flight from London to Newark.
-- 1979: Former Liberal Party leader Jeremy Thorpe was acquitted of conspiracy to murder Norman Scott, who had accused Thorpe of having a relationship with him.
-- 1978: Charon, the first of Pluto's satellites to be discovered, was first seen at the United States Naval Observatory by James W. Christy.
-- 1969: The Cuyahoga River catches fire in Cleveland, Ohio, drawing national attention to water pollution, and spurring the passing of the Clean Water Act and the creation of the Environmental Protection Agency.
-- 1966: Vietnamese Buddhist activist leader Thích Trí Quang was arrested as the military junta of Nguyen Cao Ky crushed the Buddhist Uprising.
-- 1965: The Treaty on Basic Relations between Japan and the Republic of Korea is signed.
-- 1962: Air France Flight 117 crashes on approach to Pointe-à-Pitre International Airport in Guadeloupe, killing 112 people.
-- 1948: King George VI formally gives up the title "Emperor of India", half a year after Britain actually gave up its rule of India.
-- 1948: The ship HMT Empire Windrush brought the first group of 802 West Indian immigrants to Tilbury, marking the start of modern immigration to the United Kingdom.
-- 1945: World War II: The Battle of Okinawa comes to an end with an American flag-raising ceremony.
-- 1944: U.S. President Franklin D. Roosevelt signs into law the Servicemen's Readjustment Act of 1944, commonly known as the G.I. Bill.
-- 1944: World War II: Opening day of the Soviet Union's Operation Bagration against the Army Group Centre.
-- 1942: The Pledge of Allegiance is formally adopted by U.S. Congress.
-- 1942: World War II: Erwin Rommel is promoted to Field Marshal after the Axis capture of Tobruk.
-- 1941: World War II: Nazi Germany invades the Soviet Union in Operation Barbarossa.
-- 1940: World War II: France is forced to sign the Second Compiègne armistice with Germany, in the same railroad car in which the Germans signed the Armistice in 1918.
-- 1922: British Army Field Marshal Sir Henry Wilson is killed by the Irish Republican Army helping to spark the Irish Civil War.
-- 1918: The Hammond Circus Train Wreck kills 86 and injures 127 near Hammond, Indiana.
-- 1911: Mexican Revolution: Government forces bring an end to the Magonista rebellion of 1911 in the Second Battle of Tijuana.
+- 2018: Twelve boys and an assistant coach from a soccer team in Thailand are trapped in a flooding cave, leading to an 18-day rescue operation.
+- 2017: A series of terrorist attacks take place in Pakistan, resulting in 96 deaths and wounding 200 others.
+- 2016: The United Kingdom votes in a referendum to leave the European Union, by 52% to 48%.
+- 2014: The last of Syria's declared chemical weapons are shipped out for destruction.
+- 2013: Militants storm a high-altitude mountaineering base camp near Nanga Parbat in Gilgit-Baltistan, Pakistan, killing ten climbers and a local guide.
+- 2013: Nik Wallenda becomes the first man to successfully walk across the Grand Canyon on a tight rope.
+- 2012: Ashton Eaton breaks the decathlon world record at the United States Olympic Trials.
+- 2005: American social news and discussion site Reddit is founded in Medford, Massachusetts by Steve Huffman and Alexis Ohanian.
+- 2001: The 8.4 Mw  southern Peru earthquake shakes coastal Peru with a maximum Mercalli intensity of VIII (Severe). A destructive tsunami followed, leaving at least 74 people dead, and 2,687 injured.
+- 1994: NASA's Space Station Processing Facility, a new state-of-the-art manufacturing building for the International Space Station, officially opens at Kennedy Space Center.
+- 1991: Sonic the Hedgehog is released in North America on the Sega Genesis platform, beginning the popular video game franchise.
+- 1985: A terrorist bomb explodes at Narita International Airport near Tokyo, killing two and injuring four. An hour later, the same group detonates a second bomb aboard Air India Flight 182, bringing the Boeing 747 down off the coast of Ireland killing all 329 aboard.
+- 1973: A fire at a house in Hull, England, which kills a six-year-old boy is passed off as an accident; it later emerges as the first of 26 deaths by fire caused over the next seven years by serial arsonist Peter Dinsdale.
+- 1972: Title IX of the United States Civil Rights Act of 1964 is amended to prohibit sexual discrimination to any educational program receiving federal funds.
+- 1972: Watergate scandal: U.S. President Richard M. Nixon and White House Chief of Staff H. R. Haldeman are taped talking about illegally using the Central Intelligence Agency to obstruct the Federal Bureau of Investigation's investigation into the Watergate break-ins.
+- 1969: IBM announces that effective January 1970 it will price its software and services separately from hardware thus creating the modern software industry.
+- 1969: Warren E. Burger is sworn in as Chief Justice of the United States Supreme Court by retiring Chief Justice Earl Warren.
+- 1968: Seventy-four people were killed and 150 other injured in a stampede at a football match between Boca Juniors and Club Atlético River Plate in Buenos Aires, Argentina.
+- 1967: Cold War: U.S. President Lyndon B. Johnson meets with Soviet Premier Alexei Kosygin in Glassboro, New Jersey for the three-day Glassboro Summit Conference.
+- 1961: The Antarctic Treaty System, which sets aside Antarctica as a scientific preserve and limits military activity on the continent, its islands and ice shelves, comes into force.
+- 1960: The United States Food and Drug Administration declares Enovid to be the first officially approved combined oral contraceptive pill in the world.
+- 1959: Convicted Manhattan Project spy Klaus Fuchs is released after only nine years in prison and allowed to emigrate to Dresden, East Germany where he resumes a scientific career.
+- 1956: The French National Assembly takes the first step in creating the French Community by passing the Loi Cadre, transferring a number of powers from Paris to elected territorial governments in French West Africa.
+- 1951: The ocean liner SS United States is christened and launched.
+- 1947: The United States Senate follows the United States House of Representatives in overriding U.S. President Harry S. Truman's veto of the Taft-Hartley Act.
+- 1946: The 1946 Vancouver Island earthquake strikes Vancouver Island, British Columbia, Canada.
+- 1944: An F4 tornado tears through the Appalachian Mountains, killing over 100 people in West Virginia, particularly in the town of Shinnston.
+- 1942: World War II: Germany's latest fighter aircraft, a Focke-Wulf Fw 190, is captured intact when it mistakenly lands at RAF Pembrey in Wales.
+- 1941: The Lithuanian Activist Front declares independence from the Soviet Union and forms the Provisional Government of Lithuania; it lasts only briefly as the Nazis will occupy Lithuania a few weeks later.
+- 1940: Henry Larsen begins the first successful west-to-east navigation of Northwest Passage from Vancouver, British Columbia, Canada.
 
 Data from muffinlabs
-*(Updated at: 2026-06-22 04:48:56 UTC)*
+*(Updated at: 2026-06-23 03:53:30 UTC)*
 
 # 历史上的今天 
 
-- - 2025年：美国对福尔多、纳坦兹和伊斯法罕的三个伊朗核设施进行空袭。
-- - 2022 年：阿富汗东部发生地震，造成 1,000 多人死亡。
-- - 2015年：阿富汗国民议会大楼在自杀式爆炸事件后遭到枪手袭击。六名枪手全部被杀，18 人受伤。
-- - 2012 年：土耳其空军的一架麦道 F-4 幻影 II 战斗机被叙利亚武装部队击落，导致飞机上的两名飞行员丧生，土耳其和叙利亚之间本已紧张的关系进一步恶化。
-- - 2012年：巴拉圭总统费尔南多·卢戈因弹劾而下台，由费德里科·佛朗哥继任。
-- - 2009 年：一列华盛顿特区地铁列车在托滕堡车站附近向南行驶时与另一列等待进站的列车相撞。碰撞事故造成 9 人死亡（8 名乘客和列车操作员），至少 80 人受伤。
-- - 2007 年：马尼托巴省埃利小镇遭受了加拿大有记录以来最强烈的龙卷风袭击。
-- - 2002 年：伊朗西北部地区发生了 6.5 兆瓦的地震，造成至少 261 人死亡、1,300 人受伤，并由于官方反应迟缓而最终引起了广泛的公众愤怒。
-- - 2000年：武汉航空343航班遭雷击坠入武汉汉阳区，造成49人死亡。
-- - 1990 年：冷战：柏林查理检查站被拆除。
-- - 1986年：1986年世界杯四分之一决赛阿根廷队对阵英格兰队的比赛中，迭戈·马拉多纳打进了著名的“上帝之手”进球，引发了争议。随后又提出了世纪目标。阿根廷2-1获胜，随后夺得世界杯冠军。
-- - 1984 年：维珍航空推出首条从伦敦飞往纽瓦克的航班。
-- - 1979 年：前自由党领袖杰里米·索普因串谋谋杀诺曼·斯科特而被无罪释放，后者指控索普与他有关系。
-- - 1978 年：卡戎是第一颗被发现的冥王星卫星，由詹姆斯·W·克里斯蒂在美国海军天文台首次发现。
-- - 1969 年：俄亥俄州克利夫兰的凯霍加河着火，引起了全国对水污染的关注，并促使《清洁水法》的通过和环境保护局的成立。
-- - 1966 年：越南佛教活动家领袖释智光 (Thích Trí Quang) 在阮高其军政府镇压佛教起义时被捕。
-- - 1965年：《日本和大韩民国基本关系条约》签署。
-- - 1962 年：法航 117 号航班在飞往瓜德罗普岛皮特尔角国际机场时坠毁，造成 112 人死亡。
-- - 1948年：乔治六世国王正式放弃“印度皇帝”的头衔，半年后英国实际上放弃了对印度的统治。
-- - 1948 年：HMT Empire Windrush 轮船将第一批 802 名西印度群岛移民带到蒂尔伯里，标志着英国现代移民的开始。
-- - 1945 年：第二次世界大战：冲绳岛战役以美国升旗仪式结束。
-- - 1944 年：美国总统富兰克林·罗斯福签署《1944 年军人调整法案》（俗称《退伍军人法案》）成为法律。账单。
-- - 1944 年：第二次世界大战：苏联针对中央集团军群的巴格拉季昂行动开始。
-- - 1942 年：美国国会正式通过效忠誓言。
-- - 1942 年：第二次世界大战：轴心国占领托布鲁克后，埃尔文·隆美尔晋升为陆军元帅。
-- - 1941 年：第二次世界大战：纳粹德国在巴巴罗萨行动中入侵苏联。
-- - 1940 年：第二次世界大战：法国被迫与德国签署第二次贡比涅停战协定，德国人在 1918 年签署停战协定时所用的车厢就是同一节车厢。
-- - 1922 年：英国陆军元帅亨利·威尔逊爵士被爱尔兰共和军杀害，引发了爱尔兰内战。
-- - 1918 年：印第安纳州哈蒙德附近的哈蒙德马戏团火车失事事故造成 86 人死亡、127 人受伤。
-- - 1911 年：墨西哥革命：政府军在第二次蒂华纳战役中结束了 1911 年马戈尼斯塔叛乱。
+- - 2018 年：泰国一支足球队的 12 名男孩和一名助理教练被困在洪水洞穴中，需要开展为期 18 天的救援行动。
+- - 2017年：巴基斯坦发生系列恐怖袭击事件，造成96人死亡、200人受伤。
+- - 2016年：英国在公投中以52%对48%的投票结果决定脱离欧盟。
+- - 2014年：叙利亚宣布的最后一批化学武器被运出进行销毁。
+- - 2013年：武装分子袭击了巴基斯坦吉尔吉特-巴尔蒂斯坦南迦帕尔巴特峰附近的一个高海拔登山大本营，造成十名登山者和一名当地向导死亡。
+- - 2013 年：尼克·瓦伦达 (Nik Wallenda) 成为第一个通过紧绳成功穿越大峡谷的人。
+- - 2012 年：阿什顿·伊顿 (Ashton Eaton) 在美国奥运会选拔赛上打破十项全能世界纪录。
+- - 2005 年：美国社交新闻和讨论网站 Reddit 由 Steve Huffman 和 Alexis Ohanian 在马萨诸塞州梅德福创立。
+- - 2001 年：秘鲁南部发生 8.4 兆瓦地震，震动秘鲁沿海，最大麦卡利强度为 VIII（严重）。随后发生了毁灭性海啸，造成至少 74 人死亡、2,687 人受伤。
+- - 1994 年：美国国家航空航天局 (NASA) 的空间站处理设施（国际空间站的一座新的最先进的制造大楼）在肯尼迪航天中心正式启用。
+- - 1991 年：《刺猬索尼克》在北美的 Sega Genesis 平台上发行，开始了流行的视频游戏系列。
+- - 1985 年：一枚恐怖炸弹在东京附近的成田国际机场爆炸，造成两人死亡、四人受伤。一小时后，同一伙人在印度航空 182 号航班上引爆了第二枚炸弹，导致这架波音 747 飞机在爱尔兰海岸附近坠落，机上 329 人全部遇难。
+- - 1973 年：英国赫尔一所房屋发生火灾，造成一名六岁男孩死亡，但被误认为是一场事故；后来，这成为连环纵火犯彼得·丁斯代尔 (Peter Dinsdale) 在接下来的七年里造成 26 人死亡的火灾中的第一起。
+- - 1972 年：对 1964 年美国民权法案第九条进行修订，禁止对任何接受联邦资助的教育项目进行性别歧视。
+- - 1972 年：水门事件丑闻：美国总统理查德·M·尼克松 (Richard M. Nixon) 和白宫办公厅主任 H. R. 霍尔德曼 (H. R. Haldeman) 被录音谈论非法利用中央情报局阻碍联邦调查局对水门事件的调查。
+- - 1969 年：IBM 宣布，从 1970 年 1 月起，它将将其软件和服务与硬件分开定价，从而创建了现代软件产业。
+- - 1969 年：沃伦·E·伯格 (Warren E. Burger) 在退休首席大法官厄尔·沃伦 (Earl Warren) 的陪伴下宣誓就任美国最高法院首席大法官。
+- - 1968 年：阿根廷布宜诺斯艾利斯，博卡青年队与河床俱乐部之间的一场足球比赛中发生踩踏事件，造成 74 人死亡、150 人受伤。
+- - 1967 年：冷战：美国总统林登·B·约翰逊在新泽西州格拉斯伯勒会见苏联总理阿列克谢·柯西金，参加为期三天的格拉斯伯勒峰会。
+- - 1961 年：《南极条约体系》生效，该体系将南极洲划为科学保护区，并限制该大陆、岛屿和冰架上的军事活动。
+- - 1960年：美国食品和药物管理局宣布Enovid是世界上第一个正式批准的复方口服避孕药。
+- - 1959 年：被定罪的曼哈顿计划间谍克劳斯·福克斯 (Klaus Fuchs) 在入狱仅九年后就被释放，并获准移民到东德德累斯顿，在那里他重新开始了科学生涯。
+- - 1956年：法国国民议会通过了Loi Cadre，迈出了创建法兰西共同体的第一步，将巴黎的多项权力移交给法属西非的民选领土政府。
+- - 1951 年：远洋客轮 SS United States 命名并下水。
+- - 1947 年：美国参议院继美国众议院之后推翻了美国总统哈里·S·杜鲁门 (Harry S. Truman) 对《塔夫脱-哈特利法案》的否决。
+- - 1946 年：1946 年温哥华岛地震袭击了加拿大不列颠哥伦比亚省温哥华岛。
+- - 1944 年：一场 F4 龙卷风席卷阿巴拉契亚山脉，造成西弗吉尼亚州 100 多人死亡，尤其是辛斯顿镇。
+- - 1942 年：第二次世界大战：德国最新型战斗机 Focke-Wulf Fw 190 在威尔士彭布雷皇家空军基地错误降落时被完好无损地俘获。
+- - 1941年：立陶宛激进主义阵线宣布脱离苏联独立并成立立陶宛临时政府；它只会持续很短的时间，因为纳粹将在几周后占领立陶宛。
+- - 1940 年：亨利·拉森 (Henry Larsen) 开始从加拿大不列颠哥伦比亚省温哥华出发的西北航道首次成功的自西向东航行。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-06-22 04:48:56 UTC）*
+*（更新于: 2026-06-23 03:53:30 UTC）*
