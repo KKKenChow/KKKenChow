@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2018: Twelve boys and an assistant coach from a soccer team in Thailand are trapped in a flooding cave, leading to an 18-day rescue operation.
-- 2017: A series of terrorist attacks take place in Pakistan, resulting in 96 deaths and wounding 200 others.
-- 2016: The United Kingdom votes in a referendum to leave the European Union, by 52% to 48%.
-- 2014: The last of Syria's declared chemical weapons are shipped out for destruction.
-- 2013: Militants storm a high-altitude mountaineering base camp near Nanga Parbat in Gilgit-Baltistan, Pakistan, killing ten climbers and a local guide.
-- 2013: Nik Wallenda becomes the first man to successfully walk across the Grand Canyon on a tight rope.
-- 2012: Ashton Eaton breaks the decathlon world record at the United States Olympic Trials.
-- 2005: American social news and discussion site Reddit is founded in Medford, Massachusetts by Steve Huffman and Alexis Ohanian.
-- 2001: The 8.4 Mw  southern Peru earthquake shakes coastal Peru with a maximum Mercalli intensity of VIII (Severe). A destructive tsunami followed, leaving at least 74 people dead, and 2,687 injured.
-- 1994: NASA's Space Station Processing Facility, a new state-of-the-art manufacturing building for the International Space Station, officially opens at Kennedy Space Center.
-- 1991: Sonic the Hedgehog is released in North America on the Sega Genesis platform, beginning the popular video game franchise.
-- 1985: A terrorist bomb explodes at Narita International Airport near Tokyo, killing two and injuring four. An hour later, the same group detonates a second bomb aboard Air India Flight 182, bringing the Boeing 747 down off the coast of Ireland killing all 329 aboard.
-- 1973: A fire at a house in Hull, England, which kills a six-year-old boy is passed off as an accident; it later emerges as the first of 26 deaths by fire caused over the next seven years by serial arsonist Peter Dinsdale.
-- 1972: Title IX of the United States Civil Rights Act of 1964 is amended to prohibit sexual discrimination to any educational program receiving federal funds.
-- 1972: Watergate scandal: U.S. President Richard M. Nixon and White House Chief of Staff H. R. Haldeman are taped talking about illegally using the Central Intelligence Agency to obstruct the Federal Bureau of Investigation's investigation into the Watergate break-ins.
-- 1969: IBM announces that effective January 1970 it will price its software and services separately from hardware thus creating the modern software industry.
-- 1969: Warren E. Burger is sworn in as Chief Justice of the United States Supreme Court by retiring Chief Justice Earl Warren.
-- 1968: Seventy-four people were killed and 150 other injured in a stampede at a football match between Boca Juniors and Club Atlético River Plate in Buenos Aires, Argentina.
-- 1967: Cold War: U.S. President Lyndon B. Johnson meets with Soviet Premier Alexei Kosygin in Glassboro, New Jersey for the three-day Glassboro Summit Conference.
-- 1961: The Antarctic Treaty System, which sets aside Antarctica as a scientific preserve and limits military activity on the continent, its islands and ice shelves, comes into force.
-- 1960: The United States Food and Drug Administration declares Enovid to be the first officially approved combined oral contraceptive pill in the world.
-- 1959: Convicted Manhattan Project spy Klaus Fuchs is released after only nine years in prison and allowed to emigrate to Dresden, East Germany where he resumes a scientific career.
-- 1956: The French National Assembly takes the first step in creating the French Community by passing the Loi Cadre, transferring a number of powers from Paris to elected territorial governments in French West Africa.
-- 1951: The ocean liner SS United States is christened and launched.
-- 1947: The United States Senate follows the United States House of Representatives in overriding U.S. President Harry S. Truman's veto of the Taft-Hartley Act.
-- 1946: The 1946 Vancouver Island earthquake strikes Vancouver Island, British Columbia, Canada.
-- 1944: An F4 tornado tears through the Appalachian Mountains, killing over 100 people in West Virginia, particularly in the town of Shinnston.
-- 1942: World War II: Germany's latest fighter aircraft, a Focke-Wulf Fw 190, is captured intact when it mistakenly lands at RAF Pembrey in Wales.
-- 1941: The Lithuanian Activist Front declares independence from the Soviet Union and forms the Provisional Government of Lithuania; it lasts only briefly as the Nazis will occupy Lithuania a few weeks later.
-- 1940: Henry Larsen begins the first successful west-to-east navigation of Northwest Passage from Vancouver, British Columbia, Canada.
+- 2023: The Wagner Group led by Yevgeny Prigozhin launches an insurrection against the Russian government.
+- 2022: In Dobbs v. Jackson Women's Health Organization, the U.S. Supreme Court rules that the U.S. Constitution does not assign the authority to regulate abortions to the federal government, thereby returning such authority to the individual states. This overturns the prior decisions in Roe v. Wade (1973) and Planned Parenthood v. Casey (1992).
+- 2021: The Champlain Towers South condominium in Surfside, Florida suffers a sudden partial collapse, killing 98 people inside.
+- 2013: Former Italian Prime Minister Silvio Berlusconi is found guilty of abusing his power and engaging in sex with an underage prostitute, and is sentenced to seven years in prison.
+- 2012: Death of Lonesome George, the last known individual of Chelonoidis nigra abingdonii, a subspecies of the Galápagos tortoise.
+- 2010: Julia Gillard assumes office as the first female Prime Minister of Australia.
+- 2010: At Wimbledon, John Isner of the United States defeats Nicolas Mahut of France, in the longest match in professional tennis history.
+- 2004: In New York, capital punishment is declared unconstitutional.
+- 2002: The Igandu train disaster in Tanzania kills 281, the worst train accident in African history.
+- 1995: Rugby World Cup: South Africa defeats New Zealand and Nelson Mandela presents Francois Pienaar with the Webb Ellis Cup in an iconic post-apartheid moment.
+- 1994: A Boeing B-52 Stratofortress crashes at Fairchild Air Force Base near Spokane, Washington, killing four.
+- 1989: Jiang Zemin succeeds Zhao Ziyang to become the General Secretary of the Chinese Communist Party after the 1989 Tiananmen Square protests and massacre.
+- 1982: "The Jakarta Incident": British Airways Flight 009 flies into a cloud of volcanic ash thrown up by the eruption of Mount Galunggung, resulting in the failure of all four engines.
+- 1981: The Humber Bridge opens to traffic, connecting Yorkshire and Lincolnshire. It remained the world's longest bridge span for 17 years.
+- 1978: Ahmad al-Ghashmi, the president of the Yemen Arab Republic, is killed when a bomb exploded in a suitcase carried by a South Yemeni envoy.
+- 1975: Eastern Air Lines Flight 66 encounters severe wind shear and crashes on final approach to New York's JFK Airport killing 113 of the 124 passengers on board, making it the deadliest U.S. plane crash at the time. This accident led to decades of research into downburst and microburst phenomena and their effects on aircraft.
+- 1973: The UpStairs Lounge arson attack takes place at a gay bar located on the second floor of the three-story building at 141 Chartres Street in the French Quarter of New Orleans, Louisiana, US. Thirty-two people die as a result of fire or smoke inhalation.
+- 1963: The United Kingdom grants Zanzibar internal self-government.
+- 1960: Venezuelan President Rómulo Betancourt is injured in an assassination attempt.
+- 1957: In Roth v. United States, the U.S. Supreme Court rules that obscenity is not protected by the First Amendment.
+- 1954: First Indochina War: Battle of Mang Yang Pass: Viet Minh troops belonging to the 803rd Regiment ambush G.M. 100 of France in An Khê.
+- 1950: Apartheid: In South Africa, the Group Areas Act is passed, formally segregating races.
+- 1949: The first television western, Hopalong Cassidy, starring William Boyd, is aired on NBC.
+- 1948: Cold War: Start of the Berlin Blockade: The Soviet Union makes overland travel between West Germany and West Berlin impossible.
+- 1947: Kenneth Arnold makes the first widely reported UFO sighting near Mount Rainier, Washington.
+- 1945: The first Victory Day Parade takes place on Red Square in Moscow, Soviet Union, symbolizing the victory of the Soviet Union over Nazi Germany.
+- 1943: US military police attempt to arrest a black soldier in Bamber Bridge, England, sparking the Battle of Bamber Bridge mutiny that leaves one dead and seven wounded.
+- 1940: World War II: Operation Collar, the first British Commando raid on occupied France, by No 11 Independent Company.
+- 1939: Siam is renamed Thailand by Plaek Phibunsongkhram, the country's third prime minister.
+- 1938: Pieces of a meteorite land near Chicora, Pennsylvania. The meteorite is estimated to have weighed 450 metric tons when it hit the Earth's atmosphere and exploded.
 
 Data from muffinlabs
-*(Updated at: 2026-06-23 03:53:30 UTC)*
+*(Updated at: 2026-06-24 03:54:52 UTC)*
 
 # 历史上的今天 
 
-- - 2018 年：泰国一支足球队的 12 名男孩和一名助理教练被困在洪水洞穴中，需要开展为期 18 天的救援行动。
-- - 2017年：巴基斯坦发生系列恐怖袭击事件，造成96人死亡、200人受伤。
-- - 2016年：英国在公投中以52%对48%的投票结果决定脱离欧盟。
-- - 2014年：叙利亚宣布的最后一批化学武器被运出进行销毁。
-- - 2013年：武装分子袭击了巴基斯坦吉尔吉特-巴尔蒂斯坦南迦帕尔巴特峰附近的一个高海拔登山大本营，造成十名登山者和一名当地向导死亡。
-- - 2013 年：尼克·瓦伦达 (Nik Wallenda) 成为第一个通过紧绳成功穿越大峡谷的人。
-- - 2012 年：阿什顿·伊顿 (Ashton Eaton) 在美国奥运会选拔赛上打破十项全能世界纪录。
-- - 2005 年：美国社交新闻和讨论网站 Reddit 由 Steve Huffman 和 Alexis Ohanian 在马萨诸塞州梅德福创立。
-- - 2001 年：秘鲁南部发生 8.4 兆瓦地震，震动秘鲁沿海，最大麦卡利强度为 VIII（严重）。随后发生了毁灭性海啸，造成至少 74 人死亡、2,687 人受伤。
-- - 1994 年：美国国家航空航天局 (NASA) 的空间站处理设施（国际空间站的一座新的最先进的制造大楼）在肯尼迪航天中心正式启用。
-- - 1991 年：《刺猬索尼克》在北美的 Sega Genesis 平台上发行，开始了流行的视频游戏系列。
-- - 1985 年：一枚恐怖炸弹在东京附近的成田国际机场爆炸，造成两人死亡、四人受伤。一小时后，同一伙人在印度航空 182 号航班上引爆了第二枚炸弹，导致这架波音 747 飞机在爱尔兰海岸附近坠落，机上 329 人全部遇难。
-- - 1973 年：英国赫尔一所房屋发生火灾，造成一名六岁男孩死亡，但被误认为是一场事故；后来，这成为连环纵火犯彼得·丁斯代尔 (Peter Dinsdale) 在接下来的七年里造成 26 人死亡的火灾中的第一起。
-- - 1972 年：对 1964 年美国民权法案第九条进行修订，禁止对任何接受联邦资助的教育项目进行性别歧视。
-- - 1972 年：水门事件丑闻：美国总统理查德·M·尼克松 (Richard M. Nixon) 和白宫办公厅主任 H. R. 霍尔德曼 (H. R. Haldeman) 被录音谈论非法利用中央情报局阻碍联邦调查局对水门事件的调查。
-- - 1969 年：IBM 宣布，从 1970 年 1 月起，它将将其软件和服务与硬件分开定价，从而创建了现代软件产业。
-- - 1969 年：沃伦·E·伯格 (Warren E. Burger) 在退休首席大法官厄尔·沃伦 (Earl Warren) 的陪伴下宣誓就任美国最高法院首席大法官。
-- - 1968 年：阿根廷布宜诺斯艾利斯，博卡青年队与河床俱乐部之间的一场足球比赛中发生踩踏事件，造成 74 人死亡、150 人受伤。
-- - 1967 年：冷战：美国总统林登·B·约翰逊在新泽西州格拉斯伯勒会见苏联总理阿列克谢·柯西金，参加为期三天的格拉斯伯勒峰会。
-- - 1961 年：《南极条约体系》生效，该体系将南极洲划为科学保护区，并限制该大陆、岛屿和冰架上的军事活动。
-- - 1960年：美国食品和药物管理局宣布Enovid是世界上第一个正式批准的复方口服避孕药。
-- - 1959 年：被定罪的曼哈顿计划间谍克劳斯·福克斯 (Klaus Fuchs) 在入狱仅九年后就被释放，并获准移民到东德德累斯顿，在那里他重新开始了科学生涯。
-- - 1956年：法国国民议会通过了Loi Cadre，迈出了创建法兰西共同体的第一步，将巴黎的多项权力移交给法属西非的民选领土政府。
-- - 1951 年：远洋客轮 SS United States 命名并下水。
-- - 1947 年：美国参议院继美国众议院之后推翻了美国总统哈里·S·杜鲁门 (Harry S. Truman) 对《塔夫脱-哈特利法案》的否决。
-- - 1946 年：1946 年温哥华岛地震袭击了加拿大不列颠哥伦比亚省温哥华岛。
-- - 1944 年：一场 F4 龙卷风席卷阿巴拉契亚山脉，造成西弗吉尼亚州 100 多人死亡，尤其是辛斯顿镇。
-- - 1942 年：第二次世界大战：德国最新型战斗机 Focke-Wulf Fw 190 在威尔士彭布雷皇家空军基地错误降落时被完好无损地俘获。
-- - 1941年：立陶宛激进主义阵线宣布脱离苏联独立并成立立陶宛临时政府；它只会持续很短的时间，因为纳粹将在几周后占领立陶宛。
-- - 1940 年：亨利·拉森 (Henry Larsen) 开始从加拿大不列颠哥伦比亚省温哥华出发的西北航道首次成功的自西向东航行。
+- - 2023年：叶夫根尼·普里戈任领导的瓦格纳集团发动针对俄罗斯政府的叛乱。
+- - 2022 年：在多布斯诉杰克逊妇女健康组织案中，美国最高法院裁定，美国宪法没有将监管堕胎的权力授予联邦政府，从而将这种权力归还给各个州。这推翻了之前在罗伊诉韦德案（1973 年）和计划生育协会诉凯西案（1992 年）中的判决。
+- - 2021 年：佛罗里达州 Surfside 的 Champlain Towers South 公寓突然部分倒塌，造成内部 98 人死亡。
+- - 2013年：意大利前总理西尔维奥·贝卢斯科尼因滥用职权和嫖宿幼女而被判七年监禁。
+- - 2012 年：孤独乔治去世，他是加拉帕戈斯象龟亚种黑龟的最后一个已知个体。
+- - 2010 年：朱莉娅·吉拉德 (Julia Gillard) 就任澳大利亚第一位女总理。
+- - 2010 年：在温布尔登网球公开赛上，美国选手约翰·伊斯内尔 (John Isner) 击败法国选手尼古拉斯·马胡 (Nicolas Mahut)，这是职业网球历史上最长的比赛。
+- - 2004年：在纽约，死刑被宣布违宪。
+- - 2002年：坦桑尼亚伊甘杜火车事故造成281人死亡，这是非洲历史上最严重的火车事故。
+- - 1995 年：橄榄球世界杯：南非击败新西兰，纳尔逊·曼德拉 (Nelson Mandela) 为弗朗索瓦·皮纳尔 (Francois Pienaar) 颁发了韦伯·埃利斯杯 (Webb Ellis Cup)，这是种族隔离后的标志性时刻。
+- - 1994 年：一架波音 B-52 同温层堡垒在华盛顿州斯波坎附近的费尔柴尔德空军基地坠毁，造成四人死亡。
+- - 1989年：1989年天安门广场抗议和屠杀后，江泽民接替赵紫阳成为中国共产党总书记。
+- - 1982 年：“雅加达事件”：英国航空 009 号航班飞入​​加隆贡火山喷发时喷出的火山灰云中，导致所有四个发动机全部失效。
+- - 1981 年：亨伯桥建成通车，连接约克郡和林肯郡。它连续 17 年保持世界最长桥跨度。
+- - 1978 年：阿拉伯也门共和国总统艾哈迈德·加什米因南也门特使携带的手提箱中的炸弹爆炸而身亡。
+- - 1975 年：东方航空 66 号航班在最后进近纽约肯尼迪机场时遭遇严重风切变并坠毁，机上 124 名乘客中的 113 人死亡，成为当时美国最致命的空难。这次事故引发了数十年对下击暴流和微暴流现象及其对飞机影响的研究。
+- - 1973 年：UpStairs Lounge 纵火袭击发生在美国路易斯安那州新奥尔良法国区沙特尔街 141 号三层建筑二楼的一家同性恋酒吧。三十二人因火灾或吸入烟雾而死亡。
+- - 1963年：英国授予桑给巴尔内部自治权。
+- - 1960 年：委内瑞拉总统罗慕洛·贝当古在一次暗杀行动中受伤。
+- - 1957 年：在罗斯诉美国案中，美国最高法院裁定淫秽内容不受第一修正案保护。
+- - 1954年：第一次印度支那战争：芒阳山口战役：越盟第803团伏击G.M.100 法国人在安溪。
+- - 1950 年：种族隔离：南非通过了《群体地区法》，正式实行种族隔离。
+- - 1949 年：第一部电视西部片《Hopalong Cassidy》由威廉·博伊德主演，在 NBC 播出。
+- - 1948 年：冷战：柏林封锁开始：苏联使西德和西柏林之间的陆路旅行变得不可能。
+- - 1947 年：肯尼思·阿诺德 (Kenneth Arnold) 在华盛顿雷尼尔山附近首次被广泛报道的 UFO 目击事件。
+- - 1945年：第一次胜利日阅兵在苏联莫斯科红场举行，象征着苏联战胜纳粹德国。
+- - 1943 年：美国宪兵试图在英国班伯桥逮捕一名黑人士兵，引发班伯桥战役叛乱，造成 1 人死亡、7 人受伤。
+- - 1940 年：第二次世界大战：“领子行动”，这是英国突击队对被占领的法国的第一次突袭，由第 11 独立连执行。
+- - 1939 年：暹罗由该国第三任总理普拉克·披文颂堪 (Plaek Phibunsongkhram) 更名为泰国。
+- - 1938 年：宾夕法尼亚州奇科拉附近的陨石碎片。据估计，这块陨石撞击地球大气层并爆炸时重达 450 吨。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-06-23 03:53:30 UTC）*
+*（更新于: 2026-06-24 03:54:52 UTC）*
