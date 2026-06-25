@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: The Wagner Group led by Yevgeny Prigozhin launches an insurrection against the Russian government.
-- 2022: In Dobbs v. Jackson Women's Health Organization, the U.S. Supreme Court rules that the U.S. Constitution does not assign the authority to regulate abortions to the federal government, thereby returning such authority to the individual states. This overturns the prior decisions in Roe v. Wade (1973) and Planned Parenthood v. Casey (1992).
-- 2021: The Champlain Towers South condominium in Surfside, Florida suffers a sudden partial collapse, killing 98 people inside.
-- 2013: Former Italian Prime Minister Silvio Berlusconi is found guilty of abusing his power and engaging in sex with an underage prostitute, and is sentenced to seven years in prison.
-- 2012: Death of Lonesome George, the last known individual of Chelonoidis nigra abingdonii, a subspecies of the Galápagos tortoise.
-- 2010: Julia Gillard assumes office as the first female Prime Minister of Australia.
-- 2010: At Wimbledon, John Isner of the United States defeats Nicolas Mahut of France, in the longest match in professional tennis history.
-- 2004: In New York, capital punishment is declared unconstitutional.
-- 2002: The Igandu train disaster in Tanzania kills 281, the worst train accident in African history.
-- 1995: Rugby World Cup: South Africa defeats New Zealand and Nelson Mandela presents Francois Pienaar with the Webb Ellis Cup in an iconic post-apartheid moment.
-- 1994: A Boeing B-52 Stratofortress crashes at Fairchild Air Force Base near Spokane, Washington, killing four.
-- 1989: Jiang Zemin succeeds Zhao Ziyang to become the General Secretary of the Chinese Communist Party after the 1989 Tiananmen Square protests and massacre.
-- 1982: "The Jakarta Incident": British Airways Flight 009 flies into a cloud of volcanic ash thrown up by the eruption of Mount Galunggung, resulting in the failure of all four engines.
-- 1981: The Humber Bridge opens to traffic, connecting Yorkshire and Lincolnshire. It remained the world's longest bridge span for 17 years.
-- 1978: Ahmad al-Ghashmi, the president of the Yemen Arab Republic, is killed when a bomb exploded in a suitcase carried by a South Yemeni envoy.
-- 1975: Eastern Air Lines Flight 66 encounters severe wind shear and crashes on final approach to New York's JFK Airport killing 113 of the 124 passengers on board, making it the deadliest U.S. plane crash at the time. This accident led to decades of research into downburst and microburst phenomena and their effects on aircraft.
-- 1973: The UpStairs Lounge arson attack takes place at a gay bar located on the second floor of the three-story building at 141 Chartres Street in the French Quarter of New Orleans, Louisiana, US. Thirty-two people die as a result of fire or smoke inhalation.
-- 1963: The United Kingdom grants Zanzibar internal self-government.
-- 1960: Venezuelan President Rómulo Betancourt is injured in an assassination attempt.
-- 1957: In Roth v. United States, the U.S. Supreme Court rules that obscenity is not protected by the First Amendment.
-- 1954: First Indochina War: Battle of Mang Yang Pass: Viet Minh troops belonging to the 803rd Regiment ambush G.M. 100 of France in An Khê.
-- 1950: Apartheid: In South Africa, the Group Areas Act is passed, formally segregating races.
-- 1949: The first television western, Hopalong Cassidy, starring William Boyd, is aired on NBC.
-- 1948: Cold War: Start of the Berlin Blockade: The Soviet Union makes overland travel between West Germany and West Berlin impossible.
-- 1947: Kenneth Arnold makes the first widely reported UFO sighting near Mount Rainier, Washington.
-- 1945: The first Victory Day Parade takes place on Red Square in Moscow, Soviet Union, symbolizing the victory of the Soviet Union over Nazi Germany.
-- 1943: US military police attempt to arrest a black soldier in Bamber Bridge, England, sparking the Battle of Bamber Bridge mutiny that leaves one dead and seven wounded.
-- 1940: World War II: Operation Collar, the first British Commando raid on occupied France, by No 11 Independent Company.
-- 1939: Siam is renamed Thailand by Plaek Phibunsongkhram, the country's third prime minister.
-- 1938: Pieces of a meteorite land near Chicora, Pennsylvania. The meteorite is estimated to have weighed 450 metric tons when it hit the Earth's atmosphere and exploded.
+- 2024: Thousands of people storm Kenya's Parliament Buildings protesting the passing of the government's 2024/25 Finance Bill.
+- 2022: Two people are killed and 21 more injured after a gunman opens fire at three sites in Oslo in a suspected Islamist anti-LGBTQ+ attack.
+- 2022: Russo-Ukrainian War: The Battle of Sievierodonetsk ends after weeks of heavy fighting with the Russian capture of the city, leading to the Battle of Lysychansk.
+- 2022: The prime minister of Bangladesh, Sheikh Hasina inaugurates the longest bridge of Bangladesh, Padma Bridge.
+- 2007: PMTair Flight 241 crashes in the Dâmrei Mountains in Kampot Province, Cambodia, killing all 22 people on board.
+- 1998: In Clinton v. City of New York, the United States Supreme Court decides that the Line Item Veto Act of 1996 is unconstitutional.
+- 1997: The National Hockey League approved expansion franchises for Nashville (1998), Atlanta (1999), Columbus (2000), and Minneapolis-Saint Paul (2000).
+- 1997: An uncrewed Progress spacecraft collides with the Russian space station Mir.
+- 1996: American rapper Jay-Z releases his debut album, Reasonable Doubt.
+- 1996: The Khobar Towers bombing in Saudi Arabia kills 19 U.S. servicemen.
+- 1993: Kim Campbell is sworn in as the first female Prime Minister of Canada.
+- 1992: Space Shuttle Columbia launches on STS-50, the first shuttle mission to carry Extended Duration Orbiter hardware.
+- 1991: The breakup of Yugoslavia begins when Slovenia and Croatia declare their independence from Yugoslavia.
+- 1981: Microsoft is restructured to become an incorporated business in its home state of Washington.
+- 1978: The rainbow flag representing gay pride is flown for the first time during the San Francisco Gay Freedom Day Parade.
+- 1976: Missouri Governor Kit Bond issues an executive order rescinding the Extermination Order, formally apologizing on behalf of the state of Missouri for the suffering it had caused to members of the Church of Jesus Christ of Latter-day Saints.
+- 1975: Prime Minister Indira Gandhi declares a state of internal emergency in India.
+- 1975: Mozambique achieves independence from Portugal.
+- 1960: Cold War: Two cryptographers working for the United States National Security Agency left for vacation to Mexico, and from there defected to the Soviet Union.
+- 1950: The Korean War begins with the invasion of South Korea by North Korea.
+- 1948: The United States Congress passes the Displaced Persons Act to allow World War II refugees to immigrate to the United States above quota restrictions.
+- 1947: The Diary of a Young Girl (better known as The Diary of Anne Frank) is published.
+- 1944: The final page of the comic Krazy Kat is published, exactly two months after its author George Herriman died.
+- 1944: World War II: United States Navy and British Royal Navy ships bombard Cherbourg to support United States Army units engaged in the Battle of Cherbourg.
+- 1944: World War II: The Battle of Tali-Ihantala, the largest battle ever fought in the Nordic countries, begins.
+- 1943: The left-wing German Jewish exile Arthur Goldstein is murdered in Auschwitz.
+- 1943: The Holocaust and World War II: Jews in the Częstochowa Ghetto in Poland stage an uprising against the Nazis.
+- 1941: World War II: The Continuation War between the Soviet Union and Finland, supported by Nazi Germany, began.
+- 1940: World War II: The French armistice with Nazi Germany comes into effect.
+- 1938: Dr. Douglas Hyde is inaugurated as the first President of Ireland.
 
 Data from muffinlabs
-*(Updated at: 2026-06-24 03:54:52 UTC)*
+*(Updated at: 2026-06-25 03:55:50 UTC)*
 
 # 历史上的今天 
 
-- - 2023年：叶夫根尼·普里戈任领导的瓦格纳集团发动针对俄罗斯政府的叛乱。
-- - 2022 年：在多布斯诉杰克逊妇女健康组织案中，美国最高法院裁定，美国宪法没有将监管堕胎的权力授予联邦政府，从而将这种权力归还给各个州。这推翻了之前在罗伊诉韦德案（1973 年）和计划生育协会诉凯西案（1992 年）中的判决。
-- - 2021 年：佛罗里达州 Surfside 的 Champlain Towers South 公寓突然部分倒塌，造成内部 98 人死亡。
-- - 2013年：意大利前总理西尔维奥·贝卢斯科尼因滥用职权和嫖宿幼女而被判七年监禁。
-- - 2012 年：孤独乔治去世，他是加拉帕戈斯象龟亚种黑龟的最后一个已知个体。
-- - 2010 年：朱莉娅·吉拉德 (Julia Gillard) 就任澳大利亚第一位女总理。
-- - 2010 年：在温布尔登网球公开赛上，美国选手约翰·伊斯内尔 (John Isner) 击败法国选手尼古拉斯·马胡 (Nicolas Mahut)，这是职业网球历史上最长的比赛。
-- - 2004年：在纽约，死刑被宣布违宪。
-- - 2002年：坦桑尼亚伊甘杜火车事故造成281人死亡，这是非洲历史上最严重的火车事故。
-- - 1995 年：橄榄球世界杯：南非击败新西兰，纳尔逊·曼德拉 (Nelson Mandela) 为弗朗索瓦·皮纳尔 (Francois Pienaar) 颁发了韦伯·埃利斯杯 (Webb Ellis Cup)，这是种族隔离后的标志性时刻。
-- - 1994 年：一架波音 B-52 同温层堡垒在华盛顿州斯波坎附近的费尔柴尔德空军基地坠毁，造成四人死亡。
-- - 1989年：1989年天安门广场抗议和屠杀后，江泽民接替赵紫阳成为中国共产党总书记。
-- - 1982 年：“雅加达事件”：英国航空 009 号航班飞入​​加隆贡火山喷发时喷出的火山灰云中，导致所有四个发动机全部失效。
-- - 1981 年：亨伯桥建成通车，连接约克郡和林肯郡。它连续 17 年保持世界最长桥跨度。
-- - 1978 年：阿拉伯也门共和国总统艾哈迈德·加什米因南也门特使携带的手提箱中的炸弹爆炸而身亡。
-- - 1975 年：东方航空 66 号航班在最后进近纽约肯尼迪机场时遭遇严重风切变并坠毁，机上 124 名乘客中的 113 人死亡，成为当时美国最致命的空难。这次事故引发了数十年对下击暴流和微暴流现象及其对飞机影响的研究。
-- - 1973 年：UpStairs Lounge 纵火袭击发生在美国路易斯安那州新奥尔良法国区沙特尔街 141 号三层建筑二楼的一家同性恋酒吧。三十二人因火灾或吸入烟雾而死亡。
-- - 1963年：英国授予桑给巴尔内部自治权。
-- - 1960 年：委内瑞拉总统罗慕洛·贝当古在一次暗杀行动中受伤。
-- - 1957 年：在罗斯诉美国案中，美国最高法院裁定淫秽内容不受第一修正案保护。
-- - 1954年：第一次印度支那战争：芒阳山口战役：越盟第803团伏击G.M.100 法国人在安溪。
-- - 1950 年：种族隔离：南非通过了《群体地区法》，正式实行种族隔离。
-- - 1949 年：第一部电视西部片《Hopalong Cassidy》由威廉·博伊德主演，在 NBC 播出。
-- - 1948 年：冷战：柏林封锁开始：苏联使西德和西柏林之间的陆路旅行变得不可能。
-- - 1947 年：肯尼思·阿诺德 (Kenneth Arnold) 在华盛顿雷尼尔山附近首次被广泛报道的 UFO 目击事件。
-- - 1945年：第一次胜利日阅兵在苏联莫斯科红场举行，象征着苏联战胜纳粹德国。
-- - 1943 年：美国宪兵试图在英国班伯桥逮捕一名黑人士兵，引发班伯桥战役叛乱，造成 1 人死亡、7 人受伤。
-- - 1940 年：第二次世界大战：“领子行动”，这是英国突击队对被占领的法国的第一次突袭，由第 11 独立连执行。
-- - 1939 年：暹罗由该国第三任总理普拉克·披文颂堪 (Plaek Phibunsongkhram) 更名为泰国。
-- - 1938 年：宾夕法尼亚州奇科拉附近的陨石碎片。据估计，这块陨石撞击地球大气层并爆炸时重达 450 吨。
+- - 2024 年：数千人袭击肯尼亚议会大厦，抗议政府通过的 2024/25 财政法案。
+- - 2022 年：一名枪手在奥斯陆的三个地点开枪，涉嫌伊斯兰反 LGBTQ+ 袭击，造成 2 人死亡、21 人受伤。
+- - 2022 年：俄乌战争：西维耶顿涅茨克战役在俄罗斯占领该城市数周的激烈战斗后结束，导致利西昌斯克战役。
+- - 2022 年：孟加拉国总理谢赫·哈西娜为孟加拉国最长的桥梁帕德玛大桥揭幕。
+- - 2007 年：PMTair 241 号航班在柬埔寨贡布省的 Dâmrei 山脉坠毁，机上 22 人全部遇难。
+- - 1998 年：在克林顿诉纽约市一案中，美国最高法院裁定 1996 年的《单项否决法案》违宪。
+- - 1997 年：国家冰球联盟批准了纳什维尔（1998 年）、亚特兰大（1999 年）、哥伦布（2000 年）和明尼阿波利斯-圣保罗（2000 年）的扩张特许经营权。
+- - 1997 年：一艘无人驾驶的进步号宇宙飞船与俄罗斯和平号空间站相撞。
+- - 1996 年：美国说唱歌手 Jay-Z 发行了他的首张专辑《Reasonable Doubt》。
+- - 1996 年：沙特阿拉伯胡拜尔塔爆炸事件造成 19 名美国军人死亡。
+- - 1993 年：金·坎贝尔宣誓就任加拿大第一位女总理。
+- - 1992 年：哥伦比亚号航天飞机搭载 STS-50 发射升空，这是第一个携带长时轨道飞行器硬件的航天飞机任务。
+- - 1991年：斯洛文尼亚和克罗地亚宣布脱离南斯拉夫独立，南斯拉夫开始解体。
+- - 1981 年：微软在其家乡华盛顿州进行重组，成为一家股份公司。
+- - 1978 年：在旧金山同性恋自由日游行期间，代表同性恋自豪感的彩虹旗首次飘扬。
+- - 1976 年：密苏里州州长基特·邦德发布行政命令，废除灭绝令，代表密苏里州正式就该令给耶稣基督后期圣徒教会成员造成的痛苦道歉。
+- - 1975 年：总理英迪拉·甘地宣布印度进入内部紧急状态。
+- - 1975 年：莫桑比克从葡萄牙独立。
+- - 1960 年：冷战：为美国国家安全局工作的两名密码学家前往墨西哥度假，并从那里叛逃到苏联。
+- - 1950 年：朝鲜战争因朝鲜入侵韩国而爆发。
+- - 1948年：美国国会通过《流离失所者法案》，允许二战难民超出配额限制移民美国。
+- - 1947 年：《少女日记》（更广为人知的名字是《安妮·弗兰克日记》）出版。
+- - 1944 年：漫画《疯狂的猫》的最后一页出版，恰好是其作者乔治·赫里曼去世两个月后。
+- - 1944 年：第二次世界大战：美国海军和英国皇家海军舰艇轰炸瑟堡，以支持参与瑟堡战役的美国陆军部队。
+- - 1944 年：第二次世界大战：北欧国家有史以来最大规模的塔利-伊汉塔拉战役爆发。
+- - 1943 年：德国左翼犹太流亡者阿瑟·戈尔茨坦在奥斯威辛被谋杀。
+- - 1943 年：大屠杀和第二次世界大战：波兰琴斯托霍瓦隔都的犹太人发动反抗纳粹的起义。
+- - 1941年：第二次世界大战：在纳粹德国的支持下，苏联和芬兰之间的持续战争开始。
+- - 1940 年：第二次世界大战：法国与纳粹德国的停战协定生效。
+- - 1938 年：道格拉斯·海德博士就任爱尔兰第一任总统。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-06-24 03:54:52 UTC）*
+*（更新于: 2026-06-25 03:55:50 UTC）*
