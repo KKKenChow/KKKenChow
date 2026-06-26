@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Thousands of people storm Kenya's Parliament Buildings protesting the passing of the government's 2024/25 Finance Bill.
-- 2022: Two people are killed and 21 more injured after a gunman opens fire at three sites in Oslo in a suspected Islamist anti-LGBTQ+ attack.
-- 2022: Russo-Ukrainian War: The Battle of Sievierodonetsk ends after weeks of heavy fighting with the Russian capture of the city, leading to the Battle of Lysychansk.
-- 2022: The prime minister of Bangladesh, Sheikh Hasina inaugurates the longest bridge of Bangladesh, Padma Bridge.
-- 2007: PMTair Flight 241 crashes in the Dâmrei Mountains in Kampot Province, Cambodia, killing all 22 people on board.
-- 1998: In Clinton v. City of New York, the United States Supreme Court decides that the Line Item Veto Act of 1996 is unconstitutional.
-- 1997: The National Hockey League approved expansion franchises for Nashville (1998), Atlanta (1999), Columbus (2000), and Minneapolis-Saint Paul (2000).
-- 1997: An uncrewed Progress spacecraft collides with the Russian space station Mir.
-- 1996: American rapper Jay-Z releases his debut album, Reasonable Doubt.
-- 1996: The Khobar Towers bombing in Saudi Arabia kills 19 U.S. servicemen.
-- 1993: Kim Campbell is sworn in as the first female Prime Minister of Canada.
-- 1992: Space Shuttle Columbia launches on STS-50, the first shuttle mission to carry Extended Duration Orbiter hardware.
-- 1991: The breakup of Yugoslavia begins when Slovenia and Croatia declare their independence from Yugoslavia.
-- 1981: Microsoft is restructured to become an incorporated business in its home state of Washington.
-- 1978: The rainbow flag representing gay pride is flown for the first time during the San Francisco Gay Freedom Day Parade.
-- 1976: Missouri Governor Kit Bond issues an executive order rescinding the Extermination Order, formally apologizing on behalf of the state of Missouri for the suffering it had caused to members of the Church of Jesus Christ of Latter-day Saints.
-- 1975: Prime Minister Indira Gandhi declares a state of internal emergency in India.
-- 1975: Mozambique achieves independence from Portugal.
-- 1960: Cold War: Two cryptographers working for the United States National Security Agency left for vacation to Mexico, and from there defected to the Soviet Union.
-- 1950: The Korean War begins with the invasion of South Korea by North Korea.
-- 1948: The United States Congress passes the Displaced Persons Act to allow World War II refugees to immigrate to the United States above quota restrictions.
-- 1947: The Diary of a Young Girl (better known as The Diary of Anne Frank) is published.
-- 1944: The final page of the comic Krazy Kat is published, exactly two months after its author George Herriman died.
-- 1944: World War II: United States Navy and British Royal Navy ships bombard Cherbourg to support United States Army units engaged in the Battle of Cherbourg.
-- 1944: World War II: The Battle of Tali-Ihantala, the largest battle ever fought in the Nordic countries, begins.
-- 1943: The left-wing German Jewish exile Arthur Goldstein is murdered in Auschwitz.
-- 1943: The Holocaust and World War II: Jews in the Częstochowa Ghetto in Poland stage an uprising against the Nazis.
-- 1941: World War II: The Continuation War between the Soviet Union and Finland, supported by Nazi Germany, began.
-- 1940: World War II: The French armistice with Nazi Germany comes into effect.
-- 1938: Dr. Douglas Hyde is inaugurated as the first President of Ireland.
+- 2024: Julian Assange, founder of WikiLeaks, returns to Australia after pleading guilty to one charge of espionage in a Saipan court and subsequently being released by the United States Department of Justice.
+- 2015: The U.S. Supreme Court rules, 5-4, that same-sex couples have a constitutional right to marriage under the 14th Amendment to the United States Constitution.
+- 2015: Five different terrorist attacks in France, Tunisia, Somalia, Kuwait, and Syria occurred on what was dubbed Bloody Friday by international media. Upwards of 750 people were either killed or injured in these uncoordinated attacks.
+- 2013: The U.S. Supreme Court rules, 5-4, that Section 3 of the Defense of Marriage Act is unconstitutional and in violation of the Fifth Amendment to the United States Constitution.
+- 2013: Riots in China's Xinjiang region kill at least 36 people and injure 21 others.
+- 2012: The Waldo Canyon fire descends into the Mountain Shadows neighborhood in Colorado Springs, burning 347 homes in a matter of hours and killing two people.
+- 2008: A suicide bomber dressed as an Iraqi policeman detonates an explosive vest, killing 25 people.
+- 2007: Pope Benedict XVI reinstates the traditional laws of papal election in which a successful candidate must receive two-thirds of the votes.
+- 2006: Mari Alkatiri, the first Prime Minister of East Timor, resigns after weeks of political unrest.
+- 2003: The U.S. Supreme Court rules in Lawrence v. Texas that sex-based sodomy laws are unconstitutional.
+- 2000: The Human Genome Project announces the completion of a "rough draft" sequence.
+- 1997: J. K. Rowling publishes the first of her Harry Potter novel series, Harry Potter and the Philosopher's Stone in United Kingdom.
+- 1997: The U.S. Supreme Court rules that the Communications Decency Act violates the First Amendment to the United States Constitution.
+- 1995: Hamad bin Khalifa Al Thani deposes his father Khalifa bin Hamad Al Thani, the Emir of Qatar, in a bloodless coup d'état.
+- 1991: Yugoslav Wars: The Yugoslav People's Army begins the Ten-Day War in Slovenia.
+- 1988: The first crash of an Airbus A320 occurs when Air France Flight 296Q crashes at Mulhouse-Habsheim Airfield in Habsheim, France, during an air show, killing three of the 136 people on board.
+- 1981: Dan-Air Flight 240, flying to East Midlands Airport, crashes in Nailstone, Leicestershire. All three crew members perish.
+- 1978: Air Canada Flight 189, flying to Toronto, overruns the runway and crashes into the Etobicoke Creek ravine. Two of the 107 passengers on board perish.
+- 1977: Elvis Presley holds what will prove to be his final concert at Market Square Arena in Indianapolis, Indiana.
+- 1975: Two FBI agents and a member of the American Indian Movement are killed in a shootout on the Pine Ridge Indian Reservation in South Dakota; Leonard Peltier is later convicted of the murders in a controversial trial.
+- 1974: The Universal Product Code is scanned for the first time to sell a package of Wrigley's chewing gum at the Marsh Supermarket in Troy, Ohio.
+- 1967: Karol Wojtyła (later John Paul II) is made a cardinal by Pope Paul VI.
+- 1963: Cold War: U.S. President John F. Kennedy gives his "Ich bin ein Berliner" speech, underlining the support of the United States for democratic West Germany shortly after Soviet-supported East Germany erected the Berlin Wall.
+- 1960: Madagascar gains its independence from France.
+- 1960: The former British Protectorate of British Somaliland gains its independence as Somaliland.
+- 1959: Swedish boxer Ingemar Johansson becomes world champion of heavy weight boxing, by defeating American Floyd Patterson on technical knockout after two minutes and three seconds in the third round at Yankee Stadium.
+- 1955: The South African Congress Alliance adopts the Freedom Charter at the Congress of the People in Kliptown.
+- 1953: Lavrentiy Beria, head of MVD, is arrested by Nikita Khrushchev and other members of the Politburo.
+- 1952: The Pan-Malayan Labour Party is founded in Malaya, as a union of statewide labour parties.
+- 1948: Shirley Jackson's short story "The Lottery" is published in The New Yorker magazine.
 
 Data from muffinlabs
-*(Updated at: 2026-06-25 03:55:50 UTC)*
+*(Updated at: 2026-06-26 04:02:29 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：数千人袭击肯尼亚议会大厦，抗议政府通过的 2024/25 财政法案。
-- - 2022 年：一名枪手在奥斯陆的三个地点开枪，涉嫌伊斯兰反 LGBTQ+ 袭击，造成 2 人死亡、21 人受伤。
-- - 2022 年：俄乌战争：西维耶顿涅茨克战役在俄罗斯占领该城市数周的激烈战斗后结束，导致利西昌斯克战役。
-- - 2022 年：孟加拉国总理谢赫·哈西娜为孟加拉国最长的桥梁帕德玛大桥揭幕。
-- - 2007 年：PMTair 241 号航班在柬埔寨贡布省的 Dâmrei 山脉坠毁，机上 22 人全部遇难。
-- - 1998 年：在克林顿诉纽约市一案中，美国最高法院裁定 1996 年的《单项否决法案》违宪。
-- - 1997 年：国家冰球联盟批准了纳什维尔（1998 年）、亚特兰大（1999 年）、哥伦布（2000 年）和明尼阿波利斯-圣保罗（2000 年）的扩张特许经营权。
-- - 1997 年：一艘无人驾驶的进步号宇宙飞船与俄罗斯和平号空间站相撞。
-- - 1996 年：美国说唱歌手 Jay-Z 发行了他的首张专辑《Reasonable Doubt》。
-- - 1996 年：沙特阿拉伯胡拜尔塔爆炸事件造成 19 名美国军人死亡。
-- - 1993 年：金·坎贝尔宣誓就任加拿大第一位女总理。
-- - 1992 年：哥伦比亚号航天飞机搭载 STS-50 发射升空，这是第一个携带长时轨道飞行器硬件的航天飞机任务。
-- - 1991年：斯洛文尼亚和克罗地亚宣布脱离南斯拉夫独立，南斯拉夫开始解体。
-- - 1981 年：微软在其家乡华盛顿州进行重组，成为一家股份公司。
-- - 1978 年：在旧金山同性恋自由日游行期间，代表同性恋自豪感的彩虹旗首次飘扬。
-- - 1976 年：密苏里州州长基特·邦德发布行政命令，废除灭绝令，代表密苏里州正式就该令给耶稣基督后期圣徒教会成员造成的痛苦道歉。
-- - 1975 年：总理英迪拉·甘地宣布印度进入内部紧急状态。
-- - 1975 年：莫桑比克从葡萄牙独立。
-- - 1960 年：冷战：为美国国家安全局工作的两名密码学家前往墨西哥度假，并从那里叛逃到苏联。
-- - 1950 年：朝鲜战争因朝鲜入侵韩国而爆发。
-- - 1948年：美国国会通过《流离失所者法案》，允许二战难民超出配额限制移民美国。
-- - 1947 年：《少女日记》（更广为人知的名字是《安妮·弗兰克日记》）出版。
-- - 1944 年：漫画《疯狂的猫》的最后一页出版，恰好是其作者乔治·赫里曼去世两个月后。
-- - 1944 年：第二次世界大战：美国海军和英国皇家海军舰艇轰炸瑟堡，以支持参与瑟堡战役的美国陆军部队。
-- - 1944 年：第二次世界大战：北欧国家有史以来最大规模的塔利-伊汉塔拉战役爆发。
-- - 1943 年：德国左翼犹太流亡者阿瑟·戈尔茨坦在奥斯威辛被谋杀。
-- - 1943 年：大屠杀和第二次世界大战：波兰琴斯托霍瓦隔都的犹太人发动反抗纳粹的起义。
-- - 1941年：第二次世界大战：在纳粹德国的支持下，苏联和芬兰之间的持续战争开始。
-- - 1940 年：第二次世界大战：法国与纳粹德国的停战协定生效。
-- - 1938 年：道格拉斯·海德博士就任爱尔兰第一任总统。
+- - 2024 年：维基解密创始人朱利安·阿桑奇在塞班岛法院承认一项间谍罪指控后返回澳大利亚，随后被美国司法部释放。
+- - 2015 年：美国最高法院以 5-4 的结果裁定，根据美国宪法第 14 条修正案，同性伴侣享有宪法婚姻权。
+- - 2015年：法国、突尼斯、索马里、科威特和叙利亚发生了五起不同的恐怖袭击事件，被国际媒体称为“血腥星期五”。在这些不协调的袭击中，有超过 750 人死亡或受伤。
+- - 2013 年：美国最高法院以 5-4 的结果裁定，《婚姻保卫法》第 3 条违宪，违反美国宪法第五修正案。
+- - 2013年：中国新疆地区发生骚乱，造成至少36人死亡、21人受伤。
+- - 2012 年：沃尔多峡谷 (Waldo Canyon) 大火蔓延到科罗拉多斯普林斯 (Colorado Springs) 的 Mountain Shadows 社区，在几个小时内烧毁了 347 所房屋，造成两人死亡。
+- - 2008年：一名装扮成伊拉克警察的自杀式炸弹袭击者引爆了一件爆炸背心，造成25人死亡。
+- - 2007年：教皇本笃十六世恢复了传统的教皇选举法，其中成功的候选人必须获得三分之二的选票。
+- - 2006 年：东帝汶首任总理马里·阿尔卡蒂里 (Mari Alkatiri) 在经历数周的政治动荡后辞职。
+- - 2003 年：美国最高法院在劳伦斯诉德克萨斯州一案中裁定基于性的鸡奸法违宪。
+- - 2000 年：人类基因组计划宣布完成“粗略草案”序列。
+- - 1997 年：J.K. 罗琳在英国出版了她的第一部哈利·波特小说系列《哈利·波特与魔法石》。
+- - 1997 年：美国最高法院裁定《通信规范法案》违反美国宪法第一修正案。
+- - 1995 年：哈马德·本·哈利法·阿勒萨尼在一场不流血的政变中废黜了他的父亲、卡塔尔埃米尔哈利法·本·哈马德·阿勒萨尼。
+- - 1991年：南斯拉夫战争：南斯拉夫人民军在斯洛文尼亚开始十日战争。
+- - 1988 年：法航 296Q 航班在飞行表演期间在法国哈布塞姆米卢斯-哈布塞姆机场坠毁，造成空客 A320 的首次坠机，机上 136 人中的 3 人丧生。
+- - 1981 年：丹航空公司 240 号航班飞往东米德兰机场，在莱斯特郡奈尔斯通坠毁。三名船员全部遇难。
+- - 1978 年：加拿大航空 189 号航班飞往多伦多，冲出跑道并坠入怡陶碧谷溪谷。机上 107 名乘客中有两人死亡。
+- - 1977 年：埃尔维斯·普雷斯利 (Elvis Presley) 在印第安纳州印第安纳波利斯市集广场竞技场举办了他的最后一场音乐会。
+- - 1975 年：两名联邦调查局特工和一名美国印第安人运动成员在南达科他州松岭印第安人保留地的枪战中丧生；伦纳德·珀尔帖后来在一次有争议的审判中被判犯有谋杀罪。
+- - 1974 年：俄亥俄州特洛伊市的马什超市首次扫描通用产品代码来销售一包箭牌口香糖。
+- - 1967 年：卡罗尔·沃伊蒂瓦（Karol Wojtyła）（后来的约翰·保罗二世）被教皇保罗六世任命为红衣主教。
+- - 1963 年：冷战：在苏联支持的东德建立柏林墙后不久，美国总统约翰·F·肯尼迪发表了“我是柏林人”的演讲，强调了美国对民主西德的支持。
+- - 1960 年：马达加斯加脱离法国独立。
+- - 1960 年：前英国保护国英属索马里兰获得独立，更名为索马里兰。
+- - 1959 年：瑞典拳击手英格玛·约翰逊 (Ingemar Johansson) 在洋基体育场第三轮比赛中，经过 2 分 3 秒的技术击倒，击败了美国人弗洛伊德·帕特森 (Floyd Patterson)，成为重量级拳击世界冠军。
+- - 1955 年：南非国会联盟在克利普敦举行的人民大会上通过了《自由宪章》。
+- - 1953年：内政部主席拉夫连季·贝利亚被尼基塔·赫鲁晓夫和政治局其他成员逮捕。
+- - 1952 年：泛马来亚工党在马来亚成立，是全州工党的联盟。
+- - 1948 年：雪莉·杰克逊的短篇小说《彩票》发表在《纽约客》杂志上。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-06-25 03:55:50 UTC）*
+*（更新于: 2026-06-26 04:02:29 UTC）*
