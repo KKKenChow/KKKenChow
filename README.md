@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Julian Assange, founder of WikiLeaks, returns to Australia after pleading guilty to one charge of espionage in a Saipan court and subsequently being released by the United States Department of Justice.
-- 2015: The U.S. Supreme Court rules, 5-4, that same-sex couples have a constitutional right to marriage under the 14th Amendment to the United States Constitution.
-- 2015: Five different terrorist attacks in France, Tunisia, Somalia, Kuwait, and Syria occurred on what was dubbed Bloody Friday by international media. Upwards of 750 people were either killed or injured in these uncoordinated attacks.
-- 2013: The U.S. Supreme Court rules, 5-4, that Section 3 of the Defense of Marriage Act is unconstitutional and in violation of the Fifth Amendment to the United States Constitution.
-- 2013: Riots in China's Xinjiang region kill at least 36 people and injure 21 others.
-- 2012: The Waldo Canyon fire descends into the Mountain Shadows neighborhood in Colorado Springs, burning 347 homes in a matter of hours and killing two people.
-- 2008: A suicide bomber dressed as an Iraqi policeman detonates an explosive vest, killing 25 people.
-- 2007: Pope Benedict XVI reinstates the traditional laws of papal election in which a successful candidate must receive two-thirds of the votes.
-- 2006: Mari Alkatiri, the first Prime Minister of East Timor, resigns after weeks of political unrest.
-- 2003: The U.S. Supreme Court rules in Lawrence v. Texas that sex-based sodomy laws are unconstitutional.
-- 2000: The Human Genome Project announces the completion of a "rough draft" sequence.
-- 1997: J. K. Rowling publishes the first of her Harry Potter novel series, Harry Potter and the Philosopher's Stone in United Kingdom.
-- 1997: The U.S. Supreme Court rules that the Communications Decency Act violates the First Amendment to the United States Constitution.
-- 1995: Hamad bin Khalifa Al Thani deposes his father Khalifa bin Hamad Al Thani, the Emir of Qatar, in a bloodless coup d'état.
-- 1991: Yugoslav Wars: The Yugoslav People's Army begins the Ten-Day War in Slovenia.
-- 1988: The first crash of an Airbus A320 occurs when Air France Flight 296Q crashes at Mulhouse-Habsheim Airfield in Habsheim, France, during an air show, killing three of the 136 people on board.
-- 1981: Dan-Air Flight 240, flying to East Midlands Airport, crashes in Nailstone, Leicestershire. All three crew members perish.
-- 1978: Air Canada Flight 189, flying to Toronto, overruns the runway and crashes into the Etobicoke Creek ravine. Two of the 107 passengers on board perish.
-- 1977: Elvis Presley holds what will prove to be his final concert at Market Square Arena in Indianapolis, Indiana.
-- 1975: Two FBI agents and a member of the American Indian Movement are killed in a shootout on the Pine Ridge Indian Reservation in South Dakota; Leonard Peltier is later convicted of the murders in a controversial trial.
-- 1974: The Universal Product Code is scanned for the first time to sell a package of Wrigley's chewing gum at the Marsh Supermarket in Troy, Ohio.
-- 1967: Karol Wojtyła (later John Paul II) is made a cardinal by Pope Paul VI.
-- 1963: Cold War: U.S. President John F. Kennedy gives his "Ich bin ein Berliner" speech, underlining the support of the United States for democratic West Germany shortly after Soviet-supported East Germany erected the Berlin Wall.
-- 1960: Madagascar gains its independence from France.
-- 1960: The former British Protectorate of British Somaliland gains its independence as Somaliland.
-- 1959: Swedish boxer Ingemar Johansson becomes world champion of heavy weight boxing, by defeating American Floyd Patterson on technical knockout after two minutes and three seconds in the third round at Yankee Stadium.
-- 1955: The South African Congress Alliance adopts the Freedom Charter at the Congress of the People in Kliptown.
-- 1953: Lavrentiy Beria, head of MVD, is arrested by Nikita Khrushchev and other members of the Politburo.
-- 1952: The Pan-Malayan Labour Party is founded in Malaya, as a union of statewide labour parties.
-- 1948: Shirley Jackson's short story "The Lottery" is published in The New Yorker magazine.
+- 2024: U.S. President Joe Biden debates former U.S. President Donald Trump. Biden's perceived poor performance leads to his withdrawal from the election on July 21.
+- 2017: A series of powerful cyberattacks using the Petya malware target websites of Ukrainian organizations and counterparts with Ukrainian connections around the globe.
+- 2015: Formosa Fun Coast fire: A dust fire occurs at a recreational water park in Taiwan, killing 15 people and injuring 497 others, 199 critically.
+- 2014: At least fourteen people are killed when a Gas Authority of India Limited pipeline explodes in the East Godavari district of Andhra Pradesh, India.
+- 2013: NASA launches the Interface Region Imaging Spectrograph space probe to observe the Sun.
+- 2008: In a highly scrutinized election, President of Zimbabwe Robert Mugabe is re-elected in a landslide after his opponent Morgan Tsvangirai had withdrawn a week earlier, citing violence against his party's supporters.
+- 2007: The Brazilian Military Police invades the favelas of Complexo do Alemão in an episode which is remembered as the Complexo do Alemão massacre.
+- 2007: Tony Blair resigns as British Prime Minister, a position he had held since 1997. Chancellor Gordon Brown succeeds him.
+- 1995: Space Shuttle Atlantis launches on STS-71, the first space shuttle mission to dock with the Russian space station Mir.
+- 1994: Members of the Aum Shinrikyo cult release sarin gas in Matsumoto, Japan. Seven people are killed, 660 injured.
+- 1991: Two days after it had declared independence, Slovenia is invaded by Yugoslav troops, tanks, and aircraft, starting the Ten-Day War.
+- 1988: Villa Tunari massacre: Bolivian anti-narcotics police kill nine to 12 and injure over a hundred protesting coca-growing peasants.
+- 1988: The Gare de Lyon rail accident in Paris, France, kills 56 people.
+- 1982: Space Shuttle Columbia launched from the Kennedy Space Center on the final research and development flight mission, STS-4.
+- 1981: The Central Committee of the Chinese Communist Party issues its "Resolution on Certain Questions in the History of Our Party Since the Founding of the People's Republic of China", laying the blame for the Cultural Revolution on Mao Zedong.
+- 1980: The 'Ustica massacre': Itavia Flight 870 crashes in the sea while en route from Bologna to Palermo, Italy, killing all 81 on board.
+- 1977: Constitution for the Federation of Earth was adopted by the second session of the World Constituent Assembly, held at Innsbruck, Austria.
+- 1977: France grants independence to Djibouti.
+- 1976: Air France Flight 139 (Tel Aviv-Athens-Paris) is hijacked en route to Paris by the PFLP and redirected to Entebbe, Uganda.
+- 1974: U.S. president Richard Nixon visits the Soviet Union.
+- 1973: The President of Uruguay Juan María Bordaberry dissolves Parliament and establishes a dictatorship.
+- 1957: Hurricane Audrey makes landfall near the Texas-Louisiana border, killing over 400 people, mainly in and around Cameron, Louisiana.
+- 1954: The FIFA World Cup quarterfinal match between Hungary and Brazil, highly anticipated to be exciting, instead turns violent, with three players ejected and further fighting continuing after the game.
+- 1954: The Obninsk Nuclear Power Plant, the Soviet Union's first nuclear power station, opens in Obninsk, near Moscow.
+- 1950: The United States decides to send troops to fight in the Korean War.
+- 1946: In the Canadian Citizenship Act, the Parliament of Canada establishes the definition of Canadian citizenship.
+- 1944: World War II: Mogaung is the first place in Burma to be liberated from the Japanese by British Chindits, supported by the Chinese.
+- 1941: World War II: German troops capture the city of Białystok during Operation Barbarossa.
+- 1941: Romanian authorities launch one of the most violent pogroms in Jewish history in the city of Iași, resulting in the murder of at least 13,266 Jews.
+- 1928: The Rovaniemi township decree is promulgated, as a result of which Rovaniemi secedes from the old rural municipality as its own market town on January 1, 1929.
 
 Data from muffinlabs
-*(Updated at: 2026-06-26 04:02:29 UTC)*
+*(Updated at: 2026-06-27 03:48:44 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：维基解密创始人朱利安·阿桑奇在塞班岛法院承认一项间谍罪指控后返回澳大利亚，随后被美国司法部释放。
-- - 2015 年：美国最高法院以 5-4 的结果裁定，根据美国宪法第 14 条修正案，同性伴侣享有宪法婚姻权。
-- - 2015年：法国、突尼斯、索马里、科威特和叙利亚发生了五起不同的恐怖袭击事件，被国际媒体称为“血腥星期五”。在这些不协调的袭击中，有超过 750 人死亡或受伤。
-- - 2013 年：美国最高法院以 5-4 的结果裁定，《婚姻保卫法》第 3 条违宪，违反美国宪法第五修正案。
-- - 2013年：中国新疆地区发生骚乱，造成至少36人死亡、21人受伤。
-- - 2012 年：沃尔多峡谷 (Waldo Canyon) 大火蔓延到科罗拉多斯普林斯 (Colorado Springs) 的 Mountain Shadows 社区，在几个小时内烧毁了 347 所房屋，造成两人死亡。
-- - 2008年：一名装扮成伊拉克警察的自杀式炸弹袭击者引爆了一件爆炸背心，造成25人死亡。
-- - 2007年：教皇本笃十六世恢复了传统的教皇选举法，其中成功的候选人必须获得三分之二的选票。
-- - 2006 年：东帝汶首任总理马里·阿尔卡蒂里 (Mari Alkatiri) 在经历数周的政治动荡后辞职。
-- - 2003 年：美国最高法院在劳伦斯诉德克萨斯州一案中裁定基于性的鸡奸法违宪。
-- - 2000 年：人类基因组计划宣布完成“粗略草案”序列。
-- - 1997 年：J.K. 罗琳在英国出版了她的第一部哈利·波特小说系列《哈利·波特与魔法石》。
-- - 1997 年：美国最高法院裁定《通信规范法案》违反美国宪法第一修正案。
-- - 1995 年：哈马德·本·哈利法·阿勒萨尼在一场不流血的政变中废黜了他的父亲、卡塔尔埃米尔哈利法·本·哈马德·阿勒萨尼。
-- - 1991年：南斯拉夫战争：南斯拉夫人民军在斯洛文尼亚开始十日战争。
-- - 1988 年：法航 296Q 航班在飞行表演期间在法国哈布塞姆米卢斯-哈布塞姆机场坠毁，造成空客 A320 的首次坠机，机上 136 人中的 3 人丧生。
-- - 1981 年：丹航空公司 240 号航班飞往东米德兰机场，在莱斯特郡奈尔斯通坠毁。三名船员全部遇难。
-- - 1978 年：加拿大航空 189 号航班飞往多伦多，冲出跑道并坠入怡陶碧谷溪谷。机上 107 名乘客中有两人死亡。
-- - 1977 年：埃尔维斯·普雷斯利 (Elvis Presley) 在印第安纳州印第安纳波利斯市集广场竞技场举办了他的最后一场音乐会。
-- - 1975 年：两名联邦调查局特工和一名美国印第安人运动成员在南达科他州松岭印第安人保留地的枪战中丧生；伦纳德·珀尔帖后来在一次有争议的审判中被判犯有谋杀罪。
-- - 1974 年：俄亥俄州特洛伊市的马什超市首次扫描通用产品代码来销售一包箭牌口香糖。
-- - 1967 年：卡罗尔·沃伊蒂瓦（Karol Wojtyła）（后来的约翰·保罗二世）被教皇保罗六世任命为红衣主教。
-- - 1963 年：冷战：在苏联支持的东德建立柏林墙后不久，美国总统约翰·F·肯尼迪发表了“我是柏林人”的演讲，强调了美国对民主西德的支持。
-- - 1960 年：马达加斯加脱离法国独立。
-- - 1960 年：前英国保护国英属索马里兰获得独立，更名为索马里兰。
-- - 1959 年：瑞典拳击手英格玛·约翰逊 (Ingemar Johansson) 在洋基体育场第三轮比赛中，经过 2 分 3 秒的技术击倒，击败了美国人弗洛伊德·帕特森 (Floyd Patterson)，成为重量级拳击世界冠军。
-- - 1955 年：南非国会联盟在克利普敦举行的人民大会上通过了《自由宪章》。
-- - 1953年：内政部主席拉夫连季·贝利亚被尼基塔·赫鲁晓夫和政治局其他成员逮捕。
-- - 1952 年：泛马来亚工党在马来亚成立，是全州工党的联盟。
-- - 1948 年：雪莉·杰克逊的短篇小说《彩票》发表在《纽约客》杂志上。
+- - 2024 年：美国总统乔·拜登与美国前总统唐纳德·特朗普辩论。拜登被认为表现不佳，导致他退出 7 月 21 日的选举。
+- - 2017 年：一系列使用 Petya 恶意软件的强大网络攻击针对乌克兰组织和全球与乌克兰有联系的同行的网站。
+- - 2015年：福尔摩沙欢乐海岸火灾：台湾一家水上乐园发生粉尘火灾，造成15人死亡、497人受伤，其中199人伤势严重。
+- - 2014 年：印度安得拉邦东戈达瓦里地区的印度天然气管理局有限公司管道爆炸，造成至少 14 人死亡。
+- - 2013 年：NASA 发射界面区域成像光谱仪太空探测器来观测太阳。
+- - 2008年：在一场备受关注的选举中，津巴布韦总统罗伯特·穆加贝以压倒性优势再次当选，此前他的对手摩根·茨万吉拉伊一周前以对其政党支持者实施暴力为由退出。
+- - 2007 年：巴西宪兵入侵阿莱芒综合体的贫民窟，这一事件被称为阿莱芒综合体大屠杀。
+- - 2007 年：托尼·布莱尔辞去自 1997 年以来一直担任的英国首相职务。英国首相戈登·布朗继任。
+- - 1995 年：亚特兰蒂斯号航天飞机搭载 STS-71 发射升空，这是第一次与俄罗斯和平号空间站对接的航天飞机任务。
+- - 1994 年：奥姆真理教成员在日本松本释放沙林毒气。7 人死亡，660 人受伤。
+- - 1991 年：斯洛文尼亚宣布独立两天后，南斯拉夫军队、坦克和飞机入侵斯洛文尼亚，十日战争爆发。
+- - 1988 年：Villa Tunari 大屠杀：玻利维亚缉毒警察杀死 9 至 12 人，打伤 100 多名抗议古柯种植的农民。
+- - 1988 年：法国巴黎里昂火车站发生铁路事故，造成 56 人死亡。
+- - 1982 年：哥伦比亚号航天飞机从肯尼迪航天中心发射升空，执行最后的研发飞行任务 STS-4。
+- - 1981年：中共中央发表《关于建国以来党的历史若干问题的决议》，将文化大革命的责任归咎于毛泽东。
+- - 1980 年：“乌斯蒂卡大屠杀”：Itavia 870 航班在从博洛尼亚飞往意大利巴勒莫的途中坠海，机上 81 人全部遇难。
+- - 1977年：在奥地利因斯布鲁克举行的世界制宪大会第二次会议上通过了《地球联邦宪法》。
+- - 1977 年：法国给予吉布提独立。
+- - 1976 年：法航 139 号航班（特拉维夫 - 雅典 - 巴黎）在飞往巴黎的途中被人阵劫持，并改道飞往乌干达恩德培。
+- - 1974 年：美国总统理查德·尼克松访问苏联。
+- - 1973 年：乌拉圭总统胡安·玛丽亚·博达贝里解散议会并建立独裁政权。
+- - 1957 年：奥黛丽飓风在德克萨斯州与路易斯安那州边境附近登陆，造成 400 多人死亡，其中主要是路易斯安那州卡梅伦及其周边地区。
+- - 1954年：世界杯四分之一决赛，匈牙利对阵巴西，原本期待的精彩比赛，却演变成暴力冲突，三名球员被驱逐出场，赛后进一步的斗殴仍在继续。
+- - 1954 年：苏联第一座核电站奥布宁斯克核电站在莫斯科附近的奥布宁斯克投入运行。
+- - 1950年：美国决定出兵参加朝鲜战争。
+- - 1946年：加拿大议会在《加拿大公民法》中确立了加拿大公民身份的定义。
+- - 1944 年：第二次世界大战：莫冈是缅甸第一个在中国人支持下由英国钦迪特人从日本手中解放出来的地方。
+- - 1941 年：第二次世界大战：德国军队在巴巴罗萨行动中占领了比亚韦斯托克市。
+- - 1941 年：罗马尼亚当局在雅西市发动了犹太人历史上最暴力的大屠杀之一，导致至少 13,266 名犹太人被谋杀。
+- - 1928 年：罗瓦涅米镇法令颁布，罗瓦涅米于 1929 年 1 月 1 日从旧农村自治市脱离，成为自己的集镇。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-06-26 04:02:29 UTC）*
+*（更新于: 2026-06-27 03:48:44 UTC）*
