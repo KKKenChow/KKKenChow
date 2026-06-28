@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: U.S. President Joe Biden debates former U.S. President Donald Trump. Biden's perceived poor performance leads to his withdrawal from the election on July 21.
-- 2017: A series of powerful cyberattacks using the Petya malware target websites of Ukrainian organizations and counterparts with Ukrainian connections around the globe.
-- 2015: Formosa Fun Coast fire: A dust fire occurs at a recreational water park in Taiwan, killing 15 people and injuring 497 others, 199 critically.
-- 2014: At least fourteen people are killed when a Gas Authority of India Limited pipeline explodes in the East Godavari district of Andhra Pradesh, India.
-- 2013: NASA launches the Interface Region Imaging Spectrograph space probe to observe the Sun.
-- 2008: In a highly scrutinized election, President of Zimbabwe Robert Mugabe is re-elected in a landslide after his opponent Morgan Tsvangirai had withdrawn a week earlier, citing violence against his party's supporters.
-- 2007: The Brazilian Military Police invades the favelas of Complexo do Alemão in an episode which is remembered as the Complexo do Alemão massacre.
-- 2007: Tony Blair resigns as British Prime Minister, a position he had held since 1997. Chancellor Gordon Brown succeeds him.
-- 1995: Space Shuttle Atlantis launches on STS-71, the first space shuttle mission to dock with the Russian space station Mir.
-- 1994: Members of the Aum Shinrikyo cult release sarin gas in Matsumoto, Japan. Seven people are killed, 660 injured.
-- 1991: Two days after it had declared independence, Slovenia is invaded by Yugoslav troops, tanks, and aircraft, starting the Ten-Day War.
-- 1988: Villa Tunari massacre: Bolivian anti-narcotics police kill nine to 12 and injure over a hundred protesting coca-growing peasants.
-- 1988: The Gare de Lyon rail accident in Paris, France, kills 56 people.
-- 1982: Space Shuttle Columbia launched from the Kennedy Space Center on the final research and development flight mission, STS-4.
-- 1981: The Central Committee of the Chinese Communist Party issues its "Resolution on Certain Questions in the History of Our Party Since the Founding of the People's Republic of China", laying the blame for the Cultural Revolution on Mao Zedong.
-- 1980: The 'Ustica massacre': Itavia Flight 870 crashes in the sea while en route from Bologna to Palermo, Italy, killing all 81 on board.
-- 1977: Constitution for the Federation of Earth was adopted by the second session of the World Constituent Assembly, held at Innsbruck, Austria.
-- 1977: France grants independence to Djibouti.
-- 1976: Air France Flight 139 (Tel Aviv-Athens-Paris) is hijacked en route to Paris by the PFLP and redirected to Entebbe, Uganda.
-- 1974: U.S. president Richard Nixon visits the Soviet Union.
-- 1973: The President of Uruguay Juan María Bordaberry dissolves Parliament and establishes a dictatorship.
-- 1957: Hurricane Audrey makes landfall near the Texas-Louisiana border, killing over 400 people, mainly in and around Cameron, Louisiana.
-- 1954: The FIFA World Cup quarterfinal match between Hungary and Brazil, highly anticipated to be exciting, instead turns violent, with three players ejected and further fighting continuing after the game.
-- 1954: The Obninsk Nuclear Power Plant, the Soviet Union's first nuclear power station, opens in Obninsk, near Moscow.
-- 1950: The United States decides to send troops to fight in the Korean War.
-- 1946: In the Canadian Citizenship Act, the Parliament of Canada establishes the definition of Canadian citizenship.
-- 1944: World War II: Mogaung is the first place in Burma to be liberated from the Japanese by British Chindits, supported by the Chinese.
-- 1941: World War II: German troops capture the city of Białystok during Operation Barbarossa.
-- 1941: Romanian authorities launch one of the most violent pogroms in Jewish history in the city of Iași, resulting in the murder of at least 13,266 Jews.
-- 1928: The Rovaniemi township decree is promulgated, as a result of which Rovaniemi secedes from the old rural municipality as its own market town on January 1, 1929.
+- 2016: A terrorist attack in Turkey's Istanbul Atatürk Airport kills 42 people and injures more than 230 others.
+- 2012: The United States Supreme Court upholds the constitutionality of the Affordable Care Act's individual mandate in National Federation of Independent Business v. Sebelius.
+- 2009: Honduran president Manuel Zelaya is ousted by a local military coup following a failed request to hold a referendum to rewrite the Honduran Constitution. This was the start of the 2009 Honduran constitutional crisis.
+- 2004: Iraq War: Sovereign power is handed to the interim government of Iraq by the Coalition Provisional Authority, ending the U.S.-led rule of that nation.
+- 2001: Slobodan Milošević is extradited to the ICTY in The Hague to stand trial.
+- 1997: Holyfield-Tyson II: Mike Tyson is disqualified in the third round for biting a piece off Evander Holyfield's ear.
+- 1989: On the 600th anniversary of the Battle of Kosovo, Slobodan Milošević delivers the Gazimestan speech at the site of the historic battle.
+- 1987: For the first time in military history, a civilian population is targeted for chemical attack when Iraqi warplanes bombed the Iranian town of Sardasht.
+- 1982: Aeroflot Flight 8641 crashes in Mazyr, Belarus, killing 132 people.
+- 1981: A powerful bomb explodes in Tehran, killing 73 officials of the Islamic Republican Party.
+- 1978: The United States Supreme Court, in Regents of the University of California v. Bakke bars quota systems in college admissions.
+- 1976: The Angolan court sentences US and UK mercenaries to death sentences and prison terms in the Luanda Trial.
+- 1973: Elections are held for the Northern Ireland Assembly, which will lead to power-sharing between unionists and nationalists in Northern Ireland for the first time.
+- 1969: Stonewall riots begin in New York City, marking the start of the Gay Rights Movement.
+- 1964: Malcolm X forms the Organization of Afro-American Unity.
+- 1956: In Poznań, workers from HCP factory go to the streets, sparking one of the first major protests against communist government both in Poland and Europe.
+- 1950: Korean War: The Korean People's Army kills almost a thousand doctors, nurses, inpatient civilians and wounded soldiers in the Seoul National University Hospital massacre.
+- 1950: Korean War: Packed with its own refugees fleeing Seoul and leaving their 5th Division stranded, South Korean forces blow up the Hangang Bridge in an attempt to slow North Korea's offensive. The city falls later that day.
+- 1950: Korean War: Suspected communist sympathizers (between 60,000 and 200,000) are executed in the Bodo League massacre.
+- 1948: Boxer Dick Turpin beats Vince Hawkins at Villa Park in Birmingham to become the first black British boxing champion in the modern era.
+- 1948: Cold War: The Tito-Stalin Split results in the expulsion of the League of Communists of Yugoslavia from the Cominform.
+- 1945: Poland's Soviet-allied Provisional Government of National Unity is formed over a month after V-E Day.
+- 1942: World War II: Nazi Germany starts its strategic summer offensive against the Soviet Union, codenamed Case Blue.
+- 1940: Romania cedes Bessarabia and Northern Bukovina to the Soviet Union after facing an ultimatum.
+- 1936: The Japanese puppet state of Mengjiang is formed in northern China.
+- 1926: Mercedes-Benz is formed by Gottlieb Daimler and Karl Benz merging their two companies.
+- 1922: The Irish Civil War begins with the shelling of the Four Courts in Dublin by Free State forces.
+- 1921: Serbian King Alexander I proclaims the new constitution of the Kingdom of Serbs, Croats and Slovenes, known thereafter as the Vidovdan Constitution.
+- 1919: The Treaty of Versailles is signed, ending the state of war between Germany and the Allies of World War I.
+- 1917: World War I: Greece joins the Allied powers.
 
 Data from muffinlabs
-*(Updated at: 2026-06-27 03:48:44 UTC)*
+*(Updated at: 2026-06-28 04:10:04 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：美国总统乔·拜登与美国前总统唐纳德·特朗普辩论。拜登被认为表现不佳，导致他退出 7 月 21 日的选举。
-- - 2017 年：一系列使用 Petya 恶意软件的强大网络攻击针对乌克兰组织和全球与乌克兰有联系的同行的网站。
-- - 2015年：福尔摩沙欢乐海岸火灾：台湾一家水上乐园发生粉尘火灾，造成15人死亡、497人受伤，其中199人伤势严重。
-- - 2014 年：印度安得拉邦东戈达瓦里地区的印度天然气管理局有限公司管道爆炸，造成至少 14 人死亡。
-- - 2013 年：NASA 发射界面区域成像光谱仪太空探测器来观测太阳。
-- - 2008年：在一场备受关注的选举中，津巴布韦总统罗伯特·穆加贝以压倒性优势再次当选，此前他的对手摩根·茨万吉拉伊一周前以对其政党支持者实施暴力为由退出。
-- - 2007 年：巴西宪兵入侵阿莱芒综合体的贫民窟，这一事件被称为阿莱芒综合体大屠杀。
-- - 2007 年：托尼·布莱尔辞去自 1997 年以来一直担任的英国首相职务。英国首相戈登·布朗继任。
-- - 1995 年：亚特兰蒂斯号航天飞机搭载 STS-71 发射升空，这是第一次与俄罗斯和平号空间站对接的航天飞机任务。
-- - 1994 年：奥姆真理教成员在日本松本释放沙林毒气。7 人死亡，660 人受伤。
-- - 1991 年：斯洛文尼亚宣布独立两天后，南斯拉夫军队、坦克和飞机入侵斯洛文尼亚，十日战争爆发。
-- - 1988 年：Villa Tunari 大屠杀：玻利维亚缉毒警察杀死 9 至 12 人，打伤 100 多名抗议古柯种植的农民。
-- - 1988 年：法国巴黎里昂火车站发生铁路事故，造成 56 人死亡。
-- - 1982 年：哥伦比亚号航天飞机从肯尼迪航天中心发射升空，执行最后的研发飞行任务 STS-4。
-- - 1981年：中共中央发表《关于建国以来党的历史若干问题的决议》，将文化大革命的责任归咎于毛泽东。
-- - 1980 年：“乌斯蒂卡大屠杀”：Itavia 870 航班在从博洛尼亚飞往意大利巴勒莫的途中坠海，机上 81 人全部遇难。
-- - 1977年：在奥地利因斯布鲁克举行的世界制宪大会第二次会议上通过了《地球联邦宪法》。
-- - 1977 年：法国给予吉布提独立。
-- - 1976 年：法航 139 号航班（特拉维夫 - 雅典 - 巴黎）在飞往巴黎的途中被人阵劫持，并改道飞往乌干达恩德培。
-- - 1974 年：美国总统理查德·尼克松访问苏联。
-- - 1973 年：乌拉圭总统胡安·玛丽亚·博达贝里解散议会并建立独裁政权。
-- - 1957 年：奥黛丽飓风在德克萨斯州与路易斯安那州边境附近登陆，造成 400 多人死亡，其中主要是路易斯安那州卡梅伦及其周边地区。
-- - 1954年：世界杯四分之一决赛，匈牙利对阵巴西，原本期待的精彩比赛，却演变成暴力冲突，三名球员被驱逐出场，赛后进一步的斗殴仍在继续。
-- - 1954 年：苏联第一座核电站奥布宁斯克核电站在莫斯科附近的奥布宁斯克投入运行。
-- - 1950年：美国决定出兵参加朝鲜战争。
-- - 1946年：加拿大议会在《加拿大公民法》中确立了加拿大公民身份的定义。
-- - 1944 年：第二次世界大战：莫冈是缅甸第一个在中国人支持下由英国钦迪特人从日本手中解放出来的地方。
-- - 1941 年：第二次世界大战：德国军队在巴巴罗萨行动中占领了比亚韦斯托克市。
-- - 1941 年：罗马尼亚当局在雅西市发动了犹太人历史上最暴力的大屠杀之一，导致至少 13,266 名犹太人被谋杀。
-- - 1928 年：罗瓦涅米镇法令颁布，罗瓦涅米于 1929 年 1 月 1 日从旧农村自治市脱离，成为自己的集镇。
+- - 2016 年：土耳其伊斯坦布尔阿塔图尔克机场发生恐怖袭击，造成 42 人死亡、230 多人受伤。
+- - 2012 年：美国最高法院在全国独立企业联合会诉 Sebelius 案中维持《平价医疗法案》个人授权的合宪性。
+- - 2009年：洪都拉斯总统曼努埃尔·塞拉亚因要求举行全民投票以重写洪都拉斯宪法失败而被当地军事政变赶下台。这是2009年洪都拉斯宪法危机的开始。
+- - 2004年：伊拉克战争：联军临时权力机构将主权移交给伊拉克临时政府，结束了美国领导的对该国的统治。
+- - 2001 年：斯洛博丹·米洛舍维奇被引渡到海牙前南问题国际法庭接受审判。
+- - 1997 年：霍利菲尔德-泰森 II：迈克·泰森因咬掉伊万德·霍利菲尔德的耳朵而在第三轮被取消资格。
+- - 1989 年：在科索沃战役 600 周年之际，斯洛博丹·米洛舍维奇在历史性战役现场发表加济梅斯坦讲话。
+- - 1987 年：伊拉克战机轰炸伊朗小镇萨尔达什特，平民成为化学袭击的目标，这在军事史上尚属首次。
+- - 1982 年：俄罗斯航空公司 8641 号航班在白俄罗斯马济里坠毁，造成 132 人死亡。
+- - 1981 年：一枚威力强大的炸弹在德黑兰爆炸，造成 73 名伊斯兰共和党官员死亡。
+- - 1978 年：美国最高法院在加州大学董事会诉巴克案中禁止大学招生中的配额制度。
+- - 1976年：安哥拉法院在罗安达审判中判处美国和英国雇佣兵死刑和监禁。
+- - 1973年：举行北爱尔兰议会选举，这将导致北爱尔兰的统一主义者和民族主义者首次分享权力。
+- - 1969 年：纽约市开始石墙骚乱，标志着同性恋权利运动的开始。
+- - 1964 年：马尔科姆 X 成立非裔美国人团结组织。
+- - 1956 年：在波兹南，HCP 工厂的工人走上街头，引发了波兰和欧洲针对共产主义政府的首批大规模抗议活动之一。
+- - 1950 年：朝鲜战争：朝鲜人民军在首尔国立大学医院大屠杀中杀害了近千名医生、护士、住院病人和受伤士兵。
+- - 1950 年：朝鲜战争：韩国军队炸毁了汉江大桥，试图减缓朝鲜的攻势，韩国军队挤满了逃离首尔的难民，第五师陷入困境。当天晚些时候，这座城市就陷落了。
+- - 1950 年：朝鲜战争：涉嫌共产主义同情者（60,000 至 200,000 人）在博多联盟大屠杀中被处决。
+- - 1948 年：拳击手迪克·特平 (Dick Turpin) 在伯明翰维拉公园 (Villa Park) 击败文斯·霍金斯 (Vince Hawkins)，成为现代第一位英国黑人拳击冠军。
+- - 1948 年：冷战：铁托与斯大林的分裂导致南斯拉夫共产主义者联​​盟被共产主义情报局开除。
+- - 1945 年：胜利日一个多月后，波兰与苏联结盟的临时民族团结政府成立。
+- - 1942 年：第二次世界大战：纳粹德国开始对苏联发动夏季战略攻势，代号为“蓝案”。
+- - 1940 年：罗马尼亚在面临最后通牒后将比萨拉比亚和北布科维纳割让给苏联。
+- - 1936年：日本傀儡政权蒙江在中国北方成立。
+- - 1926 年：戈特利布·戴姆勒 (Gottlieb Daimler) 和卡尔·本茨 (Karl Benz) 合并两家公司，成立了梅赛德斯-奔驰 (Mercedes-Benz)。
+- - 1922 年：爱尔兰内战以自由邦军队炮击都柏林四法院开始。
+- - 1921 年：塞尔维亚国王亚历山大一世宣布塞尔维亚、克罗地亚和斯洛文尼亚王国新宪法，此后称为《维多夫丹宪法》。
+- - 1919 年：《凡尔赛条约》签署，结束了德国与第一次世界大战盟国之间的战争状态。
+- - 1917 年：第一次世界大战：希腊加入同盟国。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-06-27 03:48:44 UTC）*
+*（更新于: 2026-06-28 04:10:04 UTC）*
