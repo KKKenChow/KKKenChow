@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: At the centennial ceremony of the Dominion of Newfoundland National War Memorial, the Commonwealth War Graves Commission allowed an unprecedented second Canadian Tomb of the Unknown Soldier. The Royal Newfoundland Regiment soldier was entombed in the memorial at this ceremony.
-- 2020: The United States-Mexico-Canada Agreement replaces NAFTA.
-- 2013: Croatia becomes the 28th member of the European Union.
-- 2008: Riots erupt in Mongolia in response to allegations of fraud surrounding the 2008 legislative elections.
-- 2007: Smoking in England is banned in all public indoor spaces.
-- 2006: The first operation of Qinghai-Tibet Railway is conducted in China.
-- 2004: Saturn orbit insertion of Cassini-Huygens begins at 01:12 UTC and ends at 02:48 UTC.
-- 2003: Over 500,000 people protest against efforts to pass anti-sedition legislation in Hong Kong.
-- 2002: Bashkirian Airlines Flight 2937, a Tupolev Tu-154, and DHL Flight 611, a Boeing 757, collide in mid-air over Überlingen, southern Germany, killing all 71 on board both planes.
-- 2002: The International Criminal Court is established to prosecute individuals for genocide, crimes against humanity, war crimes and the crime of aggression.
-- 1999: The Scottish Parliament is officially opened by Elizabeth II on the day that legislative powers are officially transferred from the old Scottish Office in London to the new devolved Scottish Executive in Edinburgh. In Wales, the powers of the Welsh Secretary are transferred to the National Assembly.
-- 1997: Space Shuttle program: Space Shuttle Columbia is launched on STS-94, a re-flight of the prematurely-ended STS-83 mission with the same crew.
-- 1997: China resumes sovereignty over the city-state of Hong Kong, ending 156 years of British colonial rule. The handover ceremony is attended by British Prime Minister Tony Blair, Charles, Prince of Wales, Chinese President Jiang Zemin and U.S. Secretary of State Madeleine Albright.
-- 1991: The Finnish operator Radiolinja is launched as the world's first GSM network.
-- 1991: Cold War: The Warsaw Pact is officially dissolved at a meeting in Prague.
-- 1990: German reunification: East Germany accepts the Deutsche Mark as its currency, thus uniting the economies of East and West Germany.
-- 1987: The American radio station WFAN in New York City is launched as the world's first all-sports radio station.
-- 1984: The PG-13 rating is introduced by the MPAA.
-- 1983: The Ministry of State Security is established as China's principal intelligence agency
-- 1983: A North Korean Ilyushin Il-62M jet en route to Conakry Airport in Guinea crashes into the Fouta Djallon mountains in Guinea-Bissau, killing all 23 people on board.
-- 1980: "O Canada" officially becomes the national anthem of Canada.
-- 1979: Sony introduces the Walkman.
-- 1978: The Northern Territory in Australia is granted self-government.
-- 1976: Portugal grants autonomy to Madeira.
-- 1972: The first Gay pride march in England takes place.
-- 1968: Formal separation of the United Auto Workers from the AFL-CIO in the United States.
-- 1968: The Treaty on the Non-Proliferation of Nuclear Weapons is signed in Washington, D.C., London and Moscow by sixty-two countries.
-- 1968: The United States Central Intelligence Agency's Phoenix Program is officially established.
-- 1967: Merger Treaty: The European Community is formally created out of a merger between the Common Market, the European Coal and Steel Community, and the European Atomic Energy Commission.
-- 1966: The People's Liberation Army Rocket Force (The known as the 2nd Artillery Corps) is founded.
+- 2024: A stampede during a religious event in Uttar Pradesh, India, leaves at least 121 people dead and 150 others injured.
+- 2013: A magnitude 6.1 earthquake strikes Aceh, Indonesia, killing at least 42 people and injuring 420 others.
+- 2005: The Live 8 benefit concerts takes place in the G8 states and in South Africa. More than 1,000 musicians perform and are broadcast on 182 television networks and 2,000 radio networks.
+- 2000: Vicente Fox Quesada is elected the first President of México from an opposition party, the Partido Acción Nacional, after more than 70 years of continuous rule by the Partido Revolucionario Institucional, in the 2000 Mexican general election.
+- 1997: The Bank of Thailand floats the baht, triggering the Asian financial crisis.
+- 1994: USAir Flight 1016 crashes near Charlotte Douglas International Airport, killing 37 of the 57 people on board.
+- 1993: A mob sets fire to the Hotel Madımak in Sivas, Turkey, where a Alevi cultural festival was taking place, killing 37 people.
+- 1990: In the 1990 Mecca tunnel tragedy, 1,400 Muslim pilgrims are suffocated to death and trampled upon in a pedestrian tunnel leading to the holy city of Mecca.
+- 1986: Aeroflot Flight 2306 crashes while attempting an emergency landing at Syktyvkar Airport in Syktyvkar, in present-day Komi Republic, Russia, killing 54 people.
+- 1986: Rodrigo Rojas and Carmen Gloria Quintana are burnt alive during a street demonstration against the dictatorship of General Augusto Pinochet in Chile in the Quemados case.
+- 1976: End of South Vietnam; Communist North Vietnam annexes the former South Vietnam to form the unified Socialist Republic of Vietnam.
+- 1966: France conducts its first nuclear weapon test in the Pacific, on Moruroa Atoll.
+- 1964: Civil rights movement: U.S. President Lyndon B. Johnson signs the Civil Rights Act of 1964 meant to prohibit segregation in public places.
+- 1937: Amelia Earhart and navigator Fred Noonan are last heard from over the Pacific Ocean and disappear while attempting to make the first equatorial round-the-world flight.
+- 1934: The Night of the Long Knives ends after three days of killings.
+- 1921: World War I: U.S. President Warren G. Harding signs the Knox-Porter Resolution formally ending the war between the United States and Germany.
+- 1921: In the leadup to the battle of Aqaba, T.E.Lawrence and his Arab forces
+- 1890: The U.S. Congress passes the Sherman Antitrust Act.
+- 1881: Charles J. Guiteau shoots and fatally wounds U.S. President James A. Garfield (who will die of complications from his wounds on September 19).
+- 1863: American Civil War: On the second day of the Battle of Gettysburg - the Battle of Little Round Top takes place and results in a Union victory after the Confederate troops unsuccessfully try to assault the Union left flank.
+- 1840: A Ms  7.4 earthquake strikes present-day Turkey and Armenia; combined with the effects of an eruption on Mount Ararat, kills 10,000 people.
+- 1823: Bahia Independence Day: The Siege of Salvador ends Portuguese rule in Brazil, with the final defeat of the Portuguese crown loyalists in the province of Bahia.
+- 1776: American Revolution: The Continental Congress adopts the Lee Resolution severing ties with the Kingdom of Great Britain, although the wording of the formal Declaration of Independence is not adopted until July 4.
+- 1645: Wars of the Three Kingdoms: Battle of Alford.
+- 1644: English Civil War: Battle of Marston Moor.
+- 1582: Battle of Yamazaki: Toyotomi Hideyoshi defeats Akechi Mitsuhide.
+- 1494: Age of Discovery: The Treaty of Tordesillas is ratified by Spain.
+- 1298: Battle of Göllheim: Albert I of Habsburg defeats Adolf of Nassau-Weilburg.
+- 866: Battle of Brissarthe: The Franks led by Robert the Strong are defeated by a joint Breton-Viking army.
+- 626: Li Shimin, the future Emperor Taizong of Tang, ambushes and kills his rival brothers Li Yuanji and Li Jiancheng in the Xuanwu Gate Incident.
 
 Data from muffinlabs
-*(Updated at: 2026-07-01 04:13:11 UTC)*
+*(Updated at: 2026-07-02 03:53:36 UTC)*
 
 # 历史上的今天 
 
-- - 2024年：在纽芬兰自治领国家战争纪念馆百年庆典上，英联邦战争坟墓委员会史无前例地允许建造第二座加拿大无名烈士墓。皇家纽芬兰军团士兵在这次仪式上被安葬在纪念碑中。
-- - 2020 年：美国-墨西哥-加拿大协定取代北美自由贸易协定。
-- - 2013年：克罗地亚成为欧盟第28个成员国。
-- - 2008 年：蒙古因 2008 年立法选举舞弊指控而爆发骚乱。
-- - 2007 年：英格兰所有公共室内场所禁止吸烟。
-- - 2006年：青藏铁路在中国首次运营。
-- - 2004 年：卡西尼-惠更斯号进入土星轨道的时间为 01:12 UTC，结束于 02:48 UTC。
-- - 2003年：超过50万人抗议香港通过反煽动立法的努力。
-- - 2002 年：巴什基里安航空公司 2937 号航班（一架图波列夫 Tu-154）和 DHL 611 号航班（一架波音 757）在德国南部于伯林根上空相撞，两架飞机上的 71 人全部遇难。
-- - 2002年：国际刑事法院成立，以起诉犯有种族灭绝罪、危害人类罪、战争罪和侵略罪的个人。
-- - 1999年：苏格兰议会在伊丽莎白二世的主持下正式开幕，立法权从位于伦敦的旧苏格兰办事处正式移交给位于爱丁堡的新苏格兰行政机构。在威尔士，威尔士大臣的权力移交给国民议会。
-- - 1997 年：航天飞机计划：哥伦比亚航天飞机使用 STS-94 发射升空，这是提前结束的 STS-83 任务的再次飞行，机组人员相同。
-- - 1997年：中国恢复对香港城邦的主权，结束了英国156年的殖民统治。英国首相托尼·布莱尔、威尔士亲王查尔斯、中国国家主席江泽民和美国国务卿奥尔布赖特出席了交接仪式。
-- - 1991 年：芬兰运营商 Radiolinja 推出世界上第一个 GSM 网络。
-- - 1991 年：冷战：华沙条约组织在布拉格的一次会议上正式解散。
-- - 1990年：德国统一：东德接受德国马克作为其货币，从而统一东德和西德的经济。
-- - 1987 年：纽约市的美国广播电台 WFAN 成立，成为世界上第一个全体育广播电台。
-- - 1984 年：MPAA 引入 PG-13 评级。
-- - 1983年：国家安全部成立，成为中国主要情报机构
-- - 1983 年：一架朝鲜 Ilyushin Il-62M 喷气式飞机在飞往几内亚科纳克里机场的途中坠入几内亚比绍的 Fouta Djallon 山脉，机上 23 人全部遇难。
-- - 1980年：《O Canada》正式成为加拿大国歌。
-- - 1979 年：索尼推出随身听。
-- - 1978 年：澳大利亚北领地获得自治权。
-- - 1976 年：葡萄牙授予马德拉自治权。
-- - 1972 年：英国举行第一次同性恋骄傲游行。
-- - 1968 年：美国汽车工人联合会正式从 AFL-CIO 中分离出来。
-- - 1968年：62个国家在华盛顿特区、伦敦和莫斯科签署了《不扩散核武器条约》。
-- - 1968年：美国中央情报局凤凰计划正式成立。
-- - 1967 年：合并条约：欧洲共同体由共同市场、欧洲煤钢共同体和欧洲原子能委员会合并而成，正式成立。
-- - 1966年：中国人民解放军火箭军（又称第二炮兵）成立。
+- - 2024 年：印度北方邦一次宗教活动期间发生踩踏事件，造成至少 121 人死亡、150 人受伤。
+- - 2013 年：印度尼西亚亚齐省发生里氏 6.1 级地震，造成至少 42 人死亡、420 ​​人受伤。
+- - 2005 年：Live 8 慈善音乐会在八国集团国家和南非举行。超过 1,000 名音乐家表演并在 182 个电视网络和 2,000 个广播网络上播出。
+- - 2000 年：维森特·福克斯·克萨达 (Vicente Fox Quesada) 在 2000 年墨西哥大选中，在革命机构党 (Partido Revolucionario Institucional) 连续统治 70 多年后，由反对党民族行动党 (Partido Acción Nacional) 当选为墨西哥首任总统。
+- - 1997年：泰国央行实行泰铢浮动，引发亚洲金融危机。
+- - 1994 年：美国航空 1016 号航班在夏洛特道格拉斯国际机场附近坠毁，机上 57 人中有 37 人死亡。
+- - 1993 年：土耳其锡瓦斯的马迪马克酒店 (Hotel Madımak) 正在举行 Alevi 文化节，一群暴徒纵火焚烧，造成 37 人死亡。
+- - 1990年：在1990年的麦加隧道悲剧中，1,400名穆斯林朝圣者在通往圣城麦加的步行隧道中被窒息而死并被践踏。
+- - 1986 年：俄罗斯航空公司 2306 号航班在试图紧急降落在瑟克特夫卡尔（现俄罗斯科米共和国）的瑟克特夫卡尔机场时坠毁，造成 54 人死亡。
+- - 1986 年：罗德里戈·罗哈斯和卡门·格洛丽亚·金塔纳在智利克马多斯案中反对奥古斯托·皮诺切特将军独裁统治的街头示威中被活活烧死。
+- - 1976年：南越结束；共产主义北越吞并前南越，建立统一的越南社会主义共和国。
+- - 1966 年：法国在太平洋莫鲁罗瓦环礁进行首次核武器试验。
+- - 1964 年：民权运动：美国总统林登·B·约翰逊签署了 1964 年民权法案，旨在禁止公共场所的种族隔离。
+- - 1937 年：阿米莉亚·埃尔哈特 (Amelia Earhart) 和航海家弗雷德·努南 (Fred Noonan) 在太平洋上空最后一次听到消息，并在试图进行首次赤道环球飞行时失踪。
+- - 1934 年：长刀之夜在三天的杀戮后结束。
+- - 1921 年：第一次世界大战：美国总统沃伦·G·哈丁签署诺克斯-波特决议，正式结束美国和德国之间的战争。
+- - 1921 年：在亚喀巴战役前夕，T.E.劳伦斯和他的阿拉伯军队
+- - 1890 年：美国国会通过谢尔曼反托拉斯法。
+- - 1881 年：查尔斯·J·吉托 (Charles J. Guiteau) 开枪射杀美国总统詹姆斯·A·加菲尔德 (James A. Garfield)（他将于 9 月 19 日因伤口并发症死亡）。
+- - 1863 年：美国内战：葛底斯堡战役的第二天，小圆顶之战爆发，南方军队试图攻击联邦左翼但未果，最终联邦取得胜利。
+- - 1840 年：7.4 级地震袭击了今天的土耳其和亚美尼亚；再加上亚拉拉山火山喷发的影响，造成 10,000 人死亡。
+- - 1823 年：巴伊亚独立日：萨尔瓦多之围结束了葡萄牙对巴西的统治，葡萄牙王室忠诚者在巴伊亚省最终失败。
+- - 1776 年：美国革命：大陆会议通过了李氏决议，切断了与大不列颠王国的关系，尽管正式的《独立宣言》的措辞直到 7 月 4 日才获得通过。
+- - 1645 年：三个王国的战争：奥尔福德之战。
+- - 1644 年：英国内战：马斯顿荒原之战。
+- - 1582年：山崎之战：丰臣秀吉击败明智光秀。
+- - 1494 年：大航海时代：西班牙批准《托德西拉斯条约》。
+- - 1298 年：格尔海姆之战：哈布斯堡王朝的阿尔伯特一世击败拿骚-魏尔堡的阿道夫。
+- - 866：布里萨尔特战役：强者罗伯特领导的法兰克人被布列塔尼-维京联合军队击败。
+- - 626年：未来的唐太宗李世民在玄武门之变中伏击并杀死了他的对手兄弟李元吉和李建成。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-07-01 04:13:11 UTC）*
+*（更新于: 2026-07-02 03:53:36 UTC）*
