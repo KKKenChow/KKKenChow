@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: Earth completes its shortest recorded day due to a slight acceleration in rotation, with July 9 lasting approximately 1.3 to 1.6 milliseconds less than 24 hours.
-- 2011: A rally takes place in Kuala Lumpur, Malaysia to call for fairer elections in the country.
-- 2011: South Sudan gains independence and secedes from Sudan.
-- 2006: Italy win their fourth World Cup title, defeating France 5-3 on penalties following a 1-1 draw after extra time.
-- 2006: One hundred and twenty-five people are killed when S7 Airlines Flight 778, an Airbus A310 passenger jet, veers off the runway while landing in wet conditions at Irkutsk Airport in Siberia.
-- 2004: The Senate Report on Iraqi WMD Intelligence is released by the United States Senate Select Committee on Intelligence, casting doubt on the rationale for the Iraq War.
-- 2002: The African Union is established in Addis Ababa, Ethiopia, replacing the Organisation of African Unity (OAU). The organization's first chairman is Thabo Mbeki, President of South Africa.
-- 1999: Days of student protests begin after Iranian police and hardliners attack a student dormitory at the University of Tehran.
-- 1997: An explosion aboard a Brazilian airline TAM Fokker 100 launches engineer Fernando Caldeira de Moura Campos into a 2,400 meters free fall.
-- 1995: The Navaly church bombing is carried out by the Sri Lanka Air Force killing 125 Tamil civilian refugees.
-- 1993: The Parliament of Canada passes the Nunavut Act leading to the 1999 creation of Nunavut, dividing the Northwest Territories into arctic (Inuit) and sub-arctic (Dene) lands based on a plebiscite.
-- 1986: The New Zealand Parliament passes the Homosexual Law Reform Act legalising homosexuality in New Zealand.
-- 1982: Pan Am Flight 759 crashes in Kenner, Louisiana, killing all 145 people on board and eight others on the ground.
-- 1979: A car bomb destroys a Renault motor car owned by "Nazi hunters" Serge and Beate Klarsfeld outside their home in France in an unsuccessful assassination attempt.
-- 1977: The Pinochet dictatorship in Chile organises the youth event of Acto de Chacarillas, a ritualised act reminiscent of Francoist Spain.
-- 1962: Starfish Prime tests the effects of a nuclear explosion at orbital altitudes.
-- 1961: Greece becomes the first member state to join the European Economic Community by signing the Athens Agreement, which is later suspended in 1967 during the Greek junta.
-- 1958: A 7.8 Mw  strike-slip earthquake in Alaska causes a landslide that produces a megatsunami. The runup from the waves reached 525 m (1,722 ft) on the rim of Lituya Bay; five people were killed.
-- 1956: The 7.7 Mw  Amorgos earthquake shakes the Cyclades island group in the Aegean Sea with a maximum Mercalli intensity of IX (Violent). The shaking and the destructive tsunami that followed left fifty-three people dead. A damaging M7.2 aftershock occurred minutes after the mainshock.
-- 1955: The Russell-Einstein Manifesto calls for a reduction of the risk of nuclear warfare.
-- 1944: World War II: Continuation War: Finland wins the Battle of Tali-Ihantala, the largest battle ever fought in northern Europe. The Red Army withdraws its troops from Ihantala and digs into a defensive position, thus ending the Vyborg-Petrozavodsk Offensive.
-- 1944: World War II: American forces take Saipan, bringing the Japanese archipelago within range of B-29 raids, and causing the downfall of the Tojo government.
-- 1943: World War II: The Allied invasion of Sicily begins, leading to the downfall of Mussolini and forcing Hitler to break off the Battle of Kursk.
-- 1937: The silent film archives of Fox Film Corporation are destroyed by the 1937 Fox vault fire.
-- 1932: The state of São Paulo revolts against the Brazilian Federal Government, starting the Constitutionalist Revolution.
-- 1926: Chiang Kai-shek accepts the post of commander-in-chief of the National Revolutionary Army, marking the beginning of the Northern Expedition to unite China under the rule of the Nationalist government.
-- 1922: Johnny Weissmuller swims the 100 meters freestyle in 58.6 seconds, breaking the world swimming record and the 'minute barrier'.
-- 1918: In Nashville, Tennessee, an inbound local train collides with an outbound express, killing 101 and injuring 171 people, making it the deadliest rail accident in United States history.
-- 1900: The Governor of Shanxi province in North China orders the execution of 45 foreign Christian missionaries and local church members, including children.
-- 1900: The Federation of Australia is given royal assent.
+- 2019: The final Volkswagen Beetle rolls off the line in Puebla, Mexico; the last of 5,961 "Special Edition" cars will be exhibited in a museum.
+- 2018: Tham Luang cave rescue: A group of Thai school children and their football coach are all rescued from a cave after being stuck there for 18 days; one Thai Navy SEAL diver dies during the rescue mission.
+- 2017: Iraqi Civil War: Mosul is declared fully liberated from the Islamic State of Iraq and the Levant by the government of Iraq.
+- 2016: Portugal defeats France in the UEFA Euro 2016 Final to win their first European title.
+- 2012: The Episcopal Church USA allows same-sex marriage.
+- 2011: Amid widespread backlash to revelations of phone hacking, the British weekly tabloid newspaper News of the World publishes its final issue and shuts down after nearly 168 years in print.
+- 2011: Russian cruise ship Bulgaria sinks in the Volga River near Syukeyevo, Tatarstan, causing 122 deaths.
+- 2008: Former Macedonian Interior Minister Ljube Boškoski is acquitted of all war-crimes charges by a United Nations tribunal.
+- 2007: Erden Eruç begins the first solo human-powered circumnavigation of the world.
+- 2006: A Pakistan International Airlines Fokker F27 Friendship crashes near Multan International Airport, killing all 45 people on board.
+- 2002: The Massacre of the Innocents, a painting by Peter Paul Rubens, is sold at a Sotheby's auction for £49.5 million (US$76.2 million) to Lord Thomson.
+- 2000: Bashar al-Assad succeeds his father Hafez al-Assad as President of Syria.
+- 2000: EADS, the world's second-largest aerospace group is formed by the merger of Aérospatiale-Matra, DASA, and CASA.
+- 1999: In women's association football, the United States defeats China in a penalty shoot-out at the Rose Bowl near Los Angeles to win the final match of the 1999 FIFA Women's World Cup. Watched by 90,185 spectators, the final sets a new world record for attendance at a women's sporting event.
+- 1998: Catholic Church sexual abuse cases: The Diocese of Dallas agrees to pay $23.4 million to nine former altar boys who claim they were sexually abused by Rudolph Kos, a former priest.
+- 1997: Miguel Ángel Blanco, a member of Partido Popular (Spain), is kidnapped (and later murdered) in the Basque city of Ermua by ETA members, sparking widespread protests.
+- 1997: In London, scientists report the findings of the DNA analysis of a Neanderthal skeleton which supports the "out of Africa theory" of human evolution, placing an "African Eve" at 100,000 to 200,000 years ago.
+- 1995: The NIOSH air filtration ratings update with the enactment of 42 CFR 84, previously published in the Federal Register. The new regulation includes rules governing the new N95 respirator standard.
+- 1995: Burmese politician Aung San Suu Kyi is released from house arrest.
+- 1992: In Miami, former Panamanian leader Manuel Noriega is sentenced to 40 years in prison for drug and racketeering violations.
+- 1991: A Beechcraft Model 99 crashes near Birmingham Municipal Airport (now Birmingham-Shuttlesworth International Airport) in Birmingham, Alabama, killing 13 of the 15 people on board.
+- 1991: Boris Yeltsin takes office as the first elected President of Russia.
+- 1991: The South African cricket team is readmitted into the International Cricket Council following the end of Apartheid.
+- 1985: An Aeroflot Tupolev Tu-154 stalls and crashes near Uchkuduk, Uzbekistan (then part of the Soviet Union), killing all 200 people on board in the USSR's worst-ever airline disaster.
+- 1985: The Greenpeace vessel Rainbow Warrior is bombed and sunk in Auckland harbour by French DGSE agents, killing Fernando Pereira.
+- 1978: President Moktar Ould Daddah of Mauritania is ousted in a bloodless coup d'état.
+- 1976: Four mercenaries (one American and three British) are executed in Angola following the Luanda Trial.
+- 1974: An EgyptAir Tupolev Tu-154 stalls and crashes at Cairo International Airport, killing all six people on board.
+- 1973: The Bahamas gains full independence within the Commonwealth of Nations.
+- 1967: New Zealand decimalises its former currency to the modern-day New Zealand dollar.
 
 Data from muffinlabs
-*(Updated at: 2026-07-09 03:37:11 UTC)*
+*(Updated at: 2026-07-10 03:38:39 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：由于自转略有加速，地球完成了有记录的最短一天，7 月 9 日持续约 1.3 至 1.6 毫秒，不到 24 小时。
-- - 2011 年：马来西亚吉隆坡举行集会，呼吁该国进行更公平的选举。
-- - 2011年：南苏丹获得独立并脱离苏丹。
-- - 2006年：意大利队在加时赛1-1战平法国队后，在点球大战中以5-3击败法国队，第四次夺得世界杯冠军。
-- - 2006 年：S7 航空公司 778 号航班（一架空客 A310 客机）在西伯利亚伊尔库茨克机场潮湿的条件下降落时偏离跑道，造成 125 人死亡。
-- - 2004年：美国参议院情报特别委员会发布了关于伊拉克大规模杀伤性武器情报的参议院报告，对伊拉克战争的理由提出了质疑。
-- - 2002年：非洲联盟在埃塞俄比亚亚的斯亚贝巴成立，取代非洲统一组织（OAU）。该组织的第一任主席是南非总统塔博·姆贝基。
-- - 1999 年：伊朗警察和强硬派袭击德黑兰大学学生宿舍后，学生开始了数天的抗议活动。
-- - 1997 年：巴西航空公司 TAM Fokker 100 飞机上发生爆炸，导致工程师 Fernando Caldeira de Moura Campos 从 2,400 米高空自由落体。
-- - 1995年：斯里兰卡空军发动纳瓦利教堂爆炸事件，造成125名泰米尔平民难民死亡。
-- - 1993 年：加拿大议会通过《努勒维特法案》，于 1999 年建立努勒维特，根据公民投票将西北地区划分为北极（因纽特）和亚北极（迪内）土地。
-- - 1986 年：新西兰议会通过《同性恋法律改革法案》，使新西兰同性恋合法化。
-- - 1982 年：泛美航空 759 号航班在路易斯安那州肯纳坠毁，机上 145 人全部遇难，地面上其他 8 人全部遇难。
-- - 1979 年：“纳粹猎手”塞尔吉·克拉斯菲尔德 (Serge Klarsfeld) 和贝亚特·克拉斯菲尔德 (Beate Klarsfeld) 在法国的家门外企图暗杀，一枚汽车炸弹摧毁了一辆雷诺汽车。
-- - 1977 年：智利的皮诺切特独裁政权组织了青年活动“Acto de Chacarillas”，这是一项仪式化的活动，让人想起佛朗哥统治下的西班牙。
-- - 1962 年：Starfish Prime 在轨道高度测试核爆炸的影响。
-- - 1961年：希腊签署《雅典协定》，成为第一个加入欧洲经济共同体的成员国，该协定后来于1967年希腊军政府执政期间暂停。
-- - 1958 年：阿拉斯加发生 7.8 兆瓦走滑地震，引发山体滑坡并引发大海啸。利图亚湾边缘海浪的上升高度达到 525 米（1,722 英尺）；五人被杀。
-- - 1956 年：7.7 兆瓦的阿莫尔戈斯地震震动了爱琴海的基克拉泽斯群岛，最大麦卡利强度为 IX（强烈）。随后发生的震动和破坏性海啸导致 53 人死亡。主震几分钟后发生了破坏性的 M7.2 余震。
-- - 1955 年：罗素-爱因斯坦宣言呼吁减少核战争的风险。
-- - 1944 年：第二次世界大战：延续战争：芬兰赢得塔利-伊汉塔拉战役，这是北欧有史以来规模最大的战役。红军从伊汉塔拉撤军并进入防御阵地，维堡-彼得罗扎沃茨克攻势就此结束。
-- - 1944 年：第二次世界大战：美军占领塞班岛，将日本列岛置于 B-29 的攻击范围内，并导致东条政府垮台。
-- - 1943 年：第二次世界大战：盟军入侵西西里岛，导致墨索里尼垮台并迫使希特勒终止库尔斯克战役。
-- - 1937 年：福克斯电影公司的无声电影档案被 1937 年福克斯金库火灾摧毁。
-- - 1932 年：圣保罗州反抗巴西联邦政府，开始立宪革命。
-- - 1926年：蒋介石就任国民革命军总司令，标志着国民党政府统治下北伐统一中国的开始。
-- - 1922 年：约翰尼·韦斯穆勒 (Johnny Weissmuller) 以 58.6 秒的时间游完 100 米自由泳，打破了游泳世界纪录和“分钟大关”。
-- - 1918 年：田纳西州纳什维尔，一列进站慢车与一辆出站快车相撞，造成 101 人死亡、171 人受伤，成为美国历史上最致命的铁路事故。
-- - 1900 年：中国北方山西省省长下令处决 45 名外国基督教传教士和当地教会成员，其中包括儿童。
-- - 1900 年：澳大利亚联邦获得御准。
+- - 2019 年：最后一辆大众甲壳虫在墨西哥普埃布拉下线；5,961 辆“特别版”汽车中的最后一辆将在博物馆展出。
+- - 2018年：Tham Luang洞穴救援：一群泰国学童和他们的足球教练在被困山洞18天后全部从山洞中获救；一名泰国海豹突击队潜水员在救援任务中死亡。
+- - 2017年：伊拉克内战：伊拉克政府宣布摩苏尔从伊拉克和黎凡特伊斯兰国手中完全解放。
+- - 2016年：葡萄牙在2016年欧洲杯决赛中击败法国队，赢得了他们的第一个欧洲冠军头衔。
+- - 2012 年：美国圣公会允许同性婚姻。
+- - 2011 年：在电话窃听事件遭到广泛抵制的背景下，英国周刊小报《世界新闻报》出版了最后一期，并在出版了近 168 年之后停刊。
+- - 2011年：俄罗斯游轮保加利亚号在鞑靼斯坦州苏克耶沃附近的伏尔加河沉没，造成122人死亡。
+- - 2008 年：前马其顿内政部长柳贝·博斯科斯基被联合国法庭宣判无罪。
+- - 2007 年：Erden Eruç 开始首次单人人力环球航行。
+- - 2006 年：巴基斯坦国际航空公司的一架福克 F27 友谊号飞机在木尔坦国际机场附近坠毁，机上 45 人全部遇难。
+- - 2002 年：彼得·保罗·鲁本斯 (Peter Paul Rubens) 的画作《无辜者大屠杀》在苏富比拍卖会上以 4950 万英镑（7620 万美元）的价格卖给了汤姆森勋爵。
+- - 2000年：巴沙尔·阿萨德接替其父亲哈菲兹·阿萨德成为叙利亚总统。
+- - 2000年：世界第二大航空航天集团欧洲宇航防务集团（EADS）由Aérospatiale-Matra、DASA和CASA合并而成。
+- - 1999年：在女子足球比赛中，美国队在洛杉矶附近的玫瑰碗球场通过点球大战击败中国队，赢得了1999年国际足联女子世界杯的决赛。决赛有 90,185 名观众观看，创下了女子体育赛事观看人数的新世界纪录。
+- - 1998 年：天主教会性虐待案件：达拉斯教区同意向九名前祭坛男孩支付 2340 万美元，他们声称自己受到前牧师鲁道夫·科斯 (Rudolph Kos) 的性虐待。
+- - 1997 年：西班牙人民党成员米格尔·安赫尔·布兰科 (Miguel Ángel Blanco) 在巴斯克城市埃尔穆阿 (Ermua) 被埃塔成员绑架（后来被谋杀），引发广泛抗议。
+- - 1997 年：在伦敦，科学家报告了对尼安德特人骨骼的 DNA 分析结果，该结果支持人类进化的“走出非洲理论”，将“非洲夏娃”置于 100,000 至 200,000 年前。
+- - 1995 年：NIOSH 空气过滤评级随着 42 CFR 84 的颁布而更新，该法案之前发布在《联邦公报》上。新法规包括管理新 N95 呼吸器标准的规则。
+- - 1995 年：缅甸政治家昂山素季从软禁中获释。
+- - 1992 年：在迈阿密，前巴拿马领导人曼努埃尔·诺列加因毒品和敲诈勒索罪被判处 40 年监禁。
+- - 1991 年：一架 Beechcraft 99 型飞机在阿拉巴马州伯明翰市伯明翰市政机场（现为伯明翰-沙特尔斯沃思国际机场）附近坠毁，机上 15 人中有 13 人死亡。
+- - 1991 年：鲍里斯·叶利钦就任俄罗斯第一任民选总统。
+- - 1991 年：种族隔离结束后，南非板球队重新加入国际板球理事会。
+- - 1985 年：一架 Aeroflot Tupolev Tu-154 在乌兹别克斯坦（当时属于苏联）乌奇库杜克附近失速并坠毁，造成苏联有史以来最严重的空难，机上 200 人全部遇难。
+- - 1985 年：绿色和平组织的船只“彩虹勇士”号在奥克兰港被法国 DGSE 特工炸沉，费尔南多·佩雷拉身亡。
+- - 1978 年：毛里塔尼亚总统莫克塔尔·乌尔德·达达在一场不流血政变中被赶下台。
+- - 1976 年：罗安达审判后，四名雇佣兵（一名美国人和三名英国人）在安哥拉被处决。
+- - 1974 年：埃及航空的一架图波列夫 Tu-154 飞机在开罗国际机场失速并坠毁，机上六人全部遇难。
+- - 1973 年：巴哈马在英联邦内获得完全独立。
+- - 1967 年：新西兰将其前货币十进制转换为现代新西兰元。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-07-09 03:37:11 UTC）*
+*（更新于: 2026-07-10 03:38:39 UTC）*
