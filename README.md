@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Former president of the United States Donald Trump is injured in an assassination attempt while speaking at an election campaign rally near Butler, Pennsylvania.
-- 2020: After a five-day search, the body of American actress and singer Naya Rivera is recovered from Lake Piru in California, where she had drowned.
-- 2016: Prime Minister of the United Kingdom David Cameron resigns, and is succeeded by Theresa May.
-- 2014 - Germany wins the FIFA World Cup, defeating Argentina in the final 1-0 after extra time.[16]: None
-- 2013: Typhoon Soulik kills at least nine people and affects more than 160 million in East China and Taiwan.
-- 2011: Noar Linhas Aéreas Flight 4896 crashes in Boa Viagem, Recife, killing all 16 people on board.
-- 2011: United Nations Security Council Resolution 1999 is adopted, which admits South Sudan to member status of United Nations.
-- 2011: Mumbai is rocked by three bomb blasts during the evening rush hour, killing 26 and injuring 130.
-- 2008: Battle of Wanat begins when Taliban and al-Qaeda guerrillas attack US Army and Afghan National Army troops in Afghanistan. The U.S. deaths were, at that time, the most in a single battle since the beginning of operations in 2001.
-- 2003: French DGSE personnel abort an operation to rescue Íngrid Betancourt from FARC rebels in Colombia, causing a political scandal when details are leaked to the press.
-- 1995: Space Shuttle Discovery is launched on STS-70 to deploy the TDRS-7 satellite.
-- 1990: Lenin Peak disaster: a 6.4-magnitude earthquake in Afghanistan triggers an avalanche on Lenin Peak, killing 43 climbers in the deadliest mountaineering disaster in history.
-- 1985: Vice President George H. W. Bush becomes the Acting President for the day when President Ronald Reagan undergoes surgery to remove polyps from his colon.
-- 1985: The Live Aid benefit concert takes place in London and Philadelphia, as well as other venues such as Moscow and Sydney.
-- 1977: Amidst a period of financial and social turmoil, New York City experiences an electrical blackout lasting nearly 24 hours that leads to widespread fires and looting.
-- 1977: Somalia declares war on Ethiopia, starting the Ogaden War.
-- 1973: Watergate scandal: Alexander Butterfield reveals the existence of a secret Oval Office taping system to investigators for the Senate Watergate Committee.
-- 1962: In an unprecedented action, British Prime Minister Harold Macmillan dismisses seven members of his Cabinet, marking the effective end of the National Liberals as a distinct force within British politics.
-- 1956: The Dartmouth workshop is the first conference on artificial intelligence.
-- 1951: Vuoristorata, one of the oldest still-operating wooden roller coasters in Europe, is opened at the Linnanmäki amusement park in Helsinki, Finland.
-- 1941: World War II: Montenegrins begin the Trinaestojulski ustanak (Thirteenth of July Uprising), a popular revolt against the Axis powers.
-- 1930: The inaugural FIFA World Cup begins in Uruguay.
-- 1919: The British airship R34 lands in Norfolk, England, completing the first airship return journey across the Atlantic in 182 hours of flight.
-- 1913: The 1913 Romanian Army cholera outbreak during the Second Balkan War starts.
-- 1878: Treaty of Berlin: The European powers redraw the map of the Balkans. Serbia, Montenegro and Romania become completely independent of the Ottoman Empire.
-- 1863: American Civil War: The New York City draft riots begin three days of rioting which will later be regarded as the worst in United States history.
-- 1854: In the Battle of Guaymas, Mexico, General José María Yáñez stops the French invasion led by Count Gaston de Raousset-Boulbon.
-- 1849: The Charleston Workhouse Slave Rebellion began in Charleston, South Carolina, United States.
-- 1831: Regulamentul Organic, a quasi-constitutional organic law is adopted in Wallachia, one of the two Danubian Principalities that were to become the basis of Romania.
-- 1830: The General Assembly's Institution, now the Scottish Church College, one of the pioneering institutions that ushered the Bengali Renaissance, is founded by Alexander Duff and Raja Ram Mohan Roy, in Calcutta, India.
+- 2019:  A GippsAero GA8 Airvan crashes in Umeå, Sweden, killing all nine aboard.
+- 2016: A man ploughs a truck into a Bastille Day celebration in Nice, France, killing 86 people and injuring another 434 before being shot by police.
+- 2015: NASA's New Horizons probe performs the first flyby of Pluto, and thus completes the initial survey of the Solar System.
+- 2013: Dedication of statue of Rachel Carson, a sculpture named for the environmentalist, in Woods Hole, Massachusetts.
+- 2002: French president Jacques Chirac escapes an assassination attempt from Maxime Brunerie during a Bastille Day parade at Champs-Élysées.
+- 2001: Rus Flight 9633 crashes during takeoff from Chkalovsky Airport, killing all 10 people on board.
+- 2001: Australian criminal Bradley John Murdoch murders British tourist Peter Falconio and abducted his girlfriend in the Northern Territory.
+- 1983: Mario Bros. is released in Japan, beginning the popular Super Mario Bros franchise.
+- 1965: Mariner 4 flyby of Mars takes the first close-up photos of another planet. The photographs take approximately six hours to be transmitted back to Earth.
+- 1960: Northwest Orient Airlines Flight 1-11 ditches off Polillo Island in the Philippines, killing one person and injuring 44.
+- 1960: Jane Goodall arrives at the Gombe Stream Reserve in present-day Tanzania to begin her study of chimpanzees in the wild.
+- 1958: In the 14 July Revolution in Iraq, the monarchy is overthrown by popular forces led by Abd al-Karim Qasim, who becomes the nation's new leader.
+- 1957: Rawya Ateya takes her seat in the National Assembly of Egypt, thereby becoming the first female parliamentarian in the Arab world.
+- 1951: Ferrari take their first Formula One grand prix victory at the British Grand Prix at Silverstone.
+- 1950: Korean War: beginning of the Battle of Taejon.
+- 1948: Palmiro Togliatti, leader of the Italian Communist Party, is shot and wounded near the Italian Parliament.
+- 1943: In Diamond, Missouri, the George Washington Carver National Monument becomes the first United States National Monument in honor of an African American.
+- 1942: In the Wardha session of Congress, the "Quit India" resolution is approved, authorising Mahatma Gandhi to campaign for India's independence from Britain.
+- 1933: Nazi eugenics programme begins with the proclamation of the Law for the Prevention of Hereditarily Diseased Offspring requiring the compulsory sterilization of any citizen who suffers from alleged genetic disorders.
+- 1933: In a decree called the Gleichschaltung, Adolf Hitler abolishes all German political parties except the Nazis.
+- 1916: Battle of Delville Wood begins as an action within the Battle of the Somme, lasting until 3 September 1916.
+- 1915: Beginning of the McMahon-Hussein Correspondence between Hussein bin Ali, Sharif of Mecca and the British official Henry McMahon concerning the Arab Revolt against the Ottoman Empire.
+- 1911: Harry Atwood, an exhibition pilot for the Wright brothers, is greeted by president William Howard Taft after he lands his aeroplane on the South Lawn of the White House, having flown from Boston.
+- 1902: The Campanile in St Mark's Square, Venice collapses, also demolishing the loggetta.
+- 1902: Peruvian explorer and farmer Agustín Lizárraga discovers Machu Picchu, the "Lost City of the Incas".
+- 1900: Armies of the Eight-Nation Alliance capture Tientsin during the Boxer Rebellion.
+- 1881: American outlaw Billy the Kid is shot and killed by Sheriff Pat Garrett in the Maxwell House at Fort Sumner, New Mexico.
+- 1874: The Chicago Fire of 1874 burns down 47 acres of the city, destroying 812 buildings, killing 20, and resulting in the fire insurance industry demanding municipal reforms from Chicago's city council.
+- 1865: The first ascent of the Matterhorn is completed by Edward Whymper and his party, four of whom die on the descent.
+- 1853: Opening of the first major US world's fair, the Exhibition of the Industry of All Nations in New York City.
 
 Data from muffinlabs
-*(Updated at: 2026-07-13 03:21:07 UTC)*
+*(Updated at: 2026-07-14 02:45:19 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：美国前总统唐纳德·特朗普在宾夕法尼亚州巴特勒附近的竞选集会上发表讲话时因暗杀企图受伤。
-- - 2020 年：经过五天的搜寻，美国女演员兼歌手纳雅·里维拉 (Naya Rivera) 的尸体在加利福尼亚州的皮鲁湖中被发现，她是在那里溺水身亡的。
-- - 2016年：英国首相戴维·卡梅伦辞职，特蕾莎·梅继任。
-- - 2014 年 - 德国赢得 FIFA 世界杯，在加时赛后以 1-0 击败阿根廷。[16]：无
-- - 2013 年：台风苏利克在中国东部和台湾造成至少 9 人死亡，影响超过 1.6 亿人。
-- - 2011 年：Noar Linhas Aéreas 4896 航班在累西腓 Boa Viagem 坠毁，机上 16 人全部遇难。
-- - 2011年：联合国安理会第1999号决议获得通过，承认南苏丹为联合国会员国。
-- - 2011 年：孟买晚间高峰时段发生三起炸弹爆炸，造成 26 人死亡、130 人受伤。
-- - 2008 年：瓦纳特战役开始，塔利班和基地组织游击队袭击驻阿富汗的美军和阿富汗国民军。当时，美军的死亡人数是自 2001 年行动开始以来单场战斗中死亡人数最多的一次。
-- - 2003 年：法国 DGSE 人员中止了一项从哥伦比亚革命武装力量叛乱分子手中营救英格丽德·贝当古的行动，细节被泄露给媒体后引发了一场政治丑闻。
-- - 1995 年：发现号航天飞机在 STS-70 上发射，以部署 TDRS-7 卫星。
-- - 1990年：列宁峰灾难：阿富汗发生6.4级地震，引发列宁峰雪崩，造成43名登山者死亡，这是历史上最致命的登山灾难。
-- - 1985 年：副总统乔治·H·W·布什成为代理总统，当天罗纳德·里根总统接受结肠息肉切除手术。
-- - 1985 年：Live Aid 慈善音乐会在伦敦和费城以及莫斯科和悉尼等其他场所举行。
-- - 1977 年：在金融和社会动荡时期，纽约市经历了持续近 24 小时的停电，导致大范围的火灾和抢劫。
-- - 1977 年：索马里向埃塞俄比亚宣战，欧加登战争爆发。
-- - 1973 年：水门事件丑闻：亚历山大·巴特菲尔德 (Alexander Butterfield) 向参议院水门委员会调查人员透露椭圆形办公室秘密录音系统的存在。
-- - 1962 年：英国首相哈罗德·麦克米伦采取了史无前例的行动，解雇了七名内阁成员，标志着国家自由党作为英国政治中一支独特力量的实际终结。
-- - 1956 年：达特茅斯研讨会是第一次关于人工智能的会议。
-- - 1951 年：Vuoristorata 是欧洲仍在运行的最古老的木制过山车之一，在芬兰赫尔辛基的 Linnanmäki 游乐园开业。
-- - 1941 年：第二次世界大战：黑山人开始了 Trinaestojulski ustanak（七月十三日起义），这是一场反对轴心国的民众起义。
-- - 1930 年：首届国际足联世界杯在乌拉圭开幕。
-- - 1919年：英国飞艇R34降落在英国诺福克，在182小时的飞行中完成了飞艇首次横跨大西洋的返程。
-- - 1913 年：1913 年第二次巴尔干战争期间罗马尼亚军队爆发霍乱。
-- - 1878 年：柏林条约：欧洲列强重新绘制巴尔干地图。塞尔维亚、黑山和罗马尼亚完全独立于奥斯曼帝国。
-- - 1863年：美国内战：纽约市征兵骚乱开始了为期三天的骚乱，后来被认为是美国历史上最严重的骚乱。
-- - 1854 年：在墨西哥瓜伊马斯战役中，何塞·玛丽亚·亚涅斯将军阻止了加斯顿·德·拉乌塞-布尔邦伯爵领导的法国入侵。
-- - 1849 年：查尔斯顿济贫院奴隶起义在美国南卡罗来纳州查尔斯顿爆发。
-- - 1831 年：瓦拉几亚（后来成为罗马尼亚基础的两个多瑙河公国之一）通过了《Regulamentul Organic》，这是一项准宪法组织法。
-- - 1830 年：亚历山大·达夫 (Alexander Duff) 和拉贾·拉姆·莫汉·罗伊 (Raja Ram Mohan Roy) 在印度加尔各答创立了大会机构，即现在的苏格兰教会学院，是引领孟加拉文艺复兴的先驱机构之一。
+- - 2019 年：一架 GippsAero GA8 Airvan 在瑞典于默奥坠毁，机上 9 人全部遇难。
+- - 2016 年：法国尼斯，一名男子将一辆卡车撞入巴士底日庆祝活动，造成 86 人死亡、另外 434 人受伤，随后被警察开枪射击。
+- - 2015年：美国宇航局的新视野号探测器首次飞越冥王星，从而完成了对太阳系的初步勘测。
+- - 2013 年：在马萨诸塞州伍兹霍尔市为雷切尔·卡森 (Rachel Carson) 的雕像落成，这是一座以环保主义者的名字命名的雕塑。
+- - 2002 年：法国总统雅克·希拉克 (Jacques Chirac) 在香榭丽舍大街举行的巴士底日游行中逃脱了马克西姆·布鲁内里 (Maxime Brunerie) 的暗杀企图。
+- - 2001 年：俄罗斯 9633 号航班在从契卡洛夫斯基机场起飞时坠毁，机上 10 人全部遇难。
+- - 2001 年：澳大利亚犯罪分子布拉德利·约翰·默多克在北领地谋杀了英国游客彼得·法尔科尼奥并绑架了他的女友。
+- - 1983 年：《马里奥兄弟》在日本发行，开启了广受欢迎的《超级马里奥兄弟》系列。
+- - 1965 年：水手 4 号飞越火星拍摄了第一张另一颗行星的特写照片。这些照片大约需要六个小时才能传回地球。
+- - 1960 年：西北东方航空公司 1-11 号航班在菲律宾波利略岛附近迫降，造成 1 人死亡、44 人受伤。
+- - 1960 年：简·古道尔 (Jane Goodall) 抵达位于现今坦桑尼亚的贡贝溪保护区 (Gombe Stream Reserve)，开始对野外黑猩猩的研究。
+- - 1958 年：在伊拉克 7 月 14 日革命中，君主制被阿卜杜勒·卡里姆·卡西姆 (Abd al-Karim Qasim) 领导的民众力量推翻，他成为该国的新领导人。
+- - 1957 年：Rawya Ateya 在埃及国民议会就职，从而成为阿拉伯世界第一位女议员。
+- - 1951 年：法拉利在银石赛道举行的英国大奖赛上首次获得一级方程式大奖赛胜利。
+- - 1950 年：朝鲜战争：大田战役开始。
+- - 1948 年：意大利共产党领导人帕尔米罗·陶里亚蒂在意大利议会附近被枪杀。
+- - 1943 年：在密苏里州戴蒙德，乔治华盛顿卡弗国家纪念碑成为美国第一个纪念非裔美国人的国家纪念碑。
+- - 1942年：国会沃达会议通过了“退出印度”决议，授权圣雄甘地为印度脱离英国而独立。
+- - 1933 年：纳粹优生计划开始，颁布了《预防遗传性疾病后代法》，要求对任何患有所谓遗传性疾病的公民进行强制绝育。
+- - 1933 年：在一项名为“Gleichschaltung”的法令中，阿道夫·希特勒废除了除纳粹之外的所有德国政党。
+- - 1916 年：德尔维尔伍德战役作为索姆河战役中的一场行动开始，一直持续到 1916 年 9 月 3 日。
+- - 1915 年：麦加谢里夫侯赛因·本·阿里与英国官员亨利·麦克马洪就阿拉伯反抗奥斯曼帝国的起义开始麦克马洪-侯赛因通信。
+- - 1911 年：莱特兄弟的表演飞行员哈里·阿特伍德 (Harry Atwood) 从波士顿起飞，将飞机降落在白宫南草坪，受到总统威廉·霍华德·塔夫脱 (William Howard Taft) 的迎接。
+- - 1902 年：威尼斯圣马可广场的钟楼倒塌，凉廊也被毁。
+- - 1902 年：秘鲁探险家兼农民阿古斯丁·利扎拉加 (Agustín Lizárraga) 发现了“印加失落之城”马丘比丘。
+- - 1900 年：义和团运动期间，八国联盟军队占领天津。
+- - 1881 年：美国亡命之徒比利小子在新墨西哥州萨姆纳堡的麦斯韦尔别墅被警长帕特·加勒特枪杀。
+- - 1874 年：1874 年的芝加哥大火烧毁了该市 47 英亩的土地，摧毁了 812 栋建筑物，造成 20 人死亡，导致火灾保险业要求芝加哥市议会进行市政改革。
+- - 1865 年：爱德华·温珀 (Edward Whymper) 和他的团队完成了马特洪峰的首次攀登，其中四人在下撤过程中丧生。
+- - 1853 年：美国第一届大型世界博览会——万国工业展览会在纽约开幕。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-07-13 03:21:07 UTC）*
+*（更新于: 2026-07-14 02:45:19 UTC）*
