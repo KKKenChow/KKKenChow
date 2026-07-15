@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019:  A GippsAero GA8 Airvan crashes in Umeå, Sweden, killing all nine aboard.
-- 2016: A man ploughs a truck into a Bastille Day celebration in Nice, France, killing 86 people and injuring another 434 before being shot by police.
-- 2015: NASA's New Horizons probe performs the first flyby of Pluto, and thus completes the initial survey of the Solar System.
-- 2013: Dedication of statue of Rachel Carson, a sculpture named for the environmentalist, in Woods Hole, Massachusetts.
-- 2002: French president Jacques Chirac escapes an assassination attempt from Maxime Brunerie during a Bastille Day parade at Champs-Élysées.
-- 2001: Rus Flight 9633 crashes during takeoff from Chkalovsky Airport, killing all 10 people on board.
-- 2001: Australian criminal Bradley John Murdoch murders British tourist Peter Falconio and abducted his girlfriend in the Northern Territory.
-- 1983: Mario Bros. is released in Japan, beginning the popular Super Mario Bros franchise.
-- 1965: Mariner 4 flyby of Mars takes the first close-up photos of another planet. The photographs take approximately six hours to be transmitted back to Earth.
-- 1960: Northwest Orient Airlines Flight 1-11 ditches off Polillo Island in the Philippines, killing one person and injuring 44.
-- 1960: Jane Goodall arrives at the Gombe Stream Reserve in present-day Tanzania to begin her study of chimpanzees in the wild.
-- 1958: In the 14 July Revolution in Iraq, the monarchy is overthrown by popular forces led by Abd al-Karim Qasim, who becomes the nation's new leader.
-- 1957: Rawya Ateya takes her seat in the National Assembly of Egypt, thereby becoming the first female parliamentarian in the Arab world.
-- 1951: Ferrari take their first Formula One grand prix victory at the British Grand Prix at Silverstone.
-- 1950: Korean War: beginning of the Battle of Taejon.
-- 1948: Palmiro Togliatti, leader of the Italian Communist Party, is shot and wounded near the Italian Parliament.
-- 1943: In Diamond, Missouri, the George Washington Carver National Monument becomes the first United States National Monument in honor of an African American.
-- 1942: In the Wardha session of Congress, the "Quit India" resolution is approved, authorising Mahatma Gandhi to campaign for India's independence from Britain.
-- 1933: Nazi eugenics programme begins with the proclamation of the Law for the Prevention of Hereditarily Diseased Offspring requiring the compulsory sterilization of any citizen who suffers from alleged genetic disorders.
-- 1933: In a decree called the Gleichschaltung, Adolf Hitler abolishes all German political parties except the Nazis.
-- 1916: Battle of Delville Wood begins as an action within the Battle of the Somme, lasting until 3 September 1916.
-- 1915: Beginning of the McMahon-Hussein Correspondence between Hussein bin Ali, Sharif of Mecca and the British official Henry McMahon concerning the Arab Revolt against the Ottoman Empire.
-- 1911: Harry Atwood, an exhibition pilot for the Wright brothers, is greeted by president William Howard Taft after he lands his aeroplane on the South Lawn of the White House, having flown from Boston.
-- 1902: The Campanile in St Mark's Square, Venice collapses, also demolishing the loggetta.
-- 1902: Peruvian explorer and farmer Agustín Lizárraga discovers Machu Picchu, the "Lost City of the Incas".
-- 1900: Armies of the Eight-Nation Alliance capture Tientsin during the Boxer Rebellion.
-- 1881: American outlaw Billy the Kid is shot and killed by Sheriff Pat Garrett in the Maxwell House at Fort Sumner, New Mexico.
-- 1874: The Chicago Fire of 1874 burns down 47 acres of the city, destroying 812 buildings, killing 20, and resulting in the fire insurance industry demanding municipal reforms from Chicago's city council.
-- 1865: The first ascent of the Matterhorn is completed by Edward Whymper and his party, four of whom die on the descent.
-- 1853: Opening of the first major US world's fair, the Exhibition of the Industry of All Nations in New York City.
+- 2018: France win their second World Cup title, defeating Croatia 4-2.
+- 2016: Factions of the Turkish Armed Forces attempt a coup.
+- 2014: A train derails on the Moscow Metro, killing at least 24 and injuring more than 160 others.
+- 2012: South Korean rapper Psy releases his hit single Gangnam Style.
+- 2009: Space Shuttle program: Endeavour is launched on STS-127 to complete assembly of the International Space Station's Kibō module.
+- 2009: Caspian Airlines Flight 7908 crashes near Jannatabad, Qazvin, Iran, killing 168.
+- 2006: Twitter, later one of the largest social media platforms in the world, is launched.
+- 2003: AOL Time Warner disbands Netscape. The Mozilla Foundation is established on the same day.
+- 2002: The Anti-Terrorism Court of Pakistan sentences British born Ahmed Omar Saeed Sheikh to death, and three others suspected of murdering The Wall Street Journal reporter Daniel Pearl to life.
+- 2002: "American Taliban" John Walker Lindh pleads guilty to supplying aid to the enemy and possession of explosives during the commission of a felony.
+- 1998: Sri Lankan Civil War: Sri Lankan Tamil MP S. Shanmuganathan is killed by a claymore mine.
+- 1996: A Belgian Air Force C-130 Hercules carrying the Royal Netherlands Army marching band crashes on landing at Eindhoven Airport.
+- 1983: Nintendo and Sega enter the console market with the respective releases of the Famicom and SG-1000 in Japan.
+- 1983: An attack at Orly Airport in Paris is launched by Armenian militant organisation ASALA, leaving eight people dead and 55 injured.
+- 1979: U.S. president Jimmy Carter gives his "malaise speech".
+- 1975: Aeroflot Flight E-15 crashes on approach to Batumi International Airport, killing 40.
+- 1975: Space Race: Apollo-Soyuz Test Project features the dual launch of an Apollo spacecraft and a Soyuz spacecraft on the first Soviet-United States human-crewed flight. It was the last launch of both an Apollo spacecraft, and the Saturn family of rockets.
+- 1974: In Nicosia, Cyprus, Greek junta-sponsored nationalists launch a coup d'état, deposing Makarios III and installing Nikos Sampson as the president of Cyprus.
+- 1971: The United Red Army is founded in Japan.
+- 1966: Vietnam War: The United States and South Vietnam begin Operation Hastings to push the North Vietnamese out of the Vietnamese Demilitarized Zone.
+- 1955: Eighteen Nobel laureates sign the Mainau Declaration against nuclear weapons, later co-signed by thirty-four others.
+- 1954: The Boeing 367-80, the prototype for both the Boeing 707 and C-135 series, takes its first flight.
+- 1946: The State of North Borneo, now Sabah, Malaysia, is annexed by the United Kingdom.
+- 1942: The Holocaust: Nazi Germany begins the deportation of 100,000 Jews from the occupied Netherlands to extermination camps.
+- 1927: Massacre of July 15, 1927: Eighty-nine protesters are killed by Austrian police in Vienna.
+- 1922: The Japanese Communist Party is established in Japan.
+- 1920: Aftermath of World War I: The Parliament of Poland establishes Silesian Voivodeship before the Polish-German plebiscite.
+- 1918: World War I: The Second Battle of the Marne begins near the River Marne with a German attack.
+- 1916: In Seattle, Washington, William Boeing and George Conrad Westervelt incorporate Pacific Aero Products (later renamed Boeing).
+- 1910: In his book Clinical Psychiatry, Emil Kraepelin gives a name to Alzheimer's disease, naming it after his colleague Alois Alzheimer.
 
 Data from muffinlabs
-*(Updated at: 2026-07-14 02:45:19 UTC)*
+*(Updated at: 2026-07-15 02:43:50 UTC)*
 
 # 历史上的今天 
 
-- - 2019 年：一架 GippsAero GA8 Airvan 在瑞典于默奥坠毁，机上 9 人全部遇难。
-- - 2016 年：法国尼斯，一名男子将一辆卡车撞入巴士底日庆祝活动，造成 86 人死亡、另外 434 人受伤，随后被警察开枪射击。
-- - 2015年：美国宇航局的新视野号探测器首次飞越冥王星，从而完成了对太阳系的初步勘测。
-- - 2013 年：在马萨诸塞州伍兹霍尔市为雷切尔·卡森 (Rachel Carson) 的雕像落成，这是一座以环保主义者的名字命名的雕塑。
-- - 2002 年：法国总统雅克·希拉克 (Jacques Chirac) 在香榭丽舍大街举行的巴士底日游行中逃脱了马克西姆·布鲁内里 (Maxime Brunerie) 的暗杀企图。
-- - 2001 年：俄罗斯 9633 号航班在从契卡洛夫斯基机场起飞时坠毁，机上 10 人全部遇难。
-- - 2001 年：澳大利亚犯罪分子布拉德利·约翰·默多克在北领地谋杀了英国游客彼得·法尔科尼奥并绑架了他的女友。
-- - 1983 年：《马里奥兄弟》在日本发行，开启了广受欢迎的《超级马里奥兄弟》系列。
-- - 1965 年：水手 4 号飞越火星拍摄了第一张另一颗行星的特写照片。这些照片大约需要六个小时才能传回地球。
-- - 1960 年：西北东方航空公司 1-11 号航班在菲律宾波利略岛附近迫降，造成 1 人死亡、44 人受伤。
-- - 1960 年：简·古道尔 (Jane Goodall) 抵达位于现今坦桑尼亚的贡贝溪保护区 (Gombe Stream Reserve)，开始对野外黑猩猩的研究。
-- - 1958 年：在伊拉克 7 月 14 日革命中，君主制被阿卜杜勒·卡里姆·卡西姆 (Abd al-Karim Qasim) 领导的民众力量推翻，他成为该国的新领导人。
-- - 1957 年：Rawya Ateya 在埃及国民议会就职，从而成为阿拉伯世界第一位女议员。
-- - 1951 年：法拉利在银石赛道举行的英国大奖赛上首次获得一级方程式大奖赛胜利。
-- - 1950 年：朝鲜战争：大田战役开始。
-- - 1948 年：意大利共产党领导人帕尔米罗·陶里亚蒂在意大利议会附近被枪杀。
-- - 1943 年：在密苏里州戴蒙德，乔治华盛顿卡弗国家纪念碑成为美国第一个纪念非裔美国人的国家纪念碑。
-- - 1942年：国会沃达会议通过了“退出印度”决议，授权圣雄甘地为印度脱离英国而独立。
-- - 1933 年：纳粹优生计划开始，颁布了《预防遗传性疾病后代法》，要求对任何患有所谓遗传性疾病的公民进行强制绝育。
-- - 1933 年：在一项名为“Gleichschaltung”的法令中，阿道夫·希特勒废除了除纳粹之外的所有德国政党。
-- - 1916 年：德尔维尔伍德战役作为索姆河战役中的一场行动开始，一直持续到 1916 年 9 月 3 日。
-- - 1915 年：麦加谢里夫侯赛因·本·阿里与英国官员亨利·麦克马洪就阿拉伯反抗奥斯曼帝国的起义开始麦克马洪-侯赛因通信。
-- - 1911 年：莱特兄弟的表演飞行员哈里·阿特伍德 (Harry Atwood) 从波士顿起飞，将飞机降落在白宫南草坪，受到总统威廉·霍华德·塔夫脱 (William Howard Taft) 的迎接。
-- - 1902 年：威尼斯圣马可广场的钟楼倒塌，凉廊也被毁。
-- - 1902 年：秘鲁探险家兼农民阿古斯丁·利扎拉加 (Agustín Lizárraga) 发现了“印加失落之城”马丘比丘。
-- - 1900 年：义和团运动期间，八国联盟军队占领天津。
-- - 1881 年：美国亡命之徒比利小子在新墨西哥州萨姆纳堡的麦斯韦尔别墅被警长帕特·加勒特枪杀。
-- - 1874 年：1874 年的芝加哥大火烧毁了该市 47 英亩的土地，摧毁了 812 栋建筑物，造成 20 人死亡，导致火灾保险业要求芝加哥市议会进行市政改革。
-- - 1865 年：爱德华·温珀 (Edward Whymper) 和他的团队完成了马特洪峰的首次攀登，其中四人在下撤过程中丧生。
-- - 1853 年：美国第一届大型世界博览会——万国工业展览会在纽约开幕。
+- - 2018年：法国以4-2击败克罗地亚，第二次夺得世界杯冠军。
+- - 2016 年：土耳其武装部队各派系企图发动政变。
+- - 2014 年：莫斯科地铁一列火车脱轨，造成至少 24 人死亡、160 多人受伤。
+- - 2012 年：韩国说唱歌手 Psy 发行了他的热门单曲《江南 Style》。
+- - 2009 年：航天飞机计划：奋进号在 STS-127 上发射，以完成国际空间站 Kibō 模块的组装。
+- - 2009 年：里海航空 7908 号航班在伊朗加兹温贾纳塔巴德附近坠毁，造成 168 人死亡。
+- - 2006 年：Twitter 推出，后来成为世界上最大的社交媒体平台之一。
+- - 2003 年：AOL 时代华纳解散 Netscape。Mozilla 基金会于同一天成立。
+- - 2002 年：巴基斯坦反恐法院判处出生于英国的艾哈迈德·奥马尔·赛义德·谢赫死刑，以及另外三名涉嫌谋杀《华尔街日报》记者丹尼尔·珀尔的人。
+- - 2002年：“美国塔利班”约翰·沃克·林德承认在犯下重罪期间向敌人提供援助和持有爆炸物。
+- - 1998 年：斯里兰卡内战：斯里兰卡泰米尔议员 S. Shanmuganathan 被克莱莫地雷炸死。
+- - 1996 年：一架载有荷兰皇家陆军军乐队的比利时空军 C-130 Hercules 在埃因霍温机场降落时坠毁。
+- - 1983 年：任天堂和世嘉分别在日本发布了 Famicom 和 SG-1000，进入游戏机市场。
+- - 1983年：亚美尼亚激进组织ASALA对巴黎奥利机场发动袭击，造成8人死亡、55人受伤。
+- - 1979 年：美国总统吉米·卡特发表“忧郁演讲”。
+- - 1975 年：俄罗斯航空公司 E-15 航班在飞往巴统国际机场时坠毁，造成 40 人死亡。
+- - 1975 年：太空竞赛：阿波罗-联盟号测试项目，在首次苏美载人飞行中同时发射阿波罗飞船和联盟号飞船。这是阿波罗航天器和土星系列火箭的最后一次发射。
+- - 1974年：在塞浦路斯尼科西亚，希腊军政府支持的民族主义者发动政变，废黜马卡里奥斯三世并任命尼科斯·桑普森为塞浦路斯总统。
+- - 1971 年：红军在日本成立。
+- - 1966 年：越南战争：美国和南越开始黑斯廷斯行动，将北越赶出越南非军事区。
+- - 1955 年：十八位诺贝尔奖获得者签署了《反对核武器迈瑙宣言》，随后还有另外 34 名诺贝尔奖获得者共同签署。
+- - 1954 年：波音 367-80（波音 707 和 C-135 系列的原型机）首次飞行。
+- - 1946 年：北婆罗洲（现马来西亚沙巴）被英国吞并。
+- - 1942 年：大屠杀：纳粹德国开始将 100,000 名犹太人从被占领的荷兰驱逐到灭绝营。
+- - 1927 年：1927 年 7 月 15 日大屠杀：89 名抗议者在维也纳被奥地利警察杀害。
+- - 1922年：日本共产党在日本成立。
+- - 1920 年：第一次世界大战后：波兰议会在波兰-德国公民投票之前建立西里西亚省。
+- - 1918 年：第一次世界大战：第二次马恩河战役在马恩河附近爆发，德军发动进攻。
+- - 1916 年：威廉·波音公司和乔治·康拉德·韦斯特维尔特在华盛顿州西雅图成立了太平洋航空​​产品公司（后更名为波音公司）。
+- - 1910 年：埃米尔·克雷佩林 (Emil Kraepelin) 在他的《临床精神病学》一书中以他的同事阿洛伊斯·阿尔茨海默 (Alois Alzheimer) 的名字为阿尔茨海默病命名。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-07-14 02:45:19 UTC）*
+*（更新于: 2026-07-15 02:43:50 UTC）*
