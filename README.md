@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025 ─ The tourist boat Wonder Sea capsizes during a thunderstorm in Hạ Long Bay, Vietnam, leaving at least 36 people dead.[18]: None
-- 2024 ─ The International Court of Justice (ICJ) delivered a ruling stating that Israel should end its illegal occupation of the Palestinian territories. The ICJ identified that all member states of the UN are under an obligation not to recognize the occupation as legal nor "render aid or assistance" toward maintaining Israel's presence in the occupied territories.[16][17]: None
-- 2024 ─ A faulty software update by CrowdStrike, an American cybersecurity company, causes global computer outages.[15]: None
-- 2018: The Knesset passes the controversial Nationality Bill, which defines the State of Israel as the nation-state of the Jewish people.
-- 2014: Gunmen in Egypt's western desert province of New Valley Governorate attack a military checkpoint, killing at least 21 soldiers. Egypt reportedly declares a state of emergency on its border with Sudan.
-- 2012: Syrian civil war: The People's Protection Units (YPG) capture the city of Kobanî without resistance, starting the Rojava conflict in Northeast Syria.
-- 2011: Guinean President Alpha Condé survives an attempted assassination and coup d'état at his residence in Conakry.
-- 1997: The Troubles: The Provisional Irish Republican Army resumes a ceasefire to end their 25-year paramilitary campaign to end British rule in Northern Ireland.
-- 1992: A car bomb kills Judge Paolo Borsellino and five members of his escort.
-- 1989: United Airlines Flight 232 crashes in Sioux City, Iowa, killing 111.
-- 1985: The Val di Stava dam collapses killing 268 people in Val di Stava, Italy.
-- 1983: The first three-dimensional reconstruction of a human head in a CT is published.
-- 1982: In one of the first militant attacks by Hezbollah, David S. Dodge, president of the American University of Beirut, is kidnapped.
-- 1981: In a private meeting with U.S. President Ronald Reagan, French President François Mitterrand reveals the existence of the Farewell Dossier, a collection of documents showing the Soviet Union had been stealing American technological research and development.
-- 1980: Opening of the Summer Olympics in Moscow.
-- 1979: The oil tanker SS Atlantic Empress collides with another oil tanker, causing the largest ever ship-borne oil spill.
-- 1979: The Sandinista rebels overthrow the government of the Somoza family in Nicaragua.
-- 1977: The world's first Global Positioning System (GPS) signal was transmitted from Navigation Technology Satellite 2 (NTS-2) and received at Rockwell Collins in Cedar Rapids, Iowa, at 12:41 a.m. Eastern time (ET).
-- 1976: Sagarmatha National Park in Nepal is created.
-- 1972: Dhofar Rebellion: British SAS units help the Omani government against Popular Front for the Liberation of Oman rebels in the Battle of Mirbat.
-- 1969: Chappaquiddick incident: U.S. Senator Ted Kennedy crashes his car into a tidal pond at Chappaquiddick Island, Massachusetts, killing his passenger Mary Jo Kopechne.
-- 1967: Piedmont Airlines Flight 22, a Piedmont Airlines Boeing 727-22 and a twin-engine Cessna 310 collided over Hendersonville, North Carolina, USA. Both aircraft were destroyed and all passengers and crew were killed, including John T. McNaughton, an advisor to Robert McNamara.
-- 1964: Vietnam War: At a rally in Saigon, South Vietnamese Prime Minister Nguyễn Khánh calls for expanding the war into North Vietnam.
-- 1963: Joe Walker flies a North American X-15 to a record altitude of 106,010 meters (347,800 feet) on X-15 Flight 90. Exceeding an altitude of 100 km, this flight qualifies as a human spaceflight under international convention.
-- 1961: Tunisia imposes a blockade on the French naval base at Bizerte; the French would capture the entire town four days later.
-- 1957: The largely autobiographical novel The Ordeal of Gilbert Pinfold by Evelyn Waugh was published.
-- 1952: Opening of the Summer Olympics in Helsinki, Finland.
-- 1947: Korean politician Lyuh Woon-hyung is assassinated.
-- 1947: Prime Minister of the shadow Burmese government, Bogyoke Aung San and eight others are assassinated.
-- 1943: World War II: Rome is heavily bombed by more than 500 Allied aircraft, inflicting thousands of casualties.
+- 2021: American businessman Jeff Bezos flies to space aboard New Shepard NS-16 operated by his private spaceflight company Blue Origin.
+- 2019: Soyuz MS-13 is launched to the International Space Station on the 50th anniversary of the Apollo 11 moon landing.
+- 2017: O. J. Simpson is granted parole to be released from prison after serving nine years of a 33-year sentence after being convicted of armed robbery in Las Vegas.
+- 2015: The United States and Cuba resume full diplomatic relations after five decades.
+- 2015: A huge explosion in the mostly Kurdish border town of Suruç, Turkey, targeting the Socialist Youth Associations Federation, kills at least 31 people and injures over 100.
+- 2013: Syrian civil war: The Battle of Ras al-Ayn ends with the expulsion of Islamist forces from the city by the People's Protection Units (YPG).
+- 2013: Seventeen government soldiers are killed in an attack by FARC revolutionaries in the Colombian department of Arauca.
+- 2012: Syrian civil war: The People's Protection Units (YPG) capture the cities of Amuda and Efrîn without resistance.
+- 2012: James Holmes opened fire at a movie theater in Aurora, Colorado, killing 12 and injuring 70 others.
+- 2005: The Civil Marriage Act legalizes same-sex marriage in Canada.
+- 1999: The Chinese Communist Party begins a persecution campaign against Falun Gong, arresting thousands nationwide.
+- 1997: The fully restored USS Constitution (a.k.a. Old Ironsides) celebrates its 200th birthday by setting sail for the first time in 116 years.
+- 1992: A Tupolev Tu-154 crashes during takeoff from Tbilisi International Airport, killing all 24 aboard and four more people on the ground.
+- 1992: Václav Havel resigns as president of Czechoslovakia.
+- 1989: Burma's ruling junta puts opposition leader Aung San Suu Kyi under house arrest.
+- 1985: The government of Aruba passes legislation to secede from the Netherlands Antilles.
+- 1982: Hyde Park and Regent's Park bombings: The Provisional IRA detonates two bombs in Hyde Park and Regent's Park in central London, killing eight soldiers, wounding forty-seven people, and leading to the deaths of seven horses.
+- 1981: Somali Airlines Flight 40 crashes in Balad, Somalia, killing 50 people.
+- 1977: Aeroflot Flight B-2 crashes after takeoff from Vitim Airport in the Sakha Republic, killing 39.
+- 1977: The Johnstown flood of 1977 kills 84 people and causes millions of dollars in damages.
+- 1977: The Central Intelligence Agency releases documents under the Freedom of Information Act revealing it had engaged in mind-control experiments.
+- 1976: The American Viking 1 lander successfully lands on Mars.
+- 1974: Turkish invasion of Cyprus: Forces from Turkey invade Cyprus after a coup d'état, organised by the dictator of Greece, against president Makarios.
+- 1969: A cease fire is announced between Honduras and El Salvador, six days after the beginning of the "Football War".
+- 1969: Apollo program: Apollo 11's crew successfully makes the first human landing on the Moon in the Sea of Tranquility. Americans Neil Armstrong and Buzz Aldrin become the first humans to walk on the Moon six and a half hours later.
+- 1968: The first International Special Olympics Summer Games are held at Soldier Field in Chicago, with about 1,000 athletes with intellectual disabilities.
+- 1964: Vietnam War: Viet Cong forces attack the capital of Định Tường Province, Cái Bè, killing 11 South Vietnamese military personnel and 40 civilians (30 of whom are children).
+- 1961: French military forces break the Tunisian siege of Bizerte.
+- 1960: The Polaris missile is successfully launched from a submarine, the USS George Washington, for the first time.
+- 1954: Germany: Otto John, head of West Germany's secret service, defects to East Germany.
 
 Data from muffinlabs
-*(Updated at: 2026-07-19 03:14:59 UTC)*
+*(Updated at: 2026-07-20 03:52:40 UTC)*
 
 # 历史上的今天 
 
-- - 2025年 ─ 越南下龙湾的Wonder Sea游船在雷雨中倾覆，造成至少36人死亡。[18]：无
-- - 2024年──国际法院（ICJ）作出裁决，要求以色列结束对巴勒斯坦领土的非法占领。国际法院指出，联合国所有成员国都有义务不承认占领为合法，也不“提供援助或协助”以维持以色列在被占领土上的存在。[16][17]：无
-- - 2024 年 ─ 美国网络安全公司 CrowdStrike 的一次错误软件更新导致全球计算机中断。[15]：无
-- - 2018 年：以色列议会通过了备受争议的《国籍法案》，该法案将以色列国定义为犹太人民的民族国家。
-- - 2014年：埃及西部沙漠省份新谷省的武装分子袭击了一个军事检查站，造成至少21名士兵死亡。据报道，埃及宣布与苏丹边境进入紧急状态。
-- - 2012 年：叙利亚内战：人民保卫军 (YPG) 在没有抵抗的情况下占领了科巴尼市，引发了叙利亚东北部的罗贾瓦冲突。
-- - 2011 年：几内亚总统阿尔法·孔戴在科纳克里的官邸遭遇暗杀未遂和政变，幸免于难。
-- - 1997 年：麻烦：爱尔兰临时共和军恢复停火，结束他们长达 25 年的旨在结束英国在北爱尔兰统治的准军事行动。
-- - 1992 年：一枚汽车炸弹炸死了法官保罗·博尔塞利诺 (Paolo Borsellino) 和他的五名护送人员。
-- - 1989 年：联合航空 232 号航班在爱荷华州苏城坠毁，造成 111 人死亡。
-- - 1985 年：意大利斯塔瓦山谷大坝垮塌，造成 268 人死亡。
-- - 1983 年：首次在 CT 中对人体头部进行三维重建。
-- - 1982 年：在真主党的第一次武装袭击中，贝鲁特美国大学校长戴维·S·道奇 (David S. Dodge) 被绑架。
-- - 1981 年：在与美国总统罗纳德·里根的一次私人会晤中，法国总统弗朗索瓦·密特朗透露了告别档案的存在，这是一系列文件，显示苏联一直在窃取美国的技术研发。
-- - 1980 年：莫斯科夏季奥运会开幕。
-- - 1979 年：SS Atlantic Empress 油轮与另一艘油轮相撞，造成有史以来最大规模的船载漏油事故。
-- - 1979年：桑地诺革命军推翻尼加拉瓜索摩查家族政府。
-- - 1977 年：世界上第一个全球定位系统 (GPS) 信号从导航技术卫星 2 (NTS-2) 发射，并于东部时间 (ET) 凌晨 12:41 在爱荷华州锡达拉皮兹的罗克韦尔柯林斯公司接收。
-- - 1976 年：尼泊尔萨加玛塔国家公园成立。
-- - 1972 年：佐法尔叛乱：英国特种空勤团部队在米尔巴特战役中帮助阿曼政府对抗阿曼解放人民阵线叛军。
-- - 1969 年：查帕奎迪克事件：美国参议员特德·肯尼迪 (Ted Kennedy) 将汽车撞入马萨诸塞州查帕奎迪克岛的潮汐池，导致乘客玛丽·乔·科佩奇尼 (Mary Jo Kopechne) 身亡。
-- - 1967 年：皮埃蒙特航空公司 22 号航班、一架皮埃蒙特航空公司波音 727-22 和一架双引擎塞斯纳 310 在美国北卡罗来纳州亨德森维尔上空相撞。两架飞机均被摧毁，所有乘客和机组人员全部遇难，其中包括罗伯特·麦克纳马拉的顾问约翰·T·麦克诺顿。
-- - 1964 年：越南战争：在西贡的一次集会上，南越总理阮庆呼吁将战争扩大到北越。
-- - 1963 年：乔·沃克 (Joe Walker) 驾驶北美 X-15 驾驶 X-15 航班 90 到达创纪录的 106,010 米（347,800 英尺）高度。这次飞行高度超过 100 公里，符合国际公约规定的载人航天飞行资格。
-- - 1961年：突尼斯对法国比塞大海军基地实施封锁；四天后，法国人占领了整个城镇。
-- - 1957 年：伊芙琳·沃 (Evelyn Waugh) 出版了大部分自传体小说《吉尔伯特·平福德的磨难》(The Ordeal of Gilbert Pinfold)。
-- - 1952 年：夏季奥运会在芬兰赫尔辛基开幕。
-- - 1947 年：韩国政治家吕云亨被暗杀。
-- - 1947 年：缅甸影子政府总理昂山将军和其他八人被暗杀。
-- - 1943 年：第二次世界大战：罗马遭到 500 多架盟军飞机的猛烈轰炸，造成数千人伤亡。
+- - 2021 年：美国商人杰夫·贝索斯 (Jeff Bezos) 乘坐由他的私人航天公司蓝色起源 (Blue Origin) 运营的新谢泼德 NS-16 号飞往太空。
+- - 2019 年：在阿波罗 11 号登月 50 周年之际，联盟号 MS-13 被发射到国际空间站。
+- - 2017 年：O. J. 辛普森 (O. J. Simpson) 在拉斯维加斯因持械抢劫罪被判 33 年有期徒刑，服刑 9 年后获得假释。
+- - 2015年：美国和古巴在五年后恢复全面外交关系。
+- - 2015 年：土耳其库尔德边境小镇苏鲁奇发生针对社会主义青年协会联合会的大规模爆炸，造成至少 31 人死亡、100 多人受伤。
+- - 2013 年：叙利亚内战：拉斯艾因战役以人民保卫军 (YPG) 将伊斯兰武装驱逐出该市而结束。
+- - 2013 年：17 名政府士兵在哥伦比亚阿劳卡省哥伦比亚革命武装力量革命分子的袭击中丧生。
+- - 2012 年：叙利亚内战：人民保卫军 (YPG) 在没有抵抗的情况下占领了阿姆达和埃夫林市。
+- - 2012 年：詹姆斯·霍姆斯 (James Holmes) 在科罗拉多州奥罗拉 (Aurora) 的一家电影院开枪，造成 12 人死亡、70 人受伤。
+- - 2005 年：《民事婚姻法》使同性婚姻在加拿大合法化。
+- - 1999年：中国共产党开始镇压法轮功，在全国范围内逮捕了数千人。
+- - 1997 年：经过全面修复的宪法号航空母舰（又名老艾恩赛德号）116 年来首次起航，庆祝其 200 岁生日。
+- - 1992 年：一架图波列夫 Tu-154 在从第比利斯国际机场起飞时坠毁，机上 24 人全部遇难，地面还有 4 人死亡。
+- - 1992 年：瓦茨拉夫·哈维尔辞去捷克斯洛伐克总统职务。
+- - 1989 年：缅甸执政军政府软禁反对派领导人昂山素季。
+- - 1985 年：阿鲁巴岛政府通过立法脱离荷属安的列斯群岛。
+- - 1982 年：海德公园和摄政公园爆炸事件：临时爱尔兰共和军在伦敦市中心的海德公园和摄政公园引爆了两枚炸弹，造成 8 名士兵死亡、47 人受伤、7 匹马死亡。
+- - 1981 年：索马里航空公司 40 号航班在索马里巴拉德坠毁，造成 50 人死亡。
+- - 1977 年：俄罗斯航空公司 B-2 航班从萨哈共和国维蒂姆机场起飞后坠毁，造成 39 人死亡。
+- - 1977 年：1977 年约翰斯敦洪水造成 84 人死亡并造成数百万美元的损失。
+- - 1977 年：中央情报局根据《信息自由法》发布文件，显示其曾从事精神控制实验。
+- - 1976年：美国维京一号登陆器成功登陆火星。
+- - 1974 年：土耳其入侵塞浦路斯：在希腊独裁者组织针对马卡里奥斯总统的政变后，土耳其军队入侵塞浦路斯。
+- - 1969 年：“足球战争”开始六天后，洪都拉斯和萨尔瓦多宣布停火。
+- - 1969 年：阿波罗计划：阿波罗 11 号的船员在宁静之海成功实现人类首次登陆月球。六个半小时后，美国人尼尔·阿姆斯特朗和巴兹·奥尔德林成为第一批在月球上行走的人类。
+- - 1968年：第一届国际夏季特殊奥林匹克运动会在芝加哥士兵球场举行，约有1,000名智力障碍运动员参加。
+- - 1964年：越南战争：越共军队袭击同顺省首府蔡北，杀死11名南越军事人员和40名平民（其中30名儿童）。
+- - 1961 年：法国军队突破突尼斯对比塞大的围困。
+- - 1960 年：北极星导弹首次从乔治·华盛顿号潜艇成功发射。
+- - 1954 年：德国：西德特勤局局长奥托·约翰叛逃东德。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-07-19 03:14:59 UTC）*
+*（更新于: 2026-07-20 03:52:40 UTC）*
