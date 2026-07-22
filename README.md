@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: A Bangladesh Air Force Chengdu FT-7BGI crashes shortly after takeoff into Milestone School campus in Dhaka, Bangladesh, killing 35 people and injuring 173.
-- 2024: U.S. President Joe Biden announces he will no longer seek a second term and withdraws from the 2024 election, endorsing Vice President Kamala Harris as she launches her own presidential campaign.
-- 2023: The Barbenheimer phenomenon begins as two major motion pictures, Greta Gerwig's fantasy comedy Barbie and Christopher Nolan's epic biographical thriller Oppenheimer, are released in theaters on the same day and audiences, instead of creating a rivalry between the extremely dissimilar films, instead attend and praise both as an informal, surreal double feature.
-- 2019: Yuen Long attack or "721 incident" in Hong Kong. Triad members indiscriminately beat civilians returning from protests while police failed to take action.
-- 2012: Erden Eruç completes the first solo human-powered circumnavigation of the world.
-- 2011: NASA's Space Shuttle program ends with the landing of Space Shuttle Atlantis on mission STS-135 at NASA's Kennedy Space Center.
-- 2010: U.S. President Barack Obama signs the Dodd-Frank Wall Street Reform and Consumer Protection Act.
-- 2008: Ram Baran Yadav is declared the first President of Nepal.
-- 2005: Four attempted bomb attacks by Islamist extremists disrupt part of London's public transport system.
-- 2001: At the conclusion of a fireworks display on Okura Beach in Akashi, Hyōgo, Japan, 11 people are killed and more than 120 are injured when a pedestrian footbridge connecting the beach to JR Asagiri Station becomes overcrowded and people leaving the event fall down in a domino effect.
-- 1995: Third Taiwan Strait Crisis: The People's Liberation Army begins firing missiles into the waters north of Taiwan.
-- 1990: Taiwan's military police forces mainland Chinese illegal immigrants into sealed holds of a fishing boat Min Ping Yu No. 5540 for repatriation to Fujian, causing 25 people to die from suffocation.
-- 1983: The world's lowest temperature in an inhabited location is recorded at Vostok Station, Antarctica at −89.2 °C (−128.6 °F).
-- 1979: Jay Silverheels, a Mohawk actor, becomes the first Native American to have a star commemorated in the Hollywood Walk of Fame.
-- 1977: The start of the four-day-long Libyan-Egyptian War.
-- 1976: Christopher Ewart-Biggs, the British ambassador to the Republic of Ireland, is assassinated by the Provisional IRA.
-- 1973: In Lillehammer, Norway, Mossad agents kill a waiter whom they mistakenly thought was involved in the 1972 Munich Olympics Massacre.
-- 1972: The Troubles: Bloody Friday: The Provisional IRA detonate 22 bombs in central Belfast, Northern Ireland, United Kingdom in the space of 80 minutes, killing nine and injuring 130.
-- 1970: After 11 years of construction, the Aswan High Dam in Egypt is completed.
-- 1969: Apollo program: At 02:56 UTC, astronaut Neil Armstrong becomes the first person to walk on the Moon, followed 19 minutes later by Edwin "Buzz" Aldrin.
-- 1964: A series of racial riots break out in Singapore. In the next six weeks, 23 die with 454 others injured.
-- 1961: Alaska Airlines Flight 779 crashes near Shemya Air Force Base in Shemya, Alaska killing six.
-- 1961: Mercury program: Mercury-Redstone 4 Mission: Gus Grissom piloting Liberty Bell 7 becomes the second American to go into space (in a suborbital mission).
-- 1960: Sirimavo Bandaranaike is sworn in as prime minister of Ceylon, becoming the world's first democratically elected female head of government.
-- 1959: Elijah Jerry "Pumpsie" Green becomes the first African-American to play for the Boston Red Sox, the last team to integrate. He came in as a pinch runner for Vic Wertz and stayed in as shortstop in a 2-1 loss to the Chicago White Sox.
-- 1959: NS Savannah, the first nuclear-powered cargo-passenger ship, is launched as a showcase for Dwight D. Eisenhower's "Atoms for Peace" initiative.
-- 1954: First Indochina War: The Geneva Conference partitions Vietnam into North Vietnam and South Vietnam.
-- 1952: The 7.3 Mw  Kern County earthquake strikes Southern California with a maximum Mercalli intensity of XI (Extreme), killing 12 and injuring hundreds.
-- 1951: Canadian Pacific Air Lines Flight 3505 disappears while flying from Vancouver to Tokyo. The aircraft and its 37 occupants are never found.
-- 1949: The United States Senate ratifies the North Atlantic Treaty.
+- 2019: Chandrayaan-2, the second lunar exploration mission developed by Indian Space Research Organisation after Chandrayaan-1 is launched from Satish Dhawan Space Centre in a GSLV Mark III M1. It consists of a lunar orbiter, and also included the Vikram lander, and the Pragyan lunar rover.
+- 2013: Dingxi earthquakes: A series of earthquakes in Dingxi, China, kills at least 89 people and injures more than 500 others.
+- 2012: Syrian civil war: The People's Protection Units (YPG) captured the cities of Serê Kaniyê and Dirbêsiyê, during clashes with pro-government forces in Al-Hasakah.
+- 2011: Norway attacks: A bomb explodes, targeted at government buildings in central Oslo, followed by a massacre at a youth camp on the island of Utøya.
+- 2005: Jean Charles de Menezes is killed by police as the hunt begins for the London Bombers responsible for the 7 July 2005 London bombings and the 21 July 2005 London bombings.
+- 2003: Iraq War: Members of 101st Airborne of the United States, aided by Special Forces, attack a compound in Iraq, killing Saddam Hussein's sons Uday and Qusay, along with Mustapha Hussein, Qusay's 14-year-old son, and a bodyguard.
+- 1997: The second Blue Water Bridge opens between Port Huron, Michigan and Sarnia, Ontario.
+- 1993: Great Flood of 1993: Levees near Kaskaskia, Illinois rupture, forcing the entire town to evacuate by barges operated by the Army Corps of Engineers.
+- 1992: Near Medellín, Colombian drug lord Pablo Escobar escapes from his luxury prison fearing extradition to the United States.
+- 1990: Greg LeMond, an American road racing cyclist, wins his third Tour de France after leading the majority of the race. It was LeMond's second consecutive Tour de France victory.
+- 1983: Martial law in Poland is officially revoked.
+- 1981: The first game of the 1981 South Africa rugby union tour of New Zealand and the United States is held in Gisborne, New Zealand.
+- 1977: Chinese leader Deng Xiaoping is restored to power.
+- 1976: Japan completes its last reparation to the Philippines for war crimes committed during imperial Japan's conquest of the country in the Second World War.
+- 1973: Pan Am Flight 816 crashes after takeoff from Faa'a International Airport in Papeete, French Polynesia, killing 78.
+- 1963: Crown Colony of Sarawak gains self-governance.
+- 1962: Mariner program: Mariner 1 spacecraft flies erratically several minutes after launch and has to be destroyed.
+- 1951: Soviet space dogs: Dezik and Tsygan were launched into a sub-orbital spaceflight from Kapustin Yar and became the first dogs to fly in space and the first to safely return.
+- 1946: King David Hotel bombing: A Zionist underground organisation, the Irgun, bombs the King David Hotel in Jerusalem, site of the civil administration and military headquarters for Mandatory Palestine, resulting in 91 deaths.
+- 1944: The Polish Committee of National Liberation publishes its manifesto, starting the period of Communist rule in Poland.
+- 1943: World War II: Axis occupation forces violently disperse a massive protest in Athens, killing 22.
+- 1943: World War II: Allied forces capture Palermo during the Allied invasion of Sicily.
+- 1942: Grossaktion Warsaw: The systematic deportation of Jews from the Warsaw ghetto begins.
+- 1942: The United States government begins compulsory civilian gasoline rationing due to the wartime demands.
+- 1937: New Deal: The United States Senate votes down President Franklin D. Roosevelt's proposal to add more justices to the Supreme Court of the United States.
+- 1936: Spanish Civil War: The Popular Executive Committee of Valencia takes power in the Valencian Community.
+- 1933: Aviator Wiley Post returns to Floyd Bennett Field in New York City, completing the first solo flight around the world in seven days, 18 hours and 49 minutes.
+- 1921: Rif War: The Spanish Army suffers its worst military defeat in modern times to the Berbers of the Rif region of Spanish Morocco.
+- 1916: Preparedness Day Bombing: In San Francisco, a bomb explodes on Market Street during a parade, killing ten and injuring 40.
+- 1894: The first ever motor race is held in France between the cities of Paris and Rouen. The fastest finisher was the Comte Jules-Albert de Dion, but the "official" victory was awarded to Albert Lemaître driving his three-horsepower petrol engined Peugeot.
 
 Data from muffinlabs
-*(Updated at: 2026-07-21 02:55:37 UTC)*
+*(Updated at: 2026-07-22 02:53:40 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：孟加拉国空军一架成都 FT-7BGI 飞机起飞后不久坠入孟加拉国达卡 Milestone 学校校园，造成 35 人死亡、173 人受伤。
-- - 2024 年：美国总统乔·拜登宣布不再寻求连任并退出 2024 年选举，支持副总统卡马拉·哈里斯发起自己的总统竞选活动。
-- - 2023年：巴本海默现象始于两部主要电影——格蕾塔·葛韦格的奇幻喜剧《芭比》和克里斯托弗·诺兰的史诗传记惊悚片《奥本海默》在同一天在影院上映，观众没有在两部截然不同的电影之间制造竞争，而是观看并称赞这两部电影是一部非正式的、超现实的双片电影。
-- - 2019年：元朗袭击或香港“721事件”。三合会成员不分青红皂白地殴打抗议后返回的平民，而警方却没有采取行动。
-- - 2012 年：Erden Eruç 完成了首次单人人力环球航行。
-- - 2011 年：随着执行 STS-135 任务的亚特兰蒂斯号航天飞机在 NASA 肯尼迪航天中心着陆，NASA 的航天飞机计划结束。
-- - 2010 年：美国总统巴拉克·奥巴马签署《多德-弗兰克华尔街改革和消费者保护法案》。
-- - 2008 年：拉姆·巴兰·亚达夫 (Ram Baran Yadav) 被宣布为尼泊尔第一任总统。
-- - 2005 年：伊斯兰极端分子发动四次未遂炸弹袭击，扰乱了伦敦部分公共交通系统。
-- - 2001 年：日本兵库县明石市大仓海滩烟花表演结束时，连接海滩和 JR 朝雾站的人行天桥变得过于拥挤，离开活动的人们在多米诺骨牌效应中倒下，造成 11 人死亡、120 多人受伤。
-- - 1995年：第三次台海危机：解放军开始向台湾以北海域发射导弹。
-- - 1990年：台湾宪兵强行将大陆非法入境者强行关进闽平渔5540号渔船的密封舱内遣返福建，造成25人窒息死亡。
-- - 1983 年：南极洲沃斯托克站记录了世界上有人居住地区的最低气温，为 −89.2 °C (−128.6 °F)。
-- - 1979 年：莫霍克演员 Jay Silverheels 成为第一位在好莱坞星光大道上留有星星的美国原住民。
-- - 1977 年：为期四天的利比亚-埃及战争开始。
-- - 1976 年：英国驻爱尔兰共和国大使克里斯托弗·尤尔特-比格斯 (Christopher Ewart-Biggs) 被临时爱尔兰共和军暗杀。
-- - 1973 年：在挪威利勒哈默尔，摩萨德特工误认为一名服务员参与了 1972 年慕尼黑奥运会大屠杀，因此杀害了一名服务员。
-- - 1972 年：麻烦：血腥星期五：临时爱尔兰共和军在英国北爱尔兰贝尔法斯特市中心 80 分钟内引爆了 22 枚炸弹，造成 9 人死亡、130 人受伤。
-- - 1970年：经过11年的建设，埃及阿斯旺高坝竣工。
-- - 1969 年：阿波罗计划：世界标准时间 02:56，宇航员尼尔·阿姆斯特朗成为第一个在月球上行走的人，19 分钟后埃德温·“巴兹”·奥尔德林紧随其后。
-- - 1964年：新加坡爆发一系列种族骚乱。在接下来的六周内，已有 23 人死亡、454 人受伤。
-- - 1961 年：阿拉斯加航空 779 号航班在阿拉斯加州谢米亚的谢米亚空军基地附近坠毁，造成六人死亡。
-- - 1961 年：水星计划：水星-红石 4 号任务：格斯·格里森 (Gus Grissom) 驾驶自由钟 7 号成为第二个进入太空的美国人（在亚轨道任务中）。
-- - 1960 年：西丽玛沃·班达拉奈克 (Sirimavo Bandaranaike) 宣誓就任锡兰总理，成为世界上第一位民选女性政府首脑。
-- - 1959 年：Elijah Jerry “Pumpsie” Green 成为第一位为波士顿红袜队效力的非裔美国人，该队是最后一支融入球队的球队。他作为维克·沃茨的替补跑垒员上场，并在 1-2 输给芝加哥白袜队的比赛中继续担任游击手。
-- - 1959 年：第一艘核动力客货船 NS 萨凡纳号下水，作为德怀特·D·艾森豪威尔“原子促进和平”倡议的展示。
-- - 1954年：第一次印度支那战争：日内瓦会议将越南分为北越和南越。
-- - 1952 年：南加州克恩县发生 7.3 兆瓦地震，最大麦卡利强度为 XI（极端），造成 12 人死亡、数百人受伤。
-- - 1951 年：加拿大太平洋航空​​公司 3505 号航班在从温哥华飞往东京时失踪。这架飞机及其 37 名乘客至今下落不明。
-- - 1949 年：美国参议院批准《北大西洋公约》。
+- - 2019年：Chandrayaan-2是印度空间研究组织继Chandrayaan-1之后开发的第二个月球探测任务，由Satish Dhawan航天中心的GSLV Mark III M1发射升空。它由月球轨道器组成，还包括维克拉姆着陆器和普拉吉亚月球车。
+- - 2013年：定西地震：中国定西发生的一系列地震造成至少89人死亡、500多人受伤。
+- - 2012 年：叙利亚内战：人民保卫军 (YPG) 在哈塞克与亲政府部队发生冲突时占领了 Serê Kaniyê 和 Dirbêsiyê 城市。
+- - 2011 年：挪威袭击：一枚炸弹爆炸，目标是奥斯陆市中心的政府大楼，随后于特岛的一个青年营发生屠杀。
+- - 2005年：警方开始追捕对2005年7月7日和2005年7月21日伦敦爆炸案负责的伦敦爆炸案凶手，让·查尔斯·德·梅内泽斯被警方击毙。
+- - 2003 年：伊拉克战争：美国第 101 空降师在特种部队的协助下，袭击了伊拉克的一个大院，杀死了萨达姆·侯赛因的儿子乌代和库赛，以及库赛 14 岁的儿子穆斯塔法·侯赛因和一名保镖。
+- - 1997 年：第二座蓝水大桥在密歇根州休伦港和安大略省萨尼亚之间开通。
+- - 1993 年：1993 年大洪水：伊利诺伊州卡斯卡斯基亚附近的堤坝决堤，迫使整个城镇通过陆军工程兵团运营的驳船撤离。
+- - 1992 年：在麦德林附近，哥伦比亚毒枭巴勃罗·埃斯科瓦尔因担心被引渡到美国而逃离了他的豪华监狱。
+- - 1990 年：美国公路赛车手格雷格·莱蒙德 (Greg LeMond) 在大部分比赛中领先后，第三次赢得环法自行车赛冠军。这是莱蒙德连续第二次获得环法自行车赛冠军。
+- - 1983年：波兰的戒严法被正式废除。
+- - 1981年：1981年南非橄榄球联盟新西兰和美国巡回赛的第一场比赛在新西兰吉斯伯恩举行。
+- - 1977 年：中国领导人邓小平重新掌权。
+- - 1976 年：日本完成了对菲律宾在第二次世界大战期间日本帝国征服菲律宾期间犯下的战争罪行的最后一次赔偿。
+- - 1973 年：泛美航空 816 号航班从法属波利尼西亚帕皮提法阿国际机场起飞后坠毁，造成 78 人死亡。
+- - 1963 年：砂拉越直辖殖民地获得自治权。
+- - 1962 年：水手计划：水手 1 号航天器在发射几分钟后飞行不稳定，不得不被摧毁。
+- - 1951 年：苏联太空狗：Dezik 和 Tsygan 从 Kapustin Yar 发射进入亚轨道太空飞行，成为第一批在太空飞行并安全返回的狗。
+- - 1946 年：大卫王酒店爆炸案：犹太复国主义地下组织伊尔贡 (Irgun) 轰炸了耶路撒冷的大卫王酒店，这是托管巴勒斯坦的民政管理和军事总部所在地，造成 91 人死亡。
+- - 1944 年：波兰民族解放委员会发表宣言，开始共产党统治波兰的时期。
+- - 1943 年：第二次世界大战：轴心国占领军暴力驱散雅典的大规模抗议活动，造成 22 人死亡。
+- - 1943 年：第二次世界大战：盟军在盟军入侵西西里岛期间占领巴勒莫。
+- - 1942 年：华沙 Grossaktion：开始有系统地从华沙隔都驱逐犹太人。
+- - 1942 年：由于战时需求，美国政府开始强制民用汽油配给。
+- - 1937 年：新政：美国参议院否决了富兰克林·罗斯福总统关于向美国最高法院增加更多法官的提议。
+- - 1936 年：西班牙内战：巴伦西亚人民执行委员会在巴伦西亚社区掌权。
+- - 1933 年：飞行员威利·波斯特返回纽约市弗洛伊德·贝内特机场，在 7 天 18 小时 49 分钟内完成了首次单人环球飞行。
+- - 1921 年：里夫战争：西班牙军队在西属摩洛哥里夫地区的柏柏尔人面前遭受了近代以来最严重的军事失败。
+- - 1916 年：备战日爆炸事件：在旧金山，一枚炸弹在游行期间在市场街爆炸，造成 10 人死亡、40 人受伤。
+- - 1894 年：法国首届赛车比赛在巴黎和鲁昂之间举行。最快的完赛者是朱尔斯·阿尔伯特·德·迪翁伯爵，但“官方”胜利被授予驾驶他的三马力汽油发动机标致汽车的阿尔伯特·勒梅特。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-07-21 02:55:37 UTC）*
+*（更新于: 2026-07-22 02:53:40 UTC）*
