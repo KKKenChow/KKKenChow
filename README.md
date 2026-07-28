@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2015: Seven people are killed and many injured after gunmen attack an Indian police station in Punjab.
-- 2002: Ukraine airshow disaster: A Sukhoi Su-27 fighter crashes during an air show at Lviv, Ukraine killing 77 and injuring more than 500 others, making it the deadliest air show disaster in history.
-- 1997: About 50 people are killed in the Si Zerrouk massacre in Algeria.
-- 1996: In Atlanta, United States, a pipe bomb explodes at Centennial Olympic Park during the 1996 Summer Olympics.
-- 1995: The Korean War Veterans Memorial is dedicated in Washington, D.C.
-- 1990: The Jamaat al Muslimeen attempt a coup d'état in Trinidad and Tobago.
-- 1989: While attempting to land at Tripoli International Airport in Libya, Korean Air Flight 803 crashes just short of the runway. Seventy-five of the 199 passengers and crew and four people on the ground are killed, in the second accident involving a DC-10 in less than two weeks, the first being United Airlines Flight 232.
-- 1983: Black July: Eighteen Tamil political prisoners at the Welikada high security prison in Colombo are massacred by Sinhalese prisoners, the second such massacre in two days.
-- 1981: While landing at Chihuahua International Airport, Aeromexico Flight 230 overshoots the runway. Thirty-two of the 66 passengers and crew on board the DC-9 are killed.
-- 1975: Mayor of Jaffna and former MP Alfred Duraiappah is shot dead.
-- 1974: Watergate scandal: The House of Representatives Judiciary Committee votes 27 to 11 to recommend the first article of impeachment (for obstruction of justice) against President Richard Nixon.
-- 1964: Vietnam War: Five thousand more American military advisers are sent to South Vietnam bringing the total number of United States forces in Vietnam to 21,000.
-- 1963: The Puijo observation tower is opened to the general public at Puijo Hill in Kuopio, Finland.
-- 1959: The Continental League is announced as baseball's "third major league" in the United States.
-- 1955: El Al Flight 402 is shot down by two fighter jets after straying into Bulgarian air space. All 58 people on board are killed.
-- 1955: The Austrian State Treaty restores Austrian sovereignty.
-- 1953: Korean War: Cessation of hostilities is achieved when the United States, China, and North Korea sign an armistice agreement. Syngman Rhee, President of South Korea, refuses to sign but pledges to observe the armistice.
-- 1949: Initial flight of the de Havilland Comet, the first jet-powered airliner.
-- 1947: In Vatican City, Rome, canonization of Catherine Labouré, the saint whose apparitions of the Virgin Mary originated the worldwide distribution of the Miraculous Medal.
-- 1942: World War II: Allied forces successfully halt the final Axis advance into Egypt.
-- 1940: The animated short A Wild Hare is released, introducing the character of Bugs Bunny.
-- 1929: The Geneva Convention of 1929, dealing with treatment of prisoners-of-war, is signed by 53 nations.
-- 1921: Researchers at the University of Toronto, led by biochemist Frederick Banting, prove that the hormone insulin regulates blood sugar.
-- 1919: The Chicago Race Riot erupts after a racial incident occurred on a South Side beach, leading to 38 fatalities and 537 injuries over a five-day period.
-- 1917: World War I: The Allies reach the Yser Canal at the Battle of Passchendaele.
-- 1900: Kaiser Wilhelm II makes a speech comparing Germans to Huns; for years afterwards, "Hun" would be a disparaging name for Germans.
-- 1890: Vincent van Gogh shoots himself and dies two days later.
-- 1880: Second Anglo-Afghan War: Battle of Maiwand: Afghan forces led by Mohammad Ayub Khan defeat the British Army in battle near Maiwand, Afghanistan.
-- 1866: The first permanent transatlantic telegraph cable is successfully completed, stretching from Valentia Island, Ireland, to Heart's Content, Newfoundland.
-- 1865: Welsh settlers arrive at Chubut in Argentina.
+- 2022: Catastrophic floods devastate Eastern Kentucky, resulting in 45 fatalities and causing damage to thousands of homes and businesses.
+- 2018: Australian Wendy Tuck becomes the first female skipper to win the Clipper Round the World Yacht Race.
+- 2017: Nawaz Sharif was disqualified from office for life by Supreme Court of Pakistan after finding him guilty of corruption charges.
+- 2011: While flying from Seoul, South Korea to Shanghai, China, Asiana Airlines Flight 991 develops an in-flight fire in the cargo hold. The Boeing 747-400F freighter attempts to divert to Jeju International Airport, but crashes into the sea South-West of Jeju island, killing both crew members on board.
+- 2010: Airblue Flight 202 crashes into the Margalla Hills north of Islamabad, Pakistan, killing all 152 people aboard. It is the deadliest aviation accident in Pakistan history and the first involving an Airbus A321.
+- 2005: The Provisional Irish Republican Army calls an end to its thirty-year-long armed campaign against British rule in Northern Ireland.
+- 2002: Pulkovo Aviation Enterprise Flight 9560 crashes after takeoff from Sheremetyevo International Airport in Moscow, Russia, killing 14 of the 16 people on board.
+- 2002: Nine coal miners trapped in the flooded Quecreek Mine in Somerset County, Pennsylvania, are rescued after 77 hours underground.
+- 2001: Australian Ian Thorpe becomes the first swimmer to win six gold medals at a single World Championship meeting.
+- 1996: The remains of a prehistoric man are discovered near Kennewick, Washington. Such remains will be known as the Kennewick Man.
+- 1984: Olympic Games: Games of the XXIII Olympiad: The summer Olympics were opened in Los Angeles.
+- 1976: The Tangshan earthquake measuring between 7.8 and 8.2 moment magnitude flattens Tangshan in the People's Republic of China, killing 242,769 and injuring 164,851.
+- 1974: Spetsgruppa A, Russia's elite special force, was formed.
+- 1973: Summer Jam at Watkins Glen: Nearly 600,000 people attend a rock festival at the Watkins Glen International Raceway.
+- 1965: Vietnam War: U.S. president Lyndon B. Johnson announces his order to increase the number of United States troops in South Vietnam from 75,000 to 125,000.
+- 1962: Beginning of the 8th World Festival of Youth and Students.
+- 1960: The German Volkswagen Act comes into force.
+- 1957: Heavy rain and a mudslide in Isahaya, western Kyushu, Japan, kills 992.
+- 1945: A U.S. Army B-25 bomber crashes into the 79th floor of the Empire State Building killing 14 and injuring 26.
+- 1943: World War II: Operation Gomorrah: The Royal Air Force bombs Hamburg, Germany causing a firestorm that kills 42,000 German civilians.
+- 1942: World War II: Soviet leader Joseph Stalin issues Order No. 227. In response to alarming German advances, all those who retreat or otherwise leave their positions without orders to do so are to be tried in a military court, with punishment ranging from duty in a shtrafbat battalion, imprisonment in a Gulag, or execution.
+- 1939: The Sutton Hoo helmet is discovered.
+- 1938: Hawaii Clipper disappears between Guam and Manila as the first loss of an airliner in trans-Pacific China Clipper service.
+- 1935: First flight of the Boeing B-17 Flying Fortress.
+- 1932: During the Great Depression, U.S. president Herbert Hoover orders the United States Army to forcibly evict the "Bonus Army" of World War I veterans gathered in Washington, D.C.
+- 1917: Anti-lynching movement: The Silent Parade takes place in New York City, in protest against murders, lynchings, and other violence directed towards African Americans.
+- 1915: The United States begins a 19-year occupation of Haiti.
+- 1914: World War I: In the culmination of the July Crisis, Austria-Hungary declares war on the Kingdom of Serbia and begins the Great War.
+- 1911: The Australasian Antarctic Expedition began as the SY Aurora departed London.
+- 1896: The city of Miami is incorporated.
 
 Data from muffinlabs
-*(Updated at: 2026-07-27 03:29:13 UTC)*
+*(Updated at: 2026-07-28 02:46:02 UTC)*
 
 # 历史上的今天 
 
-- - 2015年：枪手袭击旁遮普邦的印度警察局，造成七人死亡、多人受伤。
-- - 2002年：乌克兰航展灾难：一架苏霍伊Su-27战斗机在乌克兰利沃夫举行的航展期间坠毁，造成77人死亡、500多人受伤，成为历史上最致命的航展灾难。
-- - 1997年：阿尔及利亚的Si Zerrouk大屠杀造成约50人死亡。
-- - 1996 年：1996 年夏季奥运会期间，美国亚特兰大百年奥林匹克公园发生管状炸弹爆炸。
-- - 1995 年：朝鲜战争退伍军人纪念碑在华盛顿特区落成
-- - 1990 年：穆斯林大会试图在特立尼达和多巴哥发动政变。
-- - 1989 年：大韩航空 803 号航班试图降落在利比亚的黎波里国际机场时，在跑道附近坠毁。这是不到两周内发生的第二起涉及 DC-10 的事故，199 名乘客和机组人员中的 75 人以及地面上的 4 人死亡，第一起事故是联合航空 232 号航班。
-- - 1983 年：黑色七月：科伦坡韦利卡达高度戒备监狱中的 18 名泰米尔政治犯遭到僧伽罗囚犯的屠杀，这是两天内发生的第二起此类屠杀。
-- - 1981 年：墨西哥航空公司 230 航班在奇瓦瓦国际机场降落时冲出跑道。DC-9 机上 66 名乘客和机组人员中有 32 人遇难。
-- - 1975 年：贾夫纳市长、前议员阿尔弗雷德·杜赖阿帕 (Alfred Duraiappah) 被枪杀。
-- - 1974年：水门事件：众议院司法委员会以27票对11票建议对理查德·尼克松总统提出第一项弹劾条款（妨碍司法公正）。
-- - 1964 年：越南战争：另外 5000 名美国军事顾问被派往南越，使驻越美军总数达到 21,000 人。
-- - 1963 年：位于芬兰库奥皮奥普伊霍山的普伊霍观测塔向公众开放。
-- - 1959 年：大陆联盟被宣布为美国棒球的“第三大联盟”。
-- - 1955 年：以色列航空 402 号航班误入保加利亚领空后被两架战斗机击落。机上58人全部遇难。
-- - 1955 年：《奥地利国家条约》恢复奥地利主权。
-- - 1953 年：朝鲜战争：美国、中国和朝鲜签署停战协议，停止敌对行动。韩国总统李承晚拒绝签署，但承诺遵守停战协定。
-- - 1949 年：第一架喷气式客机德哈维兰彗星首次飞行。
-- - 1947 年：在罗马梵蒂冈城，凯瑟琳·拉布尔 (Catherine Labouré) 被封为圣人，这位圣人因圣母玛利亚的显现而开创了奇迹勋章在全球范围内的分发。
-- - 1942 年：第二次世界大战：盟军成功阻止了轴心国向埃及的最后推进。
-- - 1940 年：动画短片《野兔》发行，介绍了兔八哥这一角色。
-- - 1929 年：53 个国家签署了 1929 年关于战俘待遇的《日内瓦公约》。
-- - 1921 年：生物化学家弗雷德里克·班廷 (Frederick Banting) 领导的多伦多大学研究人员证明胰岛素可以调节血糖。
-- - 1919 年：南区海滩发生种族事件后，芝加哥爆发种族骚乱，五天内导致 38 人死亡、537 人受伤。
-- - 1917 年：第一次世界大战：盟军在帕斯尚达尔战役中到达伊瑟运河。
-- - 1900 年：德皇威廉二世发表演讲，将德国人和匈奴人进行比较；多年后，“匈奴”对于德国人来说都是一个贬义词。
-- - 1890 年：文森特·梵高开枪自杀，两天后去世。
-- - 1880 年：第二次英阿战争：迈万德战役：穆罕默德·阿尤布·汗 (Mohammad Ayub Khan) 领导的阿富汗军队在阿富汗迈万德附近的战斗中击败了英国军队。
-- - 1866 年：第一条永久性跨大西洋电报电缆成功竣工，从爱尔兰的瓦伦西亚岛延伸至纽芬兰的 Heart's Content。
-- - 1865 年：威尔士定居者抵达阿根廷的丘布特。
+- - 2022 年：灾难性洪水摧毁肯塔基州东部，造成 45 人死亡，并给数千个家庭和企业造成损失。
+- - 2018 年：澳大利亚温迪·塔克 (Wendy Tuck) 成为第一位赢得克利伯环球帆船赛冠军的女船长。
+- - 2017 年：巴基斯坦最高法院裁定纳瓦兹·谢里夫犯有腐败罪，并终身取消其任职资格。
+- - 2011 年：韩亚航空 991 航班从韩国首尔飞往中国上海时，货舱发生机上火灾。这架波音 747-400F 货机试图改道飞往济州国际机场，但坠入济州岛西南部海域，机上两名机组人员丧生。
+- - 2010 年：蓝天航空 202 号航班坠入巴基斯坦伊斯兰堡以北的马加拉山，机上 152 人全部遇难。这是巴基斯坦历史上最严重的空难，也是首起涉及空客 A321 的空难。
+- - 2005 年：爱尔兰临时共和军宣布结束长达三十年的反对英国在北爱尔兰统治的武装运动。
+- - 2002年：普尔科沃航空公司9560号航班从俄罗斯莫斯科谢列梅捷沃国际机场起飞后坠毁，机上16人中有14人死亡。
+- - 2002 年：被困在宾夕法尼亚州萨默塞特县被洪水淹没的 Quecreek 矿井中的 9 名煤矿工人在井下 77 小时后获救。
+- - 2001 年：澳大利亚选手伊恩·索普 (Ian Thorpe) 成为第一位在单届世界锦标赛上赢得六枚金牌的游泳运动员。
+- - 1996 年：在华盛顿州肯纳威克附近发现了一具史前人类的遗骸。这些遗骸将被称为肯纳威克人。
+- - 1984 年：奥运会：第 23 届奥林匹克运动会：夏季奥运会在洛杉矶开幕。
+- - 1976 年：中华人民共和国唐山发生的 7.8 至 8.2 级地震将唐山夷为平地，造成 242,769 人死亡、164,851 人受伤。
+- - 1974 年：俄罗斯精锐特种部队 Spetsgruppa A 成立。
+- - 1973 年：沃特金斯格伦 (Watkins Glen) 夏季即兴音乐节：近 600,000 人参加沃特金斯格伦国际赛道 (Watkins Glen International Raceway) 举办的摇滚音乐节。
+- - 1965 年：越南战争：美国总统林登·B·约翰逊宣布命令将驻南越的美军人数从 75,000 人增加到 125,000 人。
+- - 1962 年：第八届世界青年和学生节开幕。
+- - 1960 年：德国大众汽车法案生效。
+- - 1957 年：日本九州西部谏早市遭遇暴雨和泥石流，造成 992 人死亡。
+- - 1945 年：一架美国陆军 B-25 轰炸机坠入帝国大厦 79 层，造成 14 人死亡、26 人受伤。
+- - 1943 年：第二次世界大战：蛾摩拉行动：英国皇家空军轰炸德国汉堡，引发大火，造成 42,000 名德国平民死亡。
+- - 1942 年：第二次世界大战：苏联领导人约瑟夫·斯大林发布第 227 号命令。为了应对德军令人震惊的进攻，所有未经命令而撤退或以其他方式离开阵地的人都将在军事法庭受审，处罚包括在军事营服役、监禁在古拉格集中营或处决。
+- - 1939 年：Sutton Hoo 头盔被发现。
+- - 1938 年：夏威夷快船在关岛和马尼拉之间消失，这是跨太平洋中国快船航线中第一架客机失事。
+- - 1935 年：波音 B-17 飞行堡垒首飞。
+- - 1932 年：大萧条期间，美国总统赫伯特·胡佛命令美国陆军强行驱逐聚集在华盛顿特区的一战老兵“红利军”。
+- - 1917 年：反私刑运动：无声游行在纽约市举行，抗议针对非裔美国人的谋杀、私刑和其他暴力行为。
+- - 1915 年：美国开始对海地长达 19 年的占领。
+- - 1914 年：第一次世界大战：七月危机达到顶峰，奥匈帝国向塞尔维亚王国宣战并开始了第一次世界大战。
+- - 1911 年：随着 SY Aurora 号离开伦敦，澳大利亚南极探险队开始了。
+- - 1896 年：迈阿密市成立。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-07-27 03:29:13 UTC）*
+*（更新于: 2026-07-28 02:46:02 UTC）*
