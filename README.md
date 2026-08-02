@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: Former US President Donald Trump is indicted for his role in the January 6 United States Capitol attack, his third indictment in 2023.
-- 2017: A suicide attack on a mosque in Herat, Afghanistan kills 20 people.
-- 2008: Eleven mountaineers from international expeditions died on K2, the second-highest mountain on Earth, in the worst single accident in the history of K2 mountaineering.
-- 2008: The Beijing-Tianjin Intercity Railway begins operation as the fastest commuter rail system in the world.
-- 2007: The I-35W Mississippi River bridge spanning the Mississippi River in Minneapolis, Minnesota, collapses during the evening rush hour, killing 13 people and injuring 145.
-- 2004: A supermarket fire kills 424 people and injures 360 others in Asunción, Paraguay.
-- 1998: Puntland, an autonomous state in northeastern Somalia, was officially established following a constitutional conference in Garowe, Issims and tribal chiefs agreed to create a self-declared government until Somalia recovered.
-- 1993: The Great Mississippi and Missouri Rivers Flood of 1993 comes to a peak.
-- 1990: A plane crash in the Karabakh Range kills 46 people.
-- 1988: A British soldier was killed in the Inglis Barracks bombing in London, England.
-- 1984: Commercial peat-cutters discover the preserved bog body of a man, called Lindow Man, at Lindow Moss, Cheshire, England.
-- 1981: MTV begins broadcasting in the United States and airs its first video, "Video Killed the Radio Star" by The Buggles.
-- 1980: A train crash kills 18 people and injures over 170 more in County Cork, Ireland.
-- 1980: Vigdís Finnbogadóttir is elected President of Iceland and becomes the world's first democratically elected female head of state.
-- 1976: Niki Lauda has a severe accident that almost claims his life at the German Grand Prix at Nürburgring.
-- 1975: The final act of the CSCE meeting is signed in Helsinki, Finland.
-- 1974: Cyprus dispute: The United Nations Security Council authorizes the UNFICYP to create the "Green Line", dividing Cyprus into two zones.
-- 1971: The Concert for Bangladesh, organized by former Beatle George Harrison, is held at Madison Square Garden in New York City.
-- 1968: The coronation of Hassanal Bolkiah, the 29th Sultan of Brunei, is held.
-- 1966: Purges of intellectuals and imperialists becomes official China policy at the beginning of the Cultural Revolution.
-- 1966: Charles Whitman kills 15 people at the University of Texas at Austin before being killed by the police.
-- 1965: Frank Herbert's novel, Dune was published for the first time. It was named as the world's best-selling science fiction novel in 2003.
-- 1964: The former Belgian Congo is renamed the Democratic Republic of the Congo.
-- 1961: U.S. Defense Secretary Robert McNamara orders the creation of the Defense Intelligence Agency (DIA), the nation's first centralized military espionage organization.
-- 1960: Islamabad is declared the federal capital of the Government of Pakistan.
-- 1960: Dahomey (later renamed Benin) declares independence from France.
-- 1957: The United States and Canada form the North American Aerospace Defense Command (NORAD).
-- 1950: Guam is organized as an unincorporated territory of the United States as the President Harry S. Truman signs the Guam Organic Act.
-- 1946: Leaders of the Russian Liberation Army, a force of Russian prisoners of war that collaborated with Nazi Germany, are executed in Moscow, Soviet Union for treason.
-- 1944: World War II: The Warsaw Uprising against the Nazi German occupation breaks out in Warsaw, Poland.
+- 2014: At least 146 people were killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.
+- 2005: Air France Flight 358 lands at Toronto Pearson International Airport and runs off the runway, causing the plane to burst into flames, leaving 12 injuries and no fatalities.
+- 1999: The Gaisal train disaster claims 285 lives in Assam, India.
+- 1991:  Space Shuttle Atlantis is launched on STS-43 to deploy the TDRS-5 satellite.
+- 1990: Iraqi invasion of Kuwait: Iraq invades Kuwait and temporarily establishes the Republic of Kuwait puppet state on the orders of Saddam Hussein, eventually leading to the Gulf War.
+- 1989: A massacre is carried out by an Indian Peace Keeping Force in Sri Lanka killing 64 ethnic Tamil civilians.
+- 1989: Pakistan is re-admitted to the Commonwealth of Nations after having restored democracy for the first time since 1972.
+- 1985: Delta Air Lines Flight 191, a Lockheed L-1011 TriStar, crashes at Dallas/Fort Worth International Airport killing 137.
+- 1982: The Helsinki Metro, the first rapid transit system of Finland, is opened to the general public.
+- 1980: A bomb explodes at the railway station in Bologna, Italy, killing 85 people and wounding more than 200.
+- 1973: A flash fire kills 50 people at the Summerland amusement centre at Douglas, Isle of Man.
+- 1968: An earthquake hits Casiguran, Aurora, Philippines killing more than 270 people and wounding 261.
+- 1947: A British South American Airways Avro Lancastrian airliner crashes into a mountain during a flight from Buenos Aires, Argentina to Santiago, Chile. The wreckage would not be found until 1998.
+- 1945: World War II: The Potsdam Conference ends.
+- 1944: World War II: The largest trade convoy of the world wars arrives safely in the Western Approaches.
+- 1944: ASNOM: Birth of the Socialist Republic of Macedonia, celebrated as Day of the Republic in North Macedonia.
+- 1943: World War II: After the Motor Torpedo Boat PT-109 is rammed and sunk by the Japanese destroyer Amagiri, Lt. John F. Kennedy, future U.S. president, saves all but two of his crew.
+- 1943: The Holocaust: Jewish prisoners stage a revolt at Treblinka, one of the deadliest of Nazi death camps where approximately 900,000 persons were murdered in less than 18 months.
+- 1939: Albert Einstein and Leo Szilard write a letter to Franklin D. Roosevelt, urging him to begin the Manhattan Project to develop a nuclear weapon.
+- 1937: The Marihuana Tax Act of 1937 is passed in America, the effect of which is to render marijuana and all its by-products illegal.
+- 1934: Reichskanzler Adolf Hitler becomes Führer of Germany following the death of President Paul von Hindenburg.
+- 1932: The positron (antiparticle of the electron) is discovered by Carl D. Anderson.
+- 1923: U.S. Vice President Calvin Coolidge becomes president upon the death of President Warren G. Harding.
+- 1922: A typhoon hits Shantou, Republic of China, killing more than 50,000 people.
+- 1918: The first general strike in Canadian history takes place in Vancouver.
+- 1916: World War I: Austrian sabotage causes the sinking of the Italian battleship Leonardo da Vinci in Taranto.
+- 1914: World War I: The German occupation of Luxembourg begins.
+- 1903: The Ilinden-Preobrazhenie Uprising against the Ottoman Empire begins.
+- 1897: Anglo-Afghan War: The Siege of Malakand ends when a relief column is able to reach the British garrison in the Malakand states.
+- 1873: The Clay Street Hill Railroad begins operating the first cable car in San Francisco's famous cable car system.
 
 Data from muffinlabs
-*(Updated at: 2026-08-01 03:17:28 UTC)*
+*(Updated at: 2026-08-02 03:17:48 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：美国前总统唐纳德·特朗普因参与 1 月 6 日美国国会大厦袭击事件而被起诉，这是他在 2023 年的第三次起诉。
-- - 2017 年：阿富汗赫拉特一座清真寺发生自杀式袭击，造成 20 人死亡。
-- - 2008年：国际探险队的11名登山者在地球第二高峰乔戈里峰身亡，这是乔戈里峰登山史上最严重的单次事故。
-- - 2008年：京津城际铁路​​开始运营，成为世界上最快的通勤铁路系统。
-- - 2007 年：明尼苏达州明尼阿波利斯市横跨密西西比河的 I-35W 密西西比河大桥在晚间高峰时段倒塌，造成 13 人死亡、145 人受伤。
-- - 2004 年：巴拉圭亚松森的一场超市火灾造成 424 人死亡、360 人受伤。
-- - 1998年：在加罗韦举行制宪会议后，索马里东北部的自治邦邦特兰正式成立，伊西姆斯和部落首领同意建立一个自行宣布的政府，直至索马里恢复元气。
-- - 1993 年：1993 年密西西比河和密苏里河大洪水达到顶峰。
-- - 1990 年：卡拉巴赫山脉发生飞机失事，造成 46 人死亡。
-- - 1988 年：一名英国士兵在英国伦敦英格利斯兵营爆炸事件中丧生。
-- - 1984 年：商业泥炭切割者在英国柴郡的林道莫斯发现了一具保存完好的沼泽尸体，名叫林道人 (Lindow Man)。
-- - 1981 年：MTV 开始在美国播出并播出其第一部视频，由 The Buggles 制作的“Video Killed the Radio Star”。
-- - 1980 年：爱尔兰科克郡发生火车相撞事故，造成 18 人死亡、170 多人受伤。
-- - 1980 年：维格迪斯·芬博加多蒂尔 (Vigdís Finnbogadóttir) 当选冰岛总统，成为世界上第一位民选女性国家元首。
-- - 1976 年：尼基·劳达 (Niki Lauda) 在纽博格林德国大奖赛上遭遇严重事故，几乎夺去了他的生命。
-- - 1975年：欧安会会议最后文件在芬兰赫尔辛基签署。
-- - 1974年：塞浦路斯争端：联合国安理会授权联塞部队划定“绿线”，将塞浦路斯分为两个区域。
-- - 1971 年：由前披头士乐队成员乔治·哈里森组织的孟加拉国音乐会在纽约市麦迪逊广场花园举行。
-- - 1968年：文莱第29任苏丹哈桑纳尔·博尔基亚举行加冕典礼。
-- - 1966年：文化大革命开始时，清洗知识分子和帝国主义者成为中国官方政策。
-- - 1966 年：查尔斯·惠特曼 (Charles Whitman) 在德克萨斯大学奥斯汀分校杀害了 15 人，随后被警察杀害。
-- - 1965年：弗兰克·赫伯特的小说《沙丘》首次出版。它于2003年被评为全球最畅销的科幻小说。
-- - 1964年：前比属刚果更名为刚果民主共和国。
-- - 1961 年：美国国防部长罗伯特·麦克纳马拉下令成立国防情报局 (DIA)，这是美国第一个中央军事间谍组织。
-- - 1960 年：伊斯兰堡被宣布为巴基斯坦政府的联邦首都。
-- - 1960 年：达荷美（后更名为贝宁）宣布脱离法国独立。
-- - 1957 年：美国和加拿大成立北美防空司令部 (NORAD)。
-- - 1950 年：哈里·S·杜鲁门总统签署《关岛组织法》，关岛成为美国的非建制领土。
-- - 1946 年：俄罗斯解放军（一支与纳粹德国勾结的俄罗斯战俘部队）的领导人因叛国罪在苏联莫斯科被处决。
-- - 1944年：第二次世界大战：反对纳粹德国占领的华沙起义在波兰华沙爆发。
+- - 2014年：中国江苏省昆山市发生工厂爆炸，造成至少146人死亡、超过114人受伤。
+- - 2005年：法航358号航班降落在多伦多皮尔逊国际机场后冲出跑道，导致飞机起火，造成12人受伤，无人死亡。
+- - 1999 年：印度阿萨姆邦盖萨尔火车灾难夺去了 285 人的生命。
+- - 1991 年：亚特兰蒂斯号航天飞机搭载 STS-43 发射升空，以部署 TDRS-5 卫星。
+- - 1990年：伊拉克入侵科威特：伊拉克入侵科威特，并按照萨达姆·侯赛因的命令暂时建立科威特共和国傀儡国，最终导致海湾战争。
+- - 1989 年：印度维和部队在斯里兰卡实施大屠杀，造成 64 名泰米尔族平民死亡。
+- - 1989年：巴基斯坦自1972年以来首次恢复民主后重新加入英联邦。
+- - 1985 年：达美航空 191 号航班（洛克希德 L-1011 三星）在达拉斯/沃斯堡国际机场坠毁，造成 137 人死亡。
+- - 1982 年：芬兰第一个快速交通系统赫尔辛基地铁向公众开放。
+- - 1980年：一枚炸弹在意大利博洛尼亚火车站爆炸，造成85人死亡、200多人受伤。
+- - 1973 年：马恩岛道格拉斯的 Summerland 游乐中心发生突发火灾，造成 50 人死亡。
+- - 1968 年：菲律宾奥罗拉市卡西古兰发生地震，造成 270 多人死亡、261 人受伤。
+- - 1947 年：英国南美航空公司一架 Avro Lancastrian 客机在从阿根廷布宜诺斯艾利斯飞往智利圣地亚哥的途中坠毁在山上。直到1998年，残骸才被发现。
+- - 1945 年：第二次世界大战：波茨坦会议结束。
+- - 1944 年：第二次世界大战：世界大战中最大的贸易车队安全抵达西方航道。
+- - 1944 年：ASNOM：马其顿社会主义共和国诞生，北马其顿庆祝共和国日。
+- - 1943 年：第二次世界大战：机动鱼雷艇 PT-109 被日本驱逐舰天雾号撞沉后，未来的美国总统约翰·F·肯尼迪中尉救出了除两名船员外的所有船员。
+- - 1943 年：大屠杀：犹太囚犯在特雷布林卡发动叛乱，特雷布林卡是纳粹死亡集中营中最致命的一个，不到 18 个月内就有大约 90 万人被谋杀。
+- - 1939 年：阿尔伯特·爱因斯坦和利奥·西拉德给富兰克林·D·罗斯福写了一封信，敦促他开始开发核武器的曼哈顿计划。
+- - 1937 年：美国通过了 1937 年《大麻税法》，其效果是使大麻及其所有副产品非法。
+- - 1934 年：总统保罗·冯·兴登堡去世后，德国总理阿道夫·希特勒成为德国元首。
+- - 1932 年：卡尔·D·安德森 (Carl D. Anderson) 发现了正电子（电子的反粒子）。
+- - 1923 年：美国副总统卡尔文·柯立芝在沃伦·G·哈丁总统去世后继任总统。
+- - 1922 年：台风袭击中华民国汕头，造成 50,000 多人死亡。
+- - 1918 年：加拿大历史上第一次大罢工在温哥华发生。
+- - 1916 年：第一次世界大战：奥地利人的破坏导致意大利战列舰达芬奇号在塔兰托沉没。
+- - 1914 年：第一次世界大战：德国开始占领卢森堡。
+- - 1903 年：反对奥斯曼帝国的伊林登-普雷奥布拉热尼起义开始。
+- - 1897 年：英阿战争：救援纵队到达马拉坎德州的英国驻军后，马拉坎德围困结束。
+- - 1873 年：克莱街山铁路 (Clay Street Hill Railroad) 开始运营旧金山著名缆车系统中的第一辆缆车。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-08-01 03:17:28 UTC）*
+*（更新于: 2026-08-02 03:17:48 UTC）*
