@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2020: Beirut Port explosion: At least 220 people are killed and over 5,000 are wounded when 2,700 tons of ammonium nitrate explodes in Beirut, Lebanon.
-- 2019: Nine people are killed and 26 injured in a shooting in Dayton, Ohio. This comes only 13 hours after another mass shooting in El Paso, Texas, where 23 people were killed.
-- 2018:  Crisis in Venezuela: Seven people are injured when two drones detonate explosives on Avenida Bolívar, Caracas while president Nicolás Maduro is giving a speech to the Venezuelan National Guard.
-- 2018: Syrian civil war: The Syrian Democratic Forces (SDF) expel the Islamic State of Iraq and the Levant (ISIL) from the Iraq-Syria border, concluding the second phase of the Deir ez-Zor campaign.
-- 2007: NASA's Phoenix Mars lander is launched.
-- 2006: A massacre is carried out by Sri Lankan government forces, killing 17 employees of the French INGO Action Against Hunger (known internationally as Action Contre la Faim, or ACF).
-- 1995: Operation Storm, the last major battle of the Croatian War of Independence begins.
-- 1987: The Federal Communications Commission rescinds the Fairness Doctrine which had required radio and television stations to give equal time to opposing views.
-- 1984: The Ariane 3 rocket is launched for the first time, carrying the Eutelsat I F-2 and Télécom 1A satellites into geosynchronous transfer orbit.
-- 1984: The Republic of Upper Volta changes its name to Burkina Faso.
-- 1983: Jean-Baptiste Ouédraogo, president of the military government of Upper Volta, is ousted from power in a coup d'état led by Captain Thomas Sankara.
-- 1977: U.S. President Jimmy Carter signs legislation creating the United States Department of Energy.
-- 1975: The Japanese Red Army takes more than 50 hostages at the AIA Building housing several embassies in Kuala Lumpur, Malaysia. The hostages include the U.S. consul and the Swedish Chargé d'affaires. The gunmen win the release of five imprisoned comrades and fly with them to Libya.
-- 1974: A bomb explodes in the Italicus Express train at San Benedetto Val di Sambro, Italy, killing 12 people and wounding 22.
-- 1972: Ugandan President Idi Amin announces that Uganda is no longer responsible for the care of British subjects of Asian origin, beginning the expulsions of Ugandan Asians.
-- 1969: Vietnam War: At the apartment of French intermediary Jean Sainteny in Paris, American representative Henry Kissinger and North Vietnamese representative Xuân Thuỷ begin secret peace negotiations. The negotiations will eventually fail.
-- 1965: The Constitution of the Cook Islands comes into force, giving the Cook Islands self-governing status within New Zealand.
-- 1964: Second Gulf of Tonkin Incident: U.S. destroyers USS Maddox and USS Turner Joy mistakenly report coming under attack in the Gulf of Tonkin.
-- 1964: Civil rights movement: Civil rights workers Michael Schwerner, Andrew Goodman and James Chaney are found dead in Mississippi after disappearing on June 21.
-- 1947: The Supreme Court of Japan is established.
-- 1946: An earthquake of magnitude 8.0 hits northern Dominican Republic. One hundred are killed and 20,000 are left homeless.
-- 1944: Under the state of emergency law, the Finnish Parliament elects Marshal C. G. E. Mannerheim as the President of Finland to replace the resigned Risto Ryti.
-- 1944: The Holocaust: A tip from a Dutch informer leads the Gestapo to a sealed-off area in an Amsterdam warehouse, where they find and arrest Jewish diarist Anne Frank, her family, and four others.
-- 1936: Prime Minister of Greece Ioannis Metaxas suspends parliament and the Constitution and establishes the 4th of August Regime.
-- 1924: Diplomatic relations between Mexico and the Soviet Union are established.
-- 1921: Bolshevik-Makhnovist conflict: Mikhail Frunze declares victory over the Makhnovshchina.
-- 1915: World War I: The German 12th Army occupies Warsaw during the Gorlice-Tarnów Offensive and the Great Retreat of 1915.
-- 1914: World War I: In response to the German invasion of Belgium, Belgium and the British Empire declare war on Germany. The United States declares its neutrality.
-- 1892: The father and stepmother of Lizzie Borden are found murdered in their Fall River, Massachusetts home. She will be tried and acquitted for the crimes a year later.
-- 1889: The Great Fire of Spokane, Washington destroys some 32 blocks of the city, prompting a mass rebuilding project.
+- 2024: Following the non-cooperation movement against the government of Bangladesh, Bangladeshi prime minister Sheikh Hasina resigns and flees the country, ending her rule of 15 consecutive years and a total of almost two decades. The date is also known as 36 July.
+- 2021: Australia's second most populous state Victoria enters its sixth COVID-19 lockdown, enacting stage four restrictions statewide in reaction to six new COVID-19 cases recorded that morning.
+- 2019: The revocation of the special status of Jammu and Kashmir (state) occurred and the state was bifurcated into two union territories (Jammu and Kashmir (union territory) and Ladakh).
+- 2015: The Environmental Protection Agency at Gold King Mine waste water spill releases three million gallons of heavy metal toxin tailings and waste water into the Animas River in Colorado.
+- 2012: The Wisconsin Sikh temple shooting took place in Oak Creek, Wisconsin, killing six victims; the perpetrator committed suicide after being wounded by police.
+- 2010: Ten members of International Assistance Mission Nuristan Eye Camp team are killed by persons unknown in Kuran wa Munjan District of Badakhshan Province, Afghanistan.
+- 2010: The Copiapó mining accident occurs, trapping 33 Chilean miners approximately 2,300 ft (700 m) below the ground for 69 days.
+- 2008: The New England Revolution win the 2008 North American SuperLiga final against the Houston Dynamo.
+- 2003: A car bomb explodes in the Indonesian capital of Jakarta outside the Marriott Hotel killing 12 and injuring 150.
+- 1995: Yugoslav Wars: The city of Knin, Croatia, a significant Serb stronghold, is taken by Croatian forces during Operation Storm. The date is celebrated in Croatia as Victory Day.
+- 1984: A Biman Bangladesh Airlines Fokker F27 Friendship crashes on approach to Zia International Airport, in Dhaka, Bangladesh, killing all 49 people on board.
+- 1981: President Ronald Reagan fires 11,359 striking air-traffic controllers who ignored his order for them to return to work.
+- 1979: In Afghanistan, Maoists undertake the Bala Hissar uprising against the Leninist government.
+- 1974: Watergate scandal: President Richard Nixon, under orders of the US Supreme Court, releases the "Smoking Gun" tape, recorded on June 23, 1972, clearly revealing his actions in covering up and interfering investigations into the break-in. His political support vanishes completely.
+- 1973: Mars 6 is launched from the USSR.
+- 1971: The first Pacific Islands Forum (then known as the "South Pacific Forum") is held in Wellington, New Zealand, with the aim of enhancing cooperation between the independent countries of the Pacific Ocean.
+- 1969: The Lonesome Cowboys police raid occurs in Atlanta, Georgia, leading to the creation of the Georgia Gay Liberation Front.
+- 1966: A group of red guards at Experimental High in Beijing, including Deng Rong and Liu Pingping, daughters of Deng Xiaoping and Liu Shaoqi respectively, beat the deputy vice principal, Bian Zhongyun, to death with sticks after accusing her of counter-revolutionary revisionism, producing one of the first fatalities of the Cultural Revolution.
+- 1965: The Indo-Pakistani war of 1965 begins as Pakistani soldiers cross the Line of Control dressed as locals.
+- 1964: Vietnam War: Operation Pierce Arrow: American aircraft from carriers USS Ticonderoga and USS Constellation bomb North Vietnam in retaliation for strikes against U.S. destroyers in the Gulf of Tonkin.
+- 1963: Cold War: The United States, the United Kingdom, and the Soviet Union sign the Partial Nuclear Test Ban Treaty.
+- 1962: American actress Marilyn Monroe is found dead at her home from a drug overdose.
+- 1962: Apartheid: Nelson Mandela is jailed. He would not be released until 1990.
+- 1960: Burkina Faso, then known as Upper Volta, becomes independent from France.
+- 1957: American Bandstand, a show dedicated to the teenage "baby-boomers" by playing the songs and showing popular dances of the time, debuts on the ABC television network.
+- 1949: In Montana, 12 smokejumper firefighters and 1 US Forest Service fire guard are killed in the Mann Gulch Fire.
+- 1949: In Ecuador, an earthquake destroys 50 towns and kills more than 6,000.
+- 1944: World War II: The Nazis begin a week-long massacre of between 40,000 and 50,000 civilians and prisoners of war in Wola, Poland.
+- 1944: World War II: Polish insurgents liberate a German labor camp (Gęsiówka) in Warsaw, freeing 348 Jewish prisoners.
+- 1944: World War II: At least 1,104 Japanese POWs in Australia attempt to escape from a camp at Cowra, New South Wales; 545 temporarily succeed but are later either killed, commit suicide, or are recaptured.
 
 Data from muffinlabs
-*(Updated at: 2026-08-04 02:48:37 UTC)*
+*(Updated at: 2026-08-05 02:45:56 UTC)*
 
 # 历史上的今天 
 
-- - 2020 年：贝鲁特港口爆炸：黎巴嫩贝鲁特 2,700 吨硝酸铵爆炸，造成至少 220 人死亡、5,000 多人受伤。
-- - 2019 年：俄亥俄州代顿市发生枪击事件，造成 9 人死亡、26 人受伤。就在 13 小时前，德克萨斯州埃尔帕索又发生大规模枪击事件，造成 23 人死亡。
-- - 2018 年：委内瑞拉危机：总统尼古拉斯·马杜罗向委内瑞拉国民警卫队发表讲话时，两架无人机在加拉加斯玻利瓦尔大道引爆爆炸物，造成 7 人受伤。
-- - 2018年：叙利亚内战：叙利亚民主力量（SDF）将伊拉克和黎凡特伊斯兰国（ISIL）驱逐出伊拉克-叙利亚边境，结束了代尔祖尔战役的第二阶段。
-- - 2007 年：美国宇航局的凤凰火星登陆器发射。
-- - 2006年：斯里兰卡政府军进行了一场大屠杀，造成法国国际非政府组织反饥饿行动（国际上称为反饥饿行动，或ACF）的17名雇员死亡。
-- - 1995年：风暴行动，克罗地亚独立战争的最后一场重大战役开始。
-- - 1987 年：联邦通信委员会废除了要求广播电台和电视台给予反对意见同等时间的公平原则。
-- - 1984年：阿丽亚娜3号火箭首次发射，将Eutelsat I F-2和Télécom 1A卫星送入地球同步转移轨道。
-- - 1984 年：上沃尔特共和国更名为布基纳法索。
-- - 1983 年：上沃尔特军政府主席让-巴蒂斯特·韦德拉奥戈 (Jean-Baptiste Ouédraogo) 在托马斯·桑卡拉上尉领导的政变中被赶下台。
-- - 1977 年：美国总统吉米·卡特签署立法，成立美国能源部。
-- - 1975 年：日本赤军在马来西亚吉隆坡的多个大使馆内的友邦保险大楼扣押了 50 多名人质。人质包括美国领事和瑞典临时代办。枪手成功释放了五名被监禁的同志，并与他们一起飞往利比亚。
-- - 1974 年：一枚炸弹在意大利 San Benedetto Val di Sambro 的 Italicus Express 列车上爆炸，造成 12 人死亡、22 人受伤。
-- - 1972年：乌干达总统伊迪·阿明宣布乌干达不再负责照顾亚裔英国臣民，开始驱逐乌干达亚裔。
-- - 1969年：越南战争：在巴黎法国中间人让·桑特尼的公寓里，美国代表亨利·基辛格和北越代表春秋开始秘密和平谈判。谈判最终会失败。
-- - 1965 年：《库克群岛宪法》生效，赋予库克群岛在新西兰境内的自治地位。
-- - 1964 年：第二次北部湾事件：美国驱逐舰马多克斯号和特纳乔伊号错误地报告在北部湾受到攻击。
-- - 1964 年：民权运动：民权工作者迈克尔·施维尔纳 (Michael Schwerner)、安德鲁·古德曼 (Andrew Goodman) 和詹姆斯·钱尼 (James Chaney) 于 6 月 21 日失踪后被发现死于密西西比州。
-- - 1947 年：日本最高法院成立。
-- - 1946 年：多米尼加共和国北部发生里氏 8.0 级地震。一百人被杀，两万人无家可归。
-- - 1944年：根据紧急状态法，芬兰议会选举C.G.E.曼纳海姆元帅为芬兰总统，接替辞职的里斯托·里蒂。
-- - 1944 年：大屠杀：根据一名荷兰线人的举报，盖世太保来到阿姆斯特丹仓库的一个封闭区域，在那里他们找到并逮捕了犹太日记作家安妮·弗兰克、她的家人和其他四人。
-- - 1936 年：希腊总理扬尼斯·梅塔克萨斯暂停议会和宪法，并建立 8 月 4 日政权。
-- - 1924年：墨西哥和苏联建立外交关系。
-- - 1921年：布尔什维克与马赫诺主义冲突：米哈伊尔·伏龙芝宣布战胜马赫诺运动。
-- - 1915 年：第一次世界大战：德国第 12 集团军在戈尔利采-塔尔努夫攻势和 1915 年大撤退期间占领华沙。
-- - 1914年：第一次世界大战：为了回应德国入侵比利时，比利时和大英帝国向德国宣战。美国宣布保持中立。
-- - 1892 年：莉齐·博登 (Lizzie Borden) 的父亲和继母被发现在马萨诸塞州福尔里弗 (Fall River) 的家中被谋杀。一年后，她将因这些罪行受到审判并被无罪释放。
-- - 1889 年：华盛顿州斯波坎发生大火，摧毁了该市约 32 个街区，引发了大规模重建项目。
+- - 2024年：在针对孟加拉国政府的不合作运动之后，孟加拉国总理谢赫·哈西娜辞职并逃离该国，结束了她连续15年、总计近20年的统治。该日期也称为 7 月 36 日。
+- - 2021 年：澳大利亚人口第二大州维多利亚州进入第六次 COVID-19 封锁，在全州范围内实施第四阶段限制，以应对当天早上记录的 6 例新的 COVID-19 病例。
+- - 2019年：查谟和克什米尔（邦）的特殊地位被撤销，该邦分为两个联邦直辖区（查谟和克什米尔（联邦直辖区）和拉达克）。
+- - 2015 年：环境保护局金王矿废水泄漏事故向科罗拉多州阿尼马斯河排放了 300 万加仑重金属有毒尾矿和废水。
+- - 2012年：威斯康星州橡树溪发生威斯康星州锡克教寺庙枪击事件，造成六人死亡；肇事者被警察打伤后自杀。
+- - 2010年：国际援助团努里斯坦眼科训练营小组的10名成员在阿富汗巴达赫尚省Kuran wa Munjan区被不明人士杀害。
+- - 2010 年：发生科皮亚波采矿事故，33 名智利矿工被困在地下约 2,300 英尺（700 米）处达 69 天。
+- - 2008年：新英格兰革命队在2008年北美超级联赛决赛中战胜休斯顿迪纳摩队。
+- - 2003 年：一枚汽车炸弹在印度尼西亚首都雅加达万豪酒店外爆炸，造成 12 人死亡、150 人受伤。
+- - 1995 年：南斯拉夫战争：克罗地亚克宁市是塞族的重要据点，在风暴行动中被克罗地亚军队占领。克罗地亚将这一天庆祝为胜利日。
+- - 1984 年：一架孟加拉国航空福克 F27 友谊号飞机在飞往孟加拉国达卡齐亚国际机场时坠毁，机上 49 人全部遇难。
+- - 1981 年：罗纳德·里根总统解雇了 11,359 名罢工的空中交通管制员，这些管制员无视他要求他们重返工作岗位的命令。
+- - 1979 年：在阿富汗，毛派发动巴拉希萨尔起义反对列宁主义政府。
+- - 1974年：水门事件：理查德·尼克松总统根据美国最高法院的命令，公布了1972年6月23日录制的“铁证”录音带，清楚地揭露了他掩盖和干扰入室调查的行为。他的政治支持完全消失了。
+- - 1973 年：火星六号从苏联发射。
+- - 1971年：第一届太平洋岛屿论坛（当时称为“南太平洋论坛”）在新西兰惠灵顿举行，旨在加强太平洋独立国家之间的合作。
+- - 1969 年：“孤独牛仔”警察在佐治亚州亚特兰大发起突袭，导致佐治亚同性恋解放阵线成立。
+- - 1966年：北京实验中学的一群红卫兵，包括邓小平和刘少奇的女儿邓蓉和刘萍萍，在指责边仲云反革命修正主义后，用棍棒将她打死，成为文化大革命中第一批死亡事件之一。
+- - 1965 年：1965 年印巴战争爆发，巴基斯坦士兵打扮成当地人越过控制线。
+- - 1964 年：越南战争：皮尔斯箭行动：提康德罗加号和星座号航空母舰上的美国飞机轰炸北越，以报复在北部湾袭击美国驱逐舰的行动。
+- - 1963年：冷战：美国、英国和苏联签署《部分禁止核试验条约》。
+- - 1962 年：美国女演员玛丽莲·梦露被发现因吸毒过量死于家中。
+- - 1962 年：种族隔离：纳尔逊·曼德拉 (Nelson Mandela) 入狱。直到1990年他才被释放。
+- - 1960 年：布基纳法索（当时称为上沃尔特）从法国独立。
+- - 1957 年：美国音乐台 (American Bandstand) 在 ABC 电视网络上首次亮相，这是一档专门为“婴儿潮一代”青少年播放歌曲并展示当时流行舞蹈的节目。
+- - 1949 年：在蒙大拿州，12 名消防员和 1 名美国林务局消防员在曼恩峡谷火灾中丧生。
+- - 1949 年：厄瓜多尔发生地震，摧毁了 50 个城镇，造成 6,000 多人死亡。
+- - 1944 年：第二次世界大战：纳粹在波兰沃拉开始了为期一周的屠杀，屠杀了 40,000 至 50,000 名平民和战俘。
+- - 1944 年：第二次世界大战：波兰叛乱分子解放了位于华沙的德国劳改营 (Gęsiówka)，释放了 348 名犹太囚犯。
+- - 1944 年：第二次世界大战：至少 1,104 名在澳大利亚的日本战俘试图逃离新南威尔士州考拉 (Cowra) 的营地；545 人暂时成功，但后来要么被杀、自杀，要么被重新抓获。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-08-04 02:48:37 UTC）*
+*（更新于: 2026-08-05 02:45:56 UTC）*
