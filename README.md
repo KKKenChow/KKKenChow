@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Following the non-cooperation movement against the government of Bangladesh, Bangladeshi prime minister Sheikh Hasina resigns and flees the country, ending her rule of 15 consecutive years and a total of almost two decades. The date is also known as 36 July.
-- 2021: Australia's second most populous state Victoria enters its sixth COVID-19 lockdown, enacting stage four restrictions statewide in reaction to six new COVID-19 cases recorded that morning.
-- 2019: The revocation of the special status of Jammu and Kashmir (state) occurred and the state was bifurcated into two union territories (Jammu and Kashmir (union territory) and Ladakh).
-- 2015: The Environmental Protection Agency at Gold King Mine waste water spill releases three million gallons of heavy metal toxin tailings and waste water into the Animas River in Colorado.
-- 2012: The Wisconsin Sikh temple shooting took place in Oak Creek, Wisconsin, killing six victims; the perpetrator committed suicide after being wounded by police.
-- 2010: Ten members of International Assistance Mission Nuristan Eye Camp team are killed by persons unknown in Kuran wa Munjan District of Badakhshan Province, Afghanistan.
-- 2010: The Copiapó mining accident occurs, trapping 33 Chilean miners approximately 2,300 ft (700 m) below the ground for 69 days.
-- 2008: The New England Revolution win the 2008 North American SuperLiga final against the Houston Dynamo.
-- 2003: A car bomb explodes in the Indonesian capital of Jakarta outside the Marriott Hotel killing 12 and injuring 150.
-- 1995: Yugoslav Wars: The city of Knin, Croatia, a significant Serb stronghold, is taken by Croatian forces during Operation Storm. The date is celebrated in Croatia as Victory Day.
-- 1984: A Biman Bangladesh Airlines Fokker F27 Friendship crashes on approach to Zia International Airport, in Dhaka, Bangladesh, killing all 49 people on board.
-- 1981: President Ronald Reagan fires 11,359 striking air-traffic controllers who ignored his order for them to return to work.
-- 1979: In Afghanistan, Maoists undertake the Bala Hissar uprising against the Leninist government.
-- 1974: Watergate scandal: President Richard Nixon, under orders of the US Supreme Court, releases the "Smoking Gun" tape, recorded on June 23, 1972, clearly revealing his actions in covering up and interfering investigations into the break-in. His political support vanishes completely.
-- 1973: Mars 6 is launched from the USSR.
-- 1971: The first Pacific Islands Forum (then known as the "South Pacific Forum") is held in Wellington, New Zealand, with the aim of enhancing cooperation between the independent countries of the Pacific Ocean.
-- 1969: The Lonesome Cowboys police raid occurs in Atlanta, Georgia, leading to the creation of the Georgia Gay Liberation Front.
-- 1966: A group of red guards at Experimental High in Beijing, including Deng Rong and Liu Pingping, daughters of Deng Xiaoping and Liu Shaoqi respectively, beat the deputy vice principal, Bian Zhongyun, to death with sticks after accusing her of counter-revolutionary revisionism, producing one of the first fatalities of the Cultural Revolution.
-- 1965: The Indo-Pakistani war of 1965 begins as Pakistani soldiers cross the Line of Control dressed as locals.
-- 1964: Vietnam War: Operation Pierce Arrow: American aircraft from carriers USS Ticonderoga and USS Constellation bomb North Vietnam in retaliation for strikes against U.S. destroyers in the Gulf of Tonkin.
-- 1963: Cold War: The United States, the United Kingdom, and the Soviet Union sign the Partial Nuclear Test Ban Treaty.
-- 1962: American actress Marilyn Monroe is found dead at her home from a drug overdose.
-- 1962: Apartheid: Nelson Mandela is jailed. He would not be released until 1990.
-- 1960: Burkina Faso, then known as Upper Volta, becomes independent from France.
-- 1957: American Bandstand, a show dedicated to the teenage "baby-boomers" by playing the songs and showing popular dances of the time, debuts on the ABC television network.
-- 1949: In Montana, 12 smokejumper firefighters and 1 US Forest Service fire guard are killed in the Mann Gulch Fire.
-- 1949: In Ecuador, an earthquake destroys 50 towns and kills more than 6,000.
-- 1944: World War II: The Nazis begin a week-long massacre of between 40,000 and 50,000 civilians and prisoners of war in Wola, Poland.
-- 1944: World War II: Polish insurgents liberate a German labor camp (Gęsiówka) in Warsaw, freeing 348 Jewish prisoners.
-- 1944: World War II: At least 1,104 Japanese POWs in Australia attempt to escape from a camp at Cowra, New South Wales; 545 temporarily succeed but are later either killed, commit suicide, or are recaptured.
+- 2015: A suicide bomb attack kills at least 15 people at a mosque in the Saudi city of Abha.
+- 2012: NASA's Curiosity rover lands on the surface of Mars.
+- 2011: War in Afghanistan: A United States military helicopter is shot down, killing 30 American special forces members and a working dog, seven Afghan soldiers, and one Afghan civilian. It was the deadliest single event for the United States in the War in Afghanistan.
+- 2010: Flash floods across a large part of Jammu and Kashmir, India, damages 71 towns and kills at least 255 people.
+- 2008: A military junta led by Mohamed Ould Abdel Aziz stages a coup d'état in Mauritania, overthrowing president Sidi Ould Cheikh Abdallahi.
+- 2001: Erwadi fire incident: Twenty-eight mentally ill persons tied to a chain are burnt to death at a faith based institution at Erwadi, Tamil Nadu.
+- 1997: Korean Air Flight 801 crashed at Nimitz Hill, Guam, killing 229 of the 254 people on board.
+- 1996: NASA announces that the ALH 84001 meteorite, thought to originate from Mars, contains evidence of primitive life-forms.
+- 1991: Takako Doi, chair of the Social Democratic Party, becomes Japan's first female speaker of the House of Representatives.
+- 1991: Tim Berners-Lee releases files describing his idea for the World Wide Web. WWW makes its first appearance as a publicly available service on the Internet.
+- 1990: Gulf War: The United Nations Security Council orders a global trade embargo against Iraq in response to Iraq's invasion of Kuwait.
+- 1986: A low-pressure system that redeveloped off the New South Wales coast dumps a record 328 millimeters (13 inches) of rain in a day on Sydney, New South Wales, Australia.
+- 1965: US President Lyndon B. Johnson signs the Voting Rights Act of 1965 into law.
+- 1962: Jamaica becomes independent from the United Kingdom.
+- 1960: Cuban Revolution: Cuba nationalizes American and foreign-owned property in the nation.
+- 1958: Law of Permanent Defense of Democracy, outlawing the Communist Party of Chile and banning 26,650 persons from the electoral lists, is repealed in Chile.
+- 1956: After going bankrupt in 1955, the American broadcaster DuMont Television Network makes its final broadcast, a boxing match from St. Nicholas Arena in New York in the Boxing from St. Nicholas Arena series.
+- 1945: World War II: Hiroshima, Japan is devastated when the atomic bomb "Little Boy" is dropped by the United States B-29 Enola Gay. Around 70,000 people are killed instantly, and some tens of thousands die in subsequent years from burns and radiation poisoning.
+- 1942: Queen Wilhelmina of the Netherlands becomes the first reigning queen to address a joint session of the United States Congress.
+- 1940: Estonia is annexed by the Soviet Union.
+- 1926: First public screening using the Vitaphone process
+- 1926: Gertrude Ederle becomes the first woman to swim across the English Channel.
+- 1917: World War I: Battle of Mărășești between the Romanian and German armies begins.
+- 1915: World War I: Battle of Sari Bair: The Allies mount a diversionary attack timed to coincide with a major Allied landing of reinforcements at Suvla Bay.
+- 1914: World War I: Serbia declares war on Germany; Austria declares war on Russia.
+- 1914: World War I: U-boat campaign: Two days after the United Kingdom had declared war on Germany over the German invasion of Belgium, ten German U-boats leave their base in Heligoland to attack Royal Navy warships in the North Sea.
+- 1901: Kiowa land in Oklahoma is opened for white settlement, effectively dissolving the contiguous reservation.
+- 1890: At Auburn Prison in New York, murderer William Kemmler becomes the first person to be executed by electric chair.
+- 1870: Franco-Prussian War: The Battle of Wörth results in a decisive German victory.
+- 1870: Franco-Prussian War: The Battle of Spicheren is fought, resulting in a German victory.
 
 Data from muffinlabs
-*(Updated at: 2026-08-05 02:45:56 UTC)*
+*(Updated at: 2026-08-06 02:49:00 UTC)*
 
 # 历史上的今天 
 
-- - 2024年：在针对孟加拉国政府的不合作运动之后，孟加拉国总理谢赫·哈西娜辞职并逃离该国，结束了她连续15年、总计近20年的统治。该日期也称为 7 月 36 日。
-- - 2021 年：澳大利亚人口第二大州维多利亚州进入第六次 COVID-19 封锁，在全州范围内实施第四阶段限制，以应对当天早上记录的 6 例新的 COVID-19 病例。
-- - 2019年：查谟和克什米尔（邦）的特殊地位被撤销，该邦分为两个联邦直辖区（查谟和克什米尔（联邦直辖区）和拉达克）。
-- - 2015 年：环境保护局金王矿废水泄漏事故向科罗拉多州阿尼马斯河排放了 300 万加仑重金属有毒尾矿和废水。
-- - 2012年：威斯康星州橡树溪发生威斯康星州锡克教寺庙枪击事件，造成六人死亡；肇事者被警察打伤后自杀。
-- - 2010年：国际援助团努里斯坦眼科训练营小组的10名成员在阿富汗巴达赫尚省Kuran wa Munjan区被不明人士杀害。
-- - 2010 年：发生科皮亚波采矿事故，33 名智利矿工被困在地下约 2,300 英尺（700 米）处达 69 天。
-- - 2008年：新英格兰革命队在2008年北美超级联赛决赛中战胜休斯顿迪纳摩队。
-- - 2003 年：一枚汽车炸弹在印度尼西亚首都雅加达万豪酒店外爆炸，造成 12 人死亡、150 人受伤。
-- - 1995 年：南斯拉夫战争：克罗地亚克宁市是塞族的重要据点，在风暴行动中被克罗地亚军队占领。克罗地亚将这一天庆祝为胜利日。
-- - 1984 年：一架孟加拉国航空福克 F27 友谊号飞机在飞往孟加拉国达卡齐亚国际机场时坠毁，机上 49 人全部遇难。
-- - 1981 年：罗纳德·里根总统解雇了 11,359 名罢工的空中交通管制员，这些管制员无视他要求他们重返工作岗位的命令。
-- - 1979 年：在阿富汗，毛派发动巴拉希萨尔起义反对列宁主义政府。
-- - 1974年：水门事件：理查德·尼克松总统根据美国最高法院的命令，公布了1972年6月23日录制的“铁证”录音带，清楚地揭露了他掩盖和干扰入室调查的行为。他的政治支持完全消失了。
-- - 1973 年：火星六号从苏联发射。
-- - 1971年：第一届太平洋岛屿论坛（当时称为“南太平洋论坛”）在新西兰惠灵顿举行，旨在加强太平洋独立国家之间的合作。
-- - 1969 年：“孤独牛仔”警察在佐治亚州亚特兰大发起突袭，导致佐治亚同性恋解放阵线成立。
-- - 1966年：北京实验中学的一群红卫兵，包括邓小平和刘少奇的女儿邓蓉和刘萍萍，在指责边仲云反革命修正主义后，用棍棒将她打死，成为文化大革命中第一批死亡事件之一。
-- - 1965 年：1965 年印巴战争爆发，巴基斯坦士兵打扮成当地人越过控制线。
-- - 1964 年：越南战争：皮尔斯箭行动：提康德罗加号和星座号航空母舰上的美国飞机轰炸北越，以报复在北部湾袭击美国驱逐舰的行动。
-- - 1963年：冷战：美国、英国和苏联签署《部分禁止核试验条约》。
-- - 1962 年：美国女演员玛丽莲·梦露被发现因吸毒过量死于家中。
-- - 1962 年：种族隔离：纳尔逊·曼德拉 (Nelson Mandela) 入狱。直到1990年他才被释放。
-- - 1960 年：布基纳法索（当时称为上沃尔特）从法国独立。
-- - 1957 年：美国音乐台 (American Bandstand) 在 ABC 电视网络上首次亮相，这是一档专门为“婴儿潮一代”青少年播放歌曲并展示当时流行舞蹈的节目。
-- - 1949 年：在蒙大拿州，12 名消防员和 1 名美国林务局消防员在曼恩峡谷火灾中丧生。
-- - 1949 年：厄瓜多尔发生地震，摧毁了 50 个城镇，造成 6,000 多人死亡。
-- - 1944 年：第二次世界大战：纳粹在波兰沃拉开始了为期一周的屠杀，屠杀了 40,000 至 50,000 名平民和战俘。
-- - 1944 年：第二次世界大战：波兰叛乱分子解放了位于华沙的德国劳改营 (Gęsiówka)，释放了 348 名犹太囚犯。
-- - 1944 年：第二次世界大战：至少 1,104 名在澳大利亚的日本战俘试图逃离新南威尔士州考拉 (Cowra) 的营地；545 人暂时成功，但后来要么被杀、自杀，要么被重新抓获。
+- - 2015 年：沙特艾卜哈市一座清真寺发生自杀式炸弹袭击，造成至少 15 人死亡。
+- - 2012 年：美国宇航局的好奇号火星车登陆火星表面。
+- - 2011年：阿富汗战争：一架美国军用直升机被击落，造成30名美国特种部队成员和一只工作犬、7名阿富汗士兵和1名阿富汗平民死亡。这是美国在阿富汗战争中伤亡最惨重的单一事件。
+- - 2010 年：印度查谟和克什米尔大部分地区发生山洪，71 个城镇受损，至少 255 人死亡。
+- - 2008年：穆罕默德·乌尔德·阿卜杜勒·阿齐兹领导的军政府在毛里塔尼亚发动政变，推翻了总统西迪·乌尔德·谢赫·阿卜杜拉希。
+- - 2001 年：埃尔瓦迪火灾事件：泰米尔纳德邦埃尔瓦迪的一个信仰机构内，28 名精神病患者被锁链烧死。
+- - 1997 年：大韩航空 801 号航班在关岛尼米兹山坠毁，机上 254 人中有 229 人遇难。
+- - 1996 年：NASA 宣布 ALH 84001 陨石被认为源自火星，含有原始生命形式的证据。
+- - 1991年：社会民主党主席土井贵子成为日本第一位女性众议院议长。
+- - 1991 年：蒂姆·伯纳斯·李发布了描述他的万维网想法的文件。WWW 首次作为 Internet 上的公共服务出现。
+- - 1990年：海湾战争：联合国安理会下令对伊拉克实施全球贸易禁运，以回应伊拉克入侵科威特。
+- - 1986 年：新南威尔士州海岸重新形成的低压系统给澳大利亚新南威尔士州悉尼带来了创纪录的单日降雨量 328 毫米（13 英寸）。
+- - 1965 年：美国总统林登·B·约翰逊 (Lyndon B. Johnson) 签署 1965 年投票权法案，使其成为法律。
+- - 1962 年：牙买加从英国独立。
+- - 1960 年：古巴革命：古巴将美国和外国人在该国拥有的财产国有化。
+- - 1958 年：智利废除了《永久捍卫民主法》，该法宣布智利共产党为非法，并禁止 26,650 人进入选举名单。
+- - 1956年：美国广播公司杜蒙特电视网在1955年破产后，进行了最后一次转播，即圣尼古拉斯竞技场拳击系列赛中在纽约圣尼古拉斯竞技场举行的一场拳击比赛。
+- - 1945 年：第二次世界大战：美国 B-29 Enola Gay 轰炸机投下原子弹“小男孩”，日本广岛陷入满目疮痍。大约 70,000 人当场死亡，随后数年约有数万人死于烧伤和辐射中毒。
+- - 1942 年：荷兰女王威廉明娜成为第一位在美国国会联席会议上发表讲话的在位女王。
+- - 1940年：爱沙尼亚被苏联吞并。
+- - 1926 年：使用 Vitaphone 流程进行首次公开放映
+- - 1926 年：Gertrude Ederle 成为第一位游过英吉利海峡的女性。
+- - 1917 年：第一次世界大战：罗马尼亚和德国军队之间的马拉谢什蒂战役爆发。
+- - 1915 年：第一次世界大战：萨里拜尔战役：盟军在苏夫拉湾增援部队登陆之际发动了一次牵制性攻击。
+- - 1914年：第一次世界大战：塞尔维亚向德国宣战；奥地利对俄罗斯宣战。
+- - 1914 年：第一次世界大战：潜艇战役：英国因德国入侵比利时而向德国宣战两天后，十艘德国潜艇离开黑尔戈兰岛基地，攻击北海的皇家海军军舰。
+- - 1901 年：俄克拉荷马州的基奥瓦土地开放供白人定居，有效地消除了邻近的保留地。
+- - 1890 年：在纽约奥本监狱，凶手威廉·凯姆勒成为第一个被电椅处决的人。
+- - 1870 年：普法战争：沃尔特战役导致德国取得决定性胜利。
+- - 1870 年：普法战争：斯皮切伦战役爆发，德国取得胜利。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-08-05 02:45:56 UTC）*
+*（更新于: 2026-08-06 02:49:00 UTC）*
