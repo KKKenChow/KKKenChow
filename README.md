@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2020: Air India Express Flight 1344 overshoots the runway at Calicut International Airport in the Malappuram district of Kerala, India, and crashes, killing 21 of the 190 people on board.
-- 2008: The start of the Russo-Georgian War over the territory of South Ossetia.
-- 2007: At AT&T Park, Barry Bonds hits his 756th career home run to surpass Hank Aaron's 33-year-old record.
-- 1999: The Chechnya-based Islamic International Brigade invades neighboring Dagestan.
-- 1998: Bombings at United States embassies in Dar es Salaam, Tanzania and Nairobi, Kenya kill approximately 212 people.
-- 1997: Fine Air Flight 101 crashes after takeoff from Miami International Airport, killing five people.
-- 1997: Space Shuttle Program: The Space Shuttle Discovery launches on STS-85 from the Kennedy Space Center in Cape Canaveral, Florida.
-- 1995: The Chilean government declares state of emergency in the southern half of the country in response to an event of intense, cold, wind, rain and snowfall known as the White Earthquake.
-- 1993: Ada Deer, a Menominee activist, is sworn in as the head of the Bureau of Indian Affairs.
-- 1990: First American soldiers arrive in Saudi Arabia as part of the Gulf War.
-- 1989: The National Cold Fusion Institute opened in Salt Lake City.
-- 1989: U.S. Congressman Mickey Leland (D-TX) and 15 others die in a plane crash in Ethiopia.
-- 1987: Cold War: Lynne Cox becomes the first person to swim from the United States to the Soviet Union, crossing the Bering Strait from Little Diomede Island in Alaska to Big Diomede in the Soviet Union.
-- 1985: Takao Doi, Mamoru Mohri and Chiaki Mukai are chosen to be Japan's first astronauts.
-- 1981: The Washington Star ceases all operations after 128 years of publication.
-- 1978: U.S. President Jimmy Carter declares a federal emergency at Love Canal due to toxic waste that had been disposed of negligently.
-- 1976: Viking program: Viking 2 enters orbit around Mars.
-- 1974: Philippe Petit performs a high wire act between the Twin Towers of the World Trade Center 1,368 feet (417 m) in the air.
-- 1970: California judge Harold Haley is taken hostage in his courtroom and killed during an effort to free George Jackson from police custody.
-- 1969: Richard Nixon appoints Luis R. Bruce, a Mohawk-Oglala Sioux and co-founder of the National Congress of American Indians, as the new commissioner of the Bureau of Indian Affairs.
-- 1964: Vietnam War: The U.S. Congress passes the Gulf of Tonkin Resolution giving U.S. President Lyndon B. Johnson broad war powers to deal with North Vietnamese attacks on American forces.
-- 1962: Canadian-born American pharmacologist Frances Oldham Kelsey is awarded the U.S. President's Award for Distinguished Federal Civilian Service for her refusal to authorize thalidomide.
-- 1960: Ivory Coast becomes independent from France.
-- 1959: Explorer program: Explorer 6 launches from the Atlantic Missile Range in Cape Canaveral, Florida.
-- 1947: The Bombay Municipal Corporation formally takes over the Bombay Electric Supply and Transport (BEST).
-- 1947: Thor Heyerdahl's balsa wood raft, the Kon-Tiki, smashes into the reef at Raroia in the Tuamotu Islands after a 101-day, 7,000 kilometres (4,300 mi) journey across the Pacific Ocean in an attempt to prove that pre-historic peoples could have traveled from South America.
-- 1946: The government of the Soviet Union presented a note to its Turkish counterparts which refuted the latter's sovereignty over the Turkish Straits, thus beginning the Turkish Straits crisis.
-- 1944: IBM dedicates the first program-controlled calculator, the Automatic Sequence Controlled Calculator (known best as the Harvard Mark I).
-- 1942: World War II: The Battle of Guadalcanal begins as the United States Marines initiate the first American offensive of the war with landings on Guadalcanal and Tulagi in the Solomon Islands.
-- 1933: The Kingdom of Iraq slaughters over 3,000 Assyrians in the village of Simele. This date is recognized as Martyrs Day or National Day of Mourning by the Assyrian community in memory of the Simele massacre.
+- 2024: Nobel laureate Muhammad Yunus takes oath as Chief Adviser to form an interim government in Bangladesh.
+- 2023: Hawaii wildfires: Seventeen thousand acres of land are burned and at least 101 people are killed, with two others missing, when a series of wildfires break out on the island of Maui in Hawaii.
+- 2022: The Federal Bureau of Investigation (FBI) executes a search warrant at former president Donald Trump's residence in Mar-a-Lago, Palm Beach, Florida.
+- 2019: An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills five people.
+- 2016: Terrorists attack a government hospital in Quetta, Pakistan with a suicide blast and shooting, killing between 70 and 94 people, and injuring around 130 others.
+- 2015: Eight people are killed in a shooting in Harris County, Texas.
+- 2013: A suicide bombing at a funeral in the Pakistani city of Quetta kills at least 31 people.
+- 2010: China Floods: A mudslide in Zhugqu County, Gansu, China, kills more than 1,400 people.
+- 2009: A Eurocopter AS350 Écureuil and Piper PA-32R collide over the Hudson River, killing nine people.
+- 2008: The 29th modern summer Olympic Games took place in Beijing, China until August 24.
+- 2008: A EuroCity express train en route from Kraków, Poland to Prague, Czech Republic strikes a part of a motorway bridge that had fallen onto the railroad track near Studénka railway station in the Czech Republic and derails, killing eight people and injuring 64 others.
+- 2007: Space Shuttle program: STS-118 Mission: Endeavour takes off on a mission to the International Space Station.
+- 2007: An EF2 tornado touches down in Kings County and Richmond County, New York, the most powerful tornado in New York to date and the first in Brooklyn since 1889.
+- 2004: A tour bus belonging to the Dave Matthews Band dumps approximately 800 pounds of human waste onto a boat full of passengers.
+- 2001: Albanian rebels ambush a convoy of the Army of the Republic of Macedonia near Tetovo, killing 10 soldiers.
+- 2000: Confederate submarine H.L. Hunley is raised to the surface after 136 years on the ocean floor and 30 years after its discovery by undersea explorer E. Lee Spence.
+- 1998: Iranian consulate in Mazar-i-Sharif, Afghanistan is raided by Taliban leading to the deaths of ten Iranian diplomats and a journalist.
+- 1993: The 7.8 Mw  Guam earthquake shakes the island with a maximum Mercalli intensity of IX (Violent), causing around $250 million in damage and injuring up to 71 people.
+- 1991: The Warsaw radio mast, then the tallest construction ever built, collapses.
+- 1990: Iraq occupies Kuwait and the state is annexed to Iraq. This would lead to the Gulf War shortly afterward.
+- 1989: Space Shuttle program: STS-28 Mission: Space Shuttle Columbia takes off on a secret five-day military mission.
+- 1988: The first night baseball game in the history of Chicago's Wrigley Field (game was rained out in the fourth inning).
+- 1988: The 8888 Uprising begins in Rangoon (Yangon), Burma (Myanmar). Led by students, hundreds of thousands join in nationwide protests against the one-party regime. On September 18, the demonstrations end in a military crackdown, killing thousands.
+- 1974: President Richard Nixon, in a nationwide television address, announces his resignation from the office of the President of the United States effective noon the next day.
+- 1973: Kim Dae-jung, a South Korean politician and later president of South Korea, is kidnapped.
+- 1969: At a zebra crossing in London, photographer Iain Macmillan takes the iconic photo that becomes the cover image of the Beatles' album Abbey Road.
+- 1967: The Association of Southeast Asian Nations (ASEAN) is founded by Indonesia, Malaysia, the Philippines, Singapore and Thailand.
+- 1963: The Zimbabwe African National Union (ZANU), the current ruling party of Zimbabwe, is formed by a split from the Zimbabwe African People's Union.
+- 1963: Great Train Robbery: In England, a gang of 15 train robbers steal £2.6 million in bank notes.
+- 1956: Marcinelle mining disaster in Belgium. 262 coal miners, including a substantial number of Italian migrant workers, were killed in one of the largest mining accidents in Belgian history.
 
 Data from muffinlabs
-*(Updated at: 2026-08-07 02:48:19 UTC)*
+*(Updated at: 2026-08-08 01:50:40 UTC)*
 
 # 历史上的今天 
 
-- - 2020 年：印度航空快运 1344 号航班在印度喀拉拉邦马拉普兰区卡利卡特国际机场冲出跑道并坠毁，机上 190 人中有 21 人死亡。
-- - 2008年：俄罗斯与格鲁吉亚围绕南奥塞梯领土爆发战争。
-- - 2007 年：在 AT&T 球场，巴里·邦兹 (Barry Bonds) 击出职业生涯第 756 个本垒打，超越了汉克·阿伦 (Hank Aaron) 保持 33 年来的纪录。
-- - 1999 年：以车臣为基地的伊斯兰国际旅入侵邻国达吉斯坦。
-- - 1998 年：美国驻坦桑尼亚达累斯萨拉姆和肯尼亚内罗毕大使馆发生爆炸事件，造成约 212 人死亡。
-- - 1997 年：精细航空 101 号航班从迈阿密国际机场起飞后坠毁，造成 5 人死亡。
-- - 1997 年：航天飞机计划：发现号航天飞机搭乘 STS-85 从佛罗里达州卡纳维拉尔角的肯尼迪航天中心发射升空。
-- - 1995年：智利政府宣布该国南半部进入紧急状态，以应对被称为白色地震的强烈、寒冷、风雨和降雪事件。
-- - 1993 年：梅诺米尼活动家艾达·迪尔 (Ada Deer) 宣誓就任印第安事务局局长。
-- - 1990 年：作为海湾战争的一部分，第一批美国士兵抵达沙特阿拉伯。
-- - 1989 年：国家冷聚变研究所在盐湖城成立。
-- - 1989 年：美国国会议员米基·利兰 (D-TX) 和其他 15 人在埃塞俄比亚的一次飞机失事中丧生。
-- - 1987 年：冷战：林恩·考克斯 (Lynne Cox) 成为第一个从美国游到苏联的人，从阿拉斯加的小迪奥梅德岛穿越白令海峡到达苏联的大迪奥梅德岛。
-- - 1985 年：土井隆雄、毛里卫和向井千秋被选为日本第一批宇航员。
-- - 1981 年：《华盛顿星报》在出版 128 年后停止所有运营。
-- - 1978 年：由于疏忽处置有毒废物，美国总统吉米·卡特宣布拉夫运河进入联邦紧急状态。
-- - 1976 年：维京计划：维京 2 号进入火星轨道。
-- - 1974 年：Philippe Petit 在世贸中心双塔之间 1,368 英尺（417 m）的空中进行高空钢丝表演。
-- - 1970 年：加利福尼亚州法官哈罗德·哈利在法庭上被扣为人质，并在试图将乔治·杰克逊从警方拘留中解救的过程中被杀。
-- - 1969 年：理查德·尼克松任命莫霍克-奥格拉拉苏族人、美国印第安人全国代表大会联合创始人路易斯·R·布鲁斯 (Luis R. Bruce) 为印第安人事务局新任局长。
-- - 1964 年：越南战争：美国国会通过北部湾决议，赋予美国总统林登·约翰逊广泛的战争权力，以应对北越对美军的袭击。
-- - 1962 年：加拿大出生的美国药理学家弗朗西斯·奥尔德姆·凯尔西 (Frances Oldham Kelsey) 因拒绝批准沙利度胺而被授予美国总统杰出联邦民事服务奖。
-- - 1960 年：科特迪瓦从法国独立。
-- - 1959 年：探索者计划：探索者 6 从佛罗里达州卡纳维拉尔角的大西洋导弹靶场发射。
-- - 1947 年：孟买市政公司正式接管孟买电力供应和运输公司 (BEST)。
-- - 1947 年：托尔·海尔达尔 (Thor Heyerdahl) 的轻木木筏 Kon-Tiki 在经过 101 天、7,000 公里（4,300 英里）横渡太平洋后，撞上了土阿莫土群岛拉罗亚的礁石，试图证明史前人类可能来自南美洲。
-- - 1946年：苏联政府向土耳其政府递交照会，驳斥土耳其对土耳其海峡的主权，土耳其海峡危机由此开始。
-- - 1944 年：IBM 推出第一台程序控制计算器，即自动序列控制计算器（最著名的是哈佛 Mark I）。
-- - 1942 年：第二次世界大战：瓜达尔卡纳尔岛战役开始，美国海军陆战队在所罗门群岛的瓜达尔卡纳尔岛和图拉吉岛登陆，发起美国在战争中的第一次攻势。
-- - 1933 年：伊拉克王国在 Simele 村屠杀了 3,000 多名亚述人。亚述社区将这一天定为烈士日或全国哀悼日，以纪念西梅莱大屠杀。
+- - 2024 年：诺贝尔奖获得者穆罕默德·尤努斯宣誓就任孟加拉国临时政府首席顾问。
+- - 2023 年：夏威夷山火：夏威夷毛伊岛爆发一系列山火，17000 英亩土地被烧毁，至少 101 人死亡，另有两人失踪。
+- - 2022 年：联邦调查局 (FBI) 对前总统唐纳德·特朗普位于佛罗里达州棕榈滩海湖庄园的住所执行搜查令。
+- - 2019 年：俄罗斯尼奥诺克萨国家中央海军试验场发生爆炸，造成 5 人死亡。
+- - 2016 年：恐怖分子以自杀式爆炸和枪击袭击了巴基斯坦奎达的一家政府医院，造成 70 至 94 人死亡，约 130 人受伤。
+- - 2015 年：德克萨斯州哈里斯县发生枪击事件，造成 8 人死亡。
+- - 2013 年：巴基斯坦奎达市一场葬礼上发生自杀式爆炸事件，造成至少 31 人死亡。
+- - 2010 年：中国洪水：中国甘肃省诸曲县发生泥石流，造成 1,400 多人死亡。
+- - 2009 年：一架欧洲直升机 AS350 Écureuil 和 Piper PA-32R 在哈德逊河上空相撞，造成 9 人死亡。
+- - 2008年：第29届现代夏季奥运会在中国北京举行至8月24日。
+- - 2008年：一列从波兰克拉科夫开往捷克共和国布拉格的EuroCity特快列车撞上捷克共和国斯图登卡火车站附近铁轨上一座高速公路桥的一部分并脱轨，造成8人死亡、64人受伤。
+- - 2007 年：航天飞机计划：STS-118 任务：奋进号起飞执行前往国际空间站的任务。
+- - 2007 年：EF2 龙卷风登陆纽约州金斯县和里士满县，这是纽约迄今为止最强大的龙卷风，也是自 1889 年以来布鲁克林的第一场龙卷风。
+- - 2004 年：戴夫·马修斯乐队 (Dave Matthews Band) 的一辆旅游巴士将大约 800 磅的人类排泄物倾倒到一艘满载乘客的船上。
+- - 2001年：阿尔巴尼亚叛军在泰托沃附近伏击马其顿共和国军队的一支车队，造成10名士兵死亡。
+- - 2000 年：联邦潜艇 H.L. Hunley 在海底沉没 136 年后，被海底探险家 E. Lee Spence 发现 30 年后，被打捞出水面。
+- - 1998年：伊朗驻阿富汗马扎里沙里夫领事馆遭到塔利班袭击，导致十名伊朗外交官和一名记者死亡。
+- - 1993 年：关岛发生 7.8 兆瓦地震，最大麦卡利强度为 IX（强烈），造成约 2.5 亿美元的损失，并造成多达 71 人受伤。
+- - 1991 年：当时有史以来最高的建筑华沙无线电桅杆倒塌。
+- - 1990年：伊拉克占领科威特，该国并入伊拉克。这将导致不久之后的海湾战争。
+- - 1989 年：航天飞机计划：STS-28 任务：哥伦比亚号航天飞机起飞执行为期五天的秘密军事任务。
+- - 1988 年：芝加哥瑞格利球场历史上第一场夜间棒球比赛（比赛在第四局因雨而取消）。
+- - 1988年：8888起义在缅甸仰光（Yangon）爆发。在学生的带领下，数十万人参加了全国范围内反对一党专政的抗议活动。9 月 18 日，示威活动以军事镇压结束，造成数千人死亡。
+- - 1974 年：理查德·尼克松总统在全国电视讲话中宣布，自第二天中午起辞去美国总统职务。
+- - 1973 年：韩国政治家、后来的韩国总统金大中被绑架。
+- - 1969 年：摄影师 Iain Macmillan 在伦敦的斑马线上拍摄了一张标志性照片，该照片成为披头士乐队专辑《Abbey Road》的封面图片。
+- - 1967 年：印度尼西亚、马来西亚、菲律宾、新加坡和泰国成立东南亚国家联盟 (ASEAN)。
+- - 1963年：津巴布韦非洲民族联盟（ZANU）是津巴布韦现任执政党，由津巴布韦非洲人民联盟分裂而成。
+- - 1963 年：火车大劫案：在英格兰，由 15 名火车劫匪组成的团伙盗窃了 260 万英镑的钞票。
+- - 1956 年：比利时马西内勒矿难。比利时历史上最大的矿难之一导致 262 名煤矿工人丧生，其中包括大量意大利移民工人。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-08-07 02:48:19 UTC）*
+*（更新于: 2026-08-08 01:50:40 UTC）*
