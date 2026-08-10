@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Voepass Linhas Aéreas Flight 2283 crashes near Vinhedo, São Paulo, killing all 62 people on board.
-- 2021: The Tampere light rail officially starts operating.
-- 2014: Michael Brown, an 18-year-old African American male in Ferguson, Missouri, is shot and killed by a Ferguson police officer after reportedly assaulting the officer and attempting to steal his weapon, sparking protests and unrest in the city.
-- 2013: Gunmen open fire at a Sunni mosque in the city of Quetta killing at least ten people and injuring 30.
-- 2012: Shannon Eastin becomes the first woman to officiate an NFL game.
-- 2007: Air Moorea Flight 1121 crashes after takeoff from Moorea Airport in French Polynesia, killing all 20 people on board.
-- 2006: At least 21 suspected terrorists are arrested in the 2006 transatlantic aircraft plot that happened in the United Kingdom. The arrests are made in London, Birmingham, and High Wycombe in an overnight operation.
-- 1999: Russian president Boris Yeltsin fires his prime minister, Sergei Stepashin, and for the fourth time fires his entire cabinet.
-- 1995: Aviateca Flight 901 crashes into the San Vicente volcano in El Salvador, killing all 65 people on board.
-- 1993: The Liberal Democratic Party of Japan loses a 38-year hold on national leadership.
-- 1991: The Italian prosecuting magistrate Antonino Scopelliti is murdered by the 'Ndrangheta on behalf of the Sicilian Mafia while preparing the government's case in the final appeal of the Maxi Trial.
-- 1974: As a direct result of the Watergate scandal, Richard Nixon becomes the first president of the United States to resign from office. Vice President Gerald Ford becomes president.
-- 1973: Mars 7 is launched from the USSR.
-- 1971: The Troubles: In Northern Ireland, the British authorities launch Operation Demetrius. The operation involves the mass arrest and internment without trial of individuals suspected of being affiliated with the Irish Republican Army (PIRA). Mass riots follow, and thousands of people flee or are forced out of their homes.
-- 1970: LANSA Flight 502 crashes after takeoff from Alejandro Velasco Astete International Airport in Cusco, Peru, killing 99 of the 100 people on board, as well as two people on the ground.
-- 1969: Tate-LaBianca murders: Followers of Charles Manson murder pregnant actress Sharon Tate (wife of Roman Polanski), coffee heiress Abigail Folger, Polish actor Wojciech Frykowski, men's hairstylist Jay Sebring and recent high-school graduate Steven Parent.
-- 1965: Singapore is expelled from Malaysia.
-- 1960: South Kasai secedes from the Congo.
-- 1945: The Red Army invades Japanese-occupied Manchuria.
-- 1945: World War II: Nagasaki is devastated when an atomic bomb, Fat Man, is dropped by the United States B-29 Bockscar. Thirty-five thousand people are killed outright, including 23,200-28,200 Japanese war workers, 2,000 Korean forced workers, and 150 Japanese soldiers.
-- 1944: World War II: Continuation War: The Vyborg-Petrozavodsk Offensive, the largest offensive launched by Soviet Union against Finland during the Second World War, ends to a strategic stalemate. Both Finnish and Soviet troops at the Finnish front dug to defensive positions, and the front remains stable until the end of the war.
-- 1944: The United States Forest Service and the Wartime Advertising Council release posters featuring Smokey Bear for the first time.
-- 1942: Dmitri Shostakovich's 7th symphony premiers in a besieged Leningrad.
-- 1942: World War II: Battle of Savo Island: Allied naval forces protecting their amphibious forces during the initial stages of the Battle of Guadalcanal are surprised and defeated by an Imperial Japanese Navy cruiser force.
-- 1936: Summer Olympics: Jesse Owens wins his fourth gold medal at the games.
-- 1925: A train robbery takes place in Kakori, near Lucknow, India, by the Indian independence revolutionaries, against the British government.
-- 1907: The first Boy Scout encampment concludes at Brownsea Island in southern England.
-- 1902: Edward VII and Alexandra of Denmark are crowned King and Queen of the United Kingdom of Great Britain and Ireland.
-- 1897: The first International Congress of Mathematicians is held in Zürich, Switzerland.
-- 1892: Thomas Edison receives a patent for a two-way telegraph.
+- 2024:   Israel strikes Al-Tabaeen school in eastern Gaza City, killing at least 80 Palestinians.
+- 2020: Derecho in Iowa becomes the most costly thunderstorm disaster in U.S. history.
+- 2019: Philip Manshaus shoots his stepsister and attacks a mosque in the Bærum mosque shooting.
+- 2019: Thirty-two are killed and one million are evacuated as Typhoon Lekima makes landfall in Zhejiang, China. Earlier it had caused flooding in the Philippines.
+- 2018: An anti-government rally turns into a riot when members of the Romanian Gendarmerie attack the 100,000 people protesting in front of the Victoria Palace, leading to 452 recorded injuries. The authorities alleged that the crowd was infiltrated by hooligans who began attacking law enforcement agents.
+- 2018: Horizon Air employee Richard Russell hijacks and performs an unauthorized takeoff on a Horizon Air Bombardier Dash 8 Q400 plane at Seattle-Tacoma International Airport in Washington, flying it for more than an hour before crashing the plane and killing himself on Ketron Island in Puget Sound.
+- 2014: Forty people are killed when Sepahan Airlines Flight 5915 crashes at Tehran's Mehrabad International Airport.
+- 2012: The Marikana massacre begins near Rustenburg, South Africa, resulting in the deaths of 47 people.
+- 2009: Twenty people are killed in Handlová, Trenčín Region, in the deadliest mining disaster in Slovakia's history.
+- 2003: The Okinawa Urban Monorail is opened in Naha, Okinawa.
+- 2001: Space Shuttle program: The Space Shuttle Discovery is launched on STS-105 to the International Space Station, carrying the astronauts of Expedition 3 to replace the crew of Expedition 2.
+- 2001: The 2001 Angola train attack occurred, causing 252 deaths.
+- 1999: One person is killed and five people are injured in the Los Angeles Jewish Community Center shooting.
+- 1998: HRH Prince Al-Muhtadee Billah is proclaimed the crown prince of Brunei with a Royal Proclamation.
+- 1997: Sixteen people are killed when Formosa Airlines Flight 7601 crashes near Beigan Airport in the Matsu Islands of Taiwan.
+- 1995: Oklahoma City bombing: Timothy McVeigh and Terry Nichols are indicted for the bombing. Michael Fortier pleads guilty in a plea-bargain for his testimony.
+- 1993: Two earthquakes affect New Zealand. A 7.0 Mw  shock (intensity VI (Strong)) in the South Island was followed nine hours later by a 6.4 Mw  event (intensity VII (Very strong)) in the North Island.
+- 1990: The Magellan space probe reaches Venus.
+- 1988: Japanese American internment: U.S. President Ronald Reagan signs the Civil Liberties Act of 1988, providing $20,000 payments to Japanese Americans who were either interned in or relocated by the United States during World War II.
+- 1981: Murder of Adam Walsh: The head of John Walsh's son is found. This inspires the creation of the television series America's Most Wanted and the National Center for Missing & Exploited Children.
+- 1978: Three members of the Ulrich family are killed in an accident. This leads to the Ford Pinto litigation.
+- 1977: In Yonkers, New York, 24-year-old postal employee David Berkowitz ("Son of Sam") is arrested for a series of killings in the New York City area over the period of one year.
+- 1971: The Society for American Baseball Research is founded in Cooperstown, New York.
+- 1969: A day after murdering actress Sharon Tate and four others, members of Charles Manson's cult kill Leno and Rosemary LaBianca.
+- 1966: The Heron Road Bridge collapses while being built, killing nine workers in the deadliest construction accident in both Ottawa and Ontario.
+- 1961: Vietnam War: The U.S. Army begins Operation Ranch Hand, spraying an estimated 20 million US gallons (76,000 m3) of defoliants and herbicides over rural areas of South Vietnam in an attempt to deprive the Viet Cong of food and vegetation cover.
+- 1954: At Massena, New York, the groundbreaking ceremony for the Saint Lawrence Seaway is held.
+- 1953: First Indochina War: The French Union withdraws its forces from Operation Camargue against the Viet Minh in central Vietnam.
+- 1949: An amendment to the National Security Act of 1947 enhances the authority of the United States Secretary of Defense over the Army, Navy and Air Force, and replaces the National Military Establishment with the Department of Defense.
+- 1948: Candid Camera makes its television debut after being on radio for a year as The Candid Microphone.
 
 Data from muffinlabs
-*(Updated at: 2026-08-09 01:57:43 UTC)*
+*(Updated at: 2026-08-10 02:02:13 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：Voepass Linhas Aéreas 2283 号航班在圣保罗 Vinhedo 附近坠毁，机上 62 人全部遇难。
-- - 2021年：坦佩雷轻轨正式开始运营。
-- - 2014 年：密苏里州弗格森市的 18 岁非裔美国男性迈克尔·布朗 (Michael Brown) 被一名弗格森警察开枪打死，据报道，他袭击了警察并试图偷走他的武器，引发了该市的抗议和骚乱。
-- - 2013 年：枪手向奎达市的一座逊尼派清真寺开枪，造成至少 10 人死亡、30 人受伤。
-- - 2012 年：Shannon Eastin 成为第一位执法 NFL 比赛的女性。
-- - 2007 年：莫雷阿航空 1121 号航班从法属波利尼西亚莫雷阿机场起飞后坠毁，机上 20 人全部遇难。
-- - 2006年：2006年英国发生的跨大西洋飞机阴谋中，至少21名恐怖分子嫌疑人被捕。伦敦、伯明翰和海威科姆的逮捕行动是连夜进行的。
-- - 1999 年：俄罗斯总统鲍里斯·叶利钦解雇了总理谢尔盖·斯捷帕辛，并第四次解雇了整个内阁。
-- - 1995 年：Aviateca 901 航班坠入萨尔瓦多的圣维森特火山，机上 65 人全部遇难。
-- - 1993 年：日本自民党失去了长达 38 年的国家领导地位。
-- - 1991 年：意大利检察官安东尼诺·斯科佩利蒂 (Antonino Scopelliti) 在马克西审判的最终上诉中准备政府案件时，被代表西西里黑手党的光荣会谋杀。
-- - 1974 年：水门事件丑闻的直接结果是，理查德·尼克松成为第一位辞职的美国总统。副总统杰拉尔德·福特就任总统。
-- - 1973 年：火星 7 号从苏联发射。
-- - 1971 年：麻烦：在北爱尔兰，英国当局发起了德米特里行动。该行动涉及在未经审判的情况下大规模逮捕和拘留涉嫌隶属于爱尔兰共和军（PIRA）的个人。随后发生大规模骚乱，数千人逃离或被迫离开家园。
-- - 1970 年：LANSA 502 航班从秘鲁库斯科亚历杭德罗·贝拉斯科·阿斯泰特国际机场起飞后坠毁，机上 100 人中的 99 人以及地面上的两人丧生。
-- - 1969 年：泰特-拉比安卡谋杀案：查尔斯·曼森的追随者谋杀了怀孕的女演员莎朗·塔特（罗曼·波兰斯基的妻子）、咖啡女继承人阿比盖尔·福尔格、波兰演员沃伊切赫·弗莱科斯基、男士发型师杰伊·塞布林和刚高中毕业的史蒂文·帕伦特。
-- - 1965年：新加坡被马来西亚驱逐。
-- - 1960 年：南开赛脱离刚果。
-- - 1945 年：红军入侵日占满洲里。
-- - 1945 年：第二次世界大战：美国 B-29 Bockscar 轰炸机投下一颗“胖子”原子弹，长崎陷入一片废墟。35,000 人被直接杀害，其中包括 23,200-28,200 名日本战争工人、2,000 名朝鲜强迫劳工和 150 名日本士兵。
-- - 1944年：第二次世界大战：延续战争：维堡-彼得罗扎沃茨克攻势是第二次世界大战期间苏联对芬兰发起的最大规模攻势，最终陷入战略僵局。芬兰前线的芬兰和苏联军队都挖出了防御阵地，前线一直保持稳定直到战争结束。
-- - 1944 年：美国林务局和战时广告委员会首次发布以烟熏熊为主题的海报。
-- - 1942 年：德米特里·肖斯塔科维奇的第七交响曲在被围困的列宁格勒首演。
-- - 1942 年：第二次世界大战：萨沃岛海战：在瓜达尔卡纳尔岛海战初期保护其两栖部队的盟军海军部队意外被日本帝国海军巡洋舰部队击败。
-- - 1936 年：夏季奥运会：杰西·欧文斯 (Jesse Owens) 在奥运会上赢得了他的第四枚金牌。
-- - 1925 年：印度独立革命者在印度勒克瑙附近的卡科里发生了一起针对英国政府的火车抢劫案。
-- - 1907 年：第一次童子军营地在英格兰南部的白浪岛结束。
-- - 1902 年：爱德华七世和丹麦的亚历山德拉加冕为大不列颠及爱尔兰联合王国国王和王后。
-- - 1897 年：第一届国际数学家大会在瑞士苏黎世举行。
-- - 1892 年：托马斯·爱迪生获得双向电报机专利。
+- - 2024 年：以色列袭击加沙城东部的 Al-Tabaeen 学校，造成至少 80 名巴勒斯坦人死亡。
+- - 2020 年：爱荷华州的德雷乔成为美国历史上损失最惨重的雷暴灾害。
+- - 2019 年：在贝鲁姆清真寺枪击事件中，菲利普·曼斯豪斯 (Philip Manshaus) 枪杀了他的继姐妹并袭击了一座清真寺。
+- - 2019 年：台风利奇马登陆中国浙江，造成 32 人死亡、100 万人撤离。早些时候，它曾在菲律宾引发洪水。
+- - 2018 年：反政府集会演变为骚乱，罗马尼亚宪兵成员袭击了维多利亚宫前的 10 万人抗议，导致 452 人受伤。当局声称，流氓混入人群，开始袭击执法人员。
+- - 2018 年：地平线航空员工理查德·拉塞尔 (Richard Russell) 在华盛顿西雅图-塔科马国际机场劫持了一架地平线航空庞巴迪 Dash 8 Q400 飞机，并在未经授权的情况下起飞，飞行了一个多小时后飞机坠毁并在普吉特湾的科特隆岛自杀。
+- - 2014 年：Sepahan 航空公司 5915 号航班在德黑兰梅赫拉巴德国际机场坠毁，造成 40 人死亡。
+- - 2012 年：南非勒斯滕堡附近发生马里卡纳大屠杀，造成 47 人死亡。
+- - 2009 年：特伦钦地区汉德洛瓦发生了斯洛伐克历史上最严重的矿难，造成 20 人死亡。
+- - 2003 年：冲绳都市单轨电车在冲绳那霸市开通。
+- - 2001年：航天飞机计划：发现号航天飞机由STS-105发射到国际空间站，搭载远征3的宇航员取代远征2的机组人员。
+- - 2001年：2001年安哥拉发生火车袭击事件，造成252人死亡。
+- - 1999 年：洛杉矶犹太社区中心发生枪击事件，造成 1 人死亡、5 人受伤。
+- - 1998 年：阿尔穆塔迪·比拉 (Al-Muhtadee Billah) 王子殿下通过皇家公告被宣布为文莱王储。
+- - 1997 年：台塑航空 7601 航班在台湾马祖群岛北竿机场附近坠毁，造成 16 人死亡。
+- - 1995 年：俄克拉荷马城爆炸案：蒂莫西·麦克维和特里·尼科尔斯因爆炸案被起诉。迈克尔·福蒂尔在认罪交易中为其证词认罪。
+- - 1993 年：新西兰发生两次地震。南岛发生了 7.0 Mw 地震（强度 VI（强）），九小时后，北岛发生了 6.4 Mw 地震（强度 VII（非常强））。
+- - 1990 年：麦哲伦太空探测器抵达金星。
+- - 1988 年：日裔美国人被拘留：美国总统罗纳德·里根签署了 1988 年《公民自由法案》，向二战期间被拘留或被美国重新安置的日裔美国人提供 20,000 美元的补助。
+- - 1981 年：亚当·沃尔什谋杀案：约翰·沃尔什儿子的头颅被发现。这激发了电视剧《美国头号通缉犯》和国家失踪与受虐儿童中心的创作。
+- - 1978 年：乌尔里希家族的三名成员在一次事故中丧生。这导致了福特平托诉讼。
+- - 1977 年：在纽约州扬克斯，24 岁的邮政员工 David Berkowitz（“山姆之子”）因一年内在纽约市地区发生的一系列杀人事件而被捕。
+- - 1971 年：美国棒球研究协会在纽约库珀斯敦成立。
+- - 1969 年：谋杀女演员莎朗·塔特和其他四人的第二天，查尔斯·曼森邪教成员又杀害了莱诺和罗斯玛丽·拉比安卡。
+- - 1966 年：Heron Road 大桥在建造过程中倒塌，造成渥太华和安大略省最严重的建筑事故，造成 9 名工人死亡。
+- - 1961 年：越南战争：美国陆军开始“牧场之手”行动，在南越农村地区喷洒了约 2000 万加仑（76,000 立方米）的落叶剂和除草剂，试图剥夺越共的食物和植被覆盖。
+- - 1954 年：在纽约州马塞纳，举行了圣劳伦斯海道的奠基仪式。
+- - 1953 年：第一次印度支那战争：法国联盟从针对越南中部越盟的卡马格行动中撤军。
+- - 1949年：1947年《国家安全法》的修正案增强了美国国防部长对陆军、海军和空军的权力，并用国防部取代了国家军事机构。
+- - 1948 年：《Candid Camera》以《The Candid Microphone》的名义在广播电台播出一年后首次在电视上亮相。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-08-09 01:57:43 UTC）*
+*（更新于: 2026-08-10 02:02:13 UTC）*
