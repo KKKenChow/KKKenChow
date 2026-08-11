@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024:   Israel strikes Al-Tabaeen school in eastern Gaza City, killing at least 80 Palestinians.
-- 2020: Derecho in Iowa becomes the most costly thunderstorm disaster in U.S. history.
-- 2019: Philip Manshaus shoots his stepsister and attacks a mosque in the Bærum mosque shooting.
-- 2019: Thirty-two are killed and one million are evacuated as Typhoon Lekima makes landfall in Zhejiang, China. Earlier it had caused flooding in the Philippines.
-- 2018: An anti-government rally turns into a riot when members of the Romanian Gendarmerie attack the 100,000 people protesting in front of the Victoria Palace, leading to 452 recorded injuries. The authorities alleged that the crowd was infiltrated by hooligans who began attacking law enforcement agents.
-- 2018: Horizon Air employee Richard Russell hijacks and performs an unauthorized takeoff on a Horizon Air Bombardier Dash 8 Q400 plane at Seattle-Tacoma International Airport in Washington, flying it for more than an hour before crashing the plane and killing himself on Ketron Island in Puget Sound.
-- 2014: Forty people are killed when Sepahan Airlines Flight 5915 crashes at Tehran's Mehrabad International Airport.
-- 2012: The Marikana massacre begins near Rustenburg, South Africa, resulting in the deaths of 47 people.
-- 2009: Twenty people are killed in Handlová, Trenčín Region, in the deadliest mining disaster in Slovakia's history.
-- 2003: The Okinawa Urban Monorail is opened in Naha, Okinawa.
-- 2001: Space Shuttle program: The Space Shuttle Discovery is launched on STS-105 to the International Space Station, carrying the astronauts of Expedition 3 to replace the crew of Expedition 2.
-- 2001: The 2001 Angola train attack occurred, causing 252 deaths.
-- 1999: One person is killed and five people are injured in the Los Angeles Jewish Community Center shooting.
-- 1998: HRH Prince Al-Muhtadee Billah is proclaimed the crown prince of Brunei with a Royal Proclamation.
-- 1997: Sixteen people are killed when Formosa Airlines Flight 7601 crashes near Beigan Airport in the Matsu Islands of Taiwan.
-- 1995: Oklahoma City bombing: Timothy McVeigh and Terry Nichols are indicted for the bombing. Michael Fortier pleads guilty in a plea-bargain for his testimony.
-- 1993: Two earthquakes affect New Zealand. A 7.0 Mw  shock (intensity VI (Strong)) in the South Island was followed nine hours later by a 6.4 Mw  event (intensity VII (Very strong)) in the North Island.
-- 1990: The Magellan space probe reaches Venus.
-- 1988: Japanese American internment: U.S. President Ronald Reagan signs the Civil Liberties Act of 1988, providing $20,000 payments to Japanese Americans who were either interned in or relocated by the United States during World War II.
-- 1981: Murder of Adam Walsh: The head of John Walsh's son is found. This inspires the creation of the television series America's Most Wanted and the National Center for Missing & Exploited Children.
-- 1978: Three members of the Ulrich family are killed in an accident. This leads to the Ford Pinto litigation.
-- 1977: In Yonkers, New York, 24-year-old postal employee David Berkowitz ("Son of Sam") is arrested for a series of killings in the New York City area over the period of one year.
-- 1971: The Society for American Baseball Research is founded in Cooperstown, New York.
-- 1969: A day after murdering actress Sharon Tate and four others, members of Charles Manson's cult kill Leno and Rosemary LaBianca.
-- 1966: The Heron Road Bridge collapses while being built, killing nine workers in the deadliest construction accident in both Ottawa and Ontario.
-- 1961: Vietnam War: The U.S. Army begins Operation Ranch Hand, spraying an estimated 20 million US gallons (76,000 m3) of defoliants and herbicides over rural areas of South Vietnam in an attempt to deprive the Viet Cong of food and vegetation cover.
-- 1954: At Massena, New York, the groundbreaking ceremony for the Saint Lawrence Seaway is held.
-- 1953: First Indochina War: The French Union withdraws its forces from Operation Camargue against the Viet Minh in central Vietnam.
-- 1949: An amendment to the National Security Act of 1947 enhances the authority of the United States Secretary of Defense over the Army, Navy and Air Force, and replaces the National Military Establishment with the Department of Defense.
-- 1948: Candid Camera makes its television debut after being on radio for a year as The Candid Microphone.
+- 2023: Luna 25 launches from the Vostochny Cosmodrome.
+- 2017: At least 41 people are killed and another 179 injured after two passenger trains collide in Alexandria, Egypt.
+- 2012: At least 306 people are killed and 3,000 others injured in a pair of earthquakes near Tabriz, Iran.
+- 2006: The oil tanker MT Solar 1 sinks off the coast of Guimaras and Negros Islands in the Philippines, causing the country's worst oil spill.
+- 2003: Jemaah Islamiyah leader Riduan Isamuddin, better known as Hambali, is arrested in Bangkok, Thailand.
+- 2003: NATO takes over command of the peacekeeping force in Afghanistan, marking its first major operation outside Europe in its 54-year-history.
+- 2000: An air rage incident occurs on board Southwest Airlines Flight 1763 when 19-year-old Jonathan Burton attempts to storm the cockpit, but he is subdued by other passengers and dies from his injuries.
+- 1995: The Russell Hill subway accident in Toronto kills 3 and injures 30, due to a combination of human error and a safety system design flaw.
+- 1992: The Mall of America in Bloomington, Minnesota opens. At the time the largest shopping mall in the United States.
+- 1991: Nickelodeon's first line of "Nicktoons" (Doug, Rugrats & Ren & Stimpy) premiere on the channel.
+- 1988: A meeting between Sayyed Imam Al-Sharif, Osama bin Laden, Abdullah Yusuf Azzam, and leaders of Egyptian Islamic Jihad in Afghanistan culminates in the formation of Al-Qaeda.
+- 1984: "We begin bombing in five minutes": United States President Ronald Reagan, while running for re-election, jokes while preparing to make his weekly Saturday address on National Public Radio.
+- 1982: A bomb explodes on Pan Am Flight 830, en route from Tokyo, Japan to Honolulu, Hawaii, killing one passenger and injuring 15 others.
+- 1979: Two Aeroflot Tupolev Tu-134s collide over the Ukrainian city of Dniprodzerzhynsk and crash, killing all 178 aboard both airliners.
+- 1975: East Timor: Governor Mário Lemos Pires of Portuguese Timor abandons the capital Dili, following a coup by the Timorese Democratic Union (UDT) and the outbreak of civil war between UDT and Fretilin.
+- 1973: At the 1520 Sedgwick Avenue apartment building in The Bronx, New York, DJ Kool Herc hosts a house party widely considered to mark the birthplace of hip-hop culture and music. DJ Kool Herc demonstrates a new technique of beat juggling and Coke La Rock performs a new style of vocal performance called rapping.
+- 1972: Vietnam War: The last United States ground combat unit leaves South Vietnam.
+- 1969: The Apollo 11 astronauts are released from a three-week quarantine following their liftoff from the Moon.
+- 1965: Race riots (the Watts Riots) begin in the Watts area of Los Angeles, California.
+- 1962: Vostok 3 launches from the Baikonur Cosmodrome and cosmonaut Andrian Nikolayev becomes the first person to float in microgravity.
+- 1961: The former Portuguese territories in India of Dadra and Nagar Haveli are merged to create the Union Territory Dadra and Nagar Haveli.
+- 1960: Chad declares independence from France.
+- 1959: Sheremetyevo International Airport, the second-largest airport in Russia, opens.
+- 1952: Hussein bin Talal is proclaimed King of Jordan.
+- 1945: Poles in Kraków engage in a pogrom against Jews in the city, killing one and wounding five.
+- 1942: Actress Hedy Lamarr and composer George Antheil receive a patent for a Frequency-hopping spread spectrum communication system that later became the basis for modern technologies in wireless telephones, two-way radio communications, and Wi-Fi.
+- 1934: The first civilian prisoners arrive at the Federal prison on Alcatraz Island.
+- 1929: Babe Ruth becomes the first baseball player to hit 500 home runs in his career with a home run at League Park in Cleveland, Ohio.
+- 1920: The Latvian-Soviet Peace Treaty, which relinquished Russia's authority and pretenses to Latvia, is signed, ending the Latvian War of Independence.
+- 1920: The 1920 Cork hunger strike begins which eventually results in the deaths of three Irish Republicans including the Lord Mayor of Cork Terence MacSwiney.
 
 Data from muffinlabs
-*(Updated at: 2026-08-10 02:02:13 UTC)*
+*(Updated at: 2026-08-11 01:57:31 UTC)*
 
 # 历史上的今天 
 
-- - 2024 年：以色列袭击加沙城东部的 Al-Tabaeen 学校，造成至少 80 名巴勒斯坦人死亡。
-- - 2020 年：爱荷华州的德雷乔成为美国历史上损失最惨重的雷暴灾害。
-- - 2019 年：在贝鲁姆清真寺枪击事件中，菲利普·曼斯豪斯 (Philip Manshaus) 枪杀了他的继姐妹并袭击了一座清真寺。
-- - 2019 年：台风利奇马登陆中国浙江，造成 32 人死亡、100 万人撤离。早些时候，它曾在菲律宾引发洪水。
-- - 2018 年：反政府集会演变为骚乱，罗马尼亚宪兵成员袭击了维多利亚宫前的 10 万人抗议，导致 452 人受伤。当局声称，流氓混入人群，开始袭击执法人员。
-- - 2018 年：地平线航空员工理查德·拉塞尔 (Richard Russell) 在华盛顿西雅图-塔科马国际机场劫持了一架地平线航空庞巴迪 Dash 8 Q400 飞机，并在未经授权的情况下起飞，飞行了一个多小时后飞机坠毁并在普吉特湾的科特隆岛自杀。
-- - 2014 年：Sepahan 航空公司 5915 号航班在德黑兰梅赫拉巴德国际机场坠毁，造成 40 人死亡。
-- - 2012 年：南非勒斯滕堡附近发生马里卡纳大屠杀，造成 47 人死亡。
-- - 2009 年：特伦钦地区汉德洛瓦发生了斯洛伐克历史上最严重的矿难，造成 20 人死亡。
-- - 2003 年：冲绳都市单轨电车在冲绳那霸市开通。
-- - 2001年：航天飞机计划：发现号航天飞机由STS-105发射到国际空间站，搭载远征3的宇航员取代远征2的机组人员。
-- - 2001年：2001年安哥拉发生火车袭击事件，造成252人死亡。
-- - 1999 年：洛杉矶犹太社区中心发生枪击事件，造成 1 人死亡、5 人受伤。
-- - 1998 年：阿尔穆塔迪·比拉 (Al-Muhtadee Billah) 王子殿下通过皇家公告被宣布为文莱王储。
-- - 1997 年：台塑航空 7601 航班在台湾马祖群岛北竿机场附近坠毁，造成 16 人死亡。
-- - 1995 年：俄克拉荷马城爆炸案：蒂莫西·麦克维和特里·尼科尔斯因爆炸案被起诉。迈克尔·福蒂尔在认罪交易中为其证词认罪。
-- - 1993 年：新西兰发生两次地震。南岛发生了 7.0 Mw 地震（强度 VI（强）），九小时后，北岛发生了 6.4 Mw 地震（强度 VII（非常强））。
-- - 1990 年：麦哲伦太空探测器抵达金星。
-- - 1988 年：日裔美国人被拘留：美国总统罗纳德·里根签署了 1988 年《公民自由法案》，向二战期间被拘留或被美国重新安置的日裔美国人提供 20,000 美元的补助。
-- - 1981 年：亚当·沃尔什谋杀案：约翰·沃尔什儿子的头颅被发现。这激发了电视剧《美国头号通缉犯》和国家失踪与受虐儿童中心的创作。
-- - 1978 年：乌尔里希家族的三名成员在一次事故中丧生。这导致了福特平托诉讼。
-- - 1977 年：在纽约州扬克斯，24 岁的邮政员工 David Berkowitz（“山姆之子”）因一年内在纽约市地区发生的一系列杀人事件而被捕。
-- - 1971 年：美国棒球研究协会在纽约库珀斯敦成立。
-- - 1969 年：谋杀女演员莎朗·塔特和其他四人的第二天，查尔斯·曼森邪教成员又杀害了莱诺和罗斯玛丽·拉比安卡。
-- - 1966 年：Heron Road 大桥在建造过程中倒塌，造成渥太华和安大略省最严重的建筑事故，造成 9 名工人死亡。
-- - 1961 年：越南战争：美国陆军开始“牧场之手”行动，在南越农村地区喷洒了约 2000 万加仑（76,000 立方米）的落叶剂和除草剂，试图剥夺越共的食物和植被覆盖。
-- - 1954 年：在纽约州马塞纳，举行了圣劳伦斯海道的奠基仪式。
-- - 1953 年：第一次印度支那战争：法国联盟从针对越南中部越盟的卡马格行动中撤军。
-- - 1949年：1947年《国家安全法》的修正案增强了美国国防部长对陆军、海军和空军的权力，并用国防部取代了国家军事机构。
-- - 1948 年：《Candid Camera》以《The Candid Microphone》的名义在广播电台播出一年后首次在电视上亮相。
+- - 2023 年：Luna 25 从东方航天发射场发射。
+- - 2017 年：埃及亚历山大两列客运列车相撞，造成至少 41 人死亡、179 人受伤。
+- - 2012 年：伊朗大不里士附近发生两次地震，造成至少 306 人死亡、3,000 人受伤。
+- - 2006 年：MT Solar 1 号油轮在菲律宾吉马拉斯和内格罗斯群岛海岸沉没，造成该国最严重的漏油事件。
+- - 2003 年：伊斯兰祈祷团领导人 Riduan Isamuddin（更广为人知的名字是 Hambali）在泰国曼谷被捕。
+- - 2003 年：北约接管驻阿富汗维和部队的指挥权，这是其 54 年历史上在欧洲以外的首次重大行动。
+- - 2000 年：西南航空 1763 号航班上发生空怒事件，当时 19 岁的乔纳森·伯顿 (Jonathan Burton) 试图冲进驾驶舱，但被其他乘客制服并重伤身亡。
+- - 1995 年：由于人为失误和安全系统设计缺陷，多伦多 Russell Hill 地铁事故造成 3 人死亡、30 人受伤。
+- - 1992 年：明尼苏达州布卢明顿的美国购物中心开业。当时美国最大的购物中心。
+- - 1991 年：Nickelodeon 的第一行“Nicktoons”（Doug、Rugrats & Ren & Stimpy）在频道首播。
+- - 1988 年：赛义德·伊玛目·谢里夫、乌萨马·本·拉登、阿卜杜拉·优素福·阿扎姆和埃及伊斯兰圣战组织领导人在阿富汗举行会议，最终促成了基地组织的成立。
+- - 1984 年：“五分钟后我们开始轰炸”：美国总统罗纳德·里根在竞选连任时，在准备在国家公共广播电台发表每周周六讲话时开玩笑说。
+- - 1982 年：从日本东京飞往夏威夷檀香山的泛美航空 830 航班上，一枚炸弹爆炸，造成 1 名乘客死亡、15 人受伤。
+- - 1979 年：两架 Aeroflot Tupolev Tu-134 飞机在乌克兰第聂伯罗捷尔任斯克市上空相撞并坠毁，两架客机上的 178 人全部遇难。
+- - 1975年：东帝汶：东帝汶民主联盟（UDT）发动政变以及东帝汶民主联盟与革阵之间爆发内战后，葡属帝汶总督马里奥·莱莫斯·皮雷斯放弃首都帝力。
+- - 1973 年：在纽约布朗克斯塞奇威克大道 1520 号公寓楼，DJ Kool Herc 举办了一场家庭派对，该派对被广泛认为是嘻哈文化和音乐的发源地。DJ Kool Herc 展示了一种新的节奏杂耍技术，Coke La Rock 则表演了一种称为说唱的新声乐表演风格。
+- - 1972 年：越南战争：最后一支美国地面作战部队离开南越。
+- - 1969 年：阿波罗 11 号宇航员从月球升空后解除了为期三周的隔离。
+- - 1965 年：加利福尼亚州洛杉矶瓦茨地区爆发种族骚乱（瓦茨骚乱）。
+- - 1962 年：东方 3 号从拜科努尔航天发射场发射升空，宇航员安德里安·尼古拉耶夫 (Andrian Nikolayev) 成为第一个在微重力下漂浮的人。
+- - 1961 年：前葡萄牙在印度的达德拉和纳加尔哈维利领土合并，创建联邦直辖区达德拉和纳加尔哈维利。
+- - 1960 年：乍得宣布脱离法国独立。
+- - 1959 年：俄罗斯第二大机场谢列梅捷沃国际机场投入使用。
+- - 1952 年：侯赛因·本·塔拉勒被宣布为约旦国王。
+- - 1945 年：克拉科夫的波兰人对该市的犹太人进行了大屠杀，造成 1 人死亡、5 人受伤。
+- - 1942 年：女演员 Hedy Lamarr 和作曲家 George Antheil 获得跳频扩频通信系统专利，该系统后来成为无线电话、双向无线电通信和 Wi-Fi 等现代技术的基础。
+- - 1934 年：第一批平民囚犯抵达阿尔卡特拉斯岛的联邦监狱。
+- - 1929 年：贝比·鲁斯 (Babe Ruth) 在俄亥俄州克利夫兰联盟公园击出本垒打，成为职业生涯中第一位打出 500 个本垒打的棒球运动员。
+- - 1920年：签署《拉脱维亚-苏联和平条约》，将俄罗斯的权威和借口交给拉脱维亚，拉脱维亚独立战争结束。
+- - 1920 年：1920 年科克开始绝食，最终导致三名爱尔兰共和党人死亡，其中包括科克市长特伦斯·麦克斯威尼 (Terence MacSwiney)。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-08-10 02:02:13 UTC）*
+*（更新于: 2026-08-11 01:57:31 UTC）*
