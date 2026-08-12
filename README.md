@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: Luna 25 launches from the Vostochny Cosmodrome.
-- 2017: At least 41 people are killed and another 179 injured after two passenger trains collide in Alexandria, Egypt.
-- 2012: At least 306 people are killed and 3,000 others injured in a pair of earthquakes near Tabriz, Iran.
-- 2006: The oil tanker MT Solar 1 sinks off the coast of Guimaras and Negros Islands in the Philippines, causing the country's worst oil spill.
-- 2003: Jemaah Islamiyah leader Riduan Isamuddin, better known as Hambali, is arrested in Bangkok, Thailand.
-- 2003: NATO takes over command of the peacekeeping force in Afghanistan, marking its first major operation outside Europe in its 54-year-history.
-- 2000: An air rage incident occurs on board Southwest Airlines Flight 1763 when 19-year-old Jonathan Burton attempts to storm the cockpit, but he is subdued by other passengers and dies from his injuries.
-- 1995: The Russell Hill subway accident in Toronto kills 3 and injures 30, due to a combination of human error and a safety system design flaw.
-- 1992: The Mall of America in Bloomington, Minnesota opens. At the time the largest shopping mall in the United States.
-- 1991: Nickelodeon's first line of "Nicktoons" (Doug, Rugrats & Ren & Stimpy) premiere on the channel.
-- 1988: A meeting between Sayyed Imam Al-Sharif, Osama bin Laden, Abdullah Yusuf Azzam, and leaders of Egyptian Islamic Jihad in Afghanistan culminates in the formation of Al-Qaeda.
-- 1984: "We begin bombing in five minutes": United States President Ronald Reagan, while running for re-election, jokes while preparing to make his weekly Saturday address on National Public Radio.
-- 1982: A bomb explodes on Pan Am Flight 830, en route from Tokyo, Japan to Honolulu, Hawaii, killing one passenger and injuring 15 others.
-- 1979: Two Aeroflot Tupolev Tu-134s collide over the Ukrainian city of Dniprodzerzhynsk and crash, killing all 178 aboard both airliners.
-- 1975: East Timor: Governor Mário Lemos Pires of Portuguese Timor abandons the capital Dili, following a coup by the Timorese Democratic Union (UDT) and the outbreak of civil war between UDT and Fretilin.
-- 1973: At the 1520 Sedgwick Avenue apartment building in The Bronx, New York, DJ Kool Herc hosts a house party widely considered to mark the birthplace of hip-hop culture and music. DJ Kool Herc demonstrates a new technique of beat juggling and Coke La Rock performs a new style of vocal performance called rapping.
-- 1972: Vietnam War: The last United States ground combat unit leaves South Vietnam.
-- 1969: The Apollo 11 astronauts are released from a three-week quarantine following their liftoff from the Moon.
-- 1965: Race riots (the Watts Riots) begin in the Watts area of Los Angeles, California.
-- 1962: Vostok 3 launches from the Baikonur Cosmodrome and cosmonaut Andrian Nikolayev becomes the first person to float in microgravity.
-- 1961: The former Portuguese territories in India of Dadra and Nagar Haveli are merged to create the Union Territory Dadra and Nagar Haveli.
-- 1960: Chad declares independence from France.
-- 1959: Sheremetyevo International Airport, the second-largest airport in Russia, opens.
-- 1952: Hussein bin Talal is proclaimed King of Jordan.
-- 1945: Poles in Kraków engage in a pogrom against Jews in the city, killing one and wounding five.
-- 1942: Actress Hedy Lamarr and composer George Antheil receive a patent for a Frequency-hopping spread spectrum communication system that later became the basis for modern technologies in wireless telephones, two-way radio communications, and Wi-Fi.
-- 1934: The first civilian prisoners arrive at the Federal prison on Alcatraz Island.
-- 1929: Babe Ruth becomes the first baseball player to hit 500 home runs in his career with a home run at League Park in Cleveland, Ohio.
-- 1920: The Latvian-Soviet Peace Treaty, which relinquished Russia's authority and pretenses to Latvia, is signed, ending the Latvian War of Independence.
-- 1920: The 1920 Cork hunger strike begins which eventually results in the deaths of three Irish Republicans including the Lord Mayor of Cork Terence MacSwiney.
+- 2021: Six people, five victims and the perpetrator are killed in Keyham, Plymouth in the worst mass shooting in the UK since 2010.
+- 2018: Thirty-nine civilians, including a dozen children, are killed in an explosion at a weapons depot in Sarmada, Syria.
+- 2017: The Unite the Right rally occurs in Charlottesville, Virginia, leading to the deaths of 3 and injuring nearly 50 more.
+- 2016: Syrian civil war: The Syrian Democratic Forces (SDF) capture the city of Manbij from the Islamic State of Iraq and the Levant (ISIL).
+- 2015: At least two massive explosions kill 173 people and injure nearly 800 more in Tianjin, China.
+- 2000: The Russian Navy submarine Kursk explodes and sinks in the Barents Sea during a military exercise, killing her entire 118-man crew.
+- 1994: Major League Baseball players go on strike, eventually forcing the cancellation of the 1994 World Series.
+- 1992: Canada, Mexico and the United States announce completion of negotiations for the North American Free Trade Agreement (NAFTA).
+- 1990: Sue, the largest and most complete Tyrannosaurus rex skeleton found to date, is discovered by Sue Hendrickson in South Dakota.
+- 1985: Japan Air Lines Flight 123, a Boeing 747, crashes into Osutaka ridge in Gunma Prefecture, Japan, killing 520, becoming the worst single-plane air disaster.
+- 1984: An infamous brawl takes place at the Atlanta-Fulton County Stadium between the Atlanta Braves and San Diego Padres.
+- 1981: The IBM Personal Computer is released.
+- 1977: The Sri Lanka Riots: Targeting the minority Sri Lankan Tamils, begin, less than a month after the United National Party came to power. Over 300 Tamils are killed.
+- 1977: The first free flight of the Space Shuttle Enterprise.
+- 1976: Between 1,000 and 3,500 Palestinians are killed in the Tel al-Zaatar massacre, one of the bloodiest events of the Lebanese Civil War.
+- 1969: Violence erupts after the Apprentice Boys of Derry march in Derry, Northern Ireland, resulting in a three-day communal riot known as the Battle of the Bogside.
+- 1964: South Africa is banned from the Olympic Games due to the country's racist policies.
+- 1960: Echo 1A, NASA's first successful communications satellite, is launched.
+- 1953: The 7.2 Ms  Ionian earthquake shakes the southern Ionian Islands with a maximum Mercalli intensity of X (Extreme). Between 445 and 800 people are killed.
+- 1953:  Thermonuclear bomb testing: The Soviet atomic bomb project continues with the detonation of "RDS-6s" (Joe 4) using a "layered" scheme.
+- 1952: The Night of the Murdered Poets: Thirteen prominent Jewish intellectuals are murdered in Moscow, Russia, Soviet Union.
+- 1950: Korean War: Bloody Gulch massacre: Seventy-five American POWs are massacred by the North Korean Army.
+- 1948: Between 15 and 150 unarmed members of the Khudai Khidmatgar movement are killed by Pakistani police.
+- 1944: Alençon is liberated by General Philippe Leclerc de Hauteclocque, the first city in France to be liberated from the Nazis by French forces.
+- 1944: Nazi German troops end the week-long Wola massacre, during which time at least 40,000 people are killed indiscriminately or in mass executions.
+- 1944: Waffen-SS troops massacre 560 people in Sant'Anna di Stazzema.
+- 1914: World War I: The Battle of Halen a.k.a. Battle of the Silver Helmets a clash between large Belgian and German cavalry formations at Halen, Belgium.
+- 1914: World War I:  France, the United Kingdom and the British Empire declare war on Austria-Hungary.
+- 1898: The Hawaiian flag is lowered from ʻIolani Palace in an elaborate annexation ceremony and replaced with the flag of the United States to signify the transfer of sovereignty from the Republic of Hawaii to the United States where it is formally recognized as Hawaii.
+- 1883: The last quagga dies at the Natura Artis Magistra, a zoo in Amsterdam, Netherlands.
 
 Data from muffinlabs
-*(Updated at: 2026-08-11 01:57:31 UTC)*
+*(Updated at: 2026-08-12 02:10:17 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：Luna 25 从东方航天发射场发射。
-- - 2017 年：埃及亚历山大两列客运列车相撞，造成至少 41 人死亡、179 人受伤。
-- - 2012 年：伊朗大不里士附近发生两次地震，造成至少 306 人死亡、3,000 人受伤。
-- - 2006 年：MT Solar 1 号油轮在菲律宾吉马拉斯和内格罗斯群岛海岸沉没，造成该国最严重的漏油事件。
-- - 2003 年：伊斯兰祈祷团领导人 Riduan Isamuddin（更广为人知的名字是 Hambali）在泰国曼谷被捕。
-- - 2003 年：北约接管驻阿富汗维和部队的指挥权，这是其 54 年历史上在欧洲以外的首次重大行动。
-- - 2000 年：西南航空 1763 号航班上发生空怒事件，当时 19 岁的乔纳森·伯顿 (Jonathan Burton) 试图冲进驾驶舱，但被其他乘客制服并重伤身亡。
-- - 1995 年：由于人为失误和安全系统设计缺陷，多伦多 Russell Hill 地铁事故造成 3 人死亡、30 人受伤。
-- - 1992 年：明尼苏达州布卢明顿的美国购物中心开业。当时美国最大的购物中心。
-- - 1991 年：Nickelodeon 的第一行“Nicktoons”（Doug、Rugrats & Ren & Stimpy）在频道首播。
-- - 1988 年：赛义德·伊玛目·谢里夫、乌萨马·本·拉登、阿卜杜拉·优素福·阿扎姆和埃及伊斯兰圣战组织领导人在阿富汗举行会议，最终促成了基地组织的成立。
-- - 1984 年：“五分钟后我们开始轰炸”：美国总统罗纳德·里根在竞选连任时，在准备在国家公共广播电台发表每周周六讲话时开玩笑说。
-- - 1982 年：从日本东京飞往夏威夷檀香山的泛美航空 830 航班上，一枚炸弹爆炸，造成 1 名乘客死亡、15 人受伤。
-- - 1979 年：两架 Aeroflot Tupolev Tu-134 飞机在乌克兰第聂伯罗捷尔任斯克市上空相撞并坠毁，两架客机上的 178 人全部遇难。
-- - 1975年：东帝汶：东帝汶民主联盟（UDT）发动政变以及东帝汶民主联盟与革阵之间爆发内战后，葡属帝汶总督马里奥·莱莫斯·皮雷斯放弃首都帝力。
-- - 1973 年：在纽约布朗克斯塞奇威克大道 1520 号公寓楼，DJ Kool Herc 举办了一场家庭派对，该派对被广泛认为是嘻哈文化和音乐的发源地。DJ Kool Herc 展示了一种新的节奏杂耍技术，Coke La Rock 则表演了一种称为说唱的新声乐表演风格。
-- - 1972 年：越南战争：最后一支美国地面作战部队离开南越。
-- - 1969 年：阿波罗 11 号宇航员从月球升空后解除了为期三周的隔离。
-- - 1965 年：加利福尼亚州洛杉矶瓦茨地区爆发种族骚乱（瓦茨骚乱）。
-- - 1962 年：东方 3 号从拜科努尔航天发射场发射升空，宇航员安德里安·尼古拉耶夫 (Andrian Nikolayev) 成为第一个在微重力下漂浮的人。
-- - 1961 年：前葡萄牙在印度的达德拉和纳加尔哈维利领土合并，创建联邦直辖区达德拉和纳加尔哈维利。
-- - 1960 年：乍得宣布脱离法国独立。
-- - 1959 年：俄罗斯第二大机场谢列梅捷沃国际机场投入使用。
-- - 1952 年：侯赛因·本·塔拉勒被宣布为约旦国王。
-- - 1945 年：克拉科夫的波兰人对该市的犹太人进行了大屠杀，造成 1 人死亡、5 人受伤。
-- - 1942 年：女演员 Hedy Lamarr 和作曲家 George Antheil 获得跳频扩频通信系统专利，该系统后来成为无线电话、双向无线电通信和 Wi-Fi 等现代技术的基础。
-- - 1934 年：第一批平民囚犯抵达阿尔卡特拉斯岛的联邦监狱。
-- - 1929 年：贝比·鲁斯 (Babe Ruth) 在俄亥俄州克利夫兰联盟公园击出本垒打，成为职业生涯中第一位打出 500 个本垒打的棒球运动员。
-- - 1920年：签署《拉脱维亚-苏联和平条约》，将俄罗斯的权威和借口交给拉脱维亚，拉脱维亚独立战争结束。
-- - 1920 年：1920 年科克开始绝食，最终导致三名爱尔兰共和党人死亡，其中包括科克市长特伦斯·麦克斯威尼 (Terence MacSwiney)。
+- - 2021 年：普利茅斯基哈姆发生 2010 年以来英国最严重的大规模枪击事件，造成 6 人、5 名受害者和凶手死亡。
+- - 2018 年：叙利亚萨尔马达的一个武器库发生爆炸，造成 39 名平民死亡，其中包括 12 名儿童。
+- - 2017 年：弗吉尼亚州夏洛茨维尔发生“团结右翼”集会，导致 3 人死亡、近 50 人受伤。
+- - 2016 年：叙利亚内战：叙利亚民主力量 (SDF) 从伊拉克和黎凡特伊斯兰国 (ISIL) 手中夺取曼比季市。
+- - 2015 年：中国天津至少发生两次大规模爆炸，造成 173 人死亡、近 800 人受伤。
+- - 2000 年：俄罗斯海军潜艇库尔斯克号在一次军事演习中在巴伦支海爆炸沉没，导致 118 名船员全部遇难。
+- - 1994 年：美国职业棒球大联盟球员举行罢工，最终迫使 1994 年世界职业棒球大赛取消。
+- - 1992 年：加拿大、墨西哥和美国宣布完成北美自由贸易协定 (NAFTA) 谈判。
+- - 1990 年：Sue，迄今为止发现的最大、最完整的霸王龙骨架，由 Sue Hendrickson 在南达科他州发现。
+- - 1985 年：日本航空 123 号航班波音 747 坠入日本群马县大冢山脊，造成 520 人死亡，成为最严重的单机空难。
+- - 1984 年：亚特兰大勇士队和圣地亚哥教士队在亚特兰大富尔顿县体育场发生了一场臭名昭著的斗殴事件。
+- - 1981 年：IBM 个人计算机发布。
+- - 1977 年：斯里兰卡骚乱：针对斯里兰卡少数民族泰米尔人，在统一国民党上台不到一个月后开始。超过 300 名泰米尔人被杀。
+- - 1977 年：企业号航天飞机首次自由飞行。
+- - 1976 年：1,000 至 3,500 名巴勒斯坦人在 Tel al-Zaatar 大屠杀中丧生，这是黎巴嫩内战中最血腥的事件之一。
+- - 1969 年：德里学徒男孩在北爱尔兰德里游行后爆发暴力事件，导致为期三天的社区骚乱，称为博格赛德之战。
+- - 1964年：南非由于该国的种族主义政策而被禁止参加奥运会。
+- - 1960 年：美国宇航局第一颗成功的通信卫星 Echo 1A 发射。
+- - 1953 年：7.2 级爱奥尼亚地震震动了爱奥尼亚群岛南部，最大麦卡利强度为 X（极端）。445 至 800 人死亡。
+- - 1953 年：热核弹测试：苏联原子弹项目继续使用“分层”方案引爆“RDS-6s”（Joe 4）。
+- - 1952 年：被谋杀诗人之夜：十三名著名犹太知识分子在苏联莫斯科被谋杀。
+- - 1950 年：朝鲜战争：血腥峡谷大屠杀：75 名美国战俘被朝鲜军队屠杀。
+- - 1948 年：Khudai Khidmatgar 运动的 15 至 150 名手无寸铁的成员被巴基斯坦警察杀害。
+- - 1944 年：菲利普·勒克莱尔·德·奥特克洛克 (Philippe Leclerc de Hauteclocque) 将军解放了阿朗松，这是法国军队从纳粹手中解放的第一个城市。
+- - 1944 年：纳粹德国军队结束了为期一周的沃拉大屠杀，在此期间至少有 40,000 人被任意杀害或大规模处决。
+- - 1944 年：武装党卫军在圣安娜迪斯塔泽马屠杀了 560 人。
+- - 1914 年：第一次世界大战：海伦战役，又名银盔之战，比利时和德国大型骑兵部队在比利时哈伦发生冲突。
+- - 1914年：第一次世界大战：法国、英国和大英帝国向奥匈帝国宣战。
+- - 1898 年：在一场精心设计的吞并仪式上，夏威夷国旗从伊奥拉尼宫降下，并换上美国国旗，标志着主权从夏威夷共和国移交给美国，并被正式承认为夏威夷。
+- - 1883 年：最后一只斑驴在荷兰阿姆斯特丹的 Natura Artis Magistra 动物园死去。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-08-11 01:57:31 UTC）*
+*（更新于: 2026-08-12 02:10:17 UTC）*
