@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2020: Israel-United Arab Emirates relations are formally established.
-- 2015: At least 76 people are killed and 212 others are wounded in a truck bombing in Baghdad, Iraq.
-- 2014: A Cessna Citation Excel crashes in Santos, São Paulo, Brazil killing all seven people aboard, including Brazilian Socialist Party presidential candidate Eduardo Campos.
-- 2008: Russo-Georgian War: Russian units occupy the Georgian city of Gori.
-- 2004: One hundred fifty-six Congolese Tutsi refugees are massacred at the Gatumba refugee camp in Burundi.
-- 1990: A mainland Chinese fishing boat Min Ping Yu No. 5202 is hit by a Taiwanese naval vessel and sinks in a repatriation operation of mainland Chinese immigrants, resulting in 21 deaths. This is the second tragedy less than a month after Min Ping Yu No. 5540 incident.
-- 1978: One hundred fifty Palestinians in Beirut are killed in a terrorist attack during the second phase of the Lebanese Civil War.
-- 1977: Members of the British National Front (NF) clash with anti-NF demonstrators in Lewisham, London, resulting in 214 arrests and at least 111 injuries.
-- 1973: Aviaco Flight 118 crashes on approach to A Coruña Airport in A Coruña, Spain, killing all 85 people on the plane and one other one the ground.
-- 1969: The Apollo 11 astronauts enjoy a ticker-tape parade in New York City. That evening, at a state dinner in Los Angeles, they are awarded the Presidential Medal of Freedom by U.S. President Richard Nixon.
-- 1968: Alexandros Panagoulis attempts to assassinate the Greek dictator Colonel Georgios Papadopoulos in Varkiza, Athens.
-- 1967: Two young women became the first fatal victims of grizzly bear attacks in the 57-year history of Montana's Glacier National Park in separate incidents.
-- 1964: Peter Allen and Gwynne Evans are hanged for the murder of John Alan West becoming the last people executed in the United Kingdom.
-- 1961: Cold War: East Germany closes the border between the eastern and western sectors of Berlin to thwart its inhabitants' attempts to escape to the West, and construction of the Berlin Wall is started. The day is known as Barbed Wire Sunday.
-- 1960: The Central African Republic declares independence from France.
-- 1954: Radio Pakistan broadcasts the "Qaumī Tarāna", the national anthem of Pakistan for the first time.
-- 1944: World War II: German troops begin the pillage and razing of Anogeia in Crete that would continue until September 5.
-- 1942: Major General Eugene Reybold of the U.S. Army Corps of Engineers authorizes the construction of facilities that would house the "Development of Substitute Materials" project, better known as the Manhattan Project.
-- 1940: World War II: The German Luftwaffe launches an air operation, codenamed Adlertag, during the Battle of Britain in an attempt to destroy the British Royal Air Force.
-- 1937: Second Sino-Japanese War: The Battle of Shanghai begins.
-- 1920: Polish-Soviet War: The Battle of Warsaw begins and will last till August 25. The Red Army is defeated.
-- 1918: Bayerische Motoren Werke AG (BMW) is established as a public company in Germany.
-- 1918: Women enlist in the United States Marine Corps for the first time. Opha May Johnson is the first woman to enlist.
-- 1913: First production in the UK of stainless steel by Harry Brearley.
-- 1906: The all black infantrymen of the U.S. Army's 25th Infantry Regiment are accused of killing a white bartender and wounding a white police officer in Brownsville, Texas, despite exculpatory evidence; all are later dishonorably discharged. (Their records were later restored to reflect honorable discharges but there were no financial settlements.)
-- 1905: Norwegians vote to end the union with Sweden.
-- 1900: The steamer Deutschland of Hamburg America Lines set a new record for the eastward passage when it docked on Plymouth, England, five days, 11 hours and 45 minutes after sailing from New York, breaking by three hours, six minutes its previous mark in its maiden voyage in July.
-- 1898: Carl Gustav Witt discovers 433 Eros, the first near-Earth asteroid to be found.
-- 1898: Spanish-American War: Spanish and American forces engage in a mock battle for Manila, after which the Spanish commander surrendered in order to keep the city out of Filipino rebel hands.
-- 1889: William Gray of Hartford, Connecticut is granted United States Patent Number 408,709 for "Coin-controlled apparatus for telephones."
+- 2023: Former U.S. president Donald Trump is charged in Georgia along with 18 others in attempting to overturn the results of the 2020 election in that state, his fourth indictment of 2023.
+- 2022: An explosion destroys a market in Armenia, killing six people and injuring dozens.
+- 2021: A magnitude 7.2 earthquake strikes southwestern Haiti, killing at least 2,248 people and causing a humanitarian crisis.
+- 2018: The collapse of the Ponte Morandi bridge in Genoa, Italy, left 16 people injured and 43 people killed.
+- 2015: The U.S. Embassy in Havana, Cuba re-opens after 54 years of being closed when Cuba-United States relations were broken off.
+- 2013: UPS Airlines Flight 1354 crashes short of the runway at Birmingham-Shuttlesworth International Airport, killing both crew members on board.
+- 2013: Egypt declares a state of emergency as security forces kill hundreds of demonstrators supporting former president Mohamed Morsi.
+- 2007: The Kahtaniya bombings kill at least 500 people.
+- 2006: Sri Lankan Civil War: Sixty-one schoolgirls killed in Chencholai bombing by Sri Lanka Air Force air strike.
+- 2006: Lebanon War: A ceasefire takes effect three days after the United Nations Security Council's approval of United Nations Security Council Resolution 1701, formally ending hostilities between Lebanon and Israel.
+- 2005: Helios Airways Flight 522, en route from Larnaca, Cyprus to Prague, Czech Republic via Athens, crashes in the hills near Grammatiko, Greece, killing 121 passengers and crew.
+- 2003: A widescale power blackout affects the northeast United States and Canada.
+- 1996: Greek Cypriot refugee Solomos Solomou is shot and killed by a Turkish security officer while trying to climb a flagpole in order to remove a Turkish flag from its mast in the United Nations Buffer Zone in Cyprus.
+- 1994: Ilich Ramírez Sánchez, also known as "Carlos the Jackal", is captured.
+- 1980: Lech Wałęsa leads strikes at the Gdańsk, Poland shipyards.
+- 1974: Turkey launches the second phase of the invasion of Cyprus, which eventually resulted in the Turkish occupation of 37% of Cyprus.
+- 1972: An Ilyushin Il-62 airliner crashes near Königs Wusterhausen, East Germany killing 156 people.
+- 1971: Bahrain declares independence from Britain.
+- 1969: The Troubles: British troops are deployed in Northern Ireland as political and sectarian violence breaks out, marking the start of the 37-year Operation Banner.
+- 1967: UK Marine Broadcasting Offences Act 1967 declares participation in offshore pirate radio illegal.
+- 1959: Founding and first official meeting of the American Football League.
+- 1948: An Idaho Department of Fish and Game program to relocate beavers known as Beaver drop occurred. This program relocated beavers from Northwestern Idaho to Central Idaho by airplane and then parachuting the beavers into the Chamberlain Basin.
+- 1947: Pakistan gains independence from the British Empire as the Dominion of Pakistan, due to the partition of India.
+- 1941: World War II: Winston Churchill and Franklin D. Roosevelt sign the Atlantic Charter of war stating postwar aims.
+- 1936: Rainey Bethea is hanged in Owensboro, Kentucky in the last known public execution in the United States.
+- 1935: Franklin D. Roosevelt signs the Social Security Act, creating a government pension system for the retired.
+- 1933: Loggers cause a forest fire in the Coast Range of Oregon, later known as the first forest fire of the Tillamook Burn;  destroying 240,000 acres (970 km2) of land.
+- 1921: Tannu Uriankhai, later Tuvan People's Republic is established as a completely independent country (which is supported by Soviet Russia).
+- 1920: The 1920 Summer Olympics, having started four months earlier, officially open in Antwerp, Belgium, with the newly adopted Olympic flag and the Olympic oath being raised and taken at the Opening Ceremony for the first time in Olympic history.
+- 1917: World War I: The Republic of China, which had heretofore been shipping labourers to Europe to assist in the war effort, officially declares war on the Central Powers, although it will continue to send to Europe labourers instead of combatants for the remaining duration of the war.
 
 Data from muffinlabs
-*(Updated at: 2026-08-13 02:12:20 UTC)*
+*(Updated at: 2026-08-14 02:10:26 UTC)*
 
 # 历史上的今天 
 
-- - 2020年：以色列与阿拉伯联合酋长国正式建立关系。
-- - 2015 年：伊拉克巴格达发生卡车爆炸事件，造成至少 76 人死亡、212 人受伤。
-- - 2014 年：一架塞斯纳奖状 Excel 在巴西圣保罗桑托斯坠毁，机上七人全部遇难，其中包括巴西社会党总统候选人爱德华多·坎波斯。
-- - 2008 年：俄罗斯-格鲁吉亚战争：俄罗斯军队占领格鲁吉亚城市哥里。
-- - 2004 年：156 名刚果图西族难民在布隆迪加通巴难民营遭到屠杀。
-- - 1990年，一艘中国大陆渔船“闽平渔5202号”在一次大陆移民遣返行动中被台湾军舰撞沉，造成21人死亡。这是民萍鱼5540号事件发生不到一个月后发生的第二起悲剧。
-- - 1978 年：黎巴嫩内战第二阶段期间，贝鲁特有 150 名巴勒斯坦人在恐怖袭击中丧生。
-- - 1977 年：英国国民阵线 (NF) 成员与反国民阵线示威者在伦敦刘易舍姆发生冲突，导致 214 人被捕、至少 111 人受伤。
-- - 1973 年：阿维亚科航空公司 118 号航班在飞往西班牙拉科鲁尼亚机场时坠毁，机上 85 人全部遇难，地面另有 1 人死亡。
-- - 1969 年：阿波罗 11 号宇航员在纽约市享受彩带游行。当天晚上，在洛杉矶举行的国宴上，美国总统理查德·尼克松授予他们总统自由勋章。
-- - 1968 年：亚历山德罗斯·帕纳古利斯 (Alexandros Panagoulis) 在雅典瓦尔基扎 (Varkiza) 试图刺杀希腊独裁者乔治·帕帕佐普洛斯 (Georgios Papadopoulos) 上校。
-- - 1967 年：两名年轻女性成为蒙大拿州冰川国家公园 57 年历史上首例因灰熊袭击而死亡的受害者。
-- - 1964 年：彼得·艾伦和格温·埃文斯因谋杀约翰·艾伦·韦斯特而被绞死，成为英国最后一个被处决的人。
-- - 1961年：冷战：东德关闭柏林东区和西区之间的边界，以阻止其居民逃往西方的企图，并开始修建柏林墙。这一天被称为“铁丝网星期日”。
-- - 1960 年：中非共和国宣布脱离法国独立。
-- - 1954年：巴基斯坦广播电台首次播放巴基斯坦国歌“Qaumī Tarāna”。
-- - 1944 年：第二次世界大战：德国军队开始对克里特岛的阿诺吉亚进行掠夺和夷为平地，一直持续到 9 月 5 日。
-- - 1942 年：美国陆军工程兵团少将尤金·雷博尔德 (Eugene Reybold) 授权建造“替代材料开发”项目（即众所周知的曼哈顿项目）的设施。
-- - 1940 年：第二次世界大战：德国空军在不列颠之战期间发起了代号为 Adlertag 的空中行动，试图摧毁英国皇家空军。
-- - 1937年：第二次中日战争：上海保卫战开始。
-- - 1920年：波苏战争：华沙战役开始，一直持续到8月25日。红军被击败。
-- - 1918 年：Bayerische Motoren Werke AG (BMW) 在德国成立，成为一家上市公司。
-- - 1918 年：女性首次加入美国海军陆战队。奥法·梅·约翰逊是第一位入伍的女性。
-- - 1913 年：Harry Brearley 在英国首次生产不锈钢。
-- - 1906 年：美国陆军第 25 步兵团的全黑人步兵被指控在德克萨斯州布朗斯维尔杀害一名白人调酒师并打伤一名白人警察，尽管有无罪证据；后来所有人都被不光彩地开除。（他们的记录后来被恢复以反映光荣退伍，但没有任何财务和解。）
-- - 1905 年：挪威人投票结束与瑞典的联盟。
-- - 1900年，汉堡美国航运公司的“德国号”轮船从纽约出发，用时5天11小时45分钟，在英国普利茅斯靠岸，创下了向东航行的新纪录，比7月份首航时的纪录快了3小时6分钟。
-- - 1898 年：卡尔·古斯塔夫·威特 (Carl Gustav Witt) 发现了 433 Eros，这是第一颗被发现的近地小行星。
-- - 1898 年：美西战争：西班牙和美国军队为马尼拉进行一场模拟战斗，之后西班牙指挥官投降，以确保该城市脱离菲律宾叛军之手。
-- - 1889 年：康涅狄格州哈特福德的 William Gray 获得美国专利号 408,709“电话硬币控制装置”。
+- - 2023 年：美国前总统唐纳德·特朗普在佐治亚州与其他 18 人一起被指控试图推翻该州 2020 年选举结果，这是他在 2023 年的第四次起诉。
+- - 2022 年：亚美尼亚的一个市场发生爆炸，造成六人死亡、数十人受伤。
+- - 2021 年：海地西南部发生里氏 7.2 级地震，造成至少 2,248 人死亡并引发人道主义危机。
+- - 2018年：意大利热那亚莫兰迪桥倒塌，造成16人受伤、43人死亡。
+- - 2015年：美国驻古巴哈瓦那大使馆在因古巴与美国关系破裂而关闭54年后重新开放。
+- - 2013 年：UPS 航空公司 1354 号航班在伯明翰-沙特尔斯沃思国际机场跑道附近坠毁，机上两名机组人员丧生。
+- - 2013 年：埃及宣布进入紧急状态，安全部队杀害了数百名支持前总统穆罕默德·穆尔西的示威者。
+- - 2007 年：卡塔尼亚爆炸事件造成至少 500 人死亡。
+- - 2006 年：斯里兰卡内战：斯里兰卡空军空袭导致 61 名女学生在 Chencholai 爆炸事件中丧生。
+- - 2006年：黎巴嫩战争：联合国安理会批准联合国安理会第1701号决议三天后停火生效，正式结束黎巴嫩和以色列之间的敌对行动。
+- - 2005 年：赫利俄斯航空公司 522 号航班在从塞浦路斯拉纳卡经雅典飞往捷克共和国布拉格的途中在希腊格拉马蒂科附近的山上坠毁，造成 121 名乘客和机组人员死亡。
+- - 2003 年：美国东北部和加拿大发生大范围停电。
+- - 1996 年：塞浦路斯联合国缓冲区内，希族塞人难民索洛莫斯·索洛穆 (Solomos Solomou) 在试图爬上旗杆，从桅杆上取下土耳其国旗时，被土耳其安全官员开枪打死。
+- - 1994 年：伊利奇·拉米雷斯·桑切斯（Ilich Ramírez Sánchez），也被称为“豺狼卡洛斯”，被捕。
+- - 1980 年：莱赫·瓦文萨领导了波兰格但斯克造船厂的罢工。
+- - 1974年：土耳其发动对塞浦路斯的第二阶段入侵，最终导致土耳其占领塞浦路斯37%的领土。
+- - 1972 年：一架 Ilyushin Il-62 客机在东德 Königs Wusterhausen 附近坠毁，造成 156 人死亡。
+- - 1971 年：巴林宣布脱离英国独立。
+- - 1969年：麻烦不断：随着政治和宗派暴力的爆发，英国军队部署在北爱尔兰，标志着长达37年的旗帜行动的开始。
+- - 1967 年：英国《1967 年海上广播犯罪法》宣布参与近海海盗电台非法。
+- - 1959 年：美国橄榄球联盟成立并举行第一次正式会议。
+- - 1948 年：爱达荷州渔业和狩猎部实施了一项名为“海狸掉落”的重新安置海狸计划。该计划通过飞机将海狸从爱达荷州西北部转移到爱达荷州中部，然后将海狸跳伞到张伯伦盆地。
+- - 1947 年：由于印度的分裂，巴基斯坦从大英帝国手中获得独立，成为巴基斯坦自治领。
+- - 1941 年：第二次世界大战：温斯顿·丘吉尔和富兰克林·罗斯福签署《大西洋战争宪章》，阐述战后目标。
+- - 1936 年：雷尼·贝西娅在肯塔基州欧文斯伯勒被绞死，这是美国最后一次已知的公开处决。
+- - 1935 年：富兰克林·罗斯福签署《社会保障法》，为退休人员建立政府养老金制度。
+- - 1933 年：伐木工在俄勒冈州海岸山脉引发森林火灾，后来被称为蒂拉穆克伯恩的第一场森林火灾；毁坏 240,000 英亩（970 平方公里）土地。
+- - 1921年：Tannu Uriankhai（后来的图瓦人民共和国）作为一个完全独立的国家建立（得到苏维埃俄罗斯的支持）。
+- - 1920年：提前四个月开始的1920年夏季奥运会在比利时安特卫普正式开幕，开幕式上首次升起并宣读了新采用的奥林匹克会旗和奥林匹克宣誓。
+- - 1917年：第一次世界大战：此前一直向欧洲运送劳工以协助战争的中华民国正式向同盟国宣战，尽管在战争剩余时间内它将继续向欧洲派遣劳工而不是战斗人员。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-08-13 02:12:20 UTC）*
+*（更新于: 2026-08-14 02:10:26 UTC）*
