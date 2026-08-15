@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: Former U.S. president Donald Trump is charged in Georgia along with 18 others in attempting to overturn the results of the 2020 election in that state, his fourth indictment of 2023.
-- 2022: An explosion destroys a market in Armenia, killing six people and injuring dozens.
-- 2021: A magnitude 7.2 earthquake strikes southwestern Haiti, killing at least 2,248 people and causing a humanitarian crisis.
-- 2018: The collapse of the Ponte Morandi bridge in Genoa, Italy, left 16 people injured and 43 people killed.
-- 2015: The U.S. Embassy in Havana, Cuba re-opens after 54 years of being closed when Cuba-United States relations were broken off.
-- 2013: UPS Airlines Flight 1354 crashes short of the runway at Birmingham-Shuttlesworth International Airport, killing both crew members on board.
-- 2013: Egypt declares a state of emergency as security forces kill hundreds of demonstrators supporting former president Mohamed Morsi.
-- 2007: The Kahtaniya bombings kill at least 500 people.
-- 2006: Sri Lankan Civil War: Sixty-one schoolgirls killed in Chencholai bombing by Sri Lanka Air Force air strike.
-- 2006: Lebanon War: A ceasefire takes effect three days after the United Nations Security Council's approval of United Nations Security Council Resolution 1701, formally ending hostilities between Lebanon and Israel.
-- 2005: Helios Airways Flight 522, en route from Larnaca, Cyprus to Prague, Czech Republic via Athens, crashes in the hills near Grammatiko, Greece, killing 121 passengers and crew.
-- 2003: A widescale power blackout affects the northeast United States and Canada.
-- 1996: Greek Cypriot refugee Solomos Solomou is shot and killed by a Turkish security officer while trying to climb a flagpole in order to remove a Turkish flag from its mast in the United Nations Buffer Zone in Cyprus.
-- 1994: Ilich Ramírez Sánchez, also known as "Carlos the Jackal", is captured.
-- 1980: Lech Wałęsa leads strikes at the Gdańsk, Poland shipyards.
-- 1974: Turkey launches the second phase of the invasion of Cyprus, which eventually resulted in the Turkish occupation of 37% of Cyprus.
-- 1972: An Ilyushin Il-62 airliner crashes near Königs Wusterhausen, East Germany killing 156 people.
-- 1971: Bahrain declares independence from Britain.
-- 1969: The Troubles: British troops are deployed in Northern Ireland as political and sectarian violence breaks out, marking the start of the 37-year Operation Banner.
-- 1967: UK Marine Broadcasting Offences Act 1967 declares participation in offshore pirate radio illegal.
-- 1959: Founding and first official meeting of the American Football League.
-- 1948: An Idaho Department of Fish and Game program to relocate beavers known as Beaver drop occurred. This program relocated beavers from Northwestern Idaho to Central Idaho by airplane and then parachuting the beavers into the Chamberlain Basin.
-- 1947: Pakistan gains independence from the British Empire as the Dominion of Pakistan, due to the partition of India.
-- 1941: World War II: Winston Churchill and Franklin D. Roosevelt sign the Atlantic Charter of war stating postwar aims.
-- 1936: Rainey Bethea is hanged in Owensboro, Kentucky in the last known public execution in the United States.
-- 1935: Franklin D. Roosevelt signs the Social Security Act, creating a government pension system for the retired.
-- 1933: Loggers cause a forest fire in the Coast Range of Oregon, later known as the first forest fire of the Tillamook Burn;  destroying 240,000 acres (970 km2) of land.
-- 1921: Tannu Uriankhai, later Tuvan People's Republic is established as a completely independent country (which is supported by Soviet Russia).
-- 1920: The 1920 Summer Olympics, having started four months earlier, officially open in Antwerp, Belgium, with the newly adopted Olympic flag and the Olympic oath being raised and taken at the Opening Ceremony for the first time in Olympic history.
-- 1917: World War I: The Republic of China, which had heretofore been shipping labourers to Europe to assist in the war effort, officially declares war on the Central Powers, although it will continue to send to Europe labourers instead of combatants for the remaining duration of the war.
+- 2025: US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine.
+- 2021: Kabul falls into the hands of the Taliban as Ashraf Ghani flees Afghanistan along with local residents and foreign nationals, effectively reestablishing the Islamic Emirate of Afghanistan.
+- 2020: Russia begins production on the Sputnik V COVID-19 vaccine.
+- 2015: North Korea moves its clock back half an hour to introduce Pyongyang Time, 8.mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}1⁄2 hours ahead of UTC.
+- 2013: The Smithsonian announces the discovery of the olinguito, the first new carnivorous species found in the Americas in 35 years.
+- 2013: At least 27 people are killed and 226 injured in an explosion in southern Beirut near a complex used by Lebanon's militant group Hezbollah in Lebanon. A previously unknown Syrian Sunni group claims responsibility in an online video.
+- 2007: An 8.0-magnitude earthquake off the Pacific coast devastates Ica and various regions of Peru killing 514 and injuring 1,090.
+- 2005: The Helsinki Agreement between the Free Aceh Movement and the Government of Indonesia was signed, ending almost three decades of fighting.
+- 2005: Israel's unilateral disengagement plan to evict all Israelis from the Gaza Strip and from four settlements in the northern West Bank begins.
+- 1999: Beni Ounif massacre in Algeria: Some 29 people are killed at a false roadblock near the Moroccan border, leading to temporary tensions with Morocco.
+- 1998: Apple introduces the iMac computer.
+- 1998: Northern Ireland: Omagh bombing takes place; 29 people (including a woman pregnant with twins) killed and some 220 others injured.
+- 1995: Tomiichi Murayama, Prime Minister of Japan, releases the Murayama Statement, which formally expresses remorse for Japanese war crimes committed during World War II.
+- 1995: In South Carolina, Shannon Faulkner becomes the first female cadet matriculated at The Citadel (she drops out less than a week later).
+- 1989: China Eastern Airlines Flight 5510 crashes after takeoff from Shanghai Hongqiao International Airport, killing 34 of the 40 people on board.
+- 1985: Signing of the Assam Accord, an agreement between representatives of the Government of India and the leaders of the Assam Movement to end the movement.
+- 1984: The Kurdistan Workers' Party in Turkey starts a campaign of armed attacks upon the Turkish Armed Forces with an attack on police and gendarmerie bases in Şemdinli and Eruh.
+- 1977: The Big Ear, a radio telescope operated by Ohio State University as part of the SETI project, receives a radio signal from deep space; the event is named the "Wow! signal" from the notation made by a volunteer on the project.
+- 1976: SAETA Flight 011 crashes into the Chimborazo volcano in Ecuador, killing all 59 people on board; the wreckage is not discovered until 2002.
+- 1975: Takeo Miki makes the first official pilgrimage to Yasukuni Shrine by an incumbent prime minister on the anniversary of the end of World War II.
+- 1975: Bangladeshi leader Sheikh Mujibur Rahman is killed along with most members of his family during a military coup.
+- 1974: Yuk Young-soo, First Lady of South Korea, is killed during an apparent assassination attempt upon President Park Chung Hee.
+- 1973: Vietnam War: The US Air Force bombing of Cambodia ends.
+- 1971: Bahrain gains independence from the United Kingdom.
+- 1971: President Richard Nixon completes the break from the gold standard by ending convertibility of the United States dollar into gold by foreign investors.
+- 1970: Patricia Palinkas becomes the first woman to play professionally in an American football game.
+- 1969: The Woodstock Music & Art Fair opens in Bethel, New York, featuring some of the top rock musicians of the era.
+- 1965: The Beatles play to nearly 60,000 fans at Shea Stadium in New York City, an event later regarded as the birth of stadium rock.
+- 1963: President Fulbert Youlou is overthrown in the Republic of the Congo, after a three-day uprising in the capital.
+- 1963: Execution of Henry John Burnett, the last man to be hanged in Scotland.
 
 Data from muffinlabs
-*(Updated at: 2026-08-14 02:10:26 UTC)*
+*(Updated at: 2026-08-15 01:23:18 UTC)*
 
 # 历史上的今天 
 
-- - 2023 年：美国前总统唐纳德·特朗普在佐治亚州与其他 18 人一起被指控试图推翻该州 2020 年选举结果，这是他在 2023 年的第四次起诉。
-- - 2022 年：亚美尼亚的一个市场发生爆炸，造成六人死亡、数十人受伤。
-- - 2021 年：海地西南部发生里氏 7.2 级地震，造成至少 2,248 人死亡并引发人道主义危机。
-- - 2018年：意大利热那亚莫兰迪桥倒塌，造成16人受伤、43人死亡。
-- - 2015年：美国驻古巴哈瓦那大使馆在因古巴与美国关系破裂而关闭54年后重新开放。
-- - 2013 年：UPS 航空公司 1354 号航班在伯明翰-沙特尔斯沃思国际机场跑道附近坠毁，机上两名机组人员丧生。
-- - 2013 年：埃及宣布进入紧急状态，安全部队杀害了数百名支持前总统穆罕默德·穆尔西的示威者。
-- - 2007 年：卡塔尼亚爆炸事件造成至少 500 人死亡。
-- - 2006 年：斯里兰卡内战：斯里兰卡空军空袭导致 61 名女学生在 Chencholai 爆炸事件中丧生。
-- - 2006年：黎巴嫩战争：联合国安理会批准联合国安理会第1701号决议三天后停火生效，正式结束黎巴嫩和以色列之间的敌对行动。
-- - 2005 年：赫利俄斯航空公司 522 号航班在从塞浦路斯拉纳卡经雅典飞往捷克共和国布拉格的途中在希腊格拉马蒂科附近的山上坠毁，造成 121 名乘客和机组人员死亡。
-- - 2003 年：美国东北部和加拿大发生大范围停电。
-- - 1996 年：塞浦路斯联合国缓冲区内，希族塞人难民索洛莫斯·索洛穆 (Solomos Solomou) 在试图爬上旗杆，从桅杆上取下土耳其国旗时，被土耳其安全官员开枪打死。
-- - 1994 年：伊利奇·拉米雷斯·桑切斯（Ilich Ramírez Sánchez），也被称为“豺狼卡洛斯”，被捕。
-- - 1980 年：莱赫·瓦文萨领导了波兰格但斯克造船厂的罢工。
-- - 1974年：土耳其发动对塞浦路斯的第二阶段入侵，最终导致土耳其占领塞浦路斯37%的领土。
-- - 1972 年：一架 Ilyushin Il-62 客机在东德 Königs Wusterhausen 附近坠毁，造成 156 人死亡。
-- - 1971 年：巴林宣布脱离英国独立。
-- - 1969年：麻烦不断：随着政治和宗派暴力的爆发，英国军队部署在北爱尔兰，标志着长达37年的旗帜行动的开始。
-- - 1967 年：英国《1967 年海上广播犯罪法》宣布参与近海海盗电台非法。
-- - 1959 年：美国橄榄球联盟成立并举行第一次正式会议。
-- - 1948 年：爱达荷州渔业和狩猎部实施了一项名为“海狸掉落”的重新安置海狸计划。该计划通过飞机将海狸从爱达荷州西北部转移到爱达荷州中部，然后将海狸跳伞到张伯伦盆地。
-- - 1947 年：由于印度的分裂，巴基斯坦从大英帝国手中获得独立，成为巴基斯坦自治领。
-- - 1941 年：第二次世界大战：温斯顿·丘吉尔和富兰克林·罗斯福签署《大西洋战争宪章》，阐述战后目标。
-- - 1936 年：雷尼·贝西娅在肯塔基州欧文斯伯勒被绞死，这是美国最后一次已知的公开处决。
-- - 1935 年：富兰克林·罗斯福签署《社会保障法》，为退休人员建立政府养老金制度。
-- - 1933 年：伐木工在俄勒冈州海岸山脉引发森林火灾，后来被称为蒂拉穆克伯恩的第一场森林火灾；毁坏 240,000 英亩（970 平方公里）土地。
-- - 1921年：Tannu Uriankhai（后来的图瓦人民共和国）作为一个完全独立的国家建立（得到苏维埃俄罗斯的支持）。
-- - 1920年：提前四个月开始的1920年夏季奥运会在比利时安特卫普正式开幕，开幕式上首次升起并宣读了新采用的奥林匹克会旗和奥林匹克宣誓。
-- - 1917年：第一次世界大战：此前一直向欧洲运送劳工以协助战争的中华民国正式向同盟国宣战，尽管在战争剩余时间内它将继续向欧洲派遣劳工而不是战斗人员。
+- - 2025 年：美国总统唐纳德·特朗普在阿拉斯加会见俄罗斯总统弗拉基米尔·普京，这是自 2022 年俄罗斯入侵乌克兰以来首次举行此类峰会。
+- - 2021 年：随着阿什拉夫·加尼 (Ashraf Ghani) 与当地居民和外国人一起逃离阿富汗，喀布尔落入塔利班手中，有效地重建了阿富汗伊斯兰酋长国。
+- - 2020 年：俄罗斯开始生产 Sputnik V COVID-19 疫苗。
+- - 2015年：朝鲜将时钟向后拨半小时，引入平壤时间，8.mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac.den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}比 UTC 早 1⁄2 小时。
+- - 2013 年：史密森学会宣布发现了 olinguito，这是 35 年来在美洲发现的第一个新的食肉物种。
+- - 2013 年：贝鲁特南部黎巴嫩武装组织真主党使用的建筑群附近发生爆炸，造成至少 27 人死亡、226 人受伤。一个此前不为人知的叙利亚逊尼派组织在一段在线视频中声称对此事负责。
+- - 2007 年：太平洋沿岸发生 8.0 级地震，摧毁了伊卡和秘鲁多个地区，造成 514 人死亡、1,090 人受伤。
+- - 2005年：自由亚齐运动与印度尼西亚政府签署《赫尔辛基协议》，结束了近三十年的战斗。
+- - 2005年：以色列开始单方面脱离接触计划，将所有以色列人逐出加沙地带和西岸北部的四个定居点。
+- - 1999 年：阿尔及利亚贝尼乌尼夫大屠杀：约 29 人在摩洛哥边境附近的假路障中丧生，导致与摩洛哥的暂时紧张局势。
+- - 1998 年：Apple 推出 iMac 电脑。
+- - 1998年：北爱尔兰：奥马发生爆炸事件；29 人（包括一名怀双胞胎的妇女）死亡，约 220 人受伤。
+- - 1995年：日本首相村山富市发表村山谈话，正式对日本在二战期间犯下的战争罪行表示悔恨。
+- - 1995 年：在南卡罗来纳州，香农·福克纳 (Shannon Faulkner) 成为第一位被城堡录取的女学员（不到一周后她就退学了）。
+- - 1989年：中国东方航空5510航班从上海虹桥国际机场起飞后坠毁，机上40人中的34人丧生。
+- - 1985年：签署《阿萨姆协议》，这是印度政府代表与阿萨姆运动领导人之间达成的旨在结束该运动的协议。
+- - 1984 年：土耳其库尔德工人党开始对土耳其武装部队发动武装袭击，袭击了 Şemdinli 和 Eruh 的警察和宪兵基地。
+- - 1977 年：俄亥俄州立大学作为 SETI 项目一部分运行的射电望远镜“大耳朵”接收到来自深空的无线电信号；该事件被命名为“哇！信号”，源自该项目的一名志愿者所做的记号。
+- - 1976年：SAETA 011航班坠入厄瓜多尔钦博拉索火山，机上59人全部遇难；直到2002年残骸才被发现。
+- - 1975 年：二战结束周年纪念日，三木武夫首次由现任首相正式参拜靖国神社。
+- - 1975 年：孟加拉国领导人谢赫·穆吉布尔·拉赫曼 (Sheikh Mujibur Ra​​hman) 及其大多数家人在一次军事政变中被杀。
+- - 1974 年：韩国第一夫人陆英洙在一次明显针对朴正熙总统的暗杀行动中被杀。
+- - 1973 年：越南战争：美国空军对柬埔寨的轰炸结束。
+- - 1971 年：巴林从英国独立。
+- - 1971 年：理查德·尼克松总统终止外国投资者将美元兑换成黄金，从而完成了与金本位的决裂。
+- - 1970 年：帕特里夏·帕林卡斯 (Patricia Palinkas) 成为第一位参加美式橄榄球职业比赛的女性。
+- - 1969 年：伍德斯托克音乐与艺术博览会在纽约伯特利开幕，当时一些顶级摇滚音乐家云集。
+- - 1965 年：披头士乐队在纽约市的谢伊体育场 (Shea Stadium) 为近 60,000 名歌迷演出，这一事件后来被视为体育场摇滚的诞生。
+- - 1963 年：刚果共和国总统富尔伯特·尤卢在首都发生三天起义后被推翻。
+- - 1963 年：亨利·约翰·伯内特 (Henry John Burnett) 被处决，他是苏格兰最后一个被绞死的人。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-08-14 02:10:26 UTC）*
+*（更新于: 2026-08-15 01:23:18 UTC）*
