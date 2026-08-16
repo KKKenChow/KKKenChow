@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine.
-- 2021: Kabul falls into the hands of the Taliban as Ashraf Ghani flees Afghanistan along with local residents and foreign nationals, effectively reestablishing the Islamic Emirate of Afghanistan.
-- 2020: Russia begins production on the Sputnik V COVID-19 vaccine.
-- 2015: North Korea moves its clock back half an hour to introduce Pyongyang Time, 8.mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}1⁄2 hours ahead of UTC.
-- 2013: The Smithsonian announces the discovery of the olinguito, the first new carnivorous species found in the Americas in 35 years.
-- 2013: At least 27 people are killed and 226 injured in an explosion in southern Beirut near a complex used by Lebanon's militant group Hezbollah in Lebanon. A previously unknown Syrian Sunni group claims responsibility in an online video.
-- 2007: An 8.0-magnitude earthquake off the Pacific coast devastates Ica and various regions of Peru killing 514 and injuring 1,090.
-- 2005: The Helsinki Agreement between the Free Aceh Movement and the Government of Indonesia was signed, ending almost three decades of fighting.
-- 2005: Israel's unilateral disengagement plan to evict all Israelis from the Gaza Strip and from four settlements in the northern West Bank begins.
-- 1999: Beni Ounif massacre in Algeria: Some 29 people are killed at a false roadblock near the Moroccan border, leading to temporary tensions with Morocco.
-- 1998: Apple introduces the iMac computer.
-- 1998: Northern Ireland: Omagh bombing takes place; 29 people (including a woman pregnant with twins) killed and some 220 others injured.
-- 1995: Tomiichi Murayama, Prime Minister of Japan, releases the Murayama Statement, which formally expresses remorse for Japanese war crimes committed during World War II.
-- 1995: In South Carolina, Shannon Faulkner becomes the first female cadet matriculated at The Citadel (she drops out less than a week later).
-- 1989: China Eastern Airlines Flight 5510 crashes after takeoff from Shanghai Hongqiao International Airport, killing 34 of the 40 people on board.
-- 1985: Signing of the Assam Accord, an agreement between representatives of the Government of India and the leaders of the Assam Movement to end the movement.
-- 1984: The Kurdistan Workers' Party in Turkey starts a campaign of armed attacks upon the Turkish Armed Forces with an attack on police and gendarmerie bases in Şemdinli and Eruh.
-- 1977: The Big Ear, a radio telescope operated by Ohio State University as part of the SETI project, receives a radio signal from deep space; the event is named the "Wow! signal" from the notation made by a volunteer on the project.
-- 1976: SAETA Flight 011 crashes into the Chimborazo volcano in Ecuador, killing all 59 people on board; the wreckage is not discovered until 2002.
-- 1975: Takeo Miki makes the first official pilgrimage to Yasukuni Shrine by an incumbent prime minister on the anniversary of the end of World War II.
-- 1975: Bangladeshi leader Sheikh Mujibur Rahman is killed along with most members of his family during a military coup.
-- 1974: Yuk Young-soo, First Lady of South Korea, is killed during an apparent assassination attempt upon President Park Chung Hee.
-- 1973: Vietnam War: The US Air Force bombing of Cambodia ends.
-- 1971: Bahrain gains independence from the United Kingdom.
-- 1971: President Richard Nixon completes the break from the gold standard by ending convertibility of the United States dollar into gold by foreign investors.
-- 1970: Patricia Palinkas becomes the first woman to play professionally in an American football game.
-- 1969: The Woodstock Music & Art Fair opens in Bethel, New York, featuring some of the top rock musicians of the era.
-- 1965: The Beatles play to nearly 60,000 fans at Shea Stadium in New York City, an event later regarded as the birth of stadium rock.
-- 1963: President Fulbert Youlou is overthrown in the Republic of the Congo, after a three-day uprising in the capital.
-- 1963: Execution of Henry John Burnett, the last man to be hanged in Scotland.
+- 2020: The August Complex fire in California burns more than one million acres of land.
+- 2015: Trigana Air Flight 267, an ATR 42, crashes in Oksibil, Bintang Mountains Regency, killing all 54 people on board.
+- 2015: More than 96 people are killed and hundreds injured following a series of air-raids by the Syrian Arab Air Force on the rebel-held market town of Douma.
+- 2013: The ferry St. Thomas Aquinas collides with a cargo ship and sinks at Cebu, Philippines, killing 61 people with 59 others missing.
+- 2012: South African police fatally shoot 34 miners and wound 78 more during an industrial dispute at Marikana near Rustenburg.
+- 2010: AIRES Flight 8250 crashes at Gustavo Rojas Pinilla International Airport in San Andrés, San Andrés y Providencia, Colombia, killing two people.
+- 2008: The Trump International Hotel and Tower in Chicago is topped off at 1,389 feet (423 m), at the time becoming the world's highest residence above ground-level.
+- 2005: West Caribbean Airways Flight 708, a McDonnell Douglas MD-82, crashes in Machiques, Venezuela, killing all 160 people on board.
+- 1991: Indian Airlines Flight 257, a Boeing 737-200, crashes during approach to Imphal Airport, killing all 69 people on board.
+- 1989: A solar particle event affects computers at the Toronto Stock Exchange, forcing a halt to trading.
+- 1987: Northwest Airlines Flight 255, a McDonnell Douglas MD-82, crashes after takeoff in Detroit, Michigan, killing 154 of the 155 on board, plus two people on the ground.
+- 1986: A Sudan Airways Fokker F27 Friendship is shot down near Malakal in present day South Sudan, killing 60.
+- 1975: Australian Prime Minister Gough Whitlam symbolically hands over land to the Gurindji people after the eight-year Wave Hill walk-off, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 song by Paul Kelly and an annual celebration.
+- 1972: In an unsuccessful coup d'état attempt, the Royal Moroccan Air Force fires upon Hassan II of Morocco's plane while he is traveling back to Rabat.
+- 1966: Vietnam War: The House Un-American Activities Committee begins investigations of Americans who have aided the Viet Cong. The committee intends to introduce legislation making these activities illegal. Anti-war demonstrators disrupt the meeting and 50 people are arrested.
+- 1964: Vietnam War: A coup d'état replaces Dương Văn Minh with General Nguyễn Khánh as President of South Vietnam. A new constitution is established with aid from the U.S. Embassy.
+- 1960: Joseph Kittinger parachutes from a balloon over New Mexico, United States, at 102,800 feet (31,300 m), setting three records that held until 2012: High-altitude jump, free fall, and highest speed by a human without an aircraft.
+- 1960: Cyprus gains its independence from the United Kingdom.
+- 1954: The first issue of Sports Illustrated is published.
+- 1946: The All Hyderabad Trade Union Congress is founded in Secunderabad.
+- 1946: Mass riots in Kolkata begin; more than 4,000 people would be killed in 72 hours.
+- 1945: The National Representatives' Congress, the precursor of the current National Assembly of Vietnam, convenes in Sơn Dương.
+- 1944: First flight of a jet with forward-swept wings, the Junkers Ju 287.
+- 1943: World War II: 317 Greek civilians are murdered by soldiers of the German 1st Mountain Division in the village of Kommeno, Greece.
+- 1942: World War II: US Navy L-class blimp L-8 drifts in from the Pacific and eventually crashes in Daly City, California. The two-man crew cannot be found.
+- 1933: Christie Pits riot takes place in Toronto, Ontario.
+- 1930: The first British Empire Games are opened in Hamilton, Ontario, by the Governor General of Canada, the Viscount Willingdon.
+- 1930: The first color sound cartoon, Fiddlesticks, is released by Ub Iwerks.
+- 1929: The 1929 Palestine riots break out in Mandatory Palestine between Palestinian Arabs and Jews and continue until the end of the month. In total, 133 Jews and 116 Arabs are killed.
+- 1927: The Dole Air Race begins from Oakland, California, to Honolulu, Hawaii, during which six out of the eight participating planes crash or disappear.
 
 Data from muffinlabs
-*(Updated at: 2026-08-15 01:23:18 UTC)*
+*(Updated at: 2026-08-16 01:34:22 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：美国总统唐纳德·特朗普在阿拉斯加会见俄罗斯总统弗拉基米尔·普京，这是自 2022 年俄罗斯入侵乌克兰以来首次举行此类峰会。
-- - 2021 年：随着阿什拉夫·加尼 (Ashraf Ghani) 与当地居民和外国人一起逃离阿富汗，喀布尔落入塔利班手中，有效地重建了阿富汗伊斯兰酋长国。
-- - 2020 年：俄罗斯开始生产 Sputnik V COVID-19 疫苗。
-- - 2015年：朝鲜将时钟向后拨半小时，引入平壤时间，8.mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac.den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}比 UTC 早 1⁄2 小时。
-- - 2013 年：史密森学会宣布发现了 olinguito，这是 35 年来在美洲发现的第一个新的食肉物种。
-- - 2013 年：贝鲁特南部黎巴嫩武装组织真主党使用的建筑群附近发生爆炸，造成至少 27 人死亡、226 人受伤。一个此前不为人知的叙利亚逊尼派组织在一段在线视频中声称对此事负责。
-- - 2007 年：太平洋沿岸发生 8.0 级地震，摧毁了伊卡和秘鲁多个地区，造成 514 人死亡、1,090 人受伤。
-- - 2005年：自由亚齐运动与印度尼西亚政府签署《赫尔辛基协议》，结束了近三十年的战斗。
-- - 2005年：以色列开始单方面脱离接触计划，将所有以色列人逐出加沙地带和西岸北部的四个定居点。
-- - 1999 年：阿尔及利亚贝尼乌尼夫大屠杀：约 29 人在摩洛哥边境附近的假路障中丧生，导致与摩洛哥的暂时紧张局势。
-- - 1998 年：Apple 推出 iMac 电脑。
-- - 1998年：北爱尔兰：奥马发生爆炸事件；29 人（包括一名怀双胞胎的妇女）死亡，约 220 人受伤。
-- - 1995年：日本首相村山富市发表村山谈话，正式对日本在二战期间犯下的战争罪行表示悔恨。
-- - 1995 年：在南卡罗来纳州，香农·福克纳 (Shannon Faulkner) 成为第一位被城堡录取的女学员（不到一周后她就退学了）。
-- - 1989年：中国东方航空5510航班从上海虹桥国际机场起飞后坠毁，机上40人中的34人丧生。
-- - 1985年：签署《阿萨姆协议》，这是印度政府代表与阿萨姆运动领导人之间达成的旨在结束该运动的协议。
-- - 1984 年：土耳其库尔德工人党开始对土耳其武装部队发动武装袭击，袭击了 Şemdinli 和 Eruh 的警察和宪兵基地。
-- - 1977 年：俄亥俄州立大学作为 SETI 项目一部分运行的射电望远镜“大耳朵”接收到来自深空的无线电信号；该事件被命名为“哇！信号”，源自该项目的一名志愿者所做的记号。
-- - 1976年：SAETA 011航班坠入厄瓜多尔钦博拉索火山，机上59人全部遇难；直到2002年残骸才被发现。
-- - 1975 年：二战结束周年纪念日，三木武夫首次由现任首相正式参拜靖国神社。
-- - 1975 年：孟加拉国领导人谢赫·穆吉布尔·拉赫曼 (Sheikh Mujibur Ra​​hman) 及其大多数家人在一次军事政变中被杀。
-- - 1974 年：韩国第一夫人陆英洙在一次明显针对朴正熙总统的暗杀行动中被杀。
-- - 1973 年：越南战争：美国空军对柬埔寨的轰炸结束。
-- - 1971 年：巴林从英国独立。
-- - 1971 年：理查德·尼克松总统终止外国投资者将美元兑换成黄金，从而完成了与金本位的决裂。
-- - 1970 年：帕特里夏·帕林卡斯 (Patricia Palinkas) 成为第一位参加美式橄榄球职业比赛的女性。
-- - 1969 年：伍德斯托克音乐与艺术博览会在纽约伯特利开幕，当时一些顶级摇滚音乐家云集。
-- - 1965 年：披头士乐队在纽约市的谢伊体育场 (Shea Stadium) 为近 60,000 名歌迷演出，这一事件后来被视为体育场摇滚的诞生。
-- - 1963 年：刚果共和国总统富尔伯特·尤卢在首都发生三天起义后被推翻。
-- - 1963 年：亨利·约翰·伯内特 (Henry John Burnett) 被处决，他是苏格兰最后一个被绞死的人。
+- - 2020 年：加利福尼亚州 August Complex 火灾烧毁了超过 100 万英亩的土地。
+- - 2015 年：Trigana Air 267 号航班（一架 ATR 42）在宾堂山县的 Oksibil 坠毁，机上 54 人全部遇难。
+- - 2015 年：阿拉伯叙利亚空军对叛军控制的集镇杜马进行一系列空袭，造成超过 96 人死亡、数百人受伤。
+- - 2013年：圣托马斯阿奎那号渡轮在菲律宾宿务与一艘货船相撞沉没，造成61人死亡、59人失踪。
+- - 2012 年：南非警方在勒斯滕堡附近的马里卡纳发生劳资纠纷时开枪打死 34 名矿工，另有 78 人受伤。
+- - 2010 年：AIRES 8250 航班在哥伦比亚圣安德烈斯和普罗维登西亚的圣安德烈斯古斯塔沃·罗哈斯·皮尼利亚国际机场坠毁，造成两人死亡。
+- - 2008 年：芝加哥特朗普国际酒店大厦封顶高度为 1,389 英尺（423 m），成为当时世界上离地面最高的住宅。
+- - 2005 年：西加勒比航空公司 708 号航班（一架麦道 MD-82）在委内瑞拉马希克斯坠毁，机上 160 人全部遇难。
+- - 1991 年：印度航空公司 257 号航班（一架波音 737-200）在接近因帕尔机场时坠毁，机上 69 人全部遇难。
+- - 1989 年：太阳粒子事件影响了多伦多证券交易所的计算机，迫使交易暂停。
+- - 1987 年：西北航空公司 255 号航班（一架麦道 MD-82）在密歇根州底特律起飞后坠毁，机上 155 人中有 154 人死亡，地面上有两人。
+- - 1986 年：苏丹航空公司的一架福克 F27 友谊号飞机在马拉卡勒（今南苏丹）附近被击落，造成 60 人死亡。
+- - 1975 年：澳大利亚总理高夫·惠特拉姆 (Gough Whitlam) 在为期八年的波浪山 (Wave Hill) 罢工后象征性地将土地移交给古林吉人民 (Gough Whitlam)，这是澳大利亚原住民土地权利历史上的一个里程碑式事件，保罗·凯利 (Paul Kelly) 于 1991 年创作了一首歌曲，并举行了年度庆祝活动来纪念这一事件。
+- - 1972 年：在一次未成功的政变企图中，摩洛哥皇家空军向正在返回拉巴特的摩洛哥哈桑二世的飞机开火。
+- - 1966 年：越南战争：众议院非美活动委员会开始调查援助越共的美国人。该委员会打算制定立法，将这些活动定为非法。反战示威者扰乱集会，50 人被捕。
+- - 1964 年：越南战争：政变取代了 Dương Văn Minh，Nguyễn Khánh 将军成为南越总统。在美国大使馆的帮助下制定了新宪法。
+- - 1960 年：约瑟夫·基廷格 (Joseph Kittinger) 在美国新墨西哥州上空 102,800 英尺（31,300 米）的高度从热气球上跳伞，创下了 2012 年之前保持的三项记录：高空跳跃、自由落体和人类在没有飞机的情况下的最高速度。
+- - 1960 年：塞浦路斯从英国独立。
+- - 1954年：《体育画报》第一期出版。
+- - 1946 年：全海得拉巴工会大会在塞康德拉巴德成立。
+- - 1946 年：加尔各答开始大规模骚乱；72小时内将有4000多人丧生。
+- - 1945 年：越南国民代表大会（现任越南国会的前身）在山阳召开。
+- - 1944 年：前掠机翼喷气机 Junkers Ju 287 首次飞行。
+- - 1943 年：第二次世界大战：317 名希腊平民在希腊科梅诺村被德国第一山地师的士兵杀害。
+- - 1942 年：第二次世界大战：美国海军 L 级飞艇 L-8 从太平洋漂流，最终在加利福尼亚州戴利城坠毁。两人船员无法找到。
+- - 1933 年：安大略省多伦多发生克里斯蒂坑骚乱。
+- - 1930 年：第一届大英帝国运动会在安大略省汉密尔顿开幕，由加拿大总督威灵登子爵主持。
+- - 1930 年：第一部彩色有声动画片《Fiddlesticks》由 Ub Iwerks 发行。
+- - 1929年：1929年巴勒斯坦托管地巴勒斯坦阿拉伯人和犹太人之间爆发骚乱，并持续到月底。总共有 133 名犹太人和 116 名阿拉伯人被杀害。
+- - 1927 年：都尔航空竞赛从加利福尼亚州奥克兰开始，飞往夏威夷州檀香山，在此期间，八架参赛飞机中有六架坠毁或失踪。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-08-15 01:23:18 UTC）*
+*（更新于: 2026-08-16 01:34:22 UTC）*
