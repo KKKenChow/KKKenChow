@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2017: Tens of thousands of farmed non-native Atlantic salmon are accidentally released into the wild in Washington waters in the 2017 Cypress Island Atlantic salmon pen break.
-- 2013: The Dhamara Ghat train accident kills at least 37 people in the Indian state of Bihar.
-- 2010: Operation Iraqi Freedom ends, with the last of the United States brigade combat teams crossing the border to Kuwait.
-- 2009: A series of bombings in Baghdad, Iraq, kills 101 and injures 565 others.
-- 2005: The first-ever joint military exercise between Russia and China, called Peace Mission 2005 begins.
-- 2004: Google Inc. has its initial public offering on Nasdaq.
-- 2003: Shmuel HaNavi bus bombing: A suicide attack on a bus in Jerusalem, planned by Hamas, kills 23 Israelis, seven of them children.
-- 2003: A truck-bomb attack on United Nations headquarters in Iraq kills the agency's top envoy Sérgio Vieira de Mello and 21 other employees.
-- 2002: Khankala Mi-26 crash: A Russian Mil Mi-26 helicopter carrying troops is hit by a Chechen missile outside Grozny, killing 118 soldiers.
-- 1999: In Belgrade, Yugoslavia, tens of thousands of Serbians rally to demand the resignation of Federal Republic of Yugoslavia President Slobodan Milošević.
-- 1991: Crown Heights riot in New York City begins.
-- 1991: Dissolution of the Soviet Union: The August Coup begins when Soviet President Mikhail Gorbachev is placed under house arrest while on holiday in the town of Foros, Ukraine.
-- 1989: Several hundred East Germans cross the frontier between Hungary and Austria during the Pan-European Picnic, part of the events that began the process of the Fall of the Berlin Wall.
-- 1989: Polish president Wojciech Jaruzelski nominates Solidarity activist Tadeusz Mazowiecki to be the first non-communist prime minister in 42 years.
-- 1987: Hungerford massacre: In the United Kingdom, Michael Ryan kills sixteen people with a semi-automatic rifle and then commits suicide.
-- 1981: Gulf of Sidra Incident: United States F-14A Tomcat fighters intercept and shoot down two Libyan Sukhoi Su-22 fighter jets over the Gulf of Sidra.
-- 1980: Otłoczyn railway accident: In Poland's worst post-war railway accident, 67 people lose their lives and a further 62 are injured.
-- 1980: Saudia Flight 163, a Lockheed L-1011 TriStar burns after making an emergency landing at Riyadh International Airport in Riyadh, Saudi Arabia, killing 301 people.
-- 1978: In Iran, the Cinema Rex fire causes more than 300 deaths.
-- 1965: Japanese prime minister Eisaku Satō becomes the first post-World War II sitting prime minister to visit Okinawa Prefecture.
-- 1964: Syncom 3, the first geostationary communication satellite, is launched. Two months later, it would enable live coverage of the 1964 Summer Olympics.
-- 1960: Sputnik program: Korabl-Sputnik 2: The Soviet Union launches the satellite with the dogs Belka and Strelka, 40 mice, two rats and a variety of plants.
-- 1960: Cold War: In Moscow, Russia, Soviet Union, downed American U-2 pilot Francis Gary Powers is sentenced to ten years imprisonment by the Soviet Union for espionage.
-- 1955: In the Northeast United States, severe flooding caused by Hurricane Diane, claims 200 lives.
-- 1953: Cold War: The CIA and MI6 help to overthrow the government of Mohammad Mosaddegh in Iran and reinstate the Shah Mohammad Reza Pahlavi.
-- 1945: August Revolution: Viet Minh led by Ho Chi Minh take power in Hanoi, Vietnam.
-- 1944: World War II: Liberation of Paris: Paris, France rises against German occupation with the help of Allied troops.
-- 1942: World War II: Operation Jubilee (The Dieppe Raid): The 2nd Canadian Infantry Division leads an amphibious assault by allied forces on Dieppe, France and fails.
-- 1941: Germany and Romania sign the Tiraspol Agreement, rendering the region of Transnistria under control of the latter.
-- 1940: First flight of the B-25 Mitchell medium bomber.
+- 2020: Joe Biden gives his acceptance speech virtually for the 2020 Democratic presidential nomination at the 2020 Democratic National Convention.
+- 2016: Fifty-four people are killed when a suicide bomber detonates himself at a Kurdish wedding party in Gaziantep, Turkey.
+- 2014: Seventy-two people are killed in Japan's Hiroshima Prefecture by a series of landslides caused by a month's worth of rain that fell in one day.
+- 2012: A prison riot in the Venezuelan capital, Caracas, kills at least 20 people.
+- 2011: First Air Flight 6560 crashes 1 mile from the Resolute Bay runway, killing 12 of the 15 aboard.
+- 2008: Spanair Flight 5022, from Madrid, Spain to Gran Canaria, skids off the runway and crashes at Barajas Airport. Of the 172 people on board, 146 die immediately, and eight more later die of injuries sustained in the crash.
+- 2007: China Airlines Flight 120 catches fire and explodes after landing at Naha Airport in Okinawa, Japan.
+- 2006: Sri Lankan Civil War: Sri Lankan Tamil politician and former MP S. Sivamaharajah is shot dead at his home in Tellippalai.
+- 2002: A group of Iraqis opposed to the regime of Saddam Hussein take over the Iraqi embassy in Berlin, Germany for five hours before releasing their hostages and surrendering.
+- 1998: U.S. embassy bombings: The United States launches cruise missile attacks against alleged al-Qaeda camps in Afghanistan and a suspected chemical weapons plant in Sudan in retaliation for the August 7 bombings of American embassies in Kenya and Tanzania.
+- 1998: The Supreme Court of Canada rules that Quebec cannot legally secede from Canada without the federal government's approval.
+- 1997: Souhane massacre in Algeria; over 60 people are killed and 15 kidnapped.
+- 1995: The Firozabad rail disaster kills 358 people in Firozabad, India.
+- 1992: In India, Meitei language (officially known as Manipuri language) was included in the scheduled languages' list and made one of the official languages of the Indian Government.
+- 1991: Estonia, occupied by and incorporated into the Soviet Union in 1940, issues a decision on the re-establishment of independence on the basis of legal continuity of its pre-occupation statehood.
+- 1991: Dissolution of the Soviet Union, August Coup: More than 100,000 people rally outside the Soviet Union's parliament building protesting the coup aiming to depose President Mikhail Gorbachev.
+- 1989: The pleasure boat Marchioness sinks on the River Thames following a collision. Fifty-one people are killed.
+- 1988: The Troubles: Eight British soldiers are killed and 28 wounded when their bus is hit by an IRA roadside bomb in Ballygawley, County Tyrone.
+- 1988: Iran-Iraq War: A ceasefire is agreed after almost eight years of war.
+- 1988: "Black Saturday" of the Yellowstone fire in Yellowstone National Park
+- 1986: In Edmond, Oklahoma, U.S. Postal employee Patrick Sherrill shoots and kills 14 of his co-workers and then commits suicide.
+- 1977: Voyager program: NASA launches the Voyager 2 spacecraft.
+- 1975: ČSA Flight 540 crashes on approach to Damascus International Airport in Damascus, Syria, killing 126 people.
+- 1975: Viking program: NASA launches the Viking 1 planetary probe toward Mars.
+- 1968: Cold War: Warsaw Pact troops invade Czechoslovakia, crushing the Prague Spring. East German participation is limited to a few specialists due to memories of the recent war. Only Albania and Romania refuse to participate.
+- 1962: The NS Savannah, the world's first nuclear-powered civilian ship, embarks on its maiden voyage.
+- 1960: Senegal breaks from the Mali Federation, declaring its independence.
+- 1955: Battle of Philippeville: In Morocco, a force of Berbers from the Atlas Mountains region of Algeria raid two rural settlements and kill 77 French nationals.
+- 1949: Hungary adopts the Hungarian Constitution of 1949 and becomes a People's Republic.
+- 1948: Soviet Consul General in New York, Jacob M. Lomakin is expelled by the United States, due to the Kasenkina Case.
 
 Data from muffinlabs
-*(Updated at: 2026-08-19 01:23:59 UTC)*
+*(Updated at: 2026-08-20 01:23:15 UTC)*
 
 # 历史上的今天 
 
-- - 2017 年：在 2017 年赛普拉斯岛大西洋鲑鱼围栏休息期间，数以万计的养殖非本地大西洋鲑鱼被意外释放到华盛顿水域的野外。
-- - 2013 年：印度比哈尔邦达马拉加特 (Dhamara Ghat) 火车事故造成至少 37 人死亡。
-- - 2010年：伊拉克自由行动结束，最后一批美国旅战斗队越过边境前往科威特。
-- - 2009年：伊拉克巴格达发生一系列爆炸事件，造成101人死亡、565人受伤。
-- - 2005年：俄罗斯和中国之间首次名为“和平使命2005”的联合军事演习开始。
-- - 2004 年：Google Inc. 在纳斯达克进行首次公开​​募股。
-- - 2003 年：什穆埃尔·哈纳维 (Shmuel HaNavi) 巴士爆炸事件：哈马斯策划的耶路撒冷巴士自杀式袭击造成 23 名以色列人死亡，其中 7 名儿童。
-- - 2003 年：联合国驻伊拉克总部遭遇卡车炸弹袭击，导致该机构最高特使塞尔吉奥·维埃拉·德梅洛和其他 21 名员工丧生。
-- - 2002 年：汉卡拉 Mi-26 坠毁：一架载有部队的俄罗斯 Mil Mi-26 直升机在格罗兹尼郊外被车臣导弹击中，造成 118 名士兵死亡。
-- - 1999年：在南斯拉夫贝尔格莱德，数万名塞尔维亚人集会要求南斯拉夫联盟共和国总统斯洛博丹·米洛舍维奇辞职。
-- - 1991 年：纽约市皇冠高地骚乱开始。
-- - 1991 年：苏联解体：苏联总统米哈伊尔·戈尔巴乔夫在乌克兰福罗斯镇度假时被软禁，八月政变开始。
-- - 1989 年：数百名东德人在泛欧野餐期间穿越匈牙利和奥地利之间的边境，这是柏林墙倒塌过程的一部分。
-- - 1989 年：波兰总统沃伊切赫·雅鲁泽尔斯基 (Wojciech Jaruzelski) 提名团结工会活动家塔德乌什·马佐维耶茨基 (Tadeusz Mazowiecki) 担任 42 年来第一位非共产主义总理。
-- - 1987 年：亨格福德大屠杀：在英国，迈克尔·瑞安 (Michael Ryan) 用半自动步枪杀死了 16 人，然后自杀。
-- - 1981年：锡德拉湾事件：美国F-14A“雄猫”战斗机在锡德拉湾上空拦截并击落两架利比亚苏霍伊Su-22战斗机。
-- - 1980 年：奥特沃钦铁路事故：这是波兰战后最严重的铁路事故，造成 67 人丧生，另有 62 人受伤。
-- - 1980 年：沙特阿拉伯航空 163 号航班，一架洛克希德 L-1011 三星客机在沙特阿拉伯利雅得国际机场紧急迫降后起火，造成 301 人死亡。
-- - 1978 年：在伊朗，雷克斯影院 (Cinema Rex) 火灾导致 300 多人死亡。
-- - 1965 年：日本首相佐藤荣作成为二战后首位访问冲绳县的在任首相。
-- - 1964 年：第一颗地球静止通信卫星 Syncom 3 发射。两个月后，它就实现了 1964 年夏季奥运会的现场报道。
-- - 1960 年：人造卫星计划：Korabl-Sputnik 2：苏联发射了卫星，卫星上有狗 Belka 和 Strelka、40 只老鼠、两只老鼠和各种植物。
-- - 1960年：冷战：在苏联莫斯科，被击落的美国U-2飞行员弗朗西斯·加里·鲍尔斯因间谍罪被苏联判处十年监禁。
-- - 1955 年：在美国东北部，飓风黛安造成严重洪水，夺去了 200 人的生命。
-- - 1953 年：冷战：中央情报局和军情六处帮助推翻了伊朗穆罕默德·摩萨台政府并恢复了穆罕默德·礼萨·巴列维国王的统治。
-- - 1945年：八月革命：胡志明领导的越盟在越南河内掌权。
-- - 1944 年：第二次世界大战：巴黎解放：法国巴黎在盟军的帮助下反抗德国占领。
-- - 1942 年：第二次世界大战：银禧行动（迪耶普突袭）：加拿大第 2 步兵师率领盟军对法国迪耶普发动两栖攻击，但失败。
-- - 1941年：德国和罗马尼亚签署《蒂拉斯波尔协定》，使德涅斯特河沿岸地区受后者控制。
-- - 1940 年：B-25 米切尔中型轰炸机首飞。
+- - 2020 年：乔·拜登在 2020 年民主党全国代表大会上以虚拟方式发表 2020 年民主党总统候选人提名演讲。
+- - 2016 年：一名自杀式炸弹袭击者在土耳其加济安泰普的库尔德婚礼上引爆，造成 54 人死亡。
+- - 2014 年：日本广岛县一日降雨量达一个月之久，引发一系列山体滑坡，造成 72 人死亡。
+- - 2012年：委内瑞拉首都加拉加斯发生监狱骚乱，造成至少20人死亡。
+- - 2011 年：第一架航空 6560 号航班在距离坚毅湾跑道 1 英里处坠毁，机上 15 人中的 12 人丧生。
+- - 2008 年：从西班牙马德里飞往大加那利岛的西班牙航空 5022 号航班冲出跑道并在巴拉哈斯机场坠毁。机上 172 人中，有 146 人当场死亡，另有 8 人因事故受伤而死亡。
+- - 2007年：中华航空120号航班在日本冲绳那霸机场降落后起火并爆炸。
+- - 2006 年：斯里兰卡内战：斯里兰卡泰米尔政治家和前议员 S. Sivamaharajah 在 Tellippalai 的家中被枪杀。
+- - 2002年：一群反对萨达姆侯赛因政权的伊拉克人占领了伊拉克驻德国柏林大使馆五个小时，然后释放人质并投降。
+- - 1998 年：美国大使馆爆炸案：美国对阿富汗境内的基地组织营地和苏丹境内的一座疑似化学武器工厂发动巡航导弹袭击，以报复 8 月 7 日美国驻肯尼亚和坦桑尼亚大使馆发生的爆炸事件。
+- - 1998年：加拿大最高法院裁定，未经联邦政府批准，魁北克不能合法地脱离加拿大。
+- - 1997年：阿尔及利亚苏哈内大屠杀；60 多人被杀，15 人被绑架。
+- - 1995 年：印度菲罗扎巴德铁路灾难导致 358 人死亡。
+- - 1992年：在印度，Meitei语言（正式名称为Manipuri语言）被列入预定语言列表，并成为印度政府的官方语言之一。
+- - 1991年：爱沙尼亚于1940年被苏联占领并并入苏联，在其被占领前国家的法律连续性的基础上发布了重新建立独立的决定。
+- - 1991年：苏联解体，八月政变：超过10万人在苏联议会大厦外集会，抗议旨在废黜米哈伊尔·戈尔巴乔夫总统的政变。
+- - 1989 年：Marchioness 游船在泰晤士河发生碰撞后沉没。五十一人被杀。
+- - 1988 年：麻烦：在蒂龙郡巴利高利，他们的巴士被 IRA 路边炸弹击中，造成 8 名英国士兵死亡、28 人受伤。
+- - 1988 年：两伊战争：经过近八年的战争，双方达成停火协议。
+- - 1988年：黄石国家公园黄石火灾的“黑色星期六”
+- - 1986 年：在俄克拉荷马州埃德蒙，美国邮政员工 Patrick Sherrill 枪杀了 14 名同事，然后自杀。
+- - 1977 年：航海者计划：NASA 发射航海者 2 号宇宙飞船。
+- - 1975 年：ČSA 540 航班在飞往叙利亚大马士革大马士革国际机场时坠毁，造成 126 人死亡。
+- - 1975 年：维京计划：美国宇航局向火星发射维京 1 号行星探测器。
+- - 1968 年：冷战：华沙条约组织军队入侵捷克斯洛伐克，镇压了布拉格之春。由于对最近战争的记忆，东德的参与仅限于少数专家。只有阿尔巴尼亚和罗马尼亚拒绝参加。
+- - 1962 年：世界上第一艘核动力民用船 NS Savannah 开始其处女航。
+- - 1960年：塞内加尔脱离马里联邦，宣布独立。
+- - 1955 年：菲利普维尔战役：在摩洛哥，一支来自阿尔及利亚阿特拉斯山脉地区的柏柏尔人突袭了两个农村定居点，杀死了 77 名法国国民。
+- - 1949 年：匈牙利通过 1949 年匈牙利宪法，成为人民共和国。
+- - 1948 年：苏联驻纽约总领事雅各布·M·洛马金 (Jacob M. Lomakin) 因卡森金纳案被美国驱逐。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-08-19 01:23:59 UTC）*
+*（更新于: 2026-08-20 01:23:15 UTC）*
