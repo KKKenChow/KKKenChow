@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2012: Ethnic clashes over grazing rights for cattle in Kenya's Tana River District result in more than 52 deaths.
-- 2007: The Texas Rangers defeat the Baltimore Orioles 30-3, the most runs scored by a team in modern Major League Baseball history.
-- 2006: Grigori Perelman is awarded the Fields Medal for his proof of the Poincaré conjecture in mathematics but refuses to accept the medal.
-- 2006: Pulkovo Aviation Enterprise Flight 612 crashes near the Russian border over eastern Ukraine, killing all 170 people on board.
-- 2004: Versions of The Scream and Madonna, two paintings by Edvard Munch, are stolen at gunpoint from a museum in Oslo, Norway.
-- 2003: Chief Justice of the Supreme Court of Alabama Roy Moore is suspended after refusing to comply with a federal court order to remove a rock inscribed with the Ten Commandments from the lobby of the Alabama Supreme Court building.
-- 1999: China Airlines Flight 642 crashes at Hong Kong International Airport, killing three people and injuring 208 more.
-- 1992: FBI sniper Lon Horiuchi shoots and kills Vicki Weaver during an 11-day siege at her home at Ruby Ridge, Idaho.
-- 1991: Iceland is the first nation in the world to recognize the independence of the Baltic states.
-- 1989: Nolan Ryan strikes out Rickey Henderson to become the first Major League Baseball pitcher to record 5,000 strikeouts.
-- 1985: British Airtours Flight 28M suffers an engine fire during takeoff at Manchester Airport. The pilots abort but due to inefficient evacuation procedures 55 people are killed, mostly from smoke inhalation.
-- 1981: Far Eastern Air Transport Flight 103 disintegrates in mid-air and crashes in Sanyi Township, Miaoli County, Taiwan. All 110 people on board are killed.
-- 1978: The District of Columbia Voting Rights Amendment is passed by the U.S. Congress, although it is never ratified by a sufficient number of states.
-- 1978: Nicaraguan Revolution: The FSLN seizes the National Congress of Nicaragua, along with over a thousand hostages.
-- 1973: The Congress of Chile votes in favour of a resolution condemning President Salvador Allende's government and demands that he resign or else be unseated through force and new elections.
-- 1972: Rhodesia is expelled by the IOC for its racist policies.
-- 1971: J. Edgar Hoover and John Mitchell announce the arrest of 20 of the Camden 28.
-- 1968: Pope Paul VI arrives in Bogotá, Colombia. It is the first visit of a pope to Latin America.
-- 1966: Labor movements NFWA and AWOC merge to become the United Farm Workers Organizing Committee (UFWOC), the predecessor of the United Farm Workers.
-- 1965: Juan Marichal, pitcher for the San Francisco Giants, strikes John Roseboro, catcher for the Los Angeles Dodgers, on the head with a bat, sparking a 14-minute brawl, one of the most violent on-field incidents in sports history.
-- 1963: X-15 Flight 91 reaches the highest altitude of the X-15 program (107.96 km (67.08 mi) (354,200 feet)).
-- 1962: The OAS attempts to assassinate French president Charles de Gaulle.
-- 1953: The penal colony on Devil's Island is permanently closed.
-- 1949: The Queen Charlotte earthquake is Canada's strongest since the 1700 Cascadia earthquake.
-- 1944: World War II: Holocaust of Kedros in Crete by German forces.
-- 1942: Brazil declares war on Germany, Japan and Italy.
-- 1934: Bill Woodfull of Australia becomes the only test cricket captain to twice regain The Ashes.
-- 1922: Michael Collins, Commander-in-chief of the Irish Free State Army, is shot dead in an ambush during the Irish Civil War.
-- 1902: At least 6,000 people are killed by the magnitude 7.7 Kashgar earthquake in the Tien Shan mountains.
-- 1902: Theodore Roosevelt becomes the first President of the United States to make a public appearance in an automobile.
+- 2023: A business jet carrying key leadership members of the Russian private military company Wagner Group crashes, killing all ten people on board.
+- 2023: Chandrayaan-3 mission initiated first Moon landing in Indian history.
+- 2013: A riot at the Palmasola prison complex in Santa Cruz, Bolivia kills 31 people.
+- 2012: A hot-air balloon crashes near the Slovenian capital of Ljubljana, killing six people and injuring 28 others.
+- 2011: Libyan leader Muammar Gaddafi is overthrown after the National Transitional Council forces take control of Bab al-Azizia compound during the Libyan Civil War.
+- 2011: A magnitude 5.8 (class: moderate) earthquake occurs in Virginia. Damage occurs to monuments and structures in Washington, D.C. and the resulted damage is estimated at 200 million-300 million USD.
+- 2010: The Manila hostage crisis occurred near the Quirino Grandstand in Manila, Philippines killing 9 people including the perpetrator while injuring 9 others.
+- 2007: The skeletal remains of Russia's last royal family members Alexei Nikolaevich, Tsarevich of Russia, and his sister Grand Duchess Anastasia are discovered near Yekaterinburg, Russia.
+- 2006: Natascha Kampusch, who had been abducted at the age of ten, escapes from her captor Wolfgang Přiklopil, after eight years of captivity.
+- 2000: Gulf Air Flight 072 crashes into the Persian Gulf near Manama, Bahrain, killing 143.
+- 1994: Eugene Bullard, the only African American pilot in World War I, is posthumously commissioned as Second Lieutenant in the United States Air Force.
+- 1991: The World Wide Web is opened to the public.
+- 1990: West and East Germany announce that they will reunite on October 3.
+- 1990: Armenia declares its independence from the Soviet Union.
+- 1990: Saddam Hussein appears on Iraqi state television with a number of Western "guests" (actually hostages) to try to prevent the Gulf War.
+- 1989: Singing Revolution: Two million people from Estonia, Latvia and Lithuania stand on the Vilnius-Tallinn road, holding hands.
+- 1985: Hans Tiedge, top counter-spy of West Germany, defects to East Germany.
+- 1975: The Pontiac Silverdome opens in Pontiac, Michigan, 30 miles (48 km) northwest of Detroit, Michigan
+- 1975: The start of the Wave Hill walk-off by Gurindji people in Australia, lasting eight years, a landmark event in the history of Indigenous land rights in Australia, commemorated in a 1991 Paul Kelly song and an annual celebration.
+- 1973: A bank robbery gone wrong in Stockholm, Sweden, turns into a hostage crisis; over the next five days the hostages begin to sympathise with their captors, leading to the term "Stockholm syndrome".
+- 1970: Organized by Mexican American labor union leader César Chávez, the Salad Bowl strike, the largest farm worker strike in U.S. history, begins.
+- 1966: Lunar Orbiter 1 takes the first photograph of Earth from orbit around the Moon.
+- 1958: Chinese Civil War: The Second Taiwan Strait Crisis begins with the People's Liberation Army's bombardment of Quemoy.
+- 1954: The Cruise of the Kings, a royal cruise organised by the Queen Consort of Greece, Frederica of Hanover, departs from Marseille, France.
+- 1954: The first flight of the Lockheed C-130 multi-role aircraft takes place.
+- 1948: The World Council of Churches is formed by 147 churches from 44 countries.
+- 1946: Ordinance No. 46 of the British Military Government constitutes the German Länder (states) of Hanover and Schleswig-Holstein.
+- 1945: World War II: Soviet-Japanese War: The USSR State Defense Committee issues Decree no. 9898cc "About Receiving, Accommodation, and Labor Utilization of the Japanese Army Prisoners of War".
+- 1944: Freckleton air disaster: A United States Army Air Forces B-24 Liberator bomber crashes into a school in Freckleton, England, killing 61 people.
+- 1944: World War II: King Michael of Romania dismisses the pro-Nazi government of Marshal Antonescu, who is later arrested. Romania switches sides from the Axis to the Allies.
 
 Data from muffinlabs
-*(Updated at: 2026-08-22 01:22:27 UTC)*
+*(Updated at: 2026-08-23 01:35:57 UTC)*
 
 # 历史上的今天 
 
-- - 2012 年：肯尼亚塔纳河地区因牛群放牧权而发生的种族冲突导致超过 52 人死亡。
-- - 2007 年：德克萨斯游骑兵队以 30-3 击败巴尔的摩金莺队，这是现代美国职业棒球大联盟历史上得分最多的球队。
-- - 2006年：格里戈里·佩雷尔曼因证明数学中的庞加莱猜想而被授予菲尔兹奖，但他拒绝接受该奖章。
-- - 2006 年：普尔科沃航空公司 612 号航班在乌克兰东部上空靠近俄罗斯边境的地方坠毁，机上 170 人全部遇难。
-- - 2004 年：爱德华·蒙克 (Edvard Munch) 的两幅画作《呐喊》和《麦当娜》的版本在挪威奥斯陆的一家博物馆中被人持枪盗走。
-- - 2003年：阿拉巴马州最高法院首席大法官罗伊·摩尔因拒绝遵守联邦法院的命令而被停职，该命令从阿拉巴马州最高法院大楼的大厅移走一块刻有十诫的岩石。
-- - 1999年：中华航空642号航班在香港国际机场坠毁，造成3人死亡、208人受伤。
-- - 1992 年：联邦调查局 (FBI) 狙击手朗·堀内 (Lon Horiuchi) 在对维姬·韦弗 (Vicki Weaver) 爱达荷州红宝石岭 (Ruby Ridge) 家进行为期 11 天的围困期间射杀了她。
-- - 1991年：冰岛是世界上第一个承认波罗的海国家独立的国家。
-- - 1989 年：诺兰·瑞安 (Nolan Ryan) 三振出局瑞奇·亨德森 (Rickey Henderson)，成为美国职业棒球大联盟第一位创下 5,000 次三振记录的投手。
-- - 1985 年：英国航空旅游公司 28M 航班在曼彻斯特机场起飞时发动机起火。飞行员中止，但由于疏散程序效率低下，导致 55 人死亡，其中大部分死于吸入烟雾。
-- - 1981年：远东航空103号班机在台湾苗栗县三义乡半空中解体坠毁。机上110人全部遇难。
-- - 1978 年：美国国会通过了《哥伦比亚特区投票权修正案》，尽管该修正案从未得到足够数量的州的批准。
-- - 1978 年：尼加拉瓜革命：FSLN 夺取了尼加拉瓜国民议会，并劫持了一千多名人质。
-- - 1973年：智利国会投票赞成一项谴责萨尔瓦多·阿连德总统政府的决议，并要求他辞职，否则通过武力和重新选举将其赶下台。
-- - 1972年：罗德西亚因其种族主义政策被国际奥委会驱逐。
-- - 1971 年：J. 埃德加·胡佛 (J. Edgar Hoover) 和约翰·米切尔 (John Mitchell) 宣布逮捕卡姆登 28 人中的 20 人。
-- - 1968 年：教皇保罗六世抵达哥伦比亚波哥大。这是教皇首次访问拉丁美洲。
-- - 1966年：劳工运动NFWA和AWOC合并成为联合农场工人组织委员会（UFWOC），即联合农场工人的前身。
-- - 1965 年：旧金山巨人队投手胡安·马里查尔用球棒击打洛杉矶道奇队捕手约翰·罗斯伯勒的头部，引发了长达 14 分钟的斗殴，这是体育史上最暴力的场上事件之一。
-- - 1963 年：X-15 91 号航班达到 X-15 计划的最高高度（107.96 公里（67.08 英里）（354,200 英尺））。
-- - 1962 年：美洲国家组织试图暗杀法国总统戴高乐。
-- - 1953 年：魔鬼岛上的流放地被永久关闭。
-- - 1949 年：夏洛特皇后地震是加拿大自 1700 年卡斯卡迪亚地震以来最强烈的地震。
-- - 1944 年：第二次世界大战：德国军队对克里特岛的凯德罗斯进行大屠杀。
-- - 1942 年：巴西对德国、日本和意大利宣战。
-- - 1934 年：澳大利亚的比尔·伍德福尔 (Bill Woodfull) 成为唯一一位两次夺回灰烬杯的板球测试队长。
-- - 1922 年：爱尔兰内战期间，爱尔兰自由邦军总司令迈克尔·柯林斯在一次伏击中被枪杀。
-- - 1902 年：天山喀什发生里氏 7.7 级地震，造成至少 6,000 人死亡。
-- - 1902 年：西奥多·罗斯福成为第一位乘坐汽车公开露面的美国总统。
+- - 2023 年：一架载有俄罗斯私营军事公司瓦格纳集团主要领导成员的公务机坠毁，机上 10 人全部遇难。
+- - 2023 年：月船 3 号任务启动了印度历史上的首次登月。
+- - 2013 年：玻利维亚圣克鲁斯帕尔马索拉监狱发生骚乱，造成 31 人死亡。
+- - 2012 年：一个热气球在斯洛文尼亚首都卢布尔雅那附近坠毁，造成 6 人死亡、28 人受伤。
+- - 2011年：利比亚内战期间，全国过渡委员会部队控制了Bab al-Azizia大院，利比亚领导人穆阿迈尔·卡扎菲被推翻。
+- - 2011 年：弗吉尼亚州发生 5.8 级（级别：中度）地震。华盛顿特区的纪念碑和建筑遭到破坏，造成的损失估计为 2 亿至 3 亿美元。
+- - 2010年：菲律宾马尼拉基里诺看台附近发生马尼拉人质危机，造成包括肇事者在内的9人死亡、9人受伤。
+- - 2007年：俄罗斯最后一位王室成员俄罗斯沙皇阿列克谢·尼古拉耶维奇和他的妹妹阿纳斯塔西娅大公夫人的骨骼遗骸在俄罗斯叶卡捷琳堡附近被发现。
+- - 2006 年：十岁时被绑架的娜塔莎·坎普什 (Natascha Kampusch) 在被囚禁八年后从绑架者沃尔夫冈·普里克洛皮尔 (Wolfgang Přiklopil) 手中逃脱。
+- - 2000 年：海湾航空 072 号航班在巴林麦纳麦附近的波斯湾坠毁，造成 143 人死亡。
+- - 1994 年：第一次世界大战中唯一的非洲裔美国飞行员尤金·布拉德 (Eugene Bullard) 被追授为美国空军少尉。
+- - 1991 年：万维网向公众开放。
+- - 1990 年：西德和东德宣布将于 10 月 3 日重新统一。
+- - 1990年：亚美尼亚宣布脱离苏联独立。
+- - 1990 年：萨达姆·侯赛因与一些西方“客人”（实际上是人质）一起出现在伊拉克国家电视台，试图阻止海湾战争。
+- - 1989 年：歌唱革命：来自爱沙尼亚、拉脱维亚和立陶宛的 200 万人手牵手站在维尔纽斯至塔林的道路上。
+- - 1985 年：西德顶级反间谍汉斯·蒂奇叛逃至东德。
+- - 1975 年：庞蒂亚克银顶体育馆 (Pontiac Silverdome) 在密歇根州庞蒂亚克 (Pontiac) 开业，距密歇根州底特律西北 30 英里（48 公里）
+- - 1975 年：澳大利亚古林吉 (Grindji) 人开始在波浪山 (Wave Hill) 举行游行，持续八年，这是澳大利亚原住民土地权利历史上的里程碑事件，1991 年保罗·凯利 (Paul Kelly) 歌曲和年度庆祝活动对此进行了纪念。
+- - 1973 年：瑞典斯德哥尔摩发生一起银行抢劫案，酿成人质危机；在接下来的五天里，人质开始同情绑架者，从而产生了“斯德哥尔摩综合症”这个词。
+- - 1970 年：由墨西哥裔美国工会领袖塞萨尔·查韦斯 (César Chávez) 组织的沙拉碗罢工开始，这是美国历史上最大规模的农场工人罢工。
+- - 1966 年：月球轨道飞行器 1 号从绕月轨道拍摄了第一张地球照片。
+- - 1958年：中国内战：第二次台海危机始于人民解放军轰炸金门。
+- - 1954 年：由希腊王后汉诺威的弗雷德丽卡组织的皇家游轮“国王游轮”从法国马赛出发。
+- - 1954 年：洛克希德 C-130 多用途飞机首次飞行。
+- - 1948年：世界基督教协进会由来自44个国家的147个教会组成。
+- - 1946 年：英国军政府第 46 号法令成立德国汉诺威州和石勒苏益格-荷尔斯泰因州。
+- - 1945年：第二次世界大战：苏日战争：苏联国防委员会发布第1945号法令。9898cc《关于日军战俘的接收、住宿和劳务利用》。
+- - 1944 年：弗雷克尔顿空难：一架美国陆军航空队 B-24 解放者轰炸机坠毁在英国弗雷克尔顿的一所学校，造成 61 人死亡。
+- - 1944 年：第二次世界大战：罗马尼亚国王迈克尔解散了安东内斯库元帅的亲纳粹政府，后者随后被捕。罗马尼亚从轴心国转向同盟国。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-08-22 01:22:27 UTC）*
+*（更新于: 2026-08-23 01:35:57 UTC）*
