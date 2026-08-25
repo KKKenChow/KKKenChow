@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: Japan officially begins discharging treated radioactive water from the Fukushima Daiichi Nuclear Power Plant into the Pacific Ocean, sparking international concerns and condemnation.
-- 2020: Erin O'Toole is elected leader of the Conservative Party of Canada.
-- 2017: The National Space Agency of Taiwan successfully launches the observation satellite Formosat-5 into space.
-- 2016: Proxima Centauri b, the closest exoplanet to Earth, is discovered by the European Southern Observatory.
-- 2016: An earthquake strikes Central Italy with a magnitude of 6.2, with aftershocks felt as far as Rome and Florence. Around 300 people are killed.
-- 2014: A magnitude 6.0 earthquake strikes the San Francisco Bay Area; it is the largest in that area since 1989.
-- 2012: Anders Behring Breivik, perpetrator of the 2011 Norway attacks, is sentenced to 21 years of preventive detention.
-- 2010: Agni Air Flight 101 crashes near Shikharpur, Makwanpur, Nepal, killing all 14 people on board.
-- 2010: Henan Airlines Flight 8387 crashes at Yichun Lindu Airport in Yichun, Heilongjiang, China, killing 44 out of the 96 people on board.
-- 2010: In San Fernando, Tamaulipas, Mexico, 72 illegal immigrants are killed by Los Zetas and eventually found dead by Mexican authorities.
-- 2008: A Cessna 208 Caravan crashes in Cabañas, Zacapa, Guatemala, killing 11 people.
-- 2008: Sixty-five passengers are killed when Iran Aseman Airlines Flight 6895 crashes during an emergency landing at Manas International Airport in Bishkek, Kyrgyzstan.
-- 2006: The International Astronomical Union (IAU) redefines the term "planet" such that Pluto is now considered a dwarf planet.
-- 2004: Ninety passengers die after two airliners explode after flying out of Domodedovo International Airport, near Moscow. The explosions are caused by suicide bombers from Chechnya.
-- 2001: Air Transat Flight 236 loses all engine power over the Atlantic Ocean, forcing the pilots to conduct an emergency landing in the Azores.
-- 1998: First radio-frequency identification (RFID) human implantation tested in the United Kingdom.
-- 1995: Microsoft releases Windows 95 to the public in North America.
-- 1992: Hurricane Andrew makes landfall in Homestead, Florida as a Category 5 hurricane, causing up to $25 billion (1992 USD) in damages.
-- 1991: Ukraine declares itself independent from the Soviet Union.
-- 1991: Mikhail Gorbachev resigns as head of the Communist Party of the Soviet Union.
-- 1989: Tadeusz Mazowiecki is chosen as the first non-communist prime minister in Central and Eastern Europe.
-- 1989: Colombian drug barons declare "total war" on the Colombian government.
-- 1981: Mark David Chapman is sentenced to 20 years to life in prison for murdering John Lennon.
-- 1970: Vietnam War protesters bomb Sterling Hall at the University of Wisconsin-Madison, leading to an international manhunt for the perpetrators.
-- 1967: Led by Abbie Hoffman, the Youth International Party temporarily disrupts trading at the New York Stock Exchange by throwing dollar bills from the viewing gallery, causing trading to cease as brokers scramble to grab them.
-- 1963: Buddhist crisis: As a result of the Xá Lợi Pagoda raids, the US State Department cables the United States Embassy, Saigon to encourage Army of the Republic of Vietnam generals to launch a coup against President Ngô Đình Diệm if he did not remove his brother Ngô Đình Nhu.
-- 1954: Vice president João Café Filho takes office as president of Brazil, following the suicide of Getúlio Vargas.
-- 1954: The Communist Control Act goes into effect, outlawing the Communist Party in the United States.
-- 1951: United Air Lines Flight 615 crashes near Decoto, California, killing 50 people.
-- 1950: Edith Sampson becomes the first black U.S. delegate to the United Nations.
+- 2017: Conflict in Rakhine State (2016-present): One hundred seventy people are killed in at least 26 separate attacks carried out by the Arakan Rohingya Salvation Army, leading to the governments of Myanmar and Malaysia designating the group as a terrorist organisation.
+- 2017: Hurricane Harvey makes landfall in Texas as a powerful Category 4 hurricane, the strongest hurricane to make landfall in the United States since 2004.
+- 2012: Voyager 1 spacecraft enters interstellar space, becoming the first man-made object to do so.
+- 2011: Fifty-two people are killed during an arson attack caused by members of the drug cartel Los Zetas.
+- 2010: A Filair Let L-410 Turbolet crashes on approach to Bandundu Airport, killing 20.
+- 2006: Former Prime Minister of Ukraine Pavlo Lazarenko is sentenced to nine years imprisonment for money laundering, wire fraud, and extortion.
+- 2005: Hurricane Katrina makes landfall in Florida.
+- 2003: NASA successfully launches the Spitzer Space Telescope into space.
+- 2001: American singer Aaliyah and several members of her entourage are killed as their overloaded aircraft crashes shortly after takeoff from Marsh Harbour Airport, Bahamas.
+- 1997: Egon Krenz, the former East German leader, is convicted of a shoot-to-kill policy at the Berlin Wall.
+- 1991: Linus Torvalds announces the first version of what will become Linux.
+- 1991: The Battle of Vukovar begins. An 87-day siege of Vukovar by the Yugoslav People's Army (JNA), supported by various Serb paramilitary forces, between August and November 1991 (during the Croatian War of Independence).
+- 1991: Belarus gains its independence from the Soviet Union.
+- 1989: Pakistan International Airlines Flight 404, carrying 54 people, disappears over the Himalayas after takeoff from Gilgit Airport in Pakistan. The aircraft was never found.
+- 1989: Voyager 2 spacecraft makes its closest approach to Neptune, the last planet in the Solar System at the time, due to Pluto being within Neptune's orbit from 1979 to 1999.
+- 1985: Bar Harbor Airlines Flight 1808 crashes near Auburn/Lewiston Municipal Airport in Auburn, Maine, killing all eight people on board including peace activist and child actress Samantha Smith.
+- 1981: Voyager 2 spacecraft makes its closest approach to Saturn.
+- 1980: The last performance of the Jahrhundertring at the Bayreuth Festival receives ovations of 45 minutes.
+- 1980: Zimbabwe joins the United Nations.
+- 1967: George Lincoln Rockwell, founder of the American Nazi Party, is assassinated by a former member of his group.
+- 1961: President Jânio Quadros of Brazil resigns after just seven months in power, initiating a political crisis that culminates in a military coup in 1964.
+- 1960: The Games of the XVII Olympiad commence in Rome, Italy.
+- 1958: The world's first publicly marketed instant noodles, Chikin Ramen, are introduced by Taiwanese-Japanese businessman Momofuku Ando.
+- 1950: To avert a threatened strike during the Korean War, President Truman orders Secretary of the Army Frank Pace to seize control of the nation's railroads.
+- 1948: The House Un-American Activities Committee holds first-ever televised congressional hearing: "Confrontation Day" between Whittaker Chambers and Alger Hiss.
+- 1945: The August Revolution ends as Emperor Bảo Đại abdicates, ending the Nguyễn dynasty.
+- 1945: Ten days after World War II ends with Japan announcing its surrender, armed supporters of the Chinese Communist Party kill U.S. intelligence officer John Birch, regarded by some of the American right as the first victim of the Cold War.
+- 1944: World War II: Paris is liberated by the Allies.
+- 1942: World War II: Battle of Milne Bay: Japanese marines assault Allied airfields at Milne Bay, New Guinea, initiating the Battle of Milne Bay.
+- 1942: World War II: Second day of the Battle of the Eastern Solomons; a Japanese naval transport convoy headed towards Guadalcanal is turned back by an Allied air attack.
 
 Data from muffinlabs
-*(Updated at: 2026-08-24 01:27:23 UTC)*
+*(Updated at: 2026-08-25 01:24:21 UTC)*
 
 # 历史上的今天 
 
-- - 2023年：日本正式开始将福岛第一核电站处理后的放射性水排入太平洋，引发国际关注和谴责。
-- - 2020 年：艾琳·奥图尔当选加拿大保守党领袖。
-- - 2017年：台湾国家航天局成功将福卫五号观测卫星送入太空。
-- - 2016年：欧洲南方天文台发现了距地球最近的系外行星比邻星b。
-- - 2016年：意大利中部发生里氏6.2级地震，余震远至罗马和佛罗伦萨。约300人死亡。
-- - 2014年：旧金山湾区发生里氏6.0级地震；这是自 1989 年以来该地区最大的一次。
-- - 2012 年：2011 年挪威袭击事件的肇事者安德斯·贝林·布雷维克 (Anders Behring Breivik) 被判处 21 年预防性拘留。
-- - 2010 年：烈火航空 101 号航班在尼泊尔马克万普尔希哈普尔附近坠毁，机上 14 人全部遇难。
-- - 2010年：河南航空8387航班在中国黑龙江伊春林都机场坠毁，机上96人中的44人丧生。
-- - 2010年：在墨西哥塔毛利帕斯州圣费尔南多，72名非法移民被洛斯泽塔斯杀害，最终被墨西哥当局发现死亡。
-- - 2008 年：一架塞斯纳 208 Caravan 在危地马拉萨卡帕的卡瓦尼亚斯坠毁，造成 11 人死亡。
-- - 2008 年：伊朗阿塞曼航空公司 6895 号航班在吉尔吉斯斯坦比什凯克玛纳斯国际机场紧急降落时坠毁，造成 65 名乘客死亡。
-- - 2006 年：国际天文学联合会 (IAU) 重新定义了“行星”一词，冥王星现在被视为矮行星。
-- - 2004 年：两架客机从莫斯科附近的多莫杰多沃国际机场起飞后发生爆炸，导致 90 名乘客死亡。爆炸是由来自车臣的自杀式炸弹袭击者造成的。
-- - 2001 年：越洋航空 236 号航班在大西洋上空失去所有发动机动力，迫使飞行员紧急迫降亚速尔群岛。
-- - 1998 年：英国首次进行射频识别 (RFID) 人体植入测试。
-- - 1995 年：Microsoft 在北美向公众发布 Windows 95。
-- - 1992 年：5 级飓风安德鲁在佛罗里达州霍姆斯特德登陆，造成高达 250 亿美元（1992 年美元）的损失。
-- - 1991年：乌克兰宣布脱离苏联独立。
-- - 1991 年：米哈伊尔·戈尔巴乔夫辞去苏联共产党主席职务。
-- - 1989 年：塔德乌什·马佐维耶茨基 (Tadeusz Mazowiecki) 被选为中欧和东欧第一位非共产主义总理。
-- - 1989年：哥伦比亚毒枭向哥伦比亚政府宣战“全面战争”。
-- - 1981 年：马克·大卫·查普曼因谋杀约翰·列侬而被判处 20 年至终身监禁。
-- - 1970 年：越南战争抗议者轰炸了威斯康星大学麦迪逊分校的斯特林大厅，引发了国际社会对肇事者的追捕。
-- - 1967 年：由艾比·霍夫曼 (Abbie Hoffman) 领导的青年国际党 (Youth International Party) 通过从观景台投掷美元钞票暂时扰乱了纽约证券交易所的交易，导致交易停止，经纪人争先恐后地抢夺它们。
-- - 1963年：佛教危机：由于夏雷宝塔袭击事件，美国国务院电告美国驻西贡大使馆，鼓励越南共和国陆军将领发动政变反对总统吴廷琰，如果他不罢免他的兄弟吴廷瑛。
-- - 1954 年：Getulio Vargas 自杀后，副总统 João Café Filho 就任巴西总统。
-- - 1954 年：《共产党控制法》生效，美国共产党被取缔。
-- - 1951 年：联合航空 615 号航班在加利福尼亚州德科托附近坠毁，造成 50 人死亡。
-- - 1950 年：伊迪丝·桑普森 (Edith Sampson) 成为第一位驻联合国的美国黑人代表。
+- - 2017 年：若开邦冲突（2016 年至今）：若开罗兴亚救世军发动的至少 26 次袭击造成 170 人死亡，导致缅甸和马来西亚政府将该组织列为恐怖组织。
+- - 2017 年：飓风哈维在德克萨斯州登陆，强度为 4 级飓风，这是自 2004 年以来在美国登陆的最强飓风。
+- - 2012 年：航海家一号航天器进入星际空间，成为第一个进入星际空间的人造物体。
+- - 2011 年：贩毒集团洛斯泽塔斯成员纵火，造成 52 人死亡。
+- - 2010 年：一架 Filair Let L-410 Turbolet 在飞往 Bandundu 机场时坠毁，造成 20 人死亡。
+- - 2006年：乌克兰前总理帕夫洛·拉扎连科因洗钱、电汇欺诈和勒索罪被判处九年监禁。
+- - 2005 年：卡特里娜飓风在佛罗里达州登陆。
+- - 2003年：美国宇航局成功将斯皮策太空望远镜发射到太空。
+- - 2001 年：美国歌手阿莉雅和她的几名随行人员因超载飞机从巴哈马马什港机场起飞后不久坠毁而丧生。
+- - 1997 年：前东德领导人埃贡·克伦茨 (Egon Krenz) 因在柏林墙实行枪杀政策而被定罪。
+- - 1991 年：Linus Torvalds 宣布了 Linux 的第一个版本。
+- - 1991 年：武科瓦尔战役开始。1991 年 8 月至 11 月（克罗地亚独立战争期间），南斯拉夫人民军 (JNA) 在多支塞族准军事部队的支持下对武科瓦尔进行了长达 87 天的围困。
+- - 1991 年：白俄罗斯从苏联独立。
+- - 1989年：巴基斯坦国际航空公司404号航班载有54人，从巴基斯坦吉尔吉特机场起飞后在喜马拉雅山上空消失。这架飞机从未被发现。
+- - 1989 年：由于 1979 年至 1999 年冥王星位于海王星轨道内，航海者 2 号宇宙飞船最接近当时太阳系中的最后一颗行星海王星。
+- - 1985 年：巴尔港航空公司 1808 号航班在缅因州奥本/刘易斯顿市政机场附近坠毁，机上 8 人全部遇难，其中包括和平活动家和童星萨曼莎·史密斯。
+- - 1981 年：航海者 2 号宇宙飞船最接近土星。
+- - 1980 年：拜罗伊特音乐节上的 Jahrhundertring 的最后一场演出获得长达 45 分钟的热烈掌声。
+- - 1980 年：津巴布韦加入联合国。
+- - 1967 年：美国纳粹党创始人乔治·林肯·洛克威尔被其组织的一名前成员暗杀。
+- - 1961 年：巴西总统贾尼奥·夸德罗斯在执政仅七个月后辞职，引发了一场政治危机，最终导致 1964 年的军事政变。
+- - 1960 年：第十七届奥林匹克运动会在意大利罗马开幕。
+- - 1958年：台日裔商人安藤百福推出世界上第一款公开销售的方便面“Chikin Ramen”。
+- - 1950 年：为了避免朝鲜战争期间的威胁性罢工，杜鲁门总统命令陆军部长弗兰克·佩斯夺取国家铁路的控制权。
+- - 1948 年：众议院非美活动委员会举行首次电视转播的国会听证会：惠特克·钱伯斯和阿尔杰·希斯之间的“对抗日”。
+- - 1945 年：八月革命随着保大皇帝退位而结束，阮王朝结束。
+- - 1945 年：第二次世界大战结束、日本宣布投降十天后，中国共产党的武装支持者杀害了美国情报官员约翰·伯奇（John Birch），他被一些美国右翼视为冷战的第一个受害者。
+- - 1944 年：第二次世界大战：巴黎被盟军解放。
+- - 1942 年：第二次世界大战：米尔恩湾战役：日本海军陆战队攻击新几内亚米尔恩湾的盟军机场，引发米尔恩湾战役。
+- - 1942 年：第二次世界大战：东所罗门群岛战役第二天；前往瓜达尔卡纳尔岛的日本海军运输车队因盟军空袭而折返。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-08-24 01:27:23 UTC）*
+*（更新于: 2026-08-25 01:24:21 UTC）*
