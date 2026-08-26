@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2017: Conflict in Rakhine State (2016-present): One hundred seventy people are killed in at least 26 separate attacks carried out by the Arakan Rohingya Salvation Army, leading to the governments of Myanmar and Malaysia designating the group as a terrorist organisation.
-- 2017: Hurricane Harvey makes landfall in Texas as a powerful Category 4 hurricane, the strongest hurricane to make landfall in the United States since 2004.
-- 2012: Voyager 1 spacecraft enters interstellar space, becoming the first man-made object to do so.
-- 2011: Fifty-two people are killed during an arson attack caused by members of the drug cartel Los Zetas.
-- 2010: A Filair Let L-410 Turbolet crashes on approach to Bandundu Airport, killing 20.
-- 2006: Former Prime Minister of Ukraine Pavlo Lazarenko is sentenced to nine years imprisonment for money laundering, wire fraud, and extortion.
-- 2005: Hurricane Katrina makes landfall in Florida.
-- 2003: NASA successfully launches the Spitzer Space Telescope into space.
-- 2001: American singer Aaliyah and several members of her entourage are killed as their overloaded aircraft crashes shortly after takeoff from Marsh Harbour Airport, Bahamas.
-- 1997: Egon Krenz, the former East German leader, is convicted of a shoot-to-kill policy at the Berlin Wall.
-- 1991: Linus Torvalds announces the first version of what will become Linux.
-- 1991: The Battle of Vukovar begins. An 87-day siege of Vukovar by the Yugoslav People's Army (JNA), supported by various Serb paramilitary forces, between August and November 1991 (during the Croatian War of Independence).
-- 1991: Belarus gains its independence from the Soviet Union.
-- 1989: Pakistan International Airlines Flight 404, carrying 54 people, disappears over the Himalayas after takeoff from Gilgit Airport in Pakistan. The aircraft was never found.
-- 1989: Voyager 2 spacecraft makes its closest approach to Neptune, the last planet in the Solar System at the time, due to Pluto being within Neptune's orbit from 1979 to 1999.
-- 1985: Bar Harbor Airlines Flight 1808 crashes near Auburn/Lewiston Municipal Airport in Auburn, Maine, killing all eight people on board including peace activist and child actress Samantha Smith.
-- 1981: Voyager 2 spacecraft makes its closest approach to Saturn.
-- 1980: The last performance of the Jahrhundertring at the Bayreuth Festival receives ovations of 45 minutes.
-- 1980: Zimbabwe joins the United Nations.
-- 1967: George Lincoln Rockwell, founder of the American Nazi Party, is assassinated by a former member of his group.
-- 1961: President Jânio Quadros of Brazil resigns after just seven months in power, initiating a political crisis that culminates in a military coup in 1964.
-- 1960: The Games of the XVII Olympiad commence in Rome, Italy.
-- 1958: The world's first publicly marketed instant noodles, Chikin Ramen, are introduced by Taiwanese-Japanese businessman Momofuku Ando.
-- 1950: To avert a threatened strike during the Korean War, President Truman orders Secretary of the Army Frank Pace to seize control of the nation's railroads.
-- 1948: The House Un-American Activities Committee holds first-ever televised congressional hearing: "Confrontation Day" between Whittaker Chambers and Alger Hiss.
-- 1945: The August Revolution ends as Emperor Bảo Đại abdicates, ending the Nguyễn dynasty.
-- 1945: Ten days after World War II ends with Japan announcing its surrender, armed supporters of the Chinese Communist Party kill U.S. intelligence officer John Birch, regarded by some of the American right as the first victim of the Cold War.
-- 1944: World War II: Paris is liberated by the Allies.
-- 1942: World War II: Battle of Milne Bay: Japanese marines assault Allied airfields at Milne Bay, New Guinea, initiating the Battle of Milne Bay.
-- 1942: World War II: Second day of the Battle of the Eastern Solomons; a Japanese naval transport convoy headed towards Guadalcanal is turned back by an Allied air attack.
+- 2023: Exactly 5 years after the 2018 Jacksonville Landing shooting, there is another shooting in Jacksonville, Florida, leaving 3 people dead.
+- 2021: During the 2021 Kabul airlift, a suicide bombing at Hamid Karzai International Airport kills 13 US military personnel and at least 169 Afghan civilians.
+- 2018: Three people are killed and eleven wounded during a mass shooting at a Madden NFL '19 video game tournament in Jacksonville, Florida.
+- 2015: Two U.S. journalists are shot and killed by a disgruntled former coworker while conducting a live report in Moneta, Virginia.
+- 2014: The Jay Report into the Rotherham child sexual exploitation scandal is published.
+- 2011: The Boeing 787 Dreamliner, Boeing's all-new composite airliner, receives certification from the EASA and the FAA.
+- 2009: Kidnapping victim Jaycee Dugard is discovered alive in California after being missing for over 18 years. Her captors, Phillip and Nancy Garrido, are apprehended.
+- 2003: A Beechcraft 1900 operating as Colgan Air Flight 9446 crashes after taking off from Barnstable Municipal Airport in Yarmouth, Massachusetts, killing both pilots on board.
+- 1999: Russia begins the Second Chechen War in response to the Invasion of Dagestan by the Islamic International Peacekeeping Brigade.
+- 1998: The first flight of the Boeing Delta III ends in disaster 75 seconds after liftoff, resulting in the loss of the Galaxy X  communications satellite.
+- 1997: Beni Ali massacre occurs in Algeria, leaving 60 to 100 people dead.
+- 1993: Sakha Avia Flight 301 crashes on approach to Aldan Airport, killing all 24 aboard.
+- 1980: After John Birges plants a bomb at Harvey's Resort Hotel in Stateline, Nevada, in the United States, the FBI inadvertently detonates the bomb during its disarming.
+- 1978: Papal conclave: Albino Luciani is elected as Pope John Paul I.
+- 1977: The Charter of the French Language is adopted by the National Assembly of Quebec.
+- 1972: The Games of the XX Olympiad open in Munich, West Germany.
+- 1970: The fiftieth anniversary of American women being able to vote is marked by a nationwide Women's Strike for Equality.
+- 1969: Aeroflot Flight 1770 crashes while landing at Vnukovo International Airport, killing 16.
+- 1966: The South African Border War starts with the battle at Omugulugwombashe.
+- 1944: World War II: Charles de Gaulle enters Paris.
+- 1942: The Holocaust in Ukraine: At Chortkiv, the Ukrainian police and German Schutzpolizei deport two thousand Jews to Bełżec extermination camp. Five hundred of the sick and children are murdered on the spot. This continued until the next day.
+- 1940: World War II: Chad becomes the first French colony to join the Allies under the administration of Félix Éboué, France's first black colonial governor.
+- 1936: Spanish Civil War: Santander falls to the Nationalists and the Republican Interprovincial Council is dissolved.
+- 1922: Greco-Turkish War (1919-22): Turkish army launched what has come to be known to the Turks as the Great Offensive (Büyük Taarruz). The major Greek defense positions were overrun.
+- 1920: The 19th amendment to United States Constitution, giving women the right to vote, is certified.
+- 1914: World War I: During the retreat from Mons, the British II Corps commanded by General Sir Horace Smith-Dorrien fights a vigorous and successful defensive action at Le Cateau.
+- 1914: World War I: The German colony of Togoland surrenders to French and British forces after a 20-day campaign. Togoland is the first German colony to fall to Allied hands in World War I.
+- 1883: The 1883 eruption of Krakatoa begins its final, paroxysmal, stage.
+- 1863: The Swedish-language liberal newspaper Helsingfors Dagblad proposed the current blue-and-white cross flag as the flag of Finland.
+- 1849: President Faustin Soulouque of the First Republic of Haiti has the Senate and Chamber of Deputies proclaim him the Emperor of Haiti, abolishing the Republic and inaugurating the Second Empire of Haiti.
 
 Data from muffinlabs
-*(Updated at: 2026-08-25 01:24:21 UTC)*
+*(Updated at: 2026-08-26 01:34:08 UTC)*
 
 # 历史上的今天 
 
-- - 2017 年：若开邦冲突（2016 年至今）：若开罗兴亚救世军发动的至少 26 次袭击造成 170 人死亡，导致缅甸和马来西亚政府将该组织列为恐怖组织。
-- - 2017 年：飓风哈维在德克萨斯州登陆，强度为 4 级飓风，这是自 2004 年以来在美国登陆的最强飓风。
-- - 2012 年：航海家一号航天器进入星际空间，成为第一个进入星际空间的人造物体。
-- - 2011 年：贩毒集团洛斯泽塔斯成员纵火，造成 52 人死亡。
-- - 2010 年：一架 Filair Let L-410 Turbolet 在飞往 Bandundu 机场时坠毁，造成 20 人死亡。
-- - 2006年：乌克兰前总理帕夫洛·拉扎连科因洗钱、电汇欺诈和勒索罪被判处九年监禁。
-- - 2005 年：卡特里娜飓风在佛罗里达州登陆。
-- - 2003年：美国宇航局成功将斯皮策太空望远镜发射到太空。
-- - 2001 年：美国歌手阿莉雅和她的几名随行人员因超载飞机从巴哈马马什港机场起飞后不久坠毁而丧生。
-- - 1997 年：前东德领导人埃贡·克伦茨 (Egon Krenz) 因在柏林墙实行枪杀政策而被定罪。
-- - 1991 年：Linus Torvalds 宣布了 Linux 的第一个版本。
-- - 1991 年：武科瓦尔战役开始。1991 年 8 月至 11 月（克罗地亚独立战争期间），南斯拉夫人民军 (JNA) 在多支塞族准军事部队的支持下对武科瓦尔进行了长达 87 天的围困。
-- - 1991 年：白俄罗斯从苏联独立。
-- - 1989年：巴基斯坦国际航空公司404号航班载有54人，从巴基斯坦吉尔吉特机场起飞后在喜马拉雅山上空消失。这架飞机从未被发现。
-- - 1989 年：由于 1979 年至 1999 年冥王星位于海王星轨道内，航海者 2 号宇宙飞船最接近当时太阳系中的最后一颗行星海王星。
-- - 1985 年：巴尔港航空公司 1808 号航班在缅因州奥本/刘易斯顿市政机场附近坠毁，机上 8 人全部遇难，其中包括和平活动家和童星萨曼莎·史密斯。
-- - 1981 年：航海者 2 号宇宙飞船最接近土星。
-- - 1980 年：拜罗伊特音乐节上的 Jahrhundertring 的最后一场演出获得长达 45 分钟的热烈掌声。
-- - 1980 年：津巴布韦加入联合国。
-- - 1967 年：美国纳粹党创始人乔治·林肯·洛克威尔被其组织的一名前成员暗杀。
-- - 1961 年：巴西总统贾尼奥·夸德罗斯在执政仅七个月后辞职，引发了一场政治危机，最终导致 1964 年的军事政变。
-- - 1960 年：第十七届奥林匹克运动会在意大利罗马开幕。
-- - 1958年：台日裔商人安藤百福推出世界上第一款公开销售的方便面“Chikin Ramen”。
-- - 1950 年：为了避免朝鲜战争期间的威胁性罢工，杜鲁门总统命令陆军部长弗兰克·佩斯夺取国家铁路的控制权。
-- - 1948 年：众议院非美活动委员会举行首次电视转播的国会听证会：惠特克·钱伯斯和阿尔杰·希斯之间的“对抗日”。
-- - 1945 年：八月革命随着保大皇帝退位而结束，阮王朝结束。
-- - 1945 年：第二次世界大战结束、日本宣布投降十天后，中国共产党的武装支持者杀害了美国情报官员约翰·伯奇（John Birch），他被一些美国右翼视为冷战的第一个受害者。
-- - 1944 年：第二次世界大战：巴黎被盟军解放。
-- - 1942 年：第二次世界大战：米尔恩湾战役：日本海军陆战队攻击新几内亚米尔恩湾的盟军机场，引发米尔恩湾战役。
-- - 1942 年：第二次世界大战：东所罗门群岛战役第二天；前往瓜达尔卡纳尔岛的日本海军运输车队因盟军空袭而折返。
+- - 2023 年：2018 年 Jacksonville Landing 枪击事件整整 5 年后，佛罗里达州杰克逊维尔再次发生枪击事件，造成 3 人死亡。
+- - 2021 年：在 2021 年喀布尔空运期间，哈米德·卡尔扎伊国际机场发生自杀式爆炸，造成 13 名美军人员和至少 169 名阿富汗平民死亡。
+- - 2018 年：佛罗里达州杰克逊维尔举行的 Madden NFL '19 视频游戏锦标赛中发生大规模枪击事件，造成 3 人死亡、11 人受伤。
+- - 2015 年：两名美国记者在弗吉尼亚州莫内塔进行现场报道时被一名心怀不满的前同事开枪打死。
+- - 2014 年：关于罗瑟勒姆儿童性剥削丑闻的杰伊报告发布。
+- - 2011 年：波音全新复合材料客机波音 787 梦想客机获得欧洲航空安全局 (EASA) 和美国联邦航空局 (FAA) 的认证。
+- - 2009 年：绑架受害者房祖名·杜加德 (Jaycee Dugard) 在失踪 18 年多后在加利福尼亚州被发现还活着。绑架她的人菲利普·加里多和南希·加里多被捕。
+- - 2003 年：科尔根航空 9446 号航班的一架 Beechcraft 1900 从马萨诸塞州雅茅斯巴恩斯特布尔市政机场起飞后坠毁，机上两名飞行员丧生。
+- - 1999年：俄罗斯为回应伊斯兰国际维和旅入侵达吉斯坦而发动第二次车臣战争。
+- - 1998 年：波音 Delta III 的首次飞行在升空 75 秒后就以灾难告终，导致 Galaxy X 通信卫星丢失。
+- - 1997年：阿尔及利亚发生贝尼阿里大屠杀，造成60至100人死亡。
+- - 1993 年：萨哈航空 301 航班在飞往阿尔丹机场时坠毁，机上 24 人全部遇难。
+- - 1980 年：约翰·伯吉斯 (John Birges) 在美国内华达州斯德特莱恩的哈维度假酒店安放炸弹后，联邦调查局 (FBI) 在解除炸弹武装时无意中引爆了炸弹。
+- - 1978 年：教皇秘密会议：阿尔比诺·卢西亚尼 (Albino Luciani) 当选为教皇约翰·保罗一世 (Pope John Paul I)。
+- - 1977 年：魁北克国民议会通过《法语宪章》。
+- - 1972 年：第 20 届奥林匹克运动会在西德慕尼黑开幕。
+- - 1970 年：全国范围内的妇女争取平等罢工标志着美国妇女获得投票权五十周年。
+- - 1969 年：俄罗斯航空公司 1770 号航班在伏努科沃国际机场降落时坠毁，造成 16 人死亡。
+- - 1966 年：南非边境战争以 Omugulugwombashe 战役开始。
+- - 1944 年：第二次世界大战：戴高乐进入巴黎。
+- - 1942 年：乌克兰大屠杀：在乔特基夫，乌克兰警察和德国保安警察将 2000 名犹太人驱逐到贝乌热茨灭绝营。五百名病人和儿童被当场杀害。这种情况一直持续到第二天。
+- - 1940 年：第二次世界大战：乍得成为第一个加入同盟国的法国殖民地，由法国首位黑人殖民地总督菲利克斯·埃布埃 (Félix Éboué) 管理。
+- - 1936 年：西班牙内战：桑坦德落入民族主义者之手，共和省际委员会解散。
+- - 1922 年：希腊-土耳其战争（1919-22）：土耳其军队发动了土耳其人所谓的大攻势（Büyük Taarruz）。希腊的主要防御阵地被占领。
+- - 1920 年：赋予妇女投票权的美国宪法第 19 条修正案获得通过。
+- - 1914 年：第一次世界大战：从蒙斯撤退期间，霍勒斯·史密斯-多林将军指挥的英国第二军团在勒卡托进行了一场积极而成功的防御行动。
+- - 1914 年：第一次世界大战：德国殖民地多哥兰经过 20 天的战役后向法国和英国军队投降。多哥兰是第一次世界大战中第一个落入盟军手中的德国殖民地。
+- - 1883 年：1883 年喀拉喀托火山喷发开始进入最后的、阵发性的阶段。
+- - 1863年：瑞典语自由派报纸《赫尔辛基日报》提议将现行的蓝白十字旗作为芬兰国旗。
+- - 1849 年：海地第一共和国总统福斯坦·苏卢克让参议院和众议院宣布他为海地皇帝，废除共和国并建立海地第二帝国。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-08-25 01:24:21 UTC）*
+*（更新于: 2026-08-26 01:34:08 UTC）*
