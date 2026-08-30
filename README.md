@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: Russo-Ukrainian war: Ukraine begins its southern counteroffensive in the Kherson Oblast, eventually culminating in the liberation of the city of Kherson.
-- 2020: 2020 Women's FA Community Shield.
-- 2012: The XIV Paralympic Games open in London, England, United Kingdom.
-- 2012: At least 26 Chinese miners are killed and 21 missing after a blast in the Xiaojiawan coal mine, located at Panzhihua, Sichuan Province.
-- 2005: Hurricane Katrina devastates much of the U.S. Gulf Coast from Louisiana to the Florida Panhandle, killing up to 1,392 people and causing $125 billion in damage.
-- 2003: Sayed Ayatollah Mohammed Baqir al-Hakim, the Shia Muslim leader in Iraq, is assassinated in a terrorist bombing, along with nearly 100 worshippers as they leave a mosque in Najaf.
-- 2001: Four people are killed when Binter Mediterráneo Flight 8261 crashes into the N-340 highway near Málaga Airport.
-- 1998: Eighty people are killed when Cubana de Aviación Flight 389 crashes during a rejected takeoff from the Old Mariscal Sucre International Airport in Quito, Ecuador.
-- 1997: At least 98 villagers are killed by the Armed Islamic Group of Algeria GIA in the Rais massacre, Algeria.
-- 1997: Netflix is launched as an internet DVD rental service.
-- 1996: Vnukovo Airlines Flight 2801, a Tupolev Tu-154, crashes into a mountain on the Arctic island of Spitsbergen, killing all 141 aboard.
-- 1991: Libero Grassi, an Italian businessman from Palermo, is killed by the Sicilian Mafia after taking a solitary stand against their extortion demands.
-- 1991: Supreme Soviet of the Soviet Union suspends all activities of the Soviet Communist Party.
-- 1987: Odaeyang mass suicide: Thirty-three individuals linked to a religious cult are found dead in the attic of a cafeteria in Yongin, South Korea. Investigators attribute their deaths to a murder-suicide pact.
-- 1982:  Meitnerium, a synthetic chemical element with the atomic number 109, is first synthesized at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany.
-- 1975: El Tacnazo:  Francisco Morales Bermúdez, Peruvian Prime Minister carries out a coup d'état in the city of Tacna, forcing the sitting President of Peru, Juan Velasco Alvarado, to resign and assuming his place as the new President.
-- 1970: Chicano Moratorium against the Vietnam War, East Los Angeles, California. Police riot kills three people, including journalist Rubén Salazar.
-- 1966: Leading Egyptian thinker Sayyid Qutb is executed for plotting the assassination of President Gamal Abdel Nasser.
-- 1966: The Beatles perform their last concert before paying fans at Candlestick Park in San Francisco.
-- 1965: The Gemini V spacecraft returns to Earth, landing in the Atlantic Ocean.
-- 1960: Air France Flight 343 crashes on approach to Yoff Airport in Senegal, killing all 63 aboard.
-- 1958: United States Air Force Academy opens in Colorado Springs, Colorado.
-- 1952: American experimental composer John Cage's 4’33” premieres at Maverick Concert Hall, played by American pianist David Tudor.
-- 1950: Korean War: British Commonwealth Forces Korea arrives to bolster the US presence.
-- 1949: Soviet atomic bomb project: The Soviet Union tests its first atomic bomb, known as First Lightning or Joe 1, at Semipalatinsk, Kazakhstan.
-- 1948: Northwest Airlines Flight 421 crashes in Fountain City, Wisconsin, killing all 37 aboard.
-- 1944: World War II:  Slovak National Uprising takes place as 60,000 Slovak troops turn against the Nazis.
-- 1943: World War II: German-occupied Denmark scuttles most of its navy; Germany dissolves the Danish government.
-- 1941: World War II: Tallinn, the capital of Estonia, is occupied by Nazi Germany following an occupation by the Soviet Union.
-- 1930: The last 36 remaining inhabitants of St Kilda are voluntarily evacuated to other parts of Scotland.
+- 2023: Gabonese coup d'état: After Ali Bongo Ondimba's reelection, a military coup ousted him, ending 56 years of Bongo family rule in Gabon.
+- 2021: The last remaining American troops leave Afghanistan, ending U.S. involvement in the war.
+- 2014: Prime Minister of Lesotho Tom Thabane flees to South Africa as the army allegedly stages a coup.
+- 2008: A Conviasa Boeing 737 crashes into Illiniza Volcano in Ecuador, killing all three people on board.
+- 2002: Rico Linhas Aéreas Flight 4823 crashes on approach to Rio Branco International Airport, killing 23 of the 31 people on board.
+- 1998: Second Congo War: Armed forces of the Democratic Republic of the Congo (DRC) and their Angolan and Zimbabwean allies recapture Matadi and the Inga dams in the western DRC from RCD and Rwandan troops.
+- 1995: Bosnian War: NATO launches Operation Deliberate Force against Bosnian Serb forces.
+- 1992: The 11-day Ruby Ridge standoff ends with Randy Weaver surrendering to federal authorities.
+- 1991: Dissolution of the Soviet Union: Azerbaijan declares independence from Soviet Union.
+- 1984: STS-41-D: The Space Shuttle Discovery takes off on its maiden voyage.
+- 1983: STS-8: The Space Shuttle Challenger takes off on the first night launch of the shuttle program. Guion Bluford becomes the first African-American in space on this mission.
+- 1983: Aeroflot Flight 5463 crashes into Dolan Mountain while approaching Almaty International Airport in present-day Kazakhstan, killing all 90 people on board.
+- 1981: President Mohammad-Ali Rajai and Prime Minister Mohammad-Javad Bahonar of Iran are assassinated in a bombing. The office of Iran's Prosecutor General blames the People's Mujahedin of Iran.
+- 1974: The Third World Population Conference ends in Bucharest, Romania. At the end of the ceremony, the UN-Romanian Demographic Centre is inaugurated.
+- 1974: A powerful bomb explodes at the Mitsubishi Heavy Industries headquarters in Marunouchi, Tokyo. Eight are killed, 378 are injured. Eight left-wing activists are arrested on May 19, 1975, by Japanese authorities.
+- 1974: A Belgrade-Dortmund express train derails at the main train station in Zagreb killing 153 passengers.
+- 1967: Thurgood Marshall is confirmed as the first African American Justice of the Supreme Court of the United States.
+- 1963: The Moscow-Washington hotline between the leaders of the U.S. and the Soviet Union goes into operation.
+- 1962: Japan conducts a test of the NAMC YS-11, its first aircraft since World War II and its only successful commercial aircraft from before or after the war.
+- 1959: South Vietnamese opposition figure Phan Quang Dan was elected to the National Assembly despite soldiers being bussed in to vote for President Ngo Dinh Diem's candidate.
+- 1945: The Allied Control Council, governing Germany after World War II, comes into being.
+- 1945: The Supreme Commander of the Allied Forces, General Douglas MacArthur lands at Atsugi Air Force Base.
+- 1945: The Japanese occupation of Hong Kong comes to an end.
+- 1942: World War II: The Battle of Alam el Halfa begins.
+- 1941: The Tighina Agreement, a treaty regarding administration issues of the Transnistria Governorate, is signed between Germany and Romania.
+- 1940: The Second Vienna Award reassigns the territory of Northern Transylvania from Romania to Hungary.
+- 1936: The RMS Queen Mary wins the Blue Riband by setting the fastest transatlantic crossing.
+- 1922: Battle of Dumlupınar: The final battle in the Greco-Turkish War (Turkish War of Independence).
+- 1918: Fanni Kaplan shoots and seriously injures Bolshevik leader Vladimir Lenin, which along with the assassination of Bolshevik senior official Moisei Uritsky days earlier, prompts the decree for Red Terror.
+- 1917: Vietnamese prison guards led by Trịnh Văn Cấn mutiny at the Thái Nguyên penitentiary against local French authority.
 
 Data from muffinlabs
-*(Updated at: 2026-08-29 06:20:50 UTC)*
+*(Updated at: 2026-08-30 04:30:59 UTC)*
 
 # 历史上的今天 
 
-- - 2022年：俄乌战争：乌克兰在赫尔松州开始南部反攻，最终解放赫尔松市。
-- - 2020 年：2020 年女子足总社区盾杯。
-- - 2012 年：第十四届残奥会在英国伦敦开幕。
-- - 2012年：四川省攀枝花市肖家湾煤矿发生爆炸，造成至少26名中国矿工死亡、21人失踪。
-- - 2005 年：卡特里娜飓风摧毁了从路易斯安那州到佛罗里达狭长地带的美国墨西哥湾沿岸大部分地区，造成多达 1,392 人死亡，造成 1,250 亿美元的损失。
-- - 2003 年：伊拉克什叶派穆斯林领袖赛义德·阿亚图拉·穆罕默德·巴吉尔·哈基姆 (Sayed Ayatollah Mohammed Baqir al-Hakim) 与近 100 名信徒离开纳杰夫一座清真寺时在一次恐怖爆炸中被暗杀。
-- - 2001 年：Binter Mediterráneo 8261 航班在马拉加机场附近的 N-340 高速公路上坠毁，造成四人死亡。
-- - 1998 年：古巴航空 389 号航班从厄瓜多尔基多苏克雷老元帅国际机场起飞时坠毁，造成 80 人死亡。
-- - 1997 年：在阿尔及利亚的莱斯大屠杀中，至少 98 名村民被阿尔及利亚伊斯兰武装组织 GIA 杀害。
-- - 1997 年：Netflix 推出互联网 DVD 租赁服务。
-- - 1996 年：伏努科沃航空公司 2801 号航班（图波列夫 Tu-154）坠入北极斯匹次卑尔根岛的一座山，机上 141 人全部遇难。
-- - 1991 年：来自巴勒莫的意大利商人利贝罗·格拉西 (Libero Grassi) 在单独反对西西里黑手党的勒索要求后被杀害。
-- - 1991年：苏联最高苏维埃暂停苏联共产党的一切活动。
-- - 1987 年：五大阳集体自杀：与宗教邪教有关的 33 名人员被发现死在韩国龙仁市一家自助餐厅的阁楼里。调查人员将他们的死亡归因于谋杀-自杀协议。
-- - 1982 年：Meitnerium 是一种原子序数为 109 的合成化学元素，首次在德国达姆施塔特的 Gesellschaft für Schwerionenforschung 合成。
-- - 1975年：埃尔塔克纳索：秘鲁总理弗朗西斯科·莫拉莱斯·贝穆德斯在塔克纳市发动政变，迫使秘鲁现任总统胡安·贝拉斯科·阿尔瓦拉多辞职并就任新总统。
-- - 1970 年：奇卡诺暂停越南战争，加利福尼亚州东洛杉矶。警察骚乱造成三人死亡，其中包括记者鲁本·萨拉查。
-- - 1966 年：埃及著名思想家赛义德·库特卜因策划刺杀总统贾迈勒·阿卜杜勒·纳赛尔而被处决。
-- - 1966 年：披头士乐队在旧金山烛台公园向歌迷支付费用之前举行了最后一场音乐会。
-- - 1965 年：双子座五号宇宙飞船返回地球，降落在大西洋。
-- - 1960 年：法航 343 号航班在飞往塞内加尔约夫机场时坠毁，机上 63 人全部遇难。
-- - 1958 年：美国空军学院在科罗拉多州科罗拉多斯普林斯成立。
-- - 1952 年：美国实验作曲家约翰·凯奇 (John Cage) 在 Maverick 音乐厅首演了 4 分 33 秒的作品，由美国钢琴家大卫·都铎 (David Tudor) 演奏。
-- - 1950 年：朝鲜战争：英联邦军队抵达朝鲜以加强美国的存在。
-- - 1949 年：苏联原子弹项目：苏联在哈萨克斯坦塞米巴拉金斯克测试了第一颗原子弹，称为“第一闪电”或“乔 1”。
-- - 1948 年：西北航空公司 421 号航班在威斯康星州芳坦城坠毁，机上 37 人全部遇难。
-- - 1944 年：第二次世界大战：斯洛伐克民族起义爆发，60,000 名斯洛伐克军队反抗纳粹。
-- - 1943 年：第二次世界大战：德国占领的丹麦击沉了大部分海军；德国解散丹麦政府。
-- - 1941 年：第二次世界大战：爱沙尼亚首都塔林在被苏联占领后被纳粹德国占领。
-- - 1930 年：圣基尔达仅存的 36 名居民自愿疏散到苏格兰其他地区。
+- - 2023年：加蓬政变：阿里·邦戈·翁丁巴连任后，一场军事政变将他赶下台，结束了邦戈家族在加蓬长达56年的统治。
+- - 2021 年：最后一批美军撤离阿富汗，结束美国对战争的介入。
+- - 2014 年：莱索托总理汤姆·塔巴内因军队据称发动政变而逃往南非。
+- - 2008 年：一架 Conviasa 波音 737 飞机坠入厄瓜多尔的伊利尼萨火山，机上三人全部遇难。
+- - 2002 年：Rico Linhas Aéreas 4823 航班在飞往里约布兰科国际机场时坠毁，机上 31 人中有 23 人死亡。
+- - 1998年：第二次刚果战争：刚果民主共和国武装部队及其安哥拉和津巴布韦盟友从刚果民盟和卢旺达军队手中夺回了刚果民主共和国西部的马塔迪和英加水坝。
+- - 1995年：波斯尼亚战争：北约对波斯尼亚塞族军队发起蓄意武力行动。
+- - 1992 年：为期 11 天的红宝石岭对峙以兰迪·韦弗向联邦当局投降而结束。
+- - 1991年：苏联解体：阿塞拜疆宣布脱离苏联独立。
+- - 1984 年：STS-41-D：发现号航天飞机首次飞行。
+- - 1983 年：STS-8：挑战者号航天飞机在航天飞机计划的第一次夜间发射中升空。吉安·布卢福德 (Guion Bluford) 成为执行这项任务的第一位进入太空的非裔美国人。
+- - 1983 年：俄罗斯航空公司 5463 号航班在接近现哈萨克斯坦阿拉木图国际机场时坠入多兰山，机上 90 人全部遇难。
+- - 1981 年：伊朗总统穆罕默德·阿里·拉贾伊和总理穆罕默德·贾瓦德·巴霍纳尔在一次爆炸中被暗杀。伊朗总检察长办公室指责伊朗人民圣战者组织。
+- - 1974年：第三次世界人口会议在罗马尼亚布加勒斯特结束。仪式结束时，联合国-罗马尼亚人口统计中心落成。
+- - 1974 年：一枚威力强大的炸弹在位于东京丸之内的三菱重工总部爆炸。8 人死亡、378 人受伤。1975 年 5 月 19 日，八名左翼活动人士被日本当局逮捕。
+- - 1974 年：贝尔格莱德-多特蒙德特快列车在萨格勒布火车总站出轨，造成 153 名乘客死亡。
+- - 1967 年：瑟古德·马歇尔被确认为美国最高法院第一位非裔美国法官。
+- - 1963年：美国和苏联领导人之间的莫斯科-华盛顿热线投入运行。
+- - 1962 年：日本对 NAMC YS-11 进行了测试，这是二战以来第一架飞机，也是战前或战后唯一成功的商用飞机。
+- - 1959 年：南越反对派人物潘光丹 (Phan Quang Dan) 当选为国民议会议员，尽管士兵们乘坐巴士前往投票支持总统吴庭艳 (Ngo Dinh Diem) 的候选人。
+- - 1945 年：二战后管理德国的盟军控制委员会成立。
+- - 1945 年：盟军最高统帅道格拉斯·麦克阿瑟将军登陆厚木空军基地。
+- - 1945年：日本对香港的占领结束。
+- - 1942 年：第二次世界大战：阿拉姆哈勒法战役爆发。
+- - 1941 年：德国和罗马尼亚签署了《蒂吉纳协定》，这是一项关于德涅斯特河沿岸省行政问题的条约。
+- - 1940 年：第二次维也纳奖将北特兰西瓦尼亚领土从罗马尼亚重新分配给匈牙利。
+- - 1936 年：皇家邮轮玛丽女王号创下了最快的跨大西洋航行速度，赢得了蓝丝带奖。
+- - 1922 年：杜姆卢珀纳尔战役：希土战争（土耳其独立战争）的最后一场战役。
+- - 1918 年：范尼·卡普兰开枪打伤布尔什维克领导人弗拉基米尔·列宁，再加上几天前布尔什维克高级官员莫伊塞·乌里茨基被暗杀，促使颁布了红色恐怖法令。
+- - 1917 年：郑文灿 (Trịnh Văn Cấn) 领导的越南狱警在太原监狱发动叛变，反对法国当地当局。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-08-29 06:20:50 UTC）*
+*（更新于: 2026-08-30 04:30:59 UTC）*
