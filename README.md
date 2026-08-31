@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2023: Gabonese coup d'état: After Ali Bongo Ondimba's reelection, a military coup ousted him, ending 56 years of Bongo family rule in Gabon.
-- 2021: The last remaining American troops leave Afghanistan, ending U.S. involvement in the war.
-- 2014: Prime Minister of Lesotho Tom Thabane flees to South Africa as the army allegedly stages a coup.
-- 2008: A Conviasa Boeing 737 crashes into Illiniza Volcano in Ecuador, killing all three people on board.
-- 2002: Rico Linhas Aéreas Flight 4823 crashes on approach to Rio Branco International Airport, killing 23 of the 31 people on board.
-- 1998: Second Congo War: Armed forces of the Democratic Republic of the Congo (DRC) and their Angolan and Zimbabwean allies recapture Matadi and the Inga dams in the western DRC from RCD and Rwandan troops.
-- 1995: Bosnian War: NATO launches Operation Deliberate Force against Bosnian Serb forces.
-- 1992: The 11-day Ruby Ridge standoff ends with Randy Weaver surrendering to federal authorities.
-- 1991: Dissolution of the Soviet Union: Azerbaijan declares independence from Soviet Union.
-- 1984: STS-41-D: The Space Shuttle Discovery takes off on its maiden voyage.
-- 1983: STS-8: The Space Shuttle Challenger takes off on the first night launch of the shuttle program. Guion Bluford becomes the first African-American in space on this mission.
-- 1983: Aeroflot Flight 5463 crashes into Dolan Mountain while approaching Almaty International Airport in present-day Kazakhstan, killing all 90 people on board.
-- 1981: President Mohammad-Ali Rajai and Prime Minister Mohammad-Javad Bahonar of Iran are assassinated in a bombing. The office of Iran's Prosecutor General blames the People's Mujahedin of Iran.
-- 1974: The Third World Population Conference ends in Bucharest, Romania. At the end of the ceremony, the UN-Romanian Demographic Centre is inaugurated.
-- 1974: A powerful bomb explodes at the Mitsubishi Heavy Industries headquarters in Marunouchi, Tokyo. Eight are killed, 378 are injured. Eight left-wing activists are arrested on May 19, 1975, by Japanese authorities.
-- 1974: A Belgrade-Dortmund express train derails at the main train station in Zagreb killing 153 passengers.
-- 1967: Thurgood Marshall is confirmed as the first African American Justice of the Supreme Court of the United States.
-- 1963: The Moscow-Washington hotline between the leaders of the U.S. and the Soviet Union goes into operation.
-- 1962: Japan conducts a test of the NAMC YS-11, its first aircraft since World War II and its only successful commercial aircraft from before or after the war.
-- 1959: South Vietnamese opposition figure Phan Quang Dan was elected to the National Assembly despite soldiers being bussed in to vote for President Ngo Dinh Diem's candidate.
-- 1945: The Allied Control Council, governing Germany after World War II, comes into being.
-- 1945: The Supreme Commander of the Allied Forces, General Douglas MacArthur lands at Atsugi Air Force Base.
-- 1945: The Japanese occupation of Hong Kong comes to an end.
-- 1942: World War II: The Battle of Alam el Halfa begins.
-- 1941: The Tighina Agreement, a treaty regarding administration issues of the Transnistria Governorate, is signed between Germany and Romania.
-- 1940: The Second Vienna Award reassigns the territory of Northern Transylvania from Romania to Hungary.
-- 1936: The RMS Queen Mary wins the Blue Riband by setting the fastest transatlantic crossing.
-- 1922: Battle of Dumlupınar: The final battle in the Greco-Turkish War (Turkish War of Independence).
-- 1918: Fanni Kaplan shoots and seriously injures Bolshevik leader Vladimir Lenin, which along with the assassination of Bolshevik senior official Moisei Uritsky days earlier, prompts the decree for Red Terror.
-- 1917: Vietnamese prison guards led by Trịnh Văn Cấn mutiny at the Thái Nguyên penitentiary against local French authority.
+- 2025: An earthquake in eastern Afghanistan kills over 1400 people. 25
+- 2025: A landslide in the Darfur region of Sudan kills over 1000 people. 26
+- 2024: A helicopter crashes in Kamchatka Krai in the Russian Far East, killing all 22 occupants.
+- 2016: Brazil's President Dilma Rousseff is impeached and removed from office.
+- 2006: Edvard Munch's famous painting, The Scream, stolen on August 22, 2004, is recovered in a raid by Norwegian police.
+- 2005: The 2005 Al-Aaimmah bridge stampede in Baghdad kills 953 people.
+- 2002: Typhoon Rusa, the most powerful typhoon to hit South Korea in 43 years, made landfall, killing at least 236 people.
+- 1999: A LAPA Boeing 737-200 crashes during takeoff from Jorge Newbury Airport in Buenos Aires, killing 65, including two on the ground.
+- 1999: The first of a series of bombings in Moscow kills one person and wounds 40 others.
+- 1997: Diana, Princess of Wales, her partner, Dodi Fayed, and driver Henri Paul die in a car crash in Paris.
+- 1996: Saddam Hussein's troops seized Irbil after the Kurdish Masoud Barzani appealed for help to defeat his Kurdish rival PUK.
+- 1994: Russia completes removing its troops from Estonia.
+- 1993: Russia completes removing its troops from Lithuania.
+- 1991: Kyrgyzstan declares its independence from the Soviet Union.
+- 1988: CAAC Flight 301 overshoots the runway at Kai Tak Airport and crashes into Kowloon Bay, killing seven people.
+- 1988: Delta Air Lines Flight 1141 crashes during takeoff from Dallas/Fort Worth International Airport, killing 14.
+- 1987: Thai Airways Flight 365 crashes into the ocean near Ko Phuket, Thailand, killing all 83 aboard.
+- 1986: The Soviet passenger liner Admiral Nakhimov sinks in the Black Sea after colliding with the bulk carrier Pyotr Vasev, killing 423.
+- 1986: Aeroméxico Flight 498 collides with a Piper PA-28 Cherokee over Cerritos, California, killing 67 in the air and 15 on the ground.
+- 1972: Aeroflot Flight 558 crashes in the Abzelilovsky District in Bashkortostan, Russia (then the Soviet Union), killing all 102 people aboard.
+- 1968: Start of the Congress of Carrara, one of the major 20th century anarchist congresses.
+- 1963: Crown Colony of North Borneo (now Sabah) achieves self governance.
+- 1962: Trinidad and Tobago becomes independent.
+- 1959: A parcel bomb sent by Ngô Đình Nhu, younger brother and chief adviser of South Vietnamese President Ngô Đình Diệm, fails to kill King Norodom Sihanouk of Cambodia.
+- 1957: The Federation of Malaya (now Malaysia) gains its independence from the United Kingdom.
+- 1950: TWA Flight 903 crashes near Itay El Barud, Egypt, killing all 55 aboard.
+- 1949: The retreat of the Democratic Army of Greece into Albania after its defeat on Gramos mountain marks the end of the Greek Civil War.
+- 1943: USS Harmon, the first U.S. Navy ship to be named after a black person, is commissioned.
+- 1941: World War II: Serbian paramilitary forces defeat Germans in the Battle of Loznica.
+- 1940: Pennsylvania Central Airlines Trip 19 crashes near Lovettsville, Virginia. The CAB investigation of the accident is the first investigation to be conducted under the Bureau of Air Commerce act of 1938.
 
 Data from muffinlabs
-*(Updated at: 2026-08-30 04:30:59 UTC)*
+*(Updated at: 2026-08-31 04:35:11 UTC)*
 
 # 历史上的今天 
 
-- - 2023年：加蓬政变：阿里·邦戈·翁丁巴连任后，一场军事政变将他赶下台，结束了邦戈家族在加蓬长达56年的统治。
-- - 2021 年：最后一批美军撤离阿富汗，结束美国对战争的介入。
-- - 2014 年：莱索托总理汤姆·塔巴内因军队据称发动政变而逃往南非。
-- - 2008 年：一架 Conviasa 波音 737 飞机坠入厄瓜多尔的伊利尼萨火山，机上三人全部遇难。
-- - 2002 年：Rico Linhas Aéreas 4823 航班在飞往里约布兰科国际机场时坠毁，机上 31 人中有 23 人死亡。
-- - 1998年：第二次刚果战争：刚果民主共和国武装部队及其安哥拉和津巴布韦盟友从刚果民盟和卢旺达军队手中夺回了刚果民主共和国西部的马塔迪和英加水坝。
-- - 1995年：波斯尼亚战争：北约对波斯尼亚塞族军队发起蓄意武力行动。
-- - 1992 年：为期 11 天的红宝石岭对峙以兰迪·韦弗向联邦当局投降而结束。
-- - 1991年：苏联解体：阿塞拜疆宣布脱离苏联独立。
-- - 1984 年：STS-41-D：发现号航天飞机首次飞行。
-- - 1983 年：STS-8：挑战者号航天飞机在航天飞机计划的第一次夜间发射中升空。吉安·布卢福德 (Guion Bluford) 成为执行这项任务的第一位进入太空的非裔美国人。
-- - 1983 年：俄罗斯航空公司 5463 号航班在接近现哈萨克斯坦阿拉木图国际机场时坠入多兰山，机上 90 人全部遇难。
-- - 1981 年：伊朗总统穆罕默德·阿里·拉贾伊和总理穆罕默德·贾瓦德·巴霍纳尔在一次爆炸中被暗杀。伊朗总检察长办公室指责伊朗人民圣战者组织。
-- - 1974年：第三次世界人口会议在罗马尼亚布加勒斯特结束。仪式结束时，联合国-罗马尼亚人口统计中心落成。
-- - 1974 年：一枚威力强大的炸弹在位于东京丸之内的三菱重工总部爆炸。8 人死亡、378 人受伤。1975 年 5 月 19 日，八名左翼活动人士被日本当局逮捕。
-- - 1974 年：贝尔格莱德-多特蒙德特快列车在萨格勒布火车总站出轨，造成 153 名乘客死亡。
-- - 1967 年：瑟古德·马歇尔被确认为美国最高法院第一位非裔美国法官。
-- - 1963年：美国和苏联领导人之间的莫斯科-华盛顿热线投入运行。
-- - 1962 年：日本对 NAMC YS-11 进行了测试，这是二战以来第一架飞机，也是战前或战后唯一成功的商用飞机。
-- - 1959 年：南越反对派人物潘光丹 (Phan Quang Dan) 当选为国民议会议员，尽管士兵们乘坐巴士前往投票支持总统吴庭艳 (Ngo Dinh Diem) 的候选人。
-- - 1945 年：二战后管理德国的盟军控制委员会成立。
-- - 1945 年：盟军最高统帅道格拉斯·麦克阿瑟将军登陆厚木空军基地。
-- - 1945年：日本对香港的占领结束。
-- - 1942 年：第二次世界大战：阿拉姆哈勒法战役爆发。
-- - 1941 年：德国和罗马尼亚签署了《蒂吉纳协定》，这是一项关于德涅斯特河沿岸省行政问题的条约。
-- - 1940 年：第二次维也纳奖将北特兰西瓦尼亚领土从罗马尼亚重新分配给匈牙利。
-- - 1936 年：皇家邮轮玛丽女王号创下了最快的跨大西洋航行速度，赢得了蓝丝带奖。
-- - 1922 年：杜姆卢珀纳尔战役：希土战争（土耳其独立战争）的最后一场战役。
-- - 1918 年：范尼·卡普兰开枪打伤布尔什维克领导人弗拉基米尔·列宁，再加上几天前布尔什维克高级官员莫伊塞·乌里茨基被暗杀，促使颁布了红色恐怖法令。
-- - 1917 年：郑文灿 (Trịnh Văn Cấn) 领导的越南狱警在太原监狱发动叛变，反对法国当地当局。
+- - 2025 年：阿富汗东部发生地震，造成 1400 多人死亡。25
+- - 2025 年：苏丹达尔富尔地区发生山体滑坡，造成 1000 多人死亡。26
+- - 2024 年：一架直升机在俄罗斯远东堪察加边疆区坠毁，机上 22 人全部遇难。
+- - 2016 年：巴西总统迪尔玛·罗塞夫被弹劾并免职。
+- - 2006年：爱德华·蒙克的名画《呐喊》于2004年8月22日被盗，在挪威警方的一次突袭中被找回。
+- - 2005年：2005年巴格达Al-Aaimmah桥踩踏事件造成953人死亡。
+- - 2002 年：43 年来袭击韩国的最强台风“鹿莎”登陆，造成至少 236 人死亡。
+- - 1999 年：一架 LAPA 波音 737-200 在从布宜诺斯艾利斯豪尔赫·纽伯里机场起飞时坠毁，造成 65 人死亡，其中包括地面上的两人。
+- - 1999 年：莫斯科发生一系列爆炸事件中的第一起，造成 1 人死亡、40 人受伤。
+- - 1997 年：威尔士王妃戴安娜、她的伴侣多迪·法耶德 (Dodi Fayed) 和司机亨利·保罗 (Henri Paul) 在巴黎的一场车祸中丧生。
+- - 1996年：在库尔德人马苏德·巴尔扎尼请求帮助击败他的库尔德对手PUK后，萨达姆·侯赛因的军队占领了埃尔比勒。
+- - 1994年：俄罗斯完成从爱沙尼亚撤军。
+- - 1993 年：俄罗斯完成从立陶宛撤军。
+- - 1991年：吉尔吉斯斯坦宣布脱离苏联独立。
+- - 1988年：中国民航301航班在启德机场冲出跑道，坠入九龙湾，造成七人死亡。
+- - 1988 年：达美航空 1141 号航班从达拉斯/沃斯堡国际机场起飞时坠毁，造成 14 人死亡。
+- - 1987 年：泰国航空 365 号航班在泰国普吉岛附近坠入大海，机上 83 人全部遇难。
+- - 1986 年：苏联客轮“纳希莫夫海军上将”号与散货船彼得·瓦谢夫号相撞后在黑海沉没，造成 423 人死亡。
+- - 1986 年：墨西哥航空公司 498 航班在加利福尼亚州塞里托斯上空与一架派珀 PA-28 切诺基飞机相撞，造成空中 67 人死亡、地面 15 人死亡。
+- - 1972 年：俄罗斯航空公司 558 号航班在俄罗斯（当时的苏联）巴什科尔托斯坦阿布泽利洛夫斯基区坠毁，机上 102 人全部遇难。
+- - 1968 年：卡拉拉大会召开，这是 20 世纪主要的无政府主义大会之一。
+- - 1963年：北婆罗洲直辖殖民地（现沙巴）实现自治。
+- - 1962 年：特立尼达和多巴哥独立。
+- - 1959 年：南越总统吴廷琰的弟弟兼首席顾问吴廷琰发送的包裹炸弹未能杀死柬埔寨国王诺罗敦·西哈努克。
+- - 1957 年：马来亚联邦（现马来西亚）从英国独立。
+- - 1950 年：环球航空 903 号航班在埃及 Itay El Barud 附近坠毁，机上 55 人全部遇难。
+- - 1949 年：希腊民主军在格拉莫斯山惨败后撤退至阿尔巴尼亚，标志着希腊内战的结束。
+- - 1943 年：第一艘以黑人命名的美国海军舰艇哈蒙号 (USS Harmon) 服役。
+- - 1941 年：第二次世界大战：塞尔维亚准军事部队在洛兹尼察战役中击败德国人。
+- - 1940 年：宾夕法尼亚中央航空公司第 19 趟航班在弗吉尼亚州洛维茨维尔附近坠毁。CAB 对这起事故的调查是根据 1938 年航空商务局法案进行的首次调查。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-08-30 04:30:59 UTC）*
+*（更新于: 2026-08-31 04:35:11 UTC）*
