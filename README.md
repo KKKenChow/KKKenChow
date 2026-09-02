@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2008: Iraq War: The United States Armed Forces transfers control of Anbar Province to the Iraqi Armed Forces.
-- 2004: The Beslan school siege begins when armed terrorists take schoolchildren and school staff hostage in North Ossetia, Russia; by the end of the siege, three days later, more than 385 people are dead (including hostages, other civilians, security personnel and terrorists).
-- 1985: The wreck of the Titanic is discovered by an American-French expedition led by Robert Ballard and Jean-Louis Michel.
-- 1983: Cold War: Korean Air Lines Flight 007 is shot down by a Soviet jet fighter after the commercial aircraft strayed into Soviet airspace, killing all 269 on board, including Congressman Lawrence McDonald.
-- 1982: The United States Air Force Space Command is founded.
-- 1981: Central African President David Dacko is ousted from power in a bloodless military coup led by General André Kolingba.
-- 1974: The SR-71 Blackbird sets (and holds) the record for flying from New York to London in the time of one hour, 54 minutes and 56.4 seconds at a speed of 1,435.587 miles per hour (2,310.353 km/h).
-- 1973: A 76-hour multinational rescue effort in the Celtic Sea resulted in the Rescue of Roger Mallinson and Roger Chapman.
-- 1969: A coup in Libya brings Muammar Gaddafi to power.
-- 1967: Six-Day War: The Khartoum Resolution is issued at the Arab Summit, and eight countries adopt the "three 'no's against Israel".
-- 1961: TWA Flight 529 crashed shortly after takeoff from Midway Airport in Chicago, killing all 78 people on board. At the time, it was the deadliest single plane disaster in U.S. history.
-- 1944: World War II: Launch of Operation Ratweek, complicating German retreat.
-- 1939: J. Robert Oppenheimer and his student Hartland Snyder publish the Oppenheimer-Snyder model, proving for the first time in contemporary physics how black holes could develop.
-- 1939: World War II: Germany and Slovakia invade Poland, beginning the European phase of World War II.
-- 1923: The Great Kantō Earthquake devastates Tokyo and Yokohama, killing about 105,000 people.
-- 1897: The Tremont Street Subway in Boston opens, becoming the first underground rapid transit system in North America.
-- 1894: Over 400 people die in the Great Hinckley Fire, a forest fire in Hinckley, Minnesota.
-- 1880: The army of Mohammad Ayub Khan is routed by the British at the Battle of Kandahar, ending the Second Anglo-Afghan War.
-- 1878: Emma Nutt becomes the world's first female telephone operator when she is recruited by Alexander Graham Bell to the Boston Telephone Dispatch Company.
-- 1873: Cetshwayo ascends to the throne as king of the Zulu nation following the death of his father Mpande.
-- 1870: Franco-Prussian War: The Battle of Sedan is fought, resulting in a decisive Prussian victory.
-- 1864: American Civil War: The Battle of Jonesborough, alongside the overall Atlanta campaign, culminates in a Union victory for General William T. Sherman as Confederate General John Bell Hood orders the evacuation of Atlanta.
-- 1862: American Civil War: Confederate forces under General Stonewall Jackson inflict heavy casualties in the Battle of Chantilly during the Union withdrawal from the Northern Virginia campaign.
-- 1859: Carrington Event started - the most intense geomagnetic storm in recorded history.
-- 1838: Saint Andrew's Scots School, the oldest school of British origin in South America, is established.
-- 1836: Narcissa Whitman, one of the first English-speaking white women to settle west of the Rocky Mountains, arrives at Walla Walla, Washington.
-- 1831: The Order of St. Gregory the Great is established by Pope Gregory XVI of the Vatican State to recognize high support for the Vatican or for the Pope, by a man or a woman, and not necessarily a Roman Catholic.
-- 1804: 3 Juno, one of the largest asteroids in the Main Belt, is discovered by the German astronomer Karl Ludwig Harding.
-- 1774: Massachusetts Bay colonists rise up in the bloodless Powder Alarm.
-- 1772: The Mission San Luis Obispo de Tolosa is founded in San Luis Obispo, California.
+- 2024: At least 129 inmates are killed and 59 more injured in an attempted prison break at Makala Prison in Kinshasa, Democratic Republic of the Congo.
+- 2024: A suicide bombing in Kabul, Afghanistan, kills 6 people and injures 13.
+- 2024: Four people are killed in a mass shooting targeting homeless people on a Chicago Transit Authority train in Forest Park, Illinois, United States.
+- 2023: India's first solar observation mission: The Indian Space Research Organisation (ISRO) successfully launches Aditya-L1 from Satish Dhawan space centre.
+- 2022: Eighteen people are killed and 23 others are injured by a suicide bombing at a Sunni mosque in Herat, Afghanistan.
+- 2019: The dive boat MV Conception catches fire and sinks near Santa Cruz Island, killing 34.
+- 2019: Hurricane Dorian, a category 5 hurricane, devastates the Bahamas, killing at least five.
+- 2018: National Museum of Brazil fire, A massive fire destroys most of the Paço de São Cristóvão, which houses the National Museum of Brazil, in Rio de Janeiro. The museum holds important archaeοlogical and anthropological objects, including the remains of the Luzia Woman, Marajoara vases and Egyptian mummies.
+- 2013: The Eastern span replacement of the San Francisco-Oakland Bay Bridge opens at 10:15 pm at a cost of $6.4 billion, after the 1989 Loma Prieta earthquake damaged the old span.
+- 2010: Israel-Palestinian conflict: the 2010 Israeli-Palestinian peace talks are launched by the United States.
+- 2009: The Andhra Pradesh, India helicopter crash occurred near Rudrakonda Hill, 40 nautical miles (74 km) from Kurnool, Andhra Pradesh, India. Fatalities included Y. S. Rajasekhara Reddy, the Chief Minister of the Indian state of Andhra Pradesh.
+- 2008: Google launches its Google Chrome web browser.
+- 1998: The UN's International Criminal Tribunal for Rwanda finds Jean-Paul Akayesu, the former mayor of a small town in Rwanda, guilty of nine counts of genocide.
+- 1998: Swissair Flight 111 crashes near Peggy's Cove, Nova Scotia; all 229 people on board are killed.
+- 1992: The 7.7 Mw  Nicaragua earthquake affected the west coast of Nicaragua. With a .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Ms-Mw disparity of half a unit, this tsunami earthquake triggered a tsunami that caused most of the damage and casualties, with at least 116 killed. Typical runup heights were 3-8 meters (9.8-26.2 ft).
+- 1990: Transnistria is unilaterally proclaimed a Soviet republic; the Soviet president Mikhail Gorbachev declares the decision null and void.
+- 1987: In Moscow, the trial begins for 19-year-old pilot Mathias Rust, who flew his Cessna airplane into Red Square in May.
+- 1985: Sri Lankan Civil War: Sri Lankan Tamil politicians and former MPs M. Alalasundaram and V. Dharmalingam are shot dead.
+- 1984: Seven people are shot and killed and 12 wounded in the Milperra massacre, a shootout between the rival motorcycle gangs Bandidos and Comancheros in Sydney, Australia.
+- 1970: Aeroflot Flight 3630, a Tupolev Tu-124 en route from southern Russia to Lithuania, crashes after the pilots lost control of the aircraft at cruise altitude between Rostov-on-Don Airport and Vilnius Airport, on the second leg of the flight; all 37 passengers and crew are killed.
+- 1970: NASA announces the cancellation of two Apollo missions to the Moon, Apollo 15 (the designation is re-used by a later mission), and Apollo 19.
+- 1968: Operation OAU begins during the Nigerian Civil War.
+- 1963: CBS Evening News becomes U.S. network television's first half-hour weeknight news broadcast, when the show is lengthened from 15 to 30 minutes.
+- 1960: The first election of the Tibetan Parliament-in-Exile. The Tibetan community observes this date as Democracy Day.
+- 1958: A USAF RC-130 is shot down by fighters over Armenia when it strays into Soviet airspace while conducting a sigint mission. All crew members are killed.
+- 1957: President Ngô Đình Diệm of South Vietnam becomes the first foreign head of state to make a state visit to Australia.
+- 1946: The Interim Government of India is formed, headed by Jawaharlal Nehru as vice president with the powers of a Prime Minister.
+- 1945: Communist leader Ho Chi Minh proclaimed the Democratic Republic of Vietnam after the end of the Nguyễn dynasty.
+- 1945: World War II: The Japanese Instrument of Surrender is signed by Japan and the major warring powers aboard the battleship USS Missouri in Tokyo Bay, thus marking the official end to the war.
+- 1944: The last execution of a Finn in Finland takes place when soldier Olavi Laiho is executed by shooting in Oulu.
 
 Data from muffinlabs
-*(Updated at: 2026-09-01 04:16:56 UTC)*
+*(Updated at: 2026-09-02 03:39:37 UTC)*
 
 # 历史上的今天 
 
-- - 2008年：伊拉克战争：美国武装部队将安巴尔省的控制权移交给伊拉克武装部队。
-- - 2004年：俄罗斯北奥塞梯，武装恐怖分子将学童和学校工作人员劫为人质，别斯兰学校围困开始；三天后围困结束时，已有超过 385 人死亡（包括人质、其他平民、安全人员和恐怖分子）。
-- - 1985 年：罗伯特·巴拉德 (Robert Ballard) 和让·路易斯·米歇尔 (Jean-Louis Michel) 领导的美法探险队发现了泰坦尼克号的残骸。
-- - 1983 年：冷战：大韩航空 007 号航班误入苏联领空后被一架苏联喷气式战斗机击落，机上 269 人全部遇难，其中包括国会议员劳伦斯​​·麦克唐纳。
-- - 1982 年：美国空军太空司令部成立。
-- - 1981 年：中非总统戴维·达科在安德烈·科林巴将军领导的一场不流血的军事政变中被赶下台。
-- - 1974 年：SR-71 Blackbird 创下（并保持）从纽约飞往伦敦的纪录，用时 1 小时 54 分 56.4 秒，速度为 1,435.587 英里/小时（2,310.353 公里/小时）。
-- - 1973 年：在凯尔特海进行的 76 小时多国救援行动最终成功营救了罗杰·马林森 (Roger Mallinson) 和罗杰·查普曼 (Roger Chapman)。
-- - 1969 年：利比亚发生政变，穆阿迈尔·卡扎菲上台。
-- - 1967年：六​​日战争：阿拉伯首脑会议通过喀土穆决议，八个国家对以色列提出“三不”。
-- - 1961 年：环球航空 529 号航班从芝加哥中途机场起飞后不久坠毁，机上 78 人全部遇难。当时，这是美国历史上最致命的单机灾难。
-- - 1944 年：第二次世界大战：鼠周行动的发起，使德军撤退变得更加复杂。
-- - 1939 年：J. 罗伯特·奥本海默和他的学生哈特兰·斯奈德发表了奥本海默-斯奈德模型，在当代物理学中首次证明了黑洞是如何发展的。
-- - 1939 年：第二次世界大战：德国和斯洛伐克入侵波兰，开始了第二次世界大战的欧洲阶段。
-- - 1923 年：关东大地震摧毁了东京和横滨，造成约 105,000 人死亡。
-- - 1897 年：波士顿特里蒙特街地铁开通，成为北美第一个地下快速交通系统。
-- - 1894 年：明尼苏达州欣克利森林大火导致 400 多人死亡。
-- - 1880 年：穆罕默德·阿尤布·汗 (Mohammad Ayub Khan) 的军队在坎大哈战役中被英国人击溃，第二次英阿战争结束。
-- - 1878 年：艾玛·纳特 (Emma Nutt) 被亚历山大·格雷厄姆·贝尔 (Alexander Graham Bell) 招募到波士顿电话调度公司，成为世界上第一位女性电话接线员。
-- - 1873 年：塞奇瓦约 (Cetshwayo) 在其父亲姆潘德 (Mpande) 去世后登上王位，成为祖鲁族国王。
-- - 1870 年：普法战争：色当战役爆发，普鲁士取得决定性胜利。
-- - 1864 年：美国内战：琼斯伯勒战役以及整个亚特兰大战役，随着联邦将军约翰·贝尔·胡德下令撤离亚特兰大，威廉·T·谢尔曼将军取得了联邦的胜利，达到了高潮。
-- - 1862 年：美国内战：在联邦从北弗吉尼亚战役撤军期间，斯通沃尔·杰克逊将军领导下的南方联盟军队在尚蒂伊战役中​​造成重大伤亡。
-- - 1859 年：卡林顿事件开始 - 有记录以来最强烈的地磁风暴。
-- - 1838 年：南美洲最古老的英国血统学校圣安德鲁苏格兰学校成立。
-- - 1836 年：纳西莎·惠特曼 (Narcissa Whitman) 抵达华盛顿州沃拉沃拉 (Walla Walla)，她是第一批在落基山脉以西定居的说英语的白人女性之一。
-- - 1831年：圣额我略大帝勋章由梵蒂冈国教皇额我略十六世设立，旨在表彰男性或女性（不一定是罗马天主教徒）对梵蒂冈或教皇的高度支持。
-- - 1804 年：德国天文学家卡尔·路德维希·哈丁发现了主带中最大的小行星之一朱诺 3 号。
-- - 1774 年：马萨诸塞湾殖民者在不流血的火药警报中奋起反抗。
-- - 1772 年：圣路易斯奥比斯波德托洛萨传教会在加利福尼亚州圣路易斯奥比斯波成立。
+- - 2024 年：刚果民主共和国金沙萨马卡拉监狱发生越狱事件，至少造成 129 名囚犯死亡，另有 59 人受伤。
+- - 2024 年：阿富汗喀布尔发生自杀式爆炸事件，造成 6 人死亡、13 人受伤。
+- - 2024 年：美国伊利诺伊州森林公园的芝加哥交通管理局列车上发生针对无家可归者的大规模枪击事件，造成四人死亡。
+- - 2023 年：印度首次太阳观测任务：印度空间研究组织 (ISRO) 成功从 Satish Dhawan 航天中心发射 Aditya-L1。
+- - 2022 年：阿富汗赫拉特一座逊尼派清真寺发生自杀式爆炸，造成 18 人死亡、23 人受伤。
+- - 2019 年：潜水船 MV Conception 在圣克鲁斯岛附近起火沉没，造成 34 人死亡。
+- - 2019 年：5 级飓风“多里安”摧毁了巴哈马群岛，造成至少 5 人死亡。
+- - 2018 年：巴西国家博物馆火灾，一场大火摧毁了位于里约热内卢的巴西国家博物馆所在地圣克里斯托瓦公园 (Paço de São Cristóvão) 的大部分区域。博物馆藏有重要的考古和人类学物品，包括卢西亚女人的遗骸、马拉乔拉花瓶和埃及木乃伊。
+- - 2013 年：1989 年洛马普列塔地震损坏了旧跨度后，旧金山-奥克兰海湾大桥的东跨度更换工程于晚上 10:15 开放，耗资 64 亿美元。
+- - 2010年：以巴冲突：2010年以巴和谈由美国发起。
+- - 2009 年：印度安得拉邦直升机坠毁发生在距离印度安得拉邦库努尔 40 海里（74 公里）的 Rudrakonda 山附近。死亡人数包括印度安得拉邦首席部长 Y. S. Rajasekhara Reddy。
+- - 2008 年：Google 推出 Google Chrome 网络浏览器。
+- - 1998 年：联合国卢旺达国际刑事法庭认定卢旺达小镇前市长让-保罗·阿卡耶苏犯有九项种族灭绝罪。
+- - 1998 年：瑞士航空 111 号航班在新斯科舍省佩吉湾附近坠毁；机上229人全部遇难。
+- - 1992 年：7.7 兆瓦尼加拉瓜地震影响了尼加拉瓜西海岸。由于 .mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Ms-Mw 相差半个单位，这次海啸地震引发的海啸造成了大部分损失和人员伤亡，至少有 116 人死亡。典型的助跑高度为 3-8 米（9.8-26.2 英尺）。
+- - 1990年：德涅斯特河沿岸单方面宣布为苏维埃共和国；苏联总统米哈伊尔·戈尔巴乔夫宣布该决定无效。
+- - 1987 年：在莫斯科，对 19 岁飞行员马蒂亚斯·鲁斯特 (Mathias Rust) 的审判开始，他于 5 月驾驶他的塞斯纳飞机进入红场。
+- - 1985 年：斯里兰卡内战：斯里兰卡泰米尔政治家和前议员 M. Alalasundaram 和 V. Dharmalingam 被枪杀。
+- - 1984 年：米尔佩拉大屠杀是澳大利亚悉尼摩托车帮班迪多斯 (Bandidos) 和科曼切罗斯 (Comancheros) 之间的枪战，造成 7 人被枪杀、12 人受伤。
+- - 1970 年：俄罗斯航空公司 3630 号航班是一架图波列夫 Tu-124，在从俄罗斯南部飞往立陶宛的途中，在第二航段顿河畔罗斯托夫机场和维尔纽斯机场之间的巡航高度，飞行员失去对飞机的控制后坠毁；37名乘客和机组人员全部遇难。
+- - 1970 年：NASA 宣布取消两次阿波罗登月任务：阿波罗 15 号（该名称在后来的任务中重新使用）和阿波罗 19 号。
+- - 1968 年：非统组织行动在尼日利亚内战期间开始。
+- - 1963 年：哥伦比亚广播公司晚间新闻成为美国网络电视台首个半小时工作日晚间新闻广播，节目时长从 15 分钟延长至 30 分钟。
+- - 1960年：西藏流亡议会第一次选举。藏人社区将这一天定为民主日。
+- - 1958 年：一架美国空军 RC-130 在执行信号任务时误入苏联领空，在亚美尼亚上空被战斗机击落。所有船员均被杀害。
+- - 1957年：南越总统吴廷琰成为首位对澳大利亚进行国事访问的外国国家元首。
+- - 1946 年：印度临时政府成立，由副总统贾瓦哈拉尔·尼赫鲁领导，拥有总理权力。
+- - 1945年：越南共产党领袖胡志明在阮朝结束后宣布成立越南民主共和国。
+- - 1945 年：第二次世界大战：日本与主要交战国在东京湾的密苏里号战列舰上签署日本投降书，从而标志着战争正式结束。
+- - 1944 年：芬兰最后一次处决芬兰人，士兵奥拉维·莱霍 (Olavi Laiho) 在奥卢被枪杀。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-09-01 04:16:56 UTC）*
+*（更新于: 2026-09-02 03:39:37 UTC）*
