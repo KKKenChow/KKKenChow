@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: Balçova police station shooting: 4 people, including the perpetrator are killed an attack on a police station in Turkey.
-- 2023: The 2023 Rugby World Cup, the tenth men's Rugby World Cup is held in France. The opening ceremony, directed and written by Jean Dujardin, Olivier Ferracci and Nora Matthey, took place at the Stade de France in Saint-Denis, before the opening match between France and New Zealand, which saw the host nation winning 27 to 13.
-- 2023: A magnitude 6.9 earthquake strikes Morocco, killing nearly 3,000 people and damaging historic sites in Marrakesh.
-- 2022: Queen Elizabeth II of the United Kingdom dies at Balmoral Castle in Scotland after reigning for 70 years. Her son Charles, Prince of Wales, ascends the throne upon her death as Charles III.
-- 2017: Syrian civil war: The Syrian Democratic Forces (SDF) announce the beginning of the Deir ez-Zor campaign, with the stated aim of eliminating the Islamic State (IS) from all areas north and east of the Euphrates.
-- 2016: NASA launches OSIRIS-REx, its first asteroid sample return mission. The probe visited 101955 Bennu and returned with samples in September 2023.
-- 2005: Two Ilyushin Il-76 aircraft from EMERCOM land at a disaster aid staging area at Little Rock Air Force Base; the first time Russia has flown such a mission to North America.
-- 2004: NASA's uncrewed spacecraft Genesis crash-lands when its parachute fails to open.
-- 2000: NASA launches Space Shuttle Atlantis on STS-106 to resupply the International Space Station.
-- 1994: USAir Flight 427, on approach to Pittsburgh International Airport, suddenly crashes in clear weather killing all 132 aboard, resulting in the most extensive aviation investigation in world history and altering manufacturing practices in the industry.
-- 1989: Partnair Flight 394 dives into the North Sea, killing 55 people. The investigation showed that the tail of the plane vibrated loose in flight due to sub-standard connecting bolts that had been fraudulently sold as aircraft-grade.
-- 1988: Yellowstone National Park is closed for the first time in U.S. history due to ongoing fires.
-- 1986: Nicholas Daniloff, a correspondent for U.S. News & World Report, is indicted on charges of espionage by the Soviet Union.
-- 1978: Black Friday, a massacre by soldiers against protesters in Tehran, results in 88 deaths, it marks the beginning of the end of the monarchy in Iran.
-- 1975: Gays in the military: US Air Force Tech Sergeant Leonard Matlovich, a decorated veteran of the Vietnam War, appears in his Air Force uniform on the cover of Time magazine with the headline "I Am A Homosexual". He is given a general discharge, later upgraded to honorable.
-- 1974: Watergate scandal: US President Gerald Ford signs the pardon of Richard Nixon for any crimes Nixon may have committed while in office.
-- 1973: World Airways Flight 802 crashes into Mount Dutton in King Cove, Alaska, killing six people.
-- 1971: In Washington, D.C., the John F. Kennedy Center for the Performing Arts is inaugurated, with the opening feature being the premiere of Leonard Bernstein's Mass.
-- 1970: Trans International Airlines Flight 863 crashes during takeoff from John F. Kennedy International Airport in New York City, killing all 11 aboard.
-- 1966: The landmark American science fiction television series Star Trek premieres with its first-aired episode, "The Man Trap".
-- 1962: Last run of the famous Pines Express over the Somerset and Dorset Railway line (UK) fittingly using the last steam locomotive built by British Railways, BR Standard Class 9F 92220 Evening Star.
-- 1960: In Huntsville, Alabama, US President Dwight D. Eisenhower formally dedicates the Marshall Space Flight Center (NASA had already activated the facility on July 1).
-- 1954: The Southeast Asia Treaty Organization (SEATO) is established.
-- 1952: The Canadian Broadcasting Corporation makes its first televised broadcast on the second escape of the Boyd Gang.
-- 1948: The flag of North Korea is adopted with the passing of the country's first constitution by the Supreme People's Assembly.
-- 1946: A referendum abolishes the monarchy in Bulgaria.
-- 1945: The division of Korea begins when United States troops arrive to partition the southern part of Korea in response to Soviet troops occupying the northern part of the peninsula a month earlier.
-- 1944: World War II: London is hit by a V-2 rocket for the first time.
-- 1943: World War II: The Armistice of Cassibile is proclaimed by radio. OB Süd immediately implements plans to disarm the Italian forces.
-- 1941: World War II: German forces begin the Siege of Leningrad.
+- 2025: Several Russian drones incur on Polish airspace and are subsequently shot down, marking the first time a NATO member has engaged Russian military assets.
+- 2025: Six people are killed when Israel carries out an airstrike on Doha in a failed attempt to decapitate the Hamas leadership.
+- 2016: The government of North Korea conducts its fifth and reportedly biggest nuclear test. World leaders condemn the act, with South Korea calling it "maniacal recklessness".
+- 2015: Elizabeth II becomes the longest reigning monarch of the United Kingdom.
+- 2014: The album Songs of Innocence by U2 is digitally released at no charge to all customers of the iTunes Music Store, appearing automatically in the "purchased" section of over 500 million users worldwide.
+- 2012: A wave of attacks kills more than 100 people and injure 350 others across Iraq.
+- 2012: The Indian space agency puts into orbit its heaviest foreign satellite yet, in a streak of 21 consecutive successful PSLV launches.
+- 2009: The Dubai Metro, the first urban train network in the Arabian Peninsula, is ceremonially inaugurated.
+- 2006: Space Shuttle Program: Space Shuttle Atlantis is launched on STS-115 to resume assembling the International Space Station. It is the first ISS assembly mission after the Columbia disaster back in 2003.
+- 2001: Ahmad Shah Massoud, leader of the Northern Alliance, is assassinated in Afghanistan by two al-Qaeda assassins who claimed to be Arab journalists wanting an interview.
+- 1994: Space Shuttle program: Space Shuttle Discovery is launched on STS-64.
+- 1993: Israeli-Palestinian peace process: The Palestine Liberation Organization officially recognizes Israel as a legitimate state.
+- 1991: Tajikistan declares independence from the Soviet Union.
+- 1990: Batticaloa massacre: Massacre of 184 Tamil civilians by the Sri Lankan Army in Batticaloa District.
+- 1988: Vietnam Airlines Flight 831 crashes in Khu Khot, Thailand, while on approach to Don Muang International Airport, killing 76.
+- 1976: Two Aeroflot flights collide in mid-air over Anapa, Soviet Union, killing 70.
+- 1972: In Kentucky's Mammoth Cave National Park, a Cave Research Foundation exploration and mapping team discovers a link between the Mammoth and Flint Ridge cave systems, making it the longest known cave passageway in the world.
+- 1971: The four-day Attica Prison riot begins, eventually resulting in 39 dead, most killed by state troopers retaking the prison.
+- 1970: A British airliner is hijacked by the Popular Front for the Liberation of Palestine and flown to Dawson's Field in Jordan.
+- 1969: Allegheny Airlines Flight 863 collides in mid-air with a Piper PA-28 Cherokee over Moral Township, Shelby County, Indiana, killing all 83 people on board both aircraft.
+- 1969: In Canada, the Official Languages Act comes into force, making French equal to English throughout the Federal government.
+- 1966: The National Traffic and Motor Vehicle Safety Act is signed into law by U.S. President Lyndon B. Johnson.
+- 1965: Hurricane Betsy makes its second landfall near New Orleans, leaving 76 dead and $1.42 billion ($10-12 billion in 2005 dollars) in damages, becoming the first hurricane to cause over $1 billion in unadjusted damage.
+- 1965: The United States Department of Housing and Urban Development is established.
+- 1956: Elvis Presley appears on The Ed Sullivan Show for the first time.
+- 1954: The 6.7 Mw  Chlef earthquake shakes northern Algeria with a maximum Mercalli intensity of XI (Extreme). At least 1,243 people were killed and 5,000 were injured.
+- 1948: Kim Il Sung is appointed as premier of the Democratic People's Republic of Korea (North Korea). This is celebrated annually as its national holiday.
+- 1947: First case of a computer bug being found: A moth lodges in a relay of a Harvard Mark II computer at Harvard University.
+- 1945: Second Sino-Japanese War: The Empire of Japan formally surrenders to China.
+- 1944: World War II: The Fatherland Front takes power in Bulgaria through a military coup in the capital and armed rebellion in the country. A new pro-Soviet government is established.
 
 Data from muffinlabs
-*(Updated at: 2026-09-08 03:46:05 UTC)*
+*(Updated at: 2026-09-09 03:50:41 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：土耳其巴尔科瓦警察局枪击事件：包括行凶者在内的 4 人在袭击中丧生。
-- - 2023年：2023年橄榄球世界杯，第十届男子橄榄球世界杯在法国举行。The opening ceremony, directed and written by Jean Dujardin, Olivier Ferracci and Nora Matthey, took place at the Stade de France in Saint-Denis, before the opening match between France and New Zealand, which saw the host nation winning 27 to 13.
-- - 2023 年：摩洛哥发生里氏 6.9 级地震，造成近 3,000 人死亡，马拉喀什的历史古迹遭到破坏。
-- - 2022 年：英国女王伊丽莎白二世在位 70 年后在苏格兰巴尔莫勒尔堡去世。她的儿子威尔士亲王查尔斯在她去世后即位，成为查尔斯三世。
-- - 2017: Syrian civil war: The Syrian Democratic Forces (SDF) announce the beginning of the Deir ez-Zor campaign, with the stated aim of eliminating the Islamic State (IS) from all areas north and east of the Euphrates.
-- - 2016 年：NASA 发射 OSIRIS-REx，这是其首次小行星样本返回任务。探测器访问了 101955 Bennu，并于 2023 年 9 月带着样本返回。
-- - 2005 年：EMERCOM 的两架 Ilyushin Il-76 飞机降落在小石城空军基地的灾难援助集结地；这是俄罗斯首次执行此类任务前往北美。
-- - 2004 年：美国宇航局的无人航天器创世纪因降落伞无法打开而坠毁。
-- - 2000 年：NASA 在 STS-106 上发射亚特兰蒂斯号航天飞机，为国际空间站提供补给。
-- - 1994 年：美国航空 427 号航班在晴朗的天气中，在接近匹兹堡国际机场时突然坠毁，机上 132 人全部遇难，导致世界历史上最广泛的航空调查，并改变了该行业的制造实践。
-- - 1989 年：Partnair 394 号航班潜入北海，造成 55 人死亡。The investigation showed that the tail of the plane vibrated loose in flight due to sub-standard connecting bolts that had been fraudulently sold as aircraft-grade.
-- - 1988 年：由于持续的火灾，黄石国家公园在美国历史上首次关闭。
-- - 1986 年：《美国新闻与世界报道》记者尼古拉斯·达尼洛夫 (Nicholas Daniloff) 被苏联指控从事间谍活动。
-- - 1978: Black Friday, a massacre by soldiers against protesters in Tehran, results in 88 deaths, it marks the beginning of the end of the monarchy in Iran.
-- - 1975: Gays in the military: US Air Force Tech Sergeant Leonard Matlovich, a decorated veteran of the Vietnam War, appears in his Air Force uniform on the cover of Time magazine with the headline "I Am A Homosexual".他被授予一般退伍资格，后来晋升为荣誉勋章。
-- - 1974 年：水门事件丑闻：美国总统杰拉尔德·福特签署了对理查德·尼克松的赦免令，赦免尼克松在任期间可能犯下的任何罪行。
-- - 1973 年：世界航空公司 802 号航班在阿拉斯加金湾的达顿山坠毁，造成六人死亡。
-- - 1971: In Washington, D.C., the John F. Kennedy Center for the Performing Arts is inaugurated, with the opening feature being the premiere of Leonard Bernstein's Mass.
-- - 1970: Trans International Airlines Flight 863 crashes during takeoff from John F. Kennedy International Airport in New York City, killing all 11 aboard.
-- - 1966 年：具有里程碑意义的美国科幻电视连续剧《星际迷航》以其首播剧集“男人陷阱”首映。
-- - 1962: Last run of the famous Pines Express over the Somerset and Dorset Railway line (UK) fittingly using the last steam locomotive built by British Railways, BR Standard Class 9F 92220 Evening Star.
-- - 1960: In Huntsville, Alabama, US President Dwight D. Eisenhower formally dedicates the Marshall Space Flight Center (NASA had already activated the facility on July 1).
-- - 1954年：东南亚条约组织（SEATO）成立。
-- - 1952 年：加拿大广播公司首次对博伊德帮第二次越狱进行电视转播。
-- - 1948年：随着最高人民会议通过该国第一部宪法，朝鲜国旗被采用。
-- - 1946 年：保加利亚举行全民公投废除君主制。
-- - 1945: The division of Korea begins when United States troops arrive to partition the southern part of Korea in response to Soviet troops occupying the northern part of the peninsula a month earlier.
-- - 1944 年：第二次世界大战：伦敦首次被 V-2 火箭击中。
-- - 1943 年：第二次世界大战：卡西比尔停战协定通过无线电宣布。OB Süd 立即实施解除意大利军队武装的计划。
-- - 1941 年：第二次世界大战：德军开始围攻列宁格勒。
+- - 2025年：几架俄罗斯无人机进入波兰领空并随后被击落，这是北约成员国首次与俄罗斯军事资产交战。
+- - 2025 年：以色列对多哈发动空袭，试图斩首哈马斯领导层，但未成功，造成六人死亡。
+- - 2016 年：朝鲜政府进行了第五次核试验，据称也是规模最大的一次核试验。世界领导人谴责这一行为，韩国称其为“疯狂的鲁莽行为”。
+- - 2015 年：伊丽莎白二世成为英国在位时间最长的君主。
+- - 2014 年：U2 的专辑《Songs of Innocence》以数字方式免费向 iTunes Music Store 的所有客户发行，并自动出现在全球超过 5 亿用户的“已购买”部分中。
+- - 2012 年：伊拉克各地的一波袭击造成 100 多人死亡、350 人受伤。
+- - 2012 年：印度航天局连续 21 次成功发射 PSLV，将迄今为止最重的外国卫星送入轨道。
+- - 2009 年：阿拉伯半岛第一个城市列车网络迪拜地铁隆重落成。
+- - 2006 年：航天飞机计划：亚特兰蒂斯号航天飞机在 STS-115 上发射，以继续组装国际空间站。这是 2003 年哥伦比亚号灾难后的首次国际空间站组装任务。
+- - 2001年：北方联盟领导人艾哈迈德·沙阿·马苏德在阿富汗被两名自称是想要接受采访的阿拉伯记者的基地组织暗杀者刺杀。
+- - 1994 年：航天飞机计划：发现号航天飞机在 STS-64 上发射。
+- - 1993年：以色列-巴勒斯坦和平进程：巴勒斯坦解放组织正式承认以色列为合法国家。
+- - 1991年：塔吉克斯坦宣布脱离苏联独立。
+- - 1990 年：拜蒂克洛大屠杀：斯里兰卡军队在拜蒂克洛地区屠杀了 184 名泰米尔平民。
+- - 1988 年：越南航空 831 号航班在泰国廊曼国际机场降落时在泰国 Khu Khot 坠毁，造成 76 人死亡。
+- - 1976 年：两架 Aeroflot 航班在苏联阿纳帕上空相撞，造成 70 人死亡。
+- - 1972 年：在肯塔基州的猛犸洞国家公园，洞穴研究基金会勘探和测绘小组发现了猛犸洞和弗林特岭洞穴系统之间的联系，使其成为世界上已知最长的洞穴通道。
+- - 1971 年：阿提卡监狱开始发生为期四天的骚乱，最终导致 39 人死亡，其中大部分是被重新夺回监狱的州警杀害的。
+- - 1970 年：一架英国客机被解放巴勒斯坦人民阵线劫持，飞往约旦的道森机场。
+- - 1969 年：阿勒格尼航空公司 863 号航班在印第安纳州谢尔比县莫拉尔镇上空与一架 Piper PA-28 切诺基飞机相撞，造成两架飞机上的 83 人全部遇难。
+- - 1969 年：在加拿大，《官方语言法》生效，使法语在整个联邦政府中与英语平等。
+- - 1966 年：美国总统林登·约翰逊 (Lyndon B. Johnson) 签署《国家交通和机动车辆安全法》成为法律。
+- - 1965 年：飓风贝特西在新奥尔良附近第二次登陆，造成 76 人死亡和 14.2 亿美元（按 2005 年美元计算为 10-120 亿美元）的损失，成为第一场造成超过 10 亿美元未经调整损失的飓风。
+- - 1965 年：美国住房和城市发展部成立。
+- - 1956 年：埃尔维斯·普雷斯利 (Elvis Presley) 首次出现在埃德·沙利文秀 (Ed Sullivan Show) 上。
+- - 1954 年：阿尔及利亚北部发生了 6.7 Mw Chlef 地震，最大 Mercalli 强度为 XI（极端）。至少1,243人死亡，5,000人受伤。
+- - 1948 年：金日成被任命为朝鲜民主主义人民共和国（朝鲜）总理。每年都将这一天作为国定假日来庆祝。
+- - 1947 年：发现第一例计算机错误：一只飞蛾栖息在哈佛大学的哈佛 Mark II 计算机的继电器中。
+- - 1945年：第二次中日战争：日本帝国正式向中国投降。
+- - 1944 年：第二次世界大战：祖国阵线通过首都的军事政变和国内的武装叛乱在保加利亚掌权。新的亲苏联政府成立。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-09-08 03:46:05 UTC）*
+*（更新于: 2026-09-09 03:50:41 UTC）*
