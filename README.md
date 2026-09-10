@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: Several Russian drones incur on Polish airspace and are subsequently shot down, marking the first time a NATO member has engaged Russian military assets.
-- 2025: Six people are killed when Israel carries out an airstrike on Doha in a failed attempt to decapitate the Hamas leadership.
-- 2016: The government of North Korea conducts its fifth and reportedly biggest nuclear test. World leaders condemn the act, with South Korea calling it "maniacal recklessness".
-- 2015: Elizabeth II becomes the longest reigning monarch of the United Kingdom.
-- 2014: The album Songs of Innocence by U2 is digitally released at no charge to all customers of the iTunes Music Store, appearing automatically in the "purchased" section of over 500 million users worldwide.
-- 2012: A wave of attacks kills more than 100 people and injure 350 others across Iraq.
-- 2012: The Indian space agency puts into orbit its heaviest foreign satellite yet, in a streak of 21 consecutive successful PSLV launches.
-- 2009: The Dubai Metro, the first urban train network in the Arabian Peninsula, is ceremonially inaugurated.
-- 2006: Space Shuttle Program: Space Shuttle Atlantis is launched on STS-115 to resume assembling the International Space Station. It is the first ISS assembly mission after the Columbia disaster back in 2003.
-- 2001: Ahmad Shah Massoud, leader of the Northern Alliance, is assassinated in Afghanistan by two al-Qaeda assassins who claimed to be Arab journalists wanting an interview.
-- 1994: Space Shuttle program: Space Shuttle Discovery is launched on STS-64.
-- 1993: Israeli-Palestinian peace process: The Palestine Liberation Organization officially recognizes Israel as a legitimate state.
-- 1991: Tajikistan declares independence from the Soviet Union.
-- 1990: Batticaloa massacre: Massacre of 184 Tamil civilians by the Sri Lankan Army in Batticaloa District.
-- 1988: Vietnam Airlines Flight 831 crashes in Khu Khot, Thailand, while on approach to Don Muang International Airport, killing 76.
-- 1976: Two Aeroflot flights collide in mid-air over Anapa, Soviet Union, killing 70.
-- 1972: In Kentucky's Mammoth Cave National Park, a Cave Research Foundation exploration and mapping team discovers a link between the Mammoth and Flint Ridge cave systems, making it the longest known cave passageway in the world.
-- 1971: The four-day Attica Prison riot begins, eventually resulting in 39 dead, most killed by state troopers retaking the prison.
-- 1970: A British airliner is hijacked by the Popular Front for the Liberation of Palestine and flown to Dawson's Field in Jordan.
-- 1969: Allegheny Airlines Flight 863 collides in mid-air with a Piper PA-28 Cherokee over Moral Township, Shelby County, Indiana, killing all 83 people on board both aircraft.
-- 1969: In Canada, the Official Languages Act comes into force, making French equal to English throughout the Federal government.
-- 1966: The National Traffic and Motor Vehicle Safety Act is signed into law by U.S. President Lyndon B. Johnson.
-- 1965: Hurricane Betsy makes its second landfall near New Orleans, leaving 76 dead and $1.42 billion ($10-12 billion in 2005 dollars) in damages, becoming the first hurricane to cause over $1 billion in unadjusted damage.
-- 1965: The United States Department of Housing and Urban Development is established.
-- 1956: Elvis Presley appears on The Ed Sullivan Show for the first time.
-- 1954: The 6.7 Mw  Chlef earthquake shakes northern Algeria with a maximum Mercalli intensity of XI (Extreme). At least 1,243 people were killed and 5,000 were injured.
-- 1948: Kim Il Sung is appointed as premier of the Democratic People's Republic of Korea (North Korea). This is celebrated annually as its national holiday.
-- 1947: First case of a computer bug being found: A moth lodges in a relay of a Harvard Mark II computer at Harvard University.
-- 1945: Second Sino-Japanese War: The Empire of Japan formally surrenders to China.
-- 1944: World War II: The Fatherland Front takes power in Bulgaria through a military coup in the capital and armed rebellion in the country. A new pro-Soviet government is established.
+- 2025: American right-wing political activist Charlie Kirk is assassinated while onstage at Utah Valley University in Orem, Utah.
+- 2024: Polaris Dawn, the first private crewed spaceflight to involve a spacewalk, is launched from the Kennedy Space Center in Florida.
+- 2017: Hurricane Irma makes landfall on Cudjoe Key, Florida as a Category 4, after causing catastrophic damage throughout the Caribbean. Irma resulted in 134 deaths and $77.2 billion (2017 USD) in damage.
+- 2008: The Large Hadron Collider at CERN, described as the biggest scientific experiment in history, is powered up in Geneva, Switzerland.
+- 2007: Former Prime Minister of Pakistan Nawaz Sharif returns to Pakistan after seven years in exile, following a military coup in October 1999.
+- 2002: Switzerland, traditionally a neutral country, becomes a full member of the United Nations.
+- 2001: During his appearance on the British TV game show Who Wants to be a Millionaire?, contestant Charles Ingram reaches the £1 million top prize, but it was later revealed that he had cheated to the top prize by listening to coughs from his wife and another contestant.
+- 2001: Antônio da Costa Santos, mayor of Campinas, Brazil is assassinated.
+- 2000: Operation Barras successfully frees six British soldiers held captive for over two weeks and contributes to the end of the Sierra Leone Civil War.
+- 1977: Hamida Djandoubi, convicted of torture and murder, is the last person to be executed by guillotine in France.
+- 1976: A British Airways Hawker Siddeley Trident and an Inex-Adria DC-9 collide near Zagreb, Yugoslavia, killing 176.
+- 1974: Guinea-Bissau gains independence from Portugal.
+- 1967: The people of Gibraltar vote to remain a British dependency rather than becoming part of Spain.
+- 1961: A President Airlines Douglas DC-6 crashes just after takeoff from Shannon Airport, Ireland. All 83 passengers and crew are killed. 
+- 1961: In the Italian Grand Prix, a crash causes the death of German Formula One driver Wolfgang von Trips and 15 spectators who are hit by his Ferrari, the deadliest accident in F1 history.
+- 1960: At the Summer Olympics in Rome, Abebe Bikila becomes the first sub-Saharan African to win a gold medal, winning the marathon in bare feet.
+- 1943: World War II: In the course of Operation Achse, German troops begin their occupation of Rome.
+- 1942: World War II: The British Army carries out an amphibious landing on Madagascar to re-launch Allied offensive operations in the Madagascar Campaign.
+- 1939: World War II: The Canadian declaration of war on Germany receives royal assent.
+- 1939: World War II: The submarine HMS Oxley is mistakenly sunk by the submarine HMS Triton near Norway and becomes the Royal Navy's first loss of a submarine in the war.
+- 1937: Nine nations attend the Nyon Conference to address international piracy in the Mediterranean Sea.
+- 1936: The first world individual Speedway World Championship was held at London's Wembley Stadium.
+- 1932: The New York City Subway's third competing subway system, the municipally owned IND, is opened.
+- 1919: The Republic of German-Austria signs the Treaty of Saint-Germain-en-Laye, ceding significant territories to Italy, Yugoslavia, and Czechoslovakia.
+- 1918: Russian Civil War: The Red Army captures Kazan.
+- 1898: Empress Elisabeth of Austria is assassinated by Luigi Lucheni.
+- 1897: Lattimer massacre: A sheriff's posse kills 19 unarmed striking immigrant miners in Lattimer, Pennsylvania, United States.
+- 1858: George Mary Searle discovers the asteroid 55 Pandora.
+- 1846: Elias Howe is granted a patent for the sewing machine.
+- 1813: The United States defeats a British Fleet at the Battle of Lake Erie during the War of 1812.
 
 Data from muffinlabs
-*(Updated at: 2026-09-09 03:50:41 UTC)*
+*(Updated at: 2026-09-10 03:49:22 UTC)*
 
 # 历史上的今天 
 
-- - 2025年：几架俄罗斯无人机进入波兰领空并随后被击落，这是北约成员国首次与俄罗斯军事资产交战。
-- - 2025 年：以色列对多哈发动空袭，试图斩首哈马斯领导层，但未成功，造成六人死亡。
-- - 2016 年：朝鲜政府进行了第五次核试验，据称也是规模最大的一次核试验。世界领导人谴责这一行为，韩国称其为“疯狂的鲁莽行为”。
-- - 2015 年：伊丽莎白二世成为英国在位时间最长的君主。
-- - 2014 年：U2 的专辑《Songs of Innocence》以数字方式免费向 iTunes Music Store 的所有客户发行，并自动出现在全球超过 5 亿用户的“已购买”部分中。
-- - 2012 年：伊拉克各地的一波袭击造成 100 多人死亡、350 人受伤。
-- - 2012 年：印度航天局连续 21 次成功发射 PSLV，将迄今为止最重的外国卫星送入轨道。
-- - 2009 年：阿拉伯半岛第一个城市列车网络迪拜地铁隆重落成。
-- - 2006 年：航天飞机计划：亚特兰蒂斯号航天飞机在 STS-115 上发射，以继续组装国际空间站。这是 2003 年哥伦比亚号灾难后的首次国际空间站组装任务。
-- - 2001年：北方联盟领导人艾哈迈德·沙阿·马苏德在阿富汗被两名自称是想要接受采访的阿拉伯记者的基地组织暗杀者刺杀。
-- - 1994 年：航天飞机计划：发现号航天飞机在 STS-64 上发射。
-- - 1993年：以色列-巴勒斯坦和平进程：巴勒斯坦解放组织正式承认以色列为合法国家。
-- - 1991年：塔吉克斯坦宣布脱离苏联独立。
-- - 1990 年：拜蒂克洛大屠杀：斯里兰卡军队在拜蒂克洛地区屠杀了 184 名泰米尔平民。
-- - 1988 年：越南航空 831 号航班在泰国廊曼国际机场降落时在泰国 Khu Khot 坠毁，造成 76 人死亡。
-- - 1976 年：两架 Aeroflot 航班在苏联阿纳帕上空相撞，造成 70 人死亡。
-- - 1972 年：在肯塔基州的猛犸洞国家公园，洞穴研究基金会勘探和测绘小组发现了猛犸洞和弗林特岭洞穴系统之间的联系，使其成为世界上已知最长的洞穴通道。
-- - 1971 年：阿提卡监狱开始发生为期四天的骚乱，最终导致 39 人死亡，其中大部分是被重新夺回监狱的州警杀害的。
-- - 1970 年：一架英国客机被解放巴勒斯坦人民阵线劫持，飞往约旦的道森机场。
-- - 1969 年：阿勒格尼航空公司 863 号航班在印第安纳州谢尔比县莫拉尔镇上空与一架 Piper PA-28 切诺基飞机相撞，造成两架飞机上的 83 人全部遇难。
-- - 1969 年：在加拿大，《官方语言法》生效，使法语在整个联邦政府中与英语平等。
-- - 1966 年：美国总统林登·约翰逊 (Lyndon B. Johnson) 签署《国家交通和机动车辆安全法》成为法律。
-- - 1965 年：飓风贝特西在新奥尔良附近第二次登陆，造成 76 人死亡和 14.2 亿美元（按 2005 年美元计算为 10-120 亿美元）的损失，成为第一场造成超过 10 亿美元未经调整损失的飓风。
-- - 1965 年：美国住房和城市发展部成立。
-- - 1956 年：埃尔维斯·普雷斯利 (Elvis Presley) 首次出现在埃德·沙利文秀 (Ed Sullivan Show) 上。
-- - 1954 年：阿尔及利亚北部发生了 6.7 Mw Chlef 地震，最大 Mercalli 强度为 XI（极端）。至少1,243人死亡，5,000人受伤。
-- - 1948 年：金日成被任命为朝鲜民主主义人民共和国（朝鲜）总理。每年都将这一天作为国定假日来庆祝。
-- - 1947 年：发现第一例计算机错误：一只飞蛾栖息在哈佛大学的哈佛 Mark II 计算机的继电器中。
-- - 1945年：第二次中日战争：日本帝国正式向中国投降。
-- - 1944 年：第二次世界大战：祖国阵线通过首都的军事政变和国内的武装叛乱在保加利亚掌权。新的亲苏联政府成立。
+- - 2025 年：美国右翼政治活动家查理·柯克在犹他州奥勒姆的犹他谷大学讲台上被暗杀。
+- - 2024 年：北极星黎明号从佛罗里达州肯尼迪航天中心发射升空，这是第一个涉及太空行走的私人载人航天飞行。
+- - 2017 年：飓风“艾尔玛”在佛罗里达州库乔岛登陆，飓风等级为 4 级，对整个加勒比地区造成灾难性破坏。艾尔玛飓风导致 134 人死亡，损失达 772 亿美元（2017 年美元）。
+- - 2008 年：被称为历史上最大的科学实验的欧洲核子研究中心的大型强子对撞机在瑞士日内瓦启动。
+- - 2007 年：1999 年 10 月发生军事政变后，巴基斯坦前总理纳瓦兹·谢里夫在流亡七年后返回巴基斯坦。
+- - 2002年：传统上的中立国瑞士成为联合国正式会员国。
+- - 2001 年：在英国电视游戏节目“谁想成为百万富翁？”中，参赛者查尔斯·英格拉姆 (Charles Ingram) 获得了 100 万英镑的最高奖金，但后来发现，他是通过听到妻子和另一位参赛者的咳嗽声来骗取最高奖金的。
+- - 2001年：巴西坎皮纳斯市市长安东尼奥·达·科斯塔·桑托斯遇刺身亡。
+- - 2000 年：巴拉斯行动成功释放了被囚禁两周多的六名英国士兵，为塞拉利昂内战的结束做出了贡献。
+- - 1977 年：哈米达·詹杜比 (Hamida Djandoubi) 被判犯有酷刑和谋杀罪，是法国最后一个被断头台处决的人。
+- - 1976 年：一架英国航空公司 Hawker Siddeley Trident 飞机和一架 Inex-Adria DC-9 在南斯拉夫萨格勒布附近相撞，造成 176 人死亡。
+- - 1974 年：几内亚比绍从葡萄牙手中获得独立。
+- - 1967 年：直布罗陀人民投票决定继续作为英国属地而不是成为西班牙的一部分。
+- - 1961 年：总统航空的一架道格拉斯 DC-6 飞机从爱尔兰香农机场起飞后不久坠毁。83名乘客和机组人员全部遇难。
+- - 1961 年：在意大利大奖赛中，一场车祸导致德国一级方程式赛车手沃尔夫冈·冯·特里普斯 (Wolfgang von Trips) 和 15 名观众被他的法拉利撞死，这是 F1 历史上最致命的事故。
+- - 1960 年：在罗马夏季奥运会上，阿贝贝·比基拉 (Abebe Bikila) 赤脚赢得马拉松比赛，成为第一位赢得金牌的撒哈拉以南非洲人。
+- - 1943 年：第二次世界大战：在 Achse 行动中，德国军队开始占领罗马。
+- - 1942年：第二次世界大战：英国陆军在马达加斯加进行两栖登陆，重新发起盟军在马达加斯加战役中的进攻行动。
+- - 1939 年：第二次世界大战：加拿大对德国宣战获得皇室同意。
+- - 1939 年：第二次世界大战：英国皇家海军奥克斯利号潜艇在挪威附近被英国皇家海军海卫一号潜艇误击沉，成为英国皇家海军在战争中损失的第一艘潜艇。
+- - 1937 年：九个国家参加尼翁会议，讨论地中海国际海盗问题。
+- - 1936年：第一届世界个人赛车世界锦标赛在伦敦温布利体育场举行。
+- - 1932 年：纽约市地铁的第三个竞争地铁系统——市政府拥有的 IND 开通。
+- - 1919 年：德奥共和国签署《圣日耳曼昂莱条约》，将重要领土割让给意大利、南斯拉夫和捷克斯洛伐克。
+- - 1918 年：俄罗斯内战：红军占领喀山。
+- - 1898 年：奥地利皇后伊丽莎白被路易吉·卢切尼刺杀。
+- - 1897 年：拉蒂默大屠杀：在美国宾夕法尼亚州拉蒂默，治安官的队伍杀死了 19 名手无寸铁的罢工移民矿工。
+- - 1858 年：乔治·玛丽·塞尔发现小行星 55 号潘多拉。
+- - 1846 年：Elias Howe 获得缝纫机专利。
+- - 1813 年：1812 年战争期间，美国在伊利湖战役中击败英​​国舰队。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-09-09 03:50:41 UTC）*
+*（更新于: 2026-09-10 03:49:22 UTC）*
