@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2022: The death of Mahsa Amini occurred in Tehran, Iran, sparking worldwide protests.
-- 2022: During the Let Yet Kone massacre, the Burmese military kills 13 villagers, including eight children, after attacking a school in Sagaing Region, Myanmar.
-- 2021: Inspiration4, the first private orbital crewed spaceflight, is launched from the Kennedy Space Center.
-- 2021: A 6.0 Mw  earthquake strikes Lu County, Sichuan, China, killing three and injuring more than 88.
-- 2015: A 8.3 Mw  earthquake strikes the Chilean city of Illapel, killing 15 people, injuring at least 34, leaving at least six missing, and causing extensive damage. One person also dies in Argentina.
-- 2014: The Islamic State of Iraq and the Levant launches its Kobani offensive against Syrian-Kurdish forces.
-- 2013: A gunman kills twelve people at the Washington Navy Yard in Washington, D.C.
-- 2007: Security guards working for Blackwater Worldwide shoot and kill 17 Iraqis in Nisour Square, Baghdad.
-- 2007: One-Two-Go Airlines Flight 269 carrying 130 crew and passengers crashes in Thailand, killing 90 people.
-- 2005: The Camorra organized crime boss Paolo Di Lauro is arrested in Naples, Italy.
-- 2004: Hurricane Ivan makes landfall in Gulf Shores, Alabama as a Category 3 hurricane.
-- 1996: Space Shuttle Atlantis is launched on STS-79 to dock with the Russian space station Mir.
-- 1994: The British government lifts the broadcasting ban imposed against members of Sinn Féin and Irish paramilitary groups in 1988.
-- 1992: Black Wednesday: The British pound is forced out of the European Exchange Rate Mechanism by currency speculators and is forced to devalue against the German mark.
-- 1992: The trial of the deposed Panamanian dictator Manuel Noriega ends in the United States with a 40-year sentence for drug trafficking and money laundering.
-- 1990: The railroad between the People's Republic of China and Kazakhstan is completed at Dostyk, adding a sizable link to the concept of the Eurasian Land Bridge.
-- 1987: The Montreal Protocol is signed to protect the ozone layer from depletion.
-- 1982: Lebanon War: The Sabra and Shatila massacre in Lebanon takes place.
-- 1979: Eight people escape from East Germany to the west in a homemade hot air balloon.
-- 1978: The 7.4 Mw  Tabas earthquake affects the city of Tabas, Iran with a maximum Mercalli intensity of IX (Violent). At least 15,000 people are killed.
-- 1976: Night of the Pencils: In the city of La Plata, Argentina, a group of high-school students were kidnapped and later tortured, raped and murdered during the Argentinian military dictatorship 
-- 1976: Armenian champion swimmer Shavarsh Karapetyan saves 20 people from a trolleybus that had fallen into a Yerevan reservoir.
-- 1975: The first prototype of the Mikoyan MiG-31 interceptor makes its maiden flight.
-- 1975: Cape Verde, Mozambique, and São Tomé and Príncipe join the United Nations.
-- 1975: Papua New Guinea gains independence from Australia.
-- 1970: King Hussein of Jordan declares war against the Palestine Liberation Organization, the conflict came to be known as Black September.
-- 1966: The Metropolitan Opera House opens at Lincoln Center in New York City with the world premiere of Samuel Barber's opera Antony and Cleopatra.
-- 1963: Malaysia is formed from the Federation of Malaya, Singapore, North Borneo (Sabah) and Sarawak. However, Singapore is soon expelled from this new country.
-- 1961: Pakistan establishes its Space and Upper Atmosphere Research Commission with Abdus Salam as its head.
-- 1961: Typhoon Nancy, with possibly the strongest winds ever measured in a tropical cyclone, makes landfall in Osaka, Japan, killing 173 people.
+- 2025: Saudi Arabia and Pakistan sign the Strategic Mutual Defence Agreement.
+- 2018: A Russian reconnaissance aircraft carrying 15 people on board is brought down by a Syrian surface-to-air missile over the Mediterranean Sea.
+- 2016: Two bombs explode in Seaside Park, New Jersey, and Manhattan. Thirty-one people are injured in the Manhattan bombing.
+- 2013: Grand Theft Auto V earns more than half a billion dollars on its first day of release.
+- 2011: Occupy Wall Street movement begins in Zuccotti Park, New York City.
+- 2006: An audio tape of a private speech by Hungarian Prime Minister Ferenc Gyurcsány is leaked to the public, in which he confessed that his Hungarian Socialist Party had lied to win the 2006 election, sparking widespread protests across the country.
+- 2006: Fourpeaked Mountain in Alaska erupts, marking the first eruption for the volcano in at least 10,000 years.
+- 2001: George W. Bush, president of the United States, delivers remarks at the Islamic Center of Washington praising Muslim Americans and condemning Islamophobia in the aftermath of the September 11 attacks.
+- 2001: The New York Stock Exchange reopens for trading after the September 11 attacks, the longest closure since the Great Depression.
+- 1992: An Iranian Kurdish leader and his two joiners are assassinated by political militants in Berlin.
+- 1991: The first version of the Linux kernel (0.01) is released to the Internet.
+- 1991: Estonia, North Korea, South Korea, Latvia, Lithuania, the Marshall Islands and Micronesia join the United Nations.
+- 1983: Vanessa Williams becomes the first black Miss America.
+- 1980: Former Nicaraguan President Anastasio Somoza Debayle is killed in Asunción, Paraguay.
+- 1980: After weeks of strikes at the Lenin Shipyard in Gdańsk, Poland, the nationwide independent trade union Solidarity is established.
+- 1978: The Camp David Accords are signed by Israel and Egypt.
+- 1976: The Space Shuttle Enterprise is unveiled by NASA.
+- 1974: Bangladesh, Grenada and Guinea-Bissau join the United Nations.
+- 1965: The Battle of Chawinda is fought between Pakistan and India.
+- 1961: Northwest Orient Airlines Flight 706 crashes during takeoff from O'Hare International Airport in Chicago, Illinois, killing all 37 people on board.
+- 1961: The world's first retractable roof stadium, the Civic Arena, opens in Pittsburgh, Pennsylvania.
+- 1950: The Republic of India formally recognised the State of Israel.
+- 1950: The People's Liberation Army Air Force Airborne Corps (Then known as the PLAAF 1st Ground Forces Brigade) is founded.
+- 1949: The Canadian steamship SS Noronic burns in Toronto Harbour with the loss of over 118 lives.
+- 1948: The Nizam of Hyderabad surrenders his sovereignty over the Hyderabad State and joins the Indian Union.
+- 1948: The Lehi (also known as the Stern gang) assassinates Count Folke Bernadotte, who was appointed by the United Nations to mediate between the Arab nations and Israel.
+- 1944: World War II: German forces are attacked by the Allies in the Battle of San Marino.
+- 1944: World War II: Soviet troops launch the Tallinn Offensive against Germany and pro-independence Estonian units.
+- 1944: World War II: Allied airborne troops parachute into the Netherlands as the "Market" half of Operation Market Garden and British XXX Corps advances into the Netherlands as the "Garden" half of the Operation.
+- 1941: World War II: Soviet forces enter Tehran during the Anglo-Soviet invasion of Iran.
 
 Data from muffinlabs
-*(Updated at: 2026-09-16 04:01:17 UTC)*
+*(Updated at: 2026-09-17 04:07:58 UTC)*
 
 # 历史上的今天 
 
-- - 2022年：伊朗德黑兰发生马赫萨·阿米尼之死，引发全世界抗议。
-- - 2022年：在Let Yet Kone大屠杀期间，缅甸军方袭击了缅甸实皆地区的一所学校，杀害了13名村民，其中包括8名儿童。
-- - 2021 年：首个私人轨道载人航天飞行 Inspiration4 从肯尼迪航天中心发射。
-- - 2021 年：中国四川省泸县发生 6.0 兆瓦地震，造成 3 人死亡、超过 88 人受伤。
-- - 2015 年：智利伊拉佩尔市发生 8.3 兆瓦地震，造成 15 人死亡、至少 34 人受伤、至少 6 人失踪，并造成广泛破坏。阿根廷也有一人死亡。
-- - 2014年：伊拉克和黎凡特伊斯兰国对叙利亚库尔德武装发起科巴尼攻势。
-- - 2013 年：一名枪手在华盛顿特区的华盛顿海军造船厂杀害了 12 人
-- - 2007 年：为 Blackwater Worldwide 工作的保安人员在巴格达 Nisour 广场射杀了 17 名伊拉克人。
-- - 2007 年：一二去航空公司 269 号航班载有 130 名机组人员和乘客在泰国坠毁，造成 90 人死亡。
-- - 2005 年：卡莫拉有组织犯罪头目保罗·迪·劳罗 (Paolo Di Lauro) 在意大利那不勒斯被捕。
-- - 2004 年：飓风伊万在阿拉巴马州墨西哥湾沿岸登陆，等级为 3 级飓风。
-- - 1996 年：亚特兰蒂斯号航天飞机搭载 STS-79 发射升空，与俄罗斯和平号空间站对接。
-- - 1994 年：英国政府解除了 1988 年对新芬党和爱尔兰准军事组织成员实施的广播禁令。
-- - 1992年：黑色星期三：英镑被货币投机者逼出欧洲汇率机制，并被迫对德国马克贬值。
-- - 1992 年：美国对被废黜的巴拿马独裁者曼努埃尔·诺列加的审判以贩毒和洗钱罪判处 40 年徒刑。
-- - 1990年：中华人民共和国和哈萨克斯坦之间的铁路在多斯特克竣工，为欧亚大陆桥的概念增添了重要的联系。
-- - 1987 年：签署《蒙特利尔议定书》以保护臭氧层免遭消耗。
-- - 1982年：黎巴嫩战争：黎巴嫩发生萨布拉和沙蒂拉大屠杀。
-- - 1979 年：八个人乘坐自制热气球从东德逃往西德。
-- - 1978 年：7.4 兆瓦塔巴斯地震影响伊朗塔巴斯市，最大麦卡利强度为 IX（强烈）。至少 15,000 人死亡。
-- - 1976年：铅笔之夜：在阿根廷拉普拉塔市，一群高中生在阿根廷军事独裁统治期间被绑架，随后遭到酷刑、强奸和谋杀
-- - 1976 年：亚美尼亚游泳冠军 Shavarsh Karapetyan 从一辆落入埃里温水库的无轨电车中救出 20 人。
-- - 1975 年：米高扬 MiG-31 拦截机的第一架原型机首次飞行。
-- - 1975 年：佛得角、莫桑比克、圣多美和普林西比加入联合国。
-- - 1975 年：巴布亚新几内亚从澳大利亚独立。
-- - 1970年：约旦国王侯赛因向巴勒斯坦解放组织宣战，这场冲突被称为“黑色九月”。
-- - 1966 年：大都会歌剧院在纽约市林肯中心开幕，塞缪尔·巴伯 (Samuel Barber) 的歌剧《安东尼与克利奥帕特拉》(Antony and Cleopatra) 进行了全球首演。
-- - 1963年：马来西亚由马来亚联邦、新加坡、北婆罗洲（沙巴）和砂拉越组成。然而，新加坡很快就被驱逐出这个新国家。
-- - 1961 年：巴基斯坦成立空间和高层大气研究委员会，阿卜杜勒·萨拉姆担任主席。
-- - 1961 年：台风南希登陆日本大阪，造成 173 人死亡，这可能是有史以来热带气旋中最强的风力。
+- - 2025年：沙特阿拉伯和巴基斯坦签署战略共同防御协议。
+- - 2018年：一架载有15人的俄罗斯侦察机在地中海上空被叙利亚地对空导弹击落。
+- - 2016 年：两枚炸弹在新泽西州海滨公园和曼哈顿爆炸。曼哈顿爆炸案造成 31 人受伤。
+- - 2013 年：《侠盗猎车手 V》发行首日收入超过 5 亿美元。
+- - 2011 年：占领华尔街运动在纽约市祖科蒂公园开始。
+- - 2006年：匈牙利总理费伦茨·久尔恰尼的私人演讲录音带被泄露给公众，他在录音中承认他的匈牙利社会党为赢得2006年选举而撒谎，引发了全国范围内的广泛抗议。
+- - 2006 年：阿拉斯加的四峰山喷发，标志着该火山至少 10,000 年来的首次喷发。
+- - 2001 年：美国总统乔治·W·布什在华盛顿伊斯兰中心发表讲话，赞扬穆斯林美国人并谴责 9 月 11 日袭击事件后的伊斯兰恐惧症。
+- - 2001 年：纽约证券交易所在 9 月 11 日袭击事件后重新开放交易，这是自大萧条以来最长的一次关闭。
+- - 1992 年：一名伊朗库尔德领导人及其两名追随者在柏林被政治激进分子暗杀。
+- - 1991 年：Linux 内核的第一个版本 (0.01) 发布到互联网上。
+- - 1991年：爱沙尼亚、朝鲜、韩国、拉脱维亚、立陶宛、马绍尔群岛和密克罗尼西亚加入联合国。
+- - 1983 年：凡妮莎·威廉姆斯 (Vanessa Williams) 成为第一位黑人美国小姐。
+- - 1980 年：尼加拉瓜前总统阿纳斯塔西奥·索摩查·德拜勒在巴拉圭亚松森被杀。
+- - 1980 年：波兰格但斯克列宁造船厂经过数周的罢工后，全国独立工会团结工会成立。
+- - 1978年：以色列和埃及签署戴维营协议。
+- - 1976 年：NASA 揭幕了企业号航天飞机。
+- - 1974 年：孟加拉国、格林纳达和几内亚比绍加入联合国。
+- - 1965 年：巴基斯坦和印度之间爆发查温达战役。
+- - 1961 年：西北东方航空公司 706 号航班在从伊利诺伊州芝加哥奥黑尔国际机场起飞时坠毁，机上 37 人全部遇难。
+- - 1961 年：世界上第一个可伸缩屋顶体育场——公民竞技场 (Civic Arena) 在宾夕法尼亚州匹兹堡开业。
+- - 1950 年：印度共和国正式承认以色列国。
+- - 1950年：中国人民解放军空军空降兵军（当时称解放军空军陆军第一旅）成立。
+- - 1949 年：加拿大轮船 SS Noronic 在多伦多港燃烧，造成超过 118 人丧生。
+- - 1948 年：海得拉巴的尼扎姆放弃对海得拉巴邦的主权并加入印度联邦。
+- - 1948 年：李海（也称为斯特恩帮）刺杀了受联合国任命在阿拉伯国家和以色列之间进行调解的福尔克·伯纳多特伯爵。
+- - 1944 年：第二次世界大战：德军在圣马力诺战役中遭到盟军的攻击。
+- - 1944 年：第二次世界大战：苏联军队对德国和支持独立的爱沙尼亚部队发动塔林攻势。
+- - 1944 年：第二次世界大战：盟军空降部队作为市场花园行动的“市场”一半空降到荷兰，而英国第 30 军则作为行动的“花园”一半进入荷兰。
+- - 1941 年：第二次世界大战：英苏入侵伊朗期间，苏联军队进入德黑兰。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-09-16 04:01:17 UTC）*
+*（更新于: 2026-09-17 04:07:58 UTC）*
