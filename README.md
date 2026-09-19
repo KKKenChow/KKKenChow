@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2018: Cannabis is legalized in South Africa, through a ruling of the Constitutional Court.
-- 2017: Toy retail chain Toys "R" Us files for bankruptcy protection in the United States and Canada.
-- 2016: The 2016 Uri attack in Jammu and Kashmir, India by terrorist group Jaish-e-Mohammed results in the deaths of nineteen Indian Army soldiers and all four attackers.
-- 2015: Two security personnel, 17 worshippers in a mosque, and 13 militants are killed during a Tehrik-i-Taliban Pakistan attack on a Pakistan Air Force base on the outskirts of Peshawar.
-- 2014: Scotland votes against independence from the United Kingdom, by 55% to 45%.
-- 2013: A VIA Rail train crashes into a double-decker bus at a train station in Ottawa, Canada, killing six people and injuring 35 others.
-- 2011: The 2011 Sikkim earthquake is felt across northeastern India, Nepal, Bhutan, Bangladesh and southern Tibet.
-- 2010: Philippe Croizon becomes the first quadruple amputee to swim across the English Channel.
-- 2009: After 72 years on radio and television, CBS Television broadcasts the final episode of Guiding Light, the longest-running soap opera in American history.
-- 2007: Buddhist monks join anti-government protesters in Myanmar, starting what some call the Saffron Revolution.
-- 2006: The CW Television Network debuts in the US, following the merger of UPN and The WB.
-- 2001: First mailing of anthrax letters from Trenton, New Jersey in the 2001 anthrax attacks.
-- 1997: The Anti-Personnel Mine Ban Convention is adopted.
-- 1997: United States media magnate Ted Turner donates US$1 billion to the United Nations.
-- 1992: An explosion rocks Giant Mine at the height of a labor dispute, killing nine replacement workers in Yellowknife, Canada.
-- 1990: Liechtenstein becomes a member of the United Nations.
-- 1989:  An attempted coup d'état against Burkina Faso president Blaise Compaoré is uncovered and foiled.
-- 1988: The Magna Charta Universitatum, asserting key principles essential to the free operation of universities, is signed in Bologna by the rectors of 388 institutions of higher learning, to commemorate the 900th anniversary of the University of Bologna.
-- 1988: General Henri Namphy, president of Haiti, is ousted from power in a coup d'état led by General Prosper Avril.
-- 1988: The 8888 Uprising in Myanmar comes to an end.
-- 1984: Joe Kittinger completes the first solo balloon crossing of the Atlantic.
-- 1981: The Assemblée Nationale votes to abolish capital punishment in France.
-- 1980: A fuel leak from a Titan II intercontinental ballistic missile at a USAF base near Damascus, Arkansas, results in an explosion in a missile silo, killing one person and injuring 21 others.
-- 1980: Soyuz 38 carries two cosmonauts (including one Cuban) to the Salyut 6 space station.
-- 1977: Voyager I takes the first distant photograph of the Earth and the Moon together.
-- 1974: Hurricane Fifi strikes Honduras with 110 mph winds, killing 5,000 people.
-- 1973: The Bahamas, East Germany and West Germany are admitted to the United Nations.
-- 1965: Mel Brooks and Buck Henry's spy-comedy series Get Smart premieres on NBC Television.
-- 1964: The first television adaptation of Charles Addams's "The Addams Family" premieres on ABC Television.
-- 1964: The wedding of Constantine II of Greece and Princess Anne-Marie of Denmark takes place in Athens.
+- 2023: Azerbaijan launches a military offensive against the Republic of Artsakh in the Nagorno-Karabakh region; this leads to the flight of the Armenian population.
+- 2022: A strong earthquake kills 2 and injures over 30 in Mexico's state of Michoacán.
+- 2022: The state funeral of Queen Elizabeth II of the United Kingdom is held at Westminster Abbey, London.
+- 2021: The Cumbre Vieja volcano, on the island of La Palma in the Canary Islands, erupts. The eruption lasts for almost three months, ending on December 13.
+- 2017: The 2017 Puebla earthquake strikes Mexico, causing 370 deaths and over 6,000 injuries, as well as extensive damage.
+- 2016: In the wake of a manhunt, the suspect in a series of bombings in New York and New Jersey is apprehended after a shootout with police.
+- 2011: Mariano Rivera of the New York Yankees surpasses Trevor Hoffman to become Major League Baseball's all-time career saves leader with 602.
+- 2010: The leaking oil well in the Deepwater Horizon oil spill is sealed.
+- 2008: A Learjet 60 carrying musicians Travis Barker and Adam "DJ AM" Goldstein crashes during a rejected takeoff from Colombia Metropolitan Airport in West Columbia, South Carolina, killing four of the six people on board. Barker and Goldstein both survive.
+- 2006: The Thai army stages a coup. The Constitution is revoked and martial law is declared.
+- 1997: The Guelb El-Kebir massacre in Algeria kills 53 people.
+- 1995: The Washington Post and The New York Times publish the Unabomber Manifesto.
+- 1991: Ötzi the Iceman is discovered in the Alps on the border between Italy and Austria.
+- 1989: A bomb destroys UTA Flight 772 in mid-air above the Tùnùrù Desert, Niger, killing all 170 passengers and crew.
+- 1985: Tipper Gore and other political wives form the Parents Music Resource Center as Frank Zappa, John Denver, and other musicians testify at U.S. Congressional hearings on obscenity in rock music.
+- 1985: A strong earthquake kills thousands and destroys about 400 buildings in Mexico City.
+- 1983: Saint Kitts and Nevis gains its independence.
+- 1982: Scott Fahlman posts the first documented emoticons :-) and :-( on the Carnegie Mellon University bulletin board system.
+- 1978: The Solomon Islands join the United Nations.
+- 1976: Two Imperial Iranian Air Force F-4 Phantom II jets fly out to investigate an unidentified flying object.
+- 1976: Turkish Airlines Flight 452 hits the Taurus Mountains, outskirt of Karatepe, Turkey, killing all 154 passengers and crew.
+- 1970: Kostas Georgakis, a Greek student of geology, sets himself ablaze in Matteotti Square in Genoa, Italy, as a protest against the dictatorial regime of Georgios Papadopoulos.
+- 1970: Michael Eavis hosts the first Glastonbury Festival.
+- 1960: Indian Prime Minister Jawaharlal Nehru and Pakistani President Ayub Khan sign the Indus Waters Treaty for the control and management of the Indus, Chenab, Jhelum, Ravi, Sutlej and Beas rivers.
+- 1950: Korean War: An attack by North Korean forces was repelled at the Battle of Nam River.
+- 1946: The Council of Europe is founded following a speech by Winston Churchill at the University of Zurich.
+- 1944: World War II: The Moscow Armistice between Finland and the Soviet Union is signed, which officially ended the Continuation War.
+- 1944: World War II: The Battle of Hürtgen Forest begins. It will become the second-longest individual battle that the U.S. Army has ever fought.
+- 1940: World War II: Witold Pilecki is voluntarily captured and sent to Auschwitz concentration camp to gather and smuggle out information for the resistance movement.
+- 1939: World War II: The Battle of Kępa Oksywska concludes, with Polish losses reaching roughly 14% of all the forces engaged.
 
 Data from muffinlabs
-*(Updated at: 2026-09-18 03:53:52 UTC)*
+*(Updated at: 2026-09-19 03:50:49 UTC)*
 
 # 历史上的今天 
 
-- - 2018年：根据宪法法院的裁决，大麻在南非合法化。
-- - 2017年：玩具零售连锁店玩具“反”斗城在美国和加拿大申请破产保护。
-- - 2016年：2016年，恐怖组织“穆罕默德军”在印度查谟和克什米尔发动乌里袭击，导致 19 名印度陆军士兵和所有 4 名袭击者死亡。
-- - 2015 年：巴基斯坦塔利班运动对白沙瓦郊区的巴基斯坦空军基地发动袭击，造成两名安全人员、清真寺内的 17 名礼拜者和 13 名武装分子死亡。
-- - 2014 年：苏格兰以 55% 比 45% 的投票结果反对从英国独立。
-- - 2013 年：一列 VIA Rail 列车在加拿大渥太华火车站撞上一辆双层巴士，造成 6 人死亡、35 人受伤。
-- - 2011年：2011年锡金地震在印度东北部、尼泊尔、不丹、孟加拉国和西藏南部都有震感。
-- - 2010 年：Philippe Croizon 成为第一位游过英吉利海峡的四肢截肢者。
-- - 2009 年：在广播和电视领域播出 72 年后，哥伦比亚广播公司 (CBS) 电视台播出了美国历史上播出时间最长的肥皂剧《指路明灯》的最后一集。
-- - 2007 年：佛教僧侣加入缅甸反政府抗议者，引发了一些人所谓的藏红花革命。
-- - 2006 年：UPN 和 WB 合并后，CW 电视网在美国首次亮相。
-- - 2001 年：2001 年炭疽袭击中，新泽西州特伦顿首次邮寄炭疽信件。
-- - 1997 年：《禁止杀伤人员地雷公约》获得通过。
-- - 1997 年：美国媒体巨头特德·特纳向联合国捐赠 10 亿美元。
-- - 1992 年：在劳资纠纷最激烈的时候，巨型矿井发生爆炸，导致加拿大耶洛奈夫的 9 名替代工人死亡。
-- - 1990 年：列支敦士登成为联合国会员国。
-- - 1989 年：针对布基纳法索总统布莱斯·孔波雷的未遂政变被揭露并挫败。
-- - 1988 年：388 所高等教育机构的校长在博洛尼亚签署了《大学宪章》，以纪念博洛尼亚大学建校 900 周年，该宪章主张大学自由运作的关键原则。
-- - 1988 年：海地总统亨利·南菲 (Henri Namphy) 将军在普罗斯珀·艾薇儿 (Prosper Avril) 将军领导的政变中被赶下台。
-- - 1988年：缅甸8888起义结束。
-- - 1984 年：乔·基廷格 (Joe Kittinger) 完成了第一次单独气球穿越大西洋。
-- - 1981 年：法国国民议会投票废除死刑。
-- - 1980 年：阿肯色州大马士革附近的美国空军基地的一枚泰坦 II 洲际弹道导弹发生燃料泄漏，导致导弹发射井爆炸，造成 1 人死亡、21 人受伤。
-- - 1980 年：联盟 38 号载着两名宇航员（其中一名古巴人）前往礼炮 6 号空间站。
-- - 1977 年：航海者一号拍摄了第一张地球和月球的远距离照片。
-- - 1974 年：飓风菲菲以每小时 110 英里的风速袭击洪都拉斯，造成 5,000 人死亡。
-- - 1973 年：巴哈马、东德和西德获准加入联合国。
-- - 1965 年：梅尔·布鲁克斯和巴克·亨利的间谍喜剧系列《Get Smart》在 NBC 电视台首播。
-- - 1964 年：查尔斯·亚当斯的《亚当斯一家》的第一部电视改编版在 ABC 电视台首播。
-- - 1964年：希腊君士坦丁二世和丹麦公主安妮玛丽在雅典举行婚礼。
+- - 2023年：阿塞拜疆对纳戈尔诺-卡拉巴赫地区的阿尔扎赫共和国发动军事进攻；这导致亚美尼亚人口外逃。
+- - 2022 年：墨西哥米却肯州发生强烈地震，造成 2 人死亡、30 多人受伤。
+- - 2022年：英国女王伊丽莎白二世的国葬在伦敦威斯敏斯特教堂举行。
+- - 2021 年：加那利群岛拉帕尔马岛的 Cumbre Vieja 火山爆发。这次喷发持续了近三个月，于12月13日结束。
+- - 2017 年：2017 年普埃布拉地震袭击墨西哥，造成 370 人死亡、6,000 多人受伤，并造成广泛破坏。
+- - 2016 年：纽约和新泽西州一系列爆炸案的嫌疑人在与警方交火后被捕。
+- - 2011 年：纽约洋基队的马里亚诺·里维拉 (Mariano Rivera) 超越特雷弗·霍夫曼 (Trevor Hoffman)，以 602 次扑救成为美国职业棒球大联盟历史上扑救数最多的球员。
+- - 2010年：深水地平线漏油事件中泄漏的油井被密封。
+- - 2008 年：一架载有音乐家特拉维斯·巴克 (Travis Barker) 和亚当·“DJ AM”·戈尔茨坦 (Adam "DJ AM" Goldstein) 的里尔喷气机 60 在从南卡罗来纳州西哥伦比亚哥伦比亚大都会机场起飞时坠毁，机上 6 人中的 4 人丧生。巴克和戈德斯坦都幸存下来。
+- - 2006年：泰国军队发动政变。宪法被废除并宣布戒严。
+- - 1997 年：阿尔及利亚发生的 Guelb El-Kebir 大屠杀造成 53 人死亡。
+- - 1995 年：《华盛顿邮报》和《纽约时报》发表《大学轰炸机宣言》。
+- - 1991 年：冰人奥茨在意大利和奥地利边境的阿尔卑斯山被发现。
+- - 1989 年：一枚炸弹在尼日尔图努鲁沙漠上空摧毁了 UTA 772 号航班，造成 170 名乘客和机组人员全部遇难。
+- - 1985 年：蒂珀·戈尔 (Tipper Gore) 和其他政治妻子组成了父母音乐资源中心，弗兰克·扎帕 (Frank Zappa)、约翰·丹佛 (John Denver) 和其他音乐家在美国国会关于摇滚音乐中的淫秽问题的听证会上作证。
+- - 1985 年：墨西哥城发生强烈地震，造成数千人死亡并摧毁约 400 座建筑物。
+- - 1983 年：圣基茨和尼维斯获得独立。
+- - 1982 年：Scott Fahlman 在卡内基梅隆大学公告板系统上发布了第一个有记录的表情符号 :-) 和 :-(。
+- - 1978 年：所罗门群岛加入联合国。
+- - 1976 年：两架伊朗帝国空军 F-4 Phantom II 喷气式飞机飞出调查不明飞行物。
+- - 1976 年：土耳其航空 452 号航班撞上土耳其卡拉特佩郊区的托罗斯山脉，造成 154 名乘客和机组人员全部遇难。
+- - 1970 年：希腊地质学学生 Kostas Georgakis 在意大利热那亚的 Matteotti 广场自焚，以抗议 Georgios Papadopoulos 的独裁政权。
+- - 1970 年：Michael Eavis 主办第一届格拉斯顿伯里音乐节。
+- - 1960 年：印度总理贾瓦哈拉尔·尼赫鲁和巴基斯坦总统阿尤布·汗签署《印度河水域条约》，控制和管理印度河、杰纳布河、杰赫勒姆河、拉维河、萨特莱季河和比亚斯河。
+- - 1950 年：朝鲜战争：朝鲜军队的进攻在南江战役中被击退。
+- - 1946 年：温斯顿·丘吉尔在苏黎世大学发表演讲后，欧洲委员会成立。
+- - 1944年：第二次世界大战：芬兰与苏联签署莫斯科停战协定，正式结束持续战争。
+- - 1944 年：第二次世界大战：许特根森林之战开始。这将成为美国陆军有史以来第二长的单兵战斗。
+- - 1940 年：第二次世界大战：维托尔德·皮莱茨基 (Witold Pilecki) 自愿被捕并被送往奥斯维辛集中营，为抵抗运动收集和走私信息。
+- - 1939 年：第二次世界大战：肯帕·奥克西斯卡战役结束，波兰人损失约占所有参战部队的 14%。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-09-18 03:53:52 UTC）*
+*（更新于: 2026-09-19 03:50:49 UTC）*
