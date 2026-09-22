@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: A 5.6 Mw earthquake shakes the Albanian port of Durrës. Forty-nine people are injured in the capital, Tirana.
-- 2018: LGBT rights activist Zak Kostopoulos is beaten to death on a busy street in Athens
-- 2015: Adventist Health System agreed to pay $118.7 million to settle allegations of fraud. It was the largest a hospital network has ever paid.
-- 2013: Al-Shabaab Islamic militants attack the Westgate shopping mall in Kenya, killing at least 67 people.
-- 2012: Three Egyptian militants open fire on a group of Israeli soldiers in a southern Israel cross-border attack.
-- 2003: The Galileo spacecraft is terminated by sending it into Jupiter's atmosphere.
-- 2001: Ross Parker is murdered in Peterborough, England, by a gang of ten British Pakistani youths.
-- 2001: America: A Tribute to Heroes is broadcast by over 35 network and cable channels, raising over $200 million for the victims of the September 11 attacks.
-- 1999: The 7.7-magnitude Chi-Chi earthquake strikes central Taiwan, killing 2,400 people.
-- 1997: St. Olaf's Church, a stone church from the 16th century in Tyrvää, Finland, is burnt down by a burglar.
-- 1996: The Defense of Marriage Act is passed by the United States Congress.
-- 1993: A Transair Georgian Airlines Tu-134 is shot down by a missile in the Black Sea near Sokhumi, Georgia.
-- 1993: Russian president Boris Yeltsin triggers a constitutional crisis when he suspends parliament and scraps the constitution.
-- 1991: Armenia gains independence from the Soviet Union.
-- 1984: Brunei joins the United Nations.
-- 1981: Sandra Day O'Connor is unanimously approved by the U.S. Senate as the first female Supreme Court justice.
-- 1981: Belize is granted full independence from the United Kingdom.
-- 1976: Seychelles joins the United Nations.
-- 1976: Orlando Letelier is assassinated in Washington, D.C., at the order of Augusto Pinochet.
-- 1972: Philippine president Ferdinand Marcos begins authoritarian rule by declaring martial law.
-- 1971: Bahrain, Bhutan and Qatar join the United Nations.
-- 1969: Mexicana de Aviación Flight 801, a Boeing 727-100 passenger plane, crashes during a landing attempt in Mexico City, killing 27 of the 118 occupants.
-- 1965: The Gambia, Maldives and Singapore are admitted as members of the United Nations.
-- 1964: The North American XB-70 Valkyrie, the world's fastest bomber, makes its maiden flight from Palmdale, California.
-- 1964: Malta gains independence from the United Kingdom, but remains in the Commonwealth.
-- 1957: Pamir, a four-masted barque, was shipwrecked and sank off the Azores during Hurricane Carrie.
-- 1953: Lieutenant No Kum-sok, a North Korean pilot, defects to South Korea with his jet fighter.
-- 1942: The Boeing B-29 Superfortress makes its maiden flight.
-- 1942: The Holocaust in Poland: At the end of Yom Kippur, Germans order Jews to permanently move from Konstantynów to Biała Podlaska.
-- 1942: The Holocaust in Ukraine: In Dunaivtsi, Ukraine, Nazis murder 2,588 Jews.
+- 2024: Anura Kumara Dissanayake is elected as the 9th President Of Sri Lanka.
+- 2013: At least 75 people are killed in a suicide bombing at a Christian church in Peshawar, Pakistan.
+- 2006: Twenty-three people were killed in a maglev train collision in Lathen, Germany.
+- 1995: The Nagerkovil school bombing is carried out by the Sri Lanka Air Force in which at least 34 die, most of them ethnic Tamil schoolchildren.
+- 1995: An E-3B AWACS crashes outside Elmendorf Air Force Base, Alaska after multiple bird strikes to two of the four engines soon after takeoff; all 24 on board are killed.
+- 1993: A Transair Georgian Airlines Tu-154 is shot down by a missile in Sukhumi, Georgia.
+- 1993: A barge strikes a railroad bridge near Mobile, Alabama, causing the deadliest train wreck in Amtrak history. Forty-seven passengers are killed.
+- 1991: The Dead Sea Scrolls are made available to the public for the first time.
+- 1981: During a military exercise, a Turkish Air Force Northrop F-5 crashes in Babaeski as a result of pilot error, killing one crew member and also 65 soldiers on the ground.
+- 1980: Iraq invades Iran, sparking the nearly eight year Iran-Iraq War.
+- 1979: A bright flash, resembling the detonation of a nuclear weapon, is observed near the Prince Edward Islands. Its cause is never determined.
+- 1976: Red Dye No. 4 is banned by the US Food and Drug Administration after it is discovered that it causes tumors in the bladders of dogs.
+- 1975: Sara Jane Moore tries to assassinate U.S. President Gerald Ford, but is foiled by the Secret Service.
+- 1966: Twenty-four people are killed when Ansett-ANA Flight 149 crashes in Winton, Queensland, Australia.
+- 1965: The Indo-Pakistani War of 1965 between India and Pakistan over Kashmir ends after the United Nations calls for a ceasefire.
+- 1960: The Sudanese Republic is renamed Mali after the withdrawal of Senegal from the Mali Federation.
+- 1957: In Haiti, François Duvalier is elected president.
+- 1953: The Four Level Interchange, first stack interchange in the world opened in Los Angeles.
+- 1948: Israeli-Palestine conflict: The All-Palestine Government is established by the Arab League.
+- 1948: Gail Halvorsen officially starts parachuting candy to children as part of the Berlin Airlift.
+- 1941: The Holocaust in Ukraine: On the Jewish New Year Day, the German SS murders 6,000 Jews in Vinnytsia, Ukraine. Those are the survivors of the previous killings that took place a few days earlier in which about 24,000 Jews were executed.
+- 1939: World War II: A joint German-Soviet military parade in Brest-Litovsk is held to celebrate the successful invasion of Poland.
+- 1934: The Gresford disaster in Wales kills 266 miners and rescuers.
+- 1919: The steel strike of 1919, led by the Amalgamated Association of Iron and Steel Workers, begins in Pennsylvania before spreading across the United States.
+- 1914: A German submarine sinks three British cruisers over a seventy-minute period, killing almost 1,500 sailors.
+- 1910: The Duke of York's Picture House opens in Brighton, now the oldest continually operating cinema in Britain.
+- 1896: Queen Victoria surpasses her grandfather King George III as the longest reigning monarch in British history (later surpassed by her great-great-granddaughter Elizabeth II on 9 September 2015).
+- 1892: A locomotive shunting falls into a hole in the ground, leading to the burial of the locomotive.
+- 1891: The first hydropower plant of Finland is commissioned along the Tammerkoski rapids in Tampere, Pirkanmaa.
+- 1885: Lord Randolph Churchill makes a speech in Ulster in opposition to the Irish Home Rule movement.
 
 Data from muffinlabs
-*(Updated at: 2026-09-21 04:04:43 UTC)*
+*(Updated at: 2026-09-22 04:01:45 UTC)*
 
 # 历史上的今天 
 
-- - 2019 年：阿尔巴尼亚都拉斯港发生 5.6 兆瓦地震。首都地拉那有四十九人受伤。
-- - 2018年：LGBT权利活动人士扎克·科斯托普洛斯在雅典一条繁忙的街道上被殴打致死
-- - 2015 年：Adventist Health System 同意支付 1.187 亿美元以和解欺诈指控。这是医院网络有史以来支付的最大一笔费用。
-- - 2013年：青年党伊斯兰武装分子袭击肯尼亚Westgate购物中心，造成至少67人死亡。
-- - 2012年：三名埃及武装分子在以色列南部跨境袭击中向一群以色列士兵开火。
-- - 2003 年：伽利略号宇宙飞船被送入木星大气层而终止。
-- - 2001 年：罗斯·帕克在英国彼得伯勒被十名英籍巴基斯坦青年团伙谋杀。
-- - 2001 年：《美国：向英雄致敬》通过超过 35 个网络和有线频道播出，为 9 月 11 日袭击的受害者筹集了超过 2 亿美元的善款。
-- - 1999年：台湾中部发生7.7级集集地震，造成2,400人死亡。
-- - 1997 年：芬兰蒂尔瓦 (Tyrvää) 的一座 16 世纪石砌教堂圣奥拉夫教堂 (St. Olaf's Church) 被窃贼烧毁。
-- - 1996 年：美国国会通过《婚姻保护法》。
-- - 1993 年：一架格鲁吉亚运输航空公司 Tu-134 在格鲁吉亚苏呼米附近的黑海被导弹击落。
-- - 1993年：俄罗斯总统鲍里斯·叶利钦暂停议会并废除宪法，引发宪法危机。
-- - 1991 年：亚美尼亚从苏联独立。
-- - 1984 年：文莱加入联合国。
-- - 1981 年：桑德拉·戴·奥康纳 (Sandra Day O'Connor) 被美国参议院一致批准为第一位女性最高法院法官。
-- - 1981 年：伯利兹从英国获得完全独立。
-- - 1976 年：塞舌尔加入联合国。
-- - 1976 年：奥兰多·莱特利尔在奥古斯托·皮诺切特的命令下在华盛顿特区被暗杀。
-- - 1972 年：菲律宾总统费迪南德·马科斯通过宣布戒严开始独裁统治。
-- - 1971 年：巴林、不丹和卡塔尔加入联合国。
-- - 1969 年：墨西哥航空 801 号航班，一架波音 727-100 客机，在墨西哥城尝试着陆时坠毁，机上 118 名乘客中有 27 人死亡。
-- - 1965年：冈比亚、马尔代夫和新加坡被接纳为联合国会员国。
-- - 1964 年：世界上最快的轰炸机北美 XB-70 Valkyrie 从加利福尼亚州帕姆代尔进行了首飞。
-- - 1964 年：马耳他从英国独立，但仍属于英联邦。
-- - 1957 年：帕米尔号是一艘四桅帆船，在飓风嘉莉期间在亚速尔群岛附近失事沉没。
-- - 1953 年：朝鲜飞行员卢金石 (No Kum-sok) 中尉驾驶喷气式战斗机叛逃到韩国。
-- - 1942 年：波音 B-29 Superfortress 进行首次飞行。
-- - 1942 年：波兰大屠杀：赎罪日结束时，德国人命令犹太人从康斯坦丁努夫永久迁往比亚瓦波德拉斯卡。
-- - 1942 年：乌克兰大屠杀：在乌克兰杜奈夫齐，纳粹分子谋杀了 2,588 名犹太人。
+- - 2024 年：阿努拉·库马拉·迪萨纳亚克当选为斯里兰卡第九任总统。
+- - 2013 年：巴基斯坦白沙瓦一座基督教教堂发生自杀式爆炸事件，造成至少 75 人死亡。
+- - 2006 年：德国拉滕磁悬浮列车相撞事故造成 23 人死亡。
+- - 1995年：斯里兰卡空军实施了纳格科维尔学校爆炸事件，造成至少34人死亡，其中大多数是泰米尔族学童。
+- - 1995 年：一架 E-3B 预警机在阿拉斯加埃尔门多夫空军基地外坠毁，起飞后不久，四个引擎中的两个受到多次鸟击；机上24人全部遇难。
+- - 1993 年：一架格鲁吉亚运输航空公司 Tu-154 在格鲁吉亚苏呼米被导弹击落。
+- - 1993 年：一艘驳船撞上阿拉巴马州莫比尔附近的一座铁路桥，造成美国铁路公司历史上最严重的火车事故。四十七名乘客遇难。
+- - 1991 年：死海古卷首次向公众开放。
+- - 1981 年：在一次军事演习中，土耳其空军一架诺斯罗普 F-5 由于飞行员失误在巴巴埃斯基坠毁，导致一名机组人员和 65 名地面士兵死亡。
+- - 1980年：伊拉克入侵伊朗，引发近八年的两伊战争。
+- - 1979 年：在爱德华王子群岛附近观察到类似于核武器爆炸的明亮闪光。其原因永远无法确定。
+- - 1976 年：4 号红色染料被发现会导致狗的膀胱肿瘤，因此被美国食品和药物管理局禁止使用。
+- - 1975 年：萨拉·简·摩尔试图刺杀美国总统杰拉尔德·福特，但被特勤局挫败。
+- - 1966 年：Ansett-ANA 149 号航班在澳大利亚昆士兰州温顿坠毁，造成 24 人死亡。
+- - 1965年：1965年印度和巴基斯坦之间因克什米尔问题爆发的印巴战争在联合国呼吁停火后结束。
+- - 1960年：塞内加尔退出马里联邦后，苏丹共和国更名为马里。
+- - 1957 年：弗朗索瓦·杜瓦利埃在海地当选总统。
+- - 1953 年：四层立交桥在洛杉矶投入使用，这是世界上第一座立交桥。
+- - 1948年：以色列-巴勒斯坦冲突：阿拉伯联盟成立全巴勒斯坦政府。
+- - 1948 年：作为柏林空运的一部分，盖尔·哈尔沃森 (Gail Halvorsen) 正式开始向儿童空投糖果。
+- - 1941 年：乌克兰大屠杀：犹太新年那天，德国党卫军在乌克兰文尼察杀害了 6,000 名犹太人。这些是几天前发生的屠杀的幸存者，那次屠杀大约有 24,000 名犹太人被处决。
+- - 1939 年：第二次世界大战：德苏在布列斯特-立托夫斯克举行联合阅兵，庆祝成功入侵波兰。
+- - 1934 年：威尔士格雷斯福德灾难造成 266 名矿工和救援人员死亡。
+- - 1919 年：1919 年钢铁工人联合协会领导的钢铁罢工始于宾夕法尼亚州，然后蔓延到美国各地。
+- - 1914 年：一艘德国潜艇在 70 分钟内击沉了三艘英国巡洋舰，造成近 1,500 名水手死亡。
+- - 1910 年：约克公爵电影院在布莱顿开业，现在是英国最古老的持续运营的电影院。
+- - 1896 年：维多利亚女王超越她的祖父乔治三世国王，成为英国历史上在位时间最长的君主（后来于 2015 年 9 月 9 日被她的曾曾孙女伊丽莎白二世超越）。
+- - 1892 年：一台机车调车掉入地下的一个洞中，导致机车被掩埋。
+- - 1891 年：芬兰第一座水电站在皮尔坎马 (Pirkanmaa) 坦佩雷 (Tampere) 的 Tammerkoski 急流沿岸投入运行。
+- - 1885 年：伦道夫·丘吉尔勋爵在阿尔斯特发表演讲，反对爱尔兰地方自治运动。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-09-21 04:04:43 UTC）*
+*（更新于: 2026-09-22 04:01:45 UTC）*
