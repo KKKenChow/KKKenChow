@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2020: Second Nagorno-Karabakh War: Azerbaijan launches an offensive against the self-proclaimed Republic of Artsakh in the Nagorno-Karabakh region, inhabited predominantly by ethnic Armenians.
-- 2019: Over two million people participated in worldwide strikes to protest climate change across 2,400 locations worldwide.
-- 2014: 63 people are killed in an eruption of Mount Ontake in Japan.
-- 2012: In Minneapolis, a gunman shoots eight people, killing six and injuring 2 and then kills himself.
-- 2008: CNSA astronaut Zhai Zhigang becomes the first Chinese person to perform a spacewalk.
-- 2007: NASA launches the Dawn probe to the asteroid belt.
-- 2003: The SMART-1 satellite is launched.
-- 2001: In Switzerland, a gunman shoots 18 citizens, killing 14 and then himself.
-- 1998: The Google internet search engine retroactively claims this date as its birthday.
-- 1996: Confusion on a tanker ship results in the Julie N oil spill in Portland, Maine.
-- 1996: The Battle of Kabul ends in a Taliban victory; an Islamic Emirate of Afghanistan is established.
-- 1993: The Sukhumi massacre takes place in Abkhazia.
-- 1992: Palestinian prisoners went on a 15-day hunger strike.
-- 1988: The National League for Democracy is formed by Aung San Suu Kyi and others to fight dictatorship in Myanmar.
-- 1977: Japan Airlines Flight 715 crashes on approach to Sultan Abdul Aziz Shah Airport in Subang, Malaysia, killing 34 of the 79 people on board.
-- 1975: The last use of capital punishment in Spain sparks worldwide protests.
-- 1973: Texas International Airlines Flight 655 crashes into the Black Fork Mountain Wilderness near Mena, Arkansas, killing all 11 people on board.
-- 1964: The British TSR-2 aircraft XR219 makes its maiden flight.
-- 1962: Rachel Carson's book Silent Spring is published, inspiring an environmental movement and the creation of the U.S. Environmental Protection Agency.
-- 1962: The Yemen Arab Republic is established.
-- 1959: Typhoon Vera kills nearly 5,000 people in Japan.
-- 1956: USAF Captain Milburn G. Apt becomes the first person to exceed Mach 3. Shortly thereafter, the Bell X-2 goes out of control and Captain Apt is killed.
-- 1949: Zeng Liansong's design is chosen as the flag of the People's Republic of China.
-- 1944: World War II: The Kassel Mission results in the largest loss by a USAAF group on any mission during the war.
-- 1942: World War II: Last day of the Matanikau action on Guadalcanal as United States Marines barely escape after being surrounded by Japanese forces.
-- 1941: The SS Patrick Henry is launched, becoming the first of more than 2,700 Liberty ships.
-- 1941: World War II: The Greek National Liberation Front is established with Georgios Siantos as acting leader.
-- 1940: World War II: The Tripartite Pact is signed in Berlin by Germany, Japan and Italy.
-- 1938: The ocean liner Queen Elizabeth is launched in Glasgow.
-- 1930: Bobby Jones wins the (pre-Masters) Grand Slam of golf.
+- 2023: The 2023 Rotterdam shootings occurred, during which two people were killed in a shooting and arson incident at a residence in Delfshaven, Rotterdam. Additionally, one person lost their life in a classroom at the Erasmus University Medical Center.
+- 2022: Hurricane Ian makes landfall in Cayo Costa State Park, Florida as a category four hurricane, killing 169 and doing $113 billion in damage, becoming Florida's costliest hurricane and the deadliest in 89 years.
+- 2018: The 7.5 Mw 2018 Sulawesi earthquake, which triggered a large tsunami, leaves 4,340 dead and 10,679 injured.
+- 2016: The 2016 South Australian blackout occurs, lasting up to three days in some areas.
+- 2014: The 2014 Hong Kong protests begin in response to restrictive political reforms imposed by the NPC in Beijing.
+- 2012: Sita Air Flight 601 crashes in Madhyapur Thimi, Nepal, killing all 19 passengers and crew.
+- 2012: Somali and African Union forces launch a coordinated assault on the Somali port of Kismayo to take back the city from al-Shabaab militants.
+- 2009: The military junta leading Guinea attacks a protest rally, killing or wounding 1,400 people.
+- 2008: The Singapore Grand Prix is held as Formula One's inaugural night race, with Fernando Alonso winning the event. Almost a year later it was revealed that Alonso's team-mate Nelson Piquet Jr. had been ordered to crash his car to help bring out the safety car and give Alonso the advantage and win.
+- 2008: Falcon 1 becomes the first privately developed liquid-fuel ground-launched vehicle to put a payload into orbit by the RatSat mission.
+- 2006: Typhoon Xangsane passes over Manila after impacting parts of Southern Luzon and Eastern Visayas, becoming the strongest to affect the Philippine capital in 11 years.
+- 2000: Al-Aqsa Intifada: Ariel Sharon visits Al-Aqsa Mosque known to Jews as the Temple Mount in Jerusalem.
+- 1995: Israeli Prime Minister Yitzhak Rabin and PLO Chairman Yasser Arafat sign the Interim Agreement on the West Bank and the Gaza Strip.
+- 1995: Bob Denard and a group of mercenaries take the islands of the Comoros in a coup.
+- 1994: The cruise ferry MS Estonia sinks in the Baltic Sea, killing 852 people.
+- 1992: A Pakistan International Airlines flight crashes into a hill in Nepal, killing all 167 passengers and crew.
+- 1986: The Democratic Progressive Party becomes the first opposition party in Taiwan.
+- 1975: The Spaghetti House siege, in which nine people are taken hostage, takes place in London.
+- 1973: The ITT Building in New York City is bombed in protest at ITT's alleged involvement in the coup d'état in Chile.
+- 1970: Egyptian President Gamal Abdel Nasser dies of a heart attack in Cairo.
+- 1961: A military coup in Damascus effectively ends the United Arab Republic, the union between Egypt and Syria.
+- 1958: Fernando Rios, a Mexican tour guide in New Orleans, dies of injuries sustained in an incident of gay bashing.
+- 1951: CBS makes the first color televisions available for sale to the general public, but the product is discontinued less than a month later.
+- 1944: World War II: Soviet Army troops liberate Klooga concentration camp in Estonia.
+- 1941: Ted Williams achieves a .406 batting average for the season, and becomes the last major league baseball player to bat .400 or better.
+- 1941: World War II: The Drama uprising against the Bulgarian occupation in northern Greece begins.
+- 1939: World War II: The siege of Warsaw comes to an end.
+- 1939: World War II: Nazi Germany and the Soviet Union agree on a division of Poland.
+- 1928: Alexander Fleming notices a bacteria-killing mold growing in his laboratory, discovering what later became known as penicillin.
+- 1924: The first aerial circumnavigation is completed by a team from the US Army.
 
 Data from muffinlabs
-*(Updated at: 2026-09-27 04:28:08 UTC)*
+*(Updated at: 2026-09-28 04:29:23 UTC)*
 
 # 历史上的今天 
 
-- - 2020年：第二次纳戈尔诺-卡拉巴赫战争：阿塞拜疆对纳戈尔诺-卡拉巴赫地区自称的阿尔扎赫共和国发动攻势，该地区主要居住着亚美尼亚人。
-- - 2019 年：超过 200 万人参加了全球 2,400 个地点的全球罢工，抗议气候变化。
-- - 2014 年：日本御岳山喷发造成 63 人死亡。
-- - 2012 年：在明尼阿波利斯，一名枪手开枪射杀 8 人，造成 6 人死亡、2 人受伤，然后自杀。
-- - 2008年：中国国家航天局宇航员翟志刚成为第一个进行太空行走的中国人。
-- - 2007 年：美国宇航局向小行星带发射黎明探测器。
-- - 2003年：SMART-1卫星发射。
-- - 2001 年：在瑞士，一名枪手射杀了 18 名公民，造成 14 人死亡，然后自杀。
-- - 1998 年：谷歌互联网搜索引擎追溯性地声称这一天为其生日。
-- - 1996 年：缅因州波特兰市一艘油轮发生混乱，导致 Julie N 漏油事件。
-- - 1996年：喀布尔战役以塔利班胜利而结束；阿富汗伊斯兰酋长国成立。
-- - 1993年：阿布哈兹发生苏呼米大屠杀。
-- - 1992年：巴勒斯坦囚犯绝食15天。
-- - 1988年：昂山素季等人成立全国民主联盟，以对抗缅甸的独裁统治。
-- - 1977 年：日本航空 715 号航班在飞往马来西亚梳邦苏丹阿卜杜勒阿齐兹沙阿机场时坠毁，机上 79 人中有 34 人死亡。
-- - 1975 年：西班牙最后一次使用死刑引发了全世界的抗议。
-- - 1973 年：德克萨斯国际航空公司 655 号航班坠入阿肯色州梅纳附近的黑叉山荒野，机上 11 人全部遇难。
-- - 1964 年：英国 TSR-2 飞机 XR219 首次飞行。
-- - 1962 年：雷切尔·卡森 (Rachel Carson) 的著作《寂静的春天》出版，激发了一场环保运动并成立了美国环境保护局。
-- - 1962年：阿拉伯也门共和国成立。
-- - 1959 年：台风维拉在日本造成近 5,000 人死亡。
-- - 1956 年：美国空军上尉米尔本·G·阿普特 (Milburn G. Apt) 成为第一个超过 3 马赫的人。此后不久，贝尔 X-2 失控，阿普特上尉被杀。
-- - 1949年：曾联松的设计被选为中华人民共和国国旗。
-- - 1944 年：第二次世界大战：卡塞尔任务造成了美国空军在战争期间执行的所有任务中损失最大的一次。
-- - 1942 年：第二次世界大战：瓜达尔卡纳尔岛马塔尼考行动的最后一天，美国海军陆战队在被日军包围后勉强逃脱。
-- - 1941 年：SS 帕特里克·亨利号下水，成为 2,700 多艘自由舰中的第一艘。
-- - 1941 年：第二次世界大战：希腊民族解放阵线成立，乔治斯·西安托斯 (Georgios Siantos) 担任代理领导人。
-- - 1940 年：第二次世界大战：德国、日本和意大利在柏林签署三方条约。
-- - 1938 年：远洋客轮伊丽莎白女王号在格拉斯哥下水。
-- - 1930 年：鲍比·琼斯 (Bobby Jones) 赢得高尔夫（大师赛前）大满贯。
+- - 2023年：发生2023年鹿特丹枪击事件，鹿特丹Delfshaven一处住宅发生枪击纵火事件，造成两人死亡。此外，还有一人在伊拉斯姆斯大学医学中心的一间教室里丧生。
+- - 2022 年：飓风伊恩作为四级飓风在佛罗里达州卡约科斯塔州立公园登陆，造成 169 人死亡，造成 1,130 亿美元的损失，成为佛罗里达州 89 年来损失最惨重、死亡人数最多的飓风。
+- - 2018 年：2018 年苏拉威西岛发生 7.5 兆瓦地震，引发大海啸，造成 4,340 人死亡、10,679 人受伤。
+- - 2016年：2016年南澳大利亚州发生停电，部分地区持续长达三天。
+- - 2014年：2014年香港抗议活动始于北京全国人大实施的限制性政治改革。
+- - 2012 年：西塔航空 601 号航班在尼泊尔 Madhyapur Thimi 坠毁，造成 19 名乘客和机组人员全部遇难。
+- - 2012 年：索马里和非洲联盟部队对索马里基斯马尤港发动协同进攻，从青年党武装分子手中夺回该市。
+- - 2009 年：领导几内亚的军政府袭击了抗议集会，造成 1,400 人死伤。
+- - 2008 年：新加坡大奖赛作为一级方程式赛车的首场夜间比赛举行，费尔南多·阿隆索赢得了比赛。大约一年后，有消息称阿隆索的队友小尼尔森·皮奎特被命令撞毁他的赛车，以帮助安全车出动，为阿隆索带来优势并获胜。
+- - 2008 年：Falcon 1 成为第一个私人开发的液体燃料地面发射运载工具，通过 RatSat 任务将有效载荷送入轨道。
+- - 2006年：台风Xangsane在影响南吕宋岛和东米沙鄢群岛的部分地区后经过马尼拉，成为11年来影响菲律宾首都的最强台风。
+- - 2000 年：阿克萨起义：阿里尔·沙龙参观被犹太人称为耶路撒冷圣殿山的阿克萨清真寺。
+- - 1995年：以色列总理伊扎克·拉宾和巴解组织主席亚西尔·阿拉法特签署了关于西岸和加沙地带的临时协议。
+- - 1995 年：鲍勃·德纳德和一群雇佣兵发动政变夺取了科摩罗群岛。
+- - 1994 年：爱沙尼亚号游轮在波罗的海沉没，造成 852 人死亡。
+- - 1992 年：巴基斯坦国际航空公司的一架航班在尼泊尔坠毁于一座山上，造成 167 名乘客和机组人员全部遇难。
+- - 1986年：民进党成为台湾第一个反对党。
+- - 1975 年：伦敦发生意大利面条屋围攻事件，九人被劫持为人质。
+- - 1973 年：纽约市的 ITT 大楼遭到轰炸，以抗议 ITT 涉嫌参与智利政变。
+- - 1970 年：埃及总统贾迈勒·阿卜杜勒·纳赛尔在开罗因心脏病去世。
+- - 1961 年：大马士革的军事政变实际上结束了阿拉伯联合共和国、埃及和叙利亚之间的联盟。
+- - 1958 年：新奥尔良的墨西哥导游费尔南多·里奥斯 (Fernando Rios) 在同性恋殴打事件中受伤身亡。
+- - 1951 年：哥伦比亚广播公司 (CBS) 向公众出售第一台彩色电视机，但该产品在不到一个月后就停产了。
+- - 1944 年：第二次世界大战：苏联军队解放爱沙尼亚的克卢加集中营。
+- - 1941 年：泰德·威廉姆斯 (Ted Williams) 本赛季的击球率达到 0.406，成为最后一位击球率达到或更高的大联盟棒球运动员。
+- - 1941 年：第二次世界大战：希腊北部反对保加利亚占领的戏剧起义开始。
+- - 1939 年：第二次世界大战：华沙围困结束。
+- - 1939 年：第二次世界大战：纳粹德国和苏联就瓜分波兰达成一致。
+- - 1928 年：亚历山大·弗莱明 (Alexander Fleming) 注意到他的实验室中生长着一种杀菌霉菌，从而发现了后来被称为青霉素的物质。
+- - 1924 年：美国陆军的一支团队完成了首次空中环球航行。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-09-27 04:28:08 UTC）*
+*（更新于: 2026-09-28 04:29:23 UTC）*
