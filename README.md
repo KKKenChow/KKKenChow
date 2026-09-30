@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2019: Violence and low turnout mar the 2019 Afghan presidential election.
-- 2016: Eleven days after the Uri attack, the Indian Army conducts "surgical strikes" against suspected militants in Pakistani-administered Kashmir.
-- 2013: Over 42 people are killed by members of Boko Haram at the College of Agriculture in Nigeria.
-- 2011: The special court in India convicted all 269 accused officials for atrocity on Dalits and 17 for rape in the Vachathi case.
-- 2009: The 8.1 Mw  Samoa earthquake results in a tsunami that kills over 189 and injures hundreds.
-- 2008: The stock market crashes with the Dow Jones dropping a then record 778 points after the United States House of Representatives vote on the Emergency Economic Stabilization Act fails during the beginning stages of the Great Recession.
-- 2007: Calder Hall, the world's first commercial nuclear power station, is demolished in a controlled explosion.
-- 2006: A Boeing 737 and an Embraer 600 collide in mid-air, killing 154 people and triggering a Brazilian aviation crisis.
-- 2005: John Roberts is confirmed as Chief Justice of the United States.
-- 2004: Burt Rutan's Ansari SpaceShipOne performs a successful spaceflight, the first of two required to win the Ansari X Prize.
-- 2004: The asteroid 4179 Toutatis passes within four lunar distances of Earth.
-- 1992: Brazilian President Fernando Collor de Mello is impeached.
-- 1991: A Haitian coup d'état occurs.
-- 1990: The Tampere Hall, the largest concert and congress center in the Nordic countries, is inaugurated in Tampere, Finland.
-- 1990: The YF-22, which would later become the F-22 Raptor, flies for the first time.
-- 1990: Construction of the Cathedral Church of Saint Peter and Saint Paul (better known as Washington National Cathedral) is completed in Washington, D.C.
-- 1988: NASA launches STS-26, the first Space Shuttle mission since the Challenger disaster.
-- 1981: An Iranian Air Force Lockheed C-130 Hercules military transport aircraft crashes into a firing range near Kahrizak, Iran, killing 80 people.
-- 1979: Equatorial Guinean dictator Francisco Macías Nguema is executed by soldiers from Western Sahara.
-- 1975: WGPR becomes the first black-owned-and-operated television station in the US.
-- 1972: Japan establishes diplomatic relations with the People's Republic of China after breaking official ties with the Republic of China.
-- 1971: Oman joins the Arab League.
-- 1959: A Lockheed L-188 Electra crashes in Buffalo, Texas, killing 34 people.
-- 1957: The Kyshtym disaster is the third-worst nuclear accident ever recorded.
-- 1954: The convention establishing CERN (the European Organization for Nuclear Research) is signed.
-- 1941: During World War II, German forces, with the aid of local Ukrainian collaborators, begin the two-day Babi Yar massacre.
-- 1940: Two Avro Ansons collide in mid-air over New South Wales, Australia, remain locked together, then land safely.
-- 1932: Last day of the Battle of Boquerón between Paraguay and Bolivia during the Chaco War.
-- 1923: The First American Track and Field championships for women are held.
-- 1923: The Mandate for Syria and Lebanon takes effect.
+- 2016: Two paintings with a combined value of $100 million are recovered after having been stolen from the Van Gogh Museum in 2002.
+- 2016: Hurricane Matthew becomes a Category 5 hurricane, making it the strongest hurricane to form in the Caribbean Sea since 2007.
+- 2009: The 7.6 Mw  Sumatra earthquake leaves 1,115 people dead.
+- 2005: Controversial drawings of Muhammad are printed in a Danish newspaper.
+- 2000: Israeli-Palestinian conflict: Twelve-year-old Muhammad al-Durrah is shot and killed on the second day of the Second Intifada.
+- 1999: The Tokaimura nuclear accident causes the deaths of two technicians in Japan's second-worst nuclear accident.
+- 1994: Space Shuttle Endeavour is launched on STS-68.
+- 1993: The 6.2 Mw  Latur earthquake shakes Maharashtra, India with a maximum Mercalli intensity of VIII (Severe) killing 9,748 and injuring 30,000.
+- 1980: Ethernet specifications are published by Xerox working with Intel and Digital Equipment Corporation.
+- 1978: Finnair Flight 405 is hijacked by Aarno Lamminparras in Oulu, Finland.
+- 1975: Malév Flight 240 crashes into the Mediterranean Sea while on approach to Beirut International Airport in Beirut, Lebanon, killing 60.
+- 1970: Jordan makes a deal with the PFLP for the release of the remaining hostages from the Dawson's Field hijackings.
+- 1968: The Boeing 747 is rolled out and shown to the public for the first time.
+- 1966: Bechuanaland declares its independence, and becomes the Republic of Botswana.
+- 1960: The Flintstones animated sitcom premieres on ABC television.
+- 1954: The U.S. Navy submarine USS Nautilus is commissioned as the world's first nuclear-powered vessel.
+- 1949: The Berlin Airlift ends.
+- 1947: Pakistan joins the United Nations.
+- 1947: The 1947 World Series begins. It is the first to be televised, to include an African-American player, to exceed $2 million in receipts, to see a pinch-hit home run, and to have six umpires on the field.
+- 1945: The Bourne End rail crash, in Hertfordshire, England, kills 43.
+- 1944: World War II:  the Germans commence a counter offensive to retake the Nijmegen salient, this having been captured by the allies during Operation Market Garden.
+- 1943: The United States Merchant Marine Academy is dedicated by President Roosevelt.
+- 1941: World War II: The Babi Yar massacre comes to an end.
+- 1939: NBC broadcasts the first televised American football game.
+- 1939: World War II: General Władysław Sikorski becomes prime minister of the Polish government-in-exile.
+- 1938: The League of Nations unanimously outlaws "intentional bombings of civilian populations".
+- 1938: Britain, France, Germany and Italy sign the Munich Agreement, whereby Germany annexes the Sudetenland region of Czechoslovakia.
+- 1936: American journalists Herbert R. Ekins, reporter for the New York World-Telegram, Dorothy Kilgallen of the New York Journal and Leo Kieran of The New York Times start the race to travel around the world on commercial airline flights. The race takes 18 ½ days.
+- 1935: The Hoover Dam, astride the border between the U.S. states of Arizona and Nevada, is dedicated.
+- 1918: Ukrainian War of Independence: Insurgent forces led by Nestor Makhno defeats the Central Powers at the battle of Dibrivka.
 
 Data from muffinlabs
-*(Updated at: 2026-09-29 04:58:24 UTC)*
+*(Updated at: 2026-09-30 04:45:07 UTC)*
 
 # 历史上的今天 
 
-- - 2019 年：2019 年阿富汗总统选举充满暴力和低投票率。
-- - 2016年：乌里袭击事件发生11天后，印度军队对巴控克什米尔的疑似武装分子进行了“外科手术式打击”。
-- - 2013 年：尼日利亚农业学院有超过 42 人被博科圣地成员杀害。
-- - 2011年：印度特别法庭在Vachathi案中对所有269名被控对达利特人实施暴行的官员和17名被控强奸的官员定罪。
-- - 2009 年：萨摩亚 8.1 兆瓦地震引发海啸，造成 189 人死亡、数百人受伤。
-- - 2008年：在大衰退初期，美国众议院对《紧急经济稳定法案》的投票失败，导致股市崩盘，道琼斯指数下跌了当时创纪录的778点。
-- - 2007 年：世界上第一座商业核电站考尔德霍尔在受控爆炸中被拆除。
-- - 2006年：一架波音737和一架巴西航空工业公司600在半空中相撞，造成154人死亡，引发巴西航空危机。
-- - 2005 年：约翰·罗伯茨被确认为美国首席大法官。
-- - 2004 年：伯特·鲁坦 (Burt Rutan) 的安萨里太空船一号 (Ansari SpaceShipOne) 进行了一次成功的太空飞行，这是赢得安萨里 X 奖所需的两次太空飞行中的第一次。
-- - 2004 年：小行星 4179 Toutatis 经过距地球四个月球距离的范围。
-- - 1992 年：巴西总统费尔南多·科洛尔·德梅洛被弹劾。
-- - 1991 年：海地发生政变。
-- - 1990 年：北欧国家最大的音乐会和会议中心坦佩雷大厅在芬兰坦佩雷落成。
-- - 1990 年：YF-22（后来成为 F-22 猛禽）首次飞行。
-- - 1990 年：圣彼得和圣保罗大教堂（更广为人知的名称是华盛顿国家大教堂）在华盛顿特区竣工。
-- - 1988 年：NASA 发射 STS-26，这是自挑战者号灾难以来的首次航天飞机任务。
-- - 1981 年：伊朗空军一架洛克希德 C-130 大力士军用运输机坠入伊朗卡里扎克附近的射击场，造成 80 人死亡。
-- - 1979 年：赤道几内亚独裁者弗朗西斯科·马西亚斯·恩圭马被西撒哈拉士兵处决。
-- - 1975 年：WGPR 成为美国第一家黑人拥有和经营的电视台。
-- - 1972年：日本在与中华民国断交后与中华民国建立外交关系。
-- - 1971 年：阿曼加入阿拉伯联盟。
-- - 1959 年：一架洛克希德 L-188 Electra 在德克萨斯州布法罗坠毁，造成 34 人死亡。
-- - 1957 年：克什特姆灾难是有记录以来第三严重的核事故。
-- - 1954年：签署建立CERN（欧洲核研究组织）的公约。
-- - 1941 年：第二次世界大战期间，德国军队在乌克兰当地合作者的帮助下，开始了为期两天的巴比亚尔大屠杀。
-- - 1940 年：两架 Avro Anson 飞机在澳大利亚新南威尔士州上空的半空中相撞，双方保持锁定状态，然后安全着陆。
-- - 1932 年：查科战争期间巴拉圭和玻利维亚之间的博克龙战役的最后一天。
-- - 1923 年：举办第一届美国女子田径锦标赛。
-- - 1923 年：叙利亚和黎巴嫩委任统治生效。
+- - 2016 年：两幅 2002 年梵高博物馆被盗的画作被寻回，总价值达 1 亿美元。
+- - 2016 年：飓风马修成为 5 级飓风，成为 2007 年以来加勒比海最强的飓风。
+- - 2009 年：苏门答腊岛 7.6 兆瓦地震造成 1,115 人死亡。
+- - 2005 年：有争议的穆罕默德图画刊登在丹麦报纸上。
+- - 2000 年：以色列-巴勒斯坦冲突：十二岁的穆罕默德·杜拉 (Muhammad al-Durrah) 在第二次起义的第二天被枪杀。
+- - 1999年：东海村核事故导致两名技术人员死亡，这是日本第二严重的核事故。
+- - 1994 年：奋进号航天飞机在 STS-68 上发射升空。
+- - 1993 年：印度马哈拉施特拉邦发生 6.2 兆瓦的 Latur 地震，最大 Mercalli 烈度为 VIII（严重），造成 9,748 人死亡、30,000 人受伤。
+- - 1980 年：Xerox 与 Intel 和 Digital Equipment Corporation 合作发布了以太网规范。
+- - 1978 年：芬兰航空 405 号航班在芬兰奥卢被 Aarno Lamminparras 劫持。
+- - 1975 年：马莱夫 240 号航班在飞往黎巴嫩贝鲁特贝鲁特国际机场时坠入地中海，造成 60 人死亡。
+- - 1970 年：约旦与人阵达成协议，释放道森机场劫持事件中的剩余人质。
+- - 1968 年：波音 747 推出并首次向公众展示。
+- - 1966年：贝专纳兰宣布独立，成为博茨瓦纳共和国。
+- - 1960 年：《摩登原始人》动画情景喜剧在 ABC 电视台首播。
+- - 1954 年：美国海军潜艇“鹦鹉螺号”作为世界上第一艘核动力舰艇投入使用。
+- - 1949 年：柏林空运结束。
+- - 1947 年：巴基斯坦加入联合国。
+- - 1947 年：1947 年世界职业棒球大赛开始。这是第一个通过电视转播的赛事，其中包括非裔美国球员，收入超过 200 万美元，观看了一支替补全垒打，并且场上有六名裁判。
+- - 1945 年：英格兰赫特福德郡的伯恩恩德铁路事故造成 43 人死亡。
+- - 1944 年：第二次世界大战：德国人开始反攻，夺回盟军在市场花园行动中夺取的奈梅亨突出部。
+- - 1943 年：罗斯福总统为美国商船学院落​​成。
+- - 1941 年：第二次世界大战：巴比亚尔大屠杀结束。
+- - 1939 年：NBC 播出了第一场电视转播的美式橄榄球比赛。
+- - 1939 年：第二次世界大战：瓦迪斯瓦夫·西科尔斯基将军成为波兰流亡政府总理。
+- - 1938 年：国际联盟一致宣布“故意轰炸​​平民”为非法。
+- - 1938年：英国、法国、德国和意大利签署《慕尼黑协定》，德国吞并捷克斯洛伐克的苏台德地区。
+- - 1936 年：美国记者赫伯特·R·埃金斯（《纽约世界电讯报》记者）、《纽约日报》的多萝西·基尔加伦和《纽约时报》的利奥·基兰开始了乘坐商业航班环游世界的竞赛。比赛需要 18 ½ 天。
+- - 1935 年：横跨美国亚利桑那州和内华达州边界的胡佛水坝落成。
+- - 1918 年：乌克兰独立战争：内斯托尔·马赫诺领导的起义军在季布里夫卡战役中击败了同盟国。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-09-29 04:58:24 UTC）*
+*（更新于: 2026-09-30 04:45:07 UTC）*
