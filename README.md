@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Israel invaded Southern Lebanon, marking the fifth Israeli invasion of Lebanon since 1978.
-- 2022: One hundred and thirty-five are killed in a human crush following a football match at Kanjuruhan Stadium in East Java, Indonesia.
-- 2021: The 2020 World Expo in Dubai begins. Its opening was originally scheduled for 20 October 2020 but was delayed due to the COVID-19 pandemic.
-- 2019: Kuopio school stabbing: One dies and ten are injured when Joel Marin, armed with a sabre, attacks a school class at Savo Vocational College in Kuopio, Finland.
-- 2018: The International Court of Justice rules that Chile is not obliged to negotiate access to the Pacific Ocean with Bolivia.
-- 2017: Sixty people are killed and 867 others injured in a mass shooting at a country music festival at the Las Vegas Strip in the United States; the gunman, Stephen Paddock, later commits suicide.
-- 2017: An independence referendum, later declared illegal by the Constitutional Court of Spain, takes place in Catalonia.
-- 2016: The leader of the Spanish Socialist Workers' Party, Pedro Sánchez, resigns. He would return to the position a year later.
-- 2015: The American cargo vessel SS El Faro sinks with all of its 33 crew after steaming into the eyewall of Hurricane Joaquin.
-- 2015: Heavy rains trigger a major landslide in Guatemala, killing 280 people.
-- 2015: A gunman kills nine people at a community college in Oregon.
-- 2014: A double bombing of an elementary school in Homs, Syria kills over 50 people.
-- 2014: A series of explosions at a gunpowder plant in Bulgaria completely destroys the factory, killing 15 people.
-- 2012: A ferry collision off the coast of Hong Kong kills 38 people and injures 102 others.
-- 2009: The Supreme Court of the United Kingdom takes over the judicial functions of the House of Lords.
-- 2003: The popular and controversial English-language imageboard 4chan is launched.
-- 2001: 3G wireless technology first becomes available when it is adopted by Japanese telecommunications company NTT Docomo.
-- 2001: Militants attack the state legislature building in Kashmir, killing 38.
-- 2000: Israel-Palestinian conflict: Palestinians protest the killing of 12-year-old Muhammad al-Durrah by Israeli police in northern Israel, beginning the "October 2000 events".
-- 1994: Palau enters a Compact of Free Association with the United States.
-- 1991: Croatian War of Independence: The Siege of Dubrovnik begins.
-- 1989: Denmark introduces the world's first legal same-sex registered partnerships.
-- 1987: The 5.9 Mw  Whittier Narrows earthquake shakes the San Gabriel Valley with a Mercalli intensity of VIII (Severe), killing eight and injuring 200.
-- 1985: Israel-Palestinian conflict: Israel attacks the Palestine Liberation Organization's Tunisia headquarters during Operation Wooden Leg.
-- 1982: Sony and Phillips launch the compact disc in Japan; on the same day, Sony releases the model CDP-101 compact disc player, the first player of its kind.
-- 1982: EPCOT Center (Experimental Prototype Community of Tomorrow) opens at Walt Disney World in Florida.
-- 1982: Helmut Kohl replaces Helmut Schmidt as Chancellor of Germany through a constructive vote of no confidence.
-- 1979: The MTR, Hong Kong's rapid transit railway system, opens.
-- 1979: Pope John Paul II begins his first pastoral visit to the United States.
-- 1978: Tuvalu gains independence from the United Kingdom.
+- 2025: 2 people are killed and at least 4 others injured in an attack on a synagogue in Manchester, UK, during Yom Kippur.
+- 2019: A privately owned Boeing B-17 Flying Fortress conducting a living history exhibition flight crashes shortly after takeoff from Windsor Locks, Connecticut, killing seven.
+- 2018: The Washington Post journalist Jamal Khashoggi is assassinated in the Saudi consulate in Istanbul, Turkey.
+- 2016: Ethiopian protests break out during a festival in the Oromia region, killing dozens of people.
+- 2007: President Roh Moo-hyun of South Korea goes to North Korea for an Inter-Korean summit with North Korean leader Kim Jong-il.
+- 2006: Five Amish girls are murdered in a shooting at a school in Pennsylvania, United States.
+- 2004: The first parkrun, then known as the Bushy Park Time Trial, takes place in Bushy Park, London, UK.
+- 2002: The Beltway sniper attacks begin in Washington, D.C., extending over three weeks and killing 10 people.
+- 1996: The Electronic Freedom of Information Act Amendments are signed by U.S. President Bill Clinton.
+- 1996: Aeroperú Flight 603 crashes into the ocean near Peru, killing all 70 people on board.
+- 1992: Military police storm the Carandiru Penitentiary in São Paulo, Brazil during a prison riot. The resulting massacre leaves 111 prisoners dead.
+- 1990: Xiamen Airlines Flight 8301 is hijacked and lands at Guangzhou, where it crashes into two other airliners on the ground, killing 132.
+- 1980: Michael Myers becomes the first member of either chamber of Congress to be expelled since the Civil War.
+- 1971: British European Airways Flight 706 crashes near Aarsele, Belgium, killing 63.
+- 1971: South Vietnamese President Nguyen Van Thieu is re-elected in a one-man election.
+- 1970: An aircraft carrying the Wichita State University football team, administrators, and supporters crashes in Colorado, killing 31 people.
+- 1968: Mexican President Gustavo Díaz Ordaz orders soldiers to suppress a demonstration of unarmed students, ten days before the start of the 1968 Summer Olympics.
+- 1967: Thurgood Marshall is sworn in as the first African-American justice of the United States Supreme Court.
+- 1958: Guinea declares its independence from France.
+- 1944: World War II: German troops end the Warsaw Uprising.
+- 1942: World War II: Ocean Liner RMS Queen Mary accidentally rams and sinks HMS Curacoa, killing over 300 crewmen aboard Curacoa.
+- 1937: Rafael Trujillo orders the execution of Haitians living in the border region of the Dominican Republic.
+- 1928: The "Prelature of the Holy Cross and the Work of God", commonly known as Opus Dei, is founded.
+- 1920: Ukrainian War of Independence: Mikhail Frunze orders the Red Army to immediately cease hostilities with the Revolutionary Insurgent Army of Ukraine.
+- 1919: Seven days after suffering a "physical collapse" following a speech in Pueblo, Colorado, U.S. president Woodrow Wilson has a catastrophic stroke at the White House, leaving him physically and mentally incapacitated for the remainder of his presidency.
+- 1870: By plebiscite, the citizens of the Papal States accept annexation by the Kingdom of Italy.
+- 1864: American Civil War: Confederates defeat a Union attack on Saltville, Virginia. A massacre of wounded Union prisoners ensues.
+- 1835: Texas Revolution: Mexican troops attempt to disarm the people of Gonzales, but encounter stiff resistance from a hastily assembled militia.
+- 1789: The United States Bill of Rights is sent to the various States for ratification.
+- 1780: American Revolutionary War: John André, a British Army officer, is hanged as a spy by the Continental Army.
 
 Data from muffinlabs
-*(Updated at: 2026-10-01 04:57:31 UTC)*
+*(Updated at: 2026-10-02 04:47:49 UTC)*
 
 # 历史上的今天 
 
-- - 2024年：以色列入侵黎巴嫩南部，这是以色列自1978年以来第五次入侵黎巴嫩。
-- - 2022 年：印度尼西亚东爪哇坎朱鲁汉体育场举行的一场足球比赛后，135 人在人群挤压中丧生。
-- - 2021年：2020年迪拜世博会开幕。它原定于 2020 年 10 月 20 日开业，但由于 COVID-19 大流行而推迟。
-- - 2019 年：库奥皮奥学校刺伤事件：乔尔·马林 (Joel Marin) 手持军刀袭击芬兰库奥皮奥萨沃职业学院的一个班级，造成 1 人死亡、10 人受伤。
-- - 2018年：国际法院裁定智利没有义务与玻利维亚就进入太平洋的问题进行谈判。
-- - 2017年：美国拉斯维加斯大道乡村音乐节发生大规模枪击事件，造成60人死亡、867人受伤；枪手斯蒂芬·帕多克后来自杀。
-- - 2017年：加泰罗尼亚举行独立公投，后来被西班牙宪法法院宣布为非法。
-- - 2016年：西班牙社会主义工人党领导人佩德罗·桑切斯辞职。一年后他重返该职位。
-- - 2015 年：美国货船 SS El Faro 在驶入飓风华金的风眼后沉没，船上 33 名船员全部沉没。
-- - 2015年：大雨引发危地马拉严重山体滑坡，造成280人死亡。
-- - 2015 年：一名枪手在俄勒冈州一所社区大学杀死了 9 人。
-- - 2014 年：叙利亚霍姆斯一所小学发生双重爆炸，造成 50 多人死亡。
-- - 2014 年：保加利亚一家火药厂发生一系列爆炸，工厂被彻底摧毁，造成 15 人死亡。
-- - 2012 年：香港近海发生的渡轮相撞事故造成 38 人死亡、102 人受伤。
-- - 2009年：英国最高法院接管上议院的司法职能。
-- - 2003 年：广受欢迎且颇具争议的英文图像板 4chan 推出。
-- - 2001 年：3G 无线技术首次被日本电信公司 NTT Docomo 采用。
-- - 2001 年：武装分子袭击克什米尔邦议会大楼，造成 38 人死亡。
-- - 2000年：以巴冲突：巴勒斯坦人抗议以色列警察在以色列北部杀害12岁的穆罕默德·杜拉，拉开了“2000年10月事件”的序幕。
-- - 1994 年：帕劳与美国签订自由联合协定。
-- - 1991 年：克罗地亚独立战争：杜布罗夫尼克围城战开始。
-- - 1989 年：丹麦引入世界上第一个合法的同性注册伴侣关系。
-- - 1987 年：5.9 兆瓦的惠蒂尔海峡地震震动了圣盖博谷，梅尔卡利强度为 VIII（严重），造成 8 人死亡、200 人受伤。
-- - 1985 年：以色列-巴勒斯坦冲突：以色列在木腿行动期间袭击了巴勒斯坦解放组织的突尼斯总部。
-- - 1982年：索尼和飞利浦在日本推出光盘；同一天，索尼发布了 CDP-101 型光盘播放器，这是同类产品中的第一款播放器。
-- - 1982 年：EPCOT 中心（明日实验原型社区）在佛罗里达州华特迪士尼世界开业。
-- - 1982 年：赫尔穆特·科尔通过建设性的不信任投票取代赫尔穆特·施密特成为德国总理。
-- - 1979 年：香港快速铁路系统港铁开通。
-- - 1979 年：教皇约翰·保罗二世开始对美国的首次牧灵访问。
-- - 1978 年：图瓦卢从英国独立。
+- - 2025 年：赎罪日期间，英国曼彻斯特一座犹太教堂遭到袭击，造成 2 人死亡、至少 4 人受伤。
+- - 2019 年：一架私人拥有的波音 B-17 飞行堡垒飞机从康涅狄格州温莎洛克斯起飞后不久，进行一场活生生的历史展览飞行时坠毁，造成七人死亡。
+- - 2018年：《华盛顿邮报》记者贾迈勒·卡舒吉在土耳其伊斯坦布尔的沙特领事馆被暗杀。
+- - 2016年：埃塞俄比亚奥罗米亚地区的节日期间爆发抗议活动，造成数十人死亡。
+- - 2007年：韩国总统卢武铉前往朝鲜与朝鲜领导人金正日举行朝韩峰会。
+- - 2006 年：美国宾夕法尼亚州一所学校发生枪击事件，五名阿米什女孩被谋杀。
+- - 2004 年：第一届 Parkrun（当时称为 Bushy Park 计时赛）在英国伦敦 Bushy Park 举行。
+- - 2002 年：华盛顿特区发生环城公路狙击手袭击，持续三周多，造成 10 人死亡。
+- - 1996 年：美国总统比尔·克林顿签署了《电子信息自由法修正案》。
+- - 1996 年：秘鲁航空公司 603 号航班坠入秘鲁附近海域，机上 70 人全部遇难。
+- - 1992 年：在巴西圣保罗的卡兰迪鲁监狱发生监狱骚乱期间，军警突袭。由此引发的屠杀导致 111 名囚犯死亡。
+- - 1990年：厦门航空8301航班被劫持并降落在广州，与地面上的另外两架客机相撞，造成132人死亡。
+- - 1980 年：迈克尔·迈尔斯 (Michael Myers) 成为自内战以来第一位被驱逐的国会两院议员。
+- - 1971 年：英国欧洲航空公司 706 号航班在比利时阿尔塞勒附近坠毁，造成 63 人死亡。
+- - 1971年：南越总统阮文绍在单人选举中再次当选。
+- - 1970 年：一架载有威奇托州立大学橄榄球队、管理人员和支持者的飞机在科罗拉多州坠毁，造成 31 人死亡。
+- - 1968 年：1968 年夏季奥运会开幕前十天，墨西哥总统古斯塔沃·迪亚斯·奥尔达斯命令士兵镇压手无寸铁的学生示威。
+- - 1967 年：瑟古德·马歇尔宣誓就职，成为美国最高法院第一位非裔美国法官。
+- - 1958 年：几内亚宣布脱离法国独立。
+- - 1944 年：第二次世界大战：德国军队结束了华沙起义。
+- - 1942 年：第二次世界大战：远洋客轮 RMS 玛丽女王号意外撞沉 HMS 库拉科亚号，导致库拉科亚号上的 300 多名船员丧生。
+- - 1937 年：拉斐尔·特鲁希略下令处决居住在多米尼加共和国边境地区的海地人。
+- - 1928年：“圣十字与天主事工管理委员会”（俗称主业团）成立。
+- - 1920 年：乌克兰独立战争：米哈伊尔·伏龙芝命令红军立即停止与乌克兰革命起义军的敌对行动。
+- - 1919 年：美国总统伍德罗·威尔逊 (Woodrow Wilson) 在科罗拉多州普韦布洛发表演讲后遭受“身体崩溃”7 天后，在白宫发生了灾难性中风，导致他在余下的总统任期内身体和精神上都丧失了工作能力。
+- - 1870年：通过公民投票，教皇国公民接受意大利王国的吞并。
+- - 1864 年：美国内战：同盟军击败了联邦军对弗吉尼亚州索尔特维尔的进攻。随后发生了对受伤联邦战俘的屠杀。
+- - 1835 年：德克萨斯革命：墨西哥军队试图解除冈萨雷斯人民的武装，但遭到仓促集结的民兵的顽强抵抗。
+- - 1789 年：美国《权利法案》被送交各州批准。
+- - 1780 年：美国独立战争：英国陆军军官约翰·安德烈 (John André) 作为间谍被大陆军绞死。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-10-01 04:57:31 UTC）*
+*（更新于: 2026-10-02 04:47:49 UTC）*
