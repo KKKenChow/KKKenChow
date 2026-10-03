@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2025: 2 people are killed and at least 4 others injured in an attack on a synagogue in Manchester, UK, during Yom Kippur.
-- 2019: A privately owned Boeing B-17 Flying Fortress conducting a living history exhibition flight crashes shortly after takeoff from Windsor Locks, Connecticut, killing seven.
-- 2018: The Washington Post journalist Jamal Khashoggi is assassinated in the Saudi consulate in Istanbul, Turkey.
-- 2016: Ethiopian protests break out during a festival in the Oromia region, killing dozens of people.
-- 2007: President Roh Moo-hyun of South Korea goes to North Korea for an Inter-Korean summit with North Korean leader Kim Jong-il.
-- 2006: Five Amish girls are murdered in a shooting at a school in Pennsylvania, United States.
-- 2004: The first parkrun, then known as the Bushy Park Time Trial, takes place in Bushy Park, London, UK.
-- 2002: The Beltway sniper attacks begin in Washington, D.C., extending over three weeks and killing 10 people.
-- 1996: The Electronic Freedom of Information Act Amendments are signed by U.S. President Bill Clinton.
-- 1996: Aeroperú Flight 603 crashes into the ocean near Peru, killing all 70 people on board.
-- 1992: Military police storm the Carandiru Penitentiary in São Paulo, Brazil during a prison riot. The resulting massacre leaves 111 prisoners dead.
-- 1990: Xiamen Airlines Flight 8301 is hijacked and lands at Guangzhou, where it crashes into two other airliners on the ground, killing 132.
-- 1980: Michael Myers becomes the first member of either chamber of Congress to be expelled since the Civil War.
-- 1971: British European Airways Flight 706 crashes near Aarsele, Belgium, killing 63.
-- 1971: South Vietnamese President Nguyen Van Thieu is re-elected in a one-man election.
-- 1970: An aircraft carrying the Wichita State University football team, administrators, and supporters crashes in Colorado, killing 31 people.
-- 1968: Mexican President Gustavo Díaz Ordaz orders soldiers to suppress a demonstration of unarmed students, ten days before the start of the 1968 Summer Olympics.
-- 1967: Thurgood Marshall is sworn in as the first African-American justice of the United States Supreme Court.
-- 1958: Guinea declares its independence from France.
-- 1944: World War II: German troops end the Warsaw Uprising.
-- 1942: World War II: Ocean Liner RMS Queen Mary accidentally rams and sinks HMS Curacoa, killing over 300 crewmen aboard Curacoa.
-- 1937: Rafael Trujillo orders the execution of Haitians living in the border region of the Dominican Republic.
-- 1928: The "Prelature of the Holy Cross and the Work of God", commonly known as Opus Dei, is founded.
-- 1920: Ukrainian War of Independence: Mikhail Frunze orders the Red Army to immediately cease hostilities with the Revolutionary Insurgent Army of Ukraine.
-- 1919: Seven days after suffering a "physical collapse" following a speech in Pueblo, Colorado, U.S. president Woodrow Wilson has a catastrophic stroke at the White House, leaving him physically and mentally incapacitated for the remainder of his presidency.
-- 1870: By plebiscite, the citizens of the Papal States accept annexation by the Kingdom of Italy.
-- 1864: American Civil War: Confederates defeat a Union attack on Saltville, Virginia. A massacre of wounded Union prisoners ensues.
-- 1835: Texas Revolution: Mexican troops attempt to disarm the people of Gonzales, but encounter stiff resistance from a hastily assembled militia.
-- 1789: The United States Bill of Rights is sent to the various States for ratification.
-- 1780: American Revolutionary War: John André, a British Army officer, is hanged as a spy by the Continental Army.
+- 2024: Bengali, Assamese, Marathi, Pali and Prakrit are accorded the Classical language status by the Government of India
+- 2023: Wab Kinew is elected to be the first First Nations Premier of a Canadian province in the 2023 Manitoba general election
+- 2022: Svante Pääbo is awarded the Nobel Prize in Physiology or Medicine.
+- 2021: Eight people are killed in an airplane crash near Milan, Italy.
+- 2015: Forty-two people are killed and 33 go missing in the Kunduz hospital airstrike in Afghanistan.
+- 2013: At least 360 migrants are killed when their boat sinks near the Italian island of Lampedusa.
+- 2009: Azerbaijan, Kazakhstan, Kyrgyzstan, and Turkey join in the Turkic Council.
+- 2008: The Emergency Economic Stabilization Act of 2008 for the U.S. financial system is signed by President George W. Bush.
+- 1995: O. J. Simpson murder case: O. J. Simpson is acquitted of the murders of Nicole Brown Simpson and Ronald Goldman.
+- 1993: An American attack against a warlord in Mogadishu fails; eighteen US soldiers and over 350 Somalis die.
+- 1991: Nadine Gordimer is announced as the winner of the Nobel Prize in Literature.
+- 1990: The German Democratic Republic is abolished and becomes part of the Federal Republic of Germany; the event is afterwards celebrated as German Unity Day.
+- 1989: A coup in Panama City is suppressed and 11 participants are executed.
+- 1986: TASCC, a superconducting cyclotron at the Chalk River Laboratories in Canada, is officially opened.
+- 1985: The Space Shuttle Atlantis makes its maiden flight, carrying two DSCS-III Satellites on STS-51-J.
+- 1981: The hunger strike at the Maze Prison in Northern Ireland ends after seven months and ten deaths.
+- 1963: A violent coup in Honduras begins two decades of military rule.
+- 1962: Project Mercury: US astronaut Wally Schirra, in Sigma 7, is launched from Cape Canaveral for a six-orbit flight.
+- 1957: The California State Superior Court rules that the book Howl and Other Poems is not obscene.
+- 1952: The United Kingdom successfully tests a nuclear weapon in the Montebello Islands, Western Australia, to become the world's third nuclear power.
+- 1951: Korean War: The First Battle of Maryang San pits Commonwealth troops against communist Chinese troops.
+- 1949: WERD, the first black-owned radio station in the United States, opens in Atlanta.
+- 1946: An American Overseas Airlines Douglas DC-4 crashes near Ernest Harmon Air Force Base in Stephenville, Newfoundland and Labrador, Canada, killing 39.
+- 1943: World War II: German forces murder 92 civilians in Lingiades, Greece.
+- 1942: A German V-2 rocket reaches a record 85 km (46 nm) in altitude.
+- 1935: Second Italo-Abyssinian War: Italy invades Ethiopia.
+- 1932: The Kingdom of Iraq gains independence from the United Kingdom.
+- 1929: The Kingdom of Serbs, Croats and Slovenes is renamed to Yugoslavia by King Alexander I.
+- 1919: Cincinnati Reds pitcher Adolfo Luque becomes the first Latin American player to appear in a World Series.
+- 1918: Tsar Boris III of Bulgaria accedes to the throne.
 
 Data from muffinlabs
-*(Updated at: 2026-10-02 04:47:49 UTC)*
+*(Updated at: 2026-10-03 04:30:12 UTC)*
 
 # 历史上的今天 
 
-- - 2025 年：赎罪日期间，英国曼彻斯特一座犹太教堂遭到袭击，造成 2 人死亡、至少 4 人受伤。
-- - 2019 年：一架私人拥有的波音 B-17 飞行堡垒飞机从康涅狄格州温莎洛克斯起飞后不久，进行一场活生生的历史展览飞行时坠毁，造成七人死亡。
-- - 2018年：《华盛顿邮报》记者贾迈勒·卡舒吉在土耳其伊斯坦布尔的沙特领事馆被暗杀。
-- - 2016年：埃塞俄比亚奥罗米亚地区的节日期间爆发抗议活动，造成数十人死亡。
-- - 2007年：韩国总统卢武铉前往朝鲜与朝鲜领导人金正日举行朝韩峰会。
-- - 2006 年：美国宾夕法尼亚州一所学校发生枪击事件，五名阿米什女孩被谋杀。
-- - 2004 年：第一届 Parkrun（当时称为 Bushy Park 计时赛）在英国伦敦 Bushy Park 举行。
-- - 2002 年：华盛顿特区发生环城公路狙击手袭击，持续三周多，造成 10 人死亡。
-- - 1996 年：美国总统比尔·克林顿签署了《电子信息自由法修正案》。
-- - 1996 年：秘鲁航空公司 603 号航班坠入秘鲁附近海域，机上 70 人全部遇难。
-- - 1992 年：在巴西圣保罗的卡兰迪鲁监狱发生监狱骚乱期间，军警突袭。由此引发的屠杀导致 111 名囚犯死亡。
-- - 1990年：厦门航空8301航班被劫持并降落在广州，与地面上的另外两架客机相撞，造成132人死亡。
-- - 1980 年：迈克尔·迈尔斯 (Michael Myers) 成为自内战以来第一位被驱逐的国会两院议员。
-- - 1971 年：英国欧洲航空公司 706 号航班在比利时阿尔塞勒附近坠毁，造成 63 人死亡。
-- - 1971年：南越总统阮文绍在单人选举中再次当选。
-- - 1970 年：一架载有威奇托州立大学橄榄球队、管理人员和支持者的飞机在科罗拉多州坠毁，造成 31 人死亡。
-- - 1968 年：1968 年夏季奥运会开幕前十天，墨西哥总统古斯塔沃·迪亚斯·奥尔达斯命令士兵镇压手无寸铁的学生示威。
-- - 1967 年：瑟古德·马歇尔宣誓就职，成为美国最高法院第一位非裔美国法官。
-- - 1958 年：几内亚宣布脱离法国独立。
-- - 1944 年：第二次世界大战：德国军队结束了华沙起义。
-- - 1942 年：第二次世界大战：远洋客轮 RMS 玛丽女王号意外撞沉 HMS 库拉科亚号，导致库拉科亚号上的 300 多名船员丧生。
-- - 1937 年：拉斐尔·特鲁希略下令处决居住在多米尼加共和国边境地区的海地人。
-- - 1928年：“圣十字与天主事工管理委员会”（俗称主业团）成立。
-- - 1920 年：乌克兰独立战争：米哈伊尔·伏龙芝命令红军立即停止与乌克兰革命起义军的敌对行动。
-- - 1919 年：美国总统伍德罗·威尔逊 (Woodrow Wilson) 在科罗拉多州普韦布洛发表演讲后遭受“身体崩溃”7 天后，在白宫发生了灾难性中风，导致他在余下的总统任期内身体和精神上都丧失了工作能力。
-- - 1870年：通过公民投票，教皇国公民接受意大利王国的吞并。
-- - 1864 年：美国内战：同盟军击败了联邦军对弗吉尼亚州索尔特维尔的进攻。随后发生了对受伤联邦战俘的屠杀。
-- - 1835 年：德克萨斯革命：墨西哥军队试图解除冈萨雷斯人民的武装，但遭到仓促集结的民兵的顽强抵抗。
-- - 1789 年：美国《权利法案》被送交各州批准。
-- - 1780 年：美国独立战争：英国陆军军官约翰·安德烈 (John André) 作为间谍被大陆军绞死。
+- - 2024年：印度政府给予孟加拉语、阿萨姆语、马拉地语、巴利语和普拉克里特语古典语言地位
+- - 2023 年：Wab Kinew 在 2023 年曼尼托巴省大选中当选为加拿大省第一位原住民省长
+- - 2022 年：Svante Pääbo 荣获诺贝尔生理学或医学奖。
+- - 2021 年：意大利米兰附近发生飞机失事，造成 8 人死亡。
+- - 2015 年：阿富汗昆都士医院空袭造成 42 人死亡、33 人失踪。
+- - 2013 年：意大利兰佩杜萨岛附近的船只沉没，至少 360 名移民丧生。
+- - 2009年：阿塞拜疆、哈萨克斯坦、吉尔吉斯斯坦和土耳其加入突厥委员会。
+- - 2008 年：乔治·W·布什总统签署了美国金融体系《2008 年紧急经济稳定法案》。
+- - 1995 年：O.J. 辛普森谋杀案：O.J. 辛普森因谋杀妮可·布朗·辛普森和罗纳德·戈德曼而被无罪释放。
+- - 1993年：美国对摩加迪沙军阀的袭击失败；18 名美国士兵和 350 多名索马里人死亡。
+- - 1991 年：纳丁·戈迪默被宣布为诺贝尔文学奖获得者。
+- - 1990年：德意志民主共和国被废除，成为德意志联邦共和国的一部分；该活动后来被庆祝为德国统一日。
+- - 1989年：巴拿马城政变被镇压，11名参与者被处决。
+- - 1986 年：加拿大 Chalk River 实验室的超导回旋加速器 TASCC 正式启用。
+- - 1985 年：亚特兰蒂斯号航天飞机首次飞行，搭载 STS-51-J 上的两颗 DSCS-III 卫星。
+- - 1981 年：北爱尔兰迷宫监狱的绝食抗议在七个月和十人死亡后结束。
+- - 1963 年：洪都拉斯发生暴力政变，开始了二十年的军事统治。
+- - 1962 年：水星计划：美国宇航员 Wally Schirra 乘坐 Sigma 7 从卡纳维拉尔角发射升空，进行六轨道飞行。
+- - 1957 年：加利福尼亚州高等法院裁定《嚎叫和其他诗歌》一书不属于淫秽作品。
+- - 1952年：英国在西澳大利亚蒙特贝罗群岛成功试验核武器，成为世界第三个核国家。
+- - 1951 年：朝鲜战争：第一次马良山战役，英联邦军队与中国共产党军队对峙。
+- - 1949 年：美国第一家黑人拥有的广播电台 WERD 在亚特兰大成立。
+- - 1946 年：美国海外航空公司的一架道格拉斯 DC-4 飞机在加拿大纽芬兰和拉布拉多省斯蒂芬维尔的欧内斯特哈蒙空军基地附近坠毁，造成 39 人死亡。
+- - 1943 年：第二次世界大战：德国军队在希腊林吉亚德斯杀害了 92 名平民。
+- - 1942 年：德国 V-2 火箭达到创纪录的 85 公里（46 海里）高度。
+- - 1935 年：第二次意大利-阿比西尼亚战争：意大利入侵埃塞俄比亚。
+- - 1932 年：伊拉克王国从英国独立。
+- - 1929年：亚历山大一世国王将塞尔维亚、克罗地亚和斯洛文尼亚王国更名为南斯拉夫。
+- - 1919 年：辛辛那提红人队投手阿道夫·卢克 (Adolfo Luque) 成为第一位参加世界大赛的拉丁美洲球员。
+- - 1918 年：保加利亚沙皇鲍里斯三世即位。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-10-02 04:47:49 UTC）*
+*（更新于: 2026-10-03 04:30:12 UTC）*
