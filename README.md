@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2024: Bengali, Assamese, Marathi, Pali and Prakrit are accorded the Classical language status by the Government of India
-- 2023: Wab Kinew is elected to be the first First Nations Premier of a Canadian province in the 2023 Manitoba general election
-- 2022: Svante Pääbo is awarded the Nobel Prize in Physiology or Medicine.
-- 2021: Eight people are killed in an airplane crash near Milan, Italy.
-- 2015: Forty-two people are killed and 33 go missing in the Kunduz hospital airstrike in Afghanistan.
-- 2013: At least 360 migrants are killed when their boat sinks near the Italian island of Lampedusa.
-- 2009: Azerbaijan, Kazakhstan, Kyrgyzstan, and Turkey join in the Turkic Council.
-- 2008: The Emergency Economic Stabilization Act of 2008 for the U.S. financial system is signed by President George W. Bush.
-- 1995: O. J. Simpson murder case: O. J. Simpson is acquitted of the murders of Nicole Brown Simpson and Ronald Goldman.
-- 1993: An American attack against a warlord in Mogadishu fails; eighteen US soldiers and over 350 Somalis die.
-- 1991: Nadine Gordimer is announced as the winner of the Nobel Prize in Literature.
-- 1990: The German Democratic Republic is abolished and becomes part of the Federal Republic of Germany; the event is afterwards celebrated as German Unity Day.
-- 1989: A coup in Panama City is suppressed and 11 participants are executed.
-- 1986: TASCC, a superconducting cyclotron at the Chalk River Laboratories in Canada, is officially opened.
-- 1985: The Space Shuttle Atlantis makes its maiden flight, carrying two DSCS-III Satellites on STS-51-J.
-- 1981: The hunger strike at the Maze Prison in Northern Ireland ends after seven months and ten deaths.
-- 1963: A violent coup in Honduras begins two decades of military rule.
-- 1962: Project Mercury: US astronaut Wally Schirra, in Sigma 7, is launched from Cape Canaveral for a six-orbit flight.
-- 1957: The California State Superior Court rules that the book Howl and Other Poems is not obscene.
-- 1952: The United Kingdom successfully tests a nuclear weapon in the Montebello Islands, Western Australia, to become the world's third nuclear power.
-- 1951: Korean War: The First Battle of Maryang San pits Commonwealth troops against communist Chinese troops.
-- 1949: WERD, the first black-owned radio station in the United States, opens in Atlanta.
-- 1946: An American Overseas Airlines Douglas DC-4 crashes near Ernest Harmon Air Force Base in Stephenville, Newfoundland and Labrador, Canada, killing 39.
-- 1943: World War II: German forces murder 92 civilians in Lingiades, Greece.
-- 1942: A German V-2 rocket reaches a record 85 km (46 nm) in altitude.
-- 1935: Second Italo-Abyssinian War: Italy invades Ethiopia.
-- 1932: The Kingdom of Iraq gains independence from the United Kingdom.
-- 1929: The Kingdom of Serbs, Croats and Slovenes is renamed to Yugoslavia by King Alexander I.
-- 1919: Cincinnati Reds pitcher Adolfo Luque becomes the first Latin American player to appear in a World Series.
-- 1918: Tsar Boris III of Bulgaria accedes to the throne.
+- 2017: Joint Nigerien-American Special Forces are ambushed by Islamic State militants outside the village of Tongo Tongo.
+- 2010: The Ajka plant accident in Hungary releases a million cubic metres of liquid alumina sludge, killing nine, injuring 122, and severely contaminating two major rivers.
+- 2006: WikiLeaks is launched.
+- 2004: SpaceShipOne wins the Ansari X Prize for private spaceflight.
+- 2003: The Maxim restaurant suicide bombing in Israel kills twenty-one Israelis, both Jews and Arabs.
+- 2001: Siberia Airlines Flight 1812 crashes after being struck by an errant Ukrainian missile. Seventy-eight people are killed.
+- 1997: The second largest cash robbery in U.S. history occurs in North Carolina.
+- 1993: Tanks bombard the Russian parliament, while demonstrators against President Yeltsin rally outside.
+- 1993: Battle of Mogadishu occurs killing 18 U.S. Special Forces, two UN Peacekeepers and at least 600 Somalian militia men and civilians.
+- 1992: El Al Flight 1862 crashes into two apartment buildings in Amsterdam, killing 43 including 39 on the ground.
+- 1992: The Rome General Peace Accords end a 16-year civil war in Mozambique.
+- 1991: The Protocol on Environmental Protection to the Antarctic Treaty is opened for signature.
+- 1985: The Free Software Foundation is founded.
+- 1983: Richard Noble sets a new land speed record of 633.468 miles per hour (1,019.468 km/h) at the Black Rock Desert in Nevada.
+- 1967: Omar Ali Saifuddien III of Brunei abdicates in favour of his son.
+- 1966: Basutoland becomes independent from the United Kingdom and is renamed Lesotho.
+- 1965: Pope Paul VI begins the first papal visit to the Americas.
+- 1963: Hurricane Flora kills 6,000 in Cuba and Haiti.
+- 1960: Eastern Airlines flight 375 crashes on takeoff from Boston's Logan International Airport, killing 62 people of the 72 aboard.
+- 1958: The current constitution of France is adopted.
+- 1957: Sputnik 1 becomes the first artificial satellite to orbit the Earth.
+- 1941: Norman Rockwell's Willie Gillis character debuts on the cover of The Saturday Evening Post.
+- 1936: The Metropolitan Police and various anti-fascist organizations violently clash in the Battle of Cable Street.
+- 1927: Gutzon Borglum begins sculpting Mount Rushmore.
+- 1925: S2, a Finnish Sokol class torpedo boat, sinks during a fierce storm near the coast of Pori in the Gulf of Bothnia, taking with it the whole crew of 53.
+- 1925: Great Syrian Revolt: Rebels led by Fawzi al-Qawuqji capture Hama from the French Mandate of Syria.
+- 1920: The Mannerheim League for Child Welfare, a Finnish non-governmental organization, is founded on the initiative of Sophie Mannerheim.
+- 1918: World War I: An explosion kills more than 100 people and destroys a Shell Loading Plant in New Jersey.
+- 1917: World War I: The Battle of Broodseinde is fought between the British and German armies in Flanders.
+- 1895: Horace Rawlins wins the first U.S. Open Men's Golf Championship.
 
 Data from muffinlabs
-*(Updated at: 2026-10-03 04:30:12 UTC)*
+*(Updated at: 2026-10-04 05:01:06 UTC)*
 
 # 历史上的今天 
 
-- - 2024年：印度政府给予孟加拉语、阿萨姆语、马拉地语、巴利语和普拉克里特语古典语言地位
-- - 2023 年：Wab Kinew 在 2023 年曼尼托巴省大选中当选为加拿大省第一位原住民省长
-- - 2022 年：Svante Pääbo 荣获诺贝尔生理学或医学奖。
-- - 2021 年：意大利米兰附近发生飞机失事，造成 8 人死亡。
-- - 2015 年：阿富汗昆都士医院空袭造成 42 人死亡、33 人失踪。
-- - 2013 年：意大利兰佩杜萨岛附近的船只沉没，至少 360 名移民丧生。
-- - 2009年：阿塞拜疆、哈萨克斯坦、吉尔吉斯斯坦和土耳其加入突厥委员会。
-- - 2008 年：乔治·W·布什总统签署了美国金融体系《2008 年紧急经济稳定法案》。
-- - 1995 年：O.J. 辛普森谋杀案：O.J. 辛普森因谋杀妮可·布朗·辛普森和罗纳德·戈德曼而被无罪释放。
-- - 1993年：美国对摩加迪沙军阀的袭击失败；18 名美国士兵和 350 多名索马里人死亡。
-- - 1991 年：纳丁·戈迪默被宣布为诺贝尔文学奖获得者。
-- - 1990年：德意志民主共和国被废除，成为德意志联邦共和国的一部分；该活动后来被庆祝为德国统一日。
-- - 1989年：巴拿马城政变被镇压，11名参与者被处决。
-- - 1986 年：加拿大 Chalk River 实验室的超导回旋加速器 TASCC 正式启用。
-- - 1985 年：亚特兰蒂斯号航天飞机首次飞行，搭载 STS-51-J 上的两颗 DSCS-III 卫星。
-- - 1981 年：北爱尔兰迷宫监狱的绝食抗议在七个月和十人死亡后结束。
-- - 1963 年：洪都拉斯发生暴力政变，开始了二十年的军事统治。
-- - 1962 年：水星计划：美国宇航员 Wally Schirra 乘坐 Sigma 7 从卡纳维拉尔角发射升空，进行六轨道飞行。
-- - 1957 年：加利福尼亚州高等法院裁定《嚎叫和其他诗歌》一书不属于淫秽作品。
-- - 1952年：英国在西澳大利亚蒙特贝罗群岛成功试验核武器，成为世界第三个核国家。
-- - 1951 年：朝鲜战争：第一次马良山战役，英联邦军队与中国共产党军队对峙。
-- - 1949 年：美国第一家黑人拥有的广播电台 WERD 在亚特兰大成立。
-- - 1946 年：美国海外航空公司的一架道格拉斯 DC-4 飞机在加拿大纽芬兰和拉布拉多省斯蒂芬维尔的欧内斯特哈蒙空军基地附近坠毁，造成 39 人死亡。
-- - 1943 年：第二次世界大战：德国军队在希腊林吉亚德斯杀害了 92 名平民。
-- - 1942 年：德国 V-2 火箭达到创纪录的 85 公里（46 海里）高度。
-- - 1935 年：第二次意大利-阿比西尼亚战争：意大利入侵埃塞俄比亚。
-- - 1932 年：伊拉克王国从英国独立。
-- - 1929年：亚历山大一世国王将塞尔维亚、克罗地亚和斯洛文尼亚王国更名为南斯拉夫。
-- - 1919 年：辛辛那提红人队投手阿道夫·卢克 (Adolfo Luque) 成为第一位参加世界大赛的拉丁美洲球员。
-- - 1918 年：保加利亚沙皇鲍里斯三世即位。
+- - 2017 年：尼日尔-美国联合特种部队在 Tongo Tongo 村外遭到伊斯兰国武装分子伏击。
+- - 2010年：匈牙利Ajka工厂事故释放了100万立方米液态氧化铝污泥，造成9人死亡、122人受伤，并严重污染了两条主要河流。
+- - 2006 年：维基解密推出。
+- - 2004 年：SpaceShipOne 荣获私人航天领域的 Ansari X 奖。
+- - 2003 年：以色列马克西姆餐厅发生自杀式爆炸事件，造成 21 名以色列人死亡，其中包括犹太人和阿拉伯人。
+- - 2001 年：西伯利亚航空公司 1812 号航班被一枚错误的乌克兰导弹击中后坠毁。七十八人被杀。
+- - 1997 年：美国历史上第二大现金抢劫案发生在北卡罗来纳州。
+- - 1993 年：坦克轰炸俄罗斯议会，反对叶利钦总统的示威者在议会外集会。
+- - 1993 年：摩加迪沙战役造成 18 名美国特种部队、两名联合国维和人员以及至少 600 名索马里民兵和平民死亡。
+- - 1992 年：以色列航空 1862 号航班撞入阿姆斯特丹的两栋公寓楼，造成 43 人死亡，其中包括地面上的 39 人。
+- - 1992 年：罗马和平协议结束了莫桑比克长达 16 年的内战。
+- - 1991年：《南极条约》环境保护议定书开放签署。
+- - 1985 年：自由软件基金会成立。
+- - 1983 年：Richard Noble 在内华达州黑岩沙漠创下了 633.468 英里/小时（1,019.468 公里/小时）的新陆地速度记录。
+- - 1967 年：文莱国王奥马尔·阿里·赛义夫丁三世退位给他的儿子。
+- - 1966年：巴苏托兰从英国独立并更名为莱索托。
+- - 1965 年：教皇保罗六世开始对美洲的首次教皇访问。
+- - 1963 年：飓风弗洛拉在古巴和海地造成 6,000 人死亡。
+- - 1960 年：东方航空公司 375 号航班在从波士顿洛根国际机场起飞时坠毁，机上 72 人中的 62 人丧生。
+- - 1958年：法国现行宪法获得通过。
+- - 1957 年：人造卫星 1 号成为第一颗绕地球运行的人造卫星。
+- - 1941 年：诺曼·洛克威尔 (Norman Rockwell) 饰演的威利·吉利斯 (Willie Gillis) 角色首次登上《周六晚邮报》封面。
+- - 1936年：伦敦警察厅与各反法西斯组织在凯布尔街之战中发生激烈冲突。
+- - 1927 年：格曾·博格勒姆开始雕刻拉什莫尔山。
+- - 1925 年：芬兰索科尔级鱼雷艇 S2 在波的尼亚湾波里海岸附近的一场猛烈风暴中沉没，全体 53 名船员全部沉没。
+- - 1925 年：叙利亚大起义：Fawzi al-Qawuqji 领导的叛军从法国托管下的叙利亚夺取了哈马。
+- - 1920 年：芬兰非政府组织曼纳海姆儿童福利联盟在索菲·曼纳海姆的倡议下成立。
+- - 1918 年：第一次世界大战：一场爆炸造成 100 多人死亡，新泽西州的一家装弹厂被毁。
+- - 1917 年：第一次世界大战：英国和德国军队在佛兰德斯爆发了布鲁德塞因德战役。
+- - 1895 年：Horace Rawlins 赢得首届美国公开赛男子高尔夫锦标赛。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-10-03 04:30:12 UTC）*
+*（更新于: 2026-10-04 05:01:06 UTC）*
