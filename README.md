@@ -1,71 +1,71 @@
 # History of Today 
 
-- 2021: Windows 11 is released to the general public.
-- 2011: In the Mekong River massacre, two Chinese cargo boats are hijacked and 13 crew members murdered.
-- 2000: Mass demonstrations in Serbia force the resignation of Slobodan Milošević.
-- 1999: The Ladbroke Grove rail crash in West London kills 31 people.
-- 1994: Swiss police find the bodies of 48 members of the Order of the Solar Temple, who had died in a cult mass murder-suicide.
-- 1991: An Indonesian Air Force C-130 crash kills 135 people.
-- 1990: After 150 years The Herald newspaper in Melbourne, Australia, is published for the last time as a separate newspaper.
-- 1988: A Chilean opposition coalition defeats Augusto Pinochet in his re-election attempt.
-- 1985: Seven Israeli vacationers, including four children, are killed in a mass shooting at Ras Burqa in the Sinai Peninsula by an Egyptian soldier.
-- 1984: Marc Garneau becomes the first Canadian in space.
-- 1982: Tylenol products are recalled after bottles in Chicago laced with cyanide cause seven deaths.
-- 1974: Bombs planted by the PIRA in pubs in Guildford kill four British soldiers and one civilian.
-- 1970: The British Trade Commissioner, James Cross, is kidnapped by members of the Front de libération du Québec, triggering the October Crisis in Canada.
-- 1970: The Public Broadcasting Service (PBS) is founded in the United States.[citation needed]
-- 1968: A Northern Ireland Civil Rights Association march in Derry is violently suppressed by police.
-- 1966: A reactor at the Enrico Fermi Nuclear Generating Station near Detroit suffers a partial meltdown.
-- 1963: The United States suspends the Commercial Import Program in response to repression of the Buddhist majority by the regime of President Ngo Dinh Diem.
-- 1962: The first Beatles single "Love Me Do" is released in Britain.
-- 1962: The first of the James Bond film series, based on the novels by Ian Fleming, Dr. No, is released in Britain.
-- 1947: President Truman makes the first televised Oval Office address.
-- 1945: A six-month strike by Hollywood set decorators turns into a bloody riot at the gates of the Warner Brothers studio.
-- 1944: The Provisional Government of the French Republic enfranchises women.
-- 1943: World War II: Pacific Theater: Ninety-eight American POWs are executed by Japanese forces on Wake Island.
-- 1938: Holocaust: In Nazi Germany, Jews' passports are invalidated.
-- 1936: The Jarrow March sets off for London.
-- 1931: Clyde Edward Pangborn and Hugh Herndon, Jr. make the first nonstop flight across the Pacific Ocean in the plane Miss Veedol.
-- 1930: British airship R101 crashes in France en route to India on its maiden voyage killing 48 people.
-- 1921: The World Series is the first to be broadcast on radio.[citation needed]
-- 1914: World War I: An aircraft successfully destroys another aircraft with gunfire for the first time.
-- 1911: The Kowloon-Canton Railway commences service.
+- 2025: The 2025 Alberta teachers' strike begins, leaving approximately 51,000 teachers off-work, impacting about 730,000 Albertan students.
+- 2022: Annie Ernaux is awarded the Nobel Prize in Literature.
+- 2018: The United States Senate confirms Brett Kavanaugh as a Supreme Court Associate Justice, ending a contentious confirmation process.
+- 2010: Instagram, a mainstream photo-sharing application, is founded.
+- 2007: Jason Lewis completes the first human-powered circumnavigation of the Earth.
+- 1995: The first planet orbiting another sun, 51 Pegasi b, is discovered.
+- 1990: Space Shuttle Discovery is launched on STS-41, and deploys the Ulysses space probe to study the Sun's polar regions.
+- 1987: Fiji becomes a republic.
+- 1985: Police constable Keith Blakelock is murdered as riots erupt in the Broadwater Farm suburb of London.
+- 1981: NLM CityHopper Flight 431 crashes in Moerdijk after taking off from Rotterdam The Hague Airport in the Netherlands, killing all 17 people on board.
+- 1981: Egyptian President Anwar Sadat is murdered by Islamic extremists.
+- 1979: Pope John Paul II becomes the first pontiff to visit the White House.
+- 1977: The first prototype of the Mikoyan MiG-29, designated 9-01, makes its maiden flight.
+- 1976: Dozens are killed by Thai police and right-wing paramilitaries in the Thammasat University massacre; afterwards, the Seni Pramoj government is toppled in a military coup led by Sangad Chaloryu.
+- 1976: Premier Hua Guofeng arrests the Gang of Four, ending the Cultural Revolution in China.
+- 1976: Cubana de Aviación Flight 455 is destroyed by two bombs, placed on board by an anti-Castro militant group.
+- 1973: Egypt and Syria launch coordinated attacks against Israel, beginning the Yom Kippur War.
+- 1944: World War II: Units of the 1st Czechoslovak Army Corps enter Czechoslovakia during the Battle of the Dukla Pass.
+- 1943: World War II: Thirteen civilians are burnt alive by a paramilitary group in Crete during the Nazi occupation of Greece.
+- 1942: World War II: American troops force the Japanese from their positions east of the Matanikau River during the Battle of Guadalcanal.
+- 1939: World War II: The Battle of Kock is the final combat of the September Campaign in Poland.
+- 1934: Revolution of 1934: The President of the autonomous government of Catalonia, Lluís Companys, proclaims the Catalan State with the support of the Worker's Alliance.
+- 1927: Opening of The Jazz Singer, the first prominent "talkie" movie.
+- 1923: The Turkish National Movement enters Constantinople.
+- 1920: Ukrainian War of Independence: The Starobilsk agreement is signed by representatives of the Ukrainian Soviet Socialist Republic and the Makhnovshchina.
+- 1915: World War I: Entente forces land in Thessaloniki, to open the Macedonian front against the Central Powers.
+- 1915: World War I: Combined Austro-Hungarian and German Central Powers, reinforced by the recently joined Bulgaria launched a new offensive against Serbia under command of August von Mackensen.
+- 1910: Eleftherios Venizelos is elected Prime Minister of Greece for the first of seven times.
+- 1908: The Bosnian crisis erupts when Austria-Hungary formally annexes Bosnia and Herzegovina.
+- 1903: The High Court of Australia sits for the first time.
 
 Data from muffinlabs
-*(Updated at: 2026-10-05 04:47:46 UTC)*
+*(Updated at: 2026-10-06 05:34:42 UTC)*
 
 # 历史上的今天 
 
-- - 2021 年：Windows 11 向公众发布。
-- - 2011年：湄公河大屠杀，两艘中国货船被劫持，13名船员被杀害。
-- - 2000年：塞尔维亚的大规模示威迫使斯洛博丹·米洛舍维奇辞职。
-- - 1999 年：伦敦西部的 Ladbroke Grove 铁路事故造成 31 人死亡。
-- - 1994 年：瑞士警方发现了 48 名太阳圣殿骑士团成员的尸体，他们死于邪教大规模谋杀自杀事件中。
-- - 1991 年：印度尼西亚空军 C-130 坠毁，造成 135 人死亡。
-- - 1990 年：150 年后，澳大利亚墨尔本的《先驱报》最后一次作为独立报纸出版。
-- - 1988 年：智利反对派联盟在奥古斯托·皮诺切特的连任竞选中击败了他。
-- - 1985 年： 7 名以色列度假者（包括 4 名儿童）在西奈半岛的 Ras Burqa 遭一名埃及士兵大规模枪击身亡。
-- - 1984 年：Marc Garneau 成为第一位进入太空的加拿大人。
-- - 1982 年：在芝加哥，含有氰化物的瓶子导致 7 人死亡，泰诺产品被召回。
-- - 1974 年：PIRA 在吉尔福德的酒吧放置的炸弹杀死了四名英国士兵和一名平民。
-- - 1970年：英国贸易专员詹姆斯·克罗斯被魁北克解放阵线成员绑架，引发加拿大十月危机。
-- - 1970 年：公共广播服务 (PBS) 在美国成立。[需要引用]
-- - 1968 年：北爱尔兰民权协会在德里举行的游行遭到警察的暴力镇压。
-- - 1966 年：底特律附近的恩里科费米核电站的一座反应堆发生部分熔毁。
-- - 1963 年：美国暂停商业进口计划，以回应吴庭艳总统政权对占多数的佛教徒的镇压。
-- - 1962 年：披头士乐队的第一首单曲“Love Me Do”在英国发行。
-- - 1962 年：根据伊恩·弗莱明的小说《诺博士》改编的詹姆斯·邦德系列电影的第一部在英国上映。
-- - 1947 年：杜鲁门总统首次在椭圆形办公室发表电视讲话。
-- - 1945 年：好莱坞布景师为期六个月的罢工演变成华纳兄弟工作室门口的血腥骚乱。
-- - 1944 年：法兰西共和国临时政府赋予妇女选举权。
-- - 1943 年：第二次世界大战：太平洋战区：98 名美国战俘在威克岛被日军处决。
-- - 1938 年：大屠杀：在纳粹德国，犹太人的护照被作废。
-- - 1936 年：贾罗游行队伍出发前往伦敦。
-- - 1931 年：克莱德·爱德华·潘伯恩 (Clyde Edward Pangborn) 和小休·赫恩登 (Hugh Herndon, Jr.) 驾驶 Miss Veedol 飞机首次直飞太平洋。
-- - 1930 年：英国 R101 飞艇在前往印度的处女航途中在法国坠毁，造成 48 人死亡。
-- - 1921 年：世界大赛首次在广播中播出。[需要引用]
-- - 1914年：第一次世界大战：一架飞机首次成功用炮火摧毁另一架飞机。
-- - 1911年：九广铁路投入服务。
+- - 2025年：2025年艾伯塔省教师罢工开始，导致约51,000名教师失业，影响约730,000名艾伯塔省学生。
+- - 2022 年：安妮·埃尔诺 (Annie Ernaux) 荣获诺贝尔文学奖。
+- - 2018 年：美国参议院确认布雷特·卡瓦诺 (Brett Kavanaugh) 担任最高法院副法官，结束了有争议的确认程序。
+- - 2010年：主流照片分享应用Instagram成立。
+- - 2007 年：贾森·刘易斯 (Jason Lewis) 完成了首次人力环球航行。
+- - 1995 年：第一颗绕另一个太阳运行的行星 51 Pegasi b 被发现。
+- - 1990 年：发现号航天飞机在 STS-41 上发射，并部署尤利西斯太空探测器来研究太阳的极地区域。
+- - 1987 年：斐济成为共和国。
+- - 1985 年：伦敦郊区布罗德沃特农场爆发骚乱，警员基思·布莱克洛克 (Keith Blakelock) 被谋杀。
+- - 1981 年：NLM CityHopper 431 航班从荷兰鹿特丹海牙机场起飞后在 Moerdijk 坠毁，机上 17 人全部遇难。
+- - 1981年：埃及总统安瓦尔·萨达特被伊斯兰极端分子谋杀。
+- - 1979 年：教皇约翰·保罗二世成为第一位访问白宫的教皇。
+- - 1977 年：米高扬 MiG-29 的第一架原型机（编号为 9-01）首次飞行。
+- - 1976年：泰国法政大学大屠杀中，数十人被泰国警察和右翼准军事部队杀害；随后，桑加德·查洛留领导的军事政变推翻了塞尼·普拉莫政府。
+- - 1976年：华国锋总理逮捕了“四人帮”，结束了中国的文化大革命。
+- - 1976 年：古巴航空 455 号航班被反卡斯特罗武装组织在机上放置的两枚炸弹摧毁。
+- - 1973 年：埃及和叙利亚对以色列发动协同攻击，赎罪日战争爆发。
+- - 1944 年：第二次世界大战：捷克斯洛伐克第一军团的部队在杜克拉山口战役期间进入捷克斯洛伐克。
+- - 1943 年：第二次世界大战：纳粹占领希腊期间，克里特岛的一个准军事组织活活烧死了 13 名平民。
+- - 1942 年：第二次世界大战：瓜达尔卡纳尔岛战役期间，美国军队将日本人从马塔尼考河以东的阵地驱逐出去。
+- - 1939 年：第二次世界大战：科克战役是波兰九月战役的最后一场战斗。
+- - 1934 年：1934 年革命：加泰罗尼亚自治政府主席路易斯·康尼斯 (Lluís Companys) 在工人联盟的支持下宣布成立加泰罗尼亚国家。
+- - 1927 年：第一部著名的“有声电影”电影《爵士歌手》上映。
+- - 1923 年：土耳其民族运动进入君士坦丁堡。
+- - 1920年：乌克兰独立战争：乌克兰苏维埃社会主义共和国和马赫诺运动的代表签署了《旧比尔斯克协议》。
+- - 1915 年：第一次世界大战：协约国军队在塞萨洛尼基登陆，开辟马其顿对抗同盟国的战线。
+- - 1915 年：第一次世界大战：奥匈帝国和德国同盟国联合起来，在最近加入的保加利亚的支持下，在奥古斯特·冯·马肯森的指挥下对塞尔维亚发起了新的攻势。
+- - 1910 年：埃莱夫塞里奥斯·韦尼泽洛斯 (Eleftherios Venizelos) 七次当选希腊总理，这是他第一次当选。
+- - 1908年：奥匈帝国正式吞并波斯尼亚和黑塞哥维那，波斯尼亚危机爆发。
+- - 1903 年：澳大利亚高等法院首次开庭。
 
 数据来源于muffinlabs并由googletrans自动翻译
-*（更新于: 2026-10-05 04:47:46 UTC）*
+*（更新于: 2026-10-06 05:34:42 UTC）*
